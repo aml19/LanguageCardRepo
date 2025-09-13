@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>My Assets</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 2rem; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1rem; }
+    img, audio { width: 100%; max-width: 320px; }
+    code { background: #f6f8fa; padding: 2px 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>My Assets</h1>
+  <p>Images are under <code>/images/</code>, audio under <code>/audio/</code>.</p>
+
+  <h2>Examples</h2>
+  <div class="grid">
+    <div>
+      <h3>Image</h3>
+      <img src="./images/pic1.jpg" alt="pic1">
+      <p>GET <code>/images/pic1.jpg</code></p>
+    </div>
+    <div>
+      <h3>Audio</h3>
+      <audio controls src="./audio/beep.mp3"></audio>
+      <p>GET <code>/audio/beep.mp3</code></p>
+    </div>
+  </div>
+
+  <!-- Optional: load a small manifest so your app (or this page) knows what's available -->
+  <script>
+  fetch('./data/index.json')
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(manifest => {
+      console.log('Manifest:', manifest);
+      // you could dynamically render a list here if you like
+    })
+    .catch(() => {});
+  </script>
+</body>
+</html>
