@@ -2,42 +2,191 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>My Assets</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>App Assets – Audio & Image Lookup</title>
   <style>
-    body { font-family: system-ui, sans-serif; margin: 2rem; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1rem; }
-    img, audio { width: 100%; max-width: 320px; }
-    code { background: #f6f8fa; padding: 2px 6px; border-radius: 4px; }
+    :root { --gap: 1rem; }
+    * { box-sizing: border-box; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 2rem; line-height: 1.4; }
+    h1 { margin-bottom: .25rem; }
+    .sub { color: #666; margin-top: 0; }
+    .wrap { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: var(--gap); margin-top: 1.5rem; }
+    .card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 1rem; box-shadow: 0 1px 2px rgba(0,0,0,.04); }
+    label { font-weight: 600; display: block; margin-bottom: .5rem; }
+    .row { display: flex; gap: .5rem; }
+    input[type="text"] { flex: 1; padding: .6rem .7rem; border-radius: 10px; border: 1px solid #cbd5e1; }
+    button { padding: .6rem 1rem; border: 1px solid #0ea5e9; background: #0ea5e9; color: white; border-radius: 10px; cursor: pointer; }
+    button:disabled { opacity: .6; cursor: not-allowed; }
+    .hint { font-size: .9rem; color: #666; margin-top: .5rem; }
+    .media { margin-top: .75rem; width: 100%; }
+    img.preview { max-width: 100%; height: auto; border-radius: 10px; border: 1px solid #e5e7eb; }
+    .ok { color: #059669; }
+    .err { color: #dc2626; }
+    .status { min-height: 1.25rem; margin-top: .25rem; font-size: .9rem; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    details { margin-top: 1rem; }
+    code { background: #f6f8fa; padding: 2px 6px; border-radius: 6px; }
   </style>
 </head>
 <body>
-  <h1>My Assets</h1>
-  <p>Images are under <code>/images/</code>, audio under <code>/audio/</code>.</p>
+  <h1>Static Assets</h1>
+  <p class="sub">Files are served from <code class="mono">./audio/</code> and <code class="mono">./images/</code>. Enter a filename and hit the button (or press Enter).</p>
 
-  <h2>Examples</h2>
-  <div class="grid">
-    <div>
-      <h3>Image</h3>
-      <img src="./images/pic1.jpg" alt="pic1">
-      <p>GET <code>/images/pic1.jpg</code></p>
-    </div>
-    <div>
-      <h3>Audio</h3>
-      <audio controls src="./audio/beep.mp3"></audio>
-      <p>GET <code>/audio/beep.mp3</code></p>
-    </div>
+  <div class="wrap">
+    <!-- AUDIO LOOKUP -->
+    <section class="card" id="audioCard">
+      <label for="audioName">Find & play an audio file (in <span class="mono">/audio</span>)</label>
+      <form class="row" id="audioForm">
+        <input id="audioName" type="text" placeholder="beep.mp3" list="audio-list" autocomplete="off" />
+        <button id="audioBtn" type="submit">Play</button>
+      </form>
+      <div id="audioStatus" class="status" aria-live="polite"></div>
+      <audio id="audioPlayer" class="media" controls preload="none"></audio>
+      <datalist id="audio-list"></datalist>
+      <p class="hint">Example: <code class="mono">beep.mp3</code> → resolves to <code class="mono">./audio/beep.mp3</code></p>
+    </section>
+
+    <!-- IMAGE LOOKUP -->
+    <section class="card" id="imageCard">
+      <label for="imageName">Find & display an image (in <span class="mono">/images</span>)</label>
+      <form class="row" id="imageForm">
+        <input id="imageName" type="text" placeholder="pic1.jpg" list="image-list" autocomplete="off" />
+        <button id="imageBtn" type="submit">Show</button>
+      </form>
+      <div id="imageStatus" class="status" aria-live="polite"></div>
+      <div class="media">
+        <img id="imgPreview" class="preview" alt="Image preview will appear here" />
+      </div>
+      <datalist id="image-list"></datalist>
+      <p class="hint">Example: <code class="mono">logo.png</code> → resolves to <code class="mono">./images/logo.png</code></p>
+    </section>
   </div>
 
-  <!-- Optional: load a small manifest so your app (or this page) knows what's available -->
+  <details>
+    <summary>How this works</summary>
+    <ul>
+      <li>Builds a URL relative to this page (e.g. <code>./audio/&lt;file&gt;</code>).</li>
+      <li>Checks existence using a <code>HEAD</code> request (no download).</li>
+      <li>If found, sets the <code>&lt;audio&gt;</code> or <code>&lt;img&gt;</code> <code>src</code>.</li>
+      <li>Optionally loads <code>./data/index.json</code> to auto-suggest filenames.</li>
+    </ul>
+  </details>
+
   <script>
-  fetch('./data/index.json')
-    .then(r => r.ok ? r.json() : Promise.reject(r.status))
-    .then(manifest => {
-      console.log('Manifest:', manifest);
-      // you could dynamically render a list here if you like
-    })
-    .catch(() => {});
+    const q = (sel) => document.querySelector(sel);
+    const audioForm = q('#audioForm');
+    const audioInput = q('#audioName');
+    const audioBtn = q('#audioBtn');
+    const audioPlayer = q('#audioPlayer');
+    const audioStatus = q('#audioStatus');
+
+    const imageForm = q('#imageForm');
+    const imageInput = q('#imageName');
+    const imageBtn = q('#imageBtn');
+    const imgPreview = q('#imgPreview');
+    const imageStatus = q('#imageStatus');
+
+    function cacheBust(url) {
+      const u = new URL(url, document.baseURI);
+      u.searchParams.set('_', Date.now().toString());
+      return u.toString();
+    }
+
+    function buildUrl(folder, file) {
+      file = (file || '').trim().replace(/^\/+/, '');
+      if (!file) return null;
+      return new URL(`${folder}/${file}`, document.baseURI).toString();
+    }
+
+    async function exists(url) {
+      const res = await fetch(url, { method: 'HEAD', cache: 'no-store' });
+      return res.ok;
+    }
+
+    // AUDIO submit
+    audioForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      audioStatus.textContent = '';
+      const url = buildUrl('audio', audioInput.value);
+      if (!url) {
+        audioStatus.textContent = 'Enter a filename (e.g., beep.mp3).';
+        audioStatus.className = 'status err';
+        return;
+      }
+      audioBtn.disabled = true;
+      try {
+        const ok = await exists(url);
+        if (!ok) throw new Error('Not found');
+        audioPlayer.src = cacheBust(url);
+        await audioPlayer.play().catch(() => {});
+        audioStatus.textContent = 'Playing: ' + new URL(url).pathname;
+        audioStatus.className = 'status ok';
+      } catch (err) {
+        audioPlayer.removeAttribute('src');
+        audioPlayer.load();
+        audioStatus.textContent = 'Audio not found: ' + new URL(url).pathname;
+        audioStatus.className = 'status err';
+      } finally {
+        audioBtn.disabled = false;
+      }
+    });
+
+    // IMAGE submit
+    imageForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      imageStatus.textContent = '';
+      const url = buildUrl('images', imageInput.value);
+      if (!url) {
+        imageStatus.textContent = 'Enter a filename (e.g., pic1.jpg).';
+        imageStatus.className = 'status err';
+        return;
+      }
+      imageBtn.disabled = true;
+      try {
+        const ok = await exists(url);
+        if (!ok) throw new Error('Not found');
+        imgPreview.onerror = () => {
+          imageStatus.textContent = 'Failed to load image.';
+          imageStatus.className = 'status err';
+        };
+        imgPreview.onload = () => {
+          imageStatus.textContent = 'Loaded: ' + new URL(url).pathname;
+          imageStatus.className = 'status ok';
+        };
+        imgPreview.src = cacheBust(url);
+      } catch (err) {
+        imgPreview.removeAttribute('src');
+        imageStatus.textContent = 'Image not found: ' + new URL(url).pathname;
+        imageStatus.className = 'status err';
+      } finally {
+        imageBtn.disabled = false;
+      }
+    });
+
+    // Optional: hydrate suggestions from ./data/index.json if present
+    (async function loadManifest() {
+      try {
+        const res = await fetch('./data/index.json', { cache: 'no-store' });
+        if (!res.ok) return;
+        const manifest = await res.json();
+        const aud = Array.isArray(manifest.audio) ? manifest.audio : [];
+        const imgs = Array.isArray(manifest.images) ? manifest.images : [];
+        const audioList = q('#audio-list');
+        const imageList = q('#image-list');
+        aud
+          .map(p => p.replace(/^\/?audio\//, ''))
+          .forEach(name => {
+            const opt = document.createElement('option');
+            opt.value = name; audioList.appendChild(opt);
+          });
+        imgs
+          .map(p => p.replace(/^\/?images\//, ''))
+          .forEach(name => {
+            const opt = document.createElement('option');
+            opt.value = name; imageList.appendChild(opt);
+          });
+      } catch (_) { /* no manifest – silently ignore */ }
+    })();
   </script>
 </body>
 </html>
