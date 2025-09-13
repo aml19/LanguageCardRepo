@@ -1,0 +1,38 @@
+[
+    {
+        "level": 10.0,
+        "image_filename": "windy.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "german",
+        "native_group": "sustantivo - en una casa",
+        "native_answer": "viento",
+        "native_word": "sustantivo - tiempo y clima",
+        "tag": "sustantivo - tiempo y clima",
+        "prompt": "______",
+        "answer": "Wind",
+        "goal_words": "Wind",
+        "audio_filename": "line5_de_607.mp3",
+        "audio_dir": "Wind"
+    },
+    {
+        "level": 10.0,
+        "image_filename": "windy.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "german",
+        "native_group": "sustantivo - en una casa",
+        "native_answer": "ventoso",
+        "native_word": "adjetivo - clima",
+        "tag": "adjetivo - clima",
+        "prompt": "______",
+        "answer": "windig",
+        "goal_words": "windig",
+        "audio_filename": "line5_de_609.mp3",
+        "audio_dir": "windig"
+    }
+]

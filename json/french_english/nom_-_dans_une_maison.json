@@ -1,0 +1,38 @@
+[
+    {
+        "level": 10.0,
+        "image_filename": "windy.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "french",
+        "learning_language": "english",
+        "native_group": "nom - dans une maison",
+        "native_answer": "vent",
+        "native_word": "nom - météo et climat",
+        "tag": "nom - météo et climat",
+        "prompt": "______",
+        "answer": "wind",
+        "goal_words": "wind",
+        "audio_filename": "line5_en_114.mp3",
+        "audio_dir": "wind"
+    },
+    {
+        "level": 10.0,
+        "image_filename": "windy.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "french",
+        "learning_language": "english",
+        "native_group": "nom - dans une maison",
+        "native_answer": "venteux",
+        "native_word": "adjectif - météo",
+        "tag": "adjectif - météo",
+        "prompt": "______",
+        "answer": "windy",
+        "goal_words": "windy",
+        "audio_filename": "line5_en_116.mp3",
+        "audio_dir": "windy"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "level": 10.0,
+        "image_filename": "oldyoung.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "zufällig",
+        "native_answer": "alt jung",
+        "native_word": "Gegensätze - Adjektiv",
+        "tag": "Gegensätze - Adjektiv",
+        "prompt": "old ______",
+        "answer": "old young",
+        "goal_words": "young",
+        "audio_filename": "line3_en_17.mp3",
+        "audio_dir": "old young"
+    }
+]

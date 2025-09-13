@@ -1,0 +1,20 @@
+[
+    {
+        "level": 3.0,
+        "image_filename": "play_p.jpg",
+        "card_type": "conjugation",
+        "identifier": "ID",
+        "info": "The grammar used in French to express actions using the gerund form involves several aspects of the language, including verb conjugation, noun phrases, and sentence structure. Here's a general overview of the grammar used:\n\nVerb Conjugation: In French, verbs change forms depending on the subject and tense. When forming the gerund, the auxiliary verb \"en train de\" is often used along with the present participle of the main verb. For example:\n\n\"Il chante\" (He sings) becomes \"Il est en train de chanter\" (He is singing).\n\"Elle dort\" (She sleeps) becomes \"Elle est en train de dormir\" (She is sleeping).\nNoun Phrases: In French, nouns and noun phrases may undergo agreement with other elements in the sentence, such as adjectives or determiners. When using the gerund, the noun phrase typically follows the pattern:\n\nDefinite article (le, la, les) + noun + present participle.\nFor example: \"La fille qui dort\" (The sleeping girl), \"L'homme qui chante\" (The singing man).\nSentence Structure: French sentences may have a different word order compared to English. The gerund construction often follows the same subject-verb-object order as the corresponding simple sentence. For example:\n\n\"She was cooking dinner when I arrived.\" translates to \"Elle cuisinait le dîner quand je suis arrivé(e).\"\n\"The baby was crying loudly in the next room.\" translates to \"Le bébé pleurait fort dans la pièce d'à côté.\"\nAspect and Agreement: The gerund in French doesn't inherently carry aspectual distinctions (like continuous aspect in English). Instead, it generally indicates ongoing action without specifying aspect. Additionally, French nouns and adjectives must agree in gender and number with the subject they modify. For example:\n\n\"Le bébé pleurait fort\" (The baby was crying loudly) - Here, \"bébé\" is singular masculine, so \"fort\" (loudly) remains in its masculine singular form.\n\"La fille qui dort\" (The sleeping girl) - Here, \"fille\" is singular feminine, so \"qui dort\" (who is sleeping) agrees with it in gender and number.\nUnderstanding these aspects of French grammar helps in correctly constructing sentences using the gerund form and ensures coherence and accuracy in communication.",
+        "native_language": "spanish",
+        "learning_language": "french",
+        "native_group": "gerundio (ing) 2",
+        "native_answer": "Pasaron la tarde en el parque, jugando felizmente.",
+        "native_word": "frases adverbiales",
+        "tag": "frases adverbiales",
+        "prompt": "Ils ont passé l'après-midi au parc, ______ joyeusement.",
+        "answer": "Ils ont passé l'après-midi au parc, jouant joyeusement.",
+        "goal_words": "jouant",
+        "audio_filename": "line2_fr_758.mp3",
+        "audio_dir": "Ils ont passé l'après-midi au parc, jouant joyeusement."
+    }
+]

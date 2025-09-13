@@ -1,0 +1,38 @@
+[
+    {
+        "level": 2.0,
+        "image_filename": "thirsty.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "Adjetivos",
+        "native_answer": "sediento",
+        "native_word": "Emocion",
+        "tag": "Emocion",
+        "prompt": "______",
+        "answer": "thirsty",
+        "goal_words": "thirsty",
+        "audio_filename": "line4_en_419.mp3",
+        "audio_dir": "thirsty"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "tired.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "Adjetivos",
+        "native_answer": "cansado",
+        "native_word": "Emocion",
+        "tag": "Emocion",
+        "prompt": "______",
+        "answer": "tired",
+        "goal_words": "tired",
+        "audio_filename": "line4_en_445.mp3",
+        "audio_dir": "tired"
+    }
+]
