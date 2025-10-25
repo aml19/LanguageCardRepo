@@ -1,20 +1,20 @@
 [
     {
         "level": 2.0,
-        "image_filename": "wide_staircase.jpg",
+        "image_filename": "dark_road.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "Adjectives decline based on case, gender, number, and definiteness of the noun.\n\nThey are usually placed before the noun.\n\nThere are three types of adjective declensions: strong, weak, and mixed — depending on the presence of a determiner (e.g., der, ein).\n\nAdjectives take different endings depending on whether they follow definite articles, indefinite articles, or no article.\n\n",
         "native_language": "spanish",
         "learning_language": "german",
         "native_group": "adjetivos comunes",
-        "native_answer": "escalera ancha",
-        "native_word": "adjetivo - tamaño",
-        "tag": "adjetivo - tamaño",
-        "prompt": "______ Treppe",
-        "answer": "breite Treppe",
-        "goal_words": "breite",
-        "audio_filename": "line_de_402.mp3",
-        "audio_dir": "breite Treppe"
+        "native_answer": "camino oscuro",
+        "native_word": "adjetivo - apariencia",
+        "tag": "adjetivo - apariencia",
+        "prompt": "______ Straße",
+        "answer": "dunkle Straße",
+        "goal_words": "dunkle",
+        "audio_filename": "line2_de_523.mp3",
+        "audio_dir": "dunkle Straße"
     }
 ]

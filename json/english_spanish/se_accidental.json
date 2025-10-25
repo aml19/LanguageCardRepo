@@ -1,8 +1,8 @@
 [
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -14,13 +14,13 @@
         "prompt": "Olvidé las llaves – ______",
         "answer": "Olvidé las llaves – Se me olvidaron las llaves.",
         "goal_words": "Se me olvidaron las llaves.",
-        "audio_filename": "line4_es_414.mp3",
-        "audio_dir": "Olvidé las llaves – Se me olvidaron las llaves."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -32,13 +32,13 @@
         "prompt": "Perdí el teléfono – ______",
         "answer": "Perdí el teléfono – Se me perdió el teléfono.",
         "goal_words": "Se me perdió el teléfono.",
-        "audio_filename": "line4_es_528.mp3",
-        "audio_dir": "Perdí el teléfono – Se me perdió el teléfono."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -50,13 +50,13 @@
         "prompt": "Rompí el vaso – ______",
         "answer": "Rompí el vaso – Se me rompió el vaso.",
         "goal_words": "Se me rompió el vaso.",
-        "audio_filename": "line4_es_778.mp3",
-        "audio_dir": "Rompí el vaso – Se me rompió el vaso."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -68,13 +68,13 @@
         "prompt": "Tiré la leche – ______",
         "answer": "Tiré la leche – Se me cayó la leche.",
         "goal_words": "Se me cayó la leche.",
-        "audio_filename": "line5_es_60.mp3",
-        "audio_dir": "Tiré la leche – Se me cayó la leche."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -86,13 +86,13 @@
         "prompt": "Apagué la luz sin querer – ______",
         "answer": "Apagué la luz sin querer – Se me apagó la luz.",
         "goal_words": "Se me apagó la luz.",
-        "audio_filename": "line_es_375.mp3",
-        "audio_dir": "Apagué la luz sin querer – Se me apagó la luz."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -104,13 +104,13 @@
         "prompt": "Manché la camisa – ______",
         "answer": "Manché la camisa – Se me manchó la camisa.",
         "goal_words": "Se me manchó la camisa.",
-        "audio_filename": "line3_es_943.mp3",
-        "audio_dir": "Manché la camisa – Se me manchó la camisa."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -122,13 +122,13 @@
         "prompt": "Dañé el coche – ______",
         "answer": "Dañé el coche – Se me dañó el coche.",
         "goal_words": "Se me dañó el coche.",
-        "audio_filename": "line_es_716.mp3",
-        "audio_dir": "Dañé el coche – Se me dañó el coche."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -140,13 +140,13 @@
         "prompt": "Quedé sin dinero – ______",
         "answer": "Quedé sin dinero – Se me acabó el dinero.",
         "goal_words": "Se me acabó el dinero.",
-        "audio_filename": "line4_es_674.mp3",
-        "audio_dir": "Quedé sin dinero – Se me acabó el dinero."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -158,13 +158,13 @@
         "prompt": "Quemé el arroz – ______",
         "answer": "Quemé el arroz – Se me quemó el arroz.",
         "goal_words": "Se me quemó el arroz.",
-        "audio_filename": "line4_es_679.mp3",
-        "audio_dir": "Quemé el arroz – Se me quemó el arroz."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -176,13 +176,13 @@
         "prompt": "Salí sin paraguas – ______",
         "answer": "Salí sin paraguas – Se me olvidó el paraguas.",
         "goal_words": "Se me olvidó el paraguas.",
-        "audio_filename": "line4_es_792.mp3",
-        "audio_dir": "Salí sin paraguas – Se me olvidó el paraguas."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -194,13 +194,13 @@
         "prompt": "No traje la mochila – ______",
         "answer": "No traje la mochila – Se me quedó la mochila.",
         "goal_words": "Se me quedó la mochila.",
-        "audio_filename": "line4_es_141.mp3",
-        "audio_dir": "No traje la mochila – Se me quedó la mochila."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -212,13 +212,13 @@
         "prompt": "Ensucié el piso – ______",
         "answer": "Ensucié el piso – Se me ensució el piso.",
         "goal_words": "Se me ensució el piso.",
-        "audio_filename": "line2_es_974.mp3",
-        "audio_dir": "Ensucié el piso – Se me ensució el piso."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -230,13 +230,13 @@
         "prompt": "Descompuse la computadora – ______",
         "answer": "Descompuse la computadora – Se me descompuso la computadora.",
         "goal_words": "Se me descompuso la computadora.",
-        "audio_filename": "line_es_775.mp3",
-        "audio_dir": "Descompuse la computadora – Se me descompuso la computadora."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -248,13 +248,13 @@
         "prompt": "Rompí mis lentes – ______",
         "answer": "Rompí mis lentes – Se me rompieron los lentes.",
         "goal_words": "Se me rompieron los lentes.",
-        "audio_filename": "line4_es_779.mp3",
-        "audio_dir": "Rompí mis lentes – Se me rompieron los lentes."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -266,13 +266,13 @@
         "prompt": "Mojé el libro – ______",
         "answer": "Mojé el libro – Se me mojó el libro.",
         "goal_words": "Se me mojó el libro.",
-        "audio_filename": "line4_es_28.mp3",
-        "audio_dir": "Mojé el libro – Se me mojó el libro."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -284,13 +284,13 @@
         "prompt": "Entré tarde – ______",
         "answer": "Entré tarde – Se me hizo tarde.",
         "goal_words": "Se me hizo tarde.",
-        "audio_filename": "line2_es_982.mp3",
-        "audio_dir": "Entré tarde – Se me hizo tarde."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -302,13 +302,13 @@
         "prompt": "Perdí las llaves – ______",
         "answer": "Perdí las llaves – Se me perdieron las llaves.",
         "goal_words": "Se me perdieron las llaves.",
-        "audio_filename": "line4_es_529.mp3",
-        "audio_dir": "Perdí las llaves – Se me perdieron las llaves."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -320,13 +320,13 @@
         "prompt": "Manché el mantel – ______",
         "answer": "Manché el mantel – Se me manchó el mantel.",
         "goal_words": "Se me manchó el mantel.",
-        "audio_filename": "line3_es_942.mp3",
-        "audio_dir": "Manché el mantel – Se me manchó el mantel."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -338,13 +338,13 @@
         "prompt": "Desconecté la nevera – ______",
         "answer": "Desconecté la nevera – Se me desconectó la nevera.",
         "goal_words": "Se me desconectó la nevera.",
-        "audio_filename": "line_es_776.mp3",
-        "audio_dir": "Desconecté la nevera – Se me desconectó la nevera."
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -356,7 +356,7 @@
         "prompt": "Olvidé su nombre – ______",
         "answer": "Olvidé su nombre – Se me olvidó su nombre.",
         "goal_words": "Se me olvidó su nombre.",
-        "audio_filename": "line4_es_415.mp3",
-        "audio_dir": "Olvidé su nombre – Se me olvidó su nombre."
+        "audio_filename": "",
+        "audio_dir": ""
     }
 ]

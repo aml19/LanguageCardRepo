@@ -1,0 +1,38 @@
+[
+    {
+        "level": 2.0,
+        "image_filename": "excited.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 gebräuchliche Adjektive",
+        "native_answer": "aufgeregt",
+        "native_word": "Adjektiv - Gefühl, Emotion",
+        "tag": "Adjektiv - Gefühl, Emotion",
+        "prompt": "______",
+        "answer": "excited",
+        "goal_words": "excited",
+        "audio_filename": "lineoct_en_240.mp3",
+        "audio_dir": "excited"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "anxiously.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 gebräuchliche Adjektive",
+        "native_answer": "ängstlich",
+        "native_word": "Adjektiv - Emotionen erzeugen",
+        "tag": "Adjektiv - Emotionen erzeugen",
+        "prompt": "______",
+        "answer": "anxious",
+        "goal_words": "anxious",
+        "audio_filename": "lineoct_en_23.mp3",
+        "audio_dir": "anxious"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "level": 2.0,
+        "image_filename": "excited.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "french",
+        "native_group": "2 adjetivos comunes",
+        "native_answer": "entusiasmado",
+        "native_word": "adjetivo - sentimiento emoción",
+        "tag": "adjetivo - sentimiento emoción",
+        "prompt": "______",
+        "answer": "excité",
+        "goal_words": "excité",
+        "audio_filename": "lineoct_fr_429.mp3",
+        "audio_dir": "excité"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "anxiously.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": "Adjectives agree in gender and number with the noun they describe.\n\nMost adjectives come after the noun, but some (like beau, bon, grand) come before.\n\nFeminine adjectives often end in -e, and plurals usually add -s.\n\nAdjective endings change depending on whether the noun is masculine/feminine and singular/plural.\n\nSome adjectives have irregular forms (e.g., beau → belle).\n\n",
+        "native_language": "spanish",
+        "learning_language": "french",
+        "native_group": "2 adjetivos comunes",
+        "native_answer": "ansioso",
+        "native_word": "adjetivo - Creando emoción",
+        "tag": "adjetivo - Creando emoción",
+        "prompt": "______",
+        "answer": "anxieux",
+        "goal_words": "anxieux",
+        "audio_filename": "lineoct_fr_46.mp3",
+        "audio_dir": "anxieux"
+    }
+]

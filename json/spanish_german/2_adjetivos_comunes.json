@@ -1,0 +1,38 @@
+[
+    {
+        "level": 2.0,
+        "image_filename": "excited.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "german",
+        "native_group": "2 adjetivos comunes",
+        "native_answer": "entusiasmado",
+        "native_word": "adjetivo - sentimiento emoción",
+        "tag": "adjetivo - sentimiento emoción",
+        "prompt": "______",
+        "answer": "aufgeregt",
+        "goal_words": "aufgeregt",
+        "audio_filename": "lineoct_de_39.mp3",
+        "audio_dir": "aufgeregt"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "anxiously.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": "Adjectives decline based on case, gender, number, and definiteness of the noun.\n\nThey are usually placed before the noun.\n\nThere are three types of adjective declensions: strong, weak, and mixed — depending on the presence of a determiner (e.g., der, ein).\n\nAdjectives take different endings depending on whether they follow definite articles, indefinite articles, or no article.\n\n",
+        "native_language": "spanish",
+        "learning_language": "german",
+        "native_group": "2 adjetivos comunes",
+        "native_answer": "ansioso",
+        "native_word": "adjetivo - Creando emoción",
+        "tag": "adjetivo - Creando emoción",
+        "prompt": "______",
+        "answer": "ängstlich",
+        "goal_words": "ängstlich",
+        "audio_filename": "lineoct_de_23.mp3",
+        "audio_dir": "ängstlich"
+    }
+]

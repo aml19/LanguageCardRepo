@@ -1,8 +1,8 @@
 [
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -14,13 +14,13 @@
         "prompt": "______",
         "answer": "Adjevtivo",
         "goal_words": "Adjevtivo",
-        "audio_filename": "line_es_289.mp3",
-        "audio_dir": "Adjevtivo"
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -32,13 +32,13 @@
         "prompt": "______",
         "answer": "Adverbio",
         "goal_words": "Adverbio",
-        "audio_filename": "line_es_291.mp3",
-        "audio_dir": "Adverbio"
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -50,13 +50,13 @@
         "prompt": "______",
         "answer": "Cosa",
         "goal_words": "Cosa",
-        "audio_filename": "line_es_675.mp3",
-        "audio_dir": "Cosa"
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -68,13 +68,13 @@
         "prompt": "______",
         "answer": "Frase",
         "goal_words": "Frase",
-        "audio_filename": "line3_es_234.mp3",
-        "audio_dir": "Frase"
+        "audio_filename": "",
+        "audio_dir": ""
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -86,7 +86,7 @@
         "prompt": "______",
         "answer": "Verbo",
         "goal_words": "Verbo",
-        "audio_filename": "line5_es_847.mp3",
-        "audio_dir": "Verbo"
+        "audio_filename": "",
+        "audio_dir": ""
     }
 ]
