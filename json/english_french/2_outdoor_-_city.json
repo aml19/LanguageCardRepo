@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "truck.jpg",
-        "card_type": "vocab",
+        "level": "truck",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "le camion"
     },
     {
-        "level": 2.0,
-        "image_filename": "steet.jpg",
-        "card_type": "vocab",
+        "level": "steet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "la rue"
     },
     {
-        "level": 2.0,
-        "image_filename": "store.jpg",
-        "card_type": "vocab",
+        "level": "store",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "le magasin"
     },
     {
-        "level": 2.0,
-        "image_filename": "Car.jpg",
-        "card_type": "vocab",
+        "level": "car",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "La voiture"
     },
     {
-        "level": 2.0,
-        "image_filename": "Bus.jpg",
-        "card_type": "vocab",
+        "level": "bus",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Le bus"
     },
     {
-        "level": 2.0,
-        "image_filename": "Bicycle.jpg",
-        "card_type": "vocab",
+        "level": "bicycle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Le vélo / La bicyclette"
     },
     {
-        "level": 2.0,
-        "image_filename": "Motorcycle.jpg",
-        "card_type": "vocab",
+        "level": "motorcycle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "La moto"
     },
     {
-        "level": 2.0,
-        "image_filename": "Train.jpg",
-        "card_type": "vocab",
+        "level": "train",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Le train"
     },
     {
-        "level": 2.0,
-        "image_filename": "Sidewalk.jpg",
-        "card_type": "vocab",
+        "level": "sidewalk",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Le trottoir"
     },
     {
-        "level": 2.0,
-        "image_filename": "Road.jpg",
-        "card_type": "vocab",
+        "level": "road",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "La route"
     },
     {
-        "level": 2.0,
-        "image_filename": "Bridge.jpg",
-        "card_type": "vocab",
+        "level": "bridge",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Le pont"
     },
     {
-        "level": 2.0,
-        "image_filename": "Highway.jpg",
-        "card_type": "vocab",
+        "level": "highway",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "L’autoroute"
     },
     {
-        "level": 2.0,
-        "image_filename": "trafficlight.jpg",
-        "card_type": "vocab",
+        "level": "trafficlight",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Le feu de signalisation"
     },
     {
-        "level": 2.0,
-        "image_filename": "streetsign.jpg",
-        "card_type": "vocab",
+        "level": "streetsign",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Le panneau de signalisation"
     },
     {
-        "level": 2.0,
-        "image_filename": "Crosswalk.jpg",
-        "card_type": "vocab",
+        "level": "crosswalk",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Le passage piéton"
     },
     {
-        "level": 2.0,
-        "image_filename": "Tunnel.jpg",
-        "card_type": "vocab",
+        "level": "tunnel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Le tunnel"
     },
     {
-        "level": 2.0,
-        "image_filename": "Fence.jpg",
-        "card_type": "vocab",
+        "level": "fence",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "La clôture"
     },
     {
-        "level": 2.0,
-        "image_filename": "Gate.jpg",
-        "card_type": "vocab",
+        "level": "gate",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "La porte / Le portail"
     },
     {
-        "level": 2.0,
-        "image_filename": "Building2.jpg",
-        "card_type": "vocab",
+        "level": "building2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Le bâtiment"
     },
     {
-        "level": 2.0,
-        "image_filename": "Skyscraper2.jpg",
-        "card_type": "vocab",
+        "level": "skyscraper2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Le gratte-ciel"
     },
     {
-        "level": 2.0,
-        "image_filename": "Bench.jpg",
-        "card_type": "vocab",
+        "level": "bench",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Le banc"
     },
     {
-        "level": 2.0,
-        "image_filename": "Mailbox.jpg",
-        "card_type": "vocab",
+        "level": "mailbox",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "La boîte aux lettres"
     },
     {
-        "level": 2.0,
-        "image_filename": "trashcan.jpg",
-        "card_type": "vocab",
+        "level": "trashcan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "La poubelle"
     },
     {
-        "level": 2.0,
-        "image_filename": "lamppost.jpg",
-        "card_type": "vocab",
+        "level": "lamppost",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

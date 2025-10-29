@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "old_car.jpg",
-        "card_type": "vocab",
+        "level": "old_car",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "vieille voiture"
     },
     {
-        "level": 4.0,
-        "image_filename": "full.jpg",
-        "card_type": "vocab",
+        "level": "full",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "pot rempli de myrtilles"
     },
     {
-        "level": 4.0,
-        "image_filename": "Young.jpg",
-        "card_type": "vocab",
+        "level": "young",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "jeune fille"
     },
     {
-        "level": 4.0,
-        "image_filename": "simpler.jpg",
-        "card_type": "vocab",
+        "level": "simpler",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "simple -- plus simple"
     },
     {
-        "level": 4.0,
-        "image_filename": "complicated.jpg",
-        "card_type": "vocab",
+        "level": "complicated",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "mathématiques compliquées"
     },
     {
-        "level": 4.0,
-        "image_filename": "resilient.jpg",
-        "card_type": "vocab",
+        "level": "resilient",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "résistant au vent"
     },
     {
-        "level": 4.0,
-        "image_filename": "cozy.jpg",
-        "card_type": "vocab",
+        "level": "cozy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "collation chaude et confortable"
     },
     {
-        "level": 4.0,
-        "image_filename": "beautiful.jpg",
-        "card_type": "vocab",
+        "level": "beautiful",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "belle femme"
     },
     {
-        "level": 4.0,
-        "image_filename": "youth.jpg",
-        "card_type": "vocab",
+        "level": "youth",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "jeune"
     },
     {
-        "level": 4.0,
-        "image_filename": "once.jpg",
-        "card_type": "vocab",
+        "level": "once",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "une fois : en une seule occasion ou pour une seule fois."
     },
     {
-        "level": 4.0,
-        "image_filename": "before.jpg",
-        "card_type": "vocab",
+        "level": "before",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "avant et après"
     },
     {
-        "level": 4.0,
-        "image_filename": "now.jpg",
-        "card_type": "vocab",
+        "level": "now",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "maintenant même"
     },
     {
-        "level": 4.0,
-        "image_filename": "quickly.jpg",
-        "card_type": "vocab",
+        "level": "quickly",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "déplacer la corde rapidement"
     },
     {
-        "level": 4.0,
-        "image_filename": "countless.jpg",
-        "card_type": "reading",
+        "level": "countless",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "des étoiles innombrables - au-delà du comptage"
     },
     {
-        "level": 4.0,
-        "image_filename": "hair.jpg",
-        "card_type": "vocab",
+        "level": "hair",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "cheveux"
     },
     {
-        "level": 4.0,
-        "image_filename": "face.jpg",
-        "card_type": "vocab",
+        "level": "face",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "visage"
     },
     {
-        "level": 4.0,
-        "image_filename": "heart.jpg",
-        "card_type": "vocab",
+        "level": "heart",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "cœur"
     },
     {
-        "level": 4.0,
-        "image_filename": "face.jpg",
-        "card_type": "vocab",
+        "level": "face",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "visage"
     },
     {
-        "level": 4.0,
-        "image_filename": "gray_rocks.jpg",
-        "card_type": "vocab",
+        "level": "gray_rocks",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "rochers gris"
     },
     {
-        "level": 4.0,
-        "image_filename": "bread.jpg",
-        "card_type": "vocab",
+        "level": "bread",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Pain"
     },
     {
-        "level": 4.0,
-        "image_filename": "grandmother.jpg",
-        "card_type": "vocab",
+        "level": "grandmother",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "la grand-mère et petite-fille"
     },
     {
-        "level": 4.0,
-        "image_filename": "Fireplace.jpg",
-        "card_type": "vocab",
+        "level": "fireplace",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Une cheminée"
     },
     {
-        "level": 4.0,
-        "image_filename": "memory.jpg",
-        "card_type": "vocab",
+        "level": "memory",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Une mémoire"
     },
     {
-        "level": 4.0,
-        "image_filename": "youth.jpg",
-        "card_type": "vocab",
+        "level": "youth",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "La jeunesse"
     },
     {
-        "level": 4.0,
-        "image_filename": "flame.jpg",
-        "card_type": "vocab",
+        "level": "flame",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Une seule flamme"
     },
     {
-        "level": 4.0,
-        "image_filename": "time.jpg",
-        "card_type": "vocab",
+        "level": "time",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Le temps"
     },
     {
-        "level": 4.0,
-        "image_filename": "left_alive_right_dead_tree.jpg",
-        "card_type": "vocab",
+        "level": "left_alive_right_dead_tree",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "La vie"
     },
     {
-        "level": 4.0,
-        "image_filename": "field.jpg",
-        "card_type": "vocab",
+        "level": "field",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Un champ de fleurs"
     },
     {
-        "level": 4.0,
-        "image_filename": "wildflowers.jpg",
-        "card_type": "vocab",
+        "level": "wildflowers",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Des fleurs sauvages"
     },
     {
-        "level": 4.0,
-        "image_filename": "laughter.jpg",
-        "card_type": "vocab",
+        "level": "laughter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Un rire"
     },
     {
-        "level": 4.0,
-        "image_filename": "countryside.jpg",
-        "card_type": "vocab",
+        "level": "countryside",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Une ferme à la campagne"
     },
     {
-        "level": 4.0,
-        "image_filename": "warmth.jpg",
-        "card_type": "vocab",
+        "level": "warmth",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "La chaleur de la cheminée"
     },
     {
-        "level": 4.0,
-        "image_filename": "embrace.jpg",
-        "card_type": "vocab",
+        "level": "embrace",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Une étreinte"
     },
     {
-        "level": 4.0,
-        "image_filename": "Kitchen.jpg",
-        "card_type": "vocab",
+        "level": "kitchen",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Une cuisine"
     },
     {
-        "level": 4.0,
-        "image_filename": "challenge.jpg",
-        "card_type": "reading",
+        "level": "challenge",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "un défi : Un test de compétence ou d'aptitude."
     },
     {
-        "level": 4.0,
-        "image_filename": "hardship.jpg",
-        "card_type": "reading",
+        "level": "hardship",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Une difficulté : causant de la souffrance ou de la lutte"
     },
     {
-        "level": 4.0,
-        "image_filename": "hope.jpg",
-        "card_type": "vocab",
+        "level": "hope",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Un espoir"
     },
     {
-        "level": 4.0,
-        "image_filename": "strength.jpg",
-        "card_type": "vocab",
+        "level": "strength",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Un fort -- une force"
     },
     {
-        "level": 4.0,
-        "image_filename": "armchair.jpg",
-        "card_type": "vocab",
+        "level": "armchair",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Un fauteuil"
     },
     {
-        "level": 4.0,
-        "image_filename": "spirit.jpg",
-        "card_type": "vocab",
+        "level": "spirit",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Un esprit"
     },
     {
-        "level": 4.0,
-        "image_filename": "wrinkles.jpg",
-        "card_type": "vocab",
+        "level": "wrinkles",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Un visage vieux, plein de rides"
     },
     {
-        "level": 4.0,
-        "image_filename": "journey.jpg",
-        "card_type": "vocab",
+        "level": "journey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "un voyage : se déplacer quelque part."
     },
     {
-        "level": 4.0,
-        "image_filename": "vigor.jpg",
-        "card_type": "vocab",
+        "level": "vigor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "la vigueur : force physique ou mentale, énergie ou vitalité."
     },
     {
-        "level": 4.0,
-        "image_filename": "echo.jpg",
-        "card_type": "vocab",
+        "level": "echo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Un écho"
     },
     {
-        "level": 4.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
+        "level": "day",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "jour"
     },
     {
-        "level": 4.0,
-        "image_filename": "love_music_f.jpg",
-        "card_type": "vocab",
+        "level": "love_music_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "aimer la musique"
     },
     {
-        "level": 4.0,
-        "image_filename": "sit.jpg",
-        "card_type": "vocab",
+        "level": "sit",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "s'asseoir sur les escaliers"
     },
     {
-        "level": 4.0,
-        "image_filename": "lose.jpg",
-        "card_type": "vocab",
+        "level": "lose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "perdre du poids"
     },
     {
-        "level": 4.0,
-        "image_filename": "close door.jpg",
-        "card_type": "vocab",
+        "level": "close door",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "fermer la porte"
     },
     {
-        "level": 4.0,
-        "image_filename": "travel.jpg",
-        "card_type": "vocab",
+        "level": "travel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "voyager"
     },
     {
-        "level": 4.0,
-        "image_filename": "remember.jpg",
-        "card_type": "vocab",
+        "level": "remember",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "Se souvenir"
     },
     {
-        "level": 4.0,
-        "image_filename": "run_m.jpg",
-        "card_type": "vocab",
+        "level": "run_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "courir"
     },
     {
-        "level": 4.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "vocab",
+        "level": "laugh_p",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "rire"
     },
     {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
+        "level": "play_piano_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "jouer du piano"
     },
     {
-        "level": 4.0,
-        "image_filename": "remember.jpg",
-        "card_type": "vocab",
+        "level": "remember",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "rappeler"
     },
     {
-        "level": 4.0,
-        "image_filename": "smell.jpg",
-        "card_type": "vocab",
+        "level": "smell",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "odeur"
     },
     {
-        "level": 4.0,
-        "image_filename": "waft.jpg",
-        "card_type": "reading",
+        "level": "waft",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "flotter : flotter ou dériver doucement dans l'air, décrivant souvent le mouvement des parfums ou des sons."
     },
     {
-        "level": 4.0,
-        "image_filename": "fill.jpg",
-        "card_type": "vocab",
+        "level": "fill",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "remplir le réservoir"
     },
     {
-        "level": 4.0,
-        "image_filename": "grow.jpg",
-        "card_type": "vocab",
+        "level": "grow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "grandir"
     },
     {
-        "level": 4.0,
-        "image_filename": "become.jpg",
-        "card_type": "vocab",
+        "level": "become",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "devenir une fleur"
     },
     {
-        "level": 4.0,
-        "image_filename": "remain.jpg",
-        "card_type": "vocab",
+        "level": "remain",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "rester vert"
     },
     {
-        "level": 4.0,
-        "image_filename": "draw.jpg",
-        "card_type": "vocab",
+        "level": "draw",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "dessiner"
     },
     {
-        "level": 4.0,
-        "image_filename": "pass.jpg",
-        "card_type": "vocab",
+        "level": "pass",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "passer par la sécurité"
     },
     {
-        "level": 4.0,
-        "image_filename": "beat.jpg",
-        "card_type": "vocab",
+        "level": "beat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "battre un tambour"
     },
     {
-        "level": 4.0,
-        "image_filename": "whisper.jpg",
-        "card_type": "vocab",
+        "level": "whisper",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

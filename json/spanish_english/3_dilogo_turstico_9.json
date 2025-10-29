@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "luggage.jpg",
-        "card_type": "vocab",
+        "level": "luggage",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "luggage"
     },
     {
-        "level": 3.0,
-        "image_filename": "baggageclaim.jpg",
-        "card_type": "vocab",
+        "level": "baggageclaim",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "baggage claim"
     },
     {
-        "level": 3.0,
-        "image_filename": "flight.jpg",
-        "card_type": "vocab",
+        "level": "flight",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "flight"
     },
     {
-        "level": 3.0,
-        "image_filename": "screen.jpg",
-        "card_type": "vocab",
+        "level": "screen",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "broken screen"
     },
     {
-        "level": 3.0,
-        "image_filename": "sign_wood.jpg",
-        "card_type": "vocab",
+        "level": "sign_wood",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Sign"
     },
     {
-        "level": 3.0,
-        "image_filename": "customs.jpg",
-        "card_type": "vocab",
+        "level": "customs",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "customs"
     },
     {
-        "level": 3.0,
-        "image_filename": "area.jpg",
-        "card_type": "vocab",
+        "level": "area",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Area: A specific region or space.\nExample: The picnic area was shaded by tall trees.\n\n"
     },
     {
-        "level": 3.0,
-        "image_filename": "citycenter.jpg",
-        "card_type": "vocab",
+        "level": "citycenter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "city center"
     },
     {
-        "level": 3.0,
-        "image_filename": "Train.jpg",
-        "card_type": "vocab",
+        "level": "train",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Train"
     },
     {
-        "level": 3.0,
-        "image_filename": "level.jpg",
-        "card_type": "vocab",
+        "level": "level",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "level"
     },
     {
-        "level": 3.0,
-        "image_filename": "machine.jpg",
-        "card_type": "vocab",
+        "level": "machine",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "machine"
     },
     {
-        "level": 3.0,
-        "image_filename": "travel.jpg",
-        "card_type": "vocab",
+        "level": "travel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "travel"
     },
     {
-        "level": 3.0,
-        "image_filename": "airport.jpg",
-        "card_type": "vocab",
+        "level": "airport",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "airport"
     },
     {
-        "level": 3.0,
-        "image_filename": "look_up.jpg",
-        "card_type": "vocab",
+        "level": "look_up",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "Look"
     },
     {
-        "level": 3.0,
-        "image_filename": "follow2.jpg",
-        "card_type": "vocab",
+        "level": "follow2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "(geese) follow"
     },
     {
-        "level": 3.0,
-        "image_filename": "catchbaseball.jpg",
-        "card_type": "vocab",
+        "level": "catchbaseball",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "to catch a baseball"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Next: Indicates the following action.\nFirst, mix the ingredients. Next, bake the cake.\nWe’ll visit the museum next."
     },
     {
-        "level": 3.0,
-        "image_filename": "faster.jpg",
-        "card_type": "vocab",
+        "level": "faster",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "slow - slower, fast - faster"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Every: Every child deserves an education."
     },
     {
-        "level": 3.0,
-        "image_filename": "safe2.jpg",
-        "card_type": "vocab",
+        "level": "safe2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

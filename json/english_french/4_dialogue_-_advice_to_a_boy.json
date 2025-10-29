@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "Proud.jpg",
-        "card_type": "vocab",
+        "level": "proud",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Fier"
     },
     {
-        "level": 4.0,
-        "image_filename": "Young.jpg",
-        "card_type": "vocab",
+        "level": "young",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "jeune fille"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wrong.jpg",
-        "card_type": "vocab",
+        "level": "wrong",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Faux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Important.jpg",
-        "card_type": "vocab",
+        "level": "important",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "annonce importante"
     },
     {
-        "level": 4.0,
-        "image_filename": "true_.jpg",
-        "card_type": "vocab",
+        "level": "true_",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "vrai ou faux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Sweet.jpg",
-        "card_type": "vocab",
+        "level": "sweet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "desserts sucrés"
     },
     {
-        "level": 4.0,
-        "image_filename": "Right.jpg",
-        "card_type": "vocab",
+        "level": "right",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "bien et mal"
     },
     {
-        "level": 4.0,
-        "image_filename": "son.jpg",
-        "card_type": "vocab",
+        "level": "son",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "fils"
     },
     {
-        "level": 4.0,
-        "image_filename": "Mom.jpg",
-        "card_type": "vocab",
+        "level": "mom",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Maman"
     },
     {
-        "level": 4.0,
-        "image_filename": "Dad.jpg",
-        "card_type": "vocab",
+        "level": "dad",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Le papa tenant son bébé"
     },
     {
-        "level": 4.0,
-        "image_filename": "problem.jpg",
-        "card_type": "vocab",
+        "level": "problem",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "essayer de résoudre un problème"
     },
     {
-        "level": 4.0,
-        "image_filename": "school.jpg",
-        "card_type": "vocab",
+        "level": "school",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "L’école"
     },
     {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
+        "level": "friend",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Un ami"
     },
     {
-        "level": 4.0,
-        "image_filename": "Advice.jpg",
-        "card_type": "vocab",
+        "level": "advice",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Le conseil : orientation ou recommandations"
     },
     {
-        "level": 4.0,
-        "image_filename": "Value.jpg",
-        "card_type": "vocab",
+        "level": "value",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "La valeur de monter"
     },
     {
-        "level": 4.0,
-        "image_filename": "Seek.jpg",
-        "card_type": "vocab",
+        "level": "seek",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "cacher-chercher"
     },
     {
-        "level": 4.0,
-        "image_filename": "want_dog_food.jpg",
-        "card_type": "vocab",
+        "level": "want_dog_food",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "vouloir"
     },
     {
-        "level": 4.0,
-        "image_filename": "Disappoint.jpg",
-        "card_type": "vocab",
+        "level": "disappoint",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "décevoir : ne pas remplir les espoirs ou les attentes"
     },
     {
-        "level": 4.0,
-        "image_filename": "Stand.jpg",
-        "card_type": "vocab",
+        "level": "stand",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "se tenir sur la pointe des pieds"
     },
     {
-        "level": 4.0,
-        "image_filename": "Trouble.jpg",
-        "card_type": "vocab",
+        "level": "trouble",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "troubler ses pensées"
     },
     {
-        "level": 4.0,
-        "image_filename": "Respect.jpg",
-        "card_type": "vocab",
+        "level": "respect",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Respect"
     },
     {
-        "level": 4.0,
-        "image_filename": "help_m.jpg",
-        "card_type": "vocab",
+        "level": "help_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

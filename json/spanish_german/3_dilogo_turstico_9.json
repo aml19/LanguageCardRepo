@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "luggage.jpg",
-        "card_type": "vocab",
+        "level": "luggage",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Gepäck"
     },
     {
-        "level": 3.0,
-        "image_filename": "baggageclaim.jpg",
-        "card_type": "vocab",
+        "level": "baggageclaim",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Gepäckausgabe"
     },
     {
-        "level": 3.0,
-        "image_filename": "flight.jpg",
-        "card_type": "vocab",
+        "level": "flight",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Flug"
     },
     {
-        "level": 3.0,
-        "image_filename": "screen.jpg",
-        "card_type": "vocab",
+        "level": "screen",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "kaputter Bildschirm"
     },
     {
-        "level": 3.0,
-        "image_filename": "sign_wood.jpg",
-        "card_type": "vocab",
+        "level": "sign_wood",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Das Zeichen"
     },
     {
-        "level": 3.0,
-        "image_filename": "customs.jpg",
-        "card_type": "vocab",
+        "level": "customs",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "Zoll"
     },
     {
-        "level": 3.0,
-        "image_filename": "area.jpg",
-        "card_type": "vocab",
+        "level": "area",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Bereich: Ein spezifisches Gebiet oder Raum.\nBeispiel: Der Picknickbereich war von hohen Bäumen beschattet."
     },
     {
-        "level": 3.0,
-        "image_filename": "citycenter.jpg",
-        "card_type": "vocab",
+        "level": "citycenter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "Stadtzentrum"
     },
     {
-        "level": 3.0,
-        "image_filename": "Train.jpg",
-        "card_type": "vocab",
+        "level": "train",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Der Zug"
     },
     {
-        "level": 3.0,
-        "image_filename": "level.jpg",
-        "card_type": "vocab",
+        "level": "level",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Ebene"
     },
     {
-        "level": 3.0,
-        "image_filename": "machine.jpg",
-        "card_type": "vocab",
+        "level": "machine",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Maschine"
     },
     {
-        "level": 3.0,
-        "image_filename": "travel.jpg",
-        "card_type": "vocab",
+        "level": "travel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "reisen"
     },
     {
-        "level": 3.0,
-        "image_filename": "airport.jpg",
-        "card_type": "vocab",
+        "level": "airport",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "Flughafen"
     },
     {
-        "level": 3.0,
-        "image_filename": "look_up.jpg",
-        "card_type": "vocab",
+        "level": "look_up",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "Schauen"
     },
     {
-        "level": 3.0,
-        "image_filename": "follow2.jpg",
-        "card_type": "vocab",
+        "level": "follow2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "(die Gänse) folgen"
     },
     {
-        "level": 3.0,
-        "image_filename": "catchbaseball.jpg",
-        "card_type": "vocab",
+        "level": "catchbaseball",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Einen Baseball fangen"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "German conjunctions can change the word order, which makes them a bit tricky!\n\nCoordinating Conjunctions (don’t affect word order):\n\nund (and): Ich esse Brot und trinke Tee.\n(I eat bread and drink tea.)\nSubordinating Conjunctions (send the verb to the end):\n\nweil (because): Ich bleibe hier, weil es regnet.\n(I’m staying here because it’s raining.)\nTip:\nPractice verb placement with subordinating conjunctions—it’s like solving a puzzle!\n\n",
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Als nächstes: Zeigt die folgende Aktion an.\nZuerst mische die Zutaten. Als nächstes backe den Kuchen.\nWir werden als nächstes das Museum besuchen."
     },
     {
-        "level": 3.0,
-        "image_filename": "faster.jpg",
-        "card_type": "vocab",
+        "level": "faster",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "langsam – langsamer, schnell – schneller"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Jeder: Jedes Kind verdient eine Bildung."
     },
     {
-        "level": 3.0,
-        "image_filename": "safe2.jpg",
-        "card_type": "vocab",
+        "level": "safe2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

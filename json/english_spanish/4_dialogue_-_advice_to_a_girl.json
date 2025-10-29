@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "Sure.jpg",
-        "card_type": "vocab",
+        "level": "sure",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "seguro: confiado en lo que uno piensa o sabe"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ready.jpg",
-        "card_type": "vocab",
+        "level": "ready",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "listo, preparado, listo, ya"
     },
     {
-        "level": 4.0,
-        "image_filename": "Nervous.jpg",
-        "card_type": "vocab",
+        "level": "nervous",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "nervioso"
     },
     {
-        "level": 4.0,
-        "image_filename": "Capable.jpg",
-        "card_type": "reading",
+        "level": "capable",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "capaz: teniendo la capacidad"
     },
     {
-        "level": 4.0,
-        "image_filename": "Really.jpg",
-        "card_type": "reading",
+        "level": "really",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "robot realmente grande - usado para enfatizar"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Solo"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Bueno"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "De acuerdo"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Lo que sea"
     },
     {
-        "level": 4.0,
-        "image_filename": "Mom.jpg",
-        "card_type": "vocab",
+        "level": "mom",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "La mamá"
     },
     {
-        "level": 4.0,
-        "image_filename": "Dad.jpg",
-        "card_type": "vocab",
+        "level": "dad",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "El papá"
     },
     {
-        "level": 4.0,
-        "image_filename": "Something.jpg",
-        "card_type": "vocab",
+        "level": "something",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Algo en la caja"
     },
     {
-        "level": 4.0,
-        "image_filename": "Mind.jpg",
-        "card_type": "vocab",
+        "level": "mind",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "La mente: el elemento de una persona que le permite ser consciente del mundo y sus experiencias"
     },
     {
-        "level": 4.0,
-        "image_filename": "Advice.jpg",
-        "card_type": "vocab",
+        "level": "advice",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "El consejo: orientación o recomendaciones ofrecidas con respecto a una acción prudente futura."
     },
     {
-        "level": 4.0,
-        "image_filename": "Internship.jpg",
-        "card_type": "vocab",
+        "level": "internship",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Las prácticas: la posición de un estudiante o aprendiz que trabaja en una organización"
     },
     {
-        "level": 4.0,
-        "image_filename": "Opportunity.jpg",
-        "card_type": "vocab",
+        "level": "opportunity",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "La oportunidad: una serie de circunstancias que hacen posible hacer algo."
     },
     {
-        "level": 4.0,
-        "image_filename": "Workload.jpg",
-        "card_type": "vocab",
+        "level": "workload",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "La carga de trabajo: la cantidad de trabajo que debe hacer alguien o algo."
     },
     {
-        "level": 4.0,
-        "image_filename": "Decision.jpg",
-        "card_type": "vocab",
+        "level": "decision",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "La decisión: elección"
     },
     {
-        "level": 4.0,
-        "image_filename": "need_help.jpg",
-        "card_type": "vocab",
+        "level": "need_help",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "necesitar ayuda"
     },
     {
-        "level": 4.0,
-        "image_filename": "Trouble.jpg",
-        "card_type": "vocab",
+        "level": "trouble",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "trastornar sus pensamientos"
     },
     {
-        "level": 4.0,
-        "image_filename": "think_m.jpg",
-        "card_type": "vocab",
+        "level": "think_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "pensar"
     },
     {
-        "level": 4.0,
-        "image_filename": "apply.jpg",
-        "card_type": "vocab",
+        "level": "apply",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "aplicar maquillaje"
     },
     {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
+        "level": "go_with_her",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "ir con ella"
     },
     {
-        "level": 4.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "vocab",
+        "level": "hold_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "sostener"
     },
     {
-        "level": 4.0,
-        "image_filename": "handle.jpg",
-        "card_type": "vocab",
+        "level": "handle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "manejar: administrar una situación o problema."
     },
     {
-        "level": 4.0,
-        "image_filename": "remember.jpg",
-        "card_type": "vocab",
+        "level": "remember",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Acuerdes"
     },
     {
-        "level": 4.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
+        "level": "feel_water",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "sentir el agua"
     },
     {
-        "level": 4.0,
-        "image_filename": "underestimate.jpg",
-        "card_type": "vocab",
+        "level": "underestimate",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "subestimar: colocar un valor demasiado bajo: menospreciar"
     },
     {
-        "level": 4.0,
-        "image_filename": "Believe.jpg",
-        "card_type": "vocab",
+        "level": "believe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "creer: aceptar (algo) como verdadero; sentirse seguro de la verdad de ello."
     },
     {
-        "level": 4.0,
-        "image_filename": "support.jpg",
-        "card_type": "vocab",
+        "level": "support",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "apoyo: soportar todo o parte del peso de; sostener."
     },
     {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
+        "level": "make",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

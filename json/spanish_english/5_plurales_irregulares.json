@@ -1,8 +1,8 @@
 [
     {
-        "level": 5.0,
-        "image_filename": "men2.jpg",
-        "card_type": "vocab",
+        "level": "men2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "man → men"
     },
     {
-        "level": 5.0,
-        "image_filename": "women2.jpg",
-        "card_type": "vocab",
+        "level": "women2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "woman → women"
     },
     {
-        "level": 5.0,
-        "image_filename": "feet.jpg",
-        "card_type": "vocab",
+        "level": "feet",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "foot → feet"
     },
     {
-        "level": 5.0,
-        "image_filename": "teeth.jpg",
-        "card_type": "vocab",
+        "level": "teeth",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "tooth → teeth"
     },
     {
-        "level": 5.0,
-        "image_filename": "geese2.jpg",
-        "card_type": "vocab",
+        "level": "geese2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "goose → geese"
     },
     {
-        "level": 5.0,
-        "image_filename": "mice2.jpg",
-        "card_type": "vocab",
+        "level": "mice2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "mouse → mice"
     },
     {
-        "level": 5.0,
-        "image_filename": "deer.jpg",
-        "card_type": "vocab",
+        "level": "deer",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "deer → deer"
     },
     {
-        "level": 5.0,
-        "image_filename": "sheep2.jpg",
-        "card_type": "vocab",
+        "level": "sheep2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "sheep → sheep"
     },
     {
-        "level": 5.0,
-        "image_filename": "fish.jpg",
-        "card_type": "vocab",
+        "level": "fish",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "fish → fish"
     },
     {
-        "level": 5.0,
-        "image_filename": "fungi2.jpg",
-        "card_type": "vocab",
+        "level": "fungi2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "fungus → fungi"
     },
     {
-        "level": 5.0,
-        "image_filename": "leaves2.jpg",
-        "card_type": "vocab",
+        "level": "leaves2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "leaf → leaves"
     },
     {
-        "level": 5.0,
-        "image_filename": "knives2.jpg",
-        "card_type": "vocab",
+        "level": "knives2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "knife → knives"
     },
     {
-        "level": 5.0,
-        "image_filename": "wife.jpg",
-        "card_type": "vocab",
+        "level": "wife",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "wife → wives"
     },
     {
-        "level": 5.0,
-        "image_filename": "lives2.jpg",
-        "card_type": "vocab",
+        "level": "lives2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "life → lives"
     },
     {
-        "level": 5.0,
-        "image_filename": "wolves2.jpg",
-        "card_type": "vocab",
+        "level": "wolves2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "wolf → wolves"
     },
     {
-        "level": 5.0,
-        "image_filename": "tomato.jpg",
-        "card_type": "vocab",
+        "level": "tomato",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "tomato → tomatoes"
     },
     {
-        "level": 5.0,
-        "image_filename": "potatoes2.jpg",
-        "card_type": "vocab",
+        "level": "potatoes2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "potato → potatoes"
     },
     {
-        "level": 5.0,
-        "image_filename": "heroes2.jpg",
-        "card_type": "vocab",
+        "level": "heroes2",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

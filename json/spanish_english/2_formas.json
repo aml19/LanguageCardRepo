@@ -1,62 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "circle.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "2 formas",
-        "native_answer": "el círculo",
-        "native_word": "forma",
-        "tag": "forma",
-        "prompt": "______",
-        "answer": "circle",
-        "goal_words": "circle",
-        "audio_filename": "line_en_493.mp3",
-        "audio_dir": "circle"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "triangle.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "2 formas",
-        "native_answer": "el triángulo",
-        "native_word": "forma",
-        "tag": "forma",
-        "prompt": "______",
-        "answer": "triangle",
-        "goal_words": "triangle",
-        "audio_filename": "line4_en_588.mp3",
-        "audio_dir": "triangle"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "square.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "2 formas",
-        "native_answer": "el cuadrado",
-        "native_word": "forma",
-        "tag": "forma",
-        "prompt": "______",
-        "answer": "square",
-        "goal_words": "square",
-        "audio_filename": "line3_en_837.mp3",
-        "audio_dir": "square"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "Circle.jpg",
-        "card_type": "vocab",
+        "level": "circle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +18,9 @@
         "audio_dir": "Circle"
     },
     {
-        "level": 2.0,
-        "image_filename": "Oval.jpg",
-        "card_type": "vocab",
+        "level": "oval",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +36,9 @@
         "audio_dir": "Oval"
     },
     {
-        "level": 2.0,
-        "image_filename": "Triangle.jpg",
-        "card_type": "vocab",
+        "level": "triangle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +54,9 @@
         "audio_dir": "Triangle"
     },
     {
-        "level": 2.0,
-        "image_filename": "Square.jpg",
-        "card_type": "vocab",
+        "level": "square",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +72,9 @@
         "audio_dir": "Square"
     },
     {
-        "level": 2.0,
-        "image_filename": "Rectangle.jpg",
-        "card_type": "vocab",
+        "level": "rectangle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +90,9 @@
         "audio_dir": "Rectangle"
     },
     {
-        "level": 2.0,
-        "image_filename": "Diamond5.jpg",
-        "card_type": "vocab",
+        "level": "diamond5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +108,9 @@
         "audio_dir": "Diamond"
     },
     {
-        "level": 2.0,
-        "image_filename": "Star5.jpg",
-        "card_type": "vocab",
+        "level": "star5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +126,9 @@
         "audio_dir": "Star"
     },
     {
-        "level": 2.0,
-        "image_filename": "Crescent.jpg",
-        "card_type": "vocab",
+        "level": "crescent",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +144,9 @@
         "audio_dir": "Crescent"
     },
     {
-        "level": 2.0,
-        "image_filename": "Heart5.jpg",
-        "card_type": "vocab",
+        "level": "heart5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +162,9 @@
         "audio_dir": "Heart"
     },
     {
-        "level": 2.0,
-        "image_filename": "Arrow5.jpg",
-        "card_type": "vocab",
+        "level": "arrow5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +180,9 @@
         "audio_dir": "Arrow"
     },
     {
-        "level": 2.0,
-        "image_filename": "Cross5.jpg",
-        "card_type": "vocab",
+        "level": "cross5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +198,9 @@
         "audio_dir": "Cross"
     },
     {
-        "level": 2.0,
-        "image_filename": "Sphere.jpg",
-        "card_type": "vocab",
+        "level": "sphere",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +216,9 @@
         "audio_dir": "Sphere"
     },
     {
-        "level": 2.0,
-        "image_filename": "Cube.jpg",
-        "card_type": "vocab",
+        "level": "cube",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +234,9 @@
         "audio_dir": "Cube"
     },
     {
-        "level": 2.0,
-        "image_filename": "Cylinder.jpg",
-        "card_type": "vocab",
+        "level": "cylinder",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +252,9 @@
         "audio_dir": "Cylinder"
     },
     {
-        "level": 2.0,
-        "image_filename": "Cone.jpg",
-        "card_type": "vocab",
+        "level": "cone",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +270,9 @@
         "audio_dir": "Cone"
     },
     {
-        "level": 2.0,
-        "image_filename": "Pyramid.jpg",
-        "card_type": "vocab",
+        "level": "pyramid",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +288,9 @@
         "audio_dir": "Pyramid"
     },
     {
-        "level": 2.0,
-        "image_filename": "Disk.jpg",
-        "card_type": "vocab",
+        "level": "disk",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +306,9 @@
         "audio_dir": "Disk"
     },
     {
-        "level": 2.0,
-        "image_filename": "Line5.jpg",
-        "card_type": "vocab",
+        "level": "line5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +324,9 @@
         "audio_dir": "Line"
     },
     {
-        "level": 2.0,
-        "image_filename": "Curve5.jpg",
-        "card_type": "vocab",
+        "level": "curve5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +342,9 @@
         "audio_dir": "Curve"
     },
     {
-        "level": 2.0,
-        "image_filename": "Angle.jpg",
-        "card_type": "vocab",
+        "level": "angle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +360,9 @@
         "audio_dir": "Angle"
     },
     {
-        "level": 2.0,
-        "image_filename": "Wave5.jpg",
-        "card_type": "vocab",
+        "level": "wave5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +378,9 @@
         "audio_dir": "Wave"
     },
     {
-        "level": 2.0,
-        "image_filename": "Spiral.jpg",
-        "card_type": "vocab",
+        "level": "spiral",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +396,9 @@
         "audio_dir": "Spiral"
     },
     {
-        "level": 2.0,
-        "image_filename": "Zigzag.jpg",
-        "card_type": "vocab",
+        "level": "zigzag",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

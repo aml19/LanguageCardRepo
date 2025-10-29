@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "apple.jpg",
-        "card_type": "vocab",
+        "level": "apple",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "der Apfel"
     },
     {
-        "level": 3.0,
-        "image_filename": "vendor.jpg",
-        "card_type": "vocab",
+        "level": "vendor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Straßenverkäufer"
     },
     {
-        "level": 3.0,
-        "image_filename": "weight.jpg",
-        "card_type": "reading",
+        "level": "weight",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Das Pfund (referring to weight)"
     },
     {
-        "level": 3.0,
-        "image_filename": "change2.jpg",
-        "card_type": "vocab",
+        "level": "change2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Ein Reifenwechsel"
     },
     {
-        "level": 3.0,
-        "image_filename": "put_in_refridgerator_m.jpg",
-        "card_type": "vocab",
+        "level": "put_in_refridgerator_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Milch in den Kühlschrank stellen"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "beides ist in Ordnung"
     },
     {
-        "level": 3.0,
-        "image_filename": "good.jpg",
-        "card_type": "vocab",
+        "level": "good",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "gute Arbeit"
     },
     {
-        "level": 3.0,
-        "image_filename": "Bracelet.jpg",
-        "card_type": "vocab",
+        "level": "bracelet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Das Armband"
     },
     {
-        "level": 3.0,
-        "image_filename": "stone.jpg",
-        "card_type": "vocab",
+        "level": "stone",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "aus Stein gemacht"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "klingt gut"
     },
     {
-        "level": 3.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
+        "level": "make",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "machen"
     },
     {
-        "level": 3.0,
-        "image_filename": "beautiful.jpg",
-        "card_type": "vocab",
+        "level": "beautiful",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "schöne Frau"
     },
     {
-        "level": 3.0,
-        "image_filename": "real.jpg",
-        "card_type": "vocab",
+        "level": "real",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "echt – falsch"
     },
     {
-        "level": 3.0,
-        "image_filename": "lovely.jpg",
-        "card_type": "reading",
+        "level": "lovely",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "liebenswert"
     },
     {
-        "level": 3.0,
-        "image_filename": "handmade.jpg",
-        "card_type": "vocab",
+        "level": "handmade",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "handgemacht"
     },
     {
-        "level": 3.0,
-        "image_filename": "wonderful.jpg",
-        "card_type": "reading",
+        "level": "wonderful",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

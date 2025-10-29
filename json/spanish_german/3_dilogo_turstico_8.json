@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "receptionist.jpg",
-        "card_type": "vocab",
+        "level": "receptionist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Rezeptionist / Rezeptionistin"
     },
     {
-        "level": 3.0,
-        "image_filename": "afternoon.jpg",
-        "card_type": "vocab",
+        "level": "afternoon",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Welche Tageszeit ist es? Der Nachmittag"
     },
     {
-        "level": 3.0,
-        "image_filename": "reservation.jpg",
-        "card_type": "vocab",
+        "level": "reservation",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Reservierung"
     },
     {
-        "level": 3.0,
-        "image_filename": "name.jpg",
-        "card_type": "vocab",
+        "level": "name",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Name"
     },
     {
-        "level": 3.0,
-        "image_filename": "room3.jpg",
-        "card_type": "vocab",
+        "level": "room3",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Das leere Zimmer"
     },
     {
-        "level": 3.0,
-        "image_filename": "night.jpg",
-        "card_type": "vocab",
+        "level": "night",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "die Nacht"
     },
     {
-        "level": 3.0,
-        "image_filename": "ID.jpg",
-        "card_type": "vocab",
+        "level": "id",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Ausweis"
     },
     {
-        "level": 3.0,
-        "image_filename": "creditcard.jpg",
-        "card_type": "vocab",
+        "level": "creditcard",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "Kreditkarte"
     },
     {
-        "level": 3.0,
-        "image_filename": "floor.jpg",
-        "card_type": "vocab",
+        "level": "floor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Der Boden"
     },
     {
-        "level": 3.0,
-        "image_filename": "keycard.jpg",
-        "card_type": "vocab",
+        "level": "keycard",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Schlüsselkarte"
     },
     {
-        "level": 3.0,
-        "image_filename": "breakfast.jpg",
-        "card_type": "vocab",
+        "level": "breakfast",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "das Frühstück"
     },
     {
-        "level": 3.0,
-        "image_filename": "Dining_room.jpg",
-        "card_type": "vocab",
+        "level": "dining_room",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Das Esszimmer"
     },
     {
-        "level": 3.0,
-        "image_filename": "wifi.jpg",
-        "card_type": "vocab",
+        "level": "wifi",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "WLAN"
     },
     {
-        "level": 3.0,
-        "image_filename": "network.jpg",
-        "card_type": "vocab",
+        "level": "network",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "Netzwerk"
     },
     {
-        "level": 3.0,
-        "image_filename": "password.jpg",
-        "card_type": "vocab",
+        "level": "password",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "Passwort"
     },
     {
-        "level": 3.0,
-        "image_filename": "dog_stay.jpg",
-        "card_type": "vocab",
+        "level": "dog_stay",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Bleiben"
     },
     {
-        "level": 3.0,
-        "image_filename": "second.jpg",
-        "card_type": "vocab",
+        "level": "second",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

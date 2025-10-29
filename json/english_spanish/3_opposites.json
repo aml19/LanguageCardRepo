@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "hotcold.jpg",
-        "card_type": "vocab",
+        "level": "hotcold",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "caliente frío"
     },
     {
-        "level": 3.0,
-        "image_filename": "bigsmall.jpg",
-        "card_type": "vocab",
+        "level": "bigsmall",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "grande pequeño"
     },
     {
-        "level": 3.0,
-        "image_filename": "fastslow.jpg",
-        "card_type": "vocab",
+        "level": "fastslow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "rápido lento"
     },
     {
-        "level": 3.0,
-        "image_filename": "hardsoft.jpg",
-        "card_type": "vocab",
+        "level": "hardsoft",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "duro suave"
     },
     {
-        "level": 3.0,
-        "image_filename": "lightdark.jpg",
-        "card_type": "vocab",
+        "level": "lightdark",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "claro oscuro"
     },
     {
-        "level": 3.0,
-        "image_filename": "highlow.jpg",
-        "card_type": "vocab",
+        "level": "highlow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "alto bajo"
     },
     {
-        "level": 3.0,
-        "image_filename": "wetdry.jpg",
-        "card_type": "vocab",
+        "level": "wetdry",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "mojado seco"
     },
     {
-        "level": 3.0,
-        "image_filename": "emptyfull.jpg",
-        "card_type": "vocab",
+        "level": "emptyfull",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "vacío lleno"
     },
     {
-        "level": 3.0,
-        "image_filename": "quietloud.jpg",
-        "card_type": "vocab",
+        "level": "quietloud",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "silencioso ruidoso"
     },
     {
-        "level": 3.0,
-        "image_filename": "strongweak.jpg",
-        "card_type": "vocab",
+        "level": "strongweak",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "fuerte débil"
     },
     {
-        "level": 3.0,
-        "image_filename": "longshort.jpg",
-        "card_type": "vocab",
+        "level": "longshort",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "largo corto"
     },
     {
-        "level": 3.0,
-        "image_filename": "happysad.jpg",
-        "card_type": "vocab",
+        "level": "happysad",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "feliz triste"
     },
     {
-        "level": 3.0,
-        "image_filename": "dangeroussafe.jpg",
-        "card_type": "vocab",
+        "level": "dangeroussafe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "peligroso seguro"
     },
     {
-        "level": 3.0,
-        "image_filename": "dirtyclean.jpg",
-        "card_type": "vocab",
+        "level": "dirtyclean",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "sucio limpio"
     },
     {
-        "level": 3.0,
-        "image_filename": "sweetsour.jpg",
-        "card_type": "vocab",
+        "level": "sweetsour",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "dulce agrio"
     },
     {
-        "level": 3.0,
-        "image_filename": "closedopen.jpg",
-        "card_type": "vocab",
+        "level": "closedopen",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "cerrado abierto"
     },
     {
-        "level": 3.0,
-        "image_filename": "oldyoung.jpg",
-        "card_type": "vocab",
+        "level": "oldyoung",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "viejo joven"
     },
     {
-        "level": 3.0,
-        "image_filename": "smoothrough.jpg",
-        "card_type": "vocab",
+        "level": "smoothrough",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "suave áspero"
     },
     {
-        "level": 3.0,
-        "image_filename": "samedifferent.jpg",
-        "card_type": "vocab",
+        "level": "samedifferent",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "mismo diferente"
     },
     {
-        "level": 3.0,
-        "image_filename": "fatskinny.jpg",
-        "card_type": "vocab",
+        "level": "fatskinny",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "gordo delgado"
     },
     {
-        "level": 3.0,
-        "image_filename": "smartstupid.jpg",
-        "card_type": "vocab",
+        "level": "smartstupid",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "inteligente estúpido"
     },
     {
-        "level": 3.0,
-        "image_filename": "dullsharp.jpg",
-        "card_type": "vocab",
+        "level": "dullsharp",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "aburrido afilado"
     },
     {
-        "level": 3.0,
-        "image_filename": "deadalive.jpg",
-        "card_type": "vocab",
+        "level": "deadalive",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "muerto vivo"
     },
     {
-        "level": 3.0,
-        "image_filename": "badgood.jpg",
-        "card_type": "vocab",
+        "level": "badgood",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "malo bueno"
     },
     {
-        "level": 3.0,
-        "image_filename": "frontback.jpg",
-        "card_type": "vocab",
+        "level": "frontback",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "delante detrás"
     },
     {
-        "level": 3.0,
-        "image_filename": "heavylight.jpg",
-        "card_type": "vocab",
+        "level": "heavylight",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "pesado ligero"
     },
     {
-        "level": 3.0,
-        "image_filename": "afraidbrave.jpg",
-        "card_type": "vocab",
+        "level": "afraidbrave",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "temeroso valiente"
     },
     {
-        "level": 3.0,
-        "image_filename": "cruelkind.jpg",
-        "card_type": "vocab",
+        "level": "cruelkind",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "cruel amable"
     },
     {
-        "level": 3.0,
-        "image_filename": "nearfar.jpg",
-        "card_type": "vocab",
+        "level": "nearfar",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "cerca lejos"
     },
     {
-        "level": 3.0,
-        "image_filename": "funnyserious.jpg",
-        "card_type": "vocab",
+        "level": "funnyserious",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "gracioso serio"
     },
     {
-        "level": 3.0,
-        "image_filename": "shallowdeep.jpg",
-        "card_type": "vocab",
+        "level": "shallowdeep",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "superficial profundo"
     },
     {
-        "level": 3.0,
-        "image_filename": "honestdishonest.jpg",
-        "card_type": "vocab",
+        "level": "honestdishonest",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "honesto deshonesto"
     },
     {
-        "level": 3.0,
-        "image_filename": "freshstale.jpg",
-        "card_type": "vocab",
+        "level": "freshstale",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "fresco rancio"
     },
     {
-        "level": 3.0,
-        "image_filename": "easyhard.jpg",
-        "card_type": "vocab",
+        "level": "easyhard",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "fácil difícil"
     },
     {
-        "level": 3.0,
-        "image_filename": "generousgreedy.jpg",
-        "card_type": "vocab",
+        "level": "generousgreedy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "generoso codicioso"
     },
     {
-        "level": 3.0,
-        "image_filename": "oldnew.jpg",
-        "card_type": "vocab",
+        "level": "oldnew",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "viejo nuevo"
     },
     {
-        "level": 3.0,
-        "image_filename": "richpoor.jpg",
-        "card_type": "vocab",
+        "level": "richpoor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "rico pobre"
     },
     {
-        "level": 3.0,
-        "image_filename": "downup.jpg",
-        "card_type": "vocab",
+        "level": "downup",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "abajo arriba"
     },
     {
-        "level": 3.0,
-        "image_filename": "togetherapart.jpg",
-        "card_type": "vocab",
+        "level": "togetherapart",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "juntos separados"
     },
     {
-        "level": 3.0,
-        "image_filename": "downup.jpg",
-        "card_type": "vocab",
+        "level": "downup",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "abajo arriba"
     },
     {
-        "level": 3.0,
-        "image_filename": "inout.jpg",
-        "card_type": "vocab",
+        "level": "inout",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "dentro fuera"
     },
     {
-        "level": 3.0,
-        "image_filename": "backwardforward.jpg",
-        "card_type": "vocab",
+        "level": "backwardforward",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "hacia atrás adelante"
     },
     {
-        "level": 3.0,
-        "image_filename": "daynight.jpg",
-        "card_type": "vocab",
+        "level": "daynight",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "día noche"
     },
     {
-        "level": 3.0,
-        "image_filename": "insideoutside.jpg",
-        "card_type": "vocab",
+        "level": "insideoutside",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "dentro fuera"
     },
     {
-        "level": 3.0,
-        "image_filename": "topbottom.jpg",
-        "card_type": "vocab",
+        "level": "topbottom",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "superior inferior"
     },
     {
-        "level": 3.0,
-        "image_filename": "lovehate.jpg",
-        "card_type": "vocab",
+        "level": "lovehate",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "amor odio"
     },
     {
-        "level": 3.0,
-        "image_filename": "successfailure.jpg",
-        "card_type": "vocab",
+        "level": "successfailure",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "éxito fracaso"
     },
     {
-        "level": 3.0,
-        "image_filename": "mountainvalley.jpg",
-        "card_type": "vocab",
+        "level": "mountainvalley",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "montaña valle"
     },
     {
-        "level": 3.0,
-        "image_filename": "pastresentfuture.jpg",
-        "card_type": "vocab",
+        "level": "pastresentfuture",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "pasado presente futuro"
     },
     {
-        "level": 3.0,
-        "image_filename": "warpeace.jpg",
-        "card_type": "vocab",
+        "level": "warpeace",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "guerra paz"
     },
     {
-        "level": 3.0,
-        "image_filename": "startfinish.jpg",
-        "card_type": "vocab",
+        "level": "startfinish",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "comenzar terminar"
     },
     {
-        "level": 3.0,
-        "image_filename": "onoff.jpg",
-        "card_type": "vocab",
+        "level": "onoff",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "encendido apagado"
     },
     {
-        "level": 3.0,
-        "image_filename": "infrontofbehind.jpg",
-        "card_type": "vocab",
+        "level": "infrontofbehind",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "delante detrás"
     },
     {
-        "level": 3.0,
-        "image_filename": "abovebelow.jpg",
-        "card_type": "vocab",
+        "level": "abovebelow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "arriba abajo"
     },
     {
-        "level": 3.0,
-        "image_filename": "comego.jpg",
-        "card_type": "vocab",
+        "level": "comego",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "venir ir"
     },
     {
-        "level": 3.0,
-        "image_filename": "pullpush.jpg",
-        "card_type": "vocab",
+        "level": "pullpush",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "tirar empujar"
     },
     {
-        "level": 3.0,
-        "image_filename": "askanswer.jpg",
-        "card_type": "vocab",
+        "level": "askanswer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "preguntar responder"
     },
     {
-        "level": 3.0,
-        "image_filename": "winlose.jpg",
-        "card_type": "vocab",
+        "level": "winlose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "ganar perder"
     },
     {
-        "level": 3.0,
-        "image_filename": "giveget.jpg",
-        "card_type": "vocab",
+        "level": "giveget",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "dar obtener"
     },
     {
-        "level": 3.0,
-        "image_filename": "workplay.jpg",
-        "card_type": "vocab",
+        "level": "workplay",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "trabajar jugar"
     },
     {
-        "level": 3.0,
-        "image_filename": "throwcatch.jpg",
-        "card_type": "vocab",
+        "level": "throwcatch",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "lanzar atrapar"
     },
     {
-        "level": 3.0,
-        "image_filename": "sitstand.jpg",
-        "card_type": "vocab",
+        "level": "sitstand",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "sentarse estar de pie"
     },
     {
-        "level": 3.0,
-        "image_filename": "buysell.jpg",
-        "card_type": "vocab",
+        "level": "buysell",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "comprar vender"
     },
     {
-        "level": 3.0,
-        "image_filename": "sinkfloat.jpg",
-        "card_type": "vocab",
+        "level": "sinkfloat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "hundir flotar"
     },
     {
-        "level": 3.0,
-        "image_filename": "breakfix.jpg",
-        "card_type": "vocab",
+        "level": "breakfix",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "romper arreglar"
     },
     {
-        "level": 3.0,
-        "image_filename": "acceptreject.jpg",
-        "card_type": "vocab",
+        "level": "acceptreject",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

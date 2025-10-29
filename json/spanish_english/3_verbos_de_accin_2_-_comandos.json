@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "drink_m.jpg",
-        "card_type": "conjugation",
+        "level": "drink_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "drink"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_f.jpg",
-        "card_type": "conjugation",
+        "level": "jump_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "jump"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_m.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "sleep"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_m.jpg",
-        "card_type": "conjugation",
+        "level": "swim_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "swim"
     },
     {
-        "level": 3.0,
-        "image_filename": "sign_means_stop.jpg",
-        "card_type": "conjugation",
+        "level": "sign_means_stop",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "stop"
     },
     {
-        "level": 3.0,
-        "image_filename": "leave_on_a_trip_m.jpg",
-        "card_type": "conjugation",
+        "level": "leave_on_a_trip_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "leave"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "conjugation",
+        "level": "push_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "push it"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "conjugation",
+        "level": "throw_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "throw it"
     },
     {
-        "level": 3.0,
-        "image_filename": "try_surf.jpg",
-        "card_type": "conjugation",
+        "level": "try_surf",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "try it"
     },
     {
-        "level": 3.0,
-        "image_filename": "forget_m.jpg",
-        "card_type": "conjugation",
+        "level": "forget_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "forget it"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_m.jpg",
-        "card_type": "conjugation",
+        "level": "grab_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "grab this"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_something_m.jpg",
-        "card_type": "conjugation",
+        "level": "say_something_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "say something"
     },
     {
-        "level": 3.0,
-        "image_filename": "call_phone_f.jpg",
-        "card_type": "conjugation",
+        "level": "call_phone_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "call me"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_f.jpg",
-        "card_type": "conjugation",
+        "level": "play_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "play with me"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_f.jpg",
-        "card_type": "conjugation",
+        "level": "read_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "read the book"
     },
     {
-        "level": 3.0,
-        "image_filename": "get_gift_m.jpg",
-        "card_type": "conjugation",
+        "level": "get_gift_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "give it to me"
     },
     {
-        "level": 3.0,
-        "image_filename": "get_gift_m.jpg",
-        "card_type": "conjugation",
+        "level": "get_gift_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "give it to him"
     },
     {
-        "level": 3.0,
-        "image_filename": "teach_code_m.jpg",
-        "card_type": "conjugation",
+        "level": "teach_code_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "teach me"
     },
     {
-        "level": 3.0,
-        "image_filename": "come_f.jpg",
-        "card_type": "conjugation",
+        "level": "come_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "come here"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "cook some food"
     },
     {
-        "level": 3.0,
-        "image_filename": "think_m.jpg",
-        "card_type": "conjugation",
+        "level": "think_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "think about it"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_m.jpg",
-        "card_type": "conjugation",
+        "level": "drink_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "don't drink"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_f.jpg",
-        "card_type": "conjugation",
+        "level": "jump_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "don't jump"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_m.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "don't sleep"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_m.jpg",
-        "card_type": "conjugation",
+        "level": "swim_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "don't swim"
     },
     {
-        "level": 3.0,
-        "image_filename": "sign_means_stop.jpg",
-        "card_type": "conjugation",
+        "level": "sign_means_stop",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "don't stop"
     },
     {
-        "level": 3.0,
-        "image_filename": "leave_on_a_trip_m.jpg",
-        "card_type": "conjugation",
+        "level": "leave_on_a_trip_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "don't leave"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_m.jpg",
-        "card_type": "conjugation",
+        "level": "fall_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "don't fall"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "conjugation",
+        "level": "push_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "don't push it"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "conjugation",
+        "level": "throw_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "don't throw it"
     },
     {
-        "level": 3.0,
-        "image_filename": "try_surf.jpg",
-        "card_type": "conjugation",
+        "level": "try_surf",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "don't try it"
     },
     {
-        "level": 3.0,
-        "image_filename": "forget_m.jpg",
-        "card_type": "conjugation",
+        "level": "forget_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "don't forget it"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_m.jpg",
-        "card_type": "conjugation",
+        "level": "grab_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "don't grab this"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_something_m.jpg",
-        "card_type": "conjugation",
+        "level": "say_something_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "don't say something"
     },
     {
-        "level": 3.0,
-        "image_filename": "call_phone_f.jpg",
-        "card_type": "conjugation",
+        "level": "call_phone_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "don't call me"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_f.jpg",
-        "card_type": "conjugation",
+        "level": "play_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "don't play with me"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_f.jpg",
-        "card_type": "conjugation",
+        "level": "read_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "don't read the book"
     },
     {
-        "level": 3.0,
-        "image_filename": "get_gift_m.jpg",
-        "card_type": "conjugation",
+        "level": "get_gift_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "don't give it to me"
     },
     {
-        "level": 3.0,
-        "image_filename": "get_gift_m.jpg",
-        "card_type": "conjugation",
+        "level": "get_gift_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "don't give it to him"
     },
     {
-        "level": 3.0,
-        "image_filename": "teach_code_m.jpg",
-        "card_type": "conjugation",
+        "level": "teach_code_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": "don't teach me"
     },
     {
-        "level": 3.0,
-        "image_filename": "come_f.jpg",
-        "card_type": "conjugation",
+        "level": "come_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": "don't come here"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -756,9 +756,9 @@
         "audio_dir": "don't cook some food"
     },
     {
-        "level": 3.0,
-        "image_filename": "think_m.jpg",
-        "card_type": "conjugation",
+        "level": "think_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -774,9 +774,9 @@
         "audio_dir": "don't think about it"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_f.jpg",
-        "card_type": "conjugation",
+        "level": "speak_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -792,9 +792,9 @@
         "audio_dir": "speak"
     },
     {
-        "level": 3.0,
-        "image_filename": "be_careful.jpg",
-        "card_type": "conjugation",
+        "level": "be_careful",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -810,9 +810,9 @@
         "audio_dir": "be careful"
     },
     {
-        "level": 3.0,
-        "image_filename": "use_a_tool_m.jpg",
-        "card_type": "conjugation",
+        "level": "use_a_tool_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -828,9 +828,9 @@
         "audio_dir": "use this"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "conjugation",
+        "level": "hold_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -846,9 +846,9 @@
         "audio_dir": "hold this"
     },
     {
-        "level": 3.0,
-        "image_filename": "ask_mf.jpg",
-        "card_type": "conjugation",
+        "level": "ask_mf",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -864,9 +864,9 @@
         "audio_dir": "ask him"
     },
     {
-        "level": 3.0,
-        "image_filename": "help_m.jpg",
-        "card_type": "conjugation",
+        "level": "help_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -882,9 +882,9 @@
         "audio_dir": "help me"
     },
     {
-        "level": 3.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "conjugation",
+        "level": "go_with_her",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -900,9 +900,9 @@
         "audio_dir": "go with her"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_f.jpg",
-        "card_type": "conjugation",
+        "level": "speak_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -918,9 +918,9 @@
         "audio_dir": "don't speak"
     },
     {
-        "level": 3.0,
-        "image_filename": "use_a_tool_m.jpg",
-        "card_type": "conjugation",
+        "level": "use_a_tool_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -936,9 +936,9 @@
         "audio_dir": "use this"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "conjugation",
+        "level": "hold_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -954,9 +954,9 @@
         "audio_dir": "hold this"
     },
     {
-        "level": 3.0,
-        "image_filename": "ask_mf.jpg",
-        "card_type": "conjugation",
+        "level": "ask_mf",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -972,9 +972,9 @@
         "audio_dir": "don't ask him"
     },
     {
-        "level": 3.0,
-        "image_filename": "help_m.jpg",
-        "card_type": "conjugation",
+        "level": "help_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -990,9 +990,9 @@
         "audio_dir": "don't help me"
     },
     {
-        "level": 3.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "conjugation",
+        "level": "go_with_her",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1008,9 +1008,9 @@
         "audio_dir": "don't go with her"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_p.jpg",
-        "card_type": "conjugation",
+        "level": "dance_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1026,9 +1026,9 @@
         "audio_dir": "dance"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_p.jpg",
-        "card_type": "conjugation",
+        "level": "pull_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1044,9 +1044,9 @@
         "audio_dir": "pull it"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_mic_p.jpg",
-        "card_type": "conjugation",
+        "level": "drop_mic_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1062,9 +1062,9 @@
         "audio_dir": "drop it"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_p.jpg",
-        "card_type": "conjugation",
+        "level": "carry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1080,9 +1080,9 @@
         "audio_dir": "carry this"
     },
     {
-        "level": 3.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "conjugation",
+        "level": "take_treat",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1098,9 +1098,9 @@
         "audio_dir": "take one"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_p.jpg",
-        "card_type": "conjugation",
+        "level": "dance_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1116,9 +1116,9 @@
         "audio_dir": "dance"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_p.jpg",
-        "card_type": "conjugation",
+        "level": "pull_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1134,9 +1134,9 @@
         "audio_dir": "pull it"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_mic_p.jpg",
-        "card_type": "conjugation",
+        "level": "drop_mic_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1152,9 +1152,9 @@
         "audio_dir": "drop it"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_p.jpg",
-        "card_type": "conjugation",
+        "level": "carry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1170,9 +1170,9 @@
         "audio_dir": "carry this"
     },
     {
-        "level": 3.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "conjugation",
+        "level": "take_treat",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1188,9 +1188,9 @@
         "audio_dir": "don't take one"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_p.jpg",
-        "card_type": "conjugation",
+        "level": "eat_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1206,9 +1206,9 @@
         "audio_dir": "let's eat"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_p.jpg",
-        "card_type": "conjugation",
+        "level": "study_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1224,9 +1224,9 @@
         "audio_dir": "let's study"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_p.jpg",
-        "card_type": "conjugation",
+        "level": "sing_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1242,9 +1242,9 @@
         "audio_dir": "let's sing"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_p.jpg",
-        "card_type": "conjugation",
+        "level": "eat_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1260,9 +1260,9 @@
         "audio_dir": "let's eat"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_p.jpg",
-        "card_type": "conjugation",
+        "level": "study_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "app.jpg",
-        "card_type": "vocab",
+        "level": "app",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Une application"
     },
     {
-        "level": 3.0,
-        "image_filename": "road_trip.jpg",
-        "card_type": "vocab",
+        "level": "road_trip",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Un voyage"
     },
     {
-        "level": 3.0,
-        "image_filename": "buy.jpg",
-        "card_type": "vocab",
+        "level": "buy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Acheter"
     },
     {
-        "level": 3.0,
-        "image_filename": "give_gift_f.jpg",
-        "card_type": "vocab",
+        "level": "give_gift_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "donner un cadeau"
     },
     {
-        "level": 3.0,
-        "image_filename": "use_a_tool_m.jpg",
-        "card_type": "vocab",
+        "level": "use_a_tool_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "utiliser un outil"
     },
     {
-        "level": 3.0,
-        "image_filename": "tap.jpg",
-        "card_type": "vocab",
+        "level": "tap",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "toucher - tapoter"
     },
     {
-        "level": 3.0,
-        "image_filename": "weekly.jpg",
-        "card_type": "vocab",
+        "level": "weekly",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "hebdomadaire"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "illimité"
     },
     {
-        "level": 3.0,
-        "image_filename": "great.jpg",
-        "card_type": "vocab",
+        "level": "great",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "récompenser un grand accomplissement"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Tout : Tous les billets sont épuisés."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Certaines : As-tu des questions ?"
     },
     {
-        "level": 3.0,
-        "image_filename": "imperfect.jpg",
-        "card_type": "vocab",
+        "level": "imperfect",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Pas un cercle parfait"
     },
     {
-        "level": 3.0,
-        "image_filename": "Sure.jpg",
-        "card_type": "vocab",
+        "level": "sure",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

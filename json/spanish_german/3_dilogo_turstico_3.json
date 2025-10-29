@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "app.jpg",
-        "card_type": "vocab",
+        "level": "app",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Die App"
     },
     {
-        "level": 3.0,
-        "image_filename": "road_trip.jpg",
-        "card_type": "vocab",
+        "level": "road_trip",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Die Reise"
     },
     {
-        "level": 3.0,
-        "image_filename": "buy.jpg",
-        "card_type": "vocab",
+        "level": "buy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Kaufen"
     },
     {
-        "level": 3.0,
-        "image_filename": "give_gift_f.jpg",
-        "card_type": "vocab",
+        "level": "give_gift_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "ein Geschenk geben"
     },
     {
-        "level": 3.0,
-        "image_filename": "use_a_tool_m.jpg",
-        "card_type": "vocab",
+        "level": "use_a_tool_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "ein Werkzeug benutzen"
     },
     {
-        "level": 3.0,
-        "image_filename": "tap.jpg",
-        "card_type": "vocab",
+        "level": "tap",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "berühren – tippen"
     },
     {
-        "level": 3.0,
-        "image_filename": "weekly.jpg",
-        "card_type": "vocab",
+        "level": "weekly",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "wöchentlich"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "unbegrenzt"
     },
     {
-        "level": 3.0,
-        "image_filename": "great.jpg",
-        "card_type": "vocab",
+        "level": "great",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "eine großartige Leistung auszeichnen"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Alle: Alle Tickets sind ausverkauft."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Ein paar: Hast du ein paar Fragen?"
     },
     {
-        "level": 3.0,
-        "image_filename": "imperfect.jpg",
-        "card_type": "vocab",
+        "level": "imperfect",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Kein perfekter Kreis"
     },
     {
-        "level": 3.0,
-        "image_filename": "Sure.jpg",
-        "card_type": "vocab",
+        "level": "sure",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

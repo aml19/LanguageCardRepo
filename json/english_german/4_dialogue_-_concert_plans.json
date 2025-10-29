@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "amazing.jpg",
-        "card_type": "vocab",
+        "level": "amazing",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "erstaunlich"
     },
     {
-        "level": 4.0,
-        "image_filename": "epic.jpg",
-        "card_type": "vocab",
+        "level": "epic",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "episch: vermittelt ein Gefühl von Größe, Majestät oder außergewöhnlicher Wirkung."
     },
     {
-        "level": 4.0,
-        "image_filename": "good.jpg",
-        "card_type": "vocab",
+        "level": "good",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "gute Arbeit"
     },
     {
-        "level": 4.0,
-        "image_filename": "last.jpg",
-        "card_type": "vocab",
+        "level": "last",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "letztes Stück Pizza"
     },
     {
-        "level": 4.0,
-        "image_filename": "today.jpg",
-        "card_type": "vocab",
+        "level": "today",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "heute"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "bereits"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "definitiv: ohne Zweifel"
     },
     {
-        "level": 4.0,
-        "image_filename": "head.jpg",
-        "card_type": "vocab",
+        "level": "head",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Der Kopf"
     },
     {
-        "level": 4.0,
-        "image_filename": "check.jpg",
-        "card_type": "vocab",
+        "level": "check",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "die Rechnung"
     },
     {
-        "level": 4.0,
-        "image_filename": "entrance.jpg",
-        "card_type": "vocab",
+        "level": "entrance",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Der Eingang"
     },
     {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
+        "level": "friend",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Der Freund"
     },
     {
-        "level": 4.0,
-        "image_filename": "lineup.jpg",
-        "card_type": "vocab",
+        "level": "lineup",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Die Team-Aufstellung"
     },
     {
-        "level": 4.0,
-        "image_filename": "spot.jpg",
-        "card_type": "vocab",
+        "level": "spot",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Der Platz"
     },
     {
-        "level": 4.0,
-        "image_filename": "ticket.jpg",
-        "card_type": "vocab",
+        "level": "ticket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Das Ticket"
     },
     {
-        "level": 4.0,
-        "image_filename": "time.jpg",
-        "card_type": "vocab",
+        "level": "time",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Die Zeit"
     },
     {
-        "level": 4.0,
-        "image_filename": "week.jpg",
-        "card_type": "vocab",
+        "level": "week",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Die Woche"
     },
     {
-        "level": 4.0,
-        "image_filename": "weekend.jpg",
-        "card_type": "vocab",
+        "level": "weekend",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Das Wochenende"
     },
     {
-        "level": 4.0,
-        "image_filename": "concert.jpg",
-        "card_type": "vocab",
+        "level": "concert",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Das Konzert"
     },
     {
-        "level": 4.0,
-        "image_filename": "door.jpg",
-        "card_type": "vocab",
+        "level": "door",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Die Tür"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy.jpg",
-        "card_type": "vocab",
+        "level": "buy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Kaufen"
     },
     {
-        "level": 4.0,
-        "image_filename": "get_gift_m.jpg",
-        "card_type": "vocab",
+        "level": "get_gift_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "ein Geschenk bekommen"
     },
     {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
+        "level": "go_with_her",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "mit ihr gehen"
     },
     {
-        "level": 4.0,
-        "image_filename": "grab_m.jpg",
-        "card_type": "vocab",
+        "level": "grab_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "greifen"
     },
     {
-        "level": 4.0,
-        "image_filename": "help_m.jpg",
-        "card_type": "vocab",
+        "level": "help_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "helfen"
     },
     {
-        "level": 4.0,
-        "image_filename": "meeting.jpg",
-        "card_type": "vocab",
+        "level": "meeting",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "sich zu Geschäftszwecken treffen"
     },
     {
-        "level": 4.0,
-        "image_filename": "miss.jpg",
-        "card_type": "vocab",
+        "level": "miss",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "verpassen"
     },
     {
-        "level": 4.0,
-        "image_filename": "open.jpg",
-        "card_type": "vocab",
+        "level": "open",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "öffnen"
     },
     {
-        "level": 4.0,
-        "image_filename": "show_money.jpg",
-        "card_type": "vocab",
+        "level": "show_money",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Geld zeigen"
     },
     {
-        "level": 4.0,
-        "image_filename": "start_race.jpg",
-        "card_type": "vocab",
+        "level": "start_race",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Start"
     },
     {
-        "level": 4.0,
-        "image_filename": "wait.jpg",
-        "card_type": "vocab",
+        "level": "wait",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Warten"
     },
     {
-        "level": 4.0,
-        "image_filename": "want_dog_food.jpg",
-        "card_type": "vocab",
+        "level": "want_dog_food",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

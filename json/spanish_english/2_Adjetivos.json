@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "sad.jpg",
-        "card_type": "vocab",
+        "level": "sad",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "sad"
     },
     {
-        "level": 2.0,
-        "image_filename": "angry_cat.jpg",
-        "card_type": "vocab",
+        "level": "angry_cat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "angry cat"
     },
     {
-        "level": 2.0,
-        "image_filename": "hungry_cat.jpg",
-        "card_type": "vocab",
+        "level": "hungry_cat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "hungry cat"
     },
     {
-        "level": 2.0,
-        "image_filename": "thirsty.jpg",
-        "card_type": "vocab",
+        "level": "thirsty",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "thirsty biker"
     },
     {
-        "level": 2.0,
-        "image_filename": "tired.jpg",
-        "card_type": "vocab",
+        "level": "tired",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

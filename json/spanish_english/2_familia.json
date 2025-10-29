@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "wife.jpg",
-        "card_type": "vocab",
+        "level": "wife",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "wife"
     },
     {
-        "level": 2.0,
-        "image_filename": "husband.jpg",
-        "card_type": "vocab",
+        "level": "husband",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "husband"
     },
     {
-        "level": 2.0,
-        "image_filename": "married.jpg",
-        "card_type": "vocab",
+        "level": "married",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "they are married"
     },
     {
-        "level": 2.0,
-        "image_filename": "daughter.jpg",
-        "card_type": "vocab",
+        "level": "daughter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "daughter"
     },
     {
-        "level": 2.0,
-        "image_filename": "son.jpg",
-        "card_type": "vocab",
+        "level": "son",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "son"
     },
     {
-        "level": 2.0,
-        "image_filename": "mother.jpg",
-        "card_type": "vocab",
+        "level": "mother",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "mother, mom"
     },
     {
-        "level": 2.0,
-        "image_filename": "father.jpg",
-        "card_type": "vocab",
+        "level": "father",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "father, dad"
     },
     {
-        "level": 2.0,
-        "image_filename": "parents.jpg",
-        "card_type": "vocab",
+        "level": "parents",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "parents"
     },
     {
-        "level": 2.0,
-        "image_filename": "brother.jpg",
-        "card_type": "vocab",
+        "level": "brother",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "brother"
     },
     {
-        "level": 2.0,
-        "image_filename": "sister.jpg",
-        "card_type": "vocab",
+        "level": "sister",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "sister"
     },
     {
-        "level": 2.0,
-        "image_filename": "siblings.jpg",
-        "card_type": "vocab",
+        "level": "siblings",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "siblings"
     },
     {
-        "level": 2.0,
-        "image_filename": "grandma.jpg",
-        "card_type": "vocab",
+        "level": "grandma",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "grandma"
     },
     {
-        "level": 2.0,
-        "image_filename": "grandpa.jpg",
-        "card_type": "vocab",
+        "level": "grandpa",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "grandpa"
     },
     {
-        "level": 2.0,
-        "image_filename": "uncle.jpg",
-        "card_type": "vocab",
+        "level": "uncle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "uncle"
     },
     {
-        "level": 2.0,
-        "image_filename": "aunt.jpg",
-        "card_type": "vocab",
+        "level": "aunt",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "aunt"
     },
     {
-        "level": 2.0,
-        "image_filename": "niece.jpg",
-        "card_type": "vocab",
+        "level": "niece",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "niece"
     },
     {
-        "level": 2.0,
-        "image_filename": "nephew.jpg",
-        "card_type": "vocab",
+        "level": "nephew",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "nephew"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": "cousin",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "Cousin"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Step-mother"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "Step-father"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "Step-son"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "Step-daughter"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "Step-sister"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "Step-brother"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "Half-sister"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "Half-brother"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

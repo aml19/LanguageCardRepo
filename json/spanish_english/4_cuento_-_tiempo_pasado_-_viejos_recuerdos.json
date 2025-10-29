@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "once.jpg",
-        "card_type": "vocab",
+        "level": "once",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "once: on one occasion or for one time only."
     },
     {
-        "level": 4.0,
-        "image_filename": "before.jpg",
-        "card_type": "vocab",
+        "level": "before",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "before and after"
     },
     {
-        "level": 4.0,
-        "image_filename": "now.jpg",
-        "card_type": "vocab",
+        "level": "now",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "right now"
     },
     {
-        "level": 4.0,
-        "image_filename": "quickly.jpg",
-        "card_type": "vocab",
+        "level": "quickly",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "move the rope quickly"
     },
     {
-        "level": 4.0,
-        "image_filename": "countless.jpg",
-        "card_type": "reading",
+        "level": "countless",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

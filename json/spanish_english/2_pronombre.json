@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "i_me.jpg",
-        "card_type": "reading",
+        "level": "i_me",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "you.jpg",
-        "card_type": "reading",
+        "level": "you",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "he_him.jpg",
-        "card_type": "reading",
+        "level": "he_him",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "she_her.jpg",
-        "card_type": "reading",
+        "level": "she_her",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "it_it.jpg",
-        "card_type": "reading",
+        "level": "it_it",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "we_us.jpg",
-        "card_type": "reading",
+        "level": "we_us",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "they_them.jpg",
-        "card_type": "reading",
+        "level": "they_them",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "you_all.jpg",
-        "card_type": "reading",
+        "level": "you_all",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Buy the clothes"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Eat the ice cream"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "(I) help me"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "(he) help him"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "(she) help her"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "(we) help us"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "(they) help them"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "(I) feed me"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "(he) feed him"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "(she) feed her"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "(we) feed us"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "(they) feed them"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "Buy them"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "Eat it"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "me"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "you"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "you all"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "him"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "her"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "them"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "us"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "them"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "it"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "Karen is going to buy the clothes"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "Karen will buy the clothes"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "Sam is going to eat the ice cream"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "Sam will eat the ice cream"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "Karen is going to buy them"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "Karen will buy them"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "Sam is going to eat it"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "Sam will eat it"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "Karen is not going to buy the clothes"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "Sam is not going to eat the ice cream"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "Karen is not going to buy them"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "Sam is not going to eat it"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "You helped me."
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "I helped you."
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "all) I helped you all."
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "I helped him."
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": "I helped her."
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": "They helped us."
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -756,9 +756,9 @@
         "audio_dir": "We helped them."
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -774,9 +774,9 @@
         "audio_dir": "You liked me"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -792,9 +792,9 @@
         "audio_dir": "I liked you"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -810,9 +810,9 @@
         "audio_dir": "you all"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -828,9 +828,9 @@
         "audio_dir": "I liked him"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -846,9 +846,9 @@
         "audio_dir": "I liked her"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -864,9 +864,9 @@
         "audio_dir": "They liked us"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -882,9 +882,9 @@
         "audio_dir": "We liked them"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -900,9 +900,9 @@
         "audio_dir": "You fed me already"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -918,9 +918,9 @@
         "audio_dir": "I fed you already"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -936,9 +936,9 @@
         "audio_dir": "I fed you all already"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -954,9 +954,9 @@
         "audio_dir": "I fed him already"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -972,9 +972,9 @@
         "audio_dir": "I fed her already"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -990,9 +990,9 @@
         "audio_dir": "They fed us already"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1008,9 +1008,9 @@
         "audio_dir": "We fed them already"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1026,9 +1026,9 @@
         "audio_dir": "Karen bought the clothes"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1044,9 +1044,9 @@
         "audio_dir": "Sam ate the ice cream"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1062,9 +1062,9 @@
         "audio_dir": "Karen bought them"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1080,9 +1080,9 @@
         "audio_dir": "Sam ate it"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1098,9 +1098,9 @@
         "audio_dir": "you help me"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1116,9 +1116,9 @@
         "audio_dir": "I help you"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1134,9 +1134,9 @@
         "audio_dir": "I help you all"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1152,9 +1152,9 @@
         "audio_dir": "I help him"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1170,9 +1170,9 @@
         "audio_dir": "I help her"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1188,9 +1188,9 @@
         "audio_dir": "they help us"
     },
     {
-        "level": 4.0,
-        "image_filename": "helping.jpg",
-        "card_type": "conjugation",
+        "level": "helping",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1206,9 +1206,9 @@
         "audio_dir": "we help them"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1224,9 +1224,9 @@
         "audio_dir": "you like me"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1242,9 +1242,9 @@
         "audio_dir": "I like you"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1260,9 +1260,9 @@
         "audio_dir": "I like you all"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1278,9 +1278,9 @@
         "audio_dir": "I like him"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1296,9 +1296,9 @@
         "audio_dir": "I like her"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1314,9 +1314,9 @@
         "audio_dir": "they like us"
     },
     {
-        "level": 4.0,
-        "image_filename": "liking.jpg",
-        "card_type": "conjugation",
+        "level": "liking",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1332,9 +1332,9 @@
         "audio_dir": "we like them"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1350,9 +1350,9 @@
         "audio_dir": "you feed me every day"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1368,9 +1368,9 @@
         "audio_dir": "I feed you every day"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1386,9 +1386,9 @@
         "audio_dir": "I feed you all every day"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1404,9 +1404,9 @@
         "audio_dir": "I feed him every day"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1422,9 +1422,9 @@
         "audio_dir": "I feed her every day"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1440,9 +1440,9 @@
         "audio_dir": "they feed us every day"
     },
     {
-        "level": 4.0,
-        "image_filename": "feeding.jpg",
-        "card_type": "conjugation",
+        "level": "feeding",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1458,9 +1458,9 @@
         "audio_dir": "we feed them every day"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1476,9 +1476,9 @@
         "audio_dir": "Karen buys the clothes"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1494,9 +1494,9 @@
         "audio_dir": "Karen wants to buy the clothes"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1512,9 +1512,9 @@
         "audio_dir": "Karen is buying the clothes"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1530,9 +1530,9 @@
         "audio_dir": "Karen doesn't buy the clothes"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1548,9 +1548,9 @@
         "audio_dir": "Karen doesn't buy them"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1566,9 +1566,9 @@
         "audio_dir": "Sam eats the ice cream"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1584,9 +1584,9 @@
         "audio_dir": "Sam wants to eat the ice cream"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1602,9 +1602,9 @@
         "audio_dir": "Sam is eating the ice cream"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1620,9 +1620,9 @@
         "audio_dir": "Sam doesn't eat the ice cream"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1638,9 +1638,9 @@
         "audio_dir": "Sam doesn't eat it"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1656,9 +1656,9 @@
         "audio_dir": "Karen buys them"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1674,9 +1674,9 @@
         "audio_dir": "Karen wants to buy them"
     },
     {
-        "level": 4.0,
-        "image_filename": "buy_clothes.jpg",
-        "card_type": "conjugation",
+        "level": "buy_clothes",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1692,9 +1692,9 @@
         "audio_dir": "Karen is buying them"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1710,9 +1710,9 @@
         "audio_dir": "Sam eats it"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1728,9 +1728,9 @@
         "audio_dir": "Sam wants to eat it"
     },
     {
-        "level": 4.0,
-        "image_filename": "eat_cream.jpg",
-        "card_type": "conjugation",
+        "level": "eat_cream",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

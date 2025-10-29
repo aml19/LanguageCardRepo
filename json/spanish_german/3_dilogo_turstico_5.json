@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "waiter.jpg",
-        "card_type": "vocab",
+        "level": "waiter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "der Kellner"
     },
     {
-        "level": 3.0,
-        "image_filename": "table.jpg",
-        "card_type": "vocab",
+        "level": "table",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Der Tisch"
     },
     {
-        "level": 3.0,
-        "image_filename": "menu.jpg",
-        "card_type": "vocab",
+        "level": "menu",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Speisekarte"
     },
     {
-        "level": 3.0,
-        "image_filename": "glass.jpg",
-        "card_type": "vocab",
+        "level": "glass",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Glas"
     },
     {
-        "level": 3.0,
-        "image_filename": "water.jpg",
-        "card_type": "vocab",
+        "level": "water",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "das Wasser"
     },
     {
-        "level": 3.0,
-        "image_filename": "juice.jpg",
-        "card_type": "vocab",
+        "level": "juice",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "der Saft"
     },
     {
-        "level": 3.0,
-        "image_filename": "soda.jpg",
-        "card_type": "vocab",
+        "level": "soda",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Limonade"
     },
     {
-        "level": 3.0,
-        "image_filename": "wine.jpg",
-        "card_type": "vocab",
+        "level": "wine",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "der Wein"
     },
     {
-        "level": 3.0,
-        "image_filename": "bathroom.jpg",
-        "card_type": "vocab",
+        "level": "bathroom",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Das Badezimmer"
     },
     {
-        "level": 3.0,
-        "image_filename": "back.jpg",
-        "card_type": "vocab",
+        "level": "back",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Der Rücken"
     },
     {
-        "level": 3.0,
-        "image_filename": "Kitchen.jpg",
-        "card_type": "vocab",
+        "level": "kitchen",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Die Küche"
     },
     {
-        "level": 3.0,
-        "image_filename": "orange.jpg",
-        "card_type": "vocab",
+        "level": "orange",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "die Orange"
     },
     {
-        "level": 3.0,
-        "image_filename": "greet.jpg",
-        "card_type": "vocab",
+        "level": "greet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "begrüßen: willkommen heißen"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink.jpg",
-        "card_type": "vocab",
+        "level": "drink",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "das Getränk"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

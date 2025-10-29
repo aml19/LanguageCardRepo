@@ -1,8 +1,8 @@
 [
     {
-        "level": 1.0,
-        "image_filename": "apple.jpg",
-        "card_type": "vocab",
+        "level": "apple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -15,12 +15,12 @@
         "answer": "A - Apfel - A \"ah\" - AH-pfel",
         "goal_words": "A \"ah\" - AH-pfel",
         "audio_filename": "line_de_148.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3910, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"A - Apfel\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO83, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"A - Apfel\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "Tree2.jpg",
-        "card_type": "vocab",
+        "level": "tree2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -33,12 +33,12 @@
         "answer": "B - Baum - Be \"bay\" - bowm",
         "goal_words": "Be \"bay\" - bowm",
         "audio_filename": "line_de_273.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3911, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"B - Baum\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO84, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"B - Baum\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "computer.jpg",
-        "card_type": "vocab",
+        "level": "computer",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -51,12 +51,12 @@
         "answer": "C - Computer - Ce \"tsay\" - komp-YOO-ter",
         "goal_words": "Ce \"tsay\" - komp-YOO-ter",
         "audio_filename": "line_de_416.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3912, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"C - Computer\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO85, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"C - Computer\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "Roof.jpg",
-        "card_type": "vocab",
+        "level": "roof",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -69,12 +69,12 @@
         "answer": "D - Dach - De \"day\" - dahkh",
         "goal_words": "De \"day\" - dahkh",
         "audio_filename": "line_de_425.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3913, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"D - Dach\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO86, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"D - Dach\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "elephant.jpg",
-        "card_type": "vocab",
+        "level": "elephant",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -87,12 +87,12 @@
         "answer": "E - Elefant - E \"ay\" - eh-LEH-fant",
         "goal_words": "E \"ay\" - eh-LEH-fant",
         "audio_filename": "line2_de_529.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3914, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"E - Elefant\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO87, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"E - Elefant\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "fish.jpg",
-        "card_type": "vocab",
+        "level": "fish",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -105,12 +105,12 @@
         "answer": "F - Fisch - Ef \"eff\" - fish",
         "goal_words": "Ef \"eff\" - fish",
         "audio_filename": "line3_de_147.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3915, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"F - Fisch\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO88, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"F - Fisch\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "badgood.jpg",
-        "card_type": "vocab",
+        "level": "badgood",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -123,12 +123,12 @@
         "answer": "G - Guten - Ge \"gay\" - Tag GOO-ten tahk",
         "goal_words": "Ge \"gay\" - Tag GOO-ten tahk",
         "audio_filename": "line3_de_238.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3916, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"G - Guten\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO89, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"G - Guten\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "house.jpg",
-        "card_type": "vocab",
+        "level": "house",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -141,12 +141,12 @@
         "answer": "H - Haus - Ha \"hah\" - hows",
         "goal_words": "Ha \"hah\" - hows",
         "audio_filename": "line3_de_336.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3917, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"H - Haus\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO90, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"H - Haus\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "Island.jpg",
-        "card_type": "vocab",
+        "level": "island",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -159,12 +159,12 @@
         "answer": "I - Insel - I \"ee\" - EEN-zel",
         "goal_words": "I \"ee\" - EEN-zel",
         "audio_filename": "line3_de_421.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3918, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"I - Insel\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO91, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"I - Insel\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "jacket.jpg",
-        "card_type": "vocab",
+        "level": "jacket",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -177,12 +177,12 @@
         "answer": "J - Jacke - Jot \"yot\" - YAH-keh",
         "goal_words": "Jot \"yot\" - YAH-keh",
         "audio_filename": "line3_de_912.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3919, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"J - Jacke\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO92, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"J - Jacke\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "coffee.jpg",
-        "card_type": "vocab",
+        "level": "coffee",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -195,12 +195,12 @@
         "answer": "K - Kaffee - Ka \"kah\" - KAH-fay",
         "goal_words": "Ka \"kah\" - KAH-fay",
         "audio_filename": "line3_de_951.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3920, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"K - Kaffee\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO93, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"K - Kaffee\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "Lamp.jpg",
-        "card_type": "vocab",
+        "level": "lamp",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -213,12 +213,12 @@
         "answer": "L - Lampe - El \"ell\" - LAHM-peh",
         "goal_words": "El \"ell\" - LAHM-peh",
         "audio_filename": "line4_de_62.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3921, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"L - Lampe\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO94, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"L - Lampe\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "Mouse.jpg",
-        "card_type": "vocab",
+        "level": "mouse",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -231,12 +231,12 @@
         "answer": "M - Maus - Em \"emm\" - mows",
         "goal_words": "Em \"emm\" - mows",
         "audio_filename": "line4_de_135.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3922, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"M - Maus\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO95, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"M - Maus\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "nose.jpg",
-        "card_type": "vocab",
+        "level": "nose",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -249,12 +249,12 @@
         "answer": "N - Nase - En \"enn\" - NAH-zeh",
         "goal_words": "En \"enn\" - NAH-zeh",
         "audio_filename": "line4_de_234.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3923, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"N - Nase\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO96, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"N - Nase\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "ear.jpg",
-        "card_type": "vocab",
+        "level": "ear",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -267,12 +267,12 @@
         "answer": "O - Ohr - O \"oh\" - ohr",
         "goal_words": "O \"oh\" - ohr",
         "audio_filename": "line4_de_283.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3924, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"O - Ohr\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO97, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"O - Ohr\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "plant.jpg",
-        "card_type": "vocab",
+        "level": "plant",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -285,12 +285,12 @@
         "answer": "P - Pflanze - Pe \"pay\" - PFLAHN-tseh",
         "goal_words": "Pe \"pay\" - PFLAHN-tseh",
         "audio_filename": "line4_de_302.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3925, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"P - Pflanze\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO98, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"P - Pflanze\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "Jellyfish.jpg",
-        "card_type": "vocab",
+        "level": "jellyfish",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -303,12 +303,12 @@
         "answer": "Q - Qualle - Qu \"koo\" - KVAHL-leh",
         "goal_words": "Qu \"koo\" - KVAHL-leh",
         "audio_filename": "line4_de_344.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3926, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Q - Qualle\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO99, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Q - Qualle\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "Rose.jpg",
-        "card_type": "vocab",
+        "level": "rose",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -321,12 +321,12 @@
         "answer": "R - Rose - Er \"air\" (with German r) - roh-zeh",
         "goal_words": "Er \"air\" (with German r) - roh-zeh",
         "audio_filename": "line4_de_347.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3927, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"R - Rose\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO100, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"R - Rose\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "sun.jpg",
-        "card_type": "vocab",
+        "level": "sun",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -339,12 +339,12 @@
         "answer": "S - Sonne - Es \"ess\" - ZON-neh",
         "goal_words": "Es \"ess\" - ZON-neh",
         "audio_filename": "line4_de_400.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3928, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"S - Sonne\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO101, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"S - Sonne\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "table.jpg",
-        "card_type": "vocab",
+        "level": "table",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -357,12 +357,12 @@
         "answer": "T - Tisch - Te \"tay\" - tish",
         "goal_words": "Te \"tay\" - tish",
         "audio_filename": "line5_de_217.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3929, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"T - Tisch\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO102, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"T - Tisch\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "clock.jpg",
-        "card_type": "vocab",
+        "level": "clock",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -375,12 +375,12 @@
         "answer": "U - Uhr - U \"oo\" (like \"moon\") - oor",
         "goal_words": "U \"oo\" (like \"moon\") - oor",
         "audio_filename": "line5_de_321.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3930, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"U - Uhr\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO103, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"U - Uhr\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "bird.jpg",
-        "card_type": "vocab",
+        "level": "bird",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -393,12 +393,12 @@
         "answer": "V - Vogel - Vau \"fow\" (like \"cow\") - FOH-gel",
         "goal_words": "Vau \"fow\" (like \"cow\") - FOH-gel",
         "audio_filename": "line5_de_360.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3931, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"V - Vogel\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO104, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"V - Vogel\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "water.jpg",
-        "card_type": "vocab",
+        "level": "water",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -411,12 +411,12 @@
         "answer": "W - Wasser - We \"vay\" - VAH-ser",
         "goal_words": "We \"vay\" - VAH-ser",
         "audio_filename": "line5_de_446.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3932, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"W - Wasser\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO105, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"W - Wasser\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "Xylophone.jpg",
-        "card_type": "vocab",
+        "level": "xylophone",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -429,12 +429,12 @@
         "answer": "X - Xylofon - Ix \"icks\" - ZI-lo-fon",
         "goal_words": "Ix \"icks\" - ZI-lo-fon",
         "audio_filename": "line5_de_891.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3933, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"X - Xylofon\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO106, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"X - Xylofon\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "Yoga.jpg",
-        "card_type": "vocab",
+        "level": "yoga",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -447,12 +447,12 @@
         "answer": "Y - Yoga - Ypsilon \"oops-ee-lon\" - YOH-gah",
         "goal_words": "Ypsilon \"oops-ee-lon\" - YOH-gah",
         "audio_filename": "line5_de_891.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3934, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Y - Yoga\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO107, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Y - Yoga\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "zebra.jpg",
-        "card_type": "vocab",
+        "level": "zebra",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -465,12 +465,12 @@
         "answer": "Z - Zebra - Zett \"tset\" - ZEH-bra",
         "goal_words": "Zett \"tset\" - ZEH-bra",
         "audio_filename": "line5_de_891.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3935, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Z - Zebra\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO108, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Z - Zebra\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "apple.jpg",
-        "card_type": "vocab",
+        "level": "apple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -483,12 +483,12 @@
         "answer": "Ä - Äpfel - Ä (Umlaut-A) \"eh\" with mouth wider - EP-fel",
         "goal_words": "Ä (Umlaut-A) \"eh\" with mouth wider - EP-fel",
         "audio_filename": "line_de_148.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3936, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ä - Äpfel\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO109, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ä - Äpfel\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "Oil.jpg",
-        "card_type": "vocab",
+        "level": "oil",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -501,12 +501,12 @@
         "answer": "Ö - Öl - Ö (Umlaut-O) Like \"ur\" in \"burn\" (rounded) - oel",
         "goal_words": "Ö (Umlaut-O) Like \"ur\" in \"burn\" (rounded) - oel",
         "audio_filename": "line4_de_283.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3937, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ö - Öl\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO110, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ö - Öl\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": "abovebelow",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -519,12 +519,12 @@
         "answer": "Ü - Über - Ü (Umlaut-U) Like French \"u\" or German \"ü\" - EW-ber",
         "goal_words": "Ü (Umlaut-U) Like French \"u\" or German \"ü\" - EW-ber",
         "audio_filename": "line5_de_321.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3938, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ü - Über\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO111, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ü - Über\")"
     },
     {
-        "level": 1.0,
-        "image_filename": "street.jpg",
-        "card_type": "vocab",
+        "level": "street",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "\"Ä,\" \"Ö,\" \"Ü,\" and \"ẞ\" (Eszett, also known as \"sharp S\") are additional letters in the German alphabet.\n\"Ä\" is pronounced like the \"e\" in \"bed,\" \"Ö\" is similar to the \"u\" in \"fur,\" and \"Ü\" is akin to the \"u\" in \"rude.\"\n\"ẞ\" is a ligature representing a double \"s\" sound and is used instead of \"SS\" in certain instances, primarily in lowercase.\nThe letter \"V\" is pronounced like the English \"F,\" and \"W\" is pronounced like the English \"V.\"\n\"CH\" has distinct sounds, such as the guttural \"ch\" as in \"Bach\" or the softer \"ch\" as in \"ich.\"\n\"R\" is often pronounced in the back of the throat, unlike in English.\nGerman also employs umlauts (Ä, Ö, Ü) to alter the sounds of vowels, similar to how accents function in other languages. Understanding these sounds and letters is crucial for correctly pronouncing German words.",
         "native_language": "english",
@@ -537,6 +537,6 @@
         "answer": "ß - Straße - Eszett or scharfes S \"ss\" sound - SHTRAH-seh",
         "goal_words": "Eszett or scharfes S \"ss\" sound - SHTRAH-seh",
         "audio_filename": "line5_de_178.mp3",
-        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AP3939, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"ß - Straße\")"
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO112, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"ß - Straße\")"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
-        "info": null,
+        "info": "In France and other French-speaking countries, Monday is the first day of the week. Sunday is the seventh day.",
         "native_language": "spanish",
         "learning_language": "french",
         "native_group": "3 tiempo",
@@ -18,11 +18,11 @@
         "audio_dir": "dimanche"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
-        "info": null,
+        "info": "In France and other French-speaking countries, Monday is the first day of the week. Sunday is the seventh day.",
         "native_language": "spanish",
         "learning_language": "french",
         "native_group": "3 tiempo",
@@ -36,11 +36,11 @@
         "audio_dir": "lundi"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
-        "info": null,
+        "info": "In France and other French-speaking countries, Monday is the first day of the week. Sunday is the seventh day.",
         "native_language": "spanish",
         "learning_language": "french",
         "native_group": "3 tiempo",
@@ -54,11 +54,11 @@
         "audio_dir": "mardi"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
-        "info": null,
+        "info": "In France and other French-speaking countries, Monday is the first day of the week. Sunday is the seventh day.",
         "native_language": "spanish",
         "learning_language": "french",
         "native_group": "3 tiempo",
@@ -72,11 +72,11 @@
         "audio_dir": "mercredi"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
-        "info": null,
+        "info": "In France and other French-speaking countries, Monday is the first day of the week. Sunday is the seventh day.",
         "native_language": "spanish",
         "learning_language": "french",
         "native_group": "3 tiempo",
@@ -90,11 +90,11 @@
         "audio_dir": "jeudi"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
-        "info": null,
+        "info": "In France and other French-speaking countries, Monday is the first day of the week. Sunday is the seventh day.",
         "native_language": "spanish",
         "learning_language": "french",
         "native_group": "3 tiempo",
@@ -108,11 +108,11 @@
         "audio_dir": "vendredi"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
-        "info": null,
+        "info": "In France and other French-speaking countries, Monday is the first day of the week. Sunday is the seventh day.",
         "native_language": "spanish",
         "learning_language": "french",
         "native_group": "3 tiempo",
@@ -126,9 +126,9 @@
         "audio_dir": "samedi"
     },
     {
-        "level": 3.0,
-        "image_filename": "January.jpg",
-        "card_type": "vocab",
+        "level": "january",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "janvier"
     },
     {
-        "level": 3.0,
-        "image_filename": "February.jpg",
-        "card_type": "vocab",
+        "level": "february",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "février"
     },
     {
-        "level": 3.0,
-        "image_filename": "March.jpg",
-        "card_type": "vocab",
+        "level": "march",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "mars"
     },
     {
-        "level": 3.0,
-        "image_filename": "April.jpg",
-        "card_type": "vocab",
+        "level": "april",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "avril"
     },
     {
-        "level": 3.0,
-        "image_filename": "May.jpg",
-        "card_type": "vocab",
+        "level": "may",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "mai"
     },
     {
-        "level": 3.0,
-        "image_filename": "June.jpg",
-        "card_type": "vocab",
+        "level": "june",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "juin"
     },
     {
-        "level": 3.0,
-        "image_filename": "July.jpg",
-        "card_type": "vocab",
+        "level": "july",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "juillet"
     },
     {
-        "level": 3.0,
-        "image_filename": "August.jpg",
-        "card_type": "vocab",
+        "level": "august",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "août"
     },
     {
-        "level": 3.0,
-        "image_filename": "September.jpg",
-        "card_type": "vocab",
+        "level": "september",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "septembre"
     },
     {
-        "level": 3.0,
-        "image_filename": "October.jpg",
-        "card_type": "vocab",
+        "level": "october",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "octobre"
     },
     {
-        "level": 3.0,
-        "image_filename": "November.jpg",
-        "card_type": "vocab",
+        "level": "november",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "novembre"
     },
     {
-        "level": 3.0,
-        "image_filename": "December.jpg",
-        "card_type": "vocab",
+        "level": "december",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "décembre"
     },
     {
-        "level": 3.0,
-        "image_filename": "calendar.jpg",
-        "card_type": "vocab",
+        "level": "calendar",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "le calendrier"
     },
     {
-        "level": 3.0,
-        "image_filename": "schedule.jpg",
-        "card_type": "vocab",
+        "level": "schedule",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "l'emploi du temps"
     },
     {
-        "level": 3.0,
-        "image_filename": "hour.jpg",
-        "card_type": "vocab",
+        "level": "hour",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "l'heure"
     },
     {
-        "level": 3.0,
-        "image_filename": "minute.jpg",
-        "card_type": "vocab",
+        "level": "minute",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "la minute"
     },
     {
-        "level": 3.0,
-        "image_filename": "second.jpg",
-        "card_type": "vocab",
+        "level": "second",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "la seconde"
     },
     {
-        "level": 3.0,
-        "image_filename": "morning.jpg",
-        "card_type": "vocab",
+        "level": "morning",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "le matin"
     },
     {
-        "level": 3.0,
-        "image_filename": "night.jpg",
-        "card_type": "vocab",
+        "level": "night",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "la nuit"
     },
     {
-        "level": 3.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
+        "level": "day",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "le jour"
     },
     {
-        "level": 3.0,
-        "image_filename": "early.jpg",
-        "card_type": "vocab",
+        "level": "early",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "tôt"
     },
     {
-        "level": 3.0,
-        "image_filename": "late.jpg",
-        "card_type": "vocab",
+        "level": "late",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "tard"
     },
     {
-        "level": 3.0,
-        "image_filename": "evening.jpg",
-        "card_type": "vocab",
+        "level": "evening",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "le soir"
     },
     {
-        "level": 3.0,
-        "image_filename": "month.jpg",
-        "card_type": "vocab",
+        "level": "month",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "le mois"
     },
     {
-        "level": 3.0,
-        "image_filename": "fallseason.jpg",
-        "card_type": "vocab",
+        "level": "fallseason",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "**l'**automne"
     },
     {
-        "level": 3.0,
-        "image_filename": "season.jpg",
-        "card_type": "vocab",
+        "level": "season",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "la saison"
     },
     {
-        "level": 3.0,
-        "image_filename": "springseason.jpg",
-        "card_type": "vocab",
+        "level": "springseason",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "le printemps"
     },
     {
-        "level": 3.0,
-        "image_filename": "summerseason.jpg",
-        "card_type": "vocab",
+        "level": "summerseason",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "**l'**été"
     },
     {
-        "level": 3.0,
-        "image_filename": "winterseason.jpg",
-        "card_type": "vocab",
+        "level": "winterseason",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "**l'**hiver"
     },
     {
-        "level": 3.0,
-        "image_filename": "pastresentfuture.jpg",
-        "card_type": "vocab",
+        "level": "pastresentfuture",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "passé présent futur"
     },
     {
-        "level": 3.0,
-        "image_filename": "pastresentfuture.jpg",
-        "card_type": "vocab",
+        "level": "pastresentfuture",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "passé présent futur"
     },
     {
-        "level": 3.0,
-        "image_filename": "middle_of_the_night.jpg",
-        "card_type": "vocab",
+        "level": "middle_of_the_night",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "minuit. milieu de la nuit"
     },
     {
-        "level": 3.0,
-        "image_filename": "the_sun_sets_in_the_evening.jpg",
-        "card_type": "vocab",
+        "level": "the_sun_sets_in_the_evening",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": "le soleil se couche le soir"
     },
     {
-        "level": 3.0,
-        "image_filename": "wake_up_in_the_morning.jpg",
-        "card_type": "vocab",
+        "level": "wake_up_in_the_morning",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": "se réveiller le matin"
     },
     {
-        "level": 3.0,
-        "image_filename": "year.jpg",
-        "card_type": "reading",
+        "level": "year",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

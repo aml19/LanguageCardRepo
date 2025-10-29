@@ -1,8 +1,8 @@
 [
     {
-        "level": 1.0,
-        "image_filename": "door.jpg",
-        "card_type": "vocab",
+        "level": "door",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -15,12 +15,12 @@
         "answer": "porte /pɔʁt/ (door) — The final e is not pronounced.",
         "goal_words": "/pɔʁt/ (door) — The final e is not pronounced.",
         "audio_filename": "line4_fr_678.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4791, FIND(\" \", AE4791 & \" \") - 1), AE4791)"
+        "audio_dir": "=IFERROR(LEFT(AD1776, FIND(\" \", AD1776 & \" \") - 1), AD1776)"
     },
     {
-        "level": 1.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -33,12 +33,12 @@
         "answer": "femme /fam/ (woman) — The final e is silent.",
         "goal_words": "/fam/ (woman) — The final e is silent.",
         "audio_filename": "line2_fr_215.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4792, FIND(\" \", AE4792 & \" \") - 1), AE4792)"
+        "audio_dir": "=IFERROR(LEFT(AD1777, FIND(\" \", AD1777 & \" \") - 1), AD1777)"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -51,12 +51,12 @@
         "answer": "chefs /ʃɛf/ (chiefs) — The final s is silent.",
         "goal_words": "/ʃɛf/ (chiefs) — The final s is silent.",
         "audio_filename": "line_fr_573.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4793, FIND(\" \", AE4793 & \" \") - 1), AE4793)"
+        "audio_dir": "=IFERROR(LEFT(AD1778, FIND(\" \", AD1778 & \" \") - 1), AD1778)"
     },
     {
-        "level": 1.0,
-        "image_filename": "soft_cheese.jpg",
-        "card_type": "vocab",
+        "level": "soft_cheese",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -69,12 +69,12 @@
         "answer": "doux /du/ (soft) — The final x is silent.",
         "goal_words": "/du/ (soft) — The final x is silent.",
         "audio_filename": "line_fr_837.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4794, FIND(\" \", AE4794 & \" \") - 1), AE4794)"
+        "audio_dir": "=IFERROR(LEFT(AD1779, FIND(\" \", AD1779 & \" \") - 1), AD1779)"
     },
     {
-        "level": 1.0,
-        "image_filename": "beautiful.jpg",
-        "card_type": "vocab",
+        "level": "beautiful",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -87,12 +87,12 @@
         "answer": "beaux /bo/ (beautiful) — The final x is silent.",
         "goal_words": "/bo/ (beautiful) — The final x is silent.",
         "audio_filename": "line_fr_404.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4795, FIND(\" \", AE4795 & \" \") - 1), AE4795)"
+        "audio_dir": "=IFERROR(LEFT(AD1780, FIND(\" \", AD1780 & \" \") - 1), AD1780)"
     },
     {
-        "level": 1.0,
-        "image_filename": "cat.jpg",
-        "card_type": "vocab",
+        "level": "cat",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -105,12 +105,12 @@
         "answer": "chat /ʃa/ (cat) — The final t is silent.",
         "goal_words": "/ʃa/ (cat) — The final t is silent.",
         "audio_filename": "line_fr_562.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4796, FIND(\" \", AE4796 & \" \") - 1), AE4796)"
+        "audio_dir": "=IFERROR(LEFT(AD1781, FIND(\" \", AD1781 & \" \") - 1), AD1781)"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -123,12 +123,12 @@
         "answer": "ballet /ba.lɛ/ (ballet) — The final t is silent.",
         "goal_words": "/ba.lɛ/ (ballet) — The final t is silent.",
         "audio_filename": "line_fr_384.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4797, FIND(\" \", AE4797 & \" \") - 1), AE4797)"
+        "audio_dir": "=IFERROR(LEFT(AD1782, FIND(\" \", AD1782 & \" \") - 1), AD1782)"
     },
     {
-        "level": 1.0,
-        "image_filename": "Mountain2.jpg",
-        "card_type": "vocab",
+        "level": "mountain2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "2. Silent Letters in Common Consonant Combinations",
         "native_language": "english",
@@ -141,12 +141,12 @@
         "answer": "montagne /mɔ̃.taɲ/ (mountain) — The gn is pronounced as \"ny,\" like in English \"canyon.\"",
         "goal_words": "/mɔ̃.taɲ/ (mountain) — The gn is pronounced as \"ny, \" like in English \"canyon.\"",
         "audio_filename": "line4_fr_57.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4798, FIND(\" \", AE4798 & \" \") - 1), AE4798)"
+        "audio_dir": "=IFERROR(LEFT(AD1783, FIND(\" \", AD1783 & \" \") - 1), AD1783)"
     },
     {
-        "level": 1.0,
-        "image_filename": "butterfly.jpg",
-        "card_type": "vocab",
+        "level": "butterfly",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "2. Silent Letters in Common Consonant Combinations",
         "native_language": "english",
@@ -159,12 +159,12 @@
         "answer": "papillon /pa.pi.jɔ̃/ (butterfly) — The l is silent in \"il\" in this case.",
         "goal_words": "/pa.pi.jɔ̃/ (butterfly) — The l is silent in \"il\" in this case.",
         "audio_filename": "line4_fr_530.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4799, FIND(\" \", AE4799 & \" \") - 1), AE4799)"
+        "audio_dir": "=IFERROR(LEFT(AD1784, FIND(\" \", AD1784 & \" \") - 1), AD1784)"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "2. Silent Letters in Common Consonant Combinations",
         "native_language": "english",
@@ -177,12 +177,12 @@
         "answer": "milieu /mi.ljø/ (environment) — The l is silent.",
         "goal_words": "/mi.ljø/ (environment) — The l is silent.",
         "audio_filename": "line4_fr_46.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4800, FIND(\" \", AE4800 & \" \") - 1), AE4800)"
+        "audio_dir": "=IFERROR(LEFT(AD1785, FIND(\" \", AD1785 & \" \") - 1), AD1785)"
     },
     {
-        "level": 1.0,
-        "image_filename": "fire.jpg",
-        "card_type": "vocab",
+        "level": "fire",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "2. Silent Letters in Common Consonant Combinations",
         "native_language": "english",
@@ -195,12 +195,12 @@
         "answer": "feu /fø/ (fire) — The u is silent.",
         "goal_words": "/fø/ (fire) — The u is silent.",
         "audio_filename": "line2_fr_223.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4801, FIND(\" \", AE4801 & \" \") - 1), AE4801)"
+        "audio_dir": "=IFERROR(LEFT(AD1786, FIND(\" \", AD1786 & \" \") - 1), AD1786)"
     },
     {
-        "level": 1.0,
-        "image_filename": "water.jpg",
-        "card_type": "vocab",
+        "level": "water",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "2. Silent Letters in Common Consonant Combinations",
         "native_language": "english",
@@ -213,12 +213,12 @@
         "answer": "eau /o/ (water) — The e is silent.",
         "goal_words": "/o/ (water) — The e is silent.",
         "audio_filename": "line_fr_844.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4802, FIND(\" \", AE4802 & \" \") - 1), AE4802)"
+        "audio_dir": "=IFERROR(LEFT(AD1787, FIND(\" \", AD1787 & \" \") - 1), AD1787)"
     },
     {
-        "level": 1.0,
-        "image_filename": "eat_m.jpg",
-        "card_type": "vocab",
+        "level": "eat_m",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "3. Silent Letters in Verbs",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "mangent"
     },
     {
-        "level": 1.0,
-        "image_filename": "speak_f.jpg",
-        "card_type": "vocab",
+        "level": "speak_f",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "3. Silent Letters in Verbs",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "parlent"
     },
     {
-        "level": 1.0,
-        "image_filename": "love_m.jpg",
-        "card_type": "vocab",
+        "level": "love_m",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "3. Silent Letters in Verbs",
         "native_language": "english",
@@ -267,12 +267,12 @@
         "answer": "aime /ɛm/ (loves) — The final e is silent.",
         "goal_words": "/ɛm/ (loves) — The final e is silent.",
         "audio_filename": "line_fr_237.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4805, FIND(\" \", AE4805 & \" \") - 1), AE4805)"
+        "audio_dir": "=IFERROR(LEFT(AD1790, FIND(\" \", AD1790 & \" \") - 1), AD1790)"
     },
     {
-        "level": 1.0,
-        "image_filename": "speak_m.jpg",
-        "card_type": "vocab",
+        "level": "speak_m",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "3. Silent Letters in Verbs",
         "native_language": "english",
@@ -285,12 +285,12 @@
         "answer": "parle /paʁl/ (speaks) — The final e is silent.",
         "goal_words": "/paʁl/ (speaks) — The final e is silent.",
         "audio_filename": "line4_fr_539.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4806, FIND(\" \", AE4806 & \" \") - 1), AE4806)"
+        "audio_dir": "=IFERROR(LEFT(AD1791, FIND(\" \", AD1791 & \" \") - 1), AD1791)"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "4. Silent Letters in Compound Words",
         "native_language": "english",
@@ -303,12 +303,12 @@
         "answer": "hôtel /ɔ.tɛl/ (hotel) — The h is silent.",
         "goal_words": "/ɔ.tɛl/ (hotel) — The h is silent.",
         "audio_filename": "line2_fr_314.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4807, FIND(\" \", AE4807 & \" \") - 1), AE4807)"
+        "audio_dir": "=IFERROR(LEFT(AD1792, FIND(\" \", AD1792 & \" \") - 1), AD1792)"
     },
     {
-        "level": 1.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "4. Silent Letters in Compound Words",
         "native_language": "english",
@@ -321,12 +321,12 @@
         "answer": "homme /ɔm/ (man) — The h is silent.",
         "goal_words": "/ɔm/ (man) — The h is silent.",
         "audio_filename": "line2_fr_310.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4808, FIND(\" \", AE4808 & \" \") - 1), AE4808)"
+        "audio_dir": "=IFERROR(LEFT(AD1793, FIND(\" \", AD1793 & \" \") - 1), AD1793)"
     },
     {
-        "level": 1.0,
-        "image_filename": "psychology.jpg",
-        "card_type": "vocab",
+        "level": "psychology",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Miscellaneous Silent Letters",
         "native_language": "english",
@@ -339,12 +339,12 @@
         "answer": "psychologie /psiko.lɔ.ʒi/ (psychology) — The p is silent.",
         "goal_words": "/psiko.lɔ.ʒi/ (psychology) — The p is silent.",
         "audio_filename": "line4_fr_730.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4809, FIND(\" \", AE4809 & \" \") - 1), AE4809)"
+        "audio_dir": "=IFERROR(LEFT(AD1794, FIND(\" \", AD1794 & \" \") - 1), AD1794)"
     },
     {
-        "level": 1.0,
-        "image_filename": "gray_rocks.jpg",
-        "card_type": "vocab",
+        "level": "gray_rocks",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Miscellaneous Silent Letters",
         "native_language": "english",
@@ -357,6 +357,6 @@
         "answer": "gris /ɡʁi/ (gray) — The s is silent.",
         "goal_words": "/ɡʁi/ (gray) — The s is silent.",
         "audio_filename": "line2_fr_286.mp3",
-        "audio_dir": "=IFERROR(LEFT(AE4810, FIND(\" \", AE4810 & \" \") - 1), AE4810)"
+        "audio_dir": "=IFERROR(LEFT(AD1795, FIND(\" \", AD1795 & \" \") - 1), AD1795)"
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "close.jpg",
-        "card_type": "vocab",
+        "level": "close",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "close putt"
     },
     {
-        "level": 4.0,
-        "image_filename": "little.jpg",
-        "card_type": "vocab",
+        "level": "little",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "big and little kid"
     },
     {
-        "level": 4.0,
-        "image_filename": "wide_staircase.jpg",
-        "card_type": "vocab",
+        "level": "wide_staircase",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "wider: more wide"
     },
     {
-        "level": 4.0,
-        "image_filename": "solid.jpg",
-        "card_type": "vocab",
+        "level": "solid",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "solid, liquid, gas"
     },
     {
-        "level": 4.0,
-        "image_filename": "other.jpg",
-        "card_type": "vocab",
+        "level": "other",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "boat on the other side of the river"
     },
     {
-        "level": 4.0,
-        "image_filename": "should.jpg",
-        "card_type": "reading",
+        "level": "should",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "should i go left or right?"
     },
     {
-        "level": 4.0,
-        "image_filename": "far.jpg",
-        "card_type": "vocab",
+        "level": "far",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "further: more far"
     },
     {
-        "level": 4.0,
-        "image_filename": "Boss.jpg",
-        "card_type": "vocab",
+        "level": "boss",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "boss: Supervisor or manager."
     },
     {
-        "level": 4.0,
-        "image_filename": "Employee.jpg",
-        "card_type": "vocab",
+        "level": "employee",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Employee: Worker or staff member."
     },
     {
-        "level": 4.0,
-        "image_filename": "track.jpg",
-        "card_type": "vocab",
+        "level": "track",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "railroad track"
     },
     {
-        "level": 4.0,
-        "image_filename": "end.jpg",
-        "card_type": "vocab",
+        "level": "end",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "end of the road"
     },
     {
-        "level": 4.0,
-        "image_filename": "quarter.jpg",
-        "card_type": "vocab",
+        "level": "quarter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "quarter hour"
     },
     {
-        "level": 4.0,
-        "image_filename": "strategy.jpg",
-        "card_type": "vocab",
+        "level": "strategy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "chess: a game using strategy"
     },
     {
-        "level": 4.0,
-        "image_filename": "sale.jpg",
-        "card_type": "vocab",
+        "level": "sale",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "tomato sale"
     },
     {
-        "level": 4.0,
-        "image_filename": "idea.jpg",
-        "card_type": "vocab",
+        "level": "idea",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "idea"
     },
     {
-        "level": 4.0,
-        "image_filename": "effort.jpg",
-        "card_type": "vocab",
+        "level": "effort",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "effort: application of energy towards a goal"
     },
     {
-        "level": 4.0,
-        "image_filename": "marketing.jpg",
-        "card_type": "vocab",
+        "level": "marketing",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "marketing on social media"
     },
     {
-        "level": 4.0,
-        "image_filename": "advertising.jpg",
-        "card_type": "vocab",
+        "level": "advertising",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "Advertising: Promotional messaging"
     },
     {
-        "level": 4.0,
-        "image_filename": "influencer.jpg",
-        "card_type": "vocab",
+        "level": "influencer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "influencer"
     },
     {
-        "level": 4.0,
-        "image_filename": "audience.jpg",
-        "card_type": "vocab",
+        "level": "audience",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "audience"
     },
     {
-        "level": 4.0,
-        "image_filename": "meeting.jpg",
-        "card_type": "vocab",
+        "level": "meeting",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "business meeting"
     },
     {
-        "level": 4.0,
-        "image_filename": "discussion.jpg",
-        "card_type": "vocab",
+        "level": "discussion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "discussion"
     },
     {
-        "level": 4.0,
-        "image_filename": "session.jpg",
-        "card_type": "reading",
+        "level": "session",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "A session is a period of time devoted to a particular activity, discussion, or event."
     },
     {
-        "level": 4.0,
-        "image_filename": "plan.jpg",
-        "card_type": "vocab",
+        "level": "plan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "Plan"
     },
     {
-        "level": 4.0,
-        "image_filename": "start.jpg",
-        "card_type": "vocab",
+        "level": "start",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "start race"
     },
     {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
+        "level": "go_with_her",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "go with her"
     },
     {
-        "level": 4.0,
-        "image_filename": "meeting.jpg",
-        "card_type": "vocab",
+        "level": "meeting",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "meet for business"
     },
     {
-        "level": 4.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "vocab",
+        "level": "push_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "push"
     },
     {
-        "level": 4.0,
-        "image_filename": "brainstorm.jpg",
-        "card_type": "vocab",
+        "level": "brainstorm",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "brainstorm: creative process of generating ideas"
     },
     {
-        "level": 4.0,
-        "image_filename": "boost.jpg",
-        "card_type": "vocab",
+        "level": "boost",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "boost"
     },
     {
-        "level": 4.0,
-        "image_filename": "expand.jpg",
-        "card_type": "vocab",
+        "level": "expand",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "expand"
     },
     {
-        "level": 4.0,
-        "image_filename": "invest.jpg",
-        "card_type": "vocab",
+        "level": "invest",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "invest"
     },
     {
-        "level": 4.0,
-        "image_filename": "collaborate.jpg",
-        "card_type": "vocab",
+        "level": "collaborate",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "collaborate: work together, cooperate"
     },
     {
-        "level": 4.0,
-        "image_filename": "reach.jpg",
-        "card_type": "vocab",
+        "level": "reach",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "reach for the moon"
     },
     {
-        "level": 4.0,
-        "image_filename": "hear.jpg",
-        "card_type": "vocab",
+        "level": "hear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "hear"
     },
     {
-        "level": 4.0,
-        "image_filename": "explore.jpg",
-        "card_type": "vocab",
+        "level": "explore",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "explore a new world"
     },
     {
-        "level": 4.0,
-        "image_filename": "continue.jpg",
-        "card_type": "vocab",
+        "level": "continue",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "game over, would you like to continue?"
     },
     {
-        "level": 4.0,
-        "image_filename": "discussion.jpg",
-        "card_type": "vocab",
+        "level": "discussion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "discuss"
     },
     {
-        "level": 4.0,
-        "image_filename": "brainstorm.jpg",
-        "card_type": "vocab",
+        "level": "brainstorm",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

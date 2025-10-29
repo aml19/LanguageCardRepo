@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "dark_road.jpg",
-        "card_type": "vocab",
+        "level": "dark_road",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Adjectives decline based on case, gender, number, and definiteness of the noun.\n\nThey are usually placed before the noun.\n\nThere are three types of adjective declensions: strong, weak, and mixed — depending on the presence of a determiner (e.g., der, ein).\n\nAdjectives take different endings depending on whether they follow definite articles, indefinite articles, or no article.\n\n",
         "native_language": "spanish",

@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "apple.jpg",
-        "card_type": "vocab",
+        "level": "apple",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Apple"
     },
     {
-        "level": 3.0,
-        "image_filename": "vendor.jpg",
-        "card_type": "vocab",
+        "level": "vendor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "street vendor"
     },
     {
-        "level": 3.0,
-        "image_filename": "weight.jpg",
-        "card_type": "reading",
+        "level": "weight",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Pounds"
     },
     {
-        "level": 3.0,
-        "image_filename": "change2.jpg",
-        "card_type": "vocab",
+        "level": "change2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "a tire change"
     },
     {
-        "level": 3.0,
-        "image_filename": "put_in_refridgerator_m.jpg",
-        "card_type": "vocab",
+        "level": "put_in_refridgerator_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "put milk in the refridgerator"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "either is fine: you'll be happy to accept either thing"
     },
     {
-        "level": 3.0,
-        "image_filename": "good.jpg",
-        "card_type": "vocab",
+        "level": "good",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "good job"
     },
     {
-        "level": 3.0,
-        "image_filename": "Bracelet.jpg",
-        "card_type": "vocab",
+        "level": "bracelet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "Bracelet"
     },
     {
-        "level": 3.0,
-        "image_filename": "stone.jpg",
-        "card_type": "vocab",
+        "level": "stone",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "made of stone"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "sounds good: a casual phrase used to indicate agreement"
     },
     {
-        "level": 3.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
+        "level": "make",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "make"
     },
     {
-        "level": 3.0,
-        "image_filename": "beautiful.jpg",
-        "card_type": "vocab",
+        "level": "beautiful",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "beautiful woman"
     },
     {
-        "level": 3.0,
-        "image_filename": "real.jpg",
-        "card_type": "vocab",
+        "level": "real",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "real - fake"
     },
     {
-        "level": 3.0,
-        "image_filename": "lovely.jpg",
-        "card_type": "reading",
+        "level": "lovely",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "lovely"
     },
     {
-        "level": 3.0,
-        "image_filename": "handmade.jpg",
-        "card_type": "vocab",
+        "level": "handmade",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "handmade"
     },
     {
-        "level": 3.0,
-        "image_filename": "wonderful.jpg",
-        "card_type": "reading",
+        "level": "wonderful",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

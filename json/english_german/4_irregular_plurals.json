@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Mann → Männer"
     },
     {
-        "level": 4.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Frau → Frauen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Child.jpg",
-        "card_type": "vocab",
+        "level": "child",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Kind → Kinder"
     },
     {
-        "level": 4.0,
-        "image_filename": "book2.jpg",
-        "card_type": "vocab",
+        "level": "book2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Buch → Bücher"
     },
     {
-        "level": 4.0,
-        "image_filename": "house.jpg",
-        "card_type": "vocab",
+        "level": "house",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Haus → Häuser"
     },
     {
-        "level": 4.0,
-        "image_filename": "Mouse.jpg",
-        "card_type": "vocab",
+        "level": "mouse",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Maus → Mäuse"
     },
     {
-        "level": 4.0,
-        "image_filename": "tooth.jpg",
-        "card_type": "vocab",
+        "level": "tooth",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Zahn → Zähne"
     },
     {
-        "level": 4.0,
-        "image_filename": "Foot.jpg",
-        "card_type": "vocab",
+        "level": "foot",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Fuß → Füße"
     },
     {
-        "level": 4.0,
-        "image_filename": "Tree2.jpg",
-        "card_type": "vocab",
+        "level": "tree2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Baum → Bäume"
     },
     {
-        "level": 4.0,
-        "image_filename": "glass.jpg",
-        "card_type": "vocab",
+        "level": "glass",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Glas → Gläser"
     },
     {
-        "level": 4.0,
-        "image_filename": "forest.jpg",
-        "card_type": "vocab",
+        "level": "forest",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Wald → Wälder"
     },
     {
-        "level": 4.0,
-        "image_filename": "City.jpg",
-        "card_type": "vocab",
+        "level": "city",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Stadt → Städte"
     },
     {
-        "level": 4.0,
-        "image_filename": "countries2.jpg",
-        "card_type": "vocab",
+        "level": "countries2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Land → Länder"
     },
     {
-        "level": 4.0,
-        "image_filename": "Bank.jpg",
-        "card_type": "vocab",
+        "level": "bank",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Bank → Banken"
     },
     {
-        "level": 4.0,
-        "image_filename": "Word.jpg",
-        "card_type": "vocab",
+        "level": "word",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Wort → Wörter"
     },
     {
-        "level": 4.0,
-        "image_filename": "Hole.jpg",
-        "card_type": "vocab",
+        "level": "hole",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Loch → Löcher"
     },
     {
-        "level": 4.0,
-        "image_filename": "egg.jpg",
-        "card_type": "vocab",
+        "level": "egg",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Ei → Eier"
     },
     {
-        "level": 4.0,
-        "image_filename": "brother.jpg",
-        "card_type": "vocab",
+        "level": "brother",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Bruder → Brüder"
     },
     {
-        "level": 4.0,
-        "image_filename": "mother.jpg",
-        "card_type": "vocab",
+        "level": "mother",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Mutter → Mütter"
     },
     {
-        "level": 4.0,
-        "image_filename": "father.jpg",
-        "card_type": "vocab",
+        "level": "father",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Vater → Väter"
     },
     {
-        "level": 4.0,
-        "image_filename": "daughter4.jpg",
-        "card_type": "vocab",
+        "level": "daughter4",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Tochter → Töchter"
     },
     {
-        "level": 4.0,
-        "image_filename": "son.jpg",
-        "card_type": "vocab",
+        "level": "son",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Sohn → Söhne"
     },
     {
-        "level": 4.0,
-        "image_filename": "sister.jpg",
-        "card_type": "vocab",
+        "level": "sister",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Schwester → Schwestern"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ox.jpg",
-        "card_type": "vocab",
+        "level": "ox",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Ochse → Ochsen"
     },
     {
-        "level": 4.0,
-        "image_filename": "bird.jpg",
-        "card_type": "vocab",
+        "level": "bird",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Vogel → Vögel"
     },
     {
-        "level": 4.0,
-        "image_filename": "Cow.jpg",
-        "card_type": "vocab",
+        "level": "cow",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Kuh → Kühe"
     },
     {
-        "level": 4.0,
-        "image_filename": "Rooster.jpg",
-        "card_type": "vocab",
+        "level": "rooster",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Hahn → Hähne"
     },
     {
-        "level": 4.0,
-        "image_filename": "light.jpg",
-        "card_type": "vocab",
+        "level": "light",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Licht → Lichter"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ghost.jpg",
-        "card_type": "vocab",
+        "level": "ghost",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Geist → Geister"
     },
     {
-        "level": 4.0,
-        "image_filename": "knee.jpg",
-        "card_type": "vocab",
+        "level": "knee",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

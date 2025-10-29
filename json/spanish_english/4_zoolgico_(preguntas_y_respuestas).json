@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "lion.jpg",
-        "card_type": "vocab",
+        "level": "lion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "lion"
     },
     {
-        "level": 4.0,
-        "image_filename": "flamingo.jpg",
-        "card_type": "vocab",
+        "level": "flamingo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "flamingo"
     },
     {
-        "level": 4.0,
-        "image_filename": "meercat.jpg",
-        "card_type": "vocab",
+        "level": "meercat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "meercat"
     },
     {
-        "level": 4.0,
-        "image_filename": "panda.jpg",
-        "card_type": "vocab",
+        "level": "panda",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "panda"
     },
     {
-        "level": 4.0,
-        "image_filename": "dolphin.jpg",
-        "card_type": "vocab",
+        "level": "dolphin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "dolphin"
     },
     {
-        "level": 4.0,
-        "image_filename": "orangutan.jpg",
-        "card_type": "vocab",
+        "level": "orangutan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "orangutan"
     },
     {
-        "level": 4.0,
-        "image_filename": "deer.jpg",
-        "card_type": "vocab",
+        "level": "deer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "deer"
     },
     {
-        "level": 4.0,
-        "image_filename": "elephant.jpg",
-        "card_type": "vocab",
+        "level": "elephant",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "elephant"
     },
     {
-        "level": 4.0,
-        "image_filename": "polarbear.jpg",
-        "card_type": "vocab",
+        "level": "polarbear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "polar bear"
     },
     {
-        "level": 4.0,
-        "image_filename": "tiger.jpg",
-        "card_type": "vocab",
+        "level": "tiger",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "tiger"
     },
     {
-        "level": 4.0,
-        "image_filename": "rhinoceros.jpg",
-        "card_type": "vocab",
+        "level": "rhinoceros",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "rhinoceros"
     },
     {
-        "level": 4.0,
-        "image_filename": "gorilla.jpg",
-        "card_type": "vocab",
+        "level": "gorilla",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "gorilla"
     },
     {
-        "level": 4.0,
-        "image_filename": "penguin.jpg",
-        "card_type": "vocab",
+        "level": "penguin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "penguin"
     },
     {
-        "level": 4.0,
-        "image_filename": "zebra.jpg",
-        "card_type": "vocab",
+        "level": "zebra",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "zebra"
     },
     {
-        "level": 4.0,
-        "image_filename": "eagle.jpg",
-        "card_type": "vocab",
+        "level": "eagle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "eagle"
     },
     {
-        "level": 4.0,
-        "image_filename": "monkey.jpg",
-        "card_type": "vocab",
+        "level": "monkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "monkey"
     },
     {
-        "level": 4.0,
-        "image_filename": "koala.jpg",
-        "card_type": "vocab",
+        "level": "koala",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "koala"
     },
     {
-        "level": 4.0,
-        "image_filename": "giraffe.jpg",
-        "card_type": "vocab",
+        "level": "giraffe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "giraffe"
     },
     {
-        "level": 4.0,
-        "image_filename": "kangaroo.jpg",
-        "card_type": "vocab",
+        "level": "kangaroo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "kangaroo"
     },
     {
-        "level": 4.0,
-        "image_filename": "tortoise.jpg",
-        "card_type": "vocab",
+        "level": "tortoise",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "tortoise"
     },
     {
-        "level": 4.0,
-        "image_filename": "orangutan.jpg",
-        "card_type": "vocab",
+        "level": "orangutan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "bamboo"
     },
     {
-        "level": 4.0,
-        "image_filename": "lion.jpg",
-        "card_type": "vocab",
+        "level": "lion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "on a rock"
     },
     {
-        "level": 4.0,
-        "image_filename": "lion.jpg",
-        "card_type": "vocab",
+        "level": "lion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "the lions are relaxing on a rock"
     },
     {
-        "level": 4.0,
-        "image_filename": "flamingo.jpg",
-        "card_type": "vocab",
+        "level": "flamingo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "the flamingos are standing in a river"
     },
     {
-        "level": 4.0,
-        "image_filename": "flamingo.jpg",
-        "card_type": "vocab",
+        "level": "flamingo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "the river is shallow"
     },
     {
-        "level": 4.0,
-        "image_filename": "meercat.jpg",
-        "card_type": "vocab",
+        "level": "meercat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "standing"
     },
     {
-        "level": 4.0,
-        "image_filename": "meercat.jpg",
-        "card_type": "vocab",
+        "level": "meercat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "sitting on a rock"
     },
     {
-        "level": 4.0,
-        "image_filename": "panda.jpg",
-        "card_type": "vocab",
+        "level": "panda",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "the panda is eating bamboo"
     },
     {
-        "level": 4.0,
-        "image_filename": "dolphin.jpg",
-        "card_type": "vocab",
+        "level": "dolphin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "the dolphins are swimming backwards"
     },
     {
-        "level": 4.0,
-        "image_filename": "dolphin.jpg",
-        "card_type": "vocab",
+        "level": "dolphin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "the dolphin trainer"
     },
     {
-        "level": 4.0,
-        "image_filename": "zoomap.jpg",
-        "card_type": "vocab",
+        "level": "zoomap",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "a map of the zoo"
     },
     {
-        "level": 4.0,
-        "image_filename": "orangutan.jpg",
-        "card_type": "vocab",
+        "level": "orangutan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "they are climbing bamboo"
     },
     {
-        "level": 4.0,
-        "image_filename": "deer.jpg",
-        "card_type": "vocab",
+        "level": "deer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "he is feeding the deer"
     },
     {
-        "level": 4.0,
-        "image_filename": "polarbear.jpg",
-        "card_type": "vocab",
+        "level": "polarbear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "underwater"
     },
     {
-        "level": 4.0,
-        "image_filename": "polarbear.jpg",
-        "card_type": "vocab",
+        "level": "polarbear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "the polar bear is swimming underwater"
     },
     {
-        "level": 4.0,
-        "image_filename": "monkey.jpg",
-        "card_type": "vocab",
+        "level": "monkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "it has a can of soda"
     },
     {
-        "level": 4.0,
-        "image_filename": "monkey.jpg",
-        "card_type": "vocab",
+        "level": "monkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "it is sitting on a beach"
     },
     {
-        "level": 4.0,
-        "image_filename": "giraffe.jpg",
-        "card_type": "vocab",
+        "level": "giraffe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "behind it's mother"
     },
     {
-        "level": 4.0,
-        "image_filename": "kangaroo.jpg",
-        "card_type": "vocab",
+        "level": "kangaroo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "in the middle of the road"
     },
     {
-        "level": 4.0,
-        "image_filename": "tortoise.jpg",
-        "card_type": "vocab",
+        "level": "tortoise",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

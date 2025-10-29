@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Sunday"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Monday"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Tuesday"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Wednesday"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Thursday"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "Friday"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Saturday"
     },
     {
-        "level": 3.0,
-        "image_filename": "January.jpg",
-        "card_type": "vocab",
+        "level": "january",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "January"
     },
     {
-        "level": 3.0,
-        "image_filename": "February.jpg",
-        "card_type": "vocab",
+        "level": "february",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "February"
     },
     {
-        "level": 3.0,
-        "image_filename": "March.jpg",
-        "card_type": "vocab",
+        "level": "march",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "March"
     },
     {
-        "level": 3.0,
-        "image_filename": "April.jpg",
-        "card_type": "vocab",
+        "level": "april",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "April"
     },
     {
-        "level": 3.0,
-        "image_filename": "May.jpg",
-        "card_type": "vocab",
+        "level": "may",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "May"
     },
     {
-        "level": 3.0,
-        "image_filename": "June.jpg",
-        "card_type": "vocab",
+        "level": "june",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "June"
     },
     {
-        "level": 3.0,
-        "image_filename": "July.jpg",
-        "card_type": "vocab",
+        "level": "july",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "July"
     },
     {
-        "level": 3.0,
-        "image_filename": "August.jpg",
-        "card_type": "vocab",
+        "level": "august",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "August"
     },
     {
-        "level": 3.0,
-        "image_filename": "September.jpg",
-        "card_type": "vocab",
+        "level": "september",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "September"
     },
     {
-        "level": 3.0,
-        "image_filename": "October.jpg",
-        "card_type": "vocab",
+        "level": "october",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "October"
     },
     {
-        "level": 3.0,
-        "image_filename": "November.jpg",
-        "card_type": "vocab",
+        "level": "november",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "November"
     },
     {
-        "level": 3.0,
-        "image_filename": "December.jpg",
-        "card_type": "vocab",
+        "level": "december",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "December"
     },
     {
-        "level": 3.0,
-        "image_filename": "calendar.jpg",
-        "card_type": "vocab",
+        "level": "calendar",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "calendar"
     },
     {
-        "level": 3.0,
-        "image_filename": "schedule.jpg",
-        "card_type": "vocab",
+        "level": "schedule",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "schedule"
     },
     {
-        "level": 3.0,
-        "image_filename": "hour.jpg",
-        "card_type": "vocab",
+        "level": "hour",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "hour"
     },
     {
-        "level": 3.0,
-        "image_filename": "minute.jpg",
-        "card_type": "vocab",
+        "level": "minute",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "minute"
     },
     {
-        "level": 3.0,
-        "image_filename": "second.jpg",
-        "card_type": "vocab",
+        "level": "second",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "second"
     },
     {
-        "level": 3.0,
-        "image_filename": "morning.jpg",
-        "card_type": "vocab",
+        "level": "morning",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "night.jpg",
-        "card_type": "vocab",
+        "level": "night",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "night"
     },
     {
-        "level": 3.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
+        "level": "day",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "day"
     },
     {
-        "level": 3.0,
-        "image_filename": "early.jpg",
-        "card_type": "vocab",
+        "level": "early",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "early"
     },
     {
-        "level": 3.0,
-        "image_filename": "late.jpg",
-        "card_type": "vocab",
+        "level": "late",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "late"
     },
     {
-        "level": 3.0,
-        "image_filename": "evening.jpg",
-        "card_type": "vocab",
+        "level": "evening",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "evening"
     },
     {
-        "level": 3.0,
-        "image_filename": "month.jpg",
-        "card_type": "vocab",
+        "level": "month",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "month"
     },
     {
-        "level": 3.0,
-        "image_filename": "fallseason.jpg",
-        "card_type": "vocab",
+        "level": "fallseason",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "fall"
     },
     {
-        "level": 3.0,
-        "image_filename": "season.jpg",
-        "card_type": "vocab",
+        "level": "season",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "season"
     },
     {
-        "level": 3.0,
-        "image_filename": "springseason.jpg",
-        "card_type": "vocab",
+        "level": "springseason",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "spring"
     },
     {
-        "level": 3.0,
-        "image_filename": "summerseason.jpg",
-        "card_type": "vocab",
+        "level": "summerseason",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "summer"
     },
     {
-        "level": 3.0,
-        "image_filename": "winterseason.jpg",
-        "card_type": "vocab",
+        "level": "winterseason",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "winter"
     },
     {
-        "level": 3.0,
-        "image_filename": "pastresentfuture.jpg",
-        "card_type": "vocab",
+        "level": "pastresentfuture",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "past present future"
     },
     {
-        "level": 3.0,
-        "image_filename": "pastresentfuture.jpg",
-        "card_type": "vocab",
+        "level": "pastresentfuture",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "past present future"
     },
     {
-        "level": 3.0,
-        "image_filename": "middle_of_the_night.jpg",
-        "card_type": "vocab",
+        "level": "middle_of_the_night",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "midnight. middle of the night"
     },
     {
-        "level": 3.0,
-        "image_filename": "the_sun_sets_in_the_evening.jpg",
-        "card_type": "vocab",
+        "level": "the_sun_sets_in_the_evening",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": "the sun sets in the evening"
     },
     {
-        "level": 3.0,
-        "image_filename": "wake_up_in_the_morning.jpg",
-        "card_type": "vocab",
+        "level": "wake_up_in_the_morning",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": "wake up in the morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "year.jpg",
-        "card_type": "reading",
+        "level": "year",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "brave.jpg",
-        "card_type": "vocab",
+        "level": "brave",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "enfrentar tu miedo"
     },
     {
-        "level": 4.0,
-        "image_filename": "prevent.jpg",
-        "card_type": "vocab",
+        "level": "prevent",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Prevenir una enfermedad"
     },
     {
-        "level": 4.0,
-        "image_filename": "suffer.jpg",
-        "card_type": "vocab",
+        "level": "suffer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "sufrir"
     },
     {
-        "level": 4.0,
-        "image_filename": "research.jpg",
-        "card_type": "vocab",
+        "level": "research",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "investigar"
     },
     {
-        "level": 4.0,
-        "image_filename": "find_key.jpg",
-        "card_type": "vocab",
+        "level": "find_key",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Encontrar una pista"
     },
     {
-        "level": 4.0,
-        "image_filename": "give_gift_f.jpg",
-        "card_type": "vocab",
+        "level": "give_gift_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "dar un regalo"
     },
     {
-        "level": 4.0,
-        "image_filename": "save.jpg",
-        "card_type": "vocab",
+        "level": "save",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "guardar un archivo"
     },
     {
-        "level": 4.0,
-        "image_filename": "improve.jpg",
-        "card_type": "vocab",
+        "level": "improve",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "mejorar tu casa"
     },
     {
-        "level": 4.0,
-        "image_filename": "join.jpg",
-        "card_type": "vocab",
+        "level": "join",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "unirse a un grupo"
     },
     {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
+        "level": "make",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "hacer"
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "número 1,000,000: millón"
     },
     {
-        "level": 4.0,
-        "image_filename": "Person.jpg",
-        "card_type": "vocab",
+        "level": "person",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Una persona"
     },
     {
-        "level": 4.0,
-        "image_filename": "suffer.jpg",
-        "card_type": "vocab",
+        "level": "suffer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "sufrimiento"
     },
     {
-        "level": 4.0,
-        "image_filename": "year.jpg",
-        "card_type": "vocab",
+        "level": "year",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "el año"
     },
     {
-        "level": 4.0,
-        "image_filename": "charity.jpg",
-        "card_type": "vocab",
+        "level": "charity",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "dar dinero a la caridad"
     },
     {
-        "level": 4.0,
-        "image_filename": "different.jpg",
-        "card_type": "vocab",
+        "level": "different",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "alguna diferencia entre huevos"
     },
     {
-        "level": 4.0,
-        "image_filename": "dollar.jpg",
-        "card_type": "vocab",
+        "level": "dollar",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "un dólar"
     },
     {
-        "level": 4.0,
-        "image_filename": "left_alive_right_dead_tree.jpg",
-        "card_type": "vocab",
+        "level": "left_alive_right_dead_tree",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "La vida"
     },
     {
-        "level": 4.0,
-        "image_filename": "prevent.jpg",
-        "card_type": "vocab",
+        "level": "prevent",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "enfermedad prevenible"
     },
     {
-        "level": 4.0,
-        "image_filename": "effective.jpg",
-        "card_type": "vocab",
+        "level": "effective",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "efectivo: que produce el resultado deseado"
     },
     {
-        "level": 4.0,
-        "image_filename": "today.jpg",
-        "card_type": "vocab",
+        "level": "today",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

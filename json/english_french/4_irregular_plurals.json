@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "Jewel.jpg",
-        "card_type": "vocab",
+        "level": "jewel",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Bijou → bijoux"
     },
     {
-        "level": 4.0,
-        "image_filename": "pebble.jpg",
-        "card_type": "vocab",
+        "level": "pebble",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Caillou → cailloux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Cabbage.jpg",
-        "card_type": "vocab",
+        "level": "cabbage",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Chou → choux"
     },
     {
-        "level": 4.0,
-        "image_filename": "knee.jpg",
-        "card_type": "vocab",
+        "level": "knee",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Genou → genoux"
     },
     {
-        "level": 4.0,
-        "image_filename": "owl.jpg",
-        "card_type": "vocab",
+        "level": "owl",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Hibou → hiboux"
     },
     {
-        "level": 4.0,
-        "image_filename": "toy.jpg",
-        "card_type": "vocab",
+        "level": "toy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Joujou → joujoux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Sky.jpg",
-        "card_type": "vocab",
+        "level": "sky",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Ciel → cieux"
     },
     {
-        "level": 4.0,
-        "image_filename": "eye.jpg",
-        "card_type": "vocab",
+        "level": "eye",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Œil → yeux"
     },
     {
-        "level": 4.0,
-        "image_filename": "work_m.jpg",
-        "card_type": "vocab",
+        "level": "work_m",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Travail → travaux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Lease.jpg",
-        "card_type": "vocab",
+        "level": "lease",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Bail → baux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Coral.jpg",
-        "card_type": "vocab",
+        "level": "coral",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Corail → coraux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Enamel.jpg",
-        "card_type": "vocab",
+        "level": "enamel",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Émail → émaux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ancestor.jpg",
-        "card_type": "vocab",
+        "level": "ancestor",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Aïeul → aïeux"
     },
     {
-        "level": 4.0,
-        "image_filename": "horse.jpg",
-        "card_type": "vocab",
+        "level": "horse",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Cheval → chevaux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Newspaper.jpg",
-        "card_type": "vocab",
+        "level": "newspaper",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Journal → journaux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Canal.jpg",
-        "card_type": "vocab",
+        "level": "canal",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Canal → canaux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Signal.jpg",
-        "card_type": "vocab",
+        "level": "signal",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Signal → signaux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Festival.jpg",
-        "card_type": "vocab",
+        "level": "festival",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Festival → festivals"
     },
     {
-        "level": 4.0,
-        "image_filename": "ball.jpg",
-        "card_type": "vocab",
+        "level": "ball",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Bal → bals"
     },
     {
-        "level": 4.0,
-        "image_filename": "Detail.jpg",
-        "card_type": "vocab",
+        "level": "detail",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Détail → détails"
     },
     {
-        "level": 4.0,
-        "image_filename": "fan5.jpg",
-        "card_type": "vocab",
+        "level": "fan5",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Éventail → éventails"
     },
     {
-        "level": 4.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Monsieur → messieurs"
     },
     {
-        "level": 4.0,
-        "image_filename": "Young.jpg",
-        "card_type": "vocab",
+        "level": "young",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Mademoiselle → mesdemoiselles"
     },
     {
-        "level": 4.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

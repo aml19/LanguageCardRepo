@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "time.jpg",
-        "card_type": "vocab",
+        "level": "time",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Le temps"
     },
     {
-        "level": 3.0,
-        "image_filename": "museum.jpg",
-        "card_type": "vocab",
+        "level": "museum",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "musée d’art"
     },
     {
-        "level": 3.0,
-        "image_filename": "staff.jpg",
-        "card_type": "vocab",
+        "level": "staff",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "personnel de l’aéroport"
     },
     {
-        "level": 3.0,
-        "image_filename": "entrance.jpg",
-        "card_type": "vocab",
+        "level": "entrance",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Une entrée"
     },
     {
-        "level": 3.0,
-        "image_filename": "corner.jpg",
-        "card_type": "vocab",
+        "level": "corner",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "coin"
     },
     {
-        "level": 3.0,
-        "image_filename": "desk.jpg",
-        "card_type": "vocab",
+        "level": "desk",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "bureau"
     },
     {
-        "level": 3.0,
-        "image_filename": "card.jpg",
-        "card_type": "vocab",
+        "level": "card",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "carte ou espèces ?"
     },
     {
-        "level": 3.0,
-        "image_filename": "cash.jpg",
-        "card_type": "vocab",
+        "level": "cash",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "carte ou espèces ?"
     },
     {
-        "level": 3.0,
-        "image_filename": "bag.jpg",
-        "card_type": "vocab",
+        "level": "bag",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "le sac"
     },
     {
-        "level": 3.0,
-        "image_filename": "locker.jpg",
-        "card_type": "vocab",
+        "level": "locker",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "casier"
     },
     {
-        "level": 3.0,
-        "image_filename": "map.jpg",
-        "card_type": "vocab",
+        "level": "map",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "carte / plan"
     },
     {
-        "level": 3.0,
-        "image_filename": "Paper2.jpg",
-        "card_type": "vocab",
+        "level": "paper2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Le papier"
     },
     {
-        "level": 3.0,
-        "image_filename": "QR.jpg",
-        "card_type": "vocab",
+        "level": "qr",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "code QR"
     },
     {
-        "level": 3.0,
-        "image_filename": "pay.jpg",
-        "card_type": "vocab",
+        "level": "pay",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "payer"
     },
     {
-        "level": 3.0,
-        "image_filename": "acceptreject.jpg",
-        "card_type": "vocab",
+        "level": "acceptreject",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "accepter rejeter"
     },
     {
-        "level": 3.0,
-        "image_filename": "leave_on_a_trip_m.jpg",
-        "card_type": "vocab",
+        "level": "leave_on_a_trip_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "partir en voyage"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_m.jpg",
-        "card_type": "vocab",
+        "level": "grab_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "attraper"
     },
     {
-        "level": 3.0,
-        "image_filename": "scan.jpg",
-        "card_type": "vocab",
+        "level": "scan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "scanner"
     },
     {
-        "level": 3.0,
-        "image_filename": "first.jpg",
-        "card_type": "vocab",
+        "level": "first",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "première place"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "principal"
     },
     {
-        "level": 3.0,
-        "image_filename": "free.jpg",
-        "card_type": "vocab",
+        "level": "free",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "gratuit"
     },
     {
-        "level": 3.0,
-        "image_filename": "digital.jpg",
-        "card_type": "vocab",
+        "level": "digital",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

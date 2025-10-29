@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "receptionist.jpg",
-        "card_type": "vocab",
+        "level": "receptionist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "recepcionista"
     },
     {
-        "level": 3.0,
-        "image_filename": "afternoon.jpg",
-        "card_type": "vocab",
+        "level": "afternoon",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "¿Qué hora del día es? La tarde"
     },
     {
-        "level": 3.0,
-        "image_filename": "reservation.jpg",
-        "card_type": "vocab",
+        "level": "reservation",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "reserva"
     },
     {
-        "level": 3.0,
-        "image_filename": "name.jpg",
-        "card_type": "vocab",
+        "level": "name",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "nombre"
     },
     {
-        "level": 3.0,
-        "image_filename": "room3.jpg",
-        "card_type": "vocab",
+        "level": "room3",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "La habitación vacía"
     },
     {
-        "level": 3.0,
-        "image_filename": "night.jpg",
-        "card_type": "vocab",
+        "level": "night",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "la noche"
     },
     {
-        "level": 3.0,
-        "image_filename": "ID.jpg",
-        "card_type": "vocab",
+        "level": "id",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "identificación (ID)"
     },
     {
-        "level": 3.0,
-        "image_filename": "creditcard.jpg",
-        "card_type": "vocab",
+        "level": "creditcard",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "tarjeta de crédito"
     },
     {
-        "level": 3.0,
-        "image_filename": "floor.jpg",
-        "card_type": "vocab",
+        "level": "floor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "El suelo / El piso"
     },
     {
-        "level": 3.0,
-        "image_filename": "keycard.jpg",
-        "card_type": "vocab",
+        "level": "keycard",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "tarjeta llave"
     },
     {
-        "level": 3.0,
-        "image_filename": "breakfast.jpg",
-        "card_type": "vocab",
+        "level": "breakfast",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "el desayuno"
     },
     {
-        "level": 3.0,
-        "image_filename": "Dining_room.jpg",
-        "card_type": "vocab",
+        "level": "dining_room",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "El comedor"
     },
     {
-        "level": 3.0,
-        "image_filename": "wifi.jpg",
-        "card_type": "vocab",
+        "level": "wifi",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Wi-Fi"
     },
     {
-        "level": 3.0,
-        "image_filename": "network.jpg",
-        "card_type": "vocab",
+        "level": "network",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "red"
     },
     {
-        "level": 3.0,
-        "image_filename": "password.jpg",
-        "card_type": "vocab",
+        "level": "password",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "contraseña"
     },
     {
-        "level": 3.0,
-        "image_filename": "dog_stay.jpg",
-        "card_type": "vocab",
+        "level": "dog_stay",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Quede"
     },
     {
-        "level": 3.0,
-        "image_filename": "second.jpg",
-        "card_type": "vocab",
+        "level": "second",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

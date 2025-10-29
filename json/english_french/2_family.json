@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "wife.jpg",
-        "card_type": "vocab",
+        "level": "wife",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "la épouse"
     },
     {
-        "level": 2.0,
-        "image_filename": "husband.jpg",
-        "card_type": "vocab",
+        "level": "husband",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "le époux"
     },
     {
-        "level": 2.0,
-        "image_filename": "married.jpg",
-        "card_type": "vocab",
+        "level": "married",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "ils sont mariés"
     },
     {
-        "level": 2.0,
-        "image_filename": "daughter.jpg",
-        "card_type": "vocab",
+        "level": "daughter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "la fille"
     },
     {
-        "level": 2.0,
-        "image_filename": "son.jpg",
-        "card_type": "vocab",
+        "level": "son",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "le fils"
     },
     {
-        "level": 2.0,
-        "image_filename": "mother.jpg",
-        "card_type": "vocab",
+        "level": "mother",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "la mère"
     },
     {
-        "level": 2.0,
-        "image_filename": "father.jpg",
-        "card_type": "vocab",
+        "level": "father",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "le père"
     },
     {
-        "level": 2.0,
-        "image_filename": "parents.jpg",
-        "card_type": "vocab",
+        "level": "parents",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "les parents"
     },
     {
-        "level": 2.0,
-        "image_filename": "brother.jpg",
-        "card_type": "vocab",
+        "level": "brother",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "le frère"
     },
     {
-        "level": 2.0,
-        "image_filename": "sister.jpg",
-        "card_type": "vocab",
+        "level": "sister",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "la sœur"
     },
     {
-        "level": 2.0,
-        "image_filename": "siblings.jpg",
-        "card_type": "vocab",
+        "level": "siblings",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "les frères et sœurs"
     },
     {
-        "level": 2.0,
-        "image_filename": "grandma.jpg",
-        "card_type": "vocab",
+        "level": "grandma",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "la grand-mère"
     },
     {
-        "level": 2.0,
-        "image_filename": "grandpa.jpg",
-        "card_type": "vocab",
+        "level": "grandpa",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "le grand-père"
     },
     {
-        "level": 2.0,
-        "image_filename": "uncle.jpg",
-        "card_type": "vocab",
+        "level": "uncle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "l'oncle"
     },
     {
-        "level": 2.0,
-        "image_filename": "aunt.jpg",
-        "card_type": "vocab",
+        "level": "aunt",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "la tante"
     },
     {
-        "level": 2.0,
-        "image_filename": "niece.jpg",
-        "card_type": "vocab",
+        "level": "niece",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "la nièce"
     },
     {
-        "level": 2.0,
-        "image_filename": "nephew.jpg",
-        "card_type": "vocab",
+        "level": "nephew",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "le neveu"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": "cousin",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Cousin / Cousine"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Belle-mère"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Beau-père"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Beau-fils"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Belle-fille"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Belle-soeur"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Beau-frère"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Demi-soeur"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Demi-frère"
     },
     {
-        "level": 2.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have gender: masculine or feminine.\n\nGender affects articles, adjectives, and pronouns used with the noun.\n\nMost nouns form the plural by adding -s, though pronunciation often remains unchanged.\n\nGender is not always predictable; often must be memorized.\n\nArticles precede nouns: le/la (the), un/une (a).\n\n",
         "native_language": "english",

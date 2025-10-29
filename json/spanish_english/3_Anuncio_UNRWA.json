@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "help_m.jpg",
-        "card_type": "vocab",
+        "level": "help_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,11 +18,11 @@
         "audio_dir": "help"
     },
     {
-        "level": 3.0,
-        "image_filename": "give_gift_f.jpg",
-        "card_type": "vocab",
+        "level": "give_gift_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
-        "info": null,
+        "info": "!",
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "3 Anuncio: UNRWA",
@@ -36,9 +36,9 @@
         "audio_dir": "to give a gift"
     },
     {
-        "level": 3.0,
-        "image_filename": "protect.jpg",
-        "card_type": "vocab",
+        "level": "protect",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "protect: to keep safe from harm"
     },
     {
-        "level": 3.0,
-        "image_filename": "bring.jpg",
-        "card_type": "vocab",
+        "level": "bring",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "to bring groceries to the house"
     },
     {
-        "level": 3.0,
-        "image_filename": "refugee.jpg",
-        "card_type": "vocab",
+        "level": "refugee",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "refugee"
     },
     {
-        "level": 3.0,
-        "image_filename": "education.jpg",
-        "card_type": "vocab",
+        "level": "education",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "go to school for an education"
     },
     {
-        "level": 3.0,
-        "image_filename": "healthcare.jpg",
-        "card_type": "vocab",
+        "level": "healthcare",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "health care"
     },
     {
-        "level": 3.0,
-        "image_filename": "food.jpg",
-        "card_type": "vocab",
+        "level": "food",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "food on the table"
     },
     {
-        "level": 3.0,
-        "image_filename": "support.jpg",
-        "card_type": "vocab",
+        "level": "support",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "support"
     },
     {
-        "level": 3.0,
-        "image_filename": "family_i.jpg",
-        "card_type": "vocab",
+        "level": "family_i",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "family"
     },
     {
-        "level": 3.0,
-        "image_filename": "hope.jpg",
-        "card_type": "vocab",
+        "level": "hope",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "wish, pray, hope"
     },
     {
-        "level": 3.0,
-        "image_filename": "child.jpg",
-        "card_type": "vocab",
+        "level": "child",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

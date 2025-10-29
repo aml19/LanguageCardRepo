@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "tourist.jpg",
-        "card_type": "vocab",
+        "level": "tourist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "touriste"
     },
     {
-        "level": 3.0,
-        "image_filename": "farmersmarket.jpg",
-        "card_type": "vocab",
+        "level": "farmersmarket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "le marché fermier vend des produits locaux"
     },
     {
-        "level": 3.0,
-        "image_filename": "cityblock.jpg",
-        "card_type": "vocab",
+        "level": "cityblock",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "bloc / pâté de maisons"
     },
     {
-        "level": 3.0,
-        "image_filename": "trafficlight.jpg",
-        "card_type": "vocab",
+        "level": "trafficlight",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Le feu de signalisation"
     },
     {
-        "level": 3.0,
-        "image_filename": "Bus.jpg",
-        "card_type": "vocab",
+        "level": "bus",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Le bus"
     },
     {
-        "level": 3.0,
-        "image_filename": "busstop.jpg",
-        "card_type": "vocab",
+        "level": "busstop",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "arrêt de bus"
     },
     {
-        "level": 3.0,
-        "image_filename": "minute.jpg",
-        "card_type": "vocab",
+        "level": "minute",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "la minute"
     },
     {
-        "level": 3.0,
-        "image_filename": "stop.jpg",
-        "card_type": "vocab",
+        "level": "stop",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "arrêt"
     },
     {
-        "level": 3.0,
-        "image_filename": "street.jpg",
-        "card_type": "vocab",
+        "level": "street",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "rue"
     },
     {
-        "level": 3.0,
-        "image_filename": "artmuseum.jpg",
-        "card_type": "vocab",
+        "level": "artmuseum",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "musée d’art"
     },
     {
-        "level": 3.0,
-        "image_filename": "visit.jpg",
-        "card_type": "vocab",
+        "level": "visit",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "visiter un musée"
     },
     {
-        "level": 3.0,
-        "image_filename": "help_m.jpg",
-        "card_type": "vocab",
+        "level": "help_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "aider"
     },
     {
-        "level": 3.0,
-        "image_filename": "try_surf.jpg",
-        "card_type": "vocab",
+        "level": "try_surf",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "essayer de surfer"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk.jpg",
-        "card_type": "vocab",
+        "level": "walk",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "marcher"
     },
     {
-        "level": 3.0,
-        "image_filename": "turn.jpg",
-        "card_type": "vocab",
+        "level": "turn",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "tourner"
     },
     {
-        "level": 3.0,
-        "image_filename": "See.jpg",
-        "card_type": "vocab",
+        "level": "see",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Voir"
     },
     {
-        "level": 3.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
+        "level": "take_treat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "prendre une friandise"
     },
     {
-        "level": 3.0,
-        "image_filename": "come_f.jpg",
-        "card_type": "vocab",
+        "level": "come_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "venir avec quelqu’un"
     },
     {
-        "level": 3.0,
-        "image_filename": "getoff.jpg",
-        "card_type": "vocab",
+        "level": "getoff",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "descendre du train"
     },
     {
-        "level": 3.0,
-        "image_filename": "thank.jpg",
-        "card_type": "vocab",
+        "level": "thank",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "remercier"
     },
     {
-        "level": 3.0,
-        "image_filename": "enjoy_free.jpg",
-        "card_type": "vocab",
+        "level": "enjoy_free",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "Profiter"
     },
     {
-        "level": 3.0,
-        "image_filename": "nearfar.jpg",
-        "card_type": "vocab",
+        "level": "nearfar",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "près loin"
     },
     {
-        "level": 3.0,
-        "image_filename": "straight.jpg",
-        "card_type": "vocab",
+        "level": "straight",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "droit - de travers"
     },
     {
-        "level": 3.0,
-        "image_filename": "left.jpg",
-        "card_type": "vocab",
+        "level": "left",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "gauche - droite"
     },
     {
-        "level": 3.0,
-        "image_filename": "central.jpg",
-        "card_type": "vocab",
+        "level": "central",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "bureau central"
     },
     {
-        "level": 3.0,
-        "image_filename": "Right.jpg",
-        "card_type": "vocab",
+        "level": "right",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

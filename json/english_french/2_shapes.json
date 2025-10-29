@@ -1,62 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "circle.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "2 shapes",
-        "native_answer": "circle",
-        "native_word": "shape",
-        "tag": "shape",
-        "prompt": "______",
-        "answer": "le cercle",
-        "goal_words": "le cercle",
-        "audio_filename": "line3_fr_625.mp3",
-        "audio_dir": "le cercle"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "triangle.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "2 shapes",
-        "native_answer": "triangle",
-        "native_word": "shape",
-        "tag": "shape",
-        "prompt": "______",
-        "answer": "le triangle",
-        "goal_words": "le triangle",
-        "audio_filename": "line3_fr_847.mp3",
-        "audio_dir": "le triangle"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "square.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "2 shapes",
-        "native_answer": "square",
-        "native_word": "shape",
-        "tag": "shape",
-        "prompt": "______",
-        "answer": "le carré",
-        "goal_words": "le carré",
-        "audio_filename": "line3_fr_623.mp3",
-        "audio_dir": "le carré"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "Circle.jpg",
-        "card_type": "vocab",
+        "level": "circle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +18,9 @@
         "audio_dir": "Le cercle"
     },
     {
-        "level": 2.0,
-        "image_filename": "Oval.jpg",
-        "card_type": "vocab",
+        "level": "oval",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +36,9 @@
         "audio_dir": "L’ovale"
     },
     {
-        "level": 2.0,
-        "image_filename": "Triangle.jpg",
-        "card_type": "vocab",
+        "level": "triangle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +54,9 @@
         "audio_dir": "Le triangle"
     },
     {
-        "level": 2.0,
-        "image_filename": "Square.jpg",
-        "card_type": "vocab",
+        "level": "square",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +72,9 @@
         "audio_dir": "Le carré"
     },
     {
-        "level": 2.0,
-        "image_filename": "Rectangle.jpg",
-        "card_type": "vocab",
+        "level": "rectangle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +90,9 @@
         "audio_dir": "Le rectangle"
     },
     {
-        "level": 2.0,
-        "image_filename": "Diamond5.jpg",
-        "card_type": "vocab",
+        "level": "diamond5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +108,9 @@
         "audio_dir": "Le losange"
     },
     {
-        "level": 2.0,
-        "image_filename": "Star5.jpg",
-        "card_type": "vocab",
+        "level": "star5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +126,9 @@
         "audio_dir": "L’étoile"
     },
     {
-        "level": 2.0,
-        "image_filename": "Crescent.jpg",
-        "card_type": "vocab",
+        "level": "crescent",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +144,9 @@
         "audio_dir": "Le croissant de lune"
     },
     {
-        "level": 2.0,
-        "image_filename": "Heart5.jpg",
-        "card_type": "vocab",
+        "level": "heart5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +162,9 @@
         "audio_dir": "Le cœur"
     },
     {
-        "level": 2.0,
-        "image_filename": "Arrow5.jpg",
-        "card_type": "vocab",
+        "level": "arrow5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +180,9 @@
         "audio_dir": "La flèche"
     },
     {
-        "level": 2.0,
-        "image_filename": "Cross5.jpg",
-        "card_type": "vocab",
+        "level": "cross5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +198,9 @@
         "audio_dir": "La croix"
     },
     {
-        "level": 2.0,
-        "image_filename": "Sphere.jpg",
-        "card_type": "vocab",
+        "level": "sphere",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +216,9 @@
         "audio_dir": "La sphère"
     },
     {
-        "level": 2.0,
-        "image_filename": "Cube.jpg",
-        "card_type": "vocab",
+        "level": "cube",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +234,9 @@
         "audio_dir": "Le cube"
     },
     {
-        "level": 2.0,
-        "image_filename": "Cylinder.jpg",
-        "card_type": "vocab",
+        "level": "cylinder",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +252,9 @@
         "audio_dir": "Le cylindre"
     },
     {
-        "level": 2.0,
-        "image_filename": "Cone.jpg",
-        "card_type": "vocab",
+        "level": "cone",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +270,9 @@
         "audio_dir": "Le cône"
     },
     {
-        "level": 2.0,
-        "image_filename": "Pyramid.jpg",
-        "card_type": "vocab",
+        "level": "pyramid",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +288,9 @@
         "audio_dir": "La pyramide"
     },
     {
-        "level": 2.0,
-        "image_filename": "Disk.jpg",
-        "card_type": "vocab",
+        "level": "disk",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +306,9 @@
         "audio_dir": "Le disque"
     },
     {
-        "level": 2.0,
-        "image_filename": "Line5.jpg",
-        "card_type": "vocab",
+        "level": "line5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +324,9 @@
         "audio_dir": "La ligne"
     },
     {
-        "level": 2.0,
-        "image_filename": "Curve5.jpg",
-        "card_type": "vocab",
+        "level": "curve5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +342,9 @@
         "audio_dir": "La courbe"
     },
     {
-        "level": 2.0,
-        "image_filename": "Angle.jpg",
-        "card_type": "vocab",
+        "level": "angle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +360,9 @@
         "audio_dir": "L’angle"
     },
     {
-        "level": 2.0,
-        "image_filename": "Wave5.jpg",
-        "card_type": "vocab",
+        "level": "wave5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +378,9 @@
         "audio_dir": "L’onde"
     },
     {
-        "level": 2.0,
-        "image_filename": "Spiral.jpg",
-        "card_type": "vocab",
+        "level": "spiral",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +396,9 @@
         "audio_dir": "La spirale"
     },
     {
-        "level": 2.0,
-        "image_filename": "Zigzag.jpg",
-        "card_type": "vocab",
+        "level": "zigzag",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "Scarf.jpg",
-        "card_type": "vocab",
+        "level": "scarf",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Scarf"
     },
     {
-        "level": 2.0,
-        "image_filename": "Gloves.jpg",
-        "card_type": "vocab",
+        "level": "gloves",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Gloves"
     },
     {
-        "level": 2.0,
-        "image_filename": "Belt.jpg",
-        "card_type": "vocab",
+        "level": "belt",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Belt"
     },
     {
-        "level": 2.0,
-        "image_filename": "tie5.jpg",
-        "card_type": "vocab",
+        "level": "tie5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Tie"
     },
     {
-        "level": 2.0,
-        "image_filename": "Vest.jpg",
-        "card_type": "vocab",
+        "level": "vest",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Vest"
     },
     {
-        "level": 2.0,
-        "image_filename": "Shorts.jpg",
-        "card_type": "vocab",
+        "level": "shorts",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "Shorts"
     },
     {
-        "level": 2.0,
-        "image_filename": "Leggings.jpg",
-        "card_type": "vocab",
+        "level": "leggings",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Leggings"
     },
     {
-        "level": 2.0,
-        "image_filename": "bag.jpg",
-        "card_type": "vocab",
+        "level": "bag",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "bag"
     },
     {
-        "level": 2.0,
-        "image_filename": "cap.jpg",
-        "card_type": "vocab",
+        "level": "cap",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "cap"
     },
     {
-        "level": 2.0,
-        "image_filename": "hat.jpg",
-        "card_type": "vocab",
+        "level": "hat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "hat"
     },
     {
-        "level": 2.0,
-        "image_filename": "pants.jpg",
-        "card_type": "vocab",
+        "level": "pants",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "pants"
     },
     {
-        "level": 2.0,
-        "image_filename": "t-shirt.jpg",
-        "card_type": "vocab",
+        "level": "t-shirt",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "t-shirt"
     },
     {
-        "level": 2.0,
-        "image_filename": "shirt.jpg",
-        "card_type": "vocab",
+        "level": "shirt",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "shirt"
     },
     {
-        "level": 2.0,
-        "image_filename": "shoe.jpg",
-        "card_type": "vocab",
+        "level": "shoe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "shoe"
     },
     {
-        "level": 2.0,
-        "image_filename": "jacket.jpg",
-        "card_type": "vocab",
+        "level": "jacket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "jacket"
     },
     {
-        "level": 2.0,
-        "image_filename": "coat.jpg",
-        "card_type": "vocab",
+        "level": "coat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "coat"
     },
     {
-        "level": 2.0,
-        "image_filename": "sweater.jpg",
-        "card_type": "vocab",
+        "level": "sweater",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "sweater"
     },
     {
-        "level": 2.0,
-        "image_filename": "sweatshirt.jpg",
-        "card_type": "vocab",
+        "level": "sweatshirt",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "sweatshirt"
     },
     {
-        "level": 2.0,
-        "image_filename": "socks.jpg",
-        "card_type": "vocab",
+        "level": "socks",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "socks"
     },
     {
-        "level": 2.0,
-        "image_filename": "underwear.jpg",
-        "card_type": "vocab",
+        "level": "underwear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "underwear"
     },
     {
-        "level": 2.0,
-        "image_filename": "pocket.jpg",
-        "card_type": "vocab",
+        "level": "pocket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "pocket"
     },
     {
-        "level": 2.0,
-        "image_filename": "towel.jpg",
-        "card_type": "vocab",
+        "level": "towel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "towel"
     },
     {
-        "level": 2.0,
-        "image_filename": "sandal.jpg",
-        "card_type": "vocab",
+        "level": "sandal",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "sandal"
     },
     {
-        "level": 2.0,
-        "image_filename": "jewelry.jpg",
-        "card_type": "vocab",
+        "level": "jewelry",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "jewelry"
     },
     {
-        "level": 2.0,
-        "image_filename": "ringn.jpg",
-        "card_type": "vocab",
+        "level": "ringn",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "ring"
     },
     {
-        "level": 2.0,
-        "image_filename": "earing.jpg",
-        "card_type": "vocab",
+        "level": "earing",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "earing"
     },
     {
-        "level": 2.0,
-        "image_filename": "necklace.jpg",
-        "card_type": "vocab",
+        "level": "necklace",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "necklace"
     },
     {
-        "level": 2.0,
-        "image_filename": "Bracelet.jpg",
-        "card_type": "vocab",
+        "level": "bracelet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "Bracelet"
     },
     {
-        "level": 2.0,
-        "image_filename": "Watch.jpg",
-        "card_type": "vocab",
+        "level": "watch",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "Watch"
     },
     {
-        "level": 2.0,
-        "image_filename": "Slippers.jpg",
-        "card_type": "vocab",
+        "level": "slippers",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "Slippers"
     },
     {
-        "level": 2.0,
-        "image_filename": "Headband.jpg",
-        "card_type": "vocab",
+        "level": "headband",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "Headband"
     },
     {
-        "level": 2.0,
-        "image_filename": "hairclip.jpg",
-        "card_type": "vocab",
+        "level": "hairclip",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "Hair clip"
     },
     {
-        "level": 2.0,
-        "image_filename": "Eyeglasses.jpg",
-        "card_type": "vocab",
+        "level": "eyeglasses",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "Eyeglasses"
     },
     {
-        "level": 2.0,
-        "image_filename": "Sunglasses.jpg",
-        "card_type": "vocab",
+        "level": "sunglasses",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "Sunglasses"
     },
     {
-        "level": 2.0,
-        "image_filename": "Mask.jpg",
-        "card_type": "vocab",
+        "level": "mask",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "Mask"
     },
     {
-        "level": 2.0,
-        "image_filename": "Backpack.jpg",
-        "card_type": "vocab",
+        "level": "backpack",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

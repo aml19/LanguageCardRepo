@@ -1,8 +1,8 @@
 [
     {
-        "level": 1.0,
-        "image_filename": "addition.jpg",
-        "card_type": "reading",
+        "level": "addition",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "A add"
     },
     {
-        "level": 1.0,
-        "image_filename": "bat.jpg",
-        "card_type": "reading",
+        "level": "bat",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "B bat"
     },
     {
-        "level": 1.0,
-        "image_filename": "cat.jpg",
-        "card_type": "reading",
+        "level": "cat",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "C cat"
     },
     {
-        "level": 1.0,
-        "image_filename": "dog.jpg",
-        "card_type": "reading",
+        "level": "dog",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "D dog"
     },
     {
-        "level": 1.0,
-        "image_filename": "egg.jpg",
-        "card_type": "reading",
+        "level": "egg",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "E egg"
     },
     {
-        "level": 1.0,
-        "image_filename": "fish.jpg",
-        "card_type": "reading",
+        "level": "fish",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "F fish"
     },
     {
-        "level": 1.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "reading",
+        "level": "go_with_her",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "G go"
     },
     {
-        "level": 1.0,
-        "image_filename": "hat.jpg",
-        "card_type": "reading",
+        "level": "hat",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "H hat"
     },
     {
-        "level": 1.0,
-        "image_filename": "ice.jpg",
-        "card_type": "reading",
+        "level": "ice",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "I ice"
     },
     {
-        "level": 1.0,
-        "image_filename": "jet.jpg",
-        "card_type": "reading",
+        "level": "jet",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "J jet"
     },
     {
-        "level": 1.0,
-        "image_filename": "key.jpg",
-        "card_type": "reading",
+        "level": "key",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "K key"
     },
     {
-        "level": 1.0,
-        "image_filename": "legs.jpg",
-        "card_type": "reading",
+        "level": "legs",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "L leg"
     },
     {
-        "level": 1.0,
-        "image_filename": "man.jpg",
-        "card_type": "reading",
+        "level": "man",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "M man"
     },
     {
-        "level": 1.0,
-        "image_filename": "net.jpg",
-        "card_type": "reading",
+        "level": "net",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "N net"
     },
     {
-        "level": 1.0,
-        "image_filename": "owl.jpg",
-        "card_type": "reading",
+        "level": "owl",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "O owl"
     },
     {
-        "level": 1.0,
-        "image_filename": "pig.jpg",
-        "card_type": "reading",
+        "level": "pig",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "P pig"
     },
     {
-        "level": 1.0,
-        "image_filename": "queen.jpg",
-        "card_type": "reading",
+        "level": "queen",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Q queen"
     },
     {
-        "level": 1.0,
-        "image_filename": "rat.jpg",
-        "card_type": "reading",
+        "level": "rat",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "R rat"
     },
     {
-        "level": 1.0,
-        "image_filename": "sun.jpg",
-        "card_type": "reading",
+        "level": "sun",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "S sun"
     },
     {
-        "level": 1.0,
-        "image_filename": "topbottom.jpg",
-        "card_type": "reading",
+        "level": "topbottom",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "T top"
     },
     {
-        "level": 1.0,
-        "image_filename": "downup.jpg",
-        "card_type": "reading",
+        "level": "downup",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "U up"
     },
     {
-        "level": 1.0,
-        "image_filename": "van.jpg",
-        "card_type": "reading",
+        "level": "van",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "V van"
     },
     {
-        "level": 1.0,
-        "image_filename": "wetdry.jpg",
-        "card_type": "reading",
+        "level": "wetdry",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "W wet"
     },
     {
-        "level": 1.0,
-        "image_filename": "box.jpg",
-        "card_type": "reading",
+        "level": "box",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "X sound)"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": "yess",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "Y yes"
     },
     {
-        "level": 1.0,
-        "image_filename": "zip.jpg",
-        "card_type": "reading",
+        "level": "zip",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

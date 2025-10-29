@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "learn_m.jpg",
-        "card_type": "vocab",
+        "level": "learn_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

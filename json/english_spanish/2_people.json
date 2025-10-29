@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "niño"
     },
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "chico"
     },
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "muchacho"
     },
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "jovencito"
     },
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "chaval"
     },
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "pequeño"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "vocab",
+        "level": "girl",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "niña"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "vocab",
+        "level": "girl",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "chica"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "vocab",
+        "level": "girl",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "muchacha"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "vocab",
+        "level": "girl",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "jovencita"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "vocab",
+        "level": "girl",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "nena"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "vocab",
+        "level": "girl",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "pequeña"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "hombre"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "chico"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "varón"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "señor"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "caballero"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "muchacho"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "tipo"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "esposo"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "compañero"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "mujer"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "chica"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "dama"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "señora"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "señorita"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "muchacha"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "esposa"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "compañera"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "fémina"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Niños"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Niñitos/Niñitas"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Bebés"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Infantes"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Pequeños/Pequeñas"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Chiquitos/Chiquitas"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Críos/Crías"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Peques"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Pequeñines/Pequeñitas"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Descendientes"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Anciano"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "Anciana"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Viejo"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Vieja"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "Abuelo"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "Abuela"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Mayor"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "Señor mayor"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "Señora mayor"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

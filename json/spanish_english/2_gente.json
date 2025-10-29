@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "baby"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "reading",
+        "level": "baby",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "infant"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "reading",
+        "level": "baby",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "newborn"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "reading",
+        "level": "baby",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "toddler"
     },
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "boy"
     },
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "reading",
+        "level": "boy",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "kid"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "vocab",
+        "level": "girl",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "girl"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "reading",
+        "level": "girl",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "child"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "man"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "reading",
+        "level": "man",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "gentleman"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "reading",
+        "level": "man",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "guy"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "reading",
+        "level": "man",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "male"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "woman"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "reading",
+        "level": "woman",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "female"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "reading",
+        "level": "woman",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "lady"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "reading",
+        "level": "old_couple",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "elder"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "reading",
+        "level": "old_couple",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "old person"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "reading",
+        "level": "old_couple",
+        "image_filename": "reading.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

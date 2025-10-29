@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "lion.jpg",
-        "card_type": "vocab",
+        "level": "lion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Lion"
     },
     {
-        "level": 4.0,
-        "image_filename": "flamingo.jpg",
-        "card_type": "vocab",
+        "level": "flamingo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Flamant"
     },
     {
-        "level": 4.0,
-        "image_filename": "meercat.jpg",
-        "card_type": "vocab",
+        "level": "meercat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Suricate"
     },
     {
-        "level": 4.0,
-        "image_filename": "panda.jpg",
-        "card_type": "vocab",
+        "level": "panda",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Panda"
     },
     {
-        "level": 4.0,
-        "image_filename": "dolphin.jpg",
-        "card_type": "vocab",
+        "level": "dolphin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Dauphin"
     },
     {
-        "level": 4.0,
-        "image_filename": "orangutan.jpg",
-        "card_type": "vocab",
+        "level": "orangutan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "Orang-outan"
     },
     {
-        "level": 4.0,
-        "image_filename": "deer.jpg",
-        "card_type": "vocab",
+        "level": "deer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Cerf"
     },
     {
-        "level": 4.0,
-        "image_filename": "elephant.jpg",
-        "card_type": "vocab",
+        "level": "elephant",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "Éléphant"
     },
     {
-        "level": 4.0,
-        "image_filename": "polarbear.jpg",
-        "card_type": "vocab",
+        "level": "polarbear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Ours polaire"
     },
     {
-        "level": 4.0,
-        "image_filename": "tiger.jpg",
-        "card_type": "vocab",
+        "level": "tiger",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Tigre"
     },
     {
-        "level": 4.0,
-        "image_filename": "rhinoceros.jpg",
-        "card_type": "vocab",
+        "level": "rhinoceros",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Rhinocéros"
     },
     {
-        "level": 4.0,
-        "image_filename": "gorilla.jpg",
-        "card_type": "vocab",
+        "level": "gorilla",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Gorille"
     },
     {
-        "level": 4.0,
-        "image_filename": "penguin.jpg",
-        "card_type": "vocab",
+        "level": "penguin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "Manchot"
     },
     {
-        "level": 4.0,
-        "image_filename": "zebra.jpg",
-        "card_type": "vocab",
+        "level": "zebra",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "Zèbre"
     },
     {
-        "level": 4.0,
-        "image_filename": "eagle.jpg",
-        "card_type": "vocab",
+        "level": "eagle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "Aigle"
     },
     {
-        "level": 4.0,
-        "image_filename": "monkey.jpg",
-        "card_type": "vocab",
+        "level": "monkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Singe"
     },
     {
-        "level": 4.0,
-        "image_filename": "koala.jpg",
-        "card_type": "vocab",
+        "level": "koala",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Koala"
     },
     {
-        "level": 4.0,
-        "image_filename": "giraffe.jpg",
-        "card_type": "vocab",
+        "level": "giraffe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "Girafe"
     },
     {
-        "level": 4.0,
-        "image_filename": "kangaroo.jpg",
-        "card_type": "vocab",
+        "level": "kangaroo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Kangourou"
     },
     {
-        "level": 4.0,
-        "image_filename": "tortoise.jpg",
-        "card_type": "vocab",
+        "level": "tortoise",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "Tortue"
     },
     {
-        "level": 4.0,
-        "image_filename": "orangutan.jpg",
-        "card_type": "vocab",
+        "level": "orangutan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "Bambou"
     },
     {
-        "level": 4.0,
-        "image_filename": "lion.jpg",
-        "card_type": "vocab",
+        "level": "lion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "Où sont les lions ? sur un rocher"
     },
     {
-        "level": 4.0,
-        "image_filename": "lion.jpg",
-        "card_type": "vocab",
+        "level": "lion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "Que font les lions ? les lions se reposent sur un rocher"
     },
     {
-        "level": 4.0,
-        "image_filename": "flamingo.jpg",
-        "card_type": "vocab",
+        "level": "flamingo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "Où sont les flamants roses ? les flamants roses se tiennent dans une rivière"
     },
     {
-        "level": 4.0,
-        "image_filename": "flamingo.jpg",
-        "card_type": "vocab",
+        "level": "flamingo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "À quelle profondeur est la rivière ? la rivière est peu profonde"
     },
     {
-        "level": 4.0,
-        "image_filename": "meercat.jpg",
-        "card_type": "vocab",
+        "level": "meercat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "Que fait le suricate à droite ? debout"
     },
     {
-        "level": 4.0,
-        "image_filename": "meercat.jpg",
-        "card_type": "vocab",
+        "level": "meercat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "Que fait le suricate à gauche ? assis sur un rocher"
     },
     {
-        "level": 4.0,
-        "image_filename": "panda.jpg",
-        "card_type": "vocab",
+        "level": "panda",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "Que fait le panda ? le panda mange du bambou"
     },
     {
-        "level": 4.0,
-        "image_filename": "dolphin.jpg",
-        "card_type": "vocab",
+        "level": "dolphin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "Dans quelle direction nagent les dauphins ? les dauphins nagent à reculons"
     },
     {
-        "level": 4.0,
-        "image_filename": "dolphin.jpg",
-        "card_type": "vocab",
+        "level": "dolphin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "Qui est l'homme en noir ? le dresseur de dauphins"
     },
     {
-        "level": 4.0,
-        "image_filename": "zoomap.jpg",
-        "card_type": "vocab",
+        "level": "zoomap",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "Qu'est-ce qu'elle tient ? une carte du zoo"
     },
     {
-        "level": 4.0,
-        "image_filename": "orangutan.jpg",
-        "card_type": "vocab",
+        "level": "orangutan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "Que font les orangs-outans ? ils grimpent dans le bambou"
     },
     {
-        "level": 4.0,
-        "image_filename": "deer.jpg",
-        "card_type": "vocab",
+        "level": "deer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "Que fait le garçon ? il nourrit les cerfs"
     },
     {
-        "level": 4.0,
-        "image_filename": "polarbear.jpg",
-        "card_type": "vocab",
+        "level": "polarbear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "Où est l'ours polaire ? sous l'eau"
     },
     {
-        "level": 4.0,
-        "image_filename": "polarbear.jpg",
-        "card_type": "vocab",
+        "level": "polarbear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "Que fait l'ours polaire ? l'ours polaire nage sous l'eau"
     },
     {
-        "level": 4.0,
-        "image_filename": "monkey.jpg",
-        "card_type": "vocab",
+        "level": "monkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "Qu'est-ce que le singe a ? il a une canette de soda"
     },
     {
-        "level": 4.0,
-        "image_filename": "monkey.jpg",
-        "card_type": "vocab",
+        "level": "monkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "Où est assis le singe ? il est assis sur une plage"
     },
     {
-        "level": 4.0,
-        "image_filename": "giraffe.jpg",
-        "card_type": "vocab",
+        "level": "giraffe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "Où est le bébé girafe ? derrière sa mère"
     },
     {
-        "level": 4.0,
-        "image_filename": "kangaroo.jpg",
-        "card_type": "vocab",
+        "level": "kangaroo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "Où est le kangourou ? au milieu de la route"
     },
     {
-        "level": 4.0,
-        "image_filename": "tortoise.jpg",
-        "card_type": "vocab",
+        "level": "tortoise",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

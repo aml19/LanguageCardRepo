@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "I -> my"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "you -> your"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "you all -> you all's"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "he -> his"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "she -> her"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "they -> their"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "conjugation",
+        "level": null,
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "we -> our"
     },
     {
-        "level": 3.0,
-        "image_filename": "decoratinghercake.jpg",
-        "card_type": "conjugation",
+        "level": "decoratinghercake",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "I am decorating my cake"
     },
     {
-        "level": 3.0,
-        "image_filename": "playingguitar.jpg",
-        "card_type": "conjugation",
+        "level": "playingguitar",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "your are playing your guitar"
     },
     {
-        "level": 3.0,
-        "image_filename": "herviolin.jpg",
-        "card_type": "conjugation",
+        "level": "herviolin",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "she is playing her violin"
     },
     {
-        "level": 3.0,
-        "image_filename": "hisdrone.jpg",
-        "card_type": "conjugation",
+        "level": "hisdrone",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "he is flying his drone"
     },
     {
-        "level": 3.0,
-        "image_filename": "herpainting.jpg",
-        "card_type": "conjugation",
+        "level": "herpainting",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "she finished her painting"
     },
     {
-        "level": 3.0,
-        "image_filename": "theirtable.jpg",
-        "card_type": "conjugation",
+        "level": "theirtable",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "they are eating at their table"
     },
     {
-        "level": 3.0,
-        "image_filename": "theircouch.jpg",
-        "card_type": "conjugation",
+        "level": "theircouch",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "we are sitting on our couch"
     },
     {
-        "level": 3.0,
-        "image_filename": "butterflywings.jpg",
-        "card_type": "conjugation",
+        "level": "butterflywings",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "the butterfly's wings are orange"
     },
     {
-        "level": 3.0,
-        "image_filename": "herbackpack.jpg",
-        "card_type": "conjugation",
+        "level": "herbackpack",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "the woman's backpack is yellow"
     },
     {
-        "level": 3.0,
-        "image_filename": "hisbackpack.jpg",
-        "card_type": "conjugation",
+        "level": "hisbackpack",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "the man's backpack is blue"
     },
     {
-        "level": 3.0,
-        "image_filename": "decoratinghercake.jpg",
-        "card_type": "conjugation",
+        "level": "decoratinghercake",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "I - the cake is mine"
     },
     {
-        "level": 3.0,
-        "image_filename": "playingguitar.jpg",
-        "card_type": "conjugation",
+        "level": "playingguitar",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "you - the guitar is yours"
     },
     {
-        "level": 3.0,
-        "image_filename": "herviolin.jpg",
-        "card_type": "conjugation",
+        "level": "herviolin",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "she - the violin is hers"
     },
     {
-        "level": 3.0,
-        "image_filename": "hisdrone.jpg",
-        "card_type": "conjugation",
+        "level": "hisdrone",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "he - the drone is his"
     },
     {
-        "level": 3.0,
-        "image_filename": "herpainting.jpg",
-        "card_type": "conjugation",
+        "level": "herpainting",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "she - the painting is hers"
     },
     {
-        "level": 3.0,
-        "image_filename": "theirtable.jpg",
-        "card_type": "conjugation",
+        "level": "theirtable",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "they - the table is theirs"
     },
     {
-        "level": 3.0,
-        "image_filename": "theircouch.jpg",
-        "card_type": "conjugation",
+        "level": "theircouch",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "we - the couch is ours"
     },
     {
-        "level": 3.0,
-        "image_filename": "butterflywings.jpg",
-        "card_type": "conjugation",
+        "level": "butterflywings",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "butterfly - the orange wings are the butterfly's"
     },
     {
-        "level": 3.0,
-        "image_filename": "herbackpack.jpg",
-        "card_type": "conjugation",
+        "level": "herbackpack",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "woman - the backpack is the woman's"
     },
     {
-        "level": 3.0,
-        "image_filename": "hisbackpack.jpg",
-        "card_type": "conjugation",
+        "level": "hisbackpack",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

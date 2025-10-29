@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "Hammer.jpg",
-        "card_type": "vocab",
+        "level": "hammer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Martillo: se usa para clavar clavos o romper objetos"
     },
     {
-        "level": 4.0,
-        "image_filename": "Screwdriver.jpg",
-        "card_type": "vocab",
+        "level": "screwdriver",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Destornillador: se usa para girar tornillos hacia adentro o hacia afuera"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wrench.jpg",
-        "card_type": "vocab",
+        "level": "wrench",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Llave inglesa (Llave fija): se usa para apretar o aflojar tuercas y tornillos"
     },
     {
-        "level": 4.0,
-        "image_filename": "Pliers.jpg",
-        "card_type": "vocab",
+        "level": "pliers",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Alicates: se usan para agarrar, torcer o cortar alambres u objetos pequeños"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ruler.jpg",
-        "card_type": "vocab",
+        "level": "ruler",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Regla: se usa para medir largo, ancho o alto"
     },
     {
-        "level": 4.0,
-        "image_filename": "Handsaw.jpg",
-        "card_type": "vocab",
+        "level": "handsaw",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Serrucho: se usa para cortar madera u otros materiales manualmente"
     },
     {
-        "level": 4.0,
-        "image_filename": "Level.jpg",
-        "card_type": "vocab",
+        "level": "level",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Nivel: se usa para verificar si una superficie está horizontal o vertical"
     },
     {
-        "level": 4.0,
-        "image_filename": "Boxcutter.jpg",
-        "card_type": "vocab",
+        "level": "boxcutter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Cúter (Navaja multiusos): se usa para cortar o recortar materiales"
     },
     {
-        "level": 4.0,
-        "image_filename": "Drill.jpg",
-        "card_type": "vocab",
+        "level": "drill",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Taladro: se usa para perforar agujeros en madera, metal u otros materiales"
     },
     {
-        "level": 4.0,
-        "image_filename": "Chisel.jpg",
-        "card_type": "vocab",
+        "level": "chisel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Cincel: se usa para tallar o desprender madera, piedra o metal"
     },
     {
-        "level": 4.0,
-        "image_filename": "Clamp.jpg",
-        "card_type": "vocab",
+        "level": "clamp",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Sargento (Prensa): se usa para sujetar objetos firmemente en su lugar"
     },
     {
-        "level": 4.0,
-        "image_filename": "Sandpaper.jpg",
-        "card_type": "vocab",
+        "level": "sandpaper",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Lija: se usa para alisar o pulir superficies"
     },
     {
-        "level": 4.0,
-        "image_filename": "Allenkey.jpg",
-        "card_type": "vocab",
+        "level": "allenkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Llave Allen (Llave hexagonal): se usa para girar tornillos o pernos con cabeza hexagonal"
     },
     {
-        "level": 4.0,
-        "image_filename": "Paintbrush.jpg",
-        "card_type": "vocab",
+        "level": "paintbrush",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Brocha: se usa para pintar superficies"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ladder.jpg",
-        "card_type": "vocab",
+        "level": "ladder",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Escalera: se usa para alcanzar lugares altos"
     },
     {
-        "level": 4.0,
-        "image_filename": "Shovel.jpg",
-        "card_type": "vocab",
+        "level": "shovel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Pala: se usa para cavar o mover tierra"
     },
     {
-        "level": 4.0,
-        "image_filename": "Rake.jpg",
-        "card_type": "vocab",
+        "level": "rake",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Rastrillo: se usa para recoger hojas, pasto o escombros"
     },
     {
-        "level": 4.0,
-        "image_filename": "Hoe.jpg",
-        "card_type": "vocab",
+        "level": "hoe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Azada: se usa para aflojar la tierra y quitar maleza"
     },
     {
-        "level": 4.0,
-        "image_filename": "Pruningshears.jpg",
-        "card_type": "vocab",
+        "level": "pruningshears",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Tijeras de podar: se usan para cortar ramas y podar plantas"
     },
     {
-        "level": 4.0,
-        "image_filename": "Gardenfork.jpg",
-        "card_type": "vocab",
+        "level": "gardenfork",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Horca (Horquilla): se usa para remover la tierra y airearla"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wheelbarrow.jpg",
-        "card_type": "vocab",
+        "level": "wheelbarrow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Carretilla: se usa para transportar tierra, plantas o herramientas"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wateringfan.jpg",
-        "card_type": "vocab",
+        "level": "wateringfan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Regadera: se usa para regar las plantas"
     },
     {
-        "level": 4.0,
-        "image_filename": "Lawnmower.jpg",
-        "card_type": "vocab",
+        "level": "lawnmower",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Cortacésped: se usa para cortar el pasto"
     },
     {
-        "level": 4.0,
-        "image_filename": "Gardenhose.jpg",
-        "card_type": "vocab",
+        "level": "gardenhose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Manguera: se usa para rociar agua"
     },
     {
-        "level": 4.0,
-        "image_filename": "Hammer.jpg",
-        "card_type": "vocab",
+        "level": "hammer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Martillo: se usa para clavar clavos o romper objetos"
     },
     {
-        "level": 4.0,
-        "image_filename": "Screwdriver.jpg",
-        "card_type": "vocab",
+        "level": "screwdriver",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Destornillador: se usa para girar tornillos hacia adentro o hacia afuera"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wrench.jpg",
-        "card_type": "vocab",
+        "level": "wrench",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Llave inglesa (Llave fija): se usa para apretar o aflojar tuercas y tornillos"
     },
     {
-        "level": 4.0,
-        "image_filename": "Pliers.jpg",
-        "card_type": "vocab",
+        "level": "pliers",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Alicates: se usan para agarrar, torcer o cortar alambres u objetos pequeños"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ruler.jpg",
-        "card_type": "vocab",
+        "level": "ruler",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Regla: se usa para medir largo, ancho o alto"
     },
     {
-        "level": 4.0,
-        "image_filename": "Handsaw.jpg",
-        "card_type": "vocab",
+        "level": "handsaw",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Serrucho: se usa para cortar madera u otros materiales manualmente"
     },
     {
-        "level": 4.0,
-        "image_filename": "Level.jpg",
-        "card_type": "vocab",
+        "level": "level",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Nivel: se usa para verificar si una superficie está horizontal o vertical"
     },
     {
-        "level": 4.0,
-        "image_filename": "Boxcutter.jpg",
-        "card_type": "vocab",
+        "level": "boxcutter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Cúter (Navaja multiusos): se usa para cortar o recortar materiales"
     },
     {
-        "level": 4.0,
-        "image_filename": "Drill.jpg",
-        "card_type": "vocab",
+        "level": "drill",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Taladro: se usa para perforar agujeros en madera, metal u otros materiales"
     },
     {
-        "level": 4.0,
-        "image_filename": "Chisel.jpg",
-        "card_type": "vocab",
+        "level": "chisel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Cincel: se usa para tallar o desprender madera, piedra o metal"
     },
     {
-        "level": 4.0,
-        "image_filename": "Clamp.jpg",
-        "card_type": "vocab",
+        "level": "clamp",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Sargento (Prensa): se usa para sujetar objetos firmemente en su lugar"
     },
     {
-        "level": 4.0,
-        "image_filename": "Sandpaper.jpg",
-        "card_type": "vocab",
+        "level": "sandpaper",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Lija: se usa para alisar o pulir superficies"
     },
     {
-        "level": 4.0,
-        "image_filename": "Allenkey.jpg",
-        "card_type": "vocab",
+        "level": "allenkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Llave Allen (Llave hexagonal): se usa para girar tornillos o pernos con cabeza hexagonal"
     },
     {
-        "level": 4.0,
-        "image_filename": "Paintbrush.jpg",
-        "card_type": "vocab",
+        "level": "paintbrush",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Brocha: se usa para pintar superficies"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ladder.jpg",
-        "card_type": "vocab",
+        "level": "ladder",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Escalera: se usa para alcanzar lugares altos"
     },
     {
-        "level": 4.0,
-        "image_filename": "Shovel.jpg",
-        "card_type": "vocab",
+        "level": "shovel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Pala: se usa para cavar o mover tierra"
     },
     {
-        "level": 4.0,
-        "image_filename": "Rake.jpg",
-        "card_type": "vocab",
+        "level": "rake",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Rastrillo: se usa para recoger hojas, pasto o escombros"
     },
     {
-        "level": 4.0,
-        "image_filename": "Hoe.jpg",
-        "card_type": "vocab",
+        "level": "hoe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "Azada: se usa para aflojar la tierra y quitar maleza"
     },
     {
-        "level": 4.0,
-        "image_filename": "Pruningshears.jpg",
-        "card_type": "vocab",
+        "level": "pruningshears",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Tijeras de podar: se usan para cortar ramas y podar plantas"
     },
     {
-        "level": 4.0,
-        "image_filename": "Gardenfork.jpg",
-        "card_type": "vocab",
+        "level": "gardenfork",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Horca (Horquilla): se usa para remover la tierra y airearla"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wheelbarrow.jpg",
-        "card_type": "vocab",
+        "level": "wheelbarrow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "Carretilla: se usa para transportar tierra, plantas o herramientas"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wateringfan.jpg",
-        "card_type": "vocab",
+        "level": "wateringfan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "Regadera: se usa para regar las plantas"
     },
     {
-        "level": 4.0,
-        "image_filename": "Lawnmower.jpg",
-        "card_type": "vocab",
+        "level": "lawnmower",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Cortacésped: se usa para cortar el pasto"
     },
     {
-        "level": 4.0,
-        "image_filename": "Gardenhose.jpg",
-        "card_type": "vocab",
+        "level": "gardenhose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

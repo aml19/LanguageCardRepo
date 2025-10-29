@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "activity.jpg",
-        "card_type": "reading",
+        "level": "activity",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "activity.  something that a person does, often involving movement or action"
     },
     {
-        "level": 3.0,
-        "image_filename": "animals.jpg",
-        "card_type": "vocab",
+        "level": "animals",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Animal"
     },
     {
-        "level": 3.0,
-        "image_filename": "balance.jpg",
-        "card_type": "vocab",
+        "level": "balance",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "balance"
     },
     {
-        "level": 3.0,
-        "image_filename": "boot.jpg",
-        "card_type": "vocab",
+        "level": "boot",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "boot"
     },
     {
-        "level": 3.0,
-        "image_filename": "canter.jpg",
-        "card_type": "reading",
+        "level": "canter",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Canter: A gait of a horse that is faster than a trot but slower than a gallop.\nExample: The rider guided the horse into a smooth canter.\n\n"
     },
     {
-        "level": 3.0,
-        "image_filename": "confidence2.jpg",
-        "card_type": "vocab",
+        "level": "confidence2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "confidence"
     },
     {
-        "level": 3.0,
-        "image_filename": "control.jpg",
-        "card_type": "vocab",
+        "level": "control",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "control"
     },
     {
-        "level": 3.0,
-        "image_filename": "equipement.jpg",
-        "card_type": "vocab",
+        "level": "equipement",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "gear"
     },
     {
-        "level": 3.0,
-        "image_filename": "grip.jpg",
-        "card_type": "vocab",
+        "level": "grip",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "grip"
     },
     {
-        "level": 3.0,
-        "image_filename": "heel.jpg",
-        "card_type": "vocab",
+        "level": "heel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "heel"
     },
     {
-        "level": 3.0,
-        "image_filename": "helmet.jpg",
-        "card_type": "vocab",
+        "level": "helmet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "helmet"
     },
     {
-        "level": 3.0,
-        "image_filename": "horse.jpg",
-        "card_type": "vocab",
+        "level": "horse",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "horse"
     },
     {
-        "level": 3.0,
-        "image_filename": "legs.jpg",
-        "card_type": "vocab",
+        "level": "legs",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "legs"
     },
     {
-        "level": 3.0,
-        "image_filename": "movement.jpg",
-        "card_type": "vocab",
+        "level": "movement",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "movement. Physical Motion"
     },
     {
-        "level": 3.0,
-        "image_filename": "nature.jpg",
-        "card_type": "vocab",
+        "level": "nature",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "outdoors"
     },
     {
-        "level": 3.0,
-        "image_filename": "pat.jpg",
-        "card_type": "vocab",
+        "level": "pat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "pat"
     },
     {
-        "level": 3.0,
-        "image_filename": "patience.jpg",
-        "card_type": "vocab",
+        "level": "patience",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "patience"
     },
     {
-        "level": 3.0,
-        "image_filename": "posture.jpg",
-        "card_type": "vocab",
+        "level": "posture",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "posture"
     },
     {
-        "level": 3.0,
-        "image_filename": "practice.jpg",
-        "card_type": "vocab",
+        "level": "practice",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Practice: A repeated action or habit to improve a skill.\nExample: Daily practice helped her become a great pianist.\n\n"
     },
     {
-        "level": 3.0,
-        "image_filename": "rein.jpg",
-        "card_type": "vocab",
+        "level": "rein",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "rein"
     },
     {
-        "level": 3.0,
-        "image_filename": "Rhythm.jpg",
-        "card_type": "vocab",
+        "level": "rhythm",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "Rhythm"
     },
     {
-        "level": 3.0,
-        "image_filename": "riding.jpg",
-        "card_type": "vocab",
+        "level": "riding",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "riding"
     },
     {
-        "level": 3.0,
-        "image_filename": "saddle.jpg",
-        "card_type": "vocab",
+        "level": "saddle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "saddle"
     },
     {
-        "level": 3.0,
-        "image_filename": "safety.jpg",
-        "card_type": "vocab",
+        "level": "safety",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "equipemnt for safety"
     },
     {
-        "level": 3.0,
-        "image_filename": "stirrup.jpg",
-        "card_type": "vocab",
+        "level": "stirrup",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "stirrup"
     },
     {
-        "level": 3.0,
-        "image_filename": "sign_means_stop.jpg",
-        "card_type": "conjugation",
+        "level": "sign_means_stop",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "to stop"
     },
     {
-        "level": 3.0,
-        "image_filename": "surroundings.jpg",
-        "card_type": "vocab",
+        "level": "surroundings",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "Surroundings: The environment or area around something.\nExample: She admired the peaceful surroundings of the forest.\n\n"
     },
     {
-        "level": 3.0,
-        "image_filename": "dogtreat.jpg",
-        "card_type": "vocab",
+        "level": "dogtreat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "dog treat"
     },
     {
-        "level": 3.0,
-        "image_filename": "canter.jpg",
-        "card_type": "reading",
+        "level": "canter",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "Trot: A gait that is faster than a walk but slower than a run.\nExample: The horse moved at a steady trot."
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "vocab",
+        "level": "walk_p",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "walk"
     },
     {
-        "level": 3.0,
-        "image_filename": "way.jpg",
-        "card_type": "vocab",
+        "level": "way",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "Way: A method or manner of doing something.\nExample: Playing games is a fun way to learn."
     },
     {
-        "level": 3.0,
-        "image_filename": "apply.jpg",
-        "card_type": "vocab",
+        "level": "apply",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "apply makeup"
     },
     {
-        "level": 3.0,
-        "image_filename": "approach.jpg",
-        "card_type": "vocab",
+        "level": "approach",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "to approach a horse"
     },
     {
-        "level": 3.0,
-        "image_filename": "choose.jpg",
-        "card_type": "vocab",
+        "level": "choose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "choose"
     },
     {
-        "level": 3.0,
-        "image_filename": "connect.jpg",
-        "card_type": "vocab",
+        "level": "connect",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "connect"
     },
     {
-        "level": 3.0,
-        "image_filename": "dismount.jpg",
-        "card_type": "reading",
+        "level": "dismount",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "Dismount – To get off a horse, bicycle, or vehicle. Example: He dismounted the bike and walked into the store."
     },
     {
-        "level": 3.0,
-        "image_filename": "enjoy_free.jpg",
-        "card_type": "vocab",
+        "level": "enjoy_free",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "Enjoy"
     },
     {
-        "level": 3.0,
-        "image_filename": "gain.jpg",
-        "card_type": "reading",
+        "level": "gain",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "Gain – To obtain or increase something. Example: She gained valuable experience at her new job."
     },
     {
-        "level": 3.0,
-        "image_filename": "guide.jpg",
-        "card_type": "vocab",
+        "level": "guide",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "guide"
     },
     {
-        "level": 3.0,
-        "image_filename": "locket.jpg",
-        "card_type": "vocab",
+        "level": "locket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": "to keep inside a locket"
     },
     {
-        "level": 3.0,
-        "image_filename": "locket.jpg",
-        "card_type": "vocab",
+        "level": "locket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": "to keep inside a locket"
     },
     {
-        "level": 3.0,
-        "image_filename": "maintain.jpg",
-        "card_type": "reading",
+        "level": "maintain",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -756,9 +756,9 @@
         "audio_dir": "Maintain: To keep something in its current state or condition"
     },
     {
-        "level": 3.0,
-        "image_filename": "mount_motorcycle.jpg",
-        "card_type": "vocab",
+        "level": "mount_motorcycle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -774,9 +774,9 @@
         "audio_dir": "to mount"
     },
     {
-        "level": 3.0,
-        "image_filename": "progress.jpg",
-        "card_type": "vocab",
+        "level": "progress",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -792,9 +792,9 @@
         "audio_dir": "progress"
     },
     {
-        "level": 3.0,
-        "image_filename": "pullpush.jpg",
-        "card_type": "vocab",
+        "level": "pullpush",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -810,9 +810,9 @@
         "audio_dir": "pull push"
     },
     {
-        "level": 3.0,
-        "image_filename": "require.jpg",
-        "card_type": "vocab",
+        "level": "require",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -828,9 +828,9 @@
         "audio_dir": "require"
     },
     {
-        "level": 3.0,
-        "image_filename": "reward.jpg",
-        "card_type": "reading",
+        "level": "reward",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -846,9 +846,9 @@
         "audio_dir": "Reward – To give something in recognition of effort or achievement. Example: She was rewarded for her hard work with a promotion."
     },
     {
-        "level": 3.0,
-        "image_filename": "ride.jpg",
-        "card_type": "vocab",
+        "level": "ride",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -864,9 +864,9 @@
         "audio_dir": "ride a horse"
     },
     {
-        "level": 3.0,
-        "image_filename": "sitstand.jpg",
-        "card_type": "vocab",
+        "level": "sitstand",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -882,9 +882,9 @@
         "audio_dir": "sit stand"
     },
     {
-        "level": 3.0,
-        "image_filename": "start_race.jpg",
-        "card_type": "vocab",
+        "level": "start_race",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -900,9 +900,9 @@
         "audio_dir": "start"
     },
     {
-        "level": 3.0,
-        "image_filename": "dog_stay.jpg",
-        "card_type": "vocab",
+        "level": "dog_stay",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -918,9 +918,9 @@
         "audio_dir": "stay"
     },
     {
-        "level": 3.0,
-        "image_filename": "use_a_tool_m.jpg",
-        "card_type": "vocab",
+        "level": "use_a_tool_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -936,9 +936,9 @@
         "audio_dir": "use a tool"
     },
     {
-        "level": 3.0,
-        "image_filename": "wearclothes.jpg",
-        "card_type": "reading",
+        "level": "wearclothes",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -954,9 +954,9 @@
         "audio_dir": "Wear – To have clothing or accessories on one’s body. Example: He wore a red jacket to the party."
     },
     {
-        "level": 3.0,
-        "image_filename": "riding.jpg",
-        "card_type": "vocab",
+        "level": "riding",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -972,9 +972,9 @@
         "audio_dir": "horseback riding"
     },
     {
-        "level": 3.0,
-        "image_filename": "exciting.jpg",
-        "card_type": "vocab",
+        "level": "exciting",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -990,9 +990,9 @@
         "audio_dir": "exciting"
     },
     {
-        "level": 3.0,
-        "image_filename": "skill_cooking.jpg",
-        "card_type": "vocab",
+        "level": "skill_cooking",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1008,9 +1008,9 @@
         "audio_dir": "skillful cooking"
     },
     {
-        "level": 3.0,
-        "image_filename": "proper.jpg",
-        "card_type": "vocab",
+        "level": "proper",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1026,9 +1026,9 @@
         "audio_dir": "the proper way to lift a box"
     },
     {
-        "level": 3.0,
-        "image_filename": "firmgentle.jpg",
-        "card_type": "vocab",
+        "level": "firmgentle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1044,9 +1044,9 @@
         "audio_dir": "opposites: firm - gentle"
     },
     {
-        "level": 3.0,
-        "image_filename": "firmgentle.jpg",
-        "card_type": "vocab",
+        "level": "firmgentle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1062,9 +1062,9 @@
         "audio_dir": "opposites: firm - gentle"
     },
     {
-        "level": 3.0,
-        "image_filename": "steady.jpg",
-        "card_type": "vocab",
+        "level": "steady",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1080,9 +1080,9 @@
         "audio_dir": "steady hand"
     },
     {
-        "level": 3.0,
-        "image_filename": "shallowdeep.jpg",
-        "card_type": "vocab",
+        "level": "shallowdeep",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1098,9 +1098,9 @@
         "audio_dir": "shallow deep"
     },
     {
-        "level": 3.0,
-        "image_filename": "fun_party.jpg",
-        "card_type": "vocab",
+        "level": "fun_party",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1116,9 +1116,9 @@
         "audio_dir": "fun party"
     },
     {
-        "level": 3.0,
-        "image_filename": "reward.jpg",
-        "card_type": "reading",
+        "level": "reward",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1134,9 +1134,9 @@
         "audio_dir": "Rewarding – Providing satisfaction or benefit. Example: Teaching can be a rewarding career when students succeed."
     },
     {
-        "level": 3.0,
-        "image_filename": "calmly.jpg",
-        "card_type": "reading",
+        "level": "calmly",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1152,9 +1152,9 @@
         "audio_dir": "Calmly – In a peaceful and controlled manner. Example: She calmly explained the mistake instead of getting upset."
     },
     {
-        "level": 3.0,
-        "image_filename": "gently.jpg",
-        "card_type": "vocab",
+        "level": "gently",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1170,9 +1170,9 @@
         "audio_dir": "to hold gently"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1188,9 +1188,9 @@
         "audio_dir": "how to: ride horseback"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1206,9 +1206,9 @@
         "audio_dir": "Horseback riding is an exciting and skillful activity that requires balance, control, and confidence."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1224,9 +1224,9 @@
         "audio_dir": "To begin, choose a well-trained horse and wear proper safety gear, such as a helmet and riding boots."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1242,9 +1242,9 @@
         "audio_dir": "Approach the horse calmly and mount using a stirrup while keeping a firm but gentle grip on the reins."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Once seated, maintain good posture with your heels down and back straight."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1278,9 +1278,9 @@
         "audio_dir": "Use your legs and reins to guide the horse, applying gentle pressure to signal movement."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1296,9 +1296,9 @@
         "audio_dir": "Start with a slow walk, then progress to a trot or canter as you gain confidence."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1314,9 +1314,9 @@
         "audio_dir": "Stay aware of your surroundings and keep a steady rhythm with the horse’s movements."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1332,9 +1332,9 @@
         "audio_dir": "To stop, gently pull back on the reins and sit deep in the saddle."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1350,9 +1350,9 @@
         "audio_dir": "Dismount carefully and reward the horse with a pat or treat."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

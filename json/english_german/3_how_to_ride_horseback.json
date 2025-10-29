@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "activity.jpg",
-        "card_type": "reading",
+        "level": "activity",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Die Aktivität. Etwas, das eine Person tut, oft mit Bewegung oder Handlung verbunden"
     },
     {
-        "level": 3.0,
-        "image_filename": "animals.jpg",
-        "card_type": "vocab",
+        "level": "animals",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Das Tier"
     },
     {
-        "level": 3.0,
-        "image_filename": "balance.jpg",
-        "card_type": "vocab",
+        "level": "balance",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "das Gleichgewicht"
     },
     {
-        "level": 3.0,
-        "image_filename": "boot.jpg",
-        "card_type": "vocab",
+        "level": "boot",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "der Stiefel"
     },
     {
-        "level": 3.0,
-        "image_filename": "canter.jpg",
-        "card_type": "reading",
+        "level": "canter",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Galopp: Ein Gang eines Pferdes, der schneller als ein Trab, aber langsamer als ein Galopp ist.\nBeispiel: Der Reiter führte das Pferd in einen sanften Galopp."
     },
     {
-        "level": 3.0,
-        "image_filename": "confidence2.jpg",
-        "card_type": "vocab",
+        "level": "confidence2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Enttäuschung"
     },
     {
-        "level": 3.0,
-        "image_filename": "control.jpg",
-        "card_type": "vocab",
+        "level": "control",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Die Kontrolle"
     },
     {
-        "level": 3.0,
-        "image_filename": "equipement.jpg",
-        "card_type": "vocab",
+        "level": "equipement",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "die Ausrüstung"
     },
     {
-        "level": 3.0,
-        "image_filename": "grip.jpg",
-        "card_type": "vocab",
+        "level": "grip",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "der Griff"
     },
     {
-        "level": 3.0,
-        "image_filename": "heel.jpg",
-        "card_type": "vocab",
+        "level": "heel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "die Ferse"
     },
     {
-        "level": 3.0,
-        "image_filename": "helmet.jpg",
-        "card_type": "vocab",
+        "level": "helmet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "der Helm"
     },
     {
-        "level": 3.0,
-        "image_filename": "horse.jpg",
-        "card_type": "vocab",
+        "level": "horse",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "das Pferd"
     },
     {
-        "level": 3.0,
-        "image_filename": "legs.jpg",
-        "card_type": "vocab",
+        "level": "legs",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Die Beine"
     },
     {
-        "level": 3.0,
-        "image_filename": "movement.jpg",
-        "card_type": "vocab",
+        "level": "movement",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Die Bewegung. Physische Bewegung"
     },
     {
-        "level": 3.0,
-        "image_filename": "nature.jpg",
-        "card_type": "vocab",
+        "level": "nature",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "die Natur"
     },
     {
-        "level": 3.0,
-        "image_filename": "pat.jpg",
-        "card_type": "vocab",
+        "level": "pat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "der Klaps"
     },
     {
-        "level": 3.0,
-        "image_filename": "patience.jpg",
-        "card_type": "vocab",
+        "level": "patience",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "die Geduld"
     },
     {
-        "level": 3.0,
-        "image_filename": "posture.jpg",
-        "card_type": "vocab",
+        "level": "posture",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "die Haltung"
     },
     {
-        "level": 3.0,
-        "image_filename": "practice.jpg",
-        "card_type": "vocab",
+        "level": "practice",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Übung: Eine wiederholte Handlung oder Gewohnheit zur Verbesserung einer Fähigkeit.\nBeispiel: Tägliche Übung half ihr, eine großartige Pianistin zu werden."
     },
     {
-        "level": 3.0,
-        "image_filename": "rein.jpg",
-        "card_type": "vocab",
+        "level": "rein",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "der Zügel"
     },
     {
-        "level": 3.0,
-        "image_filename": "Rhythm.jpg",
-        "card_type": "vocab",
+        "level": "rhythm",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Der Rhythmus"
     },
     {
-        "level": 3.0,
-        "image_filename": "riding.jpg",
-        "card_type": "vocab",
+        "level": "riding",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "das Reiten"
     },
     {
-        "level": 3.0,
-        "image_filename": "saddle.jpg",
-        "card_type": "vocab",
+        "level": "saddle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "der Sattel"
     },
     {
-        "level": 3.0,
-        "image_filename": "safety.jpg",
-        "card_type": "vocab",
+        "level": "safety",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Ausrüstung für Sicherheit"
     },
     {
-        "level": 3.0,
-        "image_filename": "stirrup.jpg",
-        "card_type": "vocab",
+        "level": "stirrup",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "der Steigbügel"
     },
     {
-        "level": 3.0,
-        "image_filename": "sign_means_stop.jpg",
-        "card_type": "conjugation",
+        "level": "sign_means_stop",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "anhalten"
     },
     {
-        "level": 3.0,
-        "image_filename": "surroundings.jpg",
-        "card_type": "vocab",
+        "level": "surroundings",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Umgebung: Die Umgebung oder der Bereich um etwas herum.\nBeispiel: Sie bewunderte die friedliche Umgebung des Waldes."
     },
     {
-        "level": 3.0,
-        "image_filename": "dogtreat.jpg",
-        "card_type": "vocab",
+        "level": "dogtreat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Hundesnack"
     },
     {
-        "level": 3.0,
-        "image_filename": "canter.jpg",
-        "card_type": "reading",
+        "level": "canter",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Traben: Ein Gang, der schneller als ein Schritt, aber langsamer als ein Galopp ist.\nBeispiel: Das Pferd bewegte sich in einem gleichmäßigen Trab."
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "vocab",
+        "level": "walk_p",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "der Spaziergang"
     },
     {
-        "level": 3.0,
-        "image_filename": "way.jpg",
-        "card_type": "vocab",
+        "level": "way",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Art: Eine Methode oder Art, etwas zu tun.\nBeispiel: Spiele spielen ist eine unterhaltsame Art zu lernen."
     },
     {
-        "level": 3.0,
-        "image_filename": "apply.jpg",
-        "card_type": "vocab",
+        "level": "apply",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Make-up auftragen"
     },
     {
-        "level": 3.0,
-        "image_filename": "approach.jpg",
-        "card_type": "vocab",
+        "level": "approach",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Sich einem Pferd nähern"
     },
     {
-        "level": 3.0,
-        "image_filename": "choose.jpg",
-        "card_type": "vocab",
+        "level": "choose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "wählen"
     },
     {
-        "level": 3.0,
-        "image_filename": "connect.jpg",
-        "card_type": "vocab",
+        "level": "connect",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "verbinden"
     },
     {
-        "level": 3.0,
-        "image_filename": "dismount.jpg",
-        "card_type": "reading",
+        "level": "dismount",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Absteigen – Von einem Pferd, Fahrrad oder Fahrzeug absteigen. Beispiel: Er stieg vom Fahrrad ab und ging in den Laden."
     },
     {
-        "level": 3.0,
-        "image_filename": "enjoy_free.jpg",
-        "card_type": "vocab",
+        "level": "enjoy_free",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Genießen"
     },
     {
-        "level": 3.0,
-        "image_filename": "gain.jpg",
-        "card_type": "reading",
+        "level": "gain",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Gewinnen – Etwas erhalten oder vergrößern. Beispiel: Sie gewann wertvolle Erfahrungen in ihrem neuen Job."
     },
     {
-        "level": 3.0,
-        "image_filename": "guide.jpg",
-        "card_type": "vocab",
+        "level": "guide",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "führen"
     },
     {
-        "level": 3.0,
-        "image_filename": "locket.jpg",
-        "card_type": "vocab",
+        "level": "locket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "In einem Medaillon aufbewahren"
     },
     {
-        "level": 3.0,
-        "image_filename": "locket.jpg",
-        "card_type": "vocab",
+        "level": "locket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "In einem Medaillon aufbewahren"
     },
     {
-        "level": 3.0,
-        "image_filename": "maintain.jpg",
-        "card_type": "reading",
+        "level": "maintain",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "erhalten"
     },
     {
-        "level": 3.0,
-        "image_filename": "mount_motorcycle.jpg",
-        "card_type": "vocab",
+        "level": "mount_motorcycle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Montiere es"
     },
     {
-        "level": 3.0,
-        "image_filename": "progress.jpg",
-        "card_type": "vocab",
+        "level": "progress",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "fortschreiten"
     },
     {
-        "level": 3.0,
-        "image_filename": "pullpush.jpg",
-        "card_type": "vocab",
+        "level": "pullpush",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "ziehen schieben"
     },
     {
-        "level": 3.0,
-        "image_filename": "require.jpg",
-        "card_type": "vocab",
+        "level": "require",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "erfordern"
     },
     {
-        "level": 3.0,
-        "image_filename": "reward.jpg",
-        "card_type": "reading",
+        "level": "reward",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Belohnen – Etwas als Anerkennung für Leistung oder Erfolg geben. Beispiel: Sie wurde für ihre harte Arbeit mit einer Beförderung belohnt."
     },
     {
-        "level": 3.0,
-        "image_filename": "ride.jpg",
-        "card_type": "vocab",
+        "level": "ride",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "ein Pferd reiten"
     },
     {
-        "level": 3.0,
-        "image_filename": "sitstand.jpg",
-        "card_type": "vocab",
+        "level": "sitstand",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "sitzen stehen"
     },
     {
-        "level": 3.0,
-        "image_filename": "start_race.jpg",
-        "card_type": "vocab",
+        "level": "start_race",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "Start"
     },
     {
-        "level": 3.0,
-        "image_filename": "dog_stay.jpg",
-        "card_type": "vocab",
+        "level": "dog_stay",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "Bleiben"
     },
     {
-        "level": 3.0,
-        "image_filename": "use_a_tool_m.jpg",
-        "card_type": "vocab",
+        "level": "use_a_tool_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "ein Werkzeug benutzen"
     },
     {
-        "level": 3.0,
-        "image_filename": "wearclothes.jpg",
-        "card_type": "reading",
+        "level": "wearclothes",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "Tragen – Kleidung oder Accessoires am Körper haben. Beispiel: Er trug eine rote Jacke zur Party."
     },
     {
-        "level": 3.0,
-        "image_filename": "riding.jpg",
-        "card_type": "vocab",
+        "level": "riding",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "Reiten - zu Pferd"
     },
     {
-        "level": 3.0,
-        "image_filename": "exciting.jpg",
-        "card_type": "vocab",
+        "level": "exciting",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "aufregend"
     },
     {
-        "level": 3.0,
-        "image_filename": "skill_cooking.jpg",
-        "card_type": "vocab",
+        "level": "skill_cooking",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "geschicktes Kochen"
     },
     {
-        "level": 3.0,
-        "image_filename": "proper.jpg",
-        "card_type": "vocab",
+        "level": "proper",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "die richtige Art, eine Kiste zu heben"
     },
     {
-        "level": 3.0,
-        "image_filename": "firmgentle.jpg",
-        "card_type": "vocab",
+        "level": "firmgentle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "Gegensätze: fest - sanft"
     },
     {
-        "level": 3.0,
-        "image_filename": "firmgentle.jpg",
-        "card_type": "vocab",
+        "level": "firmgentle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "Gegensätze: fest - sanft"
     },
     {
-        "level": 3.0,
-        "image_filename": "steady.jpg",
-        "card_type": "vocab",
+        "level": "steady",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "ruhige Hand"
     },
     {
-        "level": 3.0,
-        "image_filename": "shallowdeep.jpg",
-        "card_type": "vocab",
+        "level": "shallowdeep",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "flach tief"
     },
     {
-        "level": 3.0,
-        "image_filename": "fun_party.jpg",
-        "card_type": "vocab",
+        "level": "fun_party",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "lustige Party"
     },
     {
-        "level": 3.0,
-        "image_filename": "reward.jpg",
-        "card_type": "reading",
+        "level": "reward",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "Lohnend – Etwas, das Zufriedenheit oder einen Nutzen bringt. Beispiel: Unterrichten kann eine lohnende Karriere sein, wenn die Schüler Erfolg haben."
     },
     {
-        "level": 3.0,
-        "image_filename": "calmly.jpg",
-        "card_type": "reading",
+        "level": "calmly",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "Ruhig – Auf eine friedliche und kontrollierte Weise. Beispiel: Sie erklärte den Fehler ruhig, anstatt sich aufzuregen."
     },
     {
-        "level": 3.0,
-        "image_filename": "gently.jpg",
-        "card_type": "vocab",
+        "level": "gently",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Sanft halten"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "Anleitung: Reiten"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "Reiten ist eine aufregende und anspruchsvolle Aktivität, die Gleichgewicht, Kontrolle und Selbstvertrauen erfordert."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "Wählen Sie zunächst ein gut trainiertes Pferd und tragen Sie die richtige Sicherheitsausrüstung wie einen Helm und Reitstiefel."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "Gehen Sie ruhig auf das Pferd zu und steigen Sie mit einem Steigbügel auf, während Sie die Zügel fest, aber sanft im Griff haben."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Behalten Sie nach dem Sitzen eine gute Haltung mit gesenkten Fersen und geradem Rücken bei."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "Führen Sie das Pferd mit Ihren Beinen und Zügeln und üben Sie sanften Druck aus, um eine Bewegung zu signalisieren."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "Beginnen Sie mit einem langsamen Schritt und gehen Sie dann zum Trab oder Galopp über, wenn Sie an Selbstvertrauen gewinnen."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "Achten Sie auf Ihre Umgebung und achten Sie auf einen gleichmäßigen Rhythmus mit den Bewegungen des Pferdes."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "Um anzuhalten, ziehen Sie die Zügel vorsichtig zurück und setzen Sie sich tief in den Sattel."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "Steigen Sie vorsichtig ab und belohnen Sie das Pferd mit einem Streicheln oder einem Leckerli."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

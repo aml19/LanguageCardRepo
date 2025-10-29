@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "little.jpg",
-        "card_type": "vocab",
+        "level": "little",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "niño grande y pequeño"
     },
     {
-        "level": 4.0,
-        "image_filename": "sandy.jpg",
-        "card_type": "vocab",
+        "level": "sandy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "pies arenosos"
     },
     {
-        "level": 4.0,
-        "image_filename": "powerful.jpg",
-        "card_type": "vocab",
+        "level": "powerful",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "poderosa tormenta eléctrica"
     },
     {
-        "level": 4.0,
-        "image_filename": "swirling.jpg",
-        "card_type": "vocab",
+        "level": "swirling",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "remolino"
     },
     {
-        "level": 4.0,
-        "image_filename": "colorful.jpg",
-        "card_type": "vocab",
+        "level": "colorful",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "patrón colorido"
     },
     {
-        "level": 4.0,
-        "image_filename": "frightened.jpg",
-        "card_type": "vocab",
+        "level": "frightened",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "asustado: asustado o con miedo"
     },
     {
-        "level": 4.0,
-        "image_filename": "exhilarated.jpg",
-        "card_type": "vocab",
+        "level": "exhilarated",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "exaltado: muy feliz, animado o eufórico."
     },
     {
-        "level": 4.0,
-        "image_filename": "thrilling.jpg",
-        "card_type": "vocab",
+        "level": "thrilling",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "emocionante paseo en montaña rusa"
     },
     {
-        "level": 4.0,
-        "image_filename": "daring.jpg",
-        "card_type": "vocab",
+        "level": "daring",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "salto audaz y peligroso"
     },
     {
-        "level": 4.0,
-        "image_filename": "once.jpg",
-        "card_type": "reading",
+        "level": "once",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "una vez: en una ocasión o por única vez."
     },
     {
-        "level": 4.0,
-        "image_filename": "suddenly.jpg",
-        "card_type": "vocab",
+        "level": "suddenly",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "caer repentinamente; rápidamente e inesperadamente."
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "finalmente"
     },
     {
-        "level": 4.0,
-        "image_filename": "both.jpg",
-        "card_type": "vocab",
+        "level": "both",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "ambos jugadores quieren la pelota"
     },
     {
-        "level": 4.0,
-        "image_filename": "whenever.jpg",
-        "card_type": "reading",
+        "level": "whenever",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "puedes pedir ayuda siempre que la necesites"
     },
     {
-        "level": 4.0,
-        "image_filename": "fish.jpg",
-        "card_type": "vocab",
+        "level": "fish",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "pez"
     },
     {
-        "level": 4.0,
-        "image_filename": "tired.jpg",
-        "card_type": "vocab",
+        "level": "tired",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, adjectives are words used to describe or modify nouns by providing more information about their characteristics, qualities, or attributes. Here's a breakdown of how adjectives work:\n\nAgreement:\n\nAdjectives must agree in gender (masculine/feminine) and number (singular/plural) with the noun they modify.\nFor example, if the noun is feminine and singular, the adjective must also be feminine and singular. The same rule applies for masculine, plural, and feminine plural nouns.\nPlacement:\n\nIn Spanish, adjectives generally come after the noun they describe. However, some adjectives can come before the noun to emphasize or modify the meaning.\nWhen placed before the noun, adjectives usually have a stronger or more specific meaning (e.g., \"un hombre grande\" - a big man vs. \"un gran hombre\" - a great man).\nForms of Adjectives:\n\nAdjectives have different forms to match the gender and number of the nouns they modify.\nMasculine/Feminine and Singular/Plural:\nFor example, for the adjective \"bonito\" (pretty), it changes to \"bonita\" for feminine singular (\"una chica bonita\" - a pretty girl) and \"bonitos\" for masculine plural (\"chicos bonitos\" - pretty boys).\nIrregular Adjectives:\n\nSome adjectives have irregular forms that don't follow the typical patterns. For instance, \"bueno\" (good) becomes \"buena\" for feminine singular and \"buenos\" for masculine plural.\nComparatives and Superlatives:\n\nAdjectives can also be used in comparative and superlative forms to compare qualities.\nComparative form (comparativo): Expresses a comparison between two things (e.g., \"más grande\" - bigger).\nSuperlative form (superlativo): Indicates the highest degree of a quality (e.g., \"el más grande\" - the biggest).\nDemonstrative and Possessive Adjectives:\n\nSpanish also uses demonstrative adjectives (this, that, these, those) and possessive adjectives (my, your, his, her, its) to specify or show ownership. These, too, follow the gender and number of the nouns they modify.\nUnderstanding adjectives in Spanish involves learning their forms, agreement rules, and different positions within a sentence. Practice and exposure to various examples will help in mastering the use of adjectives to describe nouns effectively in Spanish sentences.",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "cansado"
     },
     {
-        "level": 4.0,
-        "image_filename": "happy_kid.jpg",
-        "card_type": "vocab",
+        "level": "happy_kid",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, adjectives are words used to describe or modify nouns by providing more information about their characteristics, qualities, or attributes. Here's a breakdown of how adjectives work:\n\nAgreement:\n\nAdjectives must agree in gender (masculine/feminine) and number (singular/plural) with the noun they modify.\nFor example, if the noun is feminine and singular, the adjective must also be feminine and singular. The same rule applies for masculine, plural, and feminine plural nouns.\nPlacement:\n\nIn Spanish, adjectives generally come after the noun they describe. However, some adjectives can come before the noun to emphasize or modify the meaning.\nWhen placed before the noun, adjectives usually have a stronger or more specific meaning (e.g., \"un hombre grande\" - a big man vs. \"un gran hombre\" - a great man).\nForms of Adjectives:\n\nAdjectives have different forms to match the gender and number of the nouns they modify.\nMasculine/Feminine and Singular/Plural:\nFor example, for the adjective \"bonito\" (pretty), it changes to \"bonita\" for feminine singular (\"una chica bonita\" - a pretty girl) and \"bonitos\" for masculine plural (\"chicos bonitos\" - pretty boys).\nIrregular Adjectives:\n\nSome adjectives have irregular forms that don't follow the typical patterns. For instance, \"bueno\" (good) becomes \"buena\" for feminine singular and \"buenos\" for masculine plural.\nComparatives and Superlatives:\n\nAdjectives can also be used in comparative and superlative forms to compare qualities.\nComparative form (comparativo): Expresses a comparison between two things (e.g., \"más grande\" - bigger).\nSuperlative form (superlativo): Indicates the highest degree of a quality (e.g., \"el más grande\" - the biggest).\nDemonstrative and Possessive Adjectives:\n\nSpanish also uses demonstrative adjectives (this, that, these, those) and possessive adjectives (my, your, his, her, its) to specify or show ownership. These, too, follow the gender and number of the nouns they modify.\nUnderstanding adjectives in Spanish involves learning their forms, agreement rules, and different positions within a sentence. Practice and exposure to various examples will help in mastering the use of adjectives to describe nouns effectively in Spanish sentences.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "niño feliz"
     },
     {
-        "level": 4.0,
-        "image_filename": "crab.jpg",
-        "card_type": "vocab",
+        "level": "crab",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Un cangrejo"
     },
     {
-        "level": 4.0,
-        "image_filename": "sand.jpg",
-        "card_type": "vocab",
+        "level": "sand",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "La arena"
     },
     {
-        "level": 4.0,
-        "image_filename": "burrow.jpg",
-        "card_type": "vocab",
+        "level": "burrow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Una madriguera de conejo"
     },
     {
-        "level": 4.0,
-        "image_filename": "beach.jpg",
-        "card_type": "vocab",
+        "level": "beach",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "La playa"
     },
     {
-        "level": 4.0,
-        "image_filename": "shoreline.jpg",
-        "card_type": "vocab",
+        "level": "shoreline",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "La línea de costa: donde la tierra y el océano se encuentran"
     },
     {
-        "level": 4.0,
-        "image_filename": "tide pool.jpg",
-        "card_type": "vocab",
+        "level": "tide pool",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Los charcos de marea todavía bajo el agua"
     },
     {
-        "level": 4.0,
-        "image_filename": "seagull.jpg",
-        "card_type": "vocab",
+        "level": "seagull",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Una gaviota"
     },
     {
-        "level": 4.0,
-        "image_filename": "wave.jpg",
-        "card_type": "vocab",
+        "level": "wave",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Una ola"
     },
     {
-        "level": 4.0,
-        "image_filename": "ocean.jpg",
-        "card_type": "vocab",
+        "level": "ocean",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "El océano: una extensión muy grande de mar"
     },
     {
-        "level": 4.0,
-        "image_filename": "current.jpg",
-        "card_type": "vocab",
+        "level": "current",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "La corriente rápida del río"
     },
     {
-        "level": 4.0,
-        "image_filename": "journey.jpg",
-        "card_type": "vocab",
+        "level": "journey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Un viaje: viajar a algún lugar."
     },
     {
-        "level": 4.0,
-        "image_filename": "adventure.jpg",
-        "card_type": "reading",
+        "level": "adventure",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Una aventura: una experiencia inusual y emocionante, típicamente peligrosa"
     },
     {
-        "level": 4.0,
-        "image_filename": "roar.jpg",
-        "card_type": "vocab",
+        "level": "roar",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "El rugido de león"
     },
     {
-        "level": 4.0,
-        "image_filename": "mix.jpg",
-        "card_type": "vocab",
+        "level": "mix",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Una mezcla de bayas"
     },
     {
-        "level": 4.0,
-        "image_filename": "venture.jpg",
-        "card_type": "reading",
+        "level": "venture",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "aventura: atreverse a hacer algo o ir a algún lugar que puede ser peligroso"
     },
     {
-        "level": 4.0,
-        "image_filename": "scuttle.jpg",
-        "card_type": "reading",
+        "level": "scuttle",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "escabullirse: correr apresuradamente o furtivamente con pasos cortos y rápidos."
     },
     {
-        "level": 4.0,
-        "image_filename": "explore.jpg",
-        "card_type": "reading",
+        "level": "explore",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "explorar un nuevo mundo"
     },
     {
-        "level": 4.0,
-        "image_filename": "chase.jpg",
-        "card_type": "vocab",
+        "level": "chase",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "perseguir por un dinosaurio"
     },
     {
-        "level": 4.0,
-        "image_filename": "sweep.jpg",
-        "card_type": "vocab",
+        "level": "sweep",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "barrer"
     },
     {
-        "level": 4.0,
-        "image_filename": "find_key.jpg",
-        "card_type": "vocab",
+        "level": "find_key",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Encontrar una pista"
     },
     {
-        "level": 4.0,
-        "image_filename": "surround.jpg",
-        "card_type": "vocab",
+        "level": "surround",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "rodear la ciudad"
     },
     {
-        "level": 4.0,
-        "image_filename": "ride.jpg",
-        "card_type": "vocab",
+        "level": "ride",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "montar a caballo"
     },
     {
-        "level": 4.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
+        "level": "feel_water",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "sentir el agua"
     },
     {
-        "level": 4.0,
-        "image_filename": "return.jpg",
-        "card_type": "vocab",
+        "level": "return",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "regresar a casa"
     },
     {
-        "level": 4.0,
-        "image_filename": "crawl.jpg",
-        "card_type": "vocab",
+        "level": "crawl",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "arrastrarse: moverse de rodillas y manos"
     },
     {
-        "level": 4.0,
-        "image_filename": "experience.jpg",
-        "card_type": "vocab",
+        "level": "experience",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "experiencia de realidad virtual"
     },
     {
-        "level": 4.0,
-        "image_filename": "remember.jpg",
-        "card_type": "vocab",
+        "level": "remember",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

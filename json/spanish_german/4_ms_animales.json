@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "moth.jpg",
-        "card_type": "vocab",
+        "level": "moth",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Motte"
     },
     {
-        "level": 4.0,
-        "image_filename": "butterfly.jpg",
-        "card_type": "vocab",
+        "level": "butterfly",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Schmetterling"
     },
     {
-        "level": 4.0,
-        "image_filename": "grasshopper.jpg",
-        "card_type": "vocab",
+        "level": "grasshopper",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Heuschrecke"
     },
     {
-        "level": 4.0,
-        "image_filename": "beetle.jpg",
-        "card_type": "vocab",
+        "level": "beetle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Käfer"
     },
     {
-        "level": 4.0,
-        "image_filename": "dragonfly.jpg",
-        "card_type": "vocab",
+        "level": "dragonfly",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Libelle"
     },
     {
-        "level": 4.0,
-        "image_filename": "dragonfly.jpg",
-        "card_type": "vocab",
+        "level": "dragonfly",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "vier"
     },
     {
-        "level": 4.0,
-        "image_filename": "caterpillar.jpg",
-        "card_type": "vocab",
+        "level": "caterpillar",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Raupe"
     },
     {
-        "level": 4.0,
-        "image_filename": "flea.jpg",
-        "card_type": "vocab",
+        "level": "flea",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "Floh"
     },
     {
-        "level": 4.0,
-        "image_filename": "termite.jpg",
-        "card_type": "vocab",
+        "level": "termite",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Termite"
     },
     {
-        "level": 4.0,
-        "image_filename": "termite.jpg",
-        "card_type": "vocab",
+        "level": "termite",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Holz"
     },
     {
-        "level": 4.0,
-        "image_filename": "cockroach.jpg",
-        "card_type": "vocab",
+        "level": "cockroach",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Kakerlake"
     },
     {
-        "level": 4.0,
-        "image_filename": "centipede.jpg",
-        "card_type": "vocab",
+        "level": "centipede",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Tausendfüßler"
     },
     {
-        "level": 4.0,
-        "image_filename": "earthworm.jpg",
-        "card_type": "vocab",
+        "level": "earthworm",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "Regenwurm"
     },
     {
-        "level": 4.0,
-        "image_filename": "earthworm.jpg",
-        "card_type": "vocab",
+        "level": "earthworm",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "Im Boden"
     },
     {
-        "level": 4.0,
-        "image_filename": "slug.jpg",
-        "card_type": "vocab",
+        "level": "slug",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "Schnecke"
     },
     {
-        "level": 4.0,
-        "image_filename": "slug.jpg",
-        "card_type": "vocab",
+        "level": "slug",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "schleimig"
     },
     {
-        "level": 4.0,
-        "image_filename": "snail.jpg",
-        "card_type": "vocab",
+        "level": "snail",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Schnecke"
     },
     {
-        "level": 4.0,
-        "image_filename": "snail.jpg",
-        "card_type": "vocab",
+        "level": "snail",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "Ein Gehäuse"
     },
     {
-        "level": 4.0,
-        "image_filename": "cow.jpg",
-        "card_type": "vocab",
+        "level": "cow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Kuh"
     },
     {
-        "level": 4.0,
-        "image_filename": "cow.jpg",
-        "card_type": "vocab",
+        "level": "cow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "Milch"
     },
     {
-        "level": 4.0,
-        "image_filename": "sheep.jpg",
-        "card_type": "vocab",
+        "level": "sheep",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "Schaf"
     },
     {
-        "level": 4.0,
-        "image_filename": "sheep.jpg",
-        "card_type": "vocab",
+        "level": "sheep",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "Wolle"
     },
     {
-        "level": 4.0,
-        "image_filename": "goat.jpg",
-        "card_type": "vocab",
+        "level": "goat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "Ziege"
     },
     {
-        "level": 4.0,
-        "image_filename": "goat.jpg",
-        "card_type": "vocab",
+        "level": "goat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "Es besteigt Berge"
     },
     {
-        "level": 4.0,
-        "image_filename": "donkey.jpg",
-        "card_type": "vocab",
+        "level": "donkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "Esel"
     },
     {
-        "level": 4.0,
-        "image_filename": "donkey.jpg",
-        "card_type": "vocab",
+        "level": "donkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "Sie tragen Lasten"
     },
     {
-        "level": 4.0,
-        "image_filename": "rooster.jpg",
-        "card_type": "vocab",
+        "level": "rooster",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "Hahn"
     },
     {
-        "level": 4.0,
-        "image_filename": "duck.jpg",
-        "card_type": "vocab",
+        "level": "duck",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "Ente"
     },
     {
-        "level": 4.0,
-        "image_filename": "duck.jpg",
-        "card_type": "vocab",
+        "level": "duck",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "Im Wasser"
     },
     {
-        "level": 4.0,
-        "image_filename": "goose.jpg",
-        "card_type": "vocab",
+        "level": "goose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "Gans"
     },
     {
-        "level": 4.0,
-        "image_filename": "turkey.jpg",
-        "card_type": "vocab",
+        "level": "turkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "Truthahn"
     },
     {
-        "level": 4.0,
-        "image_filename": "rabbit.jpg",
-        "card_type": "vocab",
+        "level": "rabbit",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "Kaninchen"
     },
     {
-        "level": 4.0,
-        "image_filename": "rabbit.jpg",
-        "card_type": "vocab",
+        "level": "rabbit",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "haben Kaninchen spitze Ohren?"
     },
     {
-        "level": 4.0,
-        "image_filename": "mouse.jpg",
-        "card_type": "vocab",
+        "level": "mouse",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "Maus"
     },
     {
-        "level": 4.0,
-        "image_filename": "mouse.jpg",
-        "card_type": "vocab",
+        "level": "mouse",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "klein"
     },
     {
-        "level": 4.0,
-        "image_filename": "squirrel.jpg",
-        "card_type": "vocab",
+        "level": "squirrel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "Eichhörnchen"
     },
     {
-        "level": 4.0,
-        "image_filename": "squirrel.jpg",
-        "card_type": "vocab",
+        "level": "squirrel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "klettern Eichhörnchen auf Bäume?"
     },
     {
-        "level": 4.0,
-        "image_filename": "chipmunk.jpg",
-        "card_type": "vocab",
+        "level": "chipmunk",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "Streifenhörnchen"
     },
     {
-        "level": 4.0,
-        "image_filename": "raccoon.jpg",
-        "card_type": "vocab",
+        "level": "raccoon",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "Waschbär"
     },
     {
-        "level": 4.0,
-        "image_filename": "raccoon.jpg",
-        "card_type": "vocab",
+        "level": "raccoon",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": "Sehen Waschbären aus, als würden sie eine Maske tragen?"
     },
     {
-        "level": 4.0,
-        "image_filename": "skunk.jpg",
-        "card_type": "vocab",
+        "level": "skunk",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": "Skunk"
     },
     {
-        "level": 4.0,
-        "image_filename": "skunk.jpg",
-        "card_type": "vocab",
+        "level": "skunk",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -756,9 +756,9 @@
         "audio_dir": "Sie stinken"
     },
     {
-        "level": 4.0,
-        "image_filename": "opossum.jpg",
-        "card_type": "vocab",
+        "level": "opossum",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -774,9 +774,9 @@
         "audio_dir": "Beutelratte"
     },
     {
-        "level": 4.0,
-        "image_filename": "opossum.jpg",
-        "card_type": "vocab",
+        "level": "opossum",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -792,9 +792,9 @@
         "audio_dir": "vielleicht"
     },
     {
-        "level": 4.0,
-        "image_filename": "fox.jpg",
-        "card_type": "vocab",
+        "level": "fox",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -810,9 +810,9 @@
         "audio_dir": "Fuchs"
     },
     {
-        "level": 4.0,
-        "image_filename": "fox.jpg",
-        "card_type": "vocab",
+        "level": "fox",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -828,9 +828,9 @@
         "audio_dir": "sind Füchse schlau?"
     },
     {
-        "level": 4.0,
-        "image_filename": "wolf.jpg",
-        "card_type": "vocab",
+        "level": "wolf",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -846,9 +846,9 @@
         "audio_dir": "Wolf"
     },
     {
-        "level": 4.0,
-        "image_filename": "wolf.jpg",
-        "card_type": "vocab",
+        "level": "wolf",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -864,9 +864,9 @@
         "audio_dir": "beides"
     },
     {
-        "level": 4.0,
-        "image_filename": "deer.jpg",
-        "card_type": "vocab",
+        "level": "deer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -882,9 +882,9 @@
         "audio_dir": "Reh"
     },
     {
-        "level": 4.0,
-        "image_filename": "deer.jpg",
-        "card_type": "vocab",
+        "level": "deer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -900,9 +900,9 @@
         "audio_dir": "Ein Geweih"
     },
     {
-        "level": 4.0,
-        "image_filename": "moose.jpg",
-        "card_type": "vocab",
+        "level": "moose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -918,9 +918,9 @@
         "audio_dir": "Elch"
     },
     {
-        "level": 4.0,
-        "image_filename": "crow.jpg",
-        "card_type": "vocab",
+        "level": "crow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -936,9 +936,9 @@
         "audio_dir": "Krähe"
     },
     {
-        "level": 4.0,
-        "image_filename": "crow.jpg",
-        "card_type": "vocab",
+        "level": "crow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -954,9 +954,9 @@
         "audio_dir": "schlau"
     },
     {
-        "level": 4.0,
-        "image_filename": "pigeon.jpg",
-        "card_type": "vocab",
+        "level": "pigeon",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -972,9 +972,9 @@
         "audio_dir": "Taube"
     },
     {
-        "level": 4.0,
-        "image_filename": "pigeon.jpg",
-        "card_type": "vocab",
+        "level": "pigeon",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -990,9 +990,9 @@
         "audio_dir": "Leben Tauben in der Nähe von Menschen?"
     },
     {
-        "level": 4.0,
-        "image_filename": "seagull.jpg",
-        "card_type": "vocab",
+        "level": "seagull",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1008,9 +1008,9 @@
         "audio_dir": "Möwe"
     },
     {
-        "level": 4.0,
-        "image_filename": "seagull.jpg",
-        "card_type": "vocab",
+        "level": "seagull",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1026,9 +1026,9 @@
         "audio_dir": "am Meer"
     },
     {
-        "level": 4.0,
-        "image_filename": "owl.jpg",
-        "card_type": "vocab",
+        "level": "owl",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1044,9 +1044,9 @@
         "audio_dir": "Eule"
     },
     {
-        "level": 4.0,
-        "image_filename": "owl.jpg",
-        "card_type": "vocab",
+        "level": "owl",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1062,9 +1062,9 @@
         "audio_dir": "groß"
     },
     {
-        "level": 4.0,
-        "image_filename": "batanimal.jpg",
-        "card_type": "vocab",
+        "level": "batanimal",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1080,9 +1080,9 @@
         "audio_dir": "Schläger"
     },
     {
-        "level": 4.0,
-        "image_filename": "frog.jpg",
-        "card_type": "vocab",
+        "level": "frog",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1098,9 +1098,9 @@
         "audio_dir": "Frosch"
     },
     {
-        "level": 4.0,
-        "image_filename": "frog.jpg",
-        "card_type": "vocab",
+        "level": "frog",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1116,9 +1116,9 @@
         "audio_dir": "Zum Springen"
     },
     {
-        "level": 4.0,
-        "image_filename": "toad.jpg",
-        "card_type": "vocab",
+        "level": "toad",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1134,9 +1134,9 @@
         "audio_dir": "Kröte"
     },
     {
-        "level": 4.0,
-        "image_filename": "snake.jpg",
-        "card_type": "vocab",
+        "level": "snake",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1152,9 +1152,9 @@
         "audio_dir": "Schlange"
     },
     {
-        "level": 4.0,
-        "image_filename": "turtle.jpg",
-        "card_type": "vocab",
+        "level": "turtle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Schildkröte"
     },
     {
-        "level": 4.0,
-        "image_filename": "turtle.jpg",
-        "card_type": "vocab",
+        "level": "turtle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1188,9 +1188,9 @@
         "audio_dir": "Nein"
     },
     {
-        "level": 4.0,
-        "image_filename": "whale.jpg",
-        "card_type": "vocab",
+        "level": "whale",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1206,9 +1206,9 @@
         "audio_dir": "Wal"
     },
     {
-        "level": 4.0,
-        "image_filename": "whale.jpg",
-        "card_type": "vocab",
+        "level": "whale",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1224,9 +1224,9 @@
         "audio_dir": "Wal"
     },
     {
-        "level": 4.0,
-        "image_filename": "dolphin.jpg",
-        "card_type": "vocab",
+        "level": "dolphin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1242,9 +1242,9 @@
         "audio_dir": "Delphin"
     },
     {
-        "level": 4.0,
-        "image_filename": "dolphin.jpg",
-        "card_type": "vocab",
+        "level": "dolphin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Nein"
     },
     {
-        "level": 4.0,
-        "image_filename": "shark.jpg",
-        "card_type": "vocab",
+        "level": "shark",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1278,9 +1278,9 @@
         "audio_dir": "Hai"
     },
     {
-        "level": 4.0,
-        "image_filename": "lion.jpg",
-        "card_type": "vocab",
+        "level": "lion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1296,9 +1296,9 @@
         "audio_dir": "Löwe"
     },
     {
-        "level": 4.0,
-        "image_filename": "lion.jpg",
-        "card_type": "vocab",
+        "level": "lion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1314,9 +1314,9 @@
         "audio_dir": "Brüllen"
     },
     {
-        "level": 4.0,
-        "image_filename": "tiger.jpg",
-        "card_type": "vocab",
+        "level": "tiger",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1332,9 +1332,9 @@
         "audio_dir": "Tiger"
     },
     {
-        "level": 4.0,
-        "image_filename": "tiger.jpg",
-        "card_type": "vocab",
+        "level": "tiger",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1350,9 +1350,9 @@
         "audio_dir": "Orange und schwarze Streifen"
     },
     {
-        "level": 4.0,
-        "image_filename": "bear.jpg",
-        "card_type": "vocab",
+        "level": "bear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1368,9 +1368,9 @@
         "audio_dir": "tragen"
     },
     {
-        "level": 4.0,
-        "image_filename": "bear.jpg",
-        "card_type": "vocab",
+        "level": "bear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1386,9 +1386,9 @@
         "audio_dir": "Im Wald"
     },
     {
-        "level": 4.0,
-        "image_filename": "elephant.jpg",
-        "card_type": "vocab",
+        "level": "elephant",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1404,9 +1404,9 @@
         "audio_dir": "Elefant"
     },
     {
-        "level": 4.0,
-        "image_filename": "elephant.jpg",
-        "card_type": "vocab",
+        "level": "elephant",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1422,9 +1422,9 @@
         "audio_dir": "ein Rüssel"
     },
     {
-        "level": 4.0,
-        "image_filename": "giraffe.jpg",
-        "card_type": "vocab",
+        "level": "giraffe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1440,9 +1440,9 @@
         "audio_dir": "Giraffe"
     },
     {
-        "level": 4.0,
-        "image_filename": "giraffe.jpg",
-        "card_type": "vocab",
+        "level": "giraffe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1458,9 +1458,9 @@
         "audio_dir": "Für ihren langen Hals"
     },
     {
-        "level": 4.0,
-        "image_filename": "zebra.jpg",
-        "card_type": "vocab",
+        "level": "zebra",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1476,9 +1476,9 @@
         "audio_dir": "Zebra"
     },
     {
-        "level": 4.0,
-        "image_filename": "zebra.jpg",
-        "card_type": "vocab",
+        "level": "zebra",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1494,9 +1494,9 @@
         "audio_dir": "Streifen"
     },
     {
-        "level": 4.0,
-        "image_filename": "camel.jpg",
-        "card_type": "vocab",
+        "level": "camel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1512,9 +1512,9 @@
         "audio_dir": "Kamel"
     },
     {
-        "level": 4.0,
-        "image_filename": "camel.jpg",
-        "card_type": "vocab",
+        "level": "camel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1530,9 +1530,9 @@
         "audio_dir": "Einen Höcker"
     },
     {
-        "level": 4.0,
-        "image_filename": "chimpanzee.jpg",
-        "card_type": "vocab",
+        "level": "chimpanzee",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1548,9 +1548,9 @@
         "audio_dir": "Schimpanse"
     },
     {
-        "level": 4.0,
-        "image_filename": "gorilla.jpg",
-        "card_type": "vocab",
+        "level": "gorilla",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1566,9 +1566,9 @@
         "audio_dir": "Gorilla"
     },
     {
-        "level": 4.0,
-        "image_filename": "gorilla.jpg",
-        "card_type": "vocab",
+        "level": "gorilla",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1584,9 +1584,9 @@
         "audio_dir": "Im Dschungel"
     },
     {
-        "level": 4.0,
-        "image_filename": "hippo.jpg",
-        "card_type": "vocab",
+        "level": "hippo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1602,9 +1602,9 @@
         "audio_dir": "Nilpferd"
     },
     {
-        "level": 4.0,
-        "image_filename": "hippo.jpg",
-        "card_type": "vocab",
+        "level": "hippo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1620,9 +1620,9 @@
         "audio_dir": "können Nilpferde schwimmen?"
     },
     {
-        "level": 4.0,
-        "image_filename": "rhino.jpg",
-        "card_type": "vocab",
+        "level": "rhino",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1638,9 +1638,9 @@
         "audio_dir": "Nashorn"
     },
     {
-        "level": 4.0,
-        "image_filename": "rhino.jpg",
-        "card_type": "vocab",
+        "level": "rhino",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1656,9 +1656,9 @@
         "audio_dir": "Horn"
     },
     {
-        "level": 4.0,
-        "image_filename": "kangaroo.jpg",
-        "card_type": "vocab",
+        "level": "kangaroo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1674,9 +1674,9 @@
         "audio_dir": "Känguru"
     },
     {
-        "level": 4.0,
-        "image_filename": "kangaroo.jpg",
-        "card_type": "vocab",
+        "level": "kangaroo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1692,9 +1692,9 @@
         "audio_dir": "Ihr Baby"
     },
     {
-        "level": 4.0,
-        "image_filename": "flamingo.jpg",
-        "card_type": "vocab",
+        "level": "flamingo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1710,9 +1710,9 @@
         "audio_dir": "Flamingo"
     },
     {
-        "level": 4.0,
-        "image_filename": "parrot.jpg",
-        "card_type": "vocab",
+        "level": "parrot",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1728,9 +1728,9 @@
         "audio_dir": "Papagei"
     },
     {
-        "level": 4.0,
-        "image_filename": "parrot.jpg",
-        "card_type": "vocab",
+        "level": "parrot",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1746,9 +1746,9 @@
         "audio_dir": "wahrscheinlich"
     },
     {
-        "level": 4.0,
-        "image_filename": "panda.jpg",
-        "card_type": "vocab",
+        "level": "panda",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1764,9 +1764,9 @@
         "audio_dir": "Panda"
     },
     {
-        "level": 4.0,
-        "image_filename": "panda.jpg",
-        "card_type": "vocab",
+        "level": "panda",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

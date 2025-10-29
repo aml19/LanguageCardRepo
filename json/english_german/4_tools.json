@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "Hammer.jpg",
-        "card_type": "vocab",
+        "level": "hammer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Hammer: wird verwendet, um Nägel einzuschlagen oder Gegenstände zu zerbrechen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Screwdriver.jpg",
-        "card_type": "vocab",
+        "level": "screwdriver",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Schraubenzieher: wird verwendet, um Schrauben ein- oder auszudrehen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wrench.jpg",
-        "card_type": "vocab",
+        "level": "wrench",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Schraubenschlüssel: wird verwendet, um Muttern und Schrauben festzuziehen oder zu lösen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Pliers.jpg",
-        "card_type": "vocab",
+        "level": "pliers",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Zange: wird verwendet, um Drähte oder kleine Gegenstände zu greifen, zu drehen oder zu schneiden"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ruler.jpg",
-        "card_type": "vocab",
+        "level": "ruler",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Lineal: wird verwendet, um Länge, Breite oder Höhe zu messen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Handsaw.jpg",
-        "card_type": "vocab",
+        "level": "handsaw",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Handsäge: wird verwendet, um Holz oder andere Materialien manuell zu schneiden"
     },
     {
-        "level": 4.0,
-        "image_filename": "Level.jpg",
-        "card_type": "vocab",
+        "level": "level",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Wasserwaage: wird verwendet, um zu prüfen, ob eine Fläche waagerecht oder senkrecht ist"
     },
     {
-        "level": 4.0,
-        "image_filename": "Boxcutter.jpg",
-        "card_type": "vocab",
+        "level": "boxcutter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Universalmesser (Cuttermesser): wird verwendet, um Materialien zu schneiden oder zu trimmen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Drill.jpg",
-        "card_type": "vocab",
+        "level": "drill",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Bohrmaschine: wird verwendet, um Löcher in Holz, Metall oder andere Materialien zu bohren"
     },
     {
-        "level": 4.0,
-        "image_filename": "Chisel.jpg",
-        "card_type": "vocab",
+        "level": "chisel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Meißel: wird verwendet, um Holz, Stein oder Metall zu schnitzen oder abzutragen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Clamp.jpg",
-        "card_type": "vocab",
+        "level": "clamp",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Schraubzwinge: wird verwendet, um Gegenstände fest an ihrem Platz zu halten"
     },
     {
-        "level": 4.0,
-        "image_filename": "Sandpaper.jpg",
-        "card_type": "vocab",
+        "level": "sandpaper",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Schleifpapier: wird verwendet, um Oberflächen zu glätten oder zu polieren"
     },
     {
-        "level": 4.0,
-        "image_filename": "Allenkey.jpg",
-        "card_type": "vocab",
+        "level": "allenkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Inbusschlüssel (Sechskantschlüssel): wird verwendet, um Schrauben oder Bolzen mit Sechskant zu drehen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Paintbrush.jpg",
-        "card_type": "vocab",
+        "level": "paintbrush",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Pinsel: wird verwendet, um Farbe auf Oberflächen aufzutragen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ladder.jpg",
-        "card_type": "vocab",
+        "level": "ladder",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Leiter: wird verwendet, um hohe Stellen zu erreichen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Shovel.jpg",
-        "card_type": "vocab",
+        "level": "shovel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Schaufel: wird verwendet, um Erde zu graben oder zu bewegen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Rake.jpg",
-        "card_type": "vocab",
+        "level": "rake",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Rechen: wird verwendet, um Blätter, Gras oder Abfall zu sammeln"
     },
     {
-        "level": 4.0,
-        "image_filename": "Hoe.jpg",
-        "card_type": "vocab",
+        "level": "hoe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Hacke: wird verwendet, um Erde zu lockern und Unkraut zu entfernen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Pruningshears.jpg",
-        "card_type": "vocab",
+        "level": "pruningshears",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Gartenschere: wird verwendet, um Äste zu schneiden und Pflanzen zu trimmen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Gardenfork.jpg",
-        "card_type": "vocab",
+        "level": "gardenfork",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Grabegabel: wird verwendet, um Erde zu wenden und zu belüften"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wheelbarrow.jpg",
-        "card_type": "vocab",
+        "level": "wheelbarrow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Schubkarre: wird verwendet, um Erde, Pflanzen oder Werkzeuge zu transportieren"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wateringfan.jpg",
-        "card_type": "vocab",
+        "level": "wateringfan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Gießkanne: wird verwendet, um Pflanzen zu gießen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Lawnmower.jpg",
-        "card_type": "vocab",
+        "level": "lawnmower",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Rasenmäher: wird verwendet, um Gras zu schneiden"
     },
     {
-        "level": 4.0,
-        "image_filename": "Gardenhose.jpg",
-        "card_type": "vocab",
+        "level": "gardenhose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Gartenschlauch: wird verwendet, um Wasser zu sprühen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Hammer.jpg",
-        "card_type": "vocab",
+        "level": "hammer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Hammer: wird verwendet, um Nägel einzuschlagen oder Gegenstände zu zerbrechen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Screwdriver.jpg",
-        "card_type": "vocab",
+        "level": "screwdriver",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Schraubenzieher: wird verwendet, um Schrauben ein- oder auszudrehen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wrench.jpg",
-        "card_type": "vocab",
+        "level": "wrench",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Schraubenschlüssel: wird verwendet, um Muttern und Schrauben festzuziehen oder zu lösen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Pliers.jpg",
-        "card_type": "vocab",
+        "level": "pliers",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Zange: wird verwendet, um Drähte oder kleine Gegenstände zu greifen, zu drehen oder zu schneiden"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ruler.jpg",
-        "card_type": "vocab",
+        "level": "ruler",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Lineal: wird verwendet, um Länge, Breite oder Höhe zu messen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Handsaw.jpg",
-        "card_type": "vocab",
+        "level": "handsaw",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Handsäge: wird verwendet, um Holz oder andere Materialien manuell zu schneiden"
     },
     {
-        "level": 4.0,
-        "image_filename": "Level.jpg",
-        "card_type": "vocab",
+        "level": "level",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Wasserwaage: wird verwendet, um zu prüfen, ob eine Fläche waagerecht oder senkrecht ist"
     },
     {
-        "level": 4.0,
-        "image_filename": "Boxcutter.jpg",
-        "card_type": "vocab",
+        "level": "boxcutter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Universalmesser (Cuttermesser): wird verwendet, um Materialien zu schneiden oder zu trimmen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Drill.jpg",
-        "card_type": "vocab",
+        "level": "drill",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Bohrmaschine: wird verwendet, um Löcher in Holz, Metall oder andere Materialien zu bohren"
     },
     {
-        "level": 4.0,
-        "image_filename": "Chisel.jpg",
-        "card_type": "vocab",
+        "level": "chisel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Meißel: wird verwendet, um Holz, Stein oder Metall zu schnitzen oder abzutragen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Clamp.jpg",
-        "card_type": "vocab",
+        "level": "clamp",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Schraubzwinge: wird verwendet, um Gegenstände fest an ihrem Platz zu halten"
     },
     {
-        "level": 4.0,
-        "image_filename": "Sandpaper.jpg",
-        "card_type": "vocab",
+        "level": "sandpaper",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Schleifpapier: wird verwendet, um Oberflächen zu glätten oder zu polieren"
     },
     {
-        "level": 4.0,
-        "image_filename": "Allenkey.jpg",
-        "card_type": "vocab",
+        "level": "allenkey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Inbusschlüssel (Sechskantschlüssel): wird verwendet, um Schrauben oder Bolzen mit Sechskant zu drehen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Paintbrush.jpg",
-        "card_type": "vocab",
+        "level": "paintbrush",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Pinsel: wird verwendet, um Farbe auf Oberflächen aufzutragen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ladder.jpg",
-        "card_type": "vocab",
+        "level": "ladder",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Leiter: wird verwendet, um hohe Stellen zu erreichen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Shovel.jpg",
-        "card_type": "vocab",
+        "level": "shovel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Schaufel: wird verwendet, um Erde zu graben oder zu bewegen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Rake.jpg",
-        "card_type": "vocab",
+        "level": "rake",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Rechen: wird verwendet, um Blätter, Gras oder Abfall zu sammeln"
     },
     {
-        "level": 4.0,
-        "image_filename": "Hoe.jpg",
-        "card_type": "vocab",
+        "level": "hoe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "Hacke: wird verwendet, um Erde zu lockern und Unkraut zu entfernen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Pruningshears.jpg",
-        "card_type": "vocab",
+        "level": "pruningshears",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Gartenschere: wird verwendet, um Äste zu schneiden und Pflanzen zu trimmen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Gardenfork.jpg",
-        "card_type": "vocab",
+        "level": "gardenfork",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Grabegabel: wird verwendet, um Erde zu wenden und zu belüften"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wheelbarrow.jpg",
-        "card_type": "vocab",
+        "level": "wheelbarrow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "Schubkarre: wird verwendet, um Erde, Pflanzen oder Werkzeuge zu transportieren"
     },
     {
-        "level": 4.0,
-        "image_filename": "Wateringfan.jpg",
-        "card_type": "vocab",
+        "level": "wateringfan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "Gießkanne: wird verwendet, um Pflanzen zu gießen"
     },
     {
-        "level": 4.0,
-        "image_filename": "Lawnmower.jpg",
-        "card_type": "vocab",
+        "level": "lawnmower",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Rasenmäher: wird verwendet, um Gras zu schneiden"
     },
     {
-        "level": 4.0,
-        "image_filename": "Gardenhose.jpg",
-        "card_type": "vocab",
+        "level": "gardenhose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

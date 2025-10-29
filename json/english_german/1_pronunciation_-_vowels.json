@@ -1,8 +1,8 @@
 [
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often more relaxed, slightly closer to /ɪ/.\n\nGerman: Slightly tenser and shorter, more precise, without becoming /iː/.",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Bin"
     },
     {
-        "level": 1.0,
-        "image_filename": "child.jpg",
-        "card_type": "vocab",
+        "level": "child",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often more relaxed, slightly closer to /ɪ/.\n\nGerman: Slightly tenser and shorter, more precise, without becoming /iː/.",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Kind"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often more relaxed, slightly closer to /ɪ/.\n\nGerman: Slightly tenser and shorter, more precise, without becoming /iː/.",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Bitte"
     },
     {
-        "level": 1.0,
-        "image_filename": "withfriends.jpg",
-        "card_type": "vocab",
+        "level": "withfriends",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often more relaxed, slightly closer to /ɪ/.\n\nGerman: Slightly tenser and shorter, more precise, without becoming /iː/.",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Mit"
     },
     {
-        "level": 1.0,
-        "image_filename": "Ship.jpg",
-        "card_type": "vocab",
+        "level": "ship",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often more relaxed, slightly closer to /ɪ/.\n\nGerman: Slightly tenser and shorter, more precise, without becoming /iː/.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Schiff"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often more relaxed, slightly closer to /ɪ/.\n\nGerman: Slightly tenser and shorter, more precise, without becoming /iː/.",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "List"
     },
     {
-        "level": 1.0,
-        "image_filename": "fish.jpg",
-        "card_type": "vocab",
+        "level": "fish",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often more relaxed, slightly closer to /ɪ/.\n\nGerman: Slightly tenser and shorter, more precise, without becoming /iː/.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Fisch"
     },
     {
-        "level": 1.0,
-        "image_filename": "sit.jpg",
-        "card_type": "vocab",
+        "level": "sit",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often more relaxed, slightly closer to /ɪ/.\n\nGerman: Slightly tenser and shorter, more precise, without becoming /iː/.",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Sitzen"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often more relaxed, slightly closer to /ɪ/.\n\nGerman: Slightly tenser and shorter, more precise, without becoming /iː/.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Blinde"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often more relaxed, slightly closer to /ɪ/.\n\nGerman: Slightly tenser and shorter, more precise, without becoming /iː/.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Himmel"
     },
     {
-        "level": 1.0,
-        "image_filename": "bed.jpg",
-        "card_type": "vocab",
+        "level": "bed",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary depending on accents (a bit more open in some dialects).\n\nGerman: Clear, crisp, and slightly more closed, pronounced consistently.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Bett"
     },
     {
-        "level": 1.0,
-        "image_filename": "Boss.jpg",
-        "card_type": "vocab",
+        "level": "boss",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary depending on accents (a bit more open in some dialects).\n\nGerman: Clear, crisp, and slightly more closed, pronounced consistently.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Chef"
     },
     {
-        "level": 1.0,
-        "image_filename": "eat_m.jpg",
-        "card_type": "vocab",
+        "level": "eat_m",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary depending on accents (a bit more open in some dialects).\n\nGerman: Clear, crisp, and slightly more closed, pronounced consistently.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Essen"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary depending on accents (a bit more open in some dialects).\n\nGerman: Clear, crisp, and slightly more closed, pronounced consistently.",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Kette"
     },
     {
-        "level": 1.0,
-        "image_filename": "window.jpg",
-        "card_type": "vocab",
+        "level": "window",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary depending on accents (a bit more open in some dialects).\n\nGerman: Clear, crisp, and slightly more closed, pronounced consistently.",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Fenster"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary depending on accents (a bit more open in some dialects).\n\nGerman: Clear, crisp, and slightly more closed, pronounced consistently.",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Mensch"
     },
     {
-        "level": 1.0,
-        "image_filename": "places.jpg",
-        "card_type": "vocab",
+        "level": "places",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary depending on accents (a bit more open in some dialects).\n\nGerman: Clear, crisp, and slightly more closed, pronounced consistently.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Stelle"
     },
     {
-        "level": 1.0,
-        "image_filename": "interest.jpg",
-        "card_type": "vocab",
+        "level": "interest",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary depending on accents (a bit more open in some dialects).\n\nGerman: Clear, crisp, and slightly more closed, pronounced consistently.",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Interesse"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary depending on accents (a bit more open in some dialects).\n\nGerman: Clear, crisp, and slightly more closed, pronounced consistently.",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Fest"
     },
     {
-        "level": 1.0,
-        "image_filename": "better.jpg",
-        "card_type": "vocab",
+        "level": "better",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary depending on accents (a bit more open in some dialects).\n\nGerman: Clear, crisp, and slightly more closed, pronounced consistently.",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Besser"
     },
     {
-        "level": 1.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Typically more open in American English (/ɑː/) as in \"father\".\n\nGerman: More central and slightly fronted, more like a true /a/.",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Mann"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Typically more open in American English (/ɑː/) as in \"father\".\n\nGerman: More central and slightly fronted, more like a true /a/.",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Land"
     },
     {
-        "level": 1.0,
-        "image_filename": "bag.jpg",
-        "card_type": "vocab",
+        "level": "bag",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Typically more open in American English (/ɑː/) as in \"father\".\n\nGerman: More central and slightly fronted, more like a true /a/.",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Tasche"
     },
     {
-        "level": 1.0,
-        "image_filename": "hand.jpg",
-        "card_type": "vocab",
+        "level": "hand",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Typically more open in American English (/ɑː/) as in \"father\".\n\nGerman: More central and slightly fronted, more like a true /a/.",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Hand"
     },
     {
-        "level": 1.0,
-        "image_filename": "city.jpg",
-        "card_type": "vocab",
+        "level": "city",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Typically more open in American English (/ɑː/) as in \"father\".\n\nGerman: More central and slightly fronted, more like a true /a/.",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Stadt"
     },
     {
-        "level": 1.0,
-        "image_filename": "ball.jpg",
-        "card_type": "vocab",
+        "level": "ball",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Typically more open in American English (/ɑː/) as in \"father\".\n\nGerman: More central and slightly fronted, more like a true /a/.",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Ball"
     },
     {
-        "level": 1.0,
-        "image_filename": "name.jpg",
-        "card_type": "vocab",
+        "level": "name",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Typically more open in American English (/ɑː/) as in \"father\".\n\nGerman: More central and slightly fronted, more like a true /a/.",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Name"
     },
     {
-        "level": 1.0,
-        "image_filename": "Advice.jpg",
-        "card_type": "vocab",
+        "level": "advice",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Typically more open in American English (/ɑː/) as in \"father\".\n\nGerman: More central and slightly fronted, more like a true /a/.",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Rat"
     },
     {
-        "level": 1.0,
-        "image_filename": "cat.jpg",
-        "card_type": "vocab",
+        "level": "cat",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Typically more open in American English (/ɑː/) as in \"father\".\n\nGerman: More central and slightly fronted, more like a true /a/.",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Katze"
     },
     {
-        "level": 1.0,
-        "image_filename": "water.jpg",
-        "card_type": "vocab",
+        "level": "water",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Typically more open in American English (/ɑː/) as in \"father\".\n\nGerman: More central and slightly fronted, more like a true /a/.",
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Wasser"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary; in some accents, it’s more rounded or open (/ɒ/).\n\nGerman: Typically a more rounded, consistent /ɔ/ sound.",
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Gott"
     },
     {
-        "level": 1.0,
-        "image_filename": "sun.jpg",
-        "card_type": "vocab",
+        "level": "sun",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary; in some accents, it’s more rounded or open (/ɒ/).\n\nGerman: Typically a more rounded, consistent /ɔ/ sound.",
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Sonne"
     },
     {
-        "level": 1.0,
-        "image_filename": "village.jpg",
-        "card_type": "vocab",
+        "level": "village",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary; in some accents, it’s more rounded or open (/ɒ/).\n\nGerman: Typically a more rounded, consistent /ɔ/ sound.",
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Dorf"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary; in some accents, it’s more rounded or open (/ɒ/).\n\nGerman: Typically a more rounded, consistent /ɔ/ sound.",
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "kommen"
     },
     {
-        "level": 1.0,
-        "image_filename": "week.jpg",
-        "card_type": "vocab",
+        "level": "week",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary; in some accents, it’s more rounded or open (/ɒ/).\n\nGerman: Typically a more rounded, consistent /ɔ/ sound.",
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Woche"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary; in some accents, it’s more rounded or open (/ɒ/).\n\nGerman: Typically a more rounded, consistent /ɔ/ sound.",
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Gottheit"
     },
     {
-        "level": 1.0,
-        "image_filename": "bell.jpg",
-        "card_type": "vocab",
+        "level": "bell",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary; in some accents, it’s more rounded or open (/ɒ/).\n\nGerman: Typically a more rounded, consistent /ɔ/ sound.",
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Glocke"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary; in some accents, it’s more rounded or open (/ɒ/).\n\nGerman: Typically a more rounded, consistent /ɔ/ sound.",
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "kosten"
     },
     {
-        "level": 1.0,
-        "image_filename": "fruit.jpg",
-        "card_type": "vocab",
+        "level": "fruit",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Can vary; in some accents, it’s more rounded or open (/ɒ/).\n\nGerman: Typically a more rounded, consistent /ɔ/ sound.",
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Obst"
     },
     {
-        "level": 1.0,
-        "image_filename": "mother.jpg",
-        "card_type": "vocab",
+        "level": "mother",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often slightly more relaxed or central, as in \"good\".\n\nGerman: More rounded, precise, and slightly tenser.",
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Mutter"
     },
     {
-        "level": 1.0,
-        "image_filename": "dog.jpg",
-        "card_type": "vocab",
+        "level": "dog",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often slightly more relaxed or central, as in \"good\".\n\nGerman: More rounded, precise, and slightly tenser.",
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Hund"
     },
     {
-        "level": 1.0,
-        "image_filename": "artmuseum.jpg",
-        "card_type": "vocab",
+        "level": "artmuseum",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often slightly more relaxed or central, as in \"good\".\n\nGerman: More rounded, precise, and slightly tenser.",
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "Kunst"
     },
     {
-        "level": 1.0,
-        "image_filename": "ferris_wheel.jpg",
-        "card_type": "vocab",
+        "level": "ferris_wheel",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often slightly more relaxed or central, as in \"good\".\n\nGerman: More rounded, precise, and slightly tenser.",
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Rund"
     },
     {
-        "level": 1.0,
-        "image_filename": "book2.jpg",
-        "card_type": "vocab",
+        "level": "book2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often slightly more relaxed or central, as in \"good\".\n\nGerman: More rounded, precise, and slightly tenser.",
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Buch"
     },
     {
-        "level": 1.0,
-        "image_filename": "air2.jpg",
-        "card_type": "vocab",
+        "level": "air2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often slightly more relaxed or central, as in \"good\".\n\nGerman: More rounded, precise, and slightly tenser.",
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "Luft"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often slightly more relaxed or central, as in \"good\".\n\nGerman: More rounded, precise, and slightly tenser.",
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "Punkt"
     },
     {
-        "level": 1.0,
-        "image_filename": "butter.jpg",
-        "card_type": "vocab",
+        "level": "butter",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often slightly more relaxed or central, as in \"good\".\n\nGerman: More rounded, precise, and slightly tenser.",
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Butter"
     },
     {
-        "level": 1.0,
-        "image_filename": "kiss_.jpg",
-        "card_type": "vocab",
+        "level": "kiss_",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often slightly more relaxed or central, as in \"good\".\n\nGerman: More rounded, precise, and slightly tenser.",
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "Kuss"
     },
     {
-        "level": 1.0,
-        "image_filename": "soup.jpg",
-        "card_type": "vocab",
+        "level": "soup",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Often slightly more relaxed or central, as in \"good\".\n\nGerman: More rounded, precise, and slightly tenser.",
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "Suppe"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: This sound doesn’t really exist.\n\nGerman: A rounded front vowel, like a mix of /ɪ/ and /ʊ/.",
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "fünf"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: This sound doesn’t really exist.\n\nGerman: A rounded front vowel, like a mix of /ɪ/ and /ʊ/.",
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "müssen"
     },
     {
-        "level": 1.0,
-        "image_filename": "Kitchen.jpg",
-        "card_type": "vocab",
+        "level": "kitchen",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: This sound doesn’t really exist.\n\nGerman: A rounded front vowel, like a mix of /ɪ/ and /ʊ/.",
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "Küche"
     },
     {
-        "level": 1.0,
-        "image_filename": "Bridge.jpg",
-        "card_type": "vocab",
+        "level": "bridge",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: This sound doesn’t really exist.\n\nGerman: A rounded front vowel, like a mix of /ɪ/ and /ʊ/.",
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "Brücke"
     },
     {
-        "level": 1.0,
-        "image_filename": "pretty_dress.jpg",
-        "card_type": "vocab",
+        "level": "pretty_dress",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: This sound doesn’t really exist.\n\nGerman: A rounded front vowel, like a mix of /ɪ/ and /ʊ/.",
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "hübsch"
     },
     {
-        "level": 1.0,
-        "image_filename": "mother.jpg",
-        "card_type": "vocab",
+        "level": "mother",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: This sound doesn’t really exist.\n\nGerman: A rounded front vowel, like a mix of /ɪ/ and /ʊ/.",
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "Mütter"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: This sound doesn’t really exist.\n\nGerman: A rounded front vowel, like a mix of /ɪ/ and /ʊ/.",
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "dünn"
     },
     {
-        "level": 1.0,
-        "image_filename": "lucky.jpg",
-        "card_type": "vocab",
+        "level": "lucky",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: This sound doesn’t really exist.\n\nGerman: A rounded front vowel, like a mix of /ɪ/ and /ʊ/.",
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "Glück"
     },
     {
-        "level": 1.0,
-        "image_filename": "Sweet.jpg",
-        "card_type": "vocab",
+        "level": "sweet",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: This sound doesn’t really exist.\n\nGerman: A rounded front vowel, like a mix of /ɪ/ and /ʊ/.",
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "süß"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: This sound doesn’t really exist.\n\nGerman: A rounded front vowel, like a mix of /ɪ/ and /ʊ/.",
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "dünkel"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Exists as /ɜː/ (her), but usually longer and central.\n\nGerman: More fronted, with rounded lips and shorter.",
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "Hölle"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Exists as /ɜː/ (her), but usually longer and central.\n\nGerman: More fronted, with rounded lips and shorter.",
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "können"
     },
     {
-        "level": 1.0,
-        "image_filename": "Would.jpg",
-        "card_type": "vocab",
+        "level": "would",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Exists as /ɜː/ (her), but usually longer and central.\n\nGerman: More fronted, with rounded lips and shorter.",
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "möchte"
     },
     {
-        "level": 1.0,
-        "image_filename": "toschool.jpg",
-        "card_type": "vocab",
+        "level": "toschool",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Exists as /ɜː/ (her), but usually longer and central.\n\nGerman: More fronted, with rounded lips and shorter.",
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "öffnen"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Exists as /ɜː/ (her), but usually longer and central.\n\nGerman: More fronted, with rounded lips and shorter.",
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "zwölf"
     },
     {
-        "level": 1.0,
-        "image_filename": "spoon.jpg",
-        "card_type": "vocab",
+        "level": "spoon",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Exists as /ɜː/ (her), but usually longer and central.\n\nGerman: More fronted, with rounded lips and shorter.",
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Löffel"
     },
     {
-        "level": 1.0,
-        "image_filename": "toschool.jpg",
-        "card_type": "vocab",
+        "level": "toschool",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Exists as /ɜː/ (her), but usually longer and central.\n\nGerman: More fronted, with rounded lips and shorter.",
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "mögen"
     },
     {
-        "level": 1.0,
-        "image_filename": "evil.jpg",
-        "card_type": "vocab",
+        "level": "evil",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Exists as /ɜː/ (her), but usually longer and central.\n\nGerman: More fronted, with rounded lips and shorter.",
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "Böse"
     },
     {
-        "level": 1.0,
-        "image_filename": "king.jpg",
-        "card_type": "vocab",
+        "level": "king",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Exists as /ɜː/ (her), but usually longer and central.\n\nGerman: More fronted, with rounded lips and shorter.",
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "König"
     },
     {
-        "level": 1.0,
-        "image_filename": "beautiful.jpg",
-        "card_type": "vocab",
+        "level": "beautiful",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "English: Exists as /ɜː/ (her), but usually longer and central.\n\nGerman: More fronted, with rounded lips and shorter.",
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "schön"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /iː/ vs /ɪ/\nThe /iː/ sound in these words is a long, tense vowel. It is pronounced with the tongue high and towards the front of the mouth, and the lips unrounded. It's like the English \"ee\" in \"see\" but held longer.",
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Viel"
     },
     {
-        "level": 1.0,
-        "image_filename": "beer.jpg",
-        "card_type": "vocab",
+        "level": "beer",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /iː/ vs /ɪ/\nThe /iː/ sound in these words is a long, tense vowel. It is pronounced with the tongue high and towards the front of the mouth, and the lips unrounded. It's like the English \"ee\" in \"see\" but held longer.",
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "Bier"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /iː/ vs /ɪ/\nThe /iː/ sound in these words is a long, tense vowel. It is pronounced with the tongue high and towards the front of the mouth, and the lips unrounded. It's like the English \"ee\" in \"see\" but held longer.",
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "Lieben"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /iː/ vs /ɪ/\nThe /iː/ sound in these words is a long, tense vowel. It is pronounced with the tongue high and towards the front of the mouth, and the lips unrounded. It's like the English \"ee\" in \"see\" but held longer.",
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "Kiel"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /iː/ vs /ɪ/\nThe /iː/ sound in these words is a long, tense vowel. It is pronounced with the tongue high and towards the front of the mouth, and the lips unrounded. It's like the English \"ee\" in \"see\" but held longer.",
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "Wieder"
     },
     {
-        "level": 1.0,
-        "image_filename": "shallowdeep.jpg",
-        "card_type": "vocab",
+        "level": "shallowdeep",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /iː/ vs /ɪ/\nThe /iː/ sound in these words is a long, tense vowel. It is pronounced with the tongue high and towards the front of the mouth, and the lips unrounded. It's like the English \"ee\" in \"see\" but held longer.",
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "Tief"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /iː/ vs /ɪ/\nThe /iː/ sound in these words is a long, tense vowel. It is pronounced with the tongue high and towards the front of the mouth, and the lips unrounded. It's like the English \"ee\" in \"see\" but held longer.",
         "native_language": "english",
@@ -1368,9 +1368,9 @@
         "audio_dir": "Sieg"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /iː/ vs /ɪ/\nThe /iː/ sound in these words is a long, tense vowel. It is pronounced with the tongue high and towards the front of the mouth, and the lips unrounded. It's like the English \"ee\" in \"see\" but held longer.",
         "native_language": "english",
@@ -1386,9 +1386,9 @@
         "audio_dir": "Familie"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /iː/ vs /ɪ/\nThe /iː/ sound in these words is a long, tense vowel. It is pronounced with the tongue high and towards the front of the mouth, and the lips unrounded. It's like the English \"ee\" in \"see\" but held longer.",
         "native_language": "english",
@@ -1404,9 +1404,9 @@
         "audio_dir": "Fliegen"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /iː/ vs /ɪ/\nThe /iː/ sound in these words is a long, tense vowel. It is pronounced with the tongue high and towards the front of the mouth, and the lips unrounded. It's like the English \"ee\" in \"see\" but held longer.",
         "native_language": "english",
@@ -1422,9 +1422,9 @@
         "audio_dir": "Bieten"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /eː/\nThe /eː/ sound in German is a long, tense vowel. It's produced with the tongue positioned high in the middle of the mouth, with the lips unrounded. It’s similar to the English diphthong \"ay\" in \"say,\" but more stable, not gliding from one vowel sound to another.\n\n",
         "native_language": "english",
@@ -1440,9 +1440,9 @@
         "audio_dir": "Meer"
     },
     {
-        "level": 1.0,
-        "image_filename": "Broom2.jpg",
-        "card_type": "vocab",
+        "level": "broom2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /eː/\nThe /eː/ sound in German is a long, tense vowel. It's produced with the tongue positioned high in the middle of the mouth, with the lips unrounded. It’s similar to the English diphthong \"ay\" in \"say,\" but more stable, not gliding from one vowel sound to another.\n\n",
         "native_language": "english",
@@ -1458,9 +1458,9 @@
         "audio_dir": "Besen"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /eː/\nThe /eː/ sound in German is a long, tense vowel. It's produced with the tongue positioned high in the middle of the mouth, with the lips unrounded. It’s similar to the English diphthong \"ay\" in \"say,\" but more stable, not gliding from one vowel sound to another.\n\n",
         "native_language": "english",
@@ -1476,9 +1476,9 @@
         "audio_dir": "Lehre"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /eː/\nThe /eː/ sound in German is a long, tense vowel. It's produced with the tongue positioned high in the middle of the mouth, with the lips unrounded. It’s similar to the English diphthong \"ay\" in \"say,\" but more stable, not gliding from one vowel sound to another.\n\n",
         "native_language": "english",
@@ -1494,9 +1494,9 @@
         "audio_dir": "Gehen"
     },
     {
-        "level": 1.0,
-        "image_filename": "fire.jpg",
-        "card_type": "vocab",
+        "level": "fire",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /eː/\nThe /eː/ sound in German is a long, tense vowel. It's produced with the tongue positioned high in the middle of the mouth, with the lips unrounded. It’s similar to the English diphthong \"ay\" in \"say,\" but more stable, not gliding from one vowel sound to another.\n\n",
         "native_language": "english",
@@ -1512,9 +1512,9 @@
         "audio_dir": "Feuer"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /eː/\nThe /eː/ sound in German is a long, tense vowel. It's produced with the tongue positioned high in the middle of the mouth, with the lips unrounded. It’s similar to the English diphthong \"ay\" in \"say,\" but more stable, not gliding from one vowel sound to another.\n\n",
         "native_language": "english",
@@ -1530,9 +1530,9 @@
         "audio_dir": "Ehe"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /eː/\nThe /eː/ sound in German is a long, tense vowel. It's produced with the tongue positioned high in the middle of the mouth, with the lips unrounded. It’s similar to the English diphthong \"ay\" in \"say,\" but more stable, not gliding from one vowel sound to another.\n\n",
         "native_language": "english",
@@ -1548,9 +1548,9 @@
         "audio_dir": "Mehl"
     },
     {
-        "level": 1.0,
-        "image_filename": "tea.jpg",
-        "card_type": "vocab",
+        "level": "tea",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /eː/\nThe /eː/ sound in German is a long, tense vowel. It's produced with the tongue positioned high in the middle of the mouth, with the lips unrounded. It’s similar to the English diphthong \"ay\" in \"say,\" but more stable, not gliding from one vowel sound to another.\n\n",
         "native_language": "english",
@@ -1566,9 +1566,9 @@
         "audio_dir": "Tee"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /eː/\nThe /eː/ sound in German is a long, tense vowel. It's produced with the tongue positioned high in the middle of the mouth, with the lips unrounded. It’s similar to the English diphthong \"ay\" in \"say,\" but more stable, not gliding from one vowel sound to another.\n\n",
         "native_language": "english",
@@ -1584,9 +1584,9 @@
         "audio_dir": "Segen"
     },
     {
-        "level": 1.0,
-        "image_filename": "bear.jpg",
-        "card_type": "vocab",
+        "level": "bear",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /ɛː/\nThe /ɛː/ sound in German is a long, tense vowel. It is produced with the tongue positioned slightly lower than for /eː/ and the lips unrounded. The sound is a pure, open-mid front vowel, similar to the \"air\" sound in English \"airplane,\" but without the diphthong effect. It is an important distinction in German, where the length of the vowel changes the meaning of words, such as in \"bär\" vs. \"behr.\"",
         "native_language": "english",
@@ -1602,9 +1602,9 @@
         "audio_dir": "Bär"
     },
     {
-        "level": 1.0,
-        "image_filename": "teach_code_m.jpg",
-        "card_type": "vocab",
+        "level": "teach_code_m",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /ɛː/\nThe /ɛː/ sound in German is a long, tense vowel. It is produced with the tongue positioned slightly lower than for /eː/ and the lips unrounded. The sound is a pure, open-mid front vowel, similar to the \"air\" sound in English \"airplane,\" but without the diphthong effect. It is an important distinction in German, where the length of the vowel changes the meaning of words, such as in \"bär\" vs. \"behr.\"",
         "native_language": "english",
@@ -1620,9 +1620,9 @@
         "audio_dir": "Lehr"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /ɛː/\nThe /ɛː/ sound in German is a long, tense vowel. It is produced with the tongue positioned slightly lower than for /eː/ and the lips unrounded. The sound is a pure, open-mid front vowel, similar to the \"air\" sound in English \"airplane,\" but without the diphthong effect. It is an important distinction in German, where the length of the vowel changes the meaning of words, such as in \"bär\" vs. \"behr.\"",
         "native_language": "english",
@@ -1638,9 +1638,9 @@
         "audio_dir": "Sehr"
     },
     {
-        "level": 1.0,
-        "image_filename": "March.jpg",
-        "card_type": "vocab",
+        "level": "march",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /ɛː/\nThe /ɛː/ sound in German is a long, tense vowel. It is produced with the tongue positioned slightly lower than for /eː/ and the lips unrounded. The sound is a pure, open-mid front vowel, similar to the \"air\" sound in English \"airplane,\" but without the diphthong effect. It is an important distinction in German, where the length of the vowel changes the meaning of words, such as in \"bär\" vs. \"behr.\"",
         "native_language": "english",
@@ -1656,9 +1656,9 @@
         "audio_dir": "März"
     },
     {
-        "level": 1.0,
-        "image_filename": "honestdishonest.jpg",
-        "card_type": "vocab",
+        "level": "honestdishonest",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /ɛː/\nThe /ɛː/ sound in German is a long, tense vowel. It is produced with the tongue positioned slightly lower than for /eː/ and the lips unrounded. The sound is a pure, open-mid front vowel, similar to the \"air\" sound in English \"airplane,\" but without the diphthong effect. It is an important distinction in German, where the length of the vowel changes the meaning of words, such as in \"bär\" vs. \"behr.\"",
         "native_language": "english",
@@ -1674,9 +1674,9 @@
         "audio_dir": "Ehrlich"
     },
     {
-        "level": 1.0,
-        "image_filename": "bear.jpg",
-        "card_type": "vocab",
+        "level": "bear",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /ɛː/\nThe /ɛː/ sound in German is a long, tense vowel. It is produced with the tongue positioned slightly lower than for /eː/ and the lips unrounded. The sound is a pure, open-mid front vowel, similar to the \"air\" sound in English \"airplane,\" but without the diphthong effect. It is an important distinction in German, where the length of the vowel changes the meaning of words, such as in \"bär\" vs. \"behr.\"",
         "native_language": "english",
@@ -1692,9 +1692,9 @@
         "audio_dir": "Bären"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /ɛː/\nThe /ɛː/ sound in German is a long, tense vowel. It is produced with the tongue positioned slightly lower than for /eː/ and the lips unrounded. The sound is a pure, open-mid front vowel, similar to the \"air\" sound in English \"airplane,\" but without the diphthong effect. It is an important distinction in German, where the length of the vowel changes the meaning of words, such as in \"bär\" vs. \"behr.\"",
         "native_language": "english",
@@ -1710,9 +1710,9 @@
         "audio_dir": "Herr"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /ɛː/\nThe /ɛː/ sound in German is a long, tense vowel. It is produced with the tongue positioned slightly lower than for /eː/ and the lips unrounded. The sound is a pure, open-mid front vowel, similar to the \"air\" sound in English \"airplane,\" but without the diphthong effect. It is an important distinction in German, where the length of the vowel changes the meaning of words, such as in \"bär\" vs. \"behr.\"",
         "native_language": "english",
@@ -1728,9 +1728,9 @@
         "audio_dir": "Mehr"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /ɛː/\nThe /ɛː/ sound in German is a long, tense vowel. It is produced with the tongue positioned slightly lower than for /eː/ and the lips unrounded. The sound is a pure, open-mid front vowel, similar to the \"air\" sound in English \"airplane,\" but without the diphthong effect. It is an important distinction in German, where the length of the vowel changes the meaning of words, such as in \"bär\" vs. \"behr.\"",
         "native_language": "english",
@@ -1746,9 +1746,9 @@
         "audio_dir": "Verkehr"
     },
     {
-        "level": 1.0,
-        "image_filename": "drive_f.jpg",
-        "card_type": "vocab",
+        "level": "drive_f",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /aː/\nThe /aː/ sound is a long, open, front vowel, similar to the \"ah\" sound in English \"father.\" The main difference between /a/ and /aː/ is the length—/aː/ is pronounced for a longer duration than the short /a/ sound. It's a tense vowel sound, and the tongue is placed lower and towards the back of the mouth compared to other front vowels.\n\n\n\n",
         "native_language": "english",
@@ -1764,9 +1764,9 @@
         "audio_dir": "Fahr"
     },
     {
-        "level": 1.0,
-        "image_filename": "seed.jpg",
-        "card_type": "vocab",
+        "level": "seed",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /aː/\nThe /aː/ sound is a long, open, front vowel, similar to the \"ah\" sound in English \"father.\" The main difference between /a/ and /aː/ is the length—/aː/ is pronounced for a longer duration than the short /a/ sound. It's a tense vowel sound, and the tongue is placed lower and towards the back of the mouth compared to other front vowels.\n\n\n\n",
         "native_language": "english",
@@ -1782,9 +1782,9 @@
         "audio_dir": "Saat"
     },
     {
-        "level": 1.0,
-        "image_filename": "long.jpg",
-        "card_type": "vocab",
+        "level": "long",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /aː/\nThe /aː/ sound is a long, open, front vowel, similar to the \"ah\" sound in English \"father.\" The main difference between /a/ and /aː/ is the length—/aː/ is pronounced for a longer duration than the short /a/ sound. It's a tense vowel sound, and the tongue is placed lower and towards the back of the mouth compared to other front vowels.\n\n\n\n",
         "native_language": "english",
@@ -1800,9 +1800,9 @@
         "audio_dir": "Lang"
     },
     {
-        "level": 1.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
+        "level": "day",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /aː/\nThe /aː/ sound is a long, open, front vowel, similar to the \"ah\" sound in English \"father.\" The main difference between /a/ and /aː/ is the length—/aː/ is pronounced for a longer duration than the short /a/ sound. It's a tense vowel sound, and the tongue is placed lower and towards the back of the mouth compared to other front vowels.\n\n\n\n",
         "native_language": "english",
@@ -1818,9 +1818,9 @@
         "audio_dir": "Tag"
     },
     {
-        "level": 1.0,
-        "image_filename": "hand.jpg",
-        "card_type": "vocab",
+        "level": "hand",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /aː/\nThe /aː/ sound is a long, open, front vowel, similar to the \"ah\" sound in English \"father.\" The main difference between /a/ and /aː/ is the length—/aː/ is pronounced for a longer duration than the short /a/ sound. It's a tense vowel sound, and the tongue is placed lower and towards the back of the mouth compared to other front vowels.\n\n\n\n",
         "native_language": "english",
@@ -1836,9 +1836,9 @@
         "audio_dir": "Hand"
     },
     {
-        "level": 1.0,
-        "image_filename": "Car.jpg",
-        "card_type": "vocab",
+        "level": "car",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /aː/\nThe /aː/ sound is a long, open, front vowel, similar to the \"ah\" sound in English \"father.\" The main difference between /a/ and /aː/ is the length—/aː/ is pronounced for a longer duration than the short /a/ sound. It's a tense vowel sound, and the tongue is placed lower and towards the back of the mouth compared to other front vowels.\n\n\n\n",
         "native_language": "english",
@@ -1854,9 +1854,9 @@
         "audio_dir": "Wagen"
     },
     {
-        "level": 1.0,
-        "image_filename": "store.jpg",
-        "card_type": "vocab",
+        "level": "store",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /aː/\nThe /aː/ sound is a long, open, front vowel, similar to the \"ah\" sound in English \"father.\" The main difference between /a/ and /aː/ is the length—/aː/ is pronounced for a longer duration than the short /a/ sound. It's a tense vowel sound, and the tongue is placed lower and towards the back of the mouth compared to other front vowels.\n\n\n\n",
         "native_language": "english",
@@ -1872,9 +1872,9 @@
         "audio_dir": "Laden"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /aː/\nThe /aː/ sound is a long, open, front vowel, similar to the \"ah\" sound in English \"father.\" The main difference between /a/ and /aː/ is the length—/aː/ is pronounced for a longer duration than the short /a/ sound. It's a tense vowel sound, and the tongue is placed lower and towards the back of the mouth compared to other front vowels.\n\n\n\n",
         "native_language": "english",
@@ -1890,9 +1890,9 @@
         "audio_dir": "Bahn"
     },
     {
-        "level": 1.0,
-        "image_filename": "hair.jpg",
-        "card_type": "vocab",
+        "level": "hair",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /aː/\nThe /aː/ sound is a long, open, front vowel, similar to the \"ah\" sound in English \"father.\" The main difference between /a/ and /aː/ is the length—/aː/ is pronounced for a longer duration than the short /a/ sound. It's a tense vowel sound, and the tongue is placed lower and towards the back of the mouth compared to other front vowels.\n\n\n\n",
         "native_language": "english",
@@ -1908,9 +1908,9 @@
         "audio_dir": "Haar"
     },
     {
-        "level": 1.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /aː/\nThe /aː/ sound is a long, open, front vowel, similar to the \"ah\" sound in English \"father.\" The main difference between /a/ and /aː/ is the length—/aː/ is pronounced for a longer duration than the short /a/ sound. It's a tense vowel sound, and the tongue is placed lower and towards the back of the mouth compared to other front vowels.\n\n\n\n",
         "native_language": "english",
@@ -1926,9 +1926,9 @@
         "audio_dir": "Mann"
     },
     {
-        "level": 1.0,
-        "image_filename": "boat.jpg",
-        "card_type": "vocab",
+        "level": "boat",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /oː/\nThe /oː/ sound is a long, mid-back vowel, similar to the \"o\" in English \"go.\" However, in German, it's pronounced with the tongue positioned further back in the mouth, and the sound is held for a longer duration. This sound is typically more rounded than the short /o/ or /ɔ/ sounds and is a tense vowel, requiring more mouth tension.\n\n\n\n\n\n\n",
         "native_language": "english",
@@ -1944,9 +1944,9 @@
         "audio_dir": "Boot"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /oː/\nThe /oː/ sound is a long, mid-back vowel, similar to the \"o\" in English \"go.\" However, in German, it's pronounced with the tongue positioned further back in the mouth, and the sound is held for a longer duration. This sound is typically more rounded than the short /o/ or /ɔ/ sounds and is a tense vowel, requiring more mouth tension.\n\n\n\n\n\n\n",
         "native_language": "english",
@@ -1962,9 +1962,9 @@
         "audio_dir": "Rose"
     },
     {
-        "level": 1.0,
-        "image_filename": "bird.jpg",
-        "card_type": "vocab",
+        "level": "bird",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /oː/\nThe /oː/ sound is a long, mid-back vowel, similar to the \"o\" in English \"go.\" However, in German, it's pronounced with the tongue positioned further back in the mouth, and the sound is held for a longer duration. This sound is typically more rounded than the short /o/ or /ɔ/ sounds and is a tense vowel, requiring more mouth tension.\n\n\n\n\n\n\n",
         "native_language": "english",
@@ -1980,9 +1980,9 @@
         "audio_dir": "Vogel"
     },
     {
-        "level": 1.0,
-        "image_filename": "Gate.jpg",
-        "card_type": "vocab",
+        "level": "gate",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /oː/\nThe /oː/ sound is a long, mid-back vowel, similar to the \"o\" in English \"go.\" However, in German, it's pronounced with the tongue positioned further back in the mouth, and the sound is held for a longer duration. This sound is typically more rounded than the short /o/ or /ɔ/ sounds and is a tense vowel, requiring more mouth tension.\n\n\n\n\n\n\n",
         "native_language": "english",
@@ -1998,9 +1998,9 @@
         "audio_dir": "Tor"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /oː/\nThe /oː/ sound is a long, mid-back vowel, similar to the \"o\" in English \"go.\" However, in German, it's pronounced with the tongue positioned further back in the mouth, and the sound is held for a longer duration. This sound is typically more rounded than the short /o/ or /ɔ/ sounds and is a tense vowel, requiring more mouth tension.\n\n\n\n\n\n\n",
         "native_language": "english",
@@ -2016,9 +2016,9 @@
         "audio_dir": "Kohl"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /oː/\nThe /oː/ sound is a long, mid-back vowel, similar to the \"o\" in English \"go.\" However, in German, it's pronounced with the tongue positioned further back in the mouth, and the sound is held for a longer duration. This sound is typically more rounded than the short /o/ or /ɔ/ sounds and is a tense vowel, requiring more mouth tension.\n\n\n\n\n\n\n",
         "native_language": "english",
@@ -2034,9 +2034,9 @@
         "audio_dir": "Logo"
     },
     {
-        "level": 1.0,
-        "image_filename": "Cake.jpg",
-        "card_type": "vocab",
+        "level": "cake",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /uː/\nThe /uː/ sound in German is a long, close-back rounded vowel, similar to the \"oo\" in the English word \"food,\" but it is typically held longer in duration. It is produced by rounding the lips and positioning the tongue towards the back of the mouth. The /uː/ sound is tense, meaning more muscle tension is required to articulate the sound, compared to the short /ʊ/ sound.\n\n",
         "native_language": "english",
@@ -2052,9 +2052,9 @@
         "audio_dir": "Kuchen"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /uː/\nThe /uː/ sound in German is a long, close-back rounded vowel, similar to the \"oo\" in the English word \"food,\" but it is typically held longer in duration. It is produced by rounding the lips and positioning the tongue towards the back of the mouth. The /uː/ sound is tense, meaning more muscle tension is required to articulate the sound, compared to the short /ʊ/ sound.\n\n",
         "native_language": "english",
@@ -2070,9 +2070,9 @@
         "audio_dir": "Tuch"
     },
     {
-        "level": 1.0,
-        "image_filename": "brother.jpg",
-        "card_type": "vocab",
+        "level": "brother",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /uː/\nThe /uː/ sound in German is a long, close-back rounded vowel, similar to the \"oo\" in the English word \"food,\" but it is typically held longer in duration. It is produced by rounding the lips and positioning the tongue towards the back of the mouth. The /uː/ sound is tense, meaning more muscle tension is required to articulate the sound, compared to the short /ʊ/ sound.\n\n",
         "native_language": "english",
@@ -2088,9 +2088,9 @@
         "audio_dir": "Bruder"
     },
     {
-        "level": 1.0,
-        "image_filename": "door.jpg",
-        "card_type": "vocab",
+        "level": "door",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /yː/\nThe /yː/ sound in German is a long, rounded, front vowel. It is somewhat similar to the English \"oo\" in \"food,\" but with the tongue positioned at the front of the mouth, not the back. The lips are rounded, which is what makes this sound unique. In English, the closest equivalent would be the \"u\" sound in words like \"fur\" or \"tour,\" but it’s longer and more fronted in German.\n\nThe /yː/ sound requires more tension and precision in tongue placement compared to more neutral vowels.\n\n",
         "native_language": "english",
@@ -2106,9 +2106,9 @@
         "audio_dir": "Tür"
     },
     {
-        "level": 1.0,
-        "image_filename": "tired.jpg",
-        "card_type": "vocab",
+        "level": "tired",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /yː/\nThe /yː/ sound in German is a long, rounded, front vowel. It is somewhat similar to the English \"oo\" in \"food,\" but with the tongue positioned at the front of the mouth, not the back. The lips are rounded, which is what makes this sound unique. In English, the closest equivalent would be the \"u\" sound in words like \"fur\" or \"tour,\" but it’s longer and more fronted in German.\n\nThe /yː/ sound requires more tension and precision in tongue placement compared to more neutral vowels.\n\n",
         "native_language": "english",
@@ -2124,9 +2124,9 @@
         "audio_dir": "Müde"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /yː/\nThe /yː/ sound in German is a long, rounded, front vowel. It is somewhat similar to the English \"oo\" in \"food,\" but with the tongue positioned at the front of the mouth, not the back. The lips are rounded, which is what makes this sound unique. In English, the closest equivalent would be the \"u\" sound in words like \"fur\" or \"tour,\" but it’s longer and more fronted in German.\n\nThe /yː/ sound requires more tension and precision in tongue placement compared to more neutral vowels.\n\n",
         "native_language": "english",
@@ -2142,9 +2142,9 @@
         "audio_dir": "Führer"
     },
     {
-        "level": 1.0,
-        "image_filename": "green_grass.jpg",
-        "card_type": "vocab",
+        "level": "green_grass",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /yː/\nThe /yː/ sound in German is a long, rounded, front vowel. It is somewhat similar to the English \"oo\" in \"food,\" but with the tongue positioned at the front of the mouth, not the back. The lips are rounded, which is what makes this sound unique. In English, the closest equivalent would be the \"u\" sound in words like \"fur\" or \"tour,\" but it’s longer and more fronted in German.\n\nThe /yː/ sound requires more tension and precision in tongue placement compared to more neutral vowels.\n\n",
         "native_language": "english",
@@ -2160,9 +2160,9 @@
         "audio_dir": "Grün"
     },
     {
-        "level": 1.0,
-        "image_filename": "Sweet.jpg",
-        "card_type": "vocab",
+        "level": "sweet",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /yː/\nThe /yː/ sound in German is a long, rounded, front vowel. It is somewhat similar to the English \"oo\" in \"food,\" but with the tongue positioned at the front of the mouth, not the back. The lips are rounded, which is what makes this sound unique. In English, the closest equivalent would be the \"u\" sound in words like \"fur\" or \"tour,\" but it’s longer and more fronted in German.\n\nThe /yː/ sound requires more tension and precision in tongue placement compared to more neutral vowels.\n\n",
         "native_language": "english",
@@ -2178,9 +2178,9 @@
         "audio_dir": "Süß"
     },
     {
-        "level": 1.0,
-        "image_filename": "book2.jpg",
-        "card_type": "vocab",
+        "level": "book2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "Explanation of /yː/\nThe /yː/ sound in German is a long, rounded, front vowel. It is somewhat similar to the English \"oo\" in \"food,\" but with the tongue positioned at the front of the mouth, not the back. The lips are rounded, which is what makes this sound unique. In English, the closest equivalent would be the \"u\" sound in words like \"fur\" or \"tour,\" but it’s longer and more fronted in German.\n\nThe /yː/ sound requires more tension and precision in tongue placement compared to more neutral vowels.\n\n",
         "native_language": "english",
@@ -2196,9 +2196,9 @@
         "audio_dir": "Bücher"
     },
     {
-        "level": 1.0,
-        "image_filename": "toschool.jpg",
-        "card_type": "vocab",
+        "level": "toschool",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /øː/ sound in German is a long, rounded, front vowel. It is produced by positioning the tongue towards the front of the mouth, near the roof, and rounding the lips. It's quite distinct from similar sounds in English, which usually do not involve lip rounding in the same way. The closest English equivalent might be the \"er\" sound in words like \"bird\" or \"fur,\" but with a more fronted tongue position and lip rounding in German.",
         "native_language": "english",
@@ -2214,9 +2214,9 @@
         "audio_dir": "Hören"
     },
     {
-        "level": 1.0,
-        "image_filename": "beautiful.jpg",
-        "card_type": "vocab",
+        "level": "beautiful",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /øː/ sound in German is a long, rounded, front vowel. It is produced by positioning the tongue towards the front of the mouth, near the roof, and rounding the lips. It's quite distinct from similar sounds in English, which usually do not involve lip rounding in the same way. The closest English equivalent might be the \"er\" sound in words like \"bird\" or \"fur,\" but with a more fronted tongue position and lip rounding in German.",
         "native_language": "english",
@@ -2232,9 +2232,9 @@
         "audio_dir": "schön"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /øː/ sound in German is a long, rounded, front vowel. It is produced by positioning the tongue towards the front of the mouth, near the roof, and rounding the lips. It's quite distinct from similar sounds in English, which usually do not involve lip rounding in the same way. The closest English equivalent might be the \"er\" sound in words like \"bird\" or \"fur,\" but with a more fronted tongue position and lip rounding in German.",
         "native_language": "english",
@@ -2250,9 +2250,9 @@
         "audio_dir": "mögen"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "In German, the /aɪ/ sound is also a diphthong, similar to its use in English, but with a few differences in terms of how it’s pronounced and the words in which it appears. In German, /aɪ/ is used in many common words, particularly in the standard variety of German.\n\nPronunciation of /aɪ/ in German:\nStarting position: The tongue starts in a low, front position, similar to the \"a\" in \"cat\".\n\nEnding position: The tongue moves toward a high, front position, similar to the \"ɪ\" in \"bit.\"\n\nLip rounding: The lips remain unrounded throughout the diphthong.\n\n",
         "native_language": "english",
@@ -2268,9 +2268,9 @@
         "audio_dir": "Eins"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "In German, the /aɪ/ sound is also a diphthong, similar to its use in English, but with a few differences in terms of how it’s pronounced and the words in which it appears. In German, /aɪ/ is used in many common words, particularly in the standard variety of German.\n\nPronunciation of /aɪ/ in German:\nStarting position: The tongue starts in a low, front position, similar to the \"a\" in \"cat\".\n\nEnding position: The tongue moves toward a high, front position, similar to the \"ɪ\" in \"bit.\"\n\nLip rounding: The lips remain unrounded throughout the diphthong.\n\n",
         "native_language": "english",
@@ -2286,9 +2286,9 @@
         "audio_dir": "Nein"
     },
     {
-        "level": 1.0,
-        "image_filename": "May.jpg",
-        "card_type": "vocab",
+        "level": "may",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "In German, the /aɪ/ sound is also a diphthong, similar to its use in English, but with a few differences in terms of how it’s pronounced and the words in which it appears. In German, /aɪ/ is used in many common words, particularly in the standard variety of German.\n\nPronunciation of /aɪ/ in German:\nStarting position: The tongue starts in a low, front position, similar to the \"a\" in \"cat\".\n\nEnding position: The tongue moves toward a high, front position, similar to the \"ɪ\" in \"bit.\"\n\nLip rounding: The lips remain unrounded throughout the diphthong.\n\n",
         "native_language": "english",
@@ -2304,9 +2304,9 @@
         "audio_dir": "Mai"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "In German, the /aɪ/ sound is also a diphthong, similar to its use in English, but with a few differences in terms of how it’s pronounced and the words in which it appears. In German, /aɪ/ is used in many common words, particularly in the standard variety of German.\n\nPronunciation of /aɪ/ in German:\nStarting position: The tongue starts in a low, front position, similar to the \"a\" in \"cat\".\n\nEnding position: The tongue moves toward a high, front position, similar to the \"ɪ\" in \"bit.\"\n\nLip rounding: The lips remain unrounded throughout the diphthong.\n\n",
         "native_language": "english",
@@ -2322,9 +2322,9 @@
         "audio_dir": "Leiden"
     },
     {
-        "level": 1.0,
-        "image_filename": "wine.jpg",
-        "card_type": "vocab",
+        "level": "wine",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "In German, the /aɪ/ sound is also a diphthong, similar to its use in English, but with a few differences in terms of how it’s pronounced and the words in which it appears. In German, /aɪ/ is used in many common words, particularly in the standard variety of German.\n\nPronunciation of /aɪ/ in German:\nStarting position: The tongue starts in a low, front position, similar to the \"a\" in \"cat\".\n\nEnding position: The tongue moves toward a high, front position, similar to the \"ɪ\" in \"bit.\"\n\nLip rounding: The lips remain unrounded throughout the diphthong.\n\n",
         "native_language": "english",
@@ -2340,9 +2340,9 @@
         "audio_dir": "Wein"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "In German, the /aɪ/ sound is also a diphthong, similar to its use in English, but with a few differences in terms of how it’s pronounced and the words in which it appears. In German, /aɪ/ is used in many common words, particularly in the standard variety of German.\n\nPronunciation of /aɪ/ in German:\nStarting position: The tongue starts in a low, front position, similar to the \"a\" in \"cat\".\n\nEnding position: The tongue moves toward a high, front position, similar to the \"ɪ\" in \"bit.\"\n\nLip rounding: The lips remain unrounded throughout the diphthong.\n\n",
         "native_language": "english",
@@ -2358,9 +2358,9 @@
         "audio_dir": "Beil"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "In German, the /aɪ/ sound is also a diphthong, similar to its use in English, but with a few differences in terms of how it’s pronounced and the words in which it appears. In German, /aɪ/ is used in many common words, particularly in the standard variety of German.\n\nPronunciation of /aɪ/ in German:\nStarting position: The tongue starts in a low, front position, similar to the \"a\" in \"cat\".\n\nEnding position: The tongue moves toward a high, front position, similar to the \"ɪ\" in \"bit.\"\n\nLip rounding: The lips remain unrounded throughout the diphthong.\n\n",
         "native_language": "english",
@@ -2376,9 +2376,9 @@
         "audio_dir": "Fein"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "In German, the /aɪ/ sound is also a diphthong, similar to its use in English, but with a few differences in terms of how it’s pronounced and the words in which it appears. In German, /aɪ/ is used in many common words, particularly in the standard variety of German.\n\nPronunciation of /aɪ/ in German:\nStarting position: The tongue starts in a low, front position, similar to the \"a\" in \"cat\".\n\nEnding position: The tongue moves toward a high, front position, similar to the \"ɪ\" in \"bit.\"\n\nLip rounding: The lips remain unrounded throughout the diphthong.\n\n",
         "native_language": "english",
@@ -2394,9 +2394,9 @@
         "audio_dir": "Freitag"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "In German, the /aɪ/ sound is also a diphthong, similar to its use in English, but with a few differences in terms of how it’s pronounced and the words in which it appears. In German, /aɪ/ is used in many common words, particularly in the standard variety of German.\n\nPronunciation of /aɪ/ in German:\nStarting position: The tongue starts in a low, front position, similar to the \"a\" in \"cat\".\n\nEnding position: The tongue moves toward a high, front position, similar to the \"ɪ\" in \"bit.\"\n\nLip rounding: The lips remain unrounded throughout the diphthong.\n\n",
         "native_language": "english",
@@ -2412,9 +2412,9 @@
         "audio_dir": "Reisen"
     },
     {
-        "level": 1.0,
-        "image_filename": "house.jpg",
-        "card_type": "vocab",
+        "level": "house",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /aʊ/ in German is similar to the English \"ow\" sound in words like \"how\" or \"now.\" In German, this diphthong is used in many common words, and its pronunciation involves a movement from a more open front position (like /a/) to a more rounded back position (like /ʊ/).\n\nPronunciation of /aʊ/ in German:\nStarting position: The tongue starts in a low front position, similar to the \"a\" in \"cat.\"\n\nEnding position: The tongue then moves towards a more back and slightly rounded position, like the \"ʊ\" sound in \"foot.\"\n\nLip rounding: As the tongue moves towards the back of the mouth, the lips become rounded.\n\n",
         "native_language": "english",
@@ -2430,9 +2430,9 @@
         "audio_dir": "Haus"
     },
     {
-        "level": 1.0,
-        "image_filename": "Mouse.jpg",
-        "card_type": "vocab",
+        "level": "mouse",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /aʊ/ in German is similar to the English \"ow\" sound in words like \"how\" or \"now.\" In German, this diphthong is used in many common words, and its pronunciation involves a movement from a more open front position (like /a/) to a more rounded back position (like /ʊ/).\n\nPronunciation of /aʊ/ in German:\nStarting position: The tongue starts in a low front position, similar to the \"a\" in \"cat.\"\n\nEnding position: The tongue then moves towards a more back and slightly rounded position, like the \"ʊ\" sound in \"foot.\"\n\nLip rounding: As the tongue moves towards the back of the mouth, the lips become rounded.\n\n",
         "native_language": "english",
@@ -2448,9 +2448,9 @@
         "audio_dir": "Maus"
     },
     {
-        "level": 1.0,
-        "image_filename": "Car.jpg",
-        "card_type": "vocab",
+        "level": "car",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /aʊ/ in German is similar to the English \"ow\" sound in words like \"how\" or \"now.\" In German, this diphthong is used in many common words, and its pronunciation involves a movement from a more open front position (like /a/) to a more rounded back position (like /ʊ/).\n\nPronunciation of /aʊ/ in German:\nStarting position: The tongue starts in a low front position, similar to the \"a\" in \"cat.\"\n\nEnding position: The tongue then moves towards a more back and slightly rounded position, like the \"ʊ\" sound in \"foot.\"\n\nLip rounding: As the tongue moves towards the back of the mouth, the lips become rounded.\n\n",
         "native_language": "english",
@@ -2466,9 +2466,9 @@
         "audio_dir": "Auto"
     },
     {
-        "level": 1.0,
-        "image_filename": "quietloud.jpg",
-        "card_type": "vocab",
+        "level": "quietloud",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /aʊ/ in German is similar to the English \"ow\" sound in words like \"how\" or \"now.\" In German, this diphthong is used in many common words, and its pronunciation involves a movement from a more open front position (like /a/) to a more rounded back position (like /ʊ/).\n\nPronunciation of /aʊ/ in German:\nStarting position: The tongue starts in a low front position, similar to the \"a\" in \"cat.\"\n\nEnding position: The tongue then moves towards a more back and slightly rounded position, like the \"ʊ\" sound in \"foot.\"\n\nLip rounding: As the tongue moves towards the back of the mouth, the lips become rounded.\n\n",
         "native_language": "english",
@@ -2484,9 +2484,9 @@
         "audio_dir": "Laut"
     },
     {
-        "level": 1.0,
-        "image_filename": "brown_bear.jpg",
-        "card_type": "vocab",
+        "level": "brown_bear",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /aʊ/ in German is similar to the English \"ow\" sound in words like \"how\" or \"now.\" In German, this diphthong is used in many common words, and its pronunciation involves a movement from a more open front position (like /a/) to a more rounded back position (like /ʊ/).\n\nPronunciation of /aʊ/ in German:\nStarting position: The tongue starts in a low front position, similar to the \"a\" in \"cat.\"\n\nEnding position: The tongue then moves towards a more back and slightly rounded position, like the \"ʊ\" sound in \"foot.\"\n\nLip rounding: As the tongue moves towards the back of the mouth, the lips become rounded.\n\n",
         "native_language": "english",
@@ -2502,9 +2502,9 @@
         "audio_dir": "Braun"
     },
     {
-        "level": 1.0,
-        "image_filename": "blue_sky.jpg",
-        "card_type": "vocab",
+        "level": "blue_sky",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /aʊ/ in German is similar to the English \"ow\" sound in words like \"how\" or \"now.\" In German, this diphthong is used in many common words, and its pronunciation involves a movement from a more open front position (like /a/) to a more rounded back position (like /ʊ/).\n\nPronunciation of /aʊ/ in German:\nStarting position: The tongue starts in a low front position, similar to the \"a\" in \"cat.\"\n\nEnding position: The tongue then moves towards a more back and slightly rounded position, like the \"ʊ\" sound in \"foot.\"\n\nLip rounding: As the tongue moves towards the back of the mouth, the lips become rounded.\n\n",
         "native_language": "english",
@@ -2520,9 +2520,9 @@
         "audio_dir": "Blau"
     },
     {
-        "level": 1.0,
-        "image_filename": "ontable.jpg",
-        "card_type": "vocab",
+        "level": "ontable",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /aʊ/ in German is similar to the English \"ow\" sound in words like \"how\" or \"now.\" In German, this diphthong is used in many common words, and its pronunciation involves a movement from a more open front position (like /a/) to a more rounded back position (like /ʊ/).\n\nPronunciation of /aʊ/ in German:\nStarting position: The tongue starts in a low front position, similar to the \"a\" in \"cat.\"\n\nEnding position: The tongue then moves towards a more back and slightly rounded position, like the \"ʊ\" sound in \"foot.\"\n\nLip rounding: As the tongue moves towards the back of the mouth, the lips become rounded.\n\n",
         "native_language": "english",
@@ -2538,9 +2538,9 @@
         "audio_dir": "Auf"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /aʊ/ in German is similar to the English \"ow\" sound in words like \"how\" or \"now.\" In German, this diphthong is used in many common words, and its pronunciation involves a movement from a more open front position (like /a/) to a more rounded back position (like /ʊ/).\n\nPronunciation of /aʊ/ in German:\nStarting position: The tongue starts in a low front position, similar to the \"a\" in \"cat.\"\n\nEnding position: The tongue then moves towards a more back and slightly rounded position, like the \"ʊ\" sound in \"foot.\"\n\nLip rounding: As the tongue moves towards the back of the mouth, the lips become rounded.\n\n",
         "native_language": "english",
@@ -2556,9 +2556,9 @@
         "audio_dir": "Rauch"
     },
     {
-        "level": 1.0,
-        "image_filename": "pet.jpg",
-        "card_type": "vocab",
+        "level": "pet",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /aʊ/ in German is similar to the English \"ow\" sound in words like \"how\" or \"now.\" In German, this diphthong is used in many common words, and its pronunciation involves a movement from a more open front position (like /a/) to a more rounded back position (like /ʊ/).\n\nPronunciation of /aʊ/ in German:\nStarting position: The tongue starts in a low front position, similar to the \"a\" in \"cat.\"\n\nEnding position: The tongue then moves towards a more back and slightly rounded position, like the \"ʊ\" sound in \"foot.\"\n\nLip rounding: As the tongue moves towards the back of the mouth, the lips become rounded.\n\n",
         "native_language": "english",
@@ -2574,9 +2574,9 @@
         "audio_dir": "Haustier"
     },
     {
-        "level": 1.0,
-        "image_filename": "Building2.jpg",
-        "card_type": "vocab",
+        "level": "building2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /aʊ/ in German is similar to the English \"ow\" sound in words like \"how\" or \"now.\" In German, this diphthong is used in many common words, and its pronunciation involves a movement from a more open front position (like /a/) to a more rounded back position (like /ʊ/).\n\nPronunciation of /aʊ/ in German:\nStarting position: The tongue starts in a low front position, similar to the \"a\" in \"cat.\"\n\nEnding position: The tongue then moves towards a more back and slightly rounded position, like the \"ʊ\" sound in \"foot.\"\n\nLip rounding: As the tongue moves towards the back of the mouth, the lips become rounded.\n\n",
         "native_language": "english",
@@ -2592,9 +2592,9 @@
         "audio_dir": "Bau"
     },
     {
-        "level": 1.0,
-        "image_filename": "enjoy_free.jpg",
-        "card_type": "vocab",
+        "level": "enjoy_free",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /ɔʏ/ in German is a combination of the vowel sound /ɔ/ (like the \"o\" in \"pot\") and the /ʏ/ sound (similar to the \"ü\" in \"lute\" or the \"u\" in \"mood\" but with a more fronted tongue position). This diphthong is used in several common German words and can be quite tricky for learners of German due to its vowel transitions.\n\nPronunciation of /ɔʏ/:\nStarting position: The tongue begins in the /ɔ/ position, which is a rounded, open-mid back position (similar to the \"o\" in English \"pot\").\n\nEnding position: The tongue then moves to the /ʏ/ position, which is a more fronted, rounded sound (similar to the \"ü\" in \"lute\" or \"u\" in \"mood\" but with the tongue shifted toward the front of the mouth).\n\nLip rounding: Throughout the sound, the lips remain rounded, especially in the second part of the diphthong.\n\nIn Summary:\nWhile the /ɔʏ/ diphthong does not have an exact counterpart in standard English, its sound can be somewhat mimicked by the \"oi\" or \"oy\" sound in words like \"boy\" or \"coin.\" However, the articulation, mouth positioning, and sound transition are more distinct in German.",
         "native_language": "english",
@@ -2610,9 +2610,9 @@
         "audio_dir": "Freude"
     },
     {
-        "level": 1.0,
-        "image_filename": "new_car.jpg",
-        "card_type": "vocab",
+        "level": "new_car",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /ɔʏ/ in German is a combination of the vowel sound /ɔ/ (like the \"o\" in \"pot\") and the /ʏ/ sound (similar to the \"ü\" in \"lute\" or the \"u\" in \"mood\" but with a more fronted tongue position). This diphthong is used in several common German words and can be quite tricky for learners of German due to its vowel transitions.\n\nPronunciation of /ɔʏ/:\nStarting position: The tongue begins in the /ɔ/ position, which is a rounded, open-mid back position (similar to the \"o\" in English \"pot\").\n\nEnding position: The tongue then moves to the /ʏ/ position, which is a more fronted, rounded sound (similar to the \"ü\" in \"lute\" or \"u\" in \"mood\" but with the tongue shifted toward the front of the mouth).\n\nLip rounding: Throughout the sound, the lips remain rounded, especially in the second part of the diphthong.\n\nIn Summary:\nWhile the /ɔʏ/ diphthong does not have an exact counterpart in standard English, its sound can be somewhat mimicked by the \"oi\" or \"oy\" sound in words like \"boy\" or \"coin.\" However, the articulation, mouth positioning, and sound transition are more distinct in German.",
         "native_language": "english",
@@ -2628,9 +2628,9 @@
         "audio_dir": "neu"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The diphthong /ɔʏ/ in German is a combination of the vowel sound /ɔ/ (like the \"o\" in \"pot\") and the /ʏ/ sound (similar to the \"ü\" in \"lute\" or the \"u\" in \"mood\" but with a more fronted tongue position). This diphthong is used in several common German words and can be quite tricky for learners of German due to its vowel transitions.\n\nPronunciation of /ɔʏ/:\nStarting position: The tongue begins in the /ɔ/ position, which is a rounded, open-mid back position (similar to the \"o\" in English \"pot\").\n\nEnding position: The tongue then moves to the /ʏ/ position, which is a more fronted, rounded sound (similar to the \"ü\" in \"lute\" or \"u\" in \"mood\" but with the tongue shifted toward the front of the mouth).\n\nLip rounding: Throughout the sound, the lips remain rounded, especially in the second part of the diphthong.\n\nIn Summary:\nWhile the /ɔʏ/ diphthong does not have an exact counterpart in standard English, its sound can be somewhat mimicked by the \"oi\" or \"oy\" sound in words like \"boy\" or \"coin.\" However, the articulation, mouth positioning, and sound transition are more distinct in German.",
         "native_language": "english",
@@ -2646,9 +2646,9 @@
         "audio_dir": "feuern"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /ə/ sound in German is the schwa sound, which is a neutral, unstressed vowel sound. It is the most central and relaxed vowel sound in the language, similar to the English schwa sound in \"sofa\" (/ˈsoʊ.fə/) or \"about\" (/əˈbaʊt/). It is characterized by:\n\nPosition: Middle of the mouth, completely relaxed.\n\nLips: Neutral (neither rounded nor spread).\n\nDuration: Very short because it is always unstressed.",
         "native_language": "english",
@@ -2664,9 +2664,9 @@
         "audio_dir": "Esel"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /ə/ sound in German is the schwa sound, which is a neutral, unstressed vowel sound. It is the most central and relaxed vowel sound in the language, similar to the English schwa sound in \"sofa\" (/ˈsoʊ.fə/) or \"about\" (/əˈbaʊt/). It is characterized by:\n\nPosition: Middle of the mouth, completely relaxed.\n\nLips: Neutral (neither rounded nor spread).\n\nDuration: Very short because it is always unstressed.",
         "native_language": "english",
@@ -2682,9 +2682,9 @@
         "audio_dir": "haben"
     },
     {
-        "level": 1.0,
-        "image_filename": "school.jpg",
-        "card_type": "vocab",
+        "level": "school",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /ə/ sound in German is the schwa sound, which is a neutral, unstressed vowel sound. It is the most central and relaxed vowel sound in the language, similar to the English schwa sound in \"sofa\" (/ˈsoʊ.fə/) or \"about\" (/əˈbaʊt/). It is characterized by:\n\nPosition: Middle of the mouth, completely relaxed.\n\nLips: Neutral (neither rounded nor spread).\n\nDuration: Very short because it is always unstressed.",
         "native_language": "english",
@@ -2700,9 +2700,9 @@
         "audio_dir": "Schule"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /ə/ sound in German is the schwa sound, which is a neutral, unstressed vowel sound. It is the most central and relaxed vowel sound in the language, similar to the English schwa sound in \"sofa\" (/ˈsoʊ.fə/) or \"about\" (/əˈbaʊt/). It is characterized by:\n\nPosition: Middle of the mouth, completely relaxed.\n\nLips: Neutral (neither rounded nor spread).\n\nDuration: Very short because it is always unstressed.",
         "native_language": "english",
@@ -2718,9 +2718,9 @@
         "audio_dir": "leben"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "vocab",
+        "level": null,
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /ə/ sound in German is the schwa sound, which is a neutral, unstressed vowel sound. It is the most central and relaxed vowel sound in the language, similar to the English schwa sound in \"sofa\" (/ˈsoʊ.fə/) or \"about\" (/əˈbaʊt/). It is characterized by:\n\nPosition: Middle of the mouth, completely relaxed.\n\nLips: Neutral (neither rounded nor spread).\n\nDuration: Very short because it is always unstressed.",
         "native_language": "english",
@@ -2736,9 +2736,9 @@
         "audio_dir": "sagen"
     },
     {
-        "level": 1.0,
-        "image_filename": "better.jpg",
-        "card_type": "vocab",
+        "level": "better",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /ɐ/ sound in German is an unrounded, open-mid back vowel that is somewhat unique to the language. It’s produced with the tongue positioned towards the back of the mouth, but not as far back as some other vowels, and with a relaxed jaw. The mouth is slightly open, but not fully, and the sound lacks lip rounding.\n\nHow to pronounce /ɐ/:\nTongue Position: The tongue is positioned towards the back of the mouth, but it is raised higher than it would be for /ɑ/ (the \"ah\" sound like in English father).\n\nLip Position: The lips are relaxed and unrounded, as opposed to many other back vowels in languages like French or English.\n\nJaw Position: Your jaw is relaxed and slightly open, but not as much as with some of the more open sounds like /a/.\n\nWhere does /ɐ/ occur?\nIt is often found in unstressed syllables in German, typically in final syllables of words or in inflected forms. It is common in words where the stress falls elsewhere in the word, and /ɐ/ serves as a less distinct, more neutral vowel sound in unstressed positions.\n\nDifference between /ɐ/ and /ɑ/:\n/ɑ/ (as in \"Vater\" or father in English) is a deeper and more open sound. It is a fully open back vowel, with the jaw more open and the tongue lower in the mouth.\n\n/ɐ/ is more neutral and less open, so it does not have the deep resonance of /ɑ/. It’s closer to a schwa-like sound but without being quite as centralized.\n\nIn summary, /ɐ/ is often described as a relaxed, neutral back vowel, and it's especially prominent in unstressed syllables or when used in reduced forms in the German language.\n\n\n\n\n\n\n\n\n",
         "native_language": "english",
@@ -2754,9 +2754,9 @@
         "audio_dir": "besser"
     },
     {
-        "level": 1.0,
-        "image_filename": "wonderful.jpg",
-        "card_type": "vocab",
+        "level": "wonderful",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /ɐ/ sound in German is an unrounded, open-mid back vowel that is somewhat unique to the language. It’s produced with the tongue positioned towards the back of the mouth, but not as far back as some other vowels, and with a relaxed jaw. The mouth is slightly open, but not fully, and the sound lacks lip rounding.\n\nHow to pronounce /ɐ/:\nTongue Position: The tongue is positioned towards the back of the mouth, but it is raised higher than it would be for /ɑ/ (the \"ah\" sound like in English father).\n\nLip Position: The lips are relaxed and unrounded, as opposed to many other back vowels in languages like French or English.\n\nJaw Position: Your jaw is relaxed and slightly open, but not as much as with some of the more open sounds like /a/.\n\nWhere does /ɐ/ occur?\nIt is often found in unstressed syllables in German, typically in final syllables of words or in inflected forms. It is common in words where the stress falls elsewhere in the word, and /ɐ/ serves as a less distinct, more neutral vowel sound in unstressed positions.\n\nDifference between /ɐ/ and /ɑ/:\n/ɑ/ (as in \"Vater\" or father in English) is a deeper and more open sound. It is a fully open back vowel, with the jaw more open and the tongue lower in the mouth.\n\n/ɐ/ is more neutral and less open, so it does not have the deep resonance of /ɑ/. It’s closer to a schwa-like sound but without being quite as centralized.\n\nIn summary, /ɐ/ is often described as a relaxed, neutral back vowel, and it's especially prominent in unstressed syllables or when used in reduced forms in the German language.\n\n\n\n\n\n\n\n\n",
         "native_language": "english",
@@ -2772,9 +2772,9 @@
         "audio_dir": "wunderbar"
     },
     {
-        "level": 1.0,
-        "image_filename": "teacher.jpg",
-        "card_type": "vocab",
+        "level": "teacher",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": "The /ɐ/ sound in German is an unrounded, open-mid back vowel that is somewhat unique to the language. It’s produced with the tongue positioned towards the back of the mouth, but not as far back as some other vowels, and with a relaxed jaw. The mouth is slightly open, but not fully, and the sound lacks lip rounding.\n\nHow to pronounce /ɐ/:\nTongue Position: The tongue is positioned towards the back of the mouth, but it is raised higher than it would be for /ɑ/ (the \"ah\" sound like in English father).\n\nLip Position: The lips are relaxed and unrounded, as opposed to many other back vowels in languages like French or English.\n\nJaw Position: Your jaw is relaxed and slightly open, but not as much as with some of the more open sounds like /a/.\n\nWhere does /ɐ/ occur?\nIt is often found in unstressed syllables in German, typically in final syllables of words or in inflected forms. It is common in words where the stress falls elsewhere in the word, and /ɐ/ serves as a less distinct, more neutral vowel sound in unstressed positions.\n\nDifference between /ɐ/ and /ɑ/:\n/ɑ/ (as in \"Vater\" or father in English) is a deeper and more open sound. It is a fully open back vowel, with the jaw more open and the tongue lower in the mouth.\n\n/ɐ/ is more neutral and less open, so it does not have the deep resonance of /ɑ/. It’s closer to a schwa-like sound but without being quite as centralized.\n\nIn summary, /ɐ/ is often described as a relaxed, neutral back vowel, and it's especially prominent in unstressed syllables or when used in reduced forms in the German language.\n\n\n\n\n\n\n\n\n",
         "native_language": "english",
@@ -2790,9 +2790,9 @@
         "audio_dir": "Lehrer"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2808,9 +2808,9 @@
         "audio_dir": "Bin\nKind\nBitte\nMit\nSchiff\nList\nFisch\nSitzen\nBlinde\nHimmel"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2826,9 +2826,9 @@
         "audio_dir": "Bett\nChef\nEssen\nKette\nFenster\nMensch\nStelle\nInteresse\nFest\nBesser"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2844,9 +2844,9 @@
         "audio_dir": "Mann\nLand\nTasche\nHand\nStadt\nBall\nName\nRat\nKatze\nWasser"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2862,9 +2862,9 @@
         "audio_dir": "Gott\nSonne\nDorf\nkommen\nWoche\nGottheit\nGlocke\nkosten\nObst"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2880,9 +2880,9 @@
         "audio_dir": "Mutter\nHund\nKunst\nRund\nBuch\nLuft\nPunkt\nButter\nKuss\nSuppe"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2898,9 +2898,9 @@
         "audio_dir": "fünf\nmüssen\nKüche\nBrücke\nhübsch\nMütter\ndünn\nGlück\nsüß\ndünkel"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2916,9 +2916,9 @@
         "audio_dir": "Hölle\nkönnen\nmöchte\nöffnen\nzwölf\nLöffel\nmögen\nBöse\nKönig\nschön"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2934,9 +2934,9 @@
         "audio_dir": "Viel\nBier\nLieben\nKiel\nWieder\nTief\nSieg\nFamilie\nFliegen\nBieten"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2952,9 +2952,9 @@
         "audio_dir": "Meer\nBesen\nLehre\nGehen\nFeuer\nEhe\nMehl\nTee\nSegen"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2970,9 +2970,9 @@
         "audio_dir": "Bär\nLehr\nSehr\nMärz\nEhrlich\nBären\nHerr\nMehr\nVerkehr"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -2988,9 +2988,9 @@
         "audio_dir": "Fahr\nSaat\nLang\nTag\nHand\nWagen\nLaden\nBahn\nHaar\nMann"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -3006,9 +3006,9 @@
         "audio_dir": "Boot\nRose\nVogel\nTor\nKohl\nLogo"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -3024,9 +3024,9 @@
         "audio_dir": "Kuchen\nTuch\nBruder"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -3042,9 +3042,9 @@
         "audio_dir": "Tür\nMüde\nFührer\nGrün\nSüß\nBücher"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -3060,9 +3060,9 @@
         "audio_dir": "Hören\nschön\nmögen"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -3078,9 +3078,9 @@
         "audio_dir": "Eins\nNein\nMai\nLeiden\nWein\nBeil\nFein\nFreitag\nReisen"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -3096,9 +3096,9 @@
         "audio_dir": "Haus\nMaus\nAuto\nLaut\nBraun\nBlau\nAuf\nRauch\nHaustier\nBau"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -3114,9 +3114,9 @@
         "audio_dir": "Freude\nneu\nfeuern"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -3132,9 +3132,9 @@
         "audio_dir": "Esel\nhaben\nSchule\nleben\nsagen\nbesser\nwunderbar\nLehrer"
     },
     {
-        "level": 1.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

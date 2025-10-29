@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "stand_here.jpg",
-        "card_type": "vocab",
+        "level": "stand_here",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

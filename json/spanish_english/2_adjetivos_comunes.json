@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "excited.jpg",
-        "card_type": "vocab",
+        "level": "excited",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "excited"
     },
     {
-        "level": 2.0,
-        "image_filename": "anxiously.jpg",
-        "card_type": "vocab",
+        "level": "anxiously",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

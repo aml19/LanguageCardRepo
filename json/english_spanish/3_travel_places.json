@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "Campground.jpg",
-        "card_type": "vocab",
+        "level": "campground",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Terreno de camping"
     },
     {
-        "level": 3.0,
-        "image_filename": "Hostel.jpg",
-        "card_type": "vocab",
+        "level": "hostel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Albergue"
     },
     {
-        "level": 3.0,
-        "image_filename": "Hotel.jpg",
-        "card_type": "vocab",
+        "level": "hotel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Hotel"
     },
     {
-        "level": 3.0,
-        "image_filename": "Resort.jpg",
-        "card_type": "vocab",
+        "level": "resort",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Complejo"
     },
     {
-        "level": 3.0,
-        "image_filename": "Aquarium.jpg",
-        "card_type": "vocab",
+        "level": "aquarium",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Acuario"
     },
     {
-        "level": 3.0,
-        "image_filename": "Art gallery.jpg",
-        "card_type": "vocab",
+        "level": "art gallery",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Galería de arte"
     },
     {
-        "level": 3.0,
-        "image_filename": "cinema.jpg",
-        "card_type": "vocab",
+        "level": "cinema",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Cine / sala de cine"
     },
     {
-        "level": 3.0,
-        "image_filename": "Concert hall.jpg",
-        "card_type": "vocab",
+        "level": "concert hall",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Sala de conciertos"
     },
     {
-        "level": 3.0,
-        "image_filename": "museum.jpg",
-        "card_type": "vocab",
+        "level": "museum",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Museo"
     },
     {
-        "level": 3.0,
-        "image_filename": "Stadium.jpg",
-        "card_type": "vocab",
+        "level": "stadium",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Estadio"
     },
     {
-        "level": 3.0,
-        "image_filename": "Theater.jpg",
-        "card_type": "vocab",
+        "level": "theater",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Teatro"
     },
     {
-        "level": 3.0,
-        "image_filename": "Zoo.jpg",
-        "card_type": "vocab",
+        "level": "zoo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Zoo"
     },
     {
-        "level": 3.0,
-        "image_filename": "restaurant.jpg",
-        "card_type": "vocab",
+        "level": "restaurant",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Restaurante"
     },
     {
-        "level": 3.0,
-        "image_filename": "Bakery.jpg",
-        "card_type": "vocab",
+        "level": "bakery",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Panadería"
     },
     {
-        "level": 3.0,
-        "image_filename": "Bar.jpg",
-        "card_type": "vocab",
+        "level": "bar",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Bar"
     },
     {
-        "level": 3.0,
-        "image_filename": "Café.jpg",
-        "card_type": "vocab",
+        "level": "café",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Cafetería"
     },
     {
-        "level": 3.0,
-        "image_filename": "Fast food restaurant.jpg",
-        "card_type": "vocab",
+        "level": "fast food restaurant",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Restaurante de comida rápida"
     },
     {
-        "level": 3.0,
-        "image_filename": "Food cart.jpg",
-        "card_type": "vocab",
+        "level": "food cart",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "carrito de comida"
     },
     {
-        "level": 3.0,
-        "image_filename": "Ice cream shop.jpg",
-        "card_type": "vocab",
+        "level": "ice cream shop",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Heladería"
     },
     {
-        "level": 3.0,
-        "image_filename": "Pizzeria.jpg",
-        "card_type": "vocab",
+        "level": "pizzeria",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Pizzería"
     },
     {
-        "level": 3.0,
-        "image_filename": "apartment.jpg",
-        "card_type": "vocab",
+        "level": "apartment",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Departamento"
     },
     {
-        "level": 3.0,
-        "image_filename": "House.jpg",
-        "card_type": "vocab",
+        "level": "house",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Casa"
     },
     {
-        "level": 3.0,
-        "image_filename": "neighborhood.jpg",
-        "card_type": "vocab",
+        "level": "neighborhood",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Vecindario"
     },
     {
-        "level": 3.0,
-        "image_filename": "beach.jpg",
-        "card_type": "vocab",
+        "level": "beach",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Playa"
     },
     {
-        "level": 3.0,
-        "image_filename": "forest.jpg",
-        "card_type": "vocab",
+        "level": "forest",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Bosque"
     },
     {
-        "level": 3.0,
-        "image_filename": "Garden.jpg",
-        "card_type": "vocab",
+        "level": "garden",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Jardín"
     },
     {
-        "level": 3.0,
-        "image_filename": "Mountain2.jpg",
-        "card_type": "vocab",
+        "level": "mountain2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Montaña"
     },
     {
-        "level": 3.0,
-        "image_filename": "Park.jpg",
-        "card_type": "vocab",
+        "level": "park",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Parque"
     },
     {
-        "level": 3.0,
-        "image_filename": "Playground.jpg",
-        "card_type": "vocab",
+        "level": "playground",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Patio de juegos"
     },
     {
-        "level": 3.0,
-        "image_filename": "Plaza.jpg",
-        "card_type": "vocab",
+        "level": "plaza",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Plaza"
     },
     {
-        "level": 3.0,
-        "image_filename": "Bank.jpg",
-        "card_type": "vocab",
+        "level": "bank",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Banco"
     },
     {
-        "level": 3.0,
-        "image_filename": "Clinic.jpg",
-        "card_type": "vocab",
+        "level": "clinic",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Clínica"
     },
     {
-        "level": 3.0,
-        "image_filename": "Courthouse.jpg",
-        "card_type": "vocab",
+        "level": "courthouse",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Palacio de justicia"
     },
     {
-        "level": 3.0,
-        "image_filename": "Fire station.jpg",
-        "card_type": "vocab",
+        "level": "fire station",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Estación de bomberos"
     },
     {
-        "level": 3.0,
-        "image_filename": "Hospital.jpg",
-        "card_type": "vocab",
+        "level": "hospital",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Hospital"
     },
     {
-        "level": 3.0,
-        "image_filename": "library.jpg",
-        "card_type": "vocab",
+        "level": "library",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Biblioteca"
     },
     {
-        "level": 3.0,
-        "image_filename": "Police station.jpg",
-        "card_type": "vocab",
+        "level": "police station",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Estación de policía"
     },
     {
-        "level": 3.0,
-        "image_filename": "Post office.jpg",
-        "card_type": "vocab",
+        "level": "post office",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Oficina de correos"
     },
     {
-        "level": 3.0,
-        "image_filename": "school.jpg",
-        "card_type": "vocab",
+        "level": "school",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Escuela"
     },
     {
-        "level": 3.0,
-        "image_filename": "university.jpg",
-        "card_type": "vocab",
+        "level": "university",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Universidad"
     },
     {
-        "level": 3.0,
-        "image_filename": "Castle.jpg",
-        "card_type": "vocab",
+        "level": "castle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Castillo"
     },
     {
-        "level": 3.0,
-        "image_filename": "cathedral.jpg",
-        "card_type": "vocab",
+        "level": "cathedral",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "Catedral"
     },
     {
-        "level": 3.0,
-        "image_filename": "Church.jpg",
-        "card_type": "vocab",
+        "level": "church",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Iglesia"
     },
     {
-        "level": 3.0,
-        "image_filename": "Monastery.jpg",
-        "card_type": "vocab",
+        "level": "monastery",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Monasterio"
     },
     {
-        "level": 3.0,
-        "image_filename": "Mosque.jpg",
-        "card_type": "vocab",
+        "level": "mosque",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "Mezquita"
     },
     {
-        "level": 3.0,
-        "image_filename": "Palace.jpg",
-        "card_type": "vocab",
+        "level": "palace",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "Palacio"
     },
     {
-        "level": 3.0,
-        "image_filename": "Ruins.jpg",
-        "card_type": "vocab",
+        "level": "ruins",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Restos"
     },
     {
-        "level": 3.0,
-        "image_filename": "Synagogue.jpg",
-        "card_type": "vocab",
+        "level": "synagogue",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "Sinagoga"
     },
     {
-        "level": 3.0,
-        "image_filename": "Temple.jpg",
-        "card_type": "vocab",
+        "level": "temple",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "Templo"
     },
     {
-        "level": 3.0,
-        "image_filename": "Bookstore.jpg",
-        "card_type": "vocab",
+        "level": "bookstore",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "Librería"
     },
     {
-        "level": 3.0,
-        "image_filename": "Butcher shop.jpg",
-        "card_type": "vocab",
+        "level": "butcher shop",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "Carnicería"
     },
     {
-        "level": 3.0,
-        "image_filename": "Clothing store.jpg",
-        "card_type": "vocab",
+        "level": "clothing store",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "Tienda de ropa"
     },
     {
-        "level": 3.0,
-        "image_filename": "conveniencestore.jpg",
-        "card_type": "vocab",
+        "level": "conveniencestore",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "Tienda de conveniencia"
     },
     {
-        "level": 3.0,
-        "image_filename": "electronicsstore.jpg",
-        "card_type": "vocab",
+        "level": "electronicsstore",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "Tienda de electrónica"
     },
     {
-        "level": 3.0,
-        "image_filename": "grocerystore.jpg",
-        "card_type": "vocab",
+        "level": "grocerystore",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "Tienda de comestibles / supermercado"
     },
     {
-        "level": 3.0,
-        "image_filename": "mall.jpg",
-        "card_type": "vocab",
+        "level": "mall",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "Centro comercial"
     },
     {
-        "level": 3.0,
-        "image_filename": "Market.jpg",
-        "card_type": "vocab",
+        "level": "market",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "Mercado"
     },
     {
-        "level": 3.0,
-        "image_filename": "Pharmacy.jpg",
-        "card_type": "vocab",
+        "level": "pharmacy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "Farmacia / droguería"
     },
     {
-        "level": 3.0,
-        "image_filename": "shoestore.jpg",
-        "card_type": "vocab",
+        "level": "shoestore",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "Zapatería"
     },
     {
-        "level": 3.0,
-        "image_filename": "airport.jpg",
-        "card_type": "vocab",
+        "level": "airport",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "Aeropuerto"
     },
     {
-        "level": 3.0,
-        "image_filename": "busstation.jpg",
-        "card_type": "vocab",
+        "level": "busstation",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "Estación de autobuses"
     },
     {
-        "level": 3.0,
-        "image_filename": "busstop.jpg",
-        "card_type": "vocab",
+        "level": "busstop",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "parada de autobús"
     },
     {
-        "level": 3.0,
-        "image_filename": "parkinglot.jpg",
-        "card_type": "vocab",
+        "level": "parkinglot",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "Estacionamiento"
     },
     {
-        "level": 3.0,
-        "image_filename": "parkinggarage.jpg",
-        "card_type": "vocab",
+        "level": "parkinggarage",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "Garaje de Estacionamiento"
     },
     {
-        "level": 3.0,
-        "image_filename": "harbor.jpg",
-        "card_type": "vocab",
+        "level": "harbor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Puerto"
     },
     {
-        "level": 3.0,
-        "image_filename": "metro.jpg",
-        "card_type": "vocab",
+        "level": "metro",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "Estación de metro"
     },
     {
-        "level": 3.0,
-        "image_filename": "trainstation.jpg",
-        "card_type": "vocab",
+        "level": "trainstation",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

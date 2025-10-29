@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "sun.jpg",
-        "card_type": "vocab",
+        "level": "sun",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "le soleil"
     },
     {
-        "level": 2.0,
-        "image_filename": "moon.jpg",
-        "card_type": "vocab",
+        "level": "moon",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "la lune"
     },
     {
-        "level": 2.0,
-        "image_filename": "grass.jpg",
-        "card_type": "vocab",
+        "level": "grass",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "l'herbe"
     },
     {
-        "level": 2.0,
-        "image_filename": "flower.jpg",
-        "card_type": "vocab",
+        "level": "flower",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "la fleur"
     },
     {
-        "level": 2.0,
-        "image_filename": "Tree2.jpg",
-        "card_type": "vocab",
+        "level": "tree2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "L’arbre"
     },
     {
-        "level": 2.0,
-        "image_filename": "Bush2.jpg",
-        "card_type": "vocab",
+        "level": "bush2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "L’arbuste"
     },
     {
-        "level": 2.0,
-        "image_filename": "Leaf2.jpg",
-        "card_type": "vocab",
+        "level": "leaf2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "La feuille"
     },
     {
-        "level": 2.0,
-        "image_filename": "Rock2.jpg",
-        "card_type": "vocab",
+        "level": "rock2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Le rocher / La pierre"
     },
     {
-        "level": 2.0,
-        "image_filename": "Hill2.jpg",
-        "card_type": "vocab",
+        "level": "hill2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "La colline"
     },
     {
-        "level": 2.0,
-        "image_filename": "Mountain2.jpg",
-        "card_type": "vocab",
+        "level": "mountain2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "La montagne"
     },
     {
-        "level": 2.0,
-        "image_filename": "River2.jpg",
-        "card_type": "vocab",
+        "level": "river2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "La rivière"
     },
     {
-        "level": 2.0,
-        "image_filename": "Lake2.jpg",
-        "card_type": "vocab",
+        "level": "lake2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Le lac"
     },
     {
-        "level": 2.0,
-        "image_filename": "Pond2.jpg",
-        "card_type": "vocab",
+        "level": "pond2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "L’étang"
     },
     {
-        "level": 2.0,
-        "image_filename": "Ocean2.jpg",
-        "card_type": "vocab",
+        "level": "ocean2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "L’océan"
     },
     {
-        "level": 2.0,
-        "image_filename": "Beach2.jpg",
-        "card_type": "vocab",
+        "level": "beach2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "La plage"
     },
     {
-        "level": 2.0,
-        "image_filename": "Cloud2.jpg",
-        "card_type": "vocab",
+        "level": "cloud2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Le nuage"
     },
     {
-        "level": 2.0,
-        "image_filename": "Star2.jpg",
-        "card_type": "vocab",
+        "level": "star2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

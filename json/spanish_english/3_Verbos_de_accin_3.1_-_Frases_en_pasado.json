@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "cook_f.jpg",
-        "card_type": "conjugation",
+        "level": "cook_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "I already cooked"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "you already cooked"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "he already cooked"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_f.jpg",
-        "card_type": "conjugation",
+        "level": "cook_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "she already cooked"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_p.jpg",
-        "card_type": "conjugation",
+        "level": "cook_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "we already cooked"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_p.jpg",
-        "card_type": "conjugation",
+        "level": "cook_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "they already cooked"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "conjugation",
+        "level": "push_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "you already pushed"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_f.jpg",
-        "card_type": "conjugation",
+        "level": "jump_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "you just jumped"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_f.jpg",
-        "card_type": "conjugation",
+        "level": "push_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "she already pushed"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_f.jpg",
-        "card_type": "conjugation",
+        "level": "jump_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "she just jumped"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_p.jpg",
-        "card_type": "conjugation",
+        "level": "drink_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "we  drank earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_f.jpg",
-        "card_type": "conjugation",
+        "level": "play_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "I  played a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_m.jpg",
-        "card_type": "conjugation",
+        "level": "dance_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "you  danced last year"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_f.jpg",
-        "card_type": "conjugation",
+        "level": "dance_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "she  danced last year"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_m.jpg",
-        "card_type": "conjugation",
+        "level": "drive_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "he  drove earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_m.jpg",
-        "card_type": "conjugation",
+        "level": "love_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "he  loved the previous one"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "we  laughed earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_m.jpg",
-        "card_type": "conjugation",
+        "level": "eat_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "I  ate earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_m.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "I  slept this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_f.jpg",
-        "card_type": "conjugation",
+        "level": "walk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "I  walked this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_m.jpg",
-        "card_type": "conjugation",
+        "level": "pull_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "I already pulled"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_f.jpg",
-        "card_type": "conjugation",
+        "level": "push_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "I already pushed"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_f.jpg",
-        "card_type": "conjugation",
+        "level": "fall_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "I just fell"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_m.jpg",
-        "card_type": "conjugation",
+        "level": "jump_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "I just jumped"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_f.jpg",
-        "card_type": "conjugation",
+        "level": "study_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "you  studied yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_f.jpg",
-        "card_type": "conjugation",
+        "level": "grab_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "you already grabbed it"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_f.jpg",
-        "card_type": "conjugation",
+        "level": "pull_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "you already pulled"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_m.jpg",
-        "card_type": "conjugation",
+        "level": "write_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "you already wrote it"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_m.jpg",
-        "card_type": "conjugation",
+        "level": "fall_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "you just fell"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_m.jpg",
-        "card_type": "conjugation",
+        "level": "sing_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "he  sang last week"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_m.jpg",
-        "card_type": "conjugation",
+        "level": "pull_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "he already pulled"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "conjugation",
+        "level": "push_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "he already pushed"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_m.jpg",
-        "card_type": "conjugation",
+        "level": "talk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "he already talked to them"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "conjugation",
+        "level": "throw_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "he already threw it"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_m.jpg",
-        "card_type": "conjugation",
+        "level": "fall_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "he just fell"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_m.jpg",
-        "card_type": "conjugation",
+        "level": "jump_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "he just jumped"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_f.jpg",
-        "card_type": "conjugation",
+        "level": "study_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "she  studied yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_f.jpg",
-        "card_type": "conjugation",
+        "level": "grab_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "she already grabbed it"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_f.jpg",
-        "card_type": "conjugation",
+        "level": "pull_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "she already pulled"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_f.jpg",
-        "card_type": "conjugation",
+        "level": "write_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": "she already wrote it"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_f.jpg",
-        "card_type": "conjugation",
+        "level": "fall_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": "she just fell"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_p.jpg",
-        "card_type": "conjugation",
+        "level": "say_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -756,9 +756,9 @@
         "audio_dir": "we  said it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_p.jpg",
-        "card_type": "conjugation",
+        "level": "swim_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -774,9 +774,9 @@
         "audio_dir": "we  swam a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_p.jpg",
-        "card_type": "conjugation",
+        "level": "drop_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -792,9 +792,9 @@
         "audio_dir": "we already dropped it"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_p.jpg",
-        "card_type": "conjugation",
+        "level": "pull_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -810,9 +810,9 @@
         "audio_dir": "we already pulled"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_p.jpg",
-        "card_type": "conjugation",
+        "level": "push_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -828,9 +828,9 @@
         "audio_dir": "we already pushed"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_p.jpg",
-        "card_type": "conjugation",
+        "level": "fall_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -846,9 +846,9 @@
         "audio_dir": "we just fell"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_p.jpg",
-        "card_type": "conjugation",
+        "level": "jump_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -864,9 +864,9 @@
         "audio_dir": "we just jumped"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_p.jpg",
-        "card_type": "conjugation",
+        "level": "pull_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -882,9 +882,9 @@
         "audio_dir": "they already pulled"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_p.jpg",
-        "card_type": "conjugation",
+        "level": "push_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -900,9 +900,9 @@
         "audio_dir": "they already pushed"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_p.jpg",
-        "card_type": "conjugation",
+        "level": "fall_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -918,9 +918,9 @@
         "audio_dir": "they just fell"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_p.jpg",
-        "card_type": "conjugation",
+        "level": "jump_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -936,9 +936,9 @@
         "audio_dir": "they just jumped"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_m.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -954,9 +954,9 @@
         "audio_dir": "you  laughed earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_m.jpg",
-        "card_type": "conjugation",
+        "level": "drink_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -972,9 +972,9 @@
         "audio_dir": "I  drank earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_f.jpg",
-        "card_type": "conjugation",
+        "level": "love_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -990,9 +990,9 @@
         "audio_dir": "you  loved the previous one"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_f.jpg",
-        "card_type": "conjugation",
+        "level": "eat_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1008,9 +1008,9 @@
         "audio_dir": "you  ate earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_f.jpg",
-        "card_type": "conjugation",
+        "level": "dance_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1026,9 +1026,9 @@
         "audio_dir": "I  danced last year"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_f.jpg",
-        "card_type": "conjugation",
+        "level": "love_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1044,9 +1044,9 @@
         "audio_dir": "she  loved the previous one"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_f.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1062,9 +1062,9 @@
         "audio_dir": "she  laughed earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_p.jpg",
-        "card_type": "conjugation",
+        "level": "drive_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1080,9 +1080,9 @@
         "audio_dir": "they  drove earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_f.jpg",
-        "card_type": "conjugation",
+        "level": "drive_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1098,9 +1098,9 @@
         "audio_dir": "she  drove earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_m.jpg",
-        "card_type": "conjugation",
+        "level": "play_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1116,9 +1116,9 @@
         "audio_dir": "he  played a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_f.jpg",
-        "card_type": "conjugation",
+        "level": "drink_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1134,9 +1134,9 @@
         "audio_dir": "you  drank earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_p.jpg",
-        "card_type": "conjugation",
+        "level": "cry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1152,9 +1152,9 @@
         "audio_dir": "they  cried earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_p.jpg",
-        "card_type": "conjugation",
+        "level": "love_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1170,9 +1170,9 @@
         "audio_dir": "they  loved the previous one"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_m.jpg",
-        "card_type": "conjugation",
+        "level": "hold_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1188,9 +1188,9 @@
         "audio_dir": "I  held it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_f.jpg",
-        "card_type": "conjugation",
+        "level": "eat_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1206,9 +1206,9 @@
         "audio_dir": "she  ate earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_p.jpg",
-        "card_type": "conjugation",
+        "level": "dance_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1224,9 +1224,9 @@
         "audio_dir": "we  danced last year"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_p.jpg",
-        "card_type": "conjugation",
+        "level": "play_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1242,9 +1242,9 @@
         "audio_dir": "we  played a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1260,9 +1260,9 @@
         "audio_dir": "they  laughed earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_p.jpg",
-        "card_type": "conjugation",
+        "level": "read_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1278,9 +1278,9 @@
         "audio_dir": "we  read it a long time ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_p.jpg",
-        "card_type": "conjugation",
+        "level": "love_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1296,9 +1296,9 @@
         "audio_dir": "we  loved the previous one"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_p.jpg",
-        "card_type": "conjugation",
+        "level": "dance_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1314,9 +1314,9 @@
         "audio_dir": "they  danced last year"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_p.jpg",
-        "card_type": "conjugation",
+        "level": "eat_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1332,9 +1332,9 @@
         "audio_dir": "they  ate earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_p.jpg",
-        "card_type": "conjugation",
+        "level": "play_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1350,9 +1350,9 @@
         "audio_dir": "they  played a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_f.jpg",
-        "card_type": "conjugation",
+        "level": "drink_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1368,9 +1368,9 @@
         "audio_dir": "she  drank earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_p.jpg",
-        "card_type": "conjugation",
+        "level": "drive_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1386,9 +1386,9 @@
         "audio_dir": "we  drove earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_m.jpg",
-        "card_type": "conjugation",
+        "level": "drink_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1404,9 +1404,9 @@
         "audio_dir": "he  drank earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_m.jpg",
-        "card_type": "conjugation",
+        "level": "eat_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1422,9 +1422,9 @@
         "audio_dir": "he  ate earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_f.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1440,9 +1440,9 @@
         "audio_dir": "I  laughed earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_m.jpg",
-        "card_type": "conjugation",
+        "level": "dance_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1458,9 +1458,9 @@
         "audio_dir": "he  danced last year"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_m.jpg",
-        "card_type": "conjugation",
+        "level": "play_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1476,9 +1476,9 @@
         "audio_dir": "you  played a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_p.jpg",
-        "card_type": "conjugation",
+        "level": "cry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1494,9 +1494,9 @@
         "audio_dir": "we  cried earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_m.jpg",
-        "card_type": "conjugation",
+        "level": "cry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1512,9 +1512,9 @@
         "audio_dir": "he  cried earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_m.jpg",
-        "card_type": "conjugation",
+        "level": "drive_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1530,9 +1530,9 @@
         "audio_dir": "you  drove earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_f.jpg",
-        "card_type": "conjugation",
+        "level": "cry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1548,9 +1548,9 @@
         "audio_dir": "you  cried earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_f.jpg",
-        "card_type": "conjugation",
+        "level": "drive_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1566,9 +1566,9 @@
         "audio_dir": "I  drove earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_f.jpg",
-        "card_type": "conjugation",
+        "level": "play_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1584,9 +1584,9 @@
         "audio_dir": "she  played a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_m.jpg",
-        "card_type": "conjugation",
+        "level": "love_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1602,9 +1602,9 @@
         "audio_dir": "I  loved the previous one"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_m.jpg",
-        "card_type": "conjugation",
+        "level": "cry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1620,9 +1620,9 @@
         "audio_dir": "I  cried earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_p.jpg",
-        "card_type": "conjugation",
+        "level": "eat_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1638,9 +1638,9 @@
         "audio_dir": "we  ate earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_f.jpg",
-        "card_type": "conjugation",
+        "level": "cry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1656,9 +1656,9 @@
         "audio_dir": "she  cried earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_p.jpg",
-        "card_type": "conjugation",
+        "level": "drink_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1674,9 +1674,9 @@
         "audio_dir": "they  drank earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_m.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1692,9 +1692,9 @@
         "audio_dir": "he  laughed earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_m.jpg",
-        "card_type": "conjugation",
+        "level": "say_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1710,9 +1710,9 @@
         "audio_dir": "I  said it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_f.jpg",
-        "card_type": "conjugation",
+        "level": "sing_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1728,9 +1728,9 @@
         "audio_dir": "I  sang last week"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_f.jpg",
-        "card_type": "conjugation",
+        "level": "speak_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1746,9 +1746,9 @@
         "audio_dir": "I  spoke to them already"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_m.jpg",
-        "card_type": "conjugation",
+        "level": "study_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1764,9 +1764,9 @@
         "audio_dir": "I  studied yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_f.jpg",
-        "card_type": "conjugation",
+        "level": "swim_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1782,9 +1782,9 @@
         "audio_dir": "I  swam a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_m.jpg",
-        "card_type": "conjugation",
+        "level": "work_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1800,9 +1800,9 @@
         "audio_dir": "I  worked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_m.jpg",
-        "card_type": "conjugation",
+        "level": "drop_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1818,9 +1818,9 @@
         "audio_dir": "I already dropped it"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_m.jpg",
-        "card_type": "conjugation",
+        "level": "grab_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1836,9 +1836,9 @@
         "audio_dir": "I already grabbed it"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_m.jpg",
-        "card_type": "conjugation",
+        "level": "talk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1854,9 +1854,9 @@
         "audio_dir": "I already talked to them"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_f.jpg",
-        "card_type": "conjugation",
+        "level": "throw_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1872,9 +1872,9 @@
         "audio_dir": "I already threw it"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_f.jpg",
-        "card_type": "conjugation",
+        "level": "write_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1890,9 +1890,9 @@
         "audio_dir": "I already wrote it"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_m.jpg",
-        "card_type": "conjugation",
+        "level": "sing_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1908,9 +1908,9 @@
         "audio_dir": "you  sang last week"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_f.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1926,9 +1926,9 @@
         "audio_dir": "you  slept this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_m.jpg",
-        "card_type": "conjugation",
+        "level": "speak_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1944,9 +1944,9 @@
         "audio_dir": "you  spoke to them already"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_m.jpg",
-        "card_type": "conjugation",
+        "level": "swim_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1962,9 +1962,9 @@
         "audio_dir": "you  swam a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_m.jpg",
-        "card_type": "conjugation",
+        "level": "walk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1980,9 +1980,9 @@
         "audio_dir": "you  walked this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_f.jpg",
-        "card_type": "conjugation",
+        "level": "work_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1998,9 +1998,9 @@
         "audio_dir": "you  worked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_f.jpg",
-        "card_type": "conjugation",
+        "level": "drop_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2016,9 +2016,9 @@
         "audio_dir": "you already dropped it"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "conjugation",
+        "level": "talk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2034,9 +2034,9 @@
         "audio_dir": "you already talked to them"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "conjugation",
+        "level": "throw_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2052,9 +2052,9 @@
         "audio_dir": "you already threw it"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_m.jpg",
-        "card_type": "conjugation",
+        "level": "say_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2070,9 +2070,9 @@
         "audio_dir": "he  said it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_m.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2088,9 +2088,9 @@
         "audio_dir": "he  slept this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_m.jpg",
-        "card_type": "conjugation",
+        "level": "speak_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2106,9 +2106,9 @@
         "audio_dir": "he  spoke to them already"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_m.jpg",
-        "card_type": "conjugation",
+        "level": "study_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2124,9 +2124,9 @@
         "audio_dir": "he  studied yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_m.jpg",
-        "card_type": "conjugation",
+        "level": "swim_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2142,9 +2142,9 @@
         "audio_dir": "he  swam a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_m.jpg",
-        "card_type": "conjugation",
+        "level": "walk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2160,9 +2160,9 @@
         "audio_dir": "he  walked this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_m.jpg",
-        "card_type": "conjugation",
+        "level": "work_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2178,9 +2178,9 @@
         "audio_dir": "he  worked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_m.jpg",
-        "card_type": "conjugation",
+        "level": "drop_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2196,9 +2196,9 @@
         "audio_dir": "he already dropped it"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_m.jpg",
-        "card_type": "conjugation",
+        "level": "grab_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2214,9 +2214,9 @@
         "audio_dir": "he already grabbed it"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_m.jpg",
-        "card_type": "conjugation",
+        "level": "write_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2232,9 +2232,9 @@
         "audio_dir": "he already wrote it"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_f.jpg",
-        "card_type": "conjugation",
+        "level": "say_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2250,9 +2250,9 @@
         "audio_dir": "she  said it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_f.jpg",
-        "card_type": "conjugation",
+        "level": "sing_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2268,9 +2268,9 @@
         "audio_dir": "she  sang last week"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_f.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2286,9 +2286,9 @@
         "audio_dir": "she  slept this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_f.jpg",
-        "card_type": "conjugation",
+        "level": "speak_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2304,9 +2304,9 @@
         "audio_dir": "she  spoke to them already"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_f.jpg",
-        "card_type": "conjugation",
+        "level": "swim_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2322,9 +2322,9 @@
         "audio_dir": "she  swam a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_f.jpg",
-        "card_type": "conjugation",
+        "level": "walk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2340,9 +2340,9 @@
         "audio_dir": "she  walked this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_f.jpg",
-        "card_type": "conjugation",
+        "level": "work_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2358,9 +2358,9 @@
         "audio_dir": "she  worked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_f.jpg",
-        "card_type": "conjugation",
+        "level": "drop_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2376,9 +2376,9 @@
         "audio_dir": "she already dropped it"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "conjugation",
+        "level": "talk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2394,9 +2394,9 @@
         "audio_dir": "she already talked to them"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_f.jpg",
-        "card_type": "conjugation",
+        "level": "throw_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2412,9 +2412,9 @@
         "audio_dir": "she already threw it"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_p.jpg",
-        "card_type": "conjugation",
+        "level": "sing_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2430,9 +2430,9 @@
         "audio_dir": "we  sang last week"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_p.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2448,9 +2448,9 @@
         "audio_dir": "we  slept this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_p.jpg",
-        "card_type": "conjugation",
+        "level": "speak_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2466,9 +2466,9 @@
         "audio_dir": "we  spoke to them already"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_p.jpg",
-        "card_type": "conjugation",
+        "level": "study_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2484,9 +2484,9 @@
         "audio_dir": "we  studied yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "conjugation",
+        "level": "walk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2502,9 +2502,9 @@
         "audio_dir": "we  walked this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_p.jpg",
-        "card_type": "conjugation",
+        "level": "work_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2520,9 +2520,9 @@
         "audio_dir": "we  worked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_p.jpg",
-        "card_type": "conjugation",
+        "level": "grab_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2538,9 +2538,9 @@
         "audio_dir": "we already grabbed it"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_p.jpg",
-        "card_type": "conjugation",
+        "level": "talk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2556,9 +2556,9 @@
         "audio_dir": "we already talked to them"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_p.jpg",
-        "card_type": "conjugation",
+        "level": "throw_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2574,9 +2574,9 @@
         "audio_dir": "we already threw it"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_p.jpg",
-        "card_type": "conjugation",
+        "level": "write_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2592,9 +2592,9 @@
         "audio_dir": "we already wrote it"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_p.jpg",
-        "card_type": "conjugation",
+        "level": "read_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2610,9 +2610,9 @@
         "audio_dir": "they  read it a long time ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_p.jpg",
-        "card_type": "conjugation",
+        "level": "say_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2628,9 +2628,9 @@
         "audio_dir": "they  said it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_p.jpg",
-        "card_type": "conjugation",
+        "level": "sing_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2646,9 +2646,9 @@
         "audio_dir": "they  sang last week"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_p.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2664,9 +2664,9 @@
         "audio_dir": "they  slept this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_p.jpg",
-        "card_type": "conjugation",
+        "level": "speak_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2682,9 +2682,9 @@
         "audio_dir": "they  spoke to them already"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_p.jpg",
-        "card_type": "conjugation",
+        "level": "study_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2700,9 +2700,9 @@
         "audio_dir": "they  studied yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_p.jpg",
-        "card_type": "conjugation",
+        "level": "swim_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2718,9 +2718,9 @@
         "audio_dir": "they  swam a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "conjugation",
+        "level": "walk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2736,9 +2736,9 @@
         "audio_dir": "they  walked this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_p.jpg",
-        "card_type": "conjugation",
+        "level": "work_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2754,9 +2754,9 @@
         "audio_dir": "they  worked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_p.jpg",
-        "card_type": "conjugation",
+        "level": "drop_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2772,9 +2772,9 @@
         "audio_dir": "they already dropped it"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_p.jpg",
-        "card_type": "conjugation",
+        "level": "grab_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2790,9 +2790,9 @@
         "audio_dir": "they already grabbed it"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_p.jpg",
-        "card_type": "conjugation",
+        "level": "talk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2808,9 +2808,9 @@
         "audio_dir": "they already talked to them"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_p.jpg",
-        "card_type": "conjugation",
+        "level": "throw_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2826,9 +2826,9 @@
         "audio_dir": "they already threw it"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_p.jpg",
-        "card_type": "conjugation",
+        "level": "write_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2844,9 +2844,9 @@
         "audio_dir": "they already wrote it"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_f.jpg",
-        "card_type": "conjugation",
+        "level": "read_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2862,9 +2862,9 @@
         "audio_dir": "I  read it a long time ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_p.jpg",
-        "card_type": "conjugation",
+        "level": "carry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2880,9 +2880,9 @@
         "audio_dir": "we  carried it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_f.jpg",
-        "card_type": "conjugation",
+        "level": "read_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2898,9 +2898,9 @@
         "audio_dir": "she  read it a long time ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_m.jpg",
-        "card_type": "conjugation",
+        "level": "read_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2916,9 +2916,9 @@
         "audio_dir": "you  read it a long time ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_p.jpg",
-        "card_type": "conjugation",
+        "level": "carry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2934,9 +2934,9 @@
         "audio_dir": "they  carried it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "conjugation",
+        "level": "hold_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2952,9 +2952,9 @@
         "audio_dir": "she  held it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_m.jpg",
-        "card_type": "conjugation",
+        "level": "read_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2970,9 +2970,9 @@
         "audio_dir": "he  read it a long time ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_p.jpg",
-        "card_type": "conjugation",
+        "level": "hold_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2988,9 +2988,9 @@
         "audio_dir": "they  held it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_f.jpg",
-        "card_type": "conjugation",
+        "level": "say_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3006,9 +3006,9 @@
         "audio_dir": "you  said it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_m.jpg",
-        "card_type": "conjugation",
+        "level": "carry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3024,9 +3024,9 @@
         "audio_dir": "he  carried it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "conjugation",
+        "level": "hold_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3042,9 +3042,9 @@
         "audio_dir": "you  held it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_f.jpg",
-        "card_type": "conjugation",
+        "level": "carry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3060,9 +3060,9 @@
         "audio_dir": "she  carried it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_m.jpg",
-        "card_type": "conjugation",
+        "level": "hold_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3078,9 +3078,9 @@
         "audio_dir": "he  held it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_p.jpg",
-        "card_type": "conjugation",
+        "level": "hold_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3096,9 +3096,9 @@
         "audio_dir": "we  held it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_m.jpg",
-        "card_type": "conjugation",
+        "level": "carry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3114,9 +3114,9 @@
         "audio_dir": "you  carried it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_f.jpg",
-        "card_type": "conjugation",
+        "level": "carry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3132,9 +3132,9 @@
         "audio_dir": "I  carried it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_f.jpg",
-        "card_type": "conjugation",
+        "level": "cook_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3150,9 +3150,9 @@
         "audio_dir": "I already cooked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3168,9 +3168,9 @@
         "audio_dir": "he already cooked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3186,9 +3186,9 @@
         "audio_dir": "you already cooked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_f.jpg",
-        "card_type": "conjugation",
+        "level": "cook_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3204,9 +3204,9 @@
         "audio_dir": "she already cooked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_p.jpg",
-        "card_type": "conjugation",
+        "level": "cook_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3222,9 +3222,9 @@
         "audio_dir": "they already cooked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_p.jpg",
-        "card_type": "conjugation",
+        "level": "cook_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3240,9 +3240,9 @@
         "audio_dir": "we already cooked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_f.jpg",
-        "card_type": "conjugation",
+        "level": "say_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3258,9 +3258,9 @@
         "audio_dir": "it  said it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_m.jpg",
-        "card_type": "conjugation",
+        "level": "sing_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3276,9 +3276,9 @@
         "audio_dir": "it  sang last week"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_f.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3294,9 +3294,9 @@
         "audio_dir": "it  slept this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_m.jpg",
-        "card_type": "conjugation",
+        "level": "speak_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3312,9 +3312,9 @@
         "audio_dir": "it  spoke to them already"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_f.jpg",
-        "card_type": "conjugation",
+        "level": "study_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3330,9 +3330,9 @@
         "audio_dir": "it  studied yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_m.jpg",
-        "card_type": "conjugation",
+        "level": "swim_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3348,9 +3348,9 @@
         "audio_dir": "it  swam a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_m.jpg",
-        "card_type": "conjugation",
+        "level": "walk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3366,9 +3366,9 @@
         "audio_dir": "it  walked this morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_f.jpg",
-        "card_type": "conjugation",
+        "level": "work_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3384,9 +3384,9 @@
         "audio_dir": "it  worked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3402,9 +3402,9 @@
         "audio_dir": "it already cooked yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_f.jpg",
-        "card_type": "conjugation",
+        "level": "drop_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3420,9 +3420,9 @@
         "audio_dir": "it already dropped it"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_f.jpg",
-        "card_type": "conjugation",
+        "level": "grab_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3438,9 +3438,9 @@
         "audio_dir": "it already grabbed it"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_f.jpg",
-        "card_type": "conjugation",
+        "level": "pull_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3456,9 +3456,9 @@
         "audio_dir": "it already pulled"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "conjugation",
+        "level": "push_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3474,9 +3474,9 @@
         "audio_dir": "it already pushed"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "conjugation",
+        "level": "talk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3492,9 +3492,9 @@
         "audio_dir": "it already talked to them"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "conjugation",
+        "level": "throw_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3510,9 +3510,9 @@
         "audio_dir": "it already threw it"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_m.jpg",
-        "card_type": "conjugation",
+        "level": "write_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3528,9 +3528,9 @@
         "audio_dir": "it already wrote it"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_m.jpg",
-        "card_type": "conjugation",
+        "level": "fall_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3546,9 +3546,9 @@
         "audio_dir": "it just fell"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_f.jpg",
-        "card_type": "conjugation",
+        "level": "jump_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3564,9 +3564,9 @@
         "audio_dir": "it just jumped"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_f.jpg",
-        "card_type": "conjugation",
+        "level": "eat_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3582,9 +3582,9 @@
         "audio_dir": "it  ate earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_m.jpg",
-        "card_type": "conjugation",
+        "level": "carry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3600,9 +3600,9 @@
         "audio_dir": "it  carried it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_m.jpg",
-        "card_type": "conjugation",
+        "level": "drive_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3618,9 +3618,9 @@
         "audio_dir": "it  drove earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_m.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3636,9 +3636,9 @@
         "audio_dir": "it  laughed earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_f.jpg",
-        "card_type": "conjugation",
+        "level": "drink_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3654,9 +3654,9 @@
         "audio_dir": "it  drank earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_m.jpg",
-        "card_type": "conjugation",
+        "level": "dance_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3672,9 +3672,9 @@
         "audio_dir": "it  danced last year"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_m.jpg",
-        "card_type": "conjugation",
+        "level": "play_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3690,9 +3690,9 @@
         "audio_dir": "it  played a year ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_f.jpg",
-        "card_type": "conjugation",
+        "level": "cry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3708,9 +3708,9 @@
         "audio_dir": "it  cried earlier"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_f.jpg",
-        "card_type": "conjugation",
+        "level": "love_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3726,9 +3726,9 @@
         "audio_dir": "it  loved the previous one"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_m.jpg",
-        "card_type": "conjugation",
+        "level": "read_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3744,9 +3744,9 @@
         "audio_dir": "it  read it a long time ago"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "conjugation",
+        "level": "hold_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3762,9 +3762,9 @@
         "audio_dir": "it  held it already"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_m.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3780,9 +3780,9 @@
         "audio_dir": "I slept more when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_f.jpg",
-        "card_type": "conjugation",
+        "level": "walk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3798,9 +3798,9 @@
         "audio_dir": "I walked to school in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_f.jpg",
-        "card_type": "conjugation",
+        "level": "study_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3816,9 +3816,9 @@
         "audio_dir": "you studied less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_m.jpg",
-        "card_type": "conjugation",
+        "level": "write_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3834,9 +3834,9 @@
         "audio_dir": "you wrote during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_m.jpg",
-        "card_type": "conjugation",
+        "level": "talk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3852,9 +3852,9 @@
         "audio_dir": "he talked during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_f.jpg",
-        "card_type": "conjugation",
+        "level": "study_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3870,9 +3870,9 @@
         "audio_dir": "she studied less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_f.jpg",
-        "card_type": "conjugation",
+        "level": "write_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3888,9 +3888,9 @@
         "audio_dir": "she wrote during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_p.jpg",
-        "card_type": "conjugation",
+        "level": "swim_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3906,9 +3906,9 @@
         "audio_dir": "we swam while in school"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_p.jpg",
-        "card_type": "conjugation",
+        "level": "drop_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3924,9 +3924,9 @@
         "audio_dir": "we dropped it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_p.jpg",
-        "card_type": "conjugation",
+        "level": "say_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3942,9 +3942,9 @@
         "audio_dir": "we said more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_m.jpg",
-        "card_type": "conjugation",
+        "level": "sing_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3960,9 +3960,9 @@
         "audio_dir": "he sang during shows"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_f.jpg",
-        "card_type": "conjugation",
+        "level": "speak_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3978,9 +3978,9 @@
         "audio_dir": "I spoke less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_m.jpg",
-        "card_type": "conjugation",
+        "level": "study_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3996,9 +3996,9 @@
         "audio_dir": "I studied less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_f.jpg",
-        "card_type": "conjugation",
+        "level": "swim_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4014,9 +4014,9 @@
         "audio_dir": "I swam while in school"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_m.jpg",
-        "card_type": "conjugation",
+        "level": "talk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4032,9 +4032,9 @@
         "audio_dir": "I talked during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_m.jpg",
-        "card_type": "conjugation",
+        "level": "work_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4050,9 +4050,9 @@
         "audio_dir": "I worked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_f.jpg",
-        "card_type": "conjugation",
+        "level": "write_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4068,9 +4068,9 @@
         "audio_dir": "I wrote during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_f.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4086,9 +4086,9 @@
         "audio_dir": "you slept more when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_m.jpg",
-        "card_type": "conjugation",
+        "level": "speak_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4104,9 +4104,9 @@
         "audio_dir": "you spoke less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_m.jpg",
-        "card_type": "conjugation",
+        "level": "swim_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4122,9 +4122,9 @@
         "audio_dir": "you swam while in school"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "conjugation",
+        "level": "talk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4140,9 +4140,9 @@
         "audio_dir": "you talked during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_m.jpg",
-        "card_type": "conjugation",
+        "level": "walk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4158,9 +4158,9 @@
         "audio_dir": "you walked to school in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_f.jpg",
-        "card_type": "conjugation",
+        "level": "work_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4176,9 +4176,9 @@
         "audio_dir": "you worked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_m.jpg",
-        "card_type": "conjugation",
+        "level": "study_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4194,9 +4194,9 @@
         "audio_dir": "he studied less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_m.jpg",
-        "card_type": "conjugation",
+        "level": "swim_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4212,9 +4212,9 @@
         "audio_dir": "he swam while in school"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "conjugation",
+        "level": "throw_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4230,9 +4230,9 @@
         "audio_dir": "he threw it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_m.jpg",
-        "card_type": "conjugation",
+        "level": "walk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4248,9 +4248,9 @@
         "audio_dir": "he walked to school in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_m.jpg",
-        "card_type": "conjugation",
+        "level": "work_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4266,9 +4266,9 @@
         "audio_dir": "he worked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_m.jpg",
-        "card_type": "conjugation",
+        "level": "write_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4284,9 +4284,9 @@
         "audio_dir": "he wrote during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_f.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4302,9 +4302,9 @@
         "audio_dir": "she slept more when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_f.jpg",
-        "card_type": "conjugation",
+        "level": "speak_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4320,9 +4320,9 @@
         "audio_dir": "she spoke less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_f.jpg",
-        "card_type": "conjugation",
+        "level": "swim_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4338,9 +4338,9 @@
         "audio_dir": "she swam while in school"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "conjugation",
+        "level": "talk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4356,9 +4356,9 @@
         "audio_dir": "she talked during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_f.jpg",
-        "card_type": "conjugation",
+        "level": "walk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4374,9 +4374,9 @@
         "audio_dir": "she walked to school in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_f.jpg",
-        "card_type": "conjugation",
+        "level": "work_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4392,9 +4392,9 @@
         "audio_dir": "she worked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_p.jpg",
-        "card_type": "conjugation",
+        "level": "speak_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4410,9 +4410,9 @@
         "audio_dir": "we spoke less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_p.jpg",
-        "card_type": "conjugation",
+        "level": "study_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4428,9 +4428,9 @@
         "audio_dir": "we studied less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_p.jpg",
-        "card_type": "conjugation",
+        "level": "talk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4446,9 +4446,9 @@
         "audio_dir": "we talked during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "conjugation",
+        "level": "walk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4464,9 +4464,9 @@
         "audio_dir": "we walked to school in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_p.jpg",
-        "card_type": "conjugation",
+        "level": "work_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4482,9 +4482,9 @@
         "audio_dir": "we worked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_p.jpg",
-        "card_type": "conjugation",
+        "level": "write_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4500,9 +4500,9 @@
         "audio_dir": "we wrote during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_p.jpg",
-        "card_type": "conjugation",
+        "level": "swim_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4518,9 +4518,9 @@
         "audio_dir": "they swam while in school"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_p.jpg",
-        "card_type": "conjugation",
+        "level": "talk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4536,9 +4536,9 @@
         "audio_dir": "they talked during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "conjugation",
+        "level": "walk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4554,9 +4554,9 @@
         "audio_dir": "they walked to school in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_p.jpg",
-        "card_type": "conjugation",
+        "level": "work_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4572,9 +4572,9 @@
         "audio_dir": "they worked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_p.jpg",
-        "card_type": "conjugation",
+        "level": "write_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4590,9 +4590,9 @@
         "audio_dir": "they wrote during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_p.jpg",
-        "card_type": "conjugation",
+        "level": "sing_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4608,9 +4608,9 @@
         "audio_dir": "they sang during shows"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_m.jpg",
-        "card_type": "conjugation",
+        "level": "sing_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4626,9 +4626,9 @@
         "audio_dir": "you sang during shows"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_p.jpg",
-        "card_type": "conjugation",
+        "level": "read_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4644,9 +4644,9 @@
         "audio_dir": "we read during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_f.jpg",
-        "card_type": "conjugation",
+        "level": "grab_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4662,9 +4662,9 @@
         "audio_dir": "she grabbed it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_p.jpg",
-        "card_type": "conjugation",
+        "level": "drop_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4680,9 +4680,9 @@
         "audio_dir": "they dropped it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_m.jpg",
-        "card_type": "conjugation",
+        "level": "say_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4698,9 +4698,9 @@
         "audio_dir": "he said more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_m.jpg",
-        "card_type": "conjugation",
+        "level": "drop_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4716,9 +4716,9 @@
         "audio_dir": "he dropped it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_f.jpg",
-        "card_type": "conjugation",
+        "level": "sing_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4734,9 +4734,9 @@
         "audio_dir": "I sang during shows"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_m.jpg",
-        "card_type": "conjugation",
+        "level": "eat_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4752,9 +4752,9 @@
         "audio_dir": "I ate for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_f.jpg",
-        "card_type": "conjugation",
+        "level": "dance_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4770,9 +4770,9 @@
         "audio_dir": "she danced for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_m.jpg",
-        "card_type": "conjugation",
+        "level": "hold_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4788,9 +4788,9 @@
         "audio_dir": "I held it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_p.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4806,9 +4806,9 @@
         "audio_dir": "we slept more when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_p.jpg",
-        "card_type": "conjugation",
+        "level": "study_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4824,9 +4824,9 @@
         "audio_dir": "they studied less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_p.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4842,9 +4842,9 @@
         "audio_dir": "they slept more when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_m.jpg",
-        "card_type": "conjugation",
+        "level": "drop_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4860,9 +4860,9 @@
         "audio_dir": "I dropped it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_f.jpg",
-        "card_type": "conjugation",
+        "level": "jump_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4878,9 +4878,9 @@
         "audio_dir": "she jumped while training"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4896,9 +4896,9 @@
         "audio_dir": "we laughed during the movie"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_f.jpg",
-        "card_type": "conjugation",
+        "level": "say_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4914,9 +4914,9 @@
         "audio_dir": "she said more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_m.jpg",
-        "card_type": "conjugation",
+        "level": "speak_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4932,9 +4932,9 @@
         "audio_dir": "he spoke less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_p.jpg",
-        "card_type": "conjugation",
+        "level": "speak_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4950,9 +4950,9 @@
         "audio_dir": "they spoke less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_f.jpg",
-        "card_type": "conjugation",
+        "level": "say_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4968,9 +4968,9 @@
         "audio_dir": "you said more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_f.jpg",
-        "card_type": "conjugation",
+        "level": "cook_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -4986,9 +4986,9 @@
         "audio_dir": "I cooked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_f.jpg",
-        "card_type": "conjugation",
+        "level": "push_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5004,9 +5004,9 @@
         "audio_dir": "she pushed until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_f.jpg",
-        "card_type": "conjugation",
+        "level": "grab_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5022,9 +5022,9 @@
         "audio_dir": "you grabbed it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "conjugation",
+        "level": "push_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5040,9 +5040,9 @@
         "audio_dir": "you pushed until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_f.jpg",
-        "card_type": "conjugation",
+        "level": "play_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5058,9 +5058,9 @@
         "audio_dir": "I played when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_m.jpg",
-        "card_type": "conjugation",
+        "level": "dance_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5076,9 +5076,9 @@
         "audio_dir": "you danced for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_f.jpg",
-        "card_type": "conjugation",
+        "level": "drop_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5094,9 +5094,9 @@
         "audio_dir": "you dropped it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_m.jpg",
-        "card_type": "conjugation",
+        "level": "love_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5112,9 +5112,9 @@
         "audio_dir": "he loved in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_p.jpg",
-        "card_type": "conjugation",
+        "level": "drink_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5130,9 +5130,9 @@
         "audio_dir": "we drank all day yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_p.jpg",
-        "card_type": "conjugation",
+        "level": "sing_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5148,9 +5148,9 @@
         "audio_dir": "we sang during shows"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_m.jpg",
-        "card_type": "conjugation",
+        "level": "drive_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5166,9 +5166,9 @@
         "audio_dir": "he drove when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_f.jpg",
-        "card_type": "conjugation",
+        "level": "jump_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5184,9 +5184,9 @@
         "audio_dir": "you jumped while training"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_f.jpg",
-        "card_type": "conjugation",
+        "level": "drop_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5202,9 +5202,9 @@
         "audio_dir": "she dropped it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_m.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5220,9 +5220,9 @@
         "audio_dir": "he slept more when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_m.jpg",
-        "card_type": "conjugation",
+        "level": "say_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5238,9 +5238,9 @@
         "audio_dir": "I said more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_f.jpg",
-        "card_type": "conjugation",
+        "level": "sing_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5256,9 +5256,9 @@
         "audio_dir": "she sang during shows"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_p.jpg",
-        "card_type": "conjugation",
+        "level": "say_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5274,9 +5274,9 @@
         "audio_dir": "they said more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_m.jpg",
-        "card_type": "conjugation",
+        "level": "jump_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5292,9 +5292,9 @@
         "audio_dir": "I jumped while training"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_f.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5310,9 +5310,9 @@
         "audio_dir": "I laughed during the movie"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_m.jpg",
-        "card_type": "conjugation",
+        "level": "love_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5328,9 +5328,9 @@
         "audio_dir": "I loved in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_m.jpg",
-        "card_type": "conjugation",
+        "level": "pull_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5346,9 +5346,9 @@
         "audio_dir": "I pulled until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_f.jpg",
-        "card_type": "conjugation",
+        "level": "push_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5364,9 +5364,9 @@
         "audio_dir": "I pushed until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_f.jpg",
-        "card_type": "conjugation",
+        "level": "read_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5382,9 +5382,9 @@
         "audio_dir": "I read during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_f.jpg",
-        "card_type": "conjugation",
+        "level": "throw_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5400,9 +5400,9 @@
         "audio_dir": "I threw it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "conjugation",
+        "level": "hold_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5418,9 +5418,9 @@
         "audio_dir": "you held it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_m.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5436,9 +5436,9 @@
         "audio_dir": "you laughed during the movie"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_f.jpg",
-        "card_type": "conjugation",
+        "level": "love_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5454,9 +5454,9 @@
         "audio_dir": "you loved in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_m.jpg",
-        "card_type": "conjugation",
+        "level": "play_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5472,9 +5472,9 @@
         "audio_dir": "you played when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_f.jpg",
-        "card_type": "conjugation",
+        "level": "pull_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5490,9 +5490,9 @@
         "audio_dir": "you pulled until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_m.jpg",
-        "card_type": "conjugation",
+        "level": "read_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5508,9 +5508,9 @@
         "audio_dir": "you read during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "conjugation",
+        "level": "throw_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5526,9 +5526,9 @@
         "audio_dir": "you threw it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_m.jpg",
-        "card_type": "conjugation",
+        "level": "hold_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5544,9 +5544,9 @@
         "audio_dir": "he held it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_m.jpg",
-        "card_type": "conjugation",
+        "level": "jump_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5562,9 +5562,9 @@
         "audio_dir": "he jumped while training"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_m.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5580,9 +5580,9 @@
         "audio_dir": "he laughed during the movie"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_m.jpg",
-        "card_type": "conjugation",
+        "level": "play_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5598,9 +5598,9 @@
         "audio_dir": "he played when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_m.jpg",
-        "card_type": "conjugation",
+        "level": "pull_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5616,9 +5616,9 @@
         "audio_dir": "he pulled until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "conjugation",
+        "level": "push_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5634,9 +5634,9 @@
         "audio_dir": "he pushed until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_m.jpg",
-        "card_type": "conjugation",
+        "level": "read_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5652,9 +5652,9 @@
         "audio_dir": "he read during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "conjugation",
+        "level": "hold_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5670,9 +5670,9 @@
         "audio_dir": "she held it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_f.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5688,9 +5688,9 @@
         "audio_dir": "she laughed during the movie"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_f.jpg",
-        "card_type": "conjugation",
+        "level": "love_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5706,9 +5706,9 @@
         "audio_dir": "she loved in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_f.jpg",
-        "card_type": "conjugation",
+        "level": "play_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5724,9 +5724,9 @@
         "audio_dir": "she played when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_f.jpg",
-        "card_type": "conjugation",
+        "level": "pull_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5742,9 +5742,9 @@
         "audio_dir": "she pulled until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_f.jpg",
-        "card_type": "conjugation",
+        "level": "read_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5760,9 +5760,9 @@
         "audio_dir": "she read during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_f.jpg",
-        "card_type": "conjugation",
+        "level": "throw_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5778,9 +5778,9 @@
         "audio_dir": "she threw it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_p.jpg",
-        "card_type": "conjugation",
+        "level": "hold_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5796,9 +5796,9 @@
         "audio_dir": "we held it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_p.jpg",
-        "card_type": "conjugation",
+        "level": "jump_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5814,9 +5814,9 @@
         "audio_dir": "we jumped while training"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_p.jpg",
-        "card_type": "conjugation",
+        "level": "love_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5832,9 +5832,9 @@
         "audio_dir": "we loved in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_p.jpg",
-        "card_type": "conjugation",
+        "level": "play_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5850,9 +5850,9 @@
         "audio_dir": "we played when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_p.jpg",
-        "card_type": "conjugation",
+        "level": "pull_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5868,9 +5868,9 @@
         "audio_dir": "we pulled until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_p.jpg",
-        "card_type": "conjugation",
+        "level": "push_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5886,9 +5886,9 @@
         "audio_dir": "we pushed until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_p.jpg",
-        "card_type": "conjugation",
+        "level": "throw_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5904,9 +5904,9 @@
         "audio_dir": "we threw it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_p.jpg",
-        "card_type": "conjugation",
+        "level": "grab_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5922,9 +5922,9 @@
         "audio_dir": "they grabbed it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_p.jpg",
-        "card_type": "conjugation",
+        "level": "hold_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5940,9 +5940,9 @@
         "audio_dir": "they held it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_p.jpg",
-        "card_type": "conjugation",
+        "level": "jump_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5958,9 +5958,9 @@
         "audio_dir": "they jumped while training"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5976,9 +5976,9 @@
         "audio_dir": "they laughed during the movie"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_p.jpg",
-        "card_type": "conjugation",
+        "level": "love_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -5994,9 +5994,9 @@
         "audio_dir": "they loved in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_p.jpg",
-        "card_type": "conjugation",
+        "level": "play_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6012,9 +6012,9 @@
         "audio_dir": "they played when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_p.jpg",
-        "card_type": "conjugation",
+        "level": "pull_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6030,9 +6030,9 @@
         "audio_dir": "they pulled until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_p.jpg",
-        "card_type": "conjugation",
+        "level": "push_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6048,9 +6048,9 @@
         "audio_dir": "they pushed until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_p.jpg",
-        "card_type": "conjugation",
+        "level": "read_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6066,9 +6066,9 @@
         "audio_dir": "they read during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_p.jpg",
-        "card_type": "conjugation",
+        "level": "throw_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6084,9 +6084,9 @@
         "audio_dir": "they threw it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_p.jpg",
-        "card_type": "conjugation",
+        "level": "drive_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6102,9 +6102,9 @@
         "audio_dir": "they drove when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_m.jpg",
-        "card_type": "conjugation",
+        "level": "carry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6120,9 +6120,9 @@
         "audio_dir": "he carried it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_p.jpg",
-        "card_type": "conjugation",
+        "level": "grab_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6138,9 +6138,9 @@
         "audio_dir": "we grabbed it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_f.jpg",
-        "card_type": "conjugation",
+        "level": "fall_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6156,9 +6156,9 @@
         "audio_dir": "she fell when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_p.jpg",
-        "card_type": "conjugation",
+        "level": "carry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6174,9 +6174,9 @@
         "audio_dir": "they carried it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_f.jpg",
-        "card_type": "conjugation",
+        "level": "drink_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6192,9 +6192,9 @@
         "audio_dir": "she drank all day yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_f.jpg",
-        "card_type": "conjugation",
+        "level": "cry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6210,9 +6210,9 @@
         "audio_dir": "you cried when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_m.jpg",
-        "card_type": "conjugation",
+        "level": "grab_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6228,9 +6228,9 @@
         "audio_dir": "I grabbed it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_m.jpg",
-        "card_type": "conjugation",
+        "level": "eat_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6246,9 +6246,9 @@
         "audio_dir": "he ate for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_f.jpg",
-        "card_type": "conjugation",
+        "level": "drive_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6264,9 +6264,9 @@
         "audio_dir": "she drove when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_f.jpg",
-        "card_type": "conjugation",
+        "level": "eat_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6282,9 +6282,9 @@
         "audio_dir": "she ate for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_p.jpg",
-        "card_type": "conjugation",
+        "level": "dance_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6300,9 +6300,9 @@
         "audio_dir": "they danced for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_m.jpg",
-        "card_type": "conjugation",
+        "level": "cry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6318,9 +6318,9 @@
         "audio_dir": "I cried when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_p.jpg",
-        "card_type": "conjugation",
+        "level": "cook_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6336,9 +6336,9 @@
         "audio_dir": "they cooked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_m.jpg",
-        "card_type": "conjugation",
+        "level": "fall_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6354,9 +6354,9 @@
         "audio_dir": "he fell when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_p.jpg",
-        "card_type": "conjugation",
+        "level": "cook_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6372,9 +6372,9 @@
         "audio_dir": "we cooked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_m.jpg",
-        "card_type": "conjugation",
+        "level": "drive_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6390,9 +6390,9 @@
         "audio_dir": "you drove when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_f.jpg",
-        "card_type": "conjugation",
+        "level": "fall_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6408,9 +6408,9 @@
         "audio_dir": "I fell when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_m.jpg",
-        "card_type": "conjugation",
+        "level": "drink_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6426,9 +6426,9 @@
         "audio_dir": "I drank all day yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_f.jpg",
-        "card_type": "conjugation",
+        "level": "cry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6444,9 +6444,9 @@
         "audio_dir": "she cried when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_m.jpg",
-        "card_type": "conjugation",
+        "level": "drink_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6462,9 +6462,9 @@
         "audio_dir": "he drank all day yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_f.jpg",
-        "card_type": "conjugation",
+        "level": "drink_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6480,9 +6480,9 @@
         "audio_dir": "you drank all day yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_p.jpg",
-        "card_type": "conjugation",
+        "level": "dance_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6498,9 +6498,9 @@
         "audio_dir": "we danced for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_f.jpg",
-        "card_type": "conjugation",
+        "level": "eat_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6516,9 +6516,9 @@
         "audio_dir": "you ate for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_p.jpg",
-        "card_type": "conjugation",
+        "level": "eat_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6534,9 +6534,9 @@
         "audio_dir": "we ate for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_p.jpg",
-        "card_type": "conjugation",
+        "level": "drive_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6552,9 +6552,9 @@
         "audio_dir": "we drove when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_m.jpg",
-        "card_type": "conjugation",
+        "level": "grab_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6570,9 +6570,9 @@
         "audio_dir": "he grabbed it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_p.jpg",
-        "card_type": "conjugation",
+        "level": "fall_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6588,9 +6588,9 @@
         "audio_dir": "we fell when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_p.jpg",
-        "card_type": "conjugation",
+        "level": "carry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6606,9 +6606,9 @@
         "audio_dir": "we carried it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_p.jpg",
-        "card_type": "conjugation",
+        "level": "fall_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6624,9 +6624,9 @@
         "audio_dir": "they fell when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_f.jpg",
-        "card_type": "conjugation",
+        "level": "dance_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6642,9 +6642,9 @@
         "audio_dir": "I danced for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_f.jpg",
-        "card_type": "conjugation",
+        "level": "drive_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6660,9 +6660,9 @@
         "audio_dir": "I drove when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_p.jpg",
-        "card_type": "conjugation",
+        "level": "cry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6678,9 +6678,9 @@
         "audio_dir": "they cried when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_m.jpg",
-        "card_type": "conjugation",
+        "level": "fall_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6696,9 +6696,9 @@
         "audio_dir": "you fell when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6714,9 +6714,9 @@
         "audio_dir": "you cooked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_p.jpg",
-        "card_type": "conjugation",
+        "level": "eat_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6732,9 +6732,9 @@
         "audio_dir": "they ate for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6750,9 +6750,9 @@
         "audio_dir": "he cooked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_p.jpg",
-        "card_type": "conjugation",
+        "level": "drink_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6768,9 +6768,9 @@
         "audio_dir": "they drank all day yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_f.jpg",
-        "card_type": "conjugation",
+        "level": "carry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6786,9 +6786,9 @@
         "audio_dir": "I carried it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_m.jpg",
-        "card_type": "conjugation",
+        "level": "dance_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6804,9 +6804,9 @@
         "audio_dir": "he danced for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_p.jpg",
-        "card_type": "conjugation",
+        "level": "cry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6822,9 +6822,9 @@
         "audio_dir": "we cried when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_m.jpg",
-        "card_type": "conjugation",
+        "level": "cry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6840,9 +6840,9 @@
         "audio_dir": "he cried when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_m.jpg",
-        "card_type": "conjugation",
+        "level": "carry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6858,9 +6858,9 @@
         "audio_dir": "you carried it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_f.jpg",
-        "card_type": "conjugation",
+        "level": "carry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6876,9 +6876,9 @@
         "audio_dir": "she carried it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_f.jpg",
-        "card_type": "conjugation",
+        "level": "cook_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6894,9 +6894,9 @@
         "audio_dir": "she cooked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "jump_f.jpg",
-        "card_type": "conjugation",
+        "level": "jump_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6912,9 +6912,9 @@
         "audio_dir": "it jumped while training"
     },
     {
-        "level": 3.0,
-        "image_filename": "laugh_m.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6930,9 +6930,9 @@
         "audio_dir": "it laughed during the movie"
     },
     {
-        "level": 3.0,
-        "image_filename": "love_f.jpg",
-        "card_type": "conjugation",
+        "level": "love_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6948,9 +6948,9 @@
         "audio_dir": "it loved in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "play_m.jpg",
-        "card_type": "conjugation",
+        "level": "play_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6966,9 +6966,9 @@
         "audio_dir": "it played when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "pull_f.jpg",
-        "card_type": "conjugation",
+        "level": "pull_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -6984,9 +6984,9 @@
         "audio_dir": "it pulled until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "conjugation",
+        "level": "push_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7002,9 +7002,9 @@
         "audio_dir": "it pushed until it broke"
     },
     {
-        "level": 3.0,
-        "image_filename": "read_m.jpg",
-        "card_type": "conjugation",
+        "level": "read_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7020,9 +7020,9 @@
         "audio_dir": "it read during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "say_f.jpg",
-        "card_type": "conjugation",
+        "level": "say_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7038,9 +7038,9 @@
         "audio_dir": "it said more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_m.jpg",
-        "card_type": "conjugation",
+        "level": "sing_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7056,9 +7056,9 @@
         "audio_dir": "it sang during shows"
     },
     {
-        "level": 3.0,
-        "image_filename": "sleep_f.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7074,9 +7074,9 @@
         "audio_dir": "it slept more when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "speak_m.jpg",
-        "card_type": "conjugation",
+        "level": "speak_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7092,9 +7092,9 @@
         "audio_dir": "it spoke less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "study_f.jpg",
-        "card_type": "conjugation",
+        "level": "study_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7110,9 +7110,9 @@
         "audio_dir": "it studied less in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "swim_m.jpg",
-        "card_type": "conjugation",
+        "level": "swim_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7128,9 +7128,9 @@
         "audio_dir": "it swam while in school"
     },
     {
-        "level": 3.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "conjugation",
+        "level": "talk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7146,9 +7146,9 @@
         "audio_dir": "it talked during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "conjugation",
+        "level": "throw_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7164,9 +7164,9 @@
         "audio_dir": "it threw it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_m.jpg",
-        "card_type": "conjugation",
+        "level": "walk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7182,9 +7182,9 @@
         "audio_dir": "it walked to school in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "work_f.jpg",
-        "card_type": "conjugation",
+        "level": "work_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7200,9 +7200,9 @@
         "audio_dir": "it worked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "write_m.jpg",
-        "card_type": "conjugation",
+        "level": "write_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7218,9 +7218,9 @@
         "audio_dir": "it wrote during class"
     },
     {
-        "level": 3.0,
-        "image_filename": "drink_f.jpg",
-        "card_type": "conjugation",
+        "level": "drink_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7236,9 +7236,9 @@
         "audio_dir": "it drank all day yesterday"
     },
     {
-        "level": 3.0,
-        "image_filename": "eat_f.jpg",
-        "card_type": "conjugation",
+        "level": "eat_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7254,9 +7254,9 @@
         "audio_dir": "it ate for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "fall_m.jpg",
-        "card_type": "conjugation",
+        "level": "fall_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7272,9 +7272,9 @@
         "audio_dir": "it fell when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "drive_m.jpg",
-        "card_type": "conjugation",
+        "level": "drive_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7290,9 +7290,9 @@
         "audio_dir": "it drove when i was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "grab_f.jpg",
-        "card_type": "conjugation",
+        "level": "grab_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7308,9 +7308,9 @@
         "audio_dir": "it grabbed it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "drop_f.jpg",
-        "card_type": "conjugation",
+        "level": "drop_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7326,9 +7326,9 @@
         "audio_dir": "it dropped it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "conjugation",
+        "level": "hold_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7344,9 +7344,9 @@
         "audio_dir": "it held it all the time"
     },
     {
-        "level": 3.0,
-        "image_filename": "cry_f.jpg",
-        "card_type": "conjugation",
+        "level": "cry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7362,9 +7362,9 @@
         "audio_dir": "it cried when I was young"
     },
     {
-        "level": 3.0,
-        "image_filename": "dance_m.jpg",
-        "card_type": "conjugation",
+        "level": "dance_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7380,9 +7380,9 @@
         "audio_dir": "it danced for a while"
     },
     {
-        "level": 3.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -7398,9 +7398,9 @@
         "audio_dir": "it cooked more in the past"
     },
     {
-        "level": 3.0,
-        "image_filename": "carry_m.jpg",
-        "card_type": "conjugation",
+        "level": "carry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

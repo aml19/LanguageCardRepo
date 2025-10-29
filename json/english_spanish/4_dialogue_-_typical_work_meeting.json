@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "close.jpg",
-        "card_type": "vocab",
+        "level": "close",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "putt cerrado"
     },
     {
-        "level": 4.0,
-        "image_filename": "little.jpg",
-        "card_type": "vocab",
+        "level": "little",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "niño grande y pequeño"
     },
     {
-        "level": 4.0,
-        "image_filename": "wide_staircase.jpg",
-        "card_type": "vocab",
+        "level": "wide_staircase",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "más ancho: más amplio"
     },
     {
-        "level": 4.0,
-        "image_filename": "solid.jpg",
-        "card_type": "vocab",
+        "level": "solid",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "sólido, líquido, gas"
     },
     {
-        "level": 4.0,
-        "image_filename": "other.jpg",
-        "card_type": "vocab",
+        "level": "other",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "barco al otro lado del río"
     },
     {
-        "level": 4.0,
-        "image_filename": "should.jpg",
-        "card_type": "reading",
+        "level": "should",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "¿debería ir a la izquierda o a la derecha?"
     },
     {
-        "level": 4.0,
-        "image_filename": "far.jpg",
-        "card_type": "vocab",
+        "level": "far",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "más lejos"
     },
     {
-        "level": 4.0,
-        "image_filename": "Boss.jpg",
-        "card_type": "vocab",
+        "level": "boss",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "El jefe: Supervisor o gerente."
     },
     {
-        "level": 4.0,
-        "image_filename": "Employee.jpg",
-        "card_type": "vocab",
+        "level": "employee",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "El empleado: Trabajador o miembro del personal."
     },
     {
-        "level": 4.0,
-        "image_filename": "track.jpg",
-        "card_type": "vocab",
+        "level": "track",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "La vía del ferrocarril"
     },
     {
-        "level": 4.0,
-        "image_filename": "end.jpg",
-        "card_type": "vocab",
+        "level": "end",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "El fin del camino"
     },
     {
-        "level": 4.0,
-        "image_filename": "quarter.jpg",
-        "card_type": "vocab",
+        "level": "quarter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Un cuarto de hora"
     },
     {
-        "level": 4.0,
-        "image_filename": "strategy.jpg",
-        "card_type": "vocab",
+        "level": "strategy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "El ajedrez: un juego que utiliza estrategia"
     },
     {
-        "level": 4.0,
-        "image_filename": "sale.jpg",
-        "card_type": "vocab",
+        "level": "sale",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "La venta de tomates"
     },
     {
-        "level": 4.0,
-        "image_filename": "idea.jpg",
-        "card_type": "vocab",
+        "level": "idea",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Una idea"
     },
     {
-        "level": 4.0,
-        "image_filename": "effort.jpg",
-        "card_type": "vocab",
+        "level": "effort",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "El esfuerzo: aplicación de energía hacia un objetivo"
     },
     {
-        "level": 4.0,
-        "image_filename": "marketing.jpg",
-        "card_type": "vocab",
+        "level": "marketing",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "El marketing en redes sociales"
     },
     {
-        "level": 4.0,
-        "image_filename": "advertising.jpg",
-        "card_type": "vocab",
+        "level": "advertising",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "La publicidad: mensajes promocionales"
     },
     {
-        "level": 4.0,
-        "image_filename": "influencer.jpg",
-        "card_type": "vocab",
+        "level": "influencer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Un influenciador"
     },
     {
-        "level": 4.0,
-        "image_filename": "audience.jpg",
-        "card_type": "vocab",
+        "level": "audience",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "La audiencia"
     },
     {
-        "level": 4.0,
-        "image_filename": "meeting.jpg",
-        "card_type": "vocab",
+        "level": "meeting",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Una reunión de negocios"
     },
     {
-        "level": 4.0,
-        "image_filename": "discussion.jpg",
-        "card_type": "vocab",
+        "level": "discussion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Una discusión"
     },
     {
-        "level": 4.0,
-        "image_filename": "session.jpg",
-        "card_type": "reading",
+        "level": "session",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Una sesión es un período de tiempo dedicado a una actividad, discusión o evento en particular."
     },
     {
-        "level": 4.0,
-        "image_filename": "plan.jpg",
-        "card_type": "vocab",
+        "level": "plan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Plan"
     },
     {
-        "level": 4.0,
-        "image_filename": "start.jpg",
-        "card_type": "vocab",
+        "level": "start",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "comenzar de carrera"
     },
     {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
+        "level": "go_with_her",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "ir con ella"
     },
     {
-        "level": 4.0,
-        "image_filename": "meeting.jpg",
-        "card_type": "vocab",
+        "level": "meeting",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "reunirse por negocios"
     },
     {
-        "level": 4.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "vocab",
+        "level": "push_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "empujar"
     },
     {
-        "level": 4.0,
-        "image_filename": "brainstorm.jpg",
-        "card_type": "vocab",
+        "level": "brainstorm",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "tormenta de ideas: proceso creativo de generar ideas"
     },
     {
-        "level": 4.0,
-        "image_filename": "boost.jpg",
-        "card_type": "vocab",
+        "level": "boost",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "impulso"
     },
     {
-        "level": 4.0,
-        "image_filename": "expand.jpg",
-        "card_type": "vocab",
+        "level": "expand",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "expandir"
     },
     {
-        "level": 4.0,
-        "image_filename": "invest.jpg",
-        "card_type": "vocab",
+        "level": "invest",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "invertir"
     },
     {
-        "level": 4.0,
-        "image_filename": "collaborate.jpg",
-        "card_type": "vocab",
+        "level": "collaborate",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "colaborar: trabajar juntos, cooperar"
     },
     {
-        "level": 4.0,
-        "image_filename": "reach.jpg",
-        "card_type": "vocab",
+        "level": "reach",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "alcanzar la luna"
     },
     {
-        "level": 4.0,
-        "image_filename": "hear.jpg",
-        "card_type": "vocab",
+        "level": "hear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "oír"
     },
     {
-        "level": 4.0,
-        "image_filename": "explore.jpg",
-        "card_type": "vocab",
+        "level": "explore",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "explorar un nuevo mundo"
     },
     {
-        "level": 4.0,
-        "image_filename": "continue.jpg",
-        "card_type": "vocab",
+        "level": "continue",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "fin del juego, ¿te gustaría continuar?"
     },
     {
-        "level": 4.0,
-        "image_filename": "discussion.jpg",
-        "card_type": "vocab",
+        "level": "discussion",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "discutir"
     },
     {
-        "level": 4.0,
-        "image_filename": "brainstorm.jpg",
-        "card_type": "vocab",
+        "level": "brainstorm",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

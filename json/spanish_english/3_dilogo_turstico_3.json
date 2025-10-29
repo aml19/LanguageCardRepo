@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "app.jpg",
-        "card_type": "vocab",
+        "level": "app",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "app"
     },
     {
-        "level": 3.0,
-        "image_filename": "road_trip.jpg",
-        "card_type": "vocab",
+        "level": "road_trip",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Trip"
     },
     {
-        "level": 3.0,
-        "image_filename": "buy.jpg",
-        "card_type": "vocab",
+        "level": "buy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Buy"
     },
     {
-        "level": 3.0,
-        "image_filename": "give_gift_f.jpg",
-        "card_type": "vocab",
+        "level": "give_gift_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "give a gift"
     },
     {
-        "level": 3.0,
-        "image_filename": "use_a_tool_m.jpg",
-        "card_type": "vocab",
+        "level": "use_a_tool_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "use a tool"
     },
     {
-        "level": 3.0,
-        "image_filename": "tap.jpg",
-        "card_type": "vocab",
+        "level": "tap",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "touch - tap"
     },
     {
-        "level": 3.0,
-        "image_filename": "weekly.jpg",
-        "card_type": "vocab",
+        "level": "weekly",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "weekly"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "unlimited: that cannot be entirely consumed or used up"
     },
     {
-        "level": 3.0,
-        "image_filename": "great.jpg",
-        "card_type": "vocab",
+        "level": "great",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "award great achievement"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "All: All the tickets are sold out."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Any: Do you have any questions?"
     },
     {
-        "level": 3.0,
-        "image_filename": "imperfect.jpg",
-        "card_type": "vocab",
+        "level": "imperfect",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "not a perfect circle"
     },
     {
-        "level": 3.0,
-        "image_filename": "Sure.jpg",
-        "card_type": "vocab",
+        "level": "sure",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

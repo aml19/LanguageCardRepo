@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Junge"
     },
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "junger Mann"
     },
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Bursche"
     },
     {
-        "level": 2.0,
-        "image_filename": "boy.jpg",
-        "card_type": "vocab",
+        "level": "boy",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Knabe"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "vocab",
+        "level": "girl",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Mädchen"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "vocab",
+        "level": "girl",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Mädel"
     },
     {
-        "level": 2.0,
-        "image_filename": "girl.jpg",
-        "card_type": "vocab",
+        "level": "girl",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Frauenschön"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Mann"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Herr"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Kerl"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Typ"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Individuum"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Bursche"
     },
     {
-        "level": 2.0,
-        "image_filename": "man.jpg",
-        "card_type": "vocab",
+        "level": "man",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Ehemann"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Frau"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Dame"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Fräulein"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "junge Frau"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Ehefrau"
     },
     {
-        "level": 2.0,
-        "image_filename": "woman.jpg",
-        "card_type": "vocab",
+        "level": "woman",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Weib"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Kinder"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Kleinkinder"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Babys"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Kleine"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Minis"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Wonneproppen"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Sprösslinge"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Bambini"
     },
     {
-        "level": 2.0,
-        "image_filename": "baby.jpg",
-        "card_type": "vocab",
+        "level": "baby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Knirpse"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Alter Mann"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Alte Frau"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Seniorenherr"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Seniorin"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Opa"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Oma"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Greis"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Greisin"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Altersgenosse/Altersgenossin"
     },
     {
-        "level": 2.0,
-        "image_filename": "old_couple.jpg",
-        "card_type": "vocab",
+        "level": "old_couple",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

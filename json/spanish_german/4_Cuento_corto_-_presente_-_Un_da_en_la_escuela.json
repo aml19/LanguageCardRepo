@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "shoulder.jpg",
-        "card_type": "vocab",
+        "level": "shoulder",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "Schulter"
     },
     {
-        "level": 4.0,
-        "image_filename": "white_clouds.jpg",
-        "card_type": "vocab",
+        "level": "white_clouds",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "weiße Wolken"
     },
     {
-        "level": 4.0,
-        "image_filename": "ring.jpg",
-        "card_type": "vocab",
+        "level": "ring",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Ring"
     },
     {
-        "level": 4.0,
-        "image_filename": "sun.jpg",
-        "card_type": "vocab",
+        "level": "sun",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Sonne"
     },
     {
-        "level": 4.0,
-        "image_filename": "animals.jpg",
-        "card_type": "vocab",
+        "level": "animals",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Das Tier"
     },
     {
-        "level": 4.0,
-        "image_filename": "doctor.jpg",
-        "card_type": "vocab",
+        "level": "doctor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "Der Arzt"
     },
     {
-        "level": 4.0,
-        "image_filename": "hurry.jpg",
-        "card_type": "vocab",
+        "level": "hurry",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Die Eile"
     },
     {
-        "level": 4.0,
-        "image_filename": "note.jpg",
-        "card_type": "vocab",
+        "level": "note",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "Die Notiz"
     },
     {
-        "level": 4.0,
-        "image_filename": "school.jpg",
-        "card_type": "vocab",
+        "level": "school",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Die Schule"
     },
     {
-        "level": 4.0,
-        "image_filename": "backpack.jpg",
-        "card_type": "vocab",
+        "level": "backpack",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Der Rucksack"
     },
     {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
+        "level": "friend",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Der Freund"
     },
     {
-        "level": 4.0,
-        "image_filename": "entrance.jpg",
-        "card_type": "vocab",
+        "level": "entrance",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Der Eingang"
     },
     {
-        "level": 4.0,
-        "image_filename": "bell.jpg",
-        "card_type": "vocab",
+        "level": "bell",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "Die Glocke"
     },
     {
-        "level": 4.0,
-        "image_filename": "classroom.jpg",
-        "card_type": "vocab",
+        "level": "classroom",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "Das Klassenzimmer"
     },
     {
-        "level": 4.0,
-        "image_filename": "teacher.jpg",
-        "card_type": "vocab",
+        "level": "teacher",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "Der Lehrer"
     },
     {
-        "level": 4.0,
-        "image_filename": "whiteboard.jpg",
-        "card_type": "vocab",
+        "level": "whiteboard",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Das Whiteboard"
     },
     {
-        "level": 4.0,
-        "image_filename": "notebook.jpg",
-        "card_type": "vocab",
+        "level": "notebook",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Das Notizbuch"
     },
     {
-        "level": 4.0,
-        "image_filename": "lesson.jpg",
-        "card_type": "vocab",
+        "level": "lesson",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "Eine Lektion unterrichten"
     },
     {
-        "level": 4.0,
-        "image_filename": "pet.jpg",
-        "card_type": "vocab",
+        "level": "pet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Der Hund ist ihr Haustier"
     },
     {
-        "level": 4.0,
-        "image_filename": "recess.jpg",
-        "card_type": "vocab",
+        "level": "recess",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "Die Pause"
     },
     {
-        "level": 4.0,
-        "image_filename": "swing.jpg",
-        "card_type": "vocab",
+        "level": "swing",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "Die Schaukel"
     },
     {
-        "level": 4.0,
-        "image_filename": "snack.jpg",
-        "card_type": "vocab",
+        "level": "snack",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "Der Snack"
     },
     {
-        "level": 4.0,
-        "image_filename": "afternoon.jpg",
-        "card_type": "vocab",
+        "level": "afternoon",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "Welche Tageszeit ist es? Der Nachmittag"
     },
     {
-        "level": 4.0,
-        "image_filename": "math.jpg",
-        "card_type": "vocab",
+        "level": "math",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "Die Mathematik"
     },
     {
-        "level": 4.0,
-        "image_filename": "problem.jpg",
-        "card_type": "vocab",
+        "level": "problem",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "Das Versuchen, ein Problem zu lösen"
     },
     {
-        "level": 4.0,
-        "image_filename": "chalkboard.jpg",
-        "card_type": "vocab",
+        "level": "chalkboard",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "Die Tafel"
     },
     {
-        "level": 4.0,
-        "image_filename": "classmate.jpg",
-        "card_type": "vocab",
+        "level": "classmate",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "Sie sind in derselben Klasse. Sie sind Klassenkameraden."
     },
     {
-        "level": 4.0,
-        "image_filename": "cheer.jpg",
-        "card_type": "vocab",
+        "level": "cheer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "Eine Anfeuerung machen"
     },
     {
-        "level": 4.0,
-        "image_filename": "home.jpg",
-        "card_type": "vocab",
+        "level": "home",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "Nicht nur ein Haus, sondern ein Zuhause"
     },
     {
-        "level": 4.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
+        "level": "day",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "Tag"
     },
     {
-        "level": 4.0,
-        "image_filename": "dream.jpg",
-        "card_type": "vocab",
+        "level": "dream",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "Traum"
     },
     {
-        "level": 4.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "vocab",
+        "level": "laugh_p",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "Lachen"
     },
     {
-        "level": 4.0,
-        "image_filename": "listen_f.jpg",
-        "card_type": "vocab",
+        "level": "listen_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "Zuhören"
     },
     {
-        "level": 4.0,
-        "image_filename": "park_car.jpg",
-        "card_type": "vocab",
+        "level": "park_car",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "Park"
     },
     {
-        "level": 4.0,
-        "image_filename": "plan.jpg",
-        "card_type": "vocab",
+        "level": "plan",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "Plan"
     },
     {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
+        "level": "play_piano_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "Klavier spielen"
     },
     {
-        "level": 4.0,
-        "image_filename": "See.jpg",
-        "card_type": "vocab",
+        "level": "see",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "Sehen"
     },
     {
-        "level": 4.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
+        "level": "take_treat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "eine Leckerei nehmen"
     },
     {
-        "level": 4.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "vocab",
+        "level": "talk_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "reden"
     },
     {
-        "level": 4.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "vocab",
+        "level": "walk_p",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": "gehen"
     },
     {
-        "level": 4.0,
-        "image_filename": "want_dog_food.jpg",
-        "card_type": "vocab",
+        "level": "want_dog_food",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": "wollen"
     },
     {
-        "level": 4.0,
-        "image_filename": "write_f.jpg",
-        "card_type": "vocab",
+        "level": "write_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -756,9 +756,9 @@
         "audio_dir": "schreiben"
     },
     {
-        "level": 4.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
+        "level": "take_treat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -774,9 +774,9 @@
         "audio_dir": "eine Leckerei nehmen"
     },
     {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
+        "level": "play_piano_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -792,9 +792,9 @@
         "audio_dir": "Klavier spielen"
     },
     {
-        "level": 4.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
+        "level": "feel_water",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -810,9 +810,9 @@
         "audio_dir": "das Wasser fühlen"
     },
     {
-        "level": 4.0,
-        "image_filename": "walk.jpg",
-        "card_type": "vocab",
+        "level": "walk",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -828,9 +828,9 @@
         "audio_dir": "gehen"
     },
     {
-        "level": 4.0,
-        "image_filename": "sling.jpg",
-        "card_type": "vocab",
+        "level": "sling",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -846,9 +846,9 @@
         "audio_dir": "einen Rucksack über deine Schulter werfen"
     },
     {
-        "level": 4.0,
-        "image_filename": "smile.jpg",
-        "card_type": "vocab",
+        "level": "smile",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -864,9 +864,9 @@
         "audio_dir": "lächeln"
     },
     {
-        "level": 4.0,
-        "image_filename": "chat.jpg",
-        "card_type": "vocab",
+        "level": "chat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -882,9 +882,9 @@
         "audio_dir": "online sprechen: chatten"
     },
     {
-        "level": 4.0,
-        "image_filename": "ring.jpg",
-        "card_type": "vocab",
+        "level": "ring",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -900,9 +900,9 @@
         "audio_dir": "die Glocke läuten"
     },
     {
-        "level": 4.0,
-        "image_filename": "hurry.jpg",
-        "card_type": "vocab",
+        "level": "hurry",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -918,9 +918,9 @@
         "audio_dir": "er muss sich beeilen"
     },
     {
-        "level": 4.0,
-        "image_filename": "write.jpg",
-        "card_type": "vocab",
+        "level": "write",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -936,9 +936,9 @@
         "audio_dir": "schreiben"
     },
     {
-        "level": 4.0,
-        "image_filename": "note.jpg",
-        "card_type": "vocab",
+        "level": "note",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -954,9 +954,9 @@
         "audio_dir": "Notiz: Aufzeichnung von Fakten, Themen oder Gedanken"
     },
     {
-        "level": 4.0,
-        "image_filename": "laugh.jpg",
-        "card_type": "vocab",
+        "level": "laugh",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -972,9 +972,9 @@
         "audio_dir": "lachen"
     },
     {
-        "level": 4.0,
-        "image_filename": "share.jpg",
-        "card_type": "vocab",
+        "level": "share",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -990,9 +990,9 @@
         "audio_dir": "Informationen teilen"
     },
     {
-        "level": 4.0,
-        "image_filename": "grow.jpg",
-        "card_type": "vocab",
+        "level": "grow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1008,9 +1008,9 @@
         "audio_dir": "eine kleine Pflanze wird wachsen"
     },
     {
-        "level": 4.0,
-        "image_filename": "dream.jpg",
-        "card_type": "vocab",
+        "level": "dream",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1026,9 +1026,9 @@
         "audio_dir": "träume während des Schlafens"
     },
     {
-        "level": 4.0,
-        "image_filename": "become.jpg",
-        "card_type": "vocab",
+        "level": "become",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1044,9 +1044,9 @@
         "audio_dir": "eine kleine Pflanze wird wachsen und zu einem Baum werden"
     },
     {
-        "level": 4.0,
-        "image_filename": "solve.jpg",
-        "card_type": "vocab",
+        "level": "solve",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1062,9 +1062,9 @@
         "audio_dir": "ein Problem lösen"
     },
     {
-        "level": 4.0,
-        "image_filename": "cheer.jpg",
-        "card_type": "vocab",
+        "level": "cheer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1080,9 +1080,9 @@
         "audio_dir": "jubeln"
     },
     {
-        "level": 4.0,
-        "image_filename": "praise.jpg",
-        "card_type": "vocab",
+        "level": "praise",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1098,9 +1098,9 @@
         "audio_dir": "Lob: Bewunderung ausdrücken"
     },
     {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
+        "level": "make",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1116,9 +1116,9 @@
         "audio_dir": "machen"
     },
     {
-        "level": 4.0,
-        "image_filename": "look forward.jpg",
-        "card_type": "vocab",
+        "level": "look forward",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

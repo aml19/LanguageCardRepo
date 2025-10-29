@@ -1,8 +1,8 @@
 [
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "incroyable signifie difficile à croire ou extraordinaire -"
     },
     {
-        "level": 5.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "crucial signifie extrêmement important ou essentiel -"
     },
     {
-        "level": 5.0,
-        "image_filename": "aspiring.jpg",
-        "card_type": "vocab",
+        "level": "aspiring",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "aspirant se réfère à avoir un fort désir ou une ambition d'atteindre quelque chose -"
     },
     {
-        "level": 5.0,
-        "image_filename": "award_2.jpg",
-        "card_type": "vocab",
+        "level": "award_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Une récompense pour bien faire"
     },
     {
-        "level": 5.0,
-        "image_filename": "journey_2.jpg",
-        "card_type": "vocab",
+        "level": "journey_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Un voyage : déplacement, voyager d'un point A à un point B"
     },
     {
-        "level": 5.0,
-        "image_filename": "team_2.jpg",
-        "card_type": "vocab",
+        "level": "team_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "Une équipe d'affaires"
     },
     {
-        "level": 5.0,
-        "image_filename": "vision_2.jpg",
-        "card_type": "vocab",
+        "level": "vision_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Une vision : la capacité de voir loin"
     },
     {
-        "level": 5.0,
-        "image_filename": "success_2.jpg",
-        "card_type": "vocab",
+        "level": "success_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "Le travail a été un succès"
     },
     {
-        "level": 5.0,
-        "image_filename": "challenge_2.jpg",
-        "card_type": "vocab",
+        "level": "challenge_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Atteindre le sommet est un défi"
     },
     {
-        "level": 5.0,
-        "image_filename": "mentor_2.jpg",
-        "card_type": "vocab",
+        "level": "mentor_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Un mentor : un guide qui offre des conseils et du soutien"
     },
     {
-        "level": 5.0,
-        "image_filename": "lesson_2.jpg",
-        "card_type": "reading",
+        "level": "lesson_2",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Une leçon en ligne pour apprendre les mathématiques"
     },
     {
-        "level": 5.0,
-        "image_filename": "audience_2.jpg",
-        "card_type": "vocab",
+        "level": "audience_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Un public lors d'un concert"
     },
     {
-        "level": 5.0,
-        "image_filename": "milestone_2.jpg",
-        "card_type": "vocab",
+        "level": "milestone_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "Un jalon"
     },
     {
-        "level": 5.0,
-        "image_filename": "piece_2.jpg",
-        "card_type": "vocab",
+        "level": "piece_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "Un morceau de gâteau"
     },
     {
-        "level": 5.0,
-        "image_filename": "mentor_2.jpg",
-        "card_type": "vocab",
+        "level": "mentor_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "Les mentors donnent des conseils"
     },
     {
-        "level": 5.0,
-        "image_filename": "individual_2.jpg",
-        "card_type": "vocab",
+        "level": "individual_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Chaque fleur individuelle est différente"
     },
     {
-        "level": 5.0,
-        "image_filename": "obstacles_2.jpg",
-        "card_type": "vocab",
+        "level": "obstacles_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Le chemin a de nombreux obstacles sur son passage"
     },
     {
-        "level": 5.0,
-        "image_filename": "honor_2.jpg",
-        "card_type": "vocab",
+        "level": "honor_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "rendre hommage à la drapeau"
     },
     {
-        "level": 5.0,
-        "image_filename": "expect_v.jpg",
-        "card_type": "vocab",
+        "level": "expect_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "attendre une fleur -"
     },
     {
-        "level": 5.0,
-        "image_filename": "lead_v.jpg",
-        "card_type": "vocab",
+        "level": "lead_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "diriger un groupe -"
     },
     {
-        "level": 5.0,
-        "image_filename": "work_v.jpg",
-        "card_type": "vocab",
+        "level": "work_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "travail dans la construction -"
     },
     {
-        "level": 5.0,
-        "image_filename": "support_v.jpg",
-        "card_type": "vocab",
+        "level": "support_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "soutien : empêcher de tomber -"
     },
     {
-        "level": 5.0,
-        "image_filename": "struggle_v.jpg",
-        "card_type": "reading",
+        "level": "struggle_v",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "la lutte est un effort difficile pour surmonter un défi -"
     },
     {
-        "level": 5.0,
-        "image_filename": "mentor_2.jpg",
-        "card_type": "vocab",
+        "level": "mentor_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "un mentor guide son mentoré -"
     },
     {
-        "level": 5.0,
-        "image_filename": "miss_v.jpg",
-        "card_type": "vocab",
+        "level": "miss_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "rater la cible -"
     },
     {
-        "level": 5.0,
-        "image_filename": "reach_v.jpg",
-        "card_type": "vocab",
+        "level": "reach_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "tendre la main vers la lune -"
     },
     {
-        "level": 5.0,
-        "image_filename": "face_v.jpg",
-        "card_type": "vocab",
+        "level": "face_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "faire face à un adversaire signifie le confronter ou le rencontrer directement - faire"
     },
     {
-        "level": 5.0,
-        "image_filename": "doubt_v.jpg",
-        "card_type": "vocab",
+        "level": "doubt_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "le doute est un sentiment d'incertitude -"
     },
     {
-        "level": 5.0,
-        "image_filename": "payoff_v.jpg",
-        "card_type": "vocab",
+        "level": "payoff_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "rembourser signifie générer un résultat ou une récompense bénéfique d'un investissement -"
     },
     {
-        "level": 5.0,
-        "image_filename": "share_v.jpg",
-        "card_type": "vocab",
+        "level": "share_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "partager -"
     },
     {
-        "level": 5.0,
-        "image_filename": "continue_v.jpg",
-        "card_type": "vocab",
+        "level": "continue_v",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "continuer tout droit -"
     },
     {
-        "level": 5.0,
-        "image_filename": "award_2.jpg",
-        "card_type": "vocab",
+        "level": "award_2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

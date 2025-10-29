@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "profession - action"
     },
     {
-        "level": 4.0,
-        "image_filename": "software developer.jpg",
-        "card_type": "vocab",
+        "level": "software developer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Développeur de logiciels - Code"
     },
     {
-        "level": 4.0,
-        "image_filename": "accountant.jpg",
-        "card_type": "vocab",
+        "level": "accountant",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Comptable - Compte"
     },
     {
-        "level": 4.0,
-        "image_filename": "lawyer.jpg",
-        "card_type": "vocab",
+        "level": "lawyer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Avocat - Plaide"
     },
     {
-        "level": 4.0,
-        "image_filename": "police.jpg",
-        "card_type": "vocab",
+        "level": "police",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Policier - Fait respecter la loi"
     },
     {
-        "level": 4.0,
-        "image_filename": "firefighter.jpg",
-        "card_type": "vocab",
+        "level": "firefighter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "Pompier - Éteint les incendies"
     },
     {
-        "level": 4.0,
-        "image_filename": "chef.jpg",
-        "card_type": "vocab",
+        "level": "chef",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Chef cuisinier - Cuisiner"
     },
     {
-        "level": 4.0,
-        "image_filename": "electrician.jpg",
-        "card_type": "vocab",
+        "level": "electrician",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "Électricien - Installe des fils électriques"
     },
     {
-        "level": 4.0,
-        "image_filename": "carpenter.jpg",
-        "card_type": "vocab",
+        "level": "carpenter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Menuisier - Construit"
     },
     {
-        "level": 4.0,
-        "image_filename": "plumber.jpg",
-        "card_type": "vocab",
+        "level": "plumber",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Plombier - Répare"
     },
     {
-        "level": 4.0,
-        "image_filename": "mechanic.jpg",
-        "card_type": "vocab",
+        "level": "mechanic",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Mécanicien - Répare"
     },
     {
-        "level": 4.0,
-        "image_filename": "architect.jpg",
-        "card_type": "vocab",
+        "level": "architect",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Architecte - Conçoit"
     },
     {
-        "level": 4.0,
-        "image_filename": "marketer.jpg",
-        "card_type": "vocab",
+        "level": "marketer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "Commercial - Fait la promotion"
     },
     {
-        "level": 4.0,
-        "image_filename": "salesperson.jpg",
-        "card_type": "vocab",
+        "level": "salesperson",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "Vendeur - Vend"
     },
     {
-        "level": 4.0,
-        "image_filename": "writer.jpg",
-        "card_type": "vocab",
+        "level": "writer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "Écrivain - Écrit"
     },
     {
-        "level": 4.0,
-        "image_filename": "psychologist.jpg",
-        "card_type": "vocab",
+        "level": "psychologist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Psychologue - Conseille"
     },
     {
-        "level": 4.0,
-        "image_filename": "pharmacist.jpg",
-        "card_type": "vocab",
+        "level": "pharmacist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Pharmacien - Distribue"
     },
     {
-        "level": 4.0,
-        "image_filename": "dentist.jpg",
-        "card_type": "vocab",
+        "level": "dentist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "Dentiste - Soigne"
     },
     {
-        "level": 4.0,
-        "image_filename": "pilot.jpg",
-        "card_type": "vocab",
+        "level": "pilot",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Pilote - Pilote"
     },
     {
-        "level": 4.0,
-        "image_filename": "actor.jpg",
-        "card_type": "vocab",
+        "level": "actor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "Acteur - Joue"
     },
     {
-        "level": 4.0,
-        "image_filename": "musician.jpg",
-        "card_type": "vocab",
+        "level": "musician",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "Musicien - Joue de la musique"
     },
     {
-        "level": 4.0,
-        "image_filename": "artist.jpg",
-        "card_type": "vocab",
+        "level": "artist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "Artiste - Crée"
     },
     {
-        "level": 4.0,
-        "image_filename": "athlete.jpg",
-        "card_type": "vocab",
+        "level": "athlete",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "Athlète - S'entraîne"
     },
     {
-        "level": 4.0,
-        "image_filename": "journalist.jpg",
-        "card_type": "vocab",
+        "level": "journalist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "Journaliste - Rapporte"
     },
     {
-        "level": 4.0,
-        "image_filename": "photographer.jpg",
-        "card_type": "vocab",
+        "level": "photographer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "Photographe - Photographie"
     },
     {
-        "level": 4.0,
-        "image_filename": "scientist.jpg",
-        "card_type": "vocab",
+        "level": "scientist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "Scientifique - Fait de la recherche"
     },
     {
-        "level": 4.0,
-        "image_filename": "soldier.jpg",
-        "card_type": "vocab",
+        "level": "soldier",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "Soldat - Sert"
     },
     {
-        "level": 4.0,
-        "image_filename": "politician.jpg",
-        "card_type": "vocab",
+        "level": "politician",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "Politicien - Gouverne"
     },
     {
-        "level": 4.0,
-        "image_filename": "activist.jpg",
-        "card_type": "vocab",
+        "level": "activist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "Activiste - Milite"
     },
     {
-        "level": 4.0,
-        "image_filename": "astronaut.jpg",
-        "card_type": "vocab",
+        "level": "astronaut",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "Astronaute - Explore l'espace"
     },
     {
-        "level": 4.0,
-        "image_filename": "sailor.jpg",
-        "card_type": "vocab",
+        "level": "sailor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "Marin - Navigue"
     },
     {
-        "level": 4.0,
-        "image_filename": "farmer.jpg",
-        "card_type": "vocab",
+        "level": "farmer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "Agriculteur - Cultive"
     },
     {
-        "level": 4.0,
-        "image_filename": "truckdriver.jpg",
-        "card_type": "vocab",
+        "level": "truckdriver",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "Chauffeur routier - Conduit"
     },
     {
-        "level": 4.0,
-        "image_filename": "waiter.jpg",
-        "card_type": "vocab",
+        "level": "waiter",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "Serveur - Sert"
     },
     {
-        "level": 4.0,
-        "image_filename": "baker.jpg",
-        "card_type": "vocab",
+        "level": "baker",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "Boulanger - Cuit"
     },
     {
-        "level": 4.0,
-        "image_filename": "butcher.jpg",
-        "card_type": "vocab",
+        "level": "butcher",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "Boucher - Coupe"
     },
     {
-        "level": 4.0,
-        "image_filename": "teacher.jpg",
-        "card_type": "vocab",
+        "level": "teacher",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "Enseignant - Enseigne"
     },
     {
-        "level": 4.0,
-        "image_filename": "nurse.jpg",
-        "card_type": "vocab",
+        "level": "nurse",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "Infirmier - Soigne"
     },
     {
-        "level": 4.0,
-        "image_filename": "doctor.jpg",
-        "card_type": "vocab",
+        "level": "doctor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "Médecin - Soigne"
     },
     {
-        "level": 4.0,
-        "image_filename": "engineer.jpg",
-        "card_type": "vocab",
+        "level": "engineer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

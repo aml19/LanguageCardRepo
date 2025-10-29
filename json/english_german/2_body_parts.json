@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "skin.jpg",
-        "card_type": "vocab",
+        "level": "skin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Die Haut"
     },
     {
-        "level": 2.0,
-        "image_filename": "stomach.jpg",
-        "card_type": "vocab",
+        "level": "stomach",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Der Magen"
     },
     {
-        "level": 2.0,
-        "image_filename": "teeth.jpg",
-        "card_type": "vocab",
+        "level": "teeth",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Die Zähne"
     },
     {
-        "level": 2.0,
-        "image_filename": "toes.jpg",
-        "card_type": "vocab",
+        "level": "toes",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Die Zehen"
     },
     {
-        "level": 2.0,
-        "image_filename": "tongue.jpg",
-        "card_type": "vocab",
+        "level": "tongue",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Die Zunge"
     },
     {
-        "level": 2.0,
-        "image_filename": "arm.jpg",
-        "card_type": "vocab",
+        "level": "arm",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Der Arm"
     },
     {
-        "level": 2.0,
-        "image_filename": "back.jpg",
-        "card_type": "vocab",
+        "level": "back",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Der Rücken"
     },
     {
-        "level": 2.0,
-        "image_filename": "beard.jpg",
-        "card_type": "vocab",
+        "level": "beard",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Der Bart"
     },
     {
-        "level": 2.0,
-        "image_filename": "butt.jpg",
-        "card_type": "vocab",
+        "level": "butt",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Das Gesäß"
     },
     {
-        "level": 2.0,
-        "image_filename": "chest.jpg",
-        "card_type": "vocab",
+        "level": "chest",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Die Brust"
     },
     {
-        "level": 2.0,
-        "image_filename": "ear.jpg",
-        "card_type": "vocab",
+        "level": "ear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Das Ohr"
     },
     {
-        "level": 2.0,
-        "image_filename": "eye.jpg",
-        "card_type": "vocab",
+        "level": "eye",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Das Auge"
     },
     {
-        "level": 2.0,
-        "image_filename": "face.jpg",
-        "card_type": "vocab",
+        "level": "face",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Das Gesicht"
     },
     {
-        "level": 2.0,
-        "image_filename": "feet.jpg",
-        "card_type": "vocab",
+        "level": "feet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Die Füße"
     },
     {
-        "level": 2.0,
-        "image_filename": "finger.jpg",
-        "card_type": "vocab",
+        "level": "finger",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Die Finger"
     },
     {
-        "level": 2.0,
-        "image_filename": "hair.jpg",
-        "card_type": "vocab",
+        "level": "hair",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Das Haar"
     },
     {
-        "level": 2.0,
-        "image_filename": "hand.jpg",
-        "card_type": "vocab",
+        "level": "hand",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Die Hand"
     },
     {
-        "level": 2.0,
-        "image_filename": "head.jpg",
-        "card_type": "vocab",
+        "level": "head",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Der Kopf"
     },
     {
-        "level": 2.0,
-        "image_filename": "heart.jpg",
-        "card_type": "vocab",
+        "level": "heart",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Das Herz"
     },
     {
-        "level": 2.0,
-        "image_filename": "hip.jpg",
-        "card_type": "vocab",
+        "level": "hip",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Die Hüfte"
     },
     {
-        "level": 2.0,
-        "image_filename": "knee.jpg",
-        "card_type": "vocab",
+        "level": "knee",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Das Knie"
     },
     {
-        "level": 2.0,
-        "image_filename": "legs.jpg",
-        "card_type": "vocab",
+        "level": "legs",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Die Beine"
     },
     {
-        "level": 2.0,
-        "image_filename": "lips.jpg",
-        "card_type": "vocab",
+        "level": "lips",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Die Lippen"
     },
     {
-        "level": 2.0,
-        "image_filename": "mouth.jpg",
-        "card_type": "vocab",
+        "level": "mouth",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Der Mund"
     },
     {
-        "level": 2.0,
-        "image_filename": "mustache.jpg",
-        "card_type": "vocab",
+        "level": "mustache",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Der Schnurrbart"
     },
     {
-        "level": 2.0,
-        "image_filename": "neck.jpg",
-        "card_type": "vocab",
+        "level": "neck",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Der Hals"
     },
     {
-        "level": 2.0,
-        "image_filename": "nose.jpg",
-        "card_type": "vocab",
+        "level": "nose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Die Nase"
     },
     {
-        "level": 2.0,
-        "image_filename": "shoulder.jpg",
-        "card_type": "vocab",
+        "level": "shoulder",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "Nouns have three genders: masculine, feminine, and neuter.\n\nEach noun has a fixed gender that must be memorized.\n\nNouns are capitalized regardless of position in a sentence.\n\nDeclension changes noun forms slightly based on case (nominative, accusative, dative, genitive).\n\nArticles and adjective endings change according to gender, number, and case.\n\n",
         "native_language": "english",

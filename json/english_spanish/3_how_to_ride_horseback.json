@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "activity.jpg",
-        "card_type": "reading",
+        "level": "activity",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Una actividad: algo que una persona hace, a menudo implica movimiento o acción"
     },
     {
-        "level": 3.0,
-        "image_filename": "animals.jpg",
-        "card_type": "vocab",
+        "level": "animals",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Un animal"
     },
     {
-        "level": 3.0,
-        "image_filename": "balance.jpg",
-        "card_type": "vocab",
+        "level": "balance",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "el equilibrio"
     },
     {
-        "level": 3.0,
-        "image_filename": "boot.jpg",
-        "card_type": "vocab",
+        "level": "boot",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "la bota"
     },
     {
-        "level": 3.0,
-        "image_filename": "canter.jpg",
-        "card_type": "reading",
+        "level": "canter",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Canter: Un paso de un caballo más rápido que el trote pero más lento que el galope.\nEjemplo: El jinete guió al caballo a un canter suave."
     },
     {
-        "level": 3.0,
-        "image_filename": "confidence2.jpg",
-        "card_type": "vocab",
+        "level": "confidence2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "confianza"
     },
     {
-        "level": 3.0,
-        "image_filename": "control.jpg",
-        "card_type": "vocab",
+        "level": "control",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "El control"
     },
     {
-        "level": 3.0,
-        "image_filename": "equipement.jpg",
-        "card_type": "vocab",
+        "level": "equipement",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "el engranaje"
     },
     {
-        "level": 3.0,
-        "image_filename": "grip.jpg",
-        "card_type": "vocab",
+        "level": "grip",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "el agarre"
     },
     {
-        "level": 3.0,
-        "image_filename": "heel.jpg",
-        "card_type": "vocab",
+        "level": "heel",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "el talón"
     },
     {
-        "level": 3.0,
-        "image_filename": "helmet.jpg",
-        "card_type": "vocab",
+        "level": "helmet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "el casco"
     },
     {
-        "level": 3.0,
-        "image_filename": "horse.jpg",
-        "card_type": "vocab",
+        "level": "horse",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "el caballo"
     },
     {
-        "level": 3.0,
-        "image_filename": "legs.jpg",
-        "card_type": "vocab",
+        "level": "legs",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Los labios"
     },
     {
-        "level": 3.0,
-        "image_filename": "movement.jpg",
-        "card_type": "vocab",
+        "level": "movement",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "el Movimiento. Movimiento físico"
     },
     {
-        "level": 3.0,
-        "image_filename": "nature.jpg",
-        "card_type": "vocab",
+        "level": "nature",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "el aire libre"
     },
     {
-        "level": 3.0,
-        "image_filename": "pat.jpg",
-        "card_type": "vocab",
+        "level": "pat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "el golpe"
     },
     {
-        "level": 3.0,
-        "image_filename": "patience.jpg",
-        "card_type": "vocab",
+        "level": "patience",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "la paciencia"
     },
     {
-        "level": 3.0,
-        "image_filename": "posture.jpg",
-        "card_type": "vocab",
+        "level": "posture",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "la postura"
     },
     {
-        "level": 3.0,
-        "image_filename": "practice.jpg",
-        "card_type": "vocab",
+        "level": "practice",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Práctica: Una acción repetida o hábito para mejorar una habilidad.\nEjemplo: La práctica diaria la ayudó a convertirse en una gran pianista."
     },
     {
-        "level": 3.0,
-        "image_filename": "rein.jpg",
-        "card_type": "vocab",
+        "level": "rein",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "la rienda"
     },
     {
-        "level": 3.0,
-        "image_filename": "Rhythm.jpg",
-        "card_type": "vocab",
+        "level": "rhythm",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "El ritmo"
     },
     {
-        "level": 3.0,
-        "image_filename": "riding.jpg",
-        "card_type": "vocab",
+        "level": "riding",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "la monta"
     },
     {
-        "level": 3.0,
-        "image_filename": "saddle.jpg",
-        "card_type": "vocab",
+        "level": "saddle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "la silla de montar"
     },
     {
-        "level": 3.0,
-        "image_filename": "safety.jpg",
-        "card_type": "vocab",
+        "level": "safety",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "equipo para seguridad"
     },
     {
-        "level": 3.0,
-        "image_filename": "stirrup.jpg",
-        "card_type": "vocab",
+        "level": "stirrup",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "el estribo"
     },
     {
-        "level": 3.0,
-        "image_filename": "sign_means_stop.jpg",
-        "card_type": "conjugation",
+        "level": "sign_means_stop",
+        "image_filename": "conjugation.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Para detener"
     },
     {
-        "level": 3.0,
-        "image_filename": "surroundings.jpg",
-        "card_type": "vocab",
+        "level": "surroundings",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Alrededores: El entorno o área alrededor de algo.\nEjemplo: Ella admiraba los tranquilos alrededores del bosque."
     },
     {
-        "level": 3.0,
-        "image_filename": "dogtreat.jpg",
-        "card_type": "vocab",
+        "level": "dogtreat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "golosina para perro"
     },
     {
-        "level": 3.0,
-        "image_filename": "canter.jpg",
-        "card_type": "reading",
+        "level": "canter",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Galope: Un paso de caballo más rápido que el trote, pero más lento que el galope.\nEjemplo: El caballo se movió a un galope constante."
     },
     {
-        "level": 3.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "vocab",
+        "level": "walk_p",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "el caminar"
     },
     {
-        "level": 3.0,
-        "image_filename": "way.jpg",
-        "card_type": "vocab",
+        "level": "way",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Manera: Un método o forma de hacer algo.\nEjemplo: Jugar juegos es una forma divertida de aprender."
     },
     {
-        "level": 3.0,
-        "image_filename": "apply.jpg",
-        "card_type": "vocab",
+        "level": "apply",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "aplicar maquillaje"
     },
     {
-        "level": 3.0,
-        "image_filename": "approach.jpg",
-        "card_type": "vocab",
+        "level": "approach",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Acercarse a un caballo"
     },
     {
-        "level": 3.0,
-        "image_filename": "choose.jpg",
-        "card_type": "vocab",
+        "level": "choose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "elegir"
     },
     {
-        "level": 3.0,
-        "image_filename": "connect.jpg",
-        "card_type": "vocab",
+        "level": "connect",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "conectar"
     },
     {
-        "level": 3.0,
-        "image_filename": "dismount.jpg",
-        "card_type": "reading",
+        "level": "dismount",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Desmontar – Bajarse de un caballo, bicicleta o vehículo. Ejemplo: Él desmontó de la bicicleta y entró a la tienda."
     },
     {
-        "level": 3.0,
-        "image_filename": "enjoy_free.jpg",
-        "card_type": "vocab",
+        "level": "enjoy_free",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "\"Disfrutar\" is a more common and versatile term used to express the concept of enjoying or experiencing pleasure in various contexts. It can refer to the enjoyment of activities, moments, experiences, or even food.\nIt can be used in a wide range of situations and is not limited to specific circumstances. For example, you can \"disfrutar\" (enjoy) a movie, a walk, a conversation, etc.\n\"Disfrutar\" often suggests a broader and more sustained type of enjoyment.",
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "disfrutar"
     },
     {
-        "level": 3.0,
-        "image_filename": "gain.jpg",
-        "card_type": "reading",
+        "level": "gain",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Ganar – Obtener o aumentar algo. Ejemplo: Ella ganó experiencia valiosa en su nuevo trabajo."
     },
     {
-        "level": 3.0,
-        "image_filename": "guide.jpg",
-        "card_type": "vocab",
+        "level": "guide",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "guiar"
     },
     {
-        "level": 3.0,
-        "image_filename": "locket.jpg",
-        "card_type": "vocab",
+        "level": "locket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Guardar dentro de un relicario"
     },
     {
-        "level": 3.0,
-        "image_filename": "locket.jpg",
-        "card_type": "vocab",
+        "level": "locket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Guardar dentro de un relicario"
     },
     {
-        "level": 3.0,
-        "image_filename": "maintain.jpg",
-        "card_type": "reading",
+        "level": "maintain",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "mantener"
     },
     {
-        "level": 3.0,
-        "image_filename": "mount_motorcycle.jpg",
-        "card_type": "vocab",
+        "level": "mount_motorcycle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Montarlo"
     },
     {
-        "level": 3.0,
-        "image_filename": "progress.jpg",
-        "card_type": "vocab",
+        "level": "progress",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "progresar"
     },
     {
-        "level": 3.0,
-        "image_filename": "pullpush.jpg",
-        "card_type": "vocab",
+        "level": "pullpush",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "tirar empujar"
     },
     {
-        "level": 3.0,
-        "image_filename": "require.jpg",
-        "card_type": "vocab",
+        "level": "require",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "requerir"
     },
     {
-        "level": 3.0,
-        "image_filename": "reward.jpg",
-        "card_type": "reading",
+        "level": "reward",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Recompensar – Dar algo en reconocimiento por esfuerzo o logro. Ejemplo: Fue recompensada por su arduo trabajo con un ascenso."
     },
     {
-        "level": 3.0,
-        "image_filename": "ride.jpg",
-        "card_type": "vocab",
+        "level": "ride",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "montar a caballo"
     },
     {
-        "level": 3.0,
-        "image_filename": "sitstand.jpg",
-        "card_type": "vocab",
+        "level": "sitstand",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "sentarse estar de pie"
     },
     {
-        "level": 3.0,
-        "image_filename": "start_race.jpg",
-        "card_type": "vocab",
+        "level": "start_race",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "empezar"
     },
     {
-        "level": 3.0,
-        "image_filename": "dog_stay.jpg",
-        "card_type": "vocab",
+        "level": "dog_stay",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "Quede"
     },
     {
-        "level": 3.0,
-        "image_filename": "use_a_tool_m.jpg",
-        "card_type": "vocab",
+        "level": "use_a_tool_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "usar una herramienta"
     },
     {
-        "level": 3.0,
-        "image_filename": "wearclothes.jpg",
-        "card_type": "reading",
+        "level": "wearclothes",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "Usar – Llevar ropa o accesorios en el cuerpo. Ejemplo: Él usó una chaqueta roja para la fiesta."
     },
     {
-        "level": 3.0,
-        "image_filename": "riding.jpg",
-        "card_type": "vocab",
+        "level": "riding",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "equitación - a caballo"
     },
     {
-        "level": 3.0,
-        "image_filename": "exciting.jpg",
-        "card_type": "vocab",
+        "level": "exciting",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "emocionante"
     },
     {
-        "level": 3.0,
-        "image_filename": "skill_cooking.jpg",
-        "card_type": "vocab",
+        "level": "skill_cooking",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "cocina hábil"
     },
     {
-        "level": 3.0,
-        "image_filename": "proper.jpg",
-        "card_type": "vocab",
+        "level": "proper",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "la manera adecuada de levantar una caja"
     },
     {
-        "level": 3.0,
-        "image_filename": "firmgentle.jpg",
-        "card_type": "vocab",
+        "level": "firmgentle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "opuestos: firme - suave"
     },
     {
-        "level": 3.0,
-        "image_filename": "firmgentle.jpg",
-        "card_type": "vocab",
+        "level": "firmgentle",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "opuestos: firme - suave"
     },
     {
-        "level": 3.0,
-        "image_filename": "steady.jpg",
-        "card_type": "vocab",
+        "level": "steady",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "mano firme"
     },
     {
-        "level": 3.0,
-        "image_filename": "shallowdeep.jpg",
-        "card_type": "vocab",
+        "level": "shallowdeep",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "superficial profundo"
     },
     {
-        "level": 3.0,
-        "image_filename": "fun_party.jpg",
-        "card_type": "vocab",
+        "level": "fun_party",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": "In Spanish, adjectives are words used to describe or modify nouns by providing more information about their characteristics, qualities, or attributes. Here's a breakdown of how adjectives work:\n\nAgreement:\n\nAdjectives must agree in gender (masculine/feminine) and number (singular/plural) with the noun they modify.\nFor example, if the noun is feminine and singular, the adjective must also be feminine and singular. The same rule applies for masculine, plural, and feminine plural nouns.\nPlacement:\n\nIn Spanish, adjectives generally come after the noun they describe. However, some adjectives can come before the noun to emphasize or modify the meaning.\nWhen placed before the noun, adjectives usually have a stronger or more specific meaning (e.g., \"un hombre grande\" - a big man vs. \"un gran hombre\" - a great man).\nForms of Adjectives:\n\nAdjectives have different forms to match the gender and number of the nouns they modify.\nMasculine/Feminine and Singular/Plural:\nFor example, for the adjective \"bonito\" (pretty), it changes to \"bonita\" for feminine singular (\"una chica bonita\" - a pretty girl) and \"bonitos\" for masculine plural (\"chicos bonitos\" - pretty boys).\nIrregular Adjectives:\n\nSome adjectives have irregular forms that don't follow the typical patterns. For instance, \"bueno\" (good) becomes \"buena\" for feminine singular and \"buenos\" for masculine plural.\nComparatives and Superlatives:\n\nAdjectives can also be used in comparative and superlative forms to compare qualities.\nComparative form (comparativo): Expresses a comparison between two things (e.g., \"más grande\" - bigger).\nSuperlative form (superlativo): Indicates the highest degree of a quality (e.g., \"el más grande\" - the biggest).\nDemonstrative and Possessive Adjectives:\n\nSpanish also uses demonstrative adjectives (this, that, these, those) and possessive adjectives (my, your, his, her, its) to specify or show ownership. These, too, follow the gender and number of the nouns they modify.\nUnderstanding adjectives in Spanish involves learning their forms, agreement rules, and different positions within a sentence. Practice and exposure to various examples will help in mastering the use of adjectives to describe nouns effectively in Spanish sentences.",
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "fiesta divertida"
     },
     {
-        "level": 3.0,
-        "image_filename": "reward.jpg",
-        "card_type": "reading",
+        "level": "reward",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "Gratificante – Que proporciona satisfacción o beneficio. Ejemplo: Enseñar puede ser una carrera gratificante cuando los estudiantes tienen éxito."
     },
     {
-        "level": 3.0,
-        "image_filename": "calmly.jpg",
-        "card_type": "reading",
+        "level": "calmly",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "Calmadamente – De manera tranquila y controlada. Ejemplo: Ella explicó el error calmadamente en lugar de molestarse."
     },
     {
-        "level": 3.0,
-        "image_filename": "gently.jpg",
-        "card_type": "vocab",
+        "level": "gently",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Sostener suavemente"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "cómo: montar a caballo"
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "Montar a caballo es una actividad emocionante y hábil que requiere equilibrio, control y confianza."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "Para comenzar, elija un caballo bien entrenado y use el equipo de seguridad adecuado, como casco y botas de montar."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "Acércate al caballo con calma y móntalo usando un estribo manteniendo un agarre firme pero suave de las riendas."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Una vez sentado, mantenga una buena postura con los talones hacia abajo y la espalda recta."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "Utilice las piernas y las riendas para guiar al caballo, aplicando una presión suave para indicar el movimiento."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "Comience con una caminata lenta y luego avance a un trote o galope a medida que gane confianza."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "Manténgase atento a su entorno y mantenga un ritmo constante con los movimientos del caballo."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "Para detenerte, tira suavemente de las riendas hacia atrás y siéntate profundamente en la silla."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "Desmonta con cuidado y recompensa al caballo con una palmadita o una golosina."
     },
     {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "story",
+        "level": null,
+        "image_filename": "story.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "english",

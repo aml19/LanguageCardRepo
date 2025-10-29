@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "pen2.jpg",
-        "card_type": "vocab",
+        "level": "pen2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "pen"
     },
     {
-        "level": 2.0,
-        "image_filename": "Paper2.jpg",
-        "card_type": "vocab",
+        "level": "paper2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Paper"
     },
     {
-        "level": 2.0,
-        "image_filename": "Pencil2.jpg",
-        "card_type": "vocab",
+        "level": "pencil2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Pencil"
     },
     {
-        "level": 2.0,
-        "image_filename": "Marker2.jpg",
-        "card_type": "vocab",
+        "level": "marker2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Marker"
     },
     {
-        "level": 2.0,
-        "image_filename": "Eraser2.jpg",
-        "card_type": "vocab",
+        "level": "eraser2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "Eraser"
     },
     {
-        "level": 2.0,
-        "image_filename": "Scissors2.jpg",
-        "card_type": "vocab",
+        "level": "scissors2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "Scissors"
     },
     {
-        "level": 2.0,
-        "image_filename": "Wallet2.jpg",
-        "card_type": "vocab",
+        "level": "wallet2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Wallet"
     },
     {
-        "level": 2.0,
-        "image_filename": "TV2.jpg",
-        "card_type": "vocab",
+        "level": "tV2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "TV"
     },
     {
-        "level": 2.0,
-        "image_filename": "Remote2.jpg",
-        "card_type": "vocab",
+        "level": "remote2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Remote"
     },
     {
-        "level": 2.0,
-        "image_filename": "Pillow2.jpg",
-        "card_type": "vocab",
+        "level": "pillow2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Pillow"
     },
     {
-        "level": 2.0,
-        "image_filename": "Blanket2.jpg",
-        "card_type": "vocab",
+        "level": "blanket2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "Blanket"
     },
     {
-        "level": 2.0,
-        "image_filename": "Toothbrush2.jpg",
-        "card_type": "vocab",
+        "level": "toothbrush2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Toothbrush"
     },
     {
-        "level": 2.0,
-        "image_filename": "Soap2.jpg",
-        "card_type": "vocab",
+        "level": "soap2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "Soap"
     },
     {
-        "level": 2.0,
-        "image_filename": "Headphones2.jpg",
-        "card_type": "vocab",
+        "level": "headphones2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "Headphones"
     },
     {
-        "level": 2.0,
-        "image_filename": "Charger2.jpg",
-        "card_type": "vocab",
+        "level": "charger2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "Charger"
     },
     {
-        "level": 2.0,
-        "image_filename": "Broom2.jpg",
-        "card_type": "vocab",
+        "level": "broom2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Broom"
     },
     {
-        "level": 2.0,
-        "image_filename": "Brush2.jpg",
-        "card_type": "vocab",
+        "level": "brush2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Brush"
     },
     {
-        "level": 2.0,
-        "image_filename": "Umbrella2.jpg",
-        "card_type": "vocab",
+        "level": "umbrella2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "Umbrella"
     },
     {
-        "level": 2.0,
-        "image_filename": "fan5.jpg",
-        "card_type": "vocab",
+        "level": "fan5",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Fan"
     },
     {
-        "level": 2.0,
-        "image_filename": "toy.jpg",
-        "card_type": "vocab",
+        "level": "toy",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "toy"
     },
     {
-        "level": 2.0,
-        "image_filename": "water.jpg",
-        "card_type": "vocab",
+        "level": "water",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "water"
     },
     {
-        "level": 2.0,
-        "image_filename": "ball.jpg",
-        "card_type": "vocab",
+        "level": "ball",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "ball"
     },
     {
-        "level": 2.0,
-        "image_filename": "chair.jpg",
-        "card_type": "vocab",
+        "level": "chair",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "chair"
     },
     {
-        "level": 2.0,
-        "image_filename": "clock.jpg",
-        "card_type": "vocab",
+        "level": "clock",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "clock"
     },
     {
-        "level": 2.0,
-        "image_filename": "ice.jpg",
-        "card_type": "vocab",
+        "level": "ice",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "ice"
     },
     {
-        "level": 2.0,
-        "image_filename": "keys.jpg",
-        "card_type": "vocab",
+        "level": "keys",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "keys"
     },
     {
-        "level": 2.0,
-        "image_filename": "cell_phone.jpg",
-        "card_type": "vocab",
+        "level": "cell_phone",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "cell phone"
     },
     {
-        "level": 2.0,
-        "image_filename": "pen.jpg",
-        "card_type": "vocab",
+        "level": "pen",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "pen"
     },
     {
-        "level": 2.0,
-        "image_filename": "plant.jpg",
-        "card_type": "vocab",
+        "level": "plant",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "plant"
     },
     {
-        "level": 2.0,
-        "image_filename": "laptop.jpg",
-        "card_type": "vocab",
+        "level": "laptop",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "laptop"
     },
     {
-        "level": 2.0,
-        "image_filename": "computer.jpg",
-        "card_type": "vocab",
+        "level": "computer",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "computer"
     },
     {
-        "level": 2.0,
-        "image_filename": "light.jpg",
-        "card_type": "vocab",
+        "level": "light2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "light"
     },
     {
-        "level": 2.0,
-        "image_filename": "money.jpg",
-        "card_type": "vocab",
+        "level": "money",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "money"
     },
     {
-        "level": 2.0,
-        "image_filename": "picture.jpg",
-        "card_type": "vocab",
+        "level": "picture",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "picture"
     },
     {
-        "level": 2.0,
-        "image_filename": "camera.jpg",
-        "card_type": "vocab",
+        "level": "camera",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "camera"
     },
     {
-        "level": 2.0,
-        "image_filename": "notebook.jpg",
-        "card_type": "vocab",
+        "level": "notebook",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "notebook"
     },
     {
-        "level": 2.0,
-        "image_filename": "book2.jpg",
-        "card_type": "vocab",
+        "level": "book2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

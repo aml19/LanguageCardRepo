@@ -1,8 +1,8 @@
 [
     {
-        "level": 3.0,
-        "image_filename": "teacher.jpg",
-        "card_type": "vocab",
+        "level": "teacher",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "who is she? the teacher"
     },
     {
-        "level": 3.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
+        "level": "friend",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "who are they? friends"
     },
     {
-        "level": 3.0,
-        "image_filename": "police.jpg",
-        "card_type": "vocab",
+        "level": "police",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "who is there? police"
     },
     {
-        "level": 3.0,
-        "image_filename": "what1.jpg",
-        "card_type": "vocab",
+        "level": "what1",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "what color is his shirt? blue"
     },
     {
-        "level": 3.0,
-        "image_filename": "who1.jpg",
-        "card_type": "vocab",
+        "level": "who1",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "who is throwing the ball? number 17"
     },
     {
-        "level": 3.0,
-        "image_filename": "who1.jpg",
-        "card_type": "vocab",
+        "level": "who1",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "what number is on his shirt? seventeen"
     },
     {
-        "level": 3.0,
-        "image_filename": "who2.jpg",
-        "card_type": "vocab",
+        "level": "who2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "who has the ball? number 15"
     },
     {
-        "level": 3.0,
-        "image_filename": "artist.jpg",
-        "card_type": "vocab",
+        "level": "artist",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "who makes art? an artist"
     },
     {
-        "level": 3.0,
-        "image_filename": "time2.jpg",
-        "card_type": "vocab",
+        "level": "time2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "what time is it? half past two"
     },
     {
-        "level": 3.0,
-        "image_filename": "time3.jpg",
-        "card_type": "vocab",
+        "level": "time3",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "what time is it? three o'clock"
     },
     {
-        "level": 3.0,
-        "image_filename": "temp2.jpg",
-        "card_type": "vocab",
+        "level": "temp2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "what is the temperature? zero degrees"
     },
     {
-        "level": 3.0,
-        "image_filename": "temp3.jpg",
-        "card_type": "vocab",
+        "level": "temp3",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "what is the temperature? 40 degrees"
     },
     {
-        "level": 3.0,
-        "image_filename": "whenleave.jpg",
-        "card_type": "vocab",
+        "level": "whenleave",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "when should we leave? twelve"
     },
     {
-        "level": 3.0,
-        "image_filename": "whenshow.jpg",
-        "card_type": "vocab",
+        "level": "whenshow",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "when does the show start? after 5"
     },
     {
-        "level": 3.0,
-        "image_filename": "whenborn.jpg",
-        "card_type": "vocab",
+        "level": "whenborn",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "when were you born? 2018"
     },
     {
-        "level": 3.0,
-        "image_filename": "whenmovie.jpg",
-        "card_type": "vocab",
+        "level": "whenmovie",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "when do they watch movies? at night"
     },
     {
-        "level": 3.0,
-        "image_filename": "whenrun.jpg",
-        "card_type": "vocab",
+        "level": "whenrun",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "when do you run? in the morning"
     },
     {
-        "level": 3.0,
-        "image_filename": "whererun.jpg",
-        "card_type": "vocab",
+        "level": "whererun",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "where do you run? the beach"
     },
     {
-        "level": 3.0,
-        "image_filename": "wheneat.jpg",
-        "card_type": "vocab",
+        "level": "wheneat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "when do you eat dinner? at night"
     },
     {
-        "level": 3.0,
-        "image_filename": "concert.jpg",
-        "card_type": "vocab",
+        "level": "concert",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "when is the concert? at night"
     },
     {
-        "level": 3.0,
-        "image_filename": "wherebridge.jpg",
-        "card_type": "vocab",
+        "level": "wherebridge",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "where is there snow? on the bridge"
     },
     {
-        "level": 3.0,
-        "image_filename": "whowin.jpg",
-        "card_type": "vocab",
+        "level": "whowin",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "who is winning? home team"
     },
     {
-        "level": 3.0,
-        "image_filename": "whofront.jpg",
-        "card_type": "vocab",
+        "level": "whofront",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "who is in front? the blue car"
     },
     {
-        "level": 3.0,
-        "image_filename": "whererun2.jpg",
-        "card_type": "vocab",
+        "level": "whererun2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "where do you run? the track"
     },
     {
-        "level": 3.0,
-        "image_filename": "wherecise.jpg",
-        "card_type": "vocab",
+        "level": "wherecise",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "where do you excercise? the gym"
     },
     {
-        "level": 3.0,
-        "image_filename": "wherework.jpg",
-        "card_type": "vocab",
+        "level": "wherework",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "where do you work? the hospital"
     },
     {
-        "level": 3.0,
-        "image_filename": "wherehouse.jpg",
-        "card_type": "vocab",
+        "level": "wherehouse",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "where is the house? by the lake"
     },
     {
-        "level": 3.0,
-        "image_filename": "wherefrom.jpg",
-        "card_type": "vocab",
+        "level": "wherefrom",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "where are you from? africa"
     },
     {
-        "level": 3.0,
-        "image_filename": "whatbook.jpg",
-        "card_type": "vocab",
+        "level": "whatbook",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "what is the book about? space"
     },
     {
-        "level": 3.0,
-        "image_filename": "whatwear.jpg",
-        "card_type": "vocab",
+        "level": "whatwear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "what is she wearing? a dress"
     },
     {
-        "level": 3.0,
-        "image_filename": "whatwear.jpg",
-        "card_type": "vocab",
+        "level": "whatwear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "what color is the dress? green"
     },
     {
-        "level": 3.0,
-        "image_filename": "sing_f.jpg",
-        "card_type": "vocab",
+        "level": "sing_f",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "what is she doing? singing"
     },
     {
-        "level": 3.0,
-        "image_filename": "whywait.jpg",
-        "card_type": "vocab",
+        "level": "whywait",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "why is she waiting? for the train"
     },
     {
-        "level": 3.0,
-        "image_filename": "traffic.jpg",
-        "card_type": "vocab",
+        "level": "traffic",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "why were you late? there was traffic"
     },
     {
-        "level": 3.0,
-        "image_filename": "whyclose.jpg",
-        "card_type": "vocab",
+        "level": "whyclose",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "why is the road closed? there is construction"
     },
     {
-        "level": 3.0,
-        "image_filename": "whyticket.jpg",
-        "card_type": "vocab",
+        "level": "whyticket",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "why is he getting a ticket? no parking"
     },
     {
-        "level": 3.0,
-        "image_filename": "whydelay.jpg",
-        "card_type": "vocab",
+        "level": "whydelay",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "why is the flight delayed? rain"
     },
     {
-        "level": 3.0,
-        "image_filename": "whychick.jpg",
-        "card_type": "vocab",
+        "level": "whychick",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": "why did the chicken cross the road? to get to the other side"
     },
     {
-        "level": 3.0,
-        "image_filename": "whyoff.jpg",
-        "card_type": "vocab",
+        "level": "whyoff",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "why are the lights off? no power"
     },
     {
-        "level": 3.0,
-        "image_filename": "whywet.jpg",
-        "card_type": "vocab",
+        "level": "whywet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": "why is the floor wet? the bucket fell"
     },
     {
-        "level": 3.0,
-        "image_filename": "whyworry.jpg",
-        "card_type": "vocab",
+        "level": "whyworry",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": "why are the students worried? a test"
     },
     {
-        "level": 3.0,
-        "image_filename": "whytire.jpg",
-        "card_type": "vocab",
+        "level": "whytire",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "carry_m.jpg",
-        "card_type": "conjugation",
+        "level": "carry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "carry_f.jpg",
-        "card_type": "conjugation",
+        "level": "carry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "carry_f.jpg",
-        "card_type": "conjugation",
+        "level": "carry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "carry_p.jpg",
-        "card_type": "conjugation",
+        "level": "carry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "carry_p.jpg",
-        "card_type": "conjugation",
+        "level": "carry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "carry_m.jpg",
-        "card_type": "conjugation",
+        "level": "carry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cook_f.jpg",
-        "card_type": "conjugation",
+        "level": "cook_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cook_f.jpg",
-        "card_type": "conjugation",
+        "level": "cook_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cook_p.jpg",
-        "card_type": "conjugation",
+        "level": "cook_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cook_p.jpg",
-        "card_type": "conjugation",
+        "level": "cook_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cook_m.jpg",
-        "card_type": "conjugation",
+        "level": "cook_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cry_m.jpg",
-        "card_type": "conjugation",
+        "level": "cry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cry_m.jpg",
-        "card_type": "conjugation",
+        "level": "cry_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cry_f.jpg",
-        "card_type": "conjugation",
+        "level": "cry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cry_p.jpg",
-        "card_type": "conjugation",
+        "level": "cry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cry_p.jpg",
-        "card_type": "conjugation",
+        "level": "cry_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "cry_f.jpg",
-        "card_type": "conjugation",
+        "level": "cry_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "dance_m.jpg",
-        "card_type": "conjugation",
+        "level": "dance_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "dance_f.jpg",
-        "card_type": "conjugation",
+        "level": "dance_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "dance_f.jpg",
-        "card_type": "conjugation",
+        "level": "dance_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "dance_p.jpg",
-        "card_type": "conjugation",
+        "level": "dance_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "dance_p.jpg",
-        "card_type": "conjugation",
+        "level": "dance_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "dance_m.jpg",
-        "card_type": "conjugation",
+        "level": "dance_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drink_m.jpg",
-        "card_type": "conjugation",
+        "level": "drink_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drink_m.jpg",
-        "card_type": "conjugation",
+        "level": "drink_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drink_f.jpg",
-        "card_type": "conjugation",
+        "level": "drink_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drink_p.jpg",
-        "card_type": "conjugation",
+        "level": "drink_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drink_p.jpg",
-        "card_type": "conjugation",
+        "level": "drink_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drink_f.jpg",
-        "card_type": "conjugation",
+        "level": "drink_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drive_m.jpg",
-        "card_type": "conjugation",
+        "level": "drive_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drive_f.jpg",
-        "card_type": "conjugation",
+        "level": "drive_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drive_f.jpg",
-        "card_type": "conjugation",
+        "level": "drive_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drive_p.jpg",
-        "card_type": "conjugation",
+        "level": "drive_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drive_p.jpg",
-        "card_type": "conjugation",
+        "level": "drive_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drive_m.jpg",
-        "card_type": "conjugation",
+        "level": "drive_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drop_m.jpg",
-        "card_type": "conjugation",
+        "level": "drop_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drop_m.jpg",
-        "card_type": "conjugation",
+        "level": "drop_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -684,9 +684,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drop_f.jpg",
-        "card_type": "conjugation",
+        "level": "drop_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drop_p.jpg",
-        "card_type": "conjugation",
+        "level": "drop_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drop_p.jpg",
-        "card_type": "conjugation",
+        "level": "drop_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "drop_f.jpg",
-        "card_type": "conjugation",
+        "level": "drop_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -756,9 +756,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "eat_m.jpg",
-        "card_type": "conjugation",
+        "level": "eat_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -774,9 +774,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "eat_m.jpg",
-        "card_type": "conjugation",
+        "level": "eat_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -792,9 +792,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "eat_f.jpg",
-        "card_type": "conjugation",
+        "level": "eat_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -810,9 +810,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "eat_p.jpg",
-        "card_type": "conjugation",
+        "level": "eat_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -828,9 +828,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "eat_p.jpg",
-        "card_type": "conjugation",
+        "level": "eat_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -846,9 +846,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "eat_f.jpg",
-        "card_type": "conjugation",
+        "level": "eat_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -864,9 +864,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "fall_m.jpg",
-        "card_type": "conjugation",
+        "level": "fall_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -882,9 +882,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "fall_f.jpg",
-        "card_type": "conjugation",
+        "level": "fall_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -900,9 +900,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "fall_f.jpg",
-        "card_type": "conjugation",
+        "level": "fall_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -918,9 +918,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "fall_p.jpg",
-        "card_type": "conjugation",
+        "level": "fall_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -936,9 +936,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "fall_p.jpg",
-        "card_type": "conjugation",
+        "level": "fall_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -954,9 +954,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "fall_m.jpg",
-        "card_type": "conjugation",
+        "level": "fall_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -972,9 +972,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "grab_m.jpg",
-        "card_type": "conjugation",
+        "level": "grab_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -990,9 +990,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "grab_m.jpg",
-        "card_type": "conjugation",
+        "level": "grab_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1008,9 +1008,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "grab_f.jpg",
-        "card_type": "conjugation",
+        "level": "grab_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1026,9 +1026,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "grab_p.jpg",
-        "card_type": "conjugation",
+        "level": "grab_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1044,9 +1044,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "grab_p.jpg",
-        "card_type": "conjugation",
+        "level": "grab_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1062,9 +1062,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "grab_f.jpg",
-        "card_type": "conjugation",
+        "level": "grab_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1080,9 +1080,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "hold_m.jpg",
-        "card_type": "conjugation",
+        "level": "hold_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1098,9 +1098,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "hold_m.jpg",
-        "card_type": "conjugation",
+        "level": "hold_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1116,9 +1116,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "conjugation",
+        "level": "hold_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1134,9 +1134,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "hold_p.jpg",
-        "card_type": "conjugation",
+        "level": "hold_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1152,9 +1152,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "hold_p.jpg",
-        "card_type": "conjugation",
+        "level": "hold_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1170,9 +1170,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "hold_f.jpg",
-        "card_type": "conjugation",
+        "level": "hold_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1188,9 +1188,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "jump_m.jpg",
-        "card_type": "conjugation",
+        "level": "jump_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1206,9 +1206,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "jump_m.jpg",
-        "card_type": "conjugation",
+        "level": "jump_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1224,9 +1224,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "jump_f.jpg",
-        "card_type": "conjugation",
+        "level": "jump_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1242,9 +1242,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "jump_p.jpg",
-        "card_type": "conjugation",
+        "level": "jump_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1260,9 +1260,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "jump_p.jpg",
-        "card_type": "conjugation",
+        "level": "jump_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1278,9 +1278,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "jump_f.jpg",
-        "card_type": "conjugation",
+        "level": "jump_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1296,9 +1296,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "laugh_m.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1314,9 +1314,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "laugh_f.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1332,9 +1332,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "laugh_f.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1350,9 +1350,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1368,9 +1368,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1386,9 +1386,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "laugh_m.jpg",
-        "card_type": "conjugation",
+        "level": "laugh_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1404,9 +1404,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "love_m.jpg",
-        "card_type": "conjugation",
+        "level": "love_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1422,9 +1422,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "love_m.jpg",
-        "card_type": "conjugation",
+        "level": "love_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1440,9 +1440,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "love_f.jpg",
-        "card_type": "conjugation",
+        "level": "love_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1458,9 +1458,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "love_p.jpg",
-        "card_type": "conjugation",
+        "level": "love_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1476,9 +1476,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "love_p.jpg",
-        "card_type": "conjugation",
+        "level": "love_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1494,9 +1494,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "love_f.jpg",
-        "card_type": "conjugation",
+        "level": "love_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1512,9 +1512,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "play_m.jpg",
-        "card_type": "conjugation",
+        "level": "play_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1530,9 +1530,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "play_f.jpg",
-        "card_type": "conjugation",
+        "level": "play_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1548,9 +1548,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "play_f.jpg",
-        "card_type": "conjugation",
+        "level": "play_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1566,9 +1566,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "play_p.jpg",
-        "card_type": "conjugation",
+        "level": "play_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1584,9 +1584,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "play_p.jpg",
-        "card_type": "conjugation",
+        "level": "play_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1602,9 +1602,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "play_m.jpg",
-        "card_type": "conjugation",
+        "level": "play_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1620,9 +1620,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "pull_m.jpg",
-        "card_type": "conjugation",
+        "level": "pull_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1638,9 +1638,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "pull_m.jpg",
-        "card_type": "conjugation",
+        "level": "pull_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1656,9 +1656,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "pull_f.jpg",
-        "card_type": "conjugation",
+        "level": "pull_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1674,9 +1674,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "pull_p.jpg",
-        "card_type": "conjugation",
+        "level": "pull_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1692,9 +1692,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "pull_p.jpg",
-        "card_type": "conjugation",
+        "level": "pull_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1710,9 +1710,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "pull_f.jpg",
-        "card_type": "conjugation",
+        "level": "pull_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1728,9 +1728,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "conjugation",
+        "level": "push_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1746,9 +1746,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "push_f.jpg",
-        "card_type": "conjugation",
+        "level": "push_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1764,9 +1764,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "push_f.jpg",
-        "card_type": "conjugation",
+        "level": "push_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1782,9 +1782,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "push_p.jpg",
-        "card_type": "conjugation",
+        "level": "push_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1800,9 +1800,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "push_p.jpg",
-        "card_type": "conjugation",
+        "level": "push_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1818,9 +1818,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "conjugation",
+        "level": "push_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1836,9 +1836,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "read_m.jpg",
-        "card_type": "conjugation",
+        "level": "read_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1854,9 +1854,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "read_f.jpg",
-        "card_type": "conjugation",
+        "level": "read_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1872,9 +1872,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "read_f.jpg",
-        "card_type": "conjugation",
+        "level": "read_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1890,9 +1890,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "read_p.jpg",
-        "card_type": "conjugation",
+        "level": "read_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1908,9 +1908,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "read_p.jpg",
-        "card_type": "conjugation",
+        "level": "read_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1926,9 +1926,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "read_m.jpg",
-        "card_type": "conjugation",
+        "level": "read_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1944,9 +1944,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "say_m.jpg",
-        "card_type": "conjugation",
+        "level": "say_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1962,9 +1962,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "say_m.jpg",
-        "card_type": "conjugation",
+        "level": "say_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1980,9 +1980,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "say_f.jpg",
-        "card_type": "conjugation",
+        "level": "say_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -1998,9 +1998,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "say_p.jpg",
-        "card_type": "conjugation",
+        "level": "say_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2016,9 +2016,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "say_p.jpg",
-        "card_type": "conjugation",
+        "level": "say_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2034,9 +2034,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "say_f.jpg",
-        "card_type": "conjugation",
+        "level": "say_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2052,9 +2052,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sing_m.jpg",
-        "card_type": "conjugation",
+        "level": "sing_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2070,9 +2070,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sing_f.jpg",
-        "card_type": "conjugation",
+        "level": "sing_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2088,9 +2088,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sing_f.jpg",
-        "card_type": "conjugation",
+        "level": "sing_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2106,9 +2106,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sing_p.jpg",
-        "card_type": "conjugation",
+        "level": "sing_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2124,9 +2124,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sing_p.jpg",
-        "card_type": "conjugation",
+        "level": "sing_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2142,9 +2142,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sing_m.jpg",
-        "card_type": "conjugation",
+        "level": "sing_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2160,9 +2160,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sleep_m.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2178,9 +2178,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sleep_m.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2196,9 +2196,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sleep_f.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2214,9 +2214,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sleep_p.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2232,9 +2232,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sleep_p.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2250,9 +2250,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "sleep_f.jpg",
-        "card_type": "conjugation",
+        "level": "sleep_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2268,9 +2268,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "speak_m.jpg",
-        "card_type": "conjugation",
+        "level": "speak_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2286,9 +2286,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "speak_f.jpg",
-        "card_type": "conjugation",
+        "level": "speak_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2304,9 +2304,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "speak_f.jpg",
-        "card_type": "conjugation",
+        "level": "speak_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2322,9 +2322,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "speak_p.jpg",
-        "card_type": "conjugation",
+        "level": "speak_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2340,9 +2340,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "speak_p.jpg",
-        "card_type": "conjugation",
+        "level": "speak_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2358,9 +2358,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "speak_m.jpg",
-        "card_type": "conjugation",
+        "level": "speak_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2376,9 +2376,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "study_m.jpg",
-        "card_type": "conjugation",
+        "level": "study_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2394,9 +2394,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "study_m.jpg",
-        "card_type": "conjugation",
+        "level": "study_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2412,9 +2412,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "study_f.jpg",
-        "card_type": "conjugation",
+        "level": "study_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2430,9 +2430,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "study_p.jpg",
-        "card_type": "conjugation",
+        "level": "study_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2448,9 +2448,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "study_p.jpg",
-        "card_type": "conjugation",
+        "level": "study_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2466,9 +2466,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "study_f.jpg",
-        "card_type": "conjugation",
+        "level": "study_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2484,9 +2484,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "swim_m.jpg",
-        "card_type": "conjugation",
+        "level": "swim_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2502,9 +2502,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "swim_f.jpg",
-        "card_type": "conjugation",
+        "level": "swim_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2520,9 +2520,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "swim_f.jpg",
-        "card_type": "conjugation",
+        "level": "swim_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2538,9 +2538,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "swim_p.jpg",
-        "card_type": "conjugation",
+        "level": "swim_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2556,9 +2556,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "swim_p.jpg",
-        "card_type": "conjugation",
+        "level": "swim_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2574,9 +2574,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "swim_m.jpg",
-        "card_type": "conjugation",
+        "level": "swim_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2592,9 +2592,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "talk_m.jpg",
-        "card_type": "conjugation",
+        "level": "talk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2610,9 +2610,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "talk_m.jpg",
-        "card_type": "conjugation",
+        "level": "talk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2628,9 +2628,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "conjugation",
+        "level": "talk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2646,9 +2646,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "talk_p.jpg",
-        "card_type": "conjugation",
+        "level": "talk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2664,9 +2664,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "talk_p.jpg",
-        "card_type": "conjugation",
+        "level": "talk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2682,9 +2682,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "conjugation",
+        "level": "talk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2700,9 +2700,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "conjugation",
+        "level": "throw_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2718,9 +2718,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "throw_f.jpg",
-        "card_type": "conjugation",
+        "level": "throw_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2736,9 +2736,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "throw_f.jpg",
-        "card_type": "conjugation",
+        "level": "throw_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2754,9 +2754,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "throw_p.jpg",
-        "card_type": "conjugation",
+        "level": "throw_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2772,9 +2772,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "throw_p.jpg",
-        "card_type": "conjugation",
+        "level": "throw_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2790,9 +2790,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "conjugation",
+        "level": "throw_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2808,9 +2808,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "walk_m.jpg",
-        "card_type": "conjugation",
+        "level": "walk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2826,9 +2826,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "walk_f.jpg",
-        "card_type": "conjugation",
+        "level": "walk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2844,9 +2844,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "walk_f.jpg",
-        "card_type": "conjugation",
+        "level": "walk_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2862,9 +2862,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "conjugation",
+        "level": "walk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2880,9 +2880,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "conjugation",
+        "level": "walk_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2898,9 +2898,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "walk_m.jpg",
-        "card_type": "conjugation",
+        "level": "walk_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2916,9 +2916,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "work_m.jpg",
-        "card_type": "conjugation",
+        "level": "work_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2934,9 +2934,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "work_m.jpg",
-        "card_type": "conjugation",
+        "level": "work_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2952,9 +2952,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "work_f.jpg",
-        "card_type": "conjugation",
+        "level": "work_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2970,9 +2970,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "work_p.jpg",
-        "card_type": "conjugation",
+        "level": "work_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -2988,9 +2988,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "work_p.jpg",
-        "card_type": "conjugation",
+        "level": "work_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3006,9 +3006,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "work_f.jpg",
-        "card_type": "conjugation",
+        "level": "work_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3024,9 +3024,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "write_m.jpg",
-        "card_type": "conjugation",
+        "level": "write_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3042,9 +3042,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "write_f.jpg",
-        "card_type": "conjugation",
+        "level": "write_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3060,9 +3060,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "write_f.jpg",
-        "card_type": "conjugation",
+        "level": "write_f",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3078,9 +3078,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "write_p.jpg",
-        "card_type": "conjugation",
+        "level": "write_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3096,9 +3096,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "write_p.jpg",
-        "card_type": "conjugation",
+        "level": "write_p",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -3114,9 +3114,9 @@
         "audio_dir": ""
     },
     {
-        "level": 2.0,
-        "image_filename": "write_m.jpg",
-        "card_type": "conjugation",
+        "level": "write_m",
+        "image_filename": "conjugation.jpg",
+        "card_type": "e",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

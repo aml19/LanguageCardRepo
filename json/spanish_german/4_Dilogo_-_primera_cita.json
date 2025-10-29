@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "great.jpg",
-        "card_type": "vocab",
+        "level": "great",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "eine großartige Leistung auszeichnen"
     },
     {
-        "level": 4.0,
-        "image_filename": "beautiful.jpg",
-        "card_type": "vocab",
+        "level": "beautiful",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "schöne Frau"
     },
     {
-        "level": 4.0,
-        "image_filename": "famous.jpg",
-        "card_type": "vocab",
+        "level": "famous",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "berühmte Orte"
     },
     {
-        "level": 4.0,
-        "image_filename": "Nervous.jpg",
-        "card_type": "vocab",
+        "level": "nervous",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "Nervös"
     },
     {
-        "level": 4.0,
-        "image_filename": "nice.jpg",
-        "card_type": "vocab",
+        "level": "nice",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "einen schönen Tag haben"
     },
     {
-        "level": 4.0,
-        "image_filename": "good.jpg",
-        "card_type": "vocab",
+        "level": "good",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "gute Arbeit"
     },
     {
-        "level": 4.0,
-        "image_filename": "best.jpg",
-        "card_type": "vocab",
+        "level": "best",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "beste Freunde"
     },
     {
-        "level": 4.0,
-        "image_filename": "first.jpg",
-        "card_type": "vocab",
+        "level": "first",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "erster Platz"
     },
     {
-        "level": 4.0,
-        "image_filename": "finally.jpg",
-        "card_type": "vocab",
+        "level": "finally",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "endlich mit dem Rauchen aufhören, nach langer Zeit"
     },
     {
-        "level": 4.0,
-        "image_filename": "even.jpg",
-        "card_type": "vocab",
+        "level": "even",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "die anderen Berge sind noch höher"
     },
     {
-        "level": 4.0,
-        "image_filename": "countless.jpg",
-        "card_type": "vocab",
+        "level": "countless",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "so viele Sterne"
     },
     {
-        "level": 4.0,
-        "image_filename": "Really.jpg",
-        "card_type": "vocab",
+        "level": "really",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "echt großer Roboter - zur Betonung verwendet"
     },
     {
-        "level": 4.0,
-        "image_filename": "before.jpg",
-        "card_type": "vocab",
+        "level": "before",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "vorher und nachher"
     },
     {
-        "level": 4.0,
-        "image_filename": "too.jpg",
-        "card_type": "vocab",
+        "level": "too",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "zu viele Bücher, um noch hineinzupassen"
     },
     {
-        "level": 4.0,
-        "image_filename": "bit.jpg",
-        "card_type": "vocab",
+        "level": "bit",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "ein bisschen"
     },
     {
-        "level": 4.0,
-        "image_filename": "absolutely.jpg",
-        "card_type": "vocab",
+        "level": "absolutely",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Absolut: vollständig, ohne Zweifel."
     },
     {
-        "level": 4.0,
-        "image_filename": "pasta.jpg",
-        "card_type": "vocab",
+        "level": "pasta",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Nudeln"
     },
     {
-        "level": 4.0,
-        "image_filename": "meal.jpg",
-        "card_type": "vocab",
+        "level": "meal",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "Mahlzeit"
     },
     {
-        "level": 4.0,
-        "image_filename": "photo.jpg",
-        "card_type": "vocab",
+        "level": "photo",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Ein Foto machen"
     },
     {
-        "level": 4.0,
-        "image_filename": "food.jpg",
-        "card_type": "vocab",
+        "level": "food",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "Das Essen auf dem Tisch"
     },
     {
-        "level": 4.0,
-        "image_filename": "app.jpg",
-        "card_type": "vocab",
+        "level": "app",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "Die App"
     },
     {
-        "level": 4.0,
-        "image_filename": "conversation.jpg",
-        "card_type": "vocab",
+        "level": "conversation",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "Das Gespräch"
     },
     {
-        "level": 4.0,
-        "image_filename": "date.jpg",
-        "card_type": "vocab",
+        "level": "date",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "Das Datum: romantische Verabredung"
     },
     {
-        "level": 4.0,
-        "image_filename": "meeting.jpg",
-        "card_type": "vocab",
+        "level": "meeting",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "sich zu Geschäftszwecken treffen"
     },
     {
-        "level": 4.0,
-        "image_filename": "look_up.jpg",
-        "card_type": "vocab",
+        "level": "look_up",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "Schauen"
     },
     {
-        "level": 4.0,
-        "image_filename": "say_something_m.jpg",
-        "card_type": "vocab",
+        "level": "say_something_m",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "sagen"
     },
     {
-        "level": 4.0,
-        "image_filename": "hear.jpg",
-        "card_type": "vocab",
+        "level": "hear",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "Hören"
     },
     {
-        "level": 4.0,
-        "image_filename": "try_surf.jpg",
-        "card_type": "vocab",
+        "level": "try_surf",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "Surfen ausprobieren"
     },
     {
-        "level": 4.0,
-        "image_filename": "match.jpg",
-        "card_type": "vocab",
+        "level": "match",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "passend zu den Outfits"
     },
     {
-        "level": 4.0,
-        "image_filename": "seem.jpg",
-        "card_type": "vocab",
+        "level": "seem",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "scheinen glücklich - erscheinen, aussehen"
     },
     {
-        "level": 4.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
+        "level": "feel_water",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "das Wasser fühlen"
     },
     {
-        "level": 4.0,
-        "image_filename": "hope.jpg",
-        "card_type": "vocab",
+        "level": "hope",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "wünschen, beten, hoffen"
     },
     {
-        "level": 4.0,
-        "image_filename": "enjoy_free.jpg",
-        "card_type": "vocab",
+        "level": "enjoy_free",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

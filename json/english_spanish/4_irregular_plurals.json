@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "fish.jpg",
-        "card_type": "vocab",
+        "level": "fish",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Pez → peces"
     },
     {
-        "level": 4.0,
-        "image_filename": "Cross5.jpg",
-        "card_type": "vocab",
+        "level": "cross5",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Cruz → cruces"
     },
     {
-        "level": 4.0,
-        "image_filename": "clock.jpg",
-        "card_type": "vocab",
+        "level": "clock",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Reloj → relojes"
     },
     {
-        "level": 4.0,
-        "image_filename": "Law.jpg",
-        "card_type": "vocab",
+        "level": "law",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Ley → leyes"
     },
     {
-        "level": 4.0,
-        "image_filename": "king.jpg",
-        "card_type": "vocab",
+        "level": "king",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Rey → reyes"
     },
     {
-        "level": 4.0,
-        "image_filename": "God.jpg",
-        "card_type": "vocab",
+        "level": "god",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Dios → dioses"
     },
     {
-        "level": 4.0,
-        "image_filename": "Hummingbird.jpg",
-        "card_type": "vocab",
+        "level": "hummingbird",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Colibrí → colibríes"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ruby.jpg",
-        "card_type": "vocab",
+        "level": "ruby",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Rubí → rubíes"
     },
     {
-        "level": 4.0,
-        "image_filename": "Taboo.jpg",
-        "card_type": "vocab",
+        "level": "taboo",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Tabú → tabúes"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ox.jpg",
-        "card_type": "vocab",
+        "level": "ox",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Buey → bueyes"
     },
     {
-        "level": 4.0,
-        "image_filename": "Root.jpg",
-        "card_type": "vocab",
+        "level": "root",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Raíz → raíces"
     },
     {
-        "level": 4.0,
-        "image_filename": "Pencil2.jpg",
-        "card_type": "vocab",
+        "level": "pencil2",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Lápiz → lápices"
     },
     {
-        "level": 4.0,
-        "image_filename": "Index.jpg",
-        "card_type": "vocab",
+        "level": "index",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Índex → índices"
     },
     {
-        "level": 4.0,
-        "image_filename": "Specimen.jpg",
-        "card_type": "vocab",
+        "level": "specimen",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Espécimen → especímenes"
     },
     {
-        "level": 4.0,
-        "image_filename": "regime.jpg",
-        "card_type": "vocab",
+        "level": "regime",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Régimen → regímenes"
     },
     {
-        "level": 4.0,
-        "image_filename": "Character.jpg",
-        "card_type": "vocab",
+        "level": "character",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Carácter → caracteres"
     },
     {
-        "level": 4.0,
-        "image_filename": "Ski.jpg",
-        "card_type": "vocab",
+        "level": "ski",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Esquí → esquíes"
     },
     {
-        "level": 4.0,
-        "image_filename": "sandwich.jpg",
-        "card_type": "vocab",
+        "level": "sandwich",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Sándwich → sándwiches"
     },
     {
-        "level": 4.0,
-        "image_filename": "Mammal.jpg",
-        "card_type": "vocab",
+        "level": "mammal",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Mamífero → mamíferos"
     },
     {
-        "level": 4.0,
-        "image_filename": "eagle.jpg",
-        "card_type": "vocab",
+        "level": "eagle",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Águila → águilas"
     },
     {
-        "level": 4.0,
-        "image_filename": "Soul.jpg",
-        "card_type": "vocab",
+        "level": "soul",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Alma → almas"
     },
     {
-        "level": 4.0,
-        "image_filename": "Harem.jpg",
-        "card_type": "vocab",
+        "level": "harem",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Harén → harenes"
     },
     {
-        "level": 4.0,
-        "image_filename": "orderverb.jpg",
-        "card_type": "vocab",
+        "level": "orderverb",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Orden → órdenes"
     },
     {
-        "level": 4.0,
-        "image_filename": "Rumor.jpg",
-        "card_type": "vocab",
+        "level": "rumor",
+        "image_filename": "vocab.jpg",
+        "card_type": "f",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

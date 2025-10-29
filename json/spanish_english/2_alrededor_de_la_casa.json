@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
-        "image_filename": "house.jpg",
-        "card_type": "vocab",
+        "level": "house",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "house"
     },
     {
-        "level": 2.0,
-        "image_filename": "window.jpg",
-        "card_type": "vocab",
+        "level": "window",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "window"
     },
     {
-        "level": 2.0,
-        "image_filename": "yard.jpg",
-        "card_type": "vocab",
+        "level": "yard",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "yard"
     },
     {
-        "level": 2.0,
-        "image_filename": "basement.jpg",
-        "card_type": "vocab",
+        "level": "basement",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "basement"
     },
     {
-        "level": 2.0,
-        "image_filename": "bathroom.jpg",
-        "card_type": "vocab",
+        "level": "bathroom",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "bathroom"
     },
     {
-        "level": 2.0,
-        "image_filename": "bedroom.jpg",
-        "card_type": "vocab",
+        "level": "bedroom",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "bedroom"
     },
     {
-        "level": 2.0,
-        "image_filename": "door.jpg",
-        "card_type": "vocab",
+        "level": "door",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "door"
     },
     {
-        "level": 2.0,
-        "image_filename": "elevator.jpg",
-        "card_type": "vocab",
+        "level": "elevator",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "elevator"
     },
     {
-        "level": 2.0,
-        "image_filename": "floor.jpg",
-        "card_type": "vocab",
+        "level": "floor",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "floor"
     },
     {
-        "level": 2.0,
-        "image_filename": "stairs.jpg",
-        "card_type": "vocab",
+        "level": "stairs",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "stairs"
     },
     {
-        "level": 2.0,
-        "image_filename": "ceiling.jpg",
-        "card_type": "vocab",
+        "level": "ceiling",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "ceiling"
     },
     {
-        "level": 2.0,
-        "image_filename": "wall.jpg",
-        "card_type": "vocab",
+        "level": "wall",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "wall"
     },
     {
-        "level": 2.0,
-        "image_filename": "table.jpg",
-        "card_type": "vocab",
+        "level": "table",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "table"
     },
     {
-        "level": 2.0,
-        "image_filename": "porch.jpg",
-        "card_type": "vocab",
+        "level": "porch",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "porch"
     },
     {
-        "level": 2.0,
-        "image_filename": "driveway.jpg",
-        "card_type": "vocab",
+        "level": "driveway",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "driveway"
     },
     {
-        "level": 2.0,
-        "image_filename": "Kitchen.jpg",
-        "card_type": "vocab",
+        "level": "kitchen",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Kitchen"
     },
     {
-        "level": 2.0,
-        "image_filename": "Living_room.jpg",
-        "card_type": "vocab",
+        "level": "living_room",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "Living room"
     },
     {
-        "level": 2.0,
-        "image_filename": "Dining_room.jpg",
-        "card_type": "vocab",
+        "level": "dining_room",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "Dining room"
     },
     {
-        "level": 2.0,
-        "image_filename": "Roof.jpg",
-        "card_type": "vocab",
+        "level": "roof",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Roof"
     },
     {
-        "level": 2.0,
-        "image_filename": "Attic.jpg",
-        "card_type": "vocab",
+        "level": "attic",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "Attic"
     },
     {
-        "level": 2.0,
-        "image_filename": "Garage.jpg",
-        "card_type": "vocab",
+        "level": "garage",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "Garage"
     },
     {
-        "level": 2.0,
-        "image_filename": "Hallway.jpg",
-        "card_type": "vocab",
+        "level": "hallway",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "Hallway"
     },
     {
-        "level": 2.0,
-        "image_filename": "Closet.jpg",
-        "card_type": "vocab",
+        "level": "closet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "Closet"
     },
     {
-        "level": 2.0,
-        "image_filename": "Chimney.jpg",
-        "card_type": "vocab",
+        "level": "chimney",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "Chimney"
     },
     {
-        "level": 2.0,
-        "image_filename": "Balcony.jpg",
-        "card_type": "vocab",
+        "level": "balcony",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "Balcony"
     },
     {
-        "level": 2.0,
-        "image_filename": "Garden.jpg",
-        "card_type": "vocab",
+        "level": "garden",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "Garden"
     },
     {
-        "level": 2.0,
-        "image_filename": "Fence.jpg",
-        "card_type": "vocab",
+        "level": "fence",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "Fence"
     },
     {
-        "level": 2.0,
-        "image_filename": "Foundation.jpg",
-        "card_type": "vocab",
+        "level": "foundation",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -504,9 +504,9 @@
         "audio_dir": "Foundation"
     },
     {
-        "level": 2.0,
-        "image_filename": "Fireplace.jpg",
-        "card_type": "vocab",
+        "level": "fireplace",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -522,9 +522,9 @@
         "audio_dir": "Fireplace"
     },
     {
-        "level": 2.0,
-        "image_filename": "Mirror.jpg",
-        "card_type": "vocab",
+        "level": "mirror",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -540,9 +540,9 @@
         "audio_dir": "Mirror"
     },
     {
-        "level": 2.0,
-        "image_filename": "Cabinet.jpg",
-        "card_type": "vocab",
+        "level": "cabinet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -558,9 +558,9 @@
         "audio_dir": "Cabinet"
     },
     {
-        "level": 2.0,
-        "image_filename": "shelves.jpg",
-        "card_type": "vocab",
+        "level": "shelves",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -576,9 +576,9 @@
         "audio_dir": "shelves"
     },
     {
-        "level": 2.0,
-        "image_filename": "Couch.jpg",
-        "card_type": "vocab",
+        "level": "couch",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -594,9 +594,9 @@
         "audio_dir": "Couch"
     },
     {
-        "level": 2.0,
-        "image_filename": "Chair.jpg",
-        "card_type": "vocab",
+        "level": "chair",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -612,9 +612,9 @@
         "audio_dir": "Chair"
     },
     {
-        "level": 2.0,
-        "image_filename": "Rug.jpg",
-        "card_type": "vocab",
+        "level": "rug",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -630,9 +630,9 @@
         "audio_dir": "Rug"
     },
     {
-        "level": 2.0,
-        "image_filename": "Lamp.jpg",
-        "card_type": "vocab",
+        "level": "lamp",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -648,9 +648,9 @@
         "audio_dir": "Lamp"
     },
     {
-        "level": 2.0,
-        "image_filename": "lamp_.jpg",
-        "card_type": "vocab",
+        "level": "lamp_",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -666,9 +666,9 @@
         "audio_dir": "Dresser"
     },
     {
-        "level": 2.0,
-        "image_filename": "Wardrobe.jpg",
-        "card_type": "vocab",
+        "level": "wardrobe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -679,14 +679,14 @@
         "tag": "sustantivo - en una casa",
         "prompt": "Wardrobe",
         "answer": "Wardrobe",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13560, \"\"[A-Za-z]+\"\")\"), \"Wardrobe\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7298, \"\"[A-Za-z]+\"\")\"), \"Wardrobe\")",
         "audio_filename": "line4_en_682.mp3",
         "audio_dir": "Wardrobe"
     },
     {
-        "level": 2.0,
-        "image_filename": "table.jpg",
-        "card_type": "vocab",
+        "level": "table",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -702,9 +702,9 @@
         "audio_dir": "table"
     },
     {
-        "level": 2.0,
-        "image_filename": "Couch.jpg",
-        "card_type": "vocab",
+        "level": "couch",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -720,9 +720,9 @@
         "audio_dir": "Couch"
     },
     {
-        "level": 2.0,
-        "image_filename": "bed.jpg",
-        "card_type": "vocab",
+        "level": "bed",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -738,9 +738,9 @@
         "audio_dir": "Bed"
     },
     {
-        "level": 2.0,
-        "image_filename": "house.jpg",
-        "card_type": "vocab",
+        "level": "house",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -756,9 +756,9 @@
         "audio_dir": "house"
     },
     {
-        "level": 2.0,
-        "image_filename": "ac2.jpg",
-        "card_type": "vocab",
+        "level": "ac2",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -774,9 +774,9 @@
         "audio_dir": "air conditioner (AC)"
     },
     {
-        "level": 2.0,
-        "image_filename": "toilet.jpg",
-        "card_type": "vocab",
+        "level": "toilet",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -792,9 +792,9 @@
         "audio_dir": "toilet"
     },
     {
-        "level": 2.0,
-        "image_filename": "shower.jpg",
-        "card_type": "vocab",
+        "level": "shower",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -810,9 +810,9 @@
         "audio_dir": "shower"
     },
     {
-        "level": 2.0,
-        "image_filename": "sink.jpg",
-        "card_type": "vocab",
+        "level": "sink",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -828,9 +828,9 @@
         "audio_dir": "sink"
     },
     {
-        "level": 2.0,
-        "image_filename": "Bathtub.jpg",
-        "card_type": "vocab",
+        "level": "bathtub",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -841,7 +841,7 @@
         "tag": "sustantivo - en una casa",
         "prompt": "Bathtub",
         "answer": "Bathtub",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13569, \"\"[A-Za-z]+\"\")\"), \"Bathtub\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7307, \"\"[A-Za-z]+\"\")\"), \"Bathtub\")",
         "audio_filename": "line_en_253.mp3",
         "audio_dir": "Bathtub"
     }

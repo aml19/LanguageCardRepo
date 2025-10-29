@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "once.jpg",
-        "card_type": "reading",
+        "level": "once",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "une fois : en une seule occasion ou pour une seule fois."
     },
     {
-        "level": 4.0,
-        "image_filename": "suddenly.jpg",
-        "card_type": "vocab",
+        "level": "suddenly",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "tomber soudainement ; rapidement et inattendu."
     },
     {
-        "level": 4.0,
-        "image_filename": "",
-        "card_type": "reading",
+        "level": null,
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "finalement: en fin de compte"
     },
     {
-        "level": 4.0,
-        "image_filename": "both.jpg",
-        "card_type": "vocab",
+        "level": "both",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "les deux joueurs veulent la balle"
     },
     {
-        "level": 4.0,
-        "image_filename": "whenever.jpg",
-        "card_type": "reading",
+        "level": "whenever",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

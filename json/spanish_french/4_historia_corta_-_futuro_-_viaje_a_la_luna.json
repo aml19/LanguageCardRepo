@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "moon.jpg",
-        "card_type": "vocab",
+        "level": "moon",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "lune"
     },
     {
-        "level": 4.0,
-        "image_filename": "Person.jpg",
-        "card_type": "vocab",
+        "level": "person",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "Une personne"
     },
     {
-        "level": 4.0,
-        "image_filename": "road_trip.jpg",
-        "card_type": "vocab",
+        "level": "road_trip",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -54,9 +54,9 @@
         "audio_dir": "Un voyage"
     },
     {
-        "level": 4.0,
-        "image_filename": "Gravity.jpg",
-        "card_type": "vocab",
+        "level": "gravity",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -72,9 +72,9 @@
         "audio_dir": "La gravité : la force qui attire un corps vers le centre de la Terre"
     },
     {
-        "level": 4.0,
-        "image_filename": "Earth.jpg",
-        "card_type": "vocab",
+        "level": "earth",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -90,9 +90,9 @@
         "audio_dir": "La Terre"
     },
     {
-        "level": 4.0,
-        "image_filename": "Space.jpg",
-        "card_type": "vocab",
+        "level": "space",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -108,9 +108,9 @@
         "audio_dir": "Il y a beaucoup de choses dans l'espace"
     },
     {
-        "level": 4.0,
-        "image_filename": "Thrill.jpg",
-        "card_type": "vocab",
+        "level": "thrill",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -126,9 +126,9 @@
         "audio_dir": "Monter pour une montée d'adrénaline"
     },
     {
-        "level": 4.0,
-        "image_filename": "Foot.jpg",
-        "card_type": "vocab",
+        "level": "foot",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -144,9 +144,9 @@
         "audio_dir": "Un pied"
     },
     {
-        "level": 4.0,
-        "image_filename": "Body.jpg",
-        "card_type": "vocab",
+        "level": "body",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -162,9 +162,9 @@
         "audio_dir": "Un corps"
     },
     {
-        "level": 4.0,
-        "image_filename": "History.jpg",
-        "card_type": "vocab",
+        "level": "history",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -180,9 +180,9 @@
         "audio_dir": "Une histoire"
     },
     {
-        "level": 4.0,
-        "image_filename": "Surface.jpg",
-        "card_type": "vocab",
+        "level": "surface",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -198,9 +198,9 @@
         "audio_dir": "La surface de la lune"
     },
     {
-        "level": 4.0,
-        "image_filename": "Experiment.jpg",
-        "card_type": "vocab",
+        "level": "experiment",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -216,9 +216,9 @@
         "audio_dir": "Faire une expérience"
     },
     {
-        "level": 4.0,
-        "image_filename": "Habitat.jpg",
-        "card_type": "vocab",
+        "level": "habitat",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -234,9 +234,9 @@
         "audio_dir": "Chaque animal dans son habitat"
     },
     {
-        "level": 4.0,
-        "image_filename": "Adventure.jpg",
-        "card_type": "vocab",
+        "level": "adventure",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -252,9 +252,9 @@
         "audio_dir": "en aventure"
     },
     {
-        "level": 4.0,
-        "image_filename": "Lifetime.jpg",
-        "card_type": "vocab",
+        "level": "lifetime",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -270,9 +270,9 @@
         "audio_dir": "toute une vie: une vie allant de jeune à vieux"
     },
     {
-        "level": 4.0,
-        "image_filename": "Pioneer.jpg",
-        "card_type": "reading",
+        "level": "pioneer",
+        "image_filename": "reading.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -288,9 +288,9 @@
         "audio_dir": "Un pionnier américain allant vers l'ouest"
     },
     {
-        "level": 4.0,
-        "image_filename": "Exploration.jpg",
-        "card_type": "vocab",
+        "level": "exploration",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -306,9 +306,9 @@
         "audio_dir": "exploration : l'action de voyager dans ou à travers une région inconnue afin d'en apprendre davantage sur elle."
     },
     {
-        "level": 4.0,
-        "image_filename": "Journey.jpg",
-        "card_type": "vocab",
+        "level": "journey",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -324,9 +324,9 @@
         "audio_dir": "Un long voyage à venir"
     },
     {
-        "level": 4.0,
-        "image_filename": "step.jpg",
-        "card_type": "vocab",
+        "level": "step",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -342,9 +342,9 @@
         "audio_dir": "Un pas"
     },
     {
-        "level": 4.0,
-        "image_filename": "Believe.jpg",
-        "card_type": "vocab",
+        "level": "believe",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -360,9 +360,9 @@
         "audio_dir": "croire : accepter (quelque chose) comme vrai ; être sûr de la vérité de cela."
     },
     {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
+        "level": "go_with_her",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -378,9 +378,9 @@
         "audio_dir": "aller avec elle"
     },
     {
-        "level": 4.0,
-        "image_filename": "dream.jpg",
-        "card_type": "vocab",
+        "level": "dream",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -396,9 +396,9 @@
         "audio_dir": "Rêver"
     },
     {
-        "level": 4.0,
-        "image_filename": "experience.jpg",
-        "card_type": "vocab",
+        "level": "experience",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -414,9 +414,9 @@
         "audio_dir": "expérimenter la réalité virtuelle"
     },
     {
-        "level": 4.0,
-        "image_filename": "See.jpg",
-        "card_type": "vocab",
+        "level": "see",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -432,9 +432,9 @@
         "audio_dir": "Voir"
     },
     {
-        "level": 4.0,
-        "image_filename": "wait.jpg",
-        "card_type": "vocab",
+        "level": "wait",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -450,9 +450,9 @@
         "audio_dir": "attendre"
     },
     {
-        "level": 4.0,
-        "image_filename": "explore.jpg",
-        "card_type": "vocab",
+        "level": "explore",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -468,9 +468,9 @@
         "audio_dir": "explorer un nouveau monde"
     },
     {
-        "level": 4.0,
-        "image_filename": "Conduct.jpg",
-        "card_type": "vocab",
+        "level": "conduct",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -486,9 +486,9 @@
         "audio_dir": "diriger un groupe"
     },
     {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
+        "level": "make",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",

@@ -1,8 +1,8 @@
 [
     {
-        "level": 4.0,
-        "image_filename": "carefully.jpg",
-        "card_type": "vocab",
+        "level": "carefully",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -18,9 +18,9 @@
         "audio_dir": "marcher prudemment lorsque vous êtes vieux"
     },
     {
-        "level": 4.0,
-        "image_filename": "about.jpg",
-        "card_type": "vocab",
+        "level": "about",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -36,9 +36,9 @@
         "audio_dir": "livres sur beaucoup de choses"
     },
     {
-        "level": 4.0,
-        "image_filename": "together.jpg",
-        "card_type": "vocab",
+        "level": "together",
+        "image_filename": "vocab.jpg",
+        "card_type": null,
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
