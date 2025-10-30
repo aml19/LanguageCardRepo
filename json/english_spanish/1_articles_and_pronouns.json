@@ -1,8 +1,8 @@
 [
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "el"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "la"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "los"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "las"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "un"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "una"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "unos"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "unas"
     },
     {
-        "level": "i_me",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "i_me.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, pronouns are used to replace nouns for clarity and conciseness, similar to English. However, Spanish pronouns exhibit more variation in forms based on gender and number, and their placement within sentences can differ. Additionally, Spanish allows for more frequent omission of pronouns when the context is clear, contributing to a more flexible and context-dependent usage compared to English.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Yo"
     },
     {
-        "level": "you",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "you.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, pronouns are used to replace nouns for clarity and conciseness, similar to English. However, Spanish pronouns exhibit more variation in forms based on gender and number, and their placement within sentences can differ. Additionally, Spanish allows for more frequent omission of pronouns when the context is clear, contributing to a more flexible and context-dependent usage compared to English.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Tú"
     },
     {
-        "level": "you",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "you.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, pronouns are used to replace nouns for clarity and conciseness, similar to English. However, Spanish pronouns exhibit more variation in forms based on gender and number, and their placement within sentences can differ. Additionally, Spanish allows for more frequent omission of pronouns when the context is clear, contributing to a more flexible and context-dependent usage compared to English.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Usted"
     },
     {
-        "level": "he_him",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "he_him.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, pronouns are used to replace nouns for clarity and conciseness, similar to English. However, Spanish pronouns exhibit more variation in forms based on gender and number, and their placement within sentences can differ. Additionally, Spanish allows for more frequent omission of pronouns when the context is clear, contributing to a more flexible and context-dependent usage compared to English.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Él"
     },
     {
-        "level": "she_her",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "she_her.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, pronouns are used to replace nouns for clarity and conciseness, similar to English. However, Spanish pronouns exhibit more variation in forms based on gender and number, and their placement within sentences can differ. Additionally, Spanish allows for more frequent omission of pronouns when the context is clear, contributing to a more flexible and context-dependent usage compared to English.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Ella"
     },
     {
-        "level": "it_it",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "it_it.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, pronouns are used to replace nouns for clarity and conciseness, similar to English. However, Spanish pronouns exhibit more variation in forms based on gender and number, and their placement within sentences can differ. Additionally, Spanish allows for more frequent omission of pronouns when the context is clear, contributing to a more flexible and context-dependent usage compared to English.",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Él/Ella (for objects or animals)"
     },
     {
-        "level": "we_us",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "we_us.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, pronouns are used to replace nouns for clarity and conciseness, similar to English. However, Spanish pronouns exhibit more variation in forms based on gender and number, and their placement within sentences can differ. Additionally, Spanish allows for more frequent omission of pronouns when the context is clear, contributing to a more flexible and context-dependent usage compared to English.",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Nosotros/Nosotras"
     },
     {
-        "level": "you_all",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "you_all.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, pronouns are used to replace nouns for clarity and conciseness, similar to English. However, Spanish pronouns exhibit more variation in forms based on gender and number, and their placement within sentences can differ. Additionally, Spanish allows for more frequent omission of pronouns when the context is clear, contributing to a more flexible and context-dependent usage compared to English.",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Vosotros/Vosotras/Ustedes"
     },
     {
-        "level": "they_them",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "they_them.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, pronouns are used to replace nouns for clarity and conciseness, similar to English. However, Spanish pronouns exhibit more variation in forms based on gender and number, and their placement within sentences can differ. Additionally, Spanish allows for more frequent omission of pronouns when the context is clear, contributing to a more flexible and context-dependent usage compared to English.",
         "native_language": "english",

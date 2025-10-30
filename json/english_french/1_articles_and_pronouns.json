@@ -1,8 +1,8 @@
 [
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "le"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "la"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "les"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "une"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "des"
     },
     {
-        "level": "i_me",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "i_me.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, pronouns are used similarly to English, replacing nouns for efficiency. However, French pronouns exhibit more variations in forms based on gender and number, and their placement within sentences can differ. French also employs disjunctive pronouns for emphasis or clarification. Additionally, French uses \"tu\" and \"vous\" to distinguish between informal and formal address, affecting pronoun choices, unlike English.",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Je"
     },
     {
-        "level": "you",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "you.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, pronouns are used similarly to English, replacing nouns for efficiency. However, French pronouns exhibit more variations in forms based on gender and number, and their placement within sentences can differ. French also employs disjunctive pronouns for emphasis or clarification. Additionally, French uses \"tu\" and \"vous\" to distinguish between informal and formal address, affecting pronoun choices, unlike English.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Tu"
     },
     {
-        "level": "you",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "you.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, pronouns are used similarly to English, replacing nouns for efficiency. However, French pronouns exhibit more variations in forms based on gender and number, and their placement within sentences can differ. French also employs disjunctive pronouns for emphasis or clarification. Additionally, French uses \"tu\" and \"vous\" to distinguish between informal and formal address, affecting pronoun choices, unlike English.",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Vous"
     },
     {
-        "level": "he_him",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "he_him.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, pronouns are used similarly to English, replacing nouns for efficiency. However, French pronouns exhibit more variations in forms based on gender and number, and their placement within sentences can differ. French also employs disjunctive pronouns for emphasis or clarification. Additionally, French uses \"tu\" and \"vous\" to distinguish between informal and formal address, affecting pronoun choices, unlike English.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Il"
     },
     {
-        "level": "she_her",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "she_her.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, pronouns are used similarly to English, replacing nouns for efficiency. However, French pronouns exhibit more variations in forms based on gender and number, and their placement within sentences can differ. French also employs disjunctive pronouns for emphasis or clarification. Additionally, French uses \"tu\" and \"vous\" to distinguish between informal and formal address, affecting pronoun choices, unlike English.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Elle"
     },
     {
-        "level": "it_it",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "it_it.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, pronouns are used similarly to English, replacing nouns for efficiency. However, French pronouns exhibit more variations in forms based on gender and number, and their placement within sentences can differ. French also employs disjunctive pronouns for emphasis or clarification. Additionally, French uses \"tu\" and \"vous\" to distinguish between informal and formal address, affecting pronoun choices, unlike English.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Il/Elle"
     },
     {
-        "level": "we_us",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "we_us.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, pronouns are used similarly to English, replacing nouns for efficiency. However, French pronouns exhibit more variations in forms based on gender and number, and their placement within sentences can differ. French also employs disjunctive pronouns for emphasis or clarification. Additionally, French uses \"tu\" and \"vous\" to distinguish between informal and formal address, affecting pronoun choices, unlike English.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Nous"
     },
     {
-        "level": "you_all",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "you_all.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, pronouns are used similarly to English, replacing nouns for efficiency. However, French pronouns exhibit more variations in forms based on gender and number, and their placement within sentences can differ. French also employs disjunctive pronouns for emphasis or clarification. Additionally, French uses \"tu\" and \"vous\" to distinguish between informal and formal address, affecting pronoun choices, unlike English.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Vous"
     },
     {
-        "level": "they_them",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "they_them.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, pronouns are used similarly to English, replacing nouns for efficiency. However, French pronouns exhibit more variations in forms based on gender and number, and their placement within sentences can differ. French also employs disjunctive pronouns for emphasis or clarification. Additionally, French uses \"tu\" and \"vous\" to distinguish between informal and formal address, affecting pronoun choices, unlike English.",
         "native_language": "english",

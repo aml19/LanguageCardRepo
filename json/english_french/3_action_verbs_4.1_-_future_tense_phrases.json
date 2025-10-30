@@ -1,8 +1,8 @@
 [
     {
-        "level": "cook_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Je cuisinerai plus tard"
     },
     {
-        "level": "cook_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cook_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Tu cuisineras plus tard"
     },
     {
-        "level": "cook_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cook_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Il cuisinera plus tard"
     },
     {
-        "level": "cook_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Elle cuisinera plus tard"
     },
     {
-        "level": "cook_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Vous cuisinerez plus tard"
     },
     {
-        "level": "cook_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Nous cuisinerons plus tard"
     },
     {
-        "level": "cook_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Ils cuisineront plus tard"
     },
     {
-        "level": "cook_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Vous cuisinerez plus tard"
     },
     {
-        "level": "cry_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cry_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Je pleurerai si c'est mauvais"
     },
     {
-        "level": "cry_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cry_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Tu pleureras si c'est mauvais"
     },
     {
-        "level": "cry_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cry_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Il pleurera si c'est mauvais"
     },
     {
-        "level": "cry_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cry_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Elle pleurera si c'est mauvais"
     },
     {
-        "level": "cry_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cry_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Vous pleurerez si c'est mauvais"
     },
     {
-        "level": "cry_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cry_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Nous pleurerons si c'est mauvais"
     },
     {
-        "level": "cry_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cry_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Ils pleureront si c'est mauvais"
     },
     {
-        "level": "cry_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "cry_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Vous pleurerez si c'est mauvais"
     },
     {
-        "level": "dance_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "dance_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Je danserai demain"
     },
     {
-        "level": "dance_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "dance_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Tu danseras demain"
     },
     {
-        "level": "dance_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "dance_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Il dansera demain"
     },
     {
-        "level": "dance_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "dance_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Elle dansera demain"
     },
     {
-        "level": "dance_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "dance_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Vous danserez demain"
     },
     {
-        "level": "dance_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "dance_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Nous danserons demain"
     },
     {
-        "level": "dance_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "dance_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Ils danseront demain"
     },
     {
-        "level": "dance_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "dance_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Vous danserez demain"
     },
     {
-        "level": "drink_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drink_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Je boirai quand j'arriverai là-bas"
     },
     {
-        "level": "drink_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drink_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Tu boiras quand j'arriverai là-bas"
     },
     {
-        "level": "drink_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drink_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Il boira quand j'arriverai là-bas"
     },
     {
-        "level": "drink_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drink_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Elle boira quand j'arriverai là-bas"
     },
     {
-        "level": "drink_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drink_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Vous boirez quand j'arriverai là-bas"
     },
     {
-        "level": "drink_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drink_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Nous boirons quand j'arriverai là-bas"
     },
     {
-        "level": "drink_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drink_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Ils boiront quand j'arriverai là-bas"
     },
     {
-        "level": "drink_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drink_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Vous boirez quand j'arriverai là-bas"
     },
     {
-        "level": "drive_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drive_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Je conduirai demain"
     },
     {
-        "level": "drive_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drive_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Tu conduiras demain"
     },
     {
-        "level": "drive_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drive_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Il conduira demain"
     },
     {
-        "level": "drive_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drive_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Elle conduira demain"
     },
     {
-        "level": "drive_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drive_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Vous conduirez demain"
     },
     {
-        "level": "drive_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drive_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Nous conduirons demain"
     },
     {
-        "level": "drive_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drive_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Ils conduiront demain"
     },
     {
-        "level": "drive_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drive_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Vous conduirez demain"
     },
     {
-        "level": "eat_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "eat_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Je mangerai plus tard"
     },
     {
-        "level": "eat_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "eat_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "Tu mangeras plus tard"
     },
     {
-        "level": "eat_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "eat_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Il mangera plus tard"
     },
     {
-        "level": "eat_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "eat_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Elle mangera plus tard"
     },
     {
-        "level": "eat_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "eat_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "Vous mangerez plus tard"
     },
     {
-        "level": "eat_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "eat_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "Nous mangerons plus tard"
     },
     {
-        "level": "eat_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "eat_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Ils mangeront plus tard"
     },
     {
-        "level": "eat_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "eat_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "Vous mangerez plus tard"
     },
     {
-        "level": "fall_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "fall_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "Je tomberai si c'est difficile"
     },
     {
-        "level": "fall_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "fall_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "Tu tomberas si c'est difficile"
     },
     {
-        "level": "fall_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "fall_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "Il tombera si c'est difficile"
     },
     {
-        "level": "fall_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "fall_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "Elle tombera si c'est difficile"
     },
     {
-        "level": "fall_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "fall_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "Vous tomberez si c'est difficile"
     },
     {
-        "level": "fall_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "fall_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "Nous tomberons si c'est difficile"
     },
     {
-        "level": "fall_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "fall_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "Ils tomberont si c'est difficile"
     },
     {
-        "level": "fall_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "fall_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "Vous tomberez si c'est difficile"
     },
     {
-        "level": "jump_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "jump_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "Je sauterai plus tard"
     },
     {
-        "level": "jump_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "jump_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "Tu sauteras plus tard"
     },
     {
-        "level": "jump_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "jump_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "Il sautera plus tard"
     },
     {
-        "level": "jump_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "jump_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "Elle sautera plus tard"
     },
     {
-        "level": "jump_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "jump_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "Vous sauterez plus tard"
     },
     {
-        "level": "jump_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "jump_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "Nous sauterons plus tard"
     },
     {
-        "level": "jump_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "jump_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "Ils sauteront plus tard"
     },
     {
-        "level": "jump_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "jump_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "Vous sauterez plus tard"
     },
     {
-        "level": "laugh_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "laugh_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Je rirai si c'est drôle"
     },
     {
-        "level": "laugh_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "laugh_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "Tu riras si c'est drôle"
     },
     {
-        "level": "laugh_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "laugh_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "Il rira si c'est drôle"
     },
     {
-        "level": "laugh_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "laugh_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "Elle rira si c'est drôle"
     },
     {
-        "level": "laugh_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "laugh_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "Vous rirez si c'est drôle"
     },
     {
-        "level": "laugh_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "laugh_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Nous rirons si c'est drôle"
     },
     {
-        "level": "laugh_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "laugh_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "Ils riront si c'est drôle"
     },
     {
-        "level": "laugh_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "laugh_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "Vous rirez si c'est drôle"
     },
     {
-        "level": "love_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "love_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "Je aimerai dans le futur"
     },
     {
-        "level": "love_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "love_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "Tu aimeras dans le futur"
     },
     {
-        "level": "love_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "love_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "Il aimera dans le futur"
     },
     {
-        "level": "love_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "love_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1368,9 +1368,9 @@
         "audio_dir": "Elle aimera dans le futur"
     },
     {
-        "level": "love_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "love_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1386,9 +1386,9 @@
         "audio_dir": "Vous aimerez dans le futur"
     },
     {
-        "level": "love_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "love_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1404,9 +1404,9 @@
         "audio_dir": "Nous aimerons dans le futur"
     },
     {
-        "level": "love_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "love_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1422,9 +1422,9 @@
         "audio_dir": "Ils aimeront dans le futur"
     },
     {
-        "level": "love_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "love_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1440,9 +1440,9 @@
         "audio_dir": "Vous aimerez dans le futur"
     },
     {
-        "level": "play_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "play_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1458,9 +1458,9 @@
         "audio_dir": "Il jouera demain"
     },
     {
-        "level": "pull_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "pull_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1476,9 +1476,9 @@
         "audio_dir": "Il tirera plus tard"
     },
     {
-        "level": "push_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "push_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1494,9 +1494,9 @@
         "audio_dir": "Il poussera plus tard"
     },
     {
-        "level": "say_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "say_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1512,9 +1512,9 @@
         "audio_dir": "Il le dira demain"
     },
     {
-        "level": "sing_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sing_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1530,9 +1530,9 @@
         "audio_dir": "Il le chantera demain"
     },
     {
-        "level": "sleep_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sleep_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1548,9 +1548,9 @@
         "audio_dir": "Il dormira plus tard"
     },
     {
-        "level": "speak_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "speak_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1566,9 +1566,9 @@
         "audio_dir": "Il leur parlera plus tard"
     },
     {
-        "level": "study_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "study_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1584,9 +1584,9 @@
         "audio_dir": "Il étudiera la semaine prochaine"
     },
     {
-        "level": "swim_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "swim_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1602,9 +1602,9 @@
         "audio_dir": "Il nagera demain"
     },
     {
-        "level": "talk_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "talk_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1620,9 +1620,9 @@
         "audio_dir": "Il parlera demain"
     },
     {
-        "level": "play_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "play_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1638,9 +1638,9 @@
         "audio_dir": "Je jouerai demain"
     },
     {
-        "level": "pull_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "pull_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1656,9 +1656,9 @@
         "audio_dir": "Je tirerai plus tard"
     },
     {
-        "level": "push_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "push_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1674,9 +1674,9 @@
         "audio_dir": "Je pousserai plus tard"
     },
     {
-        "level": "say_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "say_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1692,9 +1692,9 @@
         "audio_dir": "Je le dirai demain"
     },
     {
-        "level": "sing_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1710,9 +1710,9 @@
         "audio_dir": "Je le chanterai demain"
     },
     {
-        "level": "sleep_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sleep_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1728,9 +1728,9 @@
         "audio_dir": "Je dormirai plus tard"
     },
     {
-        "level": "speak_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "speak_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1746,9 +1746,9 @@
         "audio_dir": "Je leur parlerai plus tard"
     },
     {
-        "level": "study_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "study_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1764,9 +1764,9 @@
         "audio_dir": "J'étudierai la semaine prochaine"
     },
     {
-        "level": "swim_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "swim_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1782,9 +1782,9 @@
         "audio_dir": "Je nagerai demain"
     },
     {
-        "level": "talk_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "talk_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1800,9 +1800,9 @@
         "audio_dir": "Je parlerai demain"
     },
     {
-        "level": "play_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "play_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1818,9 +1818,9 @@
         "audio_dir": "Elle jouera demain"
     },
     {
-        "level": "pull_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "pull_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1836,9 +1836,9 @@
         "audio_dir": "Elle tirera plus tard"
     },
     {
-        "level": "push_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "push_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1854,9 +1854,9 @@
         "audio_dir": "Elle poussera plus tard"
     },
     {
-        "level": "say_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "say_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1872,9 +1872,9 @@
         "audio_dir": "Elle le dira demain"
     },
     {
-        "level": "sing_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1890,9 +1890,9 @@
         "audio_dir": "Elle le chantera demain"
     },
     {
-        "level": "sleep_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sleep_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1908,9 +1908,9 @@
         "audio_dir": "Elle dormira plus tard"
     },
     {
-        "level": "speak_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "speak_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1926,9 +1926,9 @@
         "audio_dir": "Elle leur parlera plus tard"
     },
     {
-        "level": "study_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "study_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1944,9 +1944,9 @@
         "audio_dir": "Elle étudiera la semaine prochaine"
     },
     {
-        "level": "swim_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "swim_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1962,9 +1962,9 @@
         "audio_dir": "Elle nagera demain"
     },
     {
-        "level": "talk_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "talk_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1980,9 +1980,9 @@
         "audio_dir": "Elle parlera demain"
     },
     {
-        "level": "play_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "play_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -1998,9 +1998,9 @@
         "audio_dir": "Ils joueront demain"
     },
     {
-        "level": "pull_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "pull_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2016,9 +2016,9 @@
         "audio_dir": "Ils tireront plus tard"
     },
     {
-        "level": "push_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "push_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2034,9 +2034,9 @@
         "audio_dir": "Ils pousseront plus tard"
     },
     {
-        "level": "say_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "say_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2052,9 +2052,9 @@
         "audio_dir": "Ils le diront demain"
     },
     {
-        "level": "sing_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2070,9 +2070,9 @@
         "audio_dir": "Ils le chanteront demain"
     },
     {
-        "level": "sleep_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sleep_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2088,9 +2088,9 @@
         "audio_dir": "Ils dormiront plus tard"
     },
     {
-        "level": "speak_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "speak_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2106,9 +2106,9 @@
         "audio_dir": "Ils leur parleront plus tard"
     },
     {
-        "level": "study_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "study_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2124,9 +2124,9 @@
         "audio_dir": "Ils étudieront la semaine prochaine"
     },
     {
-        "level": "swim_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "swim_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2142,9 +2142,9 @@
         "audio_dir": "Ils nageront demain"
     },
     {
-        "level": "talk_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "talk_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2160,9 +2160,9 @@
         "audio_dir": "Ils parleront demain"
     },
     {
-        "level": "play_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "play_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2178,9 +2178,9 @@
         "audio_dir": "Nous jouerons demain"
     },
     {
-        "level": "pull_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "pull_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2196,9 +2196,9 @@
         "audio_dir": "Nous tirerons plus tard"
     },
     {
-        "level": "push_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "push_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2214,9 +2214,9 @@
         "audio_dir": "Nous pousserons plus tard"
     },
     {
-        "level": "say_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "say_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2232,9 +2232,9 @@
         "audio_dir": "Nous le dirons demain"
     },
     {
-        "level": "sing_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2250,9 +2250,9 @@
         "audio_dir": "Nous le chanterons demain"
     },
     {
-        "level": "sleep_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sleep_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2268,9 +2268,9 @@
         "audio_dir": "Nous dormirons plus tard"
     },
     {
-        "level": "speak_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "speak_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2286,9 +2286,9 @@
         "audio_dir": "Nous leur parlerons plus tard"
     },
     {
-        "level": "study_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "study_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2304,9 +2304,9 @@
         "audio_dir": "Nous étudierons la semaine prochaine"
     },
     {
-        "level": "swim_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "swim_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2322,9 +2322,9 @@
         "audio_dir": "Nous nagerons demain"
     },
     {
-        "level": "talk_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "talk_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2340,9 +2340,9 @@
         "audio_dir": "Nous parlerons demain"
     },
     {
-        "level": "play_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "play_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2358,9 +2358,9 @@
         "audio_dir": "Vous jouerez demain"
     },
     {
-        "level": "pull_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "pull_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2376,9 +2376,9 @@
         "audio_dir": "Vous tirerez plus tard"
     },
     {
-        "level": "push_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "push_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2394,9 +2394,9 @@
         "audio_dir": "Vous pousserez plus tard"
     },
     {
-        "level": "say_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "say_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2412,9 +2412,9 @@
         "audio_dir": "Vous le direz demain"
     },
     {
-        "level": "sing_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2430,9 +2430,9 @@
         "audio_dir": "Vous le chanterez demain"
     },
     {
-        "level": "sleep_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sleep_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2448,9 +2448,9 @@
         "audio_dir": "Vous dormirez plus tard"
     },
     {
-        "level": "speak_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "speak_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2466,9 +2466,9 @@
         "audio_dir": "Vous leur parlerez plus tard"
     },
     {
-        "level": "study_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "study_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2484,9 +2484,9 @@
         "audio_dir": "Vous étudierez la semaine prochaine"
     },
     {
-        "level": "swim_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "swim_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2502,9 +2502,9 @@
         "audio_dir": "Vous nagerez demain"
     },
     {
-        "level": "talk_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "talk_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2520,9 +2520,9 @@
         "audio_dir": "Vous parlerez demain"
     },
     {
-        "level": "play_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "play_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2538,9 +2538,9 @@
         "audio_dir": "Vous jouerez demain"
     },
     {
-        "level": "pull_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "pull_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2556,9 +2556,9 @@
         "audio_dir": "Vous tirerez plus tard"
     },
     {
-        "level": "push_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "push_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2574,9 +2574,9 @@
         "audio_dir": "Vous pousserez plus tard"
     },
     {
-        "level": "say_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "say_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2592,9 +2592,9 @@
         "audio_dir": "Vous le direz demain"
     },
     {
-        "level": "sing_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2610,9 +2610,9 @@
         "audio_dir": "Vous le chanterez demain"
     },
     {
-        "level": "sleep_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sleep_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2628,9 +2628,9 @@
         "audio_dir": "Vous dormirez plus tard"
     },
     {
-        "level": "speak_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "speak_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2646,9 +2646,9 @@
         "audio_dir": "Vous leur parlerez plus tard"
     },
     {
-        "level": "study_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "study_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2664,9 +2664,9 @@
         "audio_dir": "Vous étudierez la semaine prochaine"
     },
     {
-        "level": "swim_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "swim_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2682,9 +2682,9 @@
         "audio_dir": "Vous nagerez demain"
     },
     {
-        "level": "talk_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "talk_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2700,9 +2700,9 @@
         "audio_dir": "Vous parlerez demain"
     },
     {
-        "level": "play_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "play_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2718,9 +2718,9 @@
         "audio_dir": "Tu joueras demain"
     },
     {
-        "level": "pull_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "pull_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2736,9 +2736,9 @@
         "audio_dir": "Tu tireras plus tard"
     },
     {
-        "level": "push_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "push_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2754,9 +2754,9 @@
         "audio_dir": "Tu pousseras plus tard"
     },
     {
-        "level": "say_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "say_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2772,9 +2772,9 @@
         "audio_dir": "Tu le diras demain"
     },
     {
-        "level": "sing_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sing_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2790,9 +2790,9 @@
         "audio_dir": "Tu le chanteras demain"
     },
     {
-        "level": "sleep_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "sleep_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2808,9 +2808,9 @@
         "audio_dir": "Tu dormiras plus tard"
     },
     {
-        "level": "speak_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "speak_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2826,9 +2826,9 @@
         "audio_dir": "Tu leur parleras plus tard"
     },
     {
-        "level": "study_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "study_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2844,9 +2844,9 @@
         "audio_dir": "Tu étudieras la semaine prochaine"
     },
     {
-        "level": "swim_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "swim_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2862,9 +2862,9 @@
         "audio_dir": "Tu nageras demain"
     },
     {
-        "level": "talk_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "talk_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2880,9 +2880,9 @@
         "audio_dir": "Tu parleras demain"
     },
     {
-        "level": "grab_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "grab_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2898,9 +2898,9 @@
         "audio_dir": "Vous saisirez si tu veux"
     },
     {
-        "level": "walk_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "walk_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2916,9 +2916,9 @@
         "audio_dir": "Elle marchera plus tard"
     },
     {
-        "level": "write_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "write_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2934,9 +2934,9 @@
         "audio_dir": "Tu écriras plus tard"
     },
     {
-        "level": "walk_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "walk_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2952,9 +2952,9 @@
         "audio_dir": "Nous marcherons plus tard"
     },
     {
-        "level": "throw_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "throw_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2970,9 +2970,9 @@
         "audio_dir": "Elle jettera plus tard"
     },
     {
-        "level": "walk_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "walk_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -2988,9 +2988,9 @@
         "audio_dir": "Il marchera plus tard"
     },
     {
-        "level": "hold_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "hold_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3006,9 +3006,9 @@
         "audio_dir": "Je tiendrai si tu demandes"
     },
     {
-        "level": "hold_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "hold_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3024,9 +3024,9 @@
         "audio_dir": "Vous tiendrez si tu demandes"
     },
     {
-        "level": "carry_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "carry_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3042,9 +3042,9 @@
         "audio_dir": "Je porterai si tu veux"
     },
     {
-        "level": "drop_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drop_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3060,9 +3060,9 @@
         "audio_dir": "Il laissera tomber si c'est trop lourd"
     },
     {
-        "level": "drop_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drop_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3078,9 +3078,9 @@
         "audio_dir": "Nous laisserons tomber si c'est trop lourd"
     },
     {
-        "level": "work_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "work_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3096,9 +3096,9 @@
         "audio_dir": "Il travaillera demain"
     },
     {
-        "level": "read_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "read_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3114,9 +3114,9 @@
         "audio_dir": "Nous lirons plus tard"
     },
     {
-        "level": "work_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "work_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3132,9 +3132,9 @@
         "audio_dir": "Je travaillerai demain"
     },
     {
-        "level": "hold_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "hold_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3150,9 +3150,9 @@
         "audio_dir": "Elle tiendra si tu demandes"
     },
     {
-        "level": "carry_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "carry_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3168,9 +3168,9 @@
         "audio_dir": "Vous porterez si tu veux"
     },
     {
-        "level": "read_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "read_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3186,9 +3186,9 @@
         "audio_dir": "Vous lirez plus tard"
     },
     {
-        "level": "read_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "read_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3204,9 +3204,9 @@
         "audio_dir": "Tu liras plus tard"
     },
     {
-        "level": "throw_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "throw_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3222,9 +3222,9 @@
         "audio_dir": "Ils jetteront plus tard"
     },
     {
-        "level": "work_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "work_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3240,9 +3240,9 @@
         "audio_dir": "Tu travailleras demain"
     },
     {
-        "level": "grab_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "grab_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3258,9 +3258,9 @@
         "audio_dir": "Ils saisiront si tu veux"
     },
     {
-        "level": "carry_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "carry_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3276,9 +3276,9 @@
         "audio_dir": "Nous porterons si tu veux"
     },
     {
-        "level": "walk_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "walk_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3294,9 +3294,9 @@
         "audio_dir": "Je marcherai plus tard"
     },
     {
-        "level": "carry_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "carry_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3312,9 +3312,9 @@
         "audio_dir": "Vous porterez si tu veux"
     },
     {
-        "level": "grab_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "grab_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3330,9 +3330,9 @@
         "audio_dir": "Je saisirai si tu veux"
     },
     {
-        "level": "hold_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "hold_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3348,9 +3348,9 @@
         "audio_dir": "Nous tiendrons si tu demandes"
     },
     {
-        "level": "throw_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "throw_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3366,9 +3366,9 @@
         "audio_dir": "Il jettera plus tard"
     },
     {
-        "level": "walk_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "walk_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3384,9 +3384,9 @@
         "audio_dir": "Tu marcheras plus tard"
     },
     {
-        "level": "grab_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "grab_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3402,9 +3402,9 @@
         "audio_dir": "Elle saisira si tu veux"
     },
     {
-        "level": "read_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "read_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3420,9 +3420,9 @@
         "audio_dir": "Vous lirez plus tard"
     },
     {
-        "level": "read_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "read_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3438,9 +3438,9 @@
         "audio_dir": "Ils liront plus tard"
     },
     {
-        "level": "write_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "write_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3456,9 +3456,9 @@
         "audio_dir": "Vous écrirez plus tard"
     },
     {
-        "level": "write_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "write_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3474,9 +3474,9 @@
         "audio_dir": "Elle écrira plus tard"
     },
     {
-        "level": "read_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "read_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3492,9 +3492,9 @@
         "audio_dir": "Je lirai plus tard"
     },
     {
-        "level": "grab_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "grab_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3510,9 +3510,9 @@
         "audio_dir": "Tu saisiras si tu veux"
     },
     {
-        "level": "carry_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "carry_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3528,9 +3528,9 @@
         "audio_dir": "Elle portera si tu veux"
     },
     {
-        "level": "drop_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drop_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3546,9 +3546,9 @@
         "audio_dir": "Vous laisserez tomber si c'est trop lourd"
     },
     {
-        "level": "drop_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drop_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3564,9 +3564,9 @@
         "audio_dir": "Elle laissera tomber si c'est trop lourd"
     },
     {
-        "level": "throw_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "throw_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3582,9 +3582,9 @@
         "audio_dir": "Je jetterai plus tard"
     },
     {
-        "level": "walk_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "walk_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3600,9 +3600,9 @@
         "audio_dir": "Vous marcherez plus tard"
     },
     {
-        "level": "read_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "read_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3618,9 +3618,9 @@
         "audio_dir": "Il lira plus tard"
     },
     {
-        "level": "hold_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "hold_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3636,9 +3636,9 @@
         "audio_dir": "Ils tiendront si tu demandes"
     },
     {
-        "level": "work_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "work_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3654,9 +3654,9 @@
         "audio_dir": "Ils travailleront demain"
     },
     {
-        "level": "write_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "write_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3672,9 +3672,9 @@
         "audio_dir": "Vous écrirez plus tard"
     },
     {
-        "level": "write_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "write_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3690,9 +3690,9 @@
         "audio_dir": "Il écrira plus tard"
     },
     {
-        "level": "carry_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "carry_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3708,9 +3708,9 @@
         "audio_dir": "Il portera si tu veux"
     },
     {
-        "level": "walk_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "walk_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3726,9 +3726,9 @@
         "audio_dir": "Ils marcheront plus tard"
     },
     {
-        "level": "work_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "work_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3744,9 +3744,9 @@
         "audio_dir": "Vous travaillerez demain"
     },
     {
-        "level": "write_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "write_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3762,9 +3762,9 @@
         "audio_dir": "J'écrirai plus tard"
     },
     {
-        "level": "throw_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "throw_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3780,9 +3780,9 @@
         "audio_dir": "Nous jetterons plus tard"
     },
     {
-        "level": "drop_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drop_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3798,9 +3798,9 @@
         "audio_dir": "Tu laisseras tomber si c'est trop lourd"
     },
     {
-        "level": "write_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "write_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3816,9 +3816,9 @@
         "audio_dir": "Nous écrirons plus tard"
     },
     {
-        "level": "walk_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "walk_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3834,9 +3834,9 @@
         "audio_dir": "Vous marcherez plus tard"
     },
     {
-        "level": "throw_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "throw_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3852,9 +3852,9 @@
         "audio_dir": "Vous jetterez plus tard"
     },
     {
-        "level": "hold_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "hold_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3870,9 +3870,9 @@
         "audio_dir": "Vous tiendrez si tu demandes"
     },
     {
-        "level": "grab_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "grab_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3888,9 +3888,9 @@
         "audio_dir": "Nous saisirons si tu veux"
     },
     {
-        "level": "grab_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "grab_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3906,9 +3906,9 @@
         "audio_dir": "Vous saisirez si tu veux"
     },
     {
-        "level": "drop_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drop_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3924,9 +3924,9 @@
         "audio_dir": "Je laisserai tomber si c'est trop lourd"
     },
     {
-        "level": "drop_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drop_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3942,9 +3942,9 @@
         "audio_dir": "Ils laisseront tomber si c'est trop lourd"
     },
     {
-        "level": "carry_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "carry_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3960,9 +3960,9 @@
         "audio_dir": "Ils porteront si tu veux"
     },
     {
-        "level": "throw_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "throw_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3978,9 +3978,9 @@
         "audio_dir": "Tu jetteras plus tard"
     },
     {
-        "level": "throw_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "throw_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -3996,9 +3996,9 @@
         "audio_dir": "Vous jetterez plus tard"
     },
     {
-        "level": "work_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "work_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -4014,9 +4014,9 @@
         "audio_dir": "Nous travaillerons demain"
     },
     {
-        "level": "read_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "read_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -4032,9 +4032,9 @@
         "audio_dir": "Elle lira plus tard"
     },
     {
-        "level": "work_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "work_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -4050,9 +4050,9 @@
         "audio_dir": "Vous travaillerez demain"
     },
     {
-        "level": "work_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "work_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -4068,9 +4068,9 @@
         "audio_dir": "Elle travaillera demain"
     },
     {
-        "level": "drop_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "drop_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -4086,9 +4086,9 @@
         "audio_dir": "Vous laisserez tomber si c'est trop lourd"
     },
     {
-        "level": "hold_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "hold_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -4104,9 +4104,9 @@
         "audio_dir": "Il tiendra si tu demandes"
     },
     {
-        "level": "carry_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "carry_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -4122,9 +4122,9 @@
         "audio_dir": "Tu porteras si tu veux"
     },
     {
-        "level": "grab_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "grab_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -4140,9 +4140,9 @@
         "audio_dir": "Il saisira si tu veux"
     },
     {
-        "level": "write_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "write_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",
@@ -4158,9 +4158,9 @@
         "audio_dir": "Ils écriront plus tard"
     },
     {
-        "level": "hold_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "f",
+        "level": 3.0,
+        "image_filename": "hold_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the future tense is used to express actions that will happen in the future. The conjugation of verbs in the future tense is relatively regular, with some common patterns.",
         "native_language": "english",

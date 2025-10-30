@@ -1,8 +1,8 @@
 [
     {
-        "level": "apple",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "apple.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "la Pomme"
     },
     {
-        "level": "vendor",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "vendor.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "vendeur de rue"
     },
     {
-        "level": "weight",
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "weight.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Des livres (poids)"
     },
     {
-        "level": "change2",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "change2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Un changement de pneu"
     },
     {
-        "level": "put_in_refridgerator_m",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "put_in_refridgerator_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "mettre du lait dans le réfrigérateur"
     },
     {
-        "level": null,
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "peu importe"
     },
     {
-        "level": "good",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "good.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "bon travail"
     },
     {
-        "level": "bracelet",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "bracelet.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Le bracelet"
     },
     {
-        "level": "stone",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "stone.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "fait en pierre"
     },
     {
-        "level": null,
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "ça marche"
     },
     {
-        "level": "make",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "faire"
     },
     {
-        "level": "beautiful",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "beautiful.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "belle femme"
     },
     {
-        "level": "real",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "real.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "vrai - faux"
     },
     {
-        "level": "lovely",
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "lovely.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "adorable"
     },
     {
-        "level": "handmade",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "handmade.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "fait main"
     },
     {
-        "level": "wonderful",
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "wonderful.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

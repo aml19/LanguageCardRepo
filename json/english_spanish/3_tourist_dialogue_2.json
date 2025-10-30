@@ -1,8 +1,8 @@
 [
     {
-        "level": "city",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "city.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "ciudad"
     },
     {
-        "level": "week",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "week.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "La semana"
     },
     {
-        "level": "ticket",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "ticket.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "El boleto"
     },
     {
-        "level": "clerk",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "clerk.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "empleado"
     },
     {
-        "level": "pass",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "pass.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "pasar por seguridad"
     },
     {
-        "level": "ride",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "ride.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "montar a caballo"
     },
     {
-        "level": "day",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "day.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "el día"
     },
     {
-        "level": "metro",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "metro.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "estación de metro"
     },
     {
-        "level": "transportation",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "transportation.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

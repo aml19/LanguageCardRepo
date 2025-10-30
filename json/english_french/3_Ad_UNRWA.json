@@ -1,8 +1,8 @@
 [
     {
-        "level": "help_m",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "help_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "aider"
     },
     {
-        "level": "give_gift_f",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "give_gift_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": ""
     },
     {
-        "level": "protect",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "protect.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "protéger: garder en sécurité contre le mal"
     },
     {
-        "level": "bring",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "bring.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "apporter les courses à la maison"
     },
     {
-        "level": "refugee",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "refugee.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "réfugié"
     },
     {
-        "level": "education",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "education.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "aller à l’école pour une éducation"
     },
     {
-        "level": "healthcare",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "healthcare.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "soins de santé"
     },
     {
-        "level": "food",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "food.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "La nourriture sur la table"
     },
     {
-        "level": "support",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "support.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "le soutien"
     },
     {
-        "level": "family_i",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "family_i.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "famille"
     },
     {
-        "level": "hope",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "hope.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "souhaiter, prier, espérer"
     },
     {
-        "level": "child",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "child.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

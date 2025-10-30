@@ -1,8 +1,8 @@
 [
     {
-        "level": "bowl",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "bowl.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "le bol"
     },
     {
-        "level": "cup",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "cup.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "la tasse"
     },
     {
-        "level": "fork",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "fork.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "la fourchette"
     },
     {
-        "level": "knife",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "knife.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "le couteau"
     },
     {
-        "level": "spoon",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "spoon.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "la cuillère"
     },
     {
-        "level": "bottle",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "bottle.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "la Bouteille"
     },
     {
-        "level": "plate",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "plate.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "l'assiette"
     },
     {
-        "level": "drink",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "drink.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "la boisson"
     },
     {
-        "level": "glass",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "glass.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "le verre"
     },
     {
-        "level": "stove",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "stove.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "la cuisinière"
     },
     {
-        "level": "oven",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "oven.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "le four"
     },
     {
-        "level": "microwave",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "microwave.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "le micro-ondes"
     },
     {
-        "level": "fridge2",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "fridge2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Le réfrigérateur"
     },
     {
-        "level": "blender2",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "blender2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Le mixeur / Le blender"
     },
     {
-        "level": "restaurant",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "restaurant.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "le restaurant"
     },
     {
-        "level": "bar",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "bar.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "le bar"
     },
     {
-        "level": "check",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "check.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "l'addition"
     },
     {
-        "level": "chef",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "chef.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "le chef"
     },
     {
-        "level": "waiter",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "waiter.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "le serveur"
     },
     {
-        "level": "waitress",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "waitress.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "la serveuse"
     },
     {
-        "level": "meal",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "meal.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "le repas"
     },
     {
-        "level": "breakfast",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "breakfast.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "le petit-déjeuner"
     },
     {
-        "level": "lunch",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "lunch.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "le déjeuner"
     },
     {
-        "level": "dinner",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "dinner.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "le dîner"
     },
     {
-        "level": "dessert",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "dessert.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "le dessert"
     },
     {
-        "level": "groceries",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 2.0,
+        "image_filename": "groceries.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

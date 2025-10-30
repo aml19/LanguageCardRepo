@@ -1,8 +1,8 @@
 [
     {
-        "level": "places",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "places.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Des lieux"
     },
     {
-        "level": "list",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "list.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "la liste est complète"
     },
     {
-        "level": "tour",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "tour.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "visite guidée"
     },
     {
-        "level": "cathedral",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "cathedral.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "cathédrale"
     },
     {
-        "level": "riverfront",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "riverfront.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "bord de rivière"
     },
     {
-        "level": "hour",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "hour.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "l'heure"
     },
     {
-        "level": "shoe",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "shoe.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "la chaussure"
     },
     {
-        "level": "bottle",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "bottle.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "la Bouteille"
     },
     {
-        "level": "break_chain",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "break_chain.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Casser"
     },
     {
-        "level": "signup",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "signup.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "s’inscrire à une nouvelle application"
     },
     {
-        "level": "find_key",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "find_key.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Trouver un indice"
     },
     {
-        "level": "start",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "start.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "démarrer la course"
     },
     {
-        "level": "excited",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "excited.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "excité"
     },
     {
-        "level": "old_car",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "old_car.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "vieille voiture"
     },
     {
-        "level": "comfortable",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "comfortable.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "confortable"
     },
     {
-        "level": "short",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "short.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "crayon court"
     },
     {
-        "level": "awesome",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "awesome.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

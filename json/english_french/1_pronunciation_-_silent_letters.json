@@ -1,8 +1,8 @@
 [
     {
-        "level": "door",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "door.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1776, FIND(\" \", AD1776 & \" \") - 1), AD1776)"
     },
     {
-        "level": "woman",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "woman.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1777, FIND(\" \", AD1777 & \" \") - 1), AD1777)"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1778, FIND(\" \", AD1778 & \" \") - 1), AD1778)"
     },
     {
-        "level": "soft_cheese",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "soft_cheese.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1779, FIND(\" \", AD1779 & \" \") - 1), AD1779)"
     },
     {
-        "level": "beautiful",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "beautiful.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1780, FIND(\" \", AD1780 & \" \") - 1), AD1780)"
     },
     {
-        "level": "cat",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "cat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1781, FIND(\" \", AD1781 & \" \") - 1), AD1781)"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Common Silent Endings:",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1782, FIND(\" \", AD1782 & \" \") - 1), AD1782)"
     },
     {
-        "level": "mountain2",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "mountain2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "2. Silent Letters in Common Consonant Combinations",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1783, FIND(\" \", AD1783 & \" \") - 1), AD1783)"
     },
     {
-        "level": "butterfly",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "butterfly.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "2. Silent Letters in Common Consonant Combinations",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1784, FIND(\" \", AD1784 & \" \") - 1), AD1784)"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "2. Silent Letters in Common Consonant Combinations",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1785, FIND(\" \", AD1785 & \" \") - 1), AD1785)"
     },
     {
-        "level": "fire",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "fire.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "2. Silent Letters in Common Consonant Combinations",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1786, FIND(\" \", AD1786 & \" \") - 1), AD1786)"
     },
     {
-        "level": "water",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "water.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "2. Silent Letters in Common Consonant Combinations",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1787, FIND(\" \", AD1787 & \" \") - 1), AD1787)"
     },
     {
-        "level": "eat_m",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "eat_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "3. Silent Letters in Verbs",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "mangent"
     },
     {
-        "level": "speak_f",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "speak_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "3. Silent Letters in Verbs",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "parlent"
     },
     {
-        "level": "love_m",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "love_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "3. Silent Letters in Verbs",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1790, FIND(\" \", AD1790 & \" \") - 1), AD1790)"
     },
     {
-        "level": "speak_m",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "speak_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "3. Silent Letters in Verbs",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1791, FIND(\" \", AD1791 & \" \") - 1), AD1791)"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "4. Silent Letters in Compound Words",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1792, FIND(\" \", AD1792 & \" \") - 1), AD1792)"
     },
     {
-        "level": "man",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "man.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "4. Silent Letters in Compound Words",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1793, FIND(\" \", AD1793 & \" \") - 1), AD1793)"
     },
     {
-        "level": "psychology",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "psychology.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Miscellaneous Silent Letters",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "=IFERROR(LEFT(AD1794, FIND(\" \", AD1794 & \" \") - 1), AD1794)"
     },
     {
-        "level": "gray_rocks",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "gray_rocks.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Miscellaneous Silent Letters",
         "native_language": "english",

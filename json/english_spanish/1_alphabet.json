@@ -1,8 +1,8 @@
 [
     {
-        "level": "yellow_banana",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "yellow_banana.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S316, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"A.  Amarillo -\")"
     },
     {
-        "level": "path",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "path.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S317, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"A.  Camino -\")"
     },
     {
-        "level": "house",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "house.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S318, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"A.  Casa -\")"
     },
     {
-        "level": "boat",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "boat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S319, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"B.  Barco -\")"
     },
     {
-        "level": "coat",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "coat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S320, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"B.  Abrigo -\")"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S321, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"B.  Libre -\")"
     },
     {
-        "level": "car",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "car.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S322, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"C.  Coche -\")"
     },
     {
-        "level": "society",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "society.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S323, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"C.  Sociedad -\")"
     },
     {
-        "level": "chocolate",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "chocolate.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S324, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"CH.  Chocolate -\")"
     },
     {
-        "level": "drunk",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "drunk.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S325, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"CH.  Borracho -\")"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S326, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"CH.  Mucho -\")"
     },
     {
-        "level": "day",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "day.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S327, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"D.  Día -\")"
     },
     {
-        "level": "city",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "city.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S328, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"D.  Ciudad -\")"
     },
     {
-        "level": "power",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "power.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S329, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"D.  Poder -\")"
     },
     {
-        "level": "elephant",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "elephant.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S330, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"E.  Elefante -\")"
     },
     {
-        "level": "milk",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "milk.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S331, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"E.  Leche -\")"
     },
     {
-        "level": "green_grass",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "green_grass.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S332, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"E.  Verde -\")"
     },
     {
-        "level": "happy_kid",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "happy_kid.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S333, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"F.  Feliz -\")"
     },
     {
-        "level": "flower",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "flower.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S334, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"F.  Flor -\")"
     },
     {
-        "level": "offer",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "offer.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S335, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"F.  Oferta -\")"
     },
     {
-        "level": "cat",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "cat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S336, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"G.  Gato -\")"
     },
     {
-        "level": "guitar",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "guitar.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S337, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"G.  Guitarra -\")"
     },
     {
-        "level": "water",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "water.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S338, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"G.  Agua -\")"
     },
     {
-        "level": "hour",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "hour.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S339, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"H.  Hora -\")"
     },
     {
-        "level": "egg",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "egg.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S340, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"H.  Huevo -\")"
     },
     {
-        "level": "now",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "now.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S341, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"H.  Ahora -\")"
     },
     {
-        "level": "idea",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "idea.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S342, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"I.  Idea -\")"
     },
     {
-        "level": "island",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "island.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S343, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"I.  Isla -\")"
     },
     {
-        "level": "happy_kid",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "happy_kid.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S344, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"I.  Feliz -\")"
     },
     {
-        "level": "garden",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "garden.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S345, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"J.  Jardín -\")"
     },
     {
-        "level": "giraffe",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "giraffe.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S346, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"J.  Jirafa -\")"
     },
     {
-        "level": "videogame",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "videogame.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S347, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"J.  Juego -\")"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S348, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"K.  Kilómetro -\")"
     },
     {
-        "level": "koala",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "koala.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S349, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"K.  Koala -\")"
     },
     {
-        "level": "something",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "something.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S350, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"L.  Algo -\")"
     },
     {
-        "level": "lion",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "lion.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S351, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"L.  León -\")"
     },
     {
-        "level": "places",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "places.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S352, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"L.  Lugar -\")"
     },
     {
-        "level": "call_phone_f",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "call_phone_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S353, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"LL.  Llamar -\")"
     },
     {
-        "level": "key",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "key.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S354, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"LL.  Llave -\")"
     },
     {
-        "level": "chair",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "chair.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S355, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"LL.  Silla -\")"
     },
     {
-        "level": "butterfly",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "butterfly.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S356, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"M.  Mariposa -\")"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S357, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"M.  Momento -\")"
     },
     {
-        "level": "friend",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "friend.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S358, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"M.  Amigo -\")"
     },
     {
-        "level": "orange",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "orange.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S359, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"N.  Naranja -\")"
     },
     {
-        "level": "ringn",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "ringn.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S360, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"N.  Anillo -\")"
     },
     {
-        "level": "child",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "child.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S361, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"N.  Niño -\")"
     },
     {
-        "level": "indigo",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "indigo.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S362, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ñ.  Añil -\")"
     },
     {
-        "level": "signal",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "signal.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S363, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ñ.  Señal -\")"
     },
     {
-        "level": "pot",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "pot.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S364, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"O.  Olla -\")"
     },
     {
-        "level": "bear",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "bear.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S365, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"O.  Oso -\")"
     },
     {
-        "level": "sky",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "sky.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S366, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"O.  Cielo -\")"
     },
     {
-        "level": "dog",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "dog.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S367, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"P.  Perro -\")"
     },
     {
-        "level": "weight",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "weight.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S368, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"P.  Peso -\")"
     },
     {
-        "level": null,
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S369, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Q.  Quién -\")"
     },
     {
-        "level": "me",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "me.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S370, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Q.  Quiero -\")"
     },
     {
-        "level": "stand_here",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "stand_here.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S371, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Q.  Aquí -\")"
     },
     {
-        "level": "frog",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "frog.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S372, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"R.  Rana -\")"
     },
     {
-        "level": "river2",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "river2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S373, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"R.  Río -\")"
     },
     {
-        "level": "clothing",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "clothing.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S374, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"R.  Ropa -\")"
     },
     {
-        "level": "barrel",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "barrel.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S375, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"RR.  Barril -\")"
     },
     {
-        "level": "run_m",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "run_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S376, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"RR.  Correr -\")"
     },
     {
-        "level": "dog",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "dog.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S377, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"RR.  Perro -\")"
     },
     {
-        "level": "sun",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "sun.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S378, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"S.  Sol -\")"
     },
     {
-        "level": "house",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "house.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S379, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"S.  Casa -\")"
     },
     {
-        "level": "samedifferent",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "samedifferent.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S380, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"S.  Misma -\")"
     },
     {
-        "level": "time",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "time.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S381, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"T.  Tiempo -\")"
     },
     {
-        "level": "tiger",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "tiger.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S382, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"T.  Tigre -\")"
     },
     {
-        "level": "food",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "food.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S383, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"T.  Tonto -\")"
     },
     {
-        "level": "fingernail",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "fingernail.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S384, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"U.  Uña -\")"
     },
     {
-        "level": "grapes",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "grapes.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S385, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"U.  Uva -\")"
     },
     {
-        "level": "noise_p",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "noise_p.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S386, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"U.  Ruido -\")"
     },
     {
-        "level": "cow",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "cow.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S387, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"V.  Vaca -\")"
     },
     {
-        "level": "left_alive_right_dead_tree",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "left_alive_right_dead_tree.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S388, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"V.  Vida -\")"
     },
     {
-        "level": "deadalive",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "deadalive.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S389, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"V.  Vivo -\")"
     },
     {
-        "level": "web",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "web.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S390, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"W.  Web -\")"
     },
     {
-        "level": "whiskey",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "whiskey.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1368,9 +1368,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S391, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"W.  Whisky -\")"
     },
     {
-        "level": "wok",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "wok.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1386,9 +1386,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S392, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"W.  Wok -\")"
     },
     {
-        "level": "exam",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "exam.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1404,9 +1404,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S393, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"X.  Examen -\")"
     },
     {
-        "level": "text",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "text.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1422,9 +1422,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S394, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"X.  Texto -\")"
     },
     {
-        "level": "xylophone",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "xylophone.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1440,9 +1440,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S395, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"X.  Xilófono -\")"
     },
     {
-        "level": "me",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "me.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1458,9 +1458,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S396, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Y.  Yo -\")"
     },
     {
-        "level": "yo-yo",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "yo-yo.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1476,9 +1476,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S397, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Y.  Yoyo -\")"
     },
     {
-        "level": "help_m",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "help_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1494,9 +1494,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(S398, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Y.  Ayuda -\")"
     },
     {
-        "level": "shoe",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "shoe.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1512,9 +1512,9 @@
         "audio_dir": "Z.  Zapato -"
     },
     {
-        "level": "blue_sky",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "blue_sky.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",
@@ -1530,9 +1530,9 @@
         "audio_dir": "Z.  Azul -"
     },
     {
-        "level": "pizza",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "pizza.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The letters are mostly pronounced similar to their English counterparts, although there are some differences. For instance:\n\n\"C\" is generally pronounced like \"s\" when before \"e\" or \"i\" but like \"k\" before \"a,\" \"o,\" or \"u.\"\n\"G\" is pronounced like the English \"h\" when before \"e\" or \"i\" but like the English \"g\" (as in \"go\") before \"a,\" \"o,\" or \"u.\"\n\"LL\" and \"RR\" are considered separate letters in the Spanish alphabet.\n\"Ñ\" (eñe) has a unique sound similar to the \"ny\" in \"canyon.\"\nAdditionally, Spanish also utilizes diacritical marks such as the acute accent (´) and the tilde (˜) to indicate stress or to distinguish between words. Overall, it's a phonetic language with relatively consistent pronunciation once you learn the sounds associated with each letter or combination of letters.",
         "native_language": "english",

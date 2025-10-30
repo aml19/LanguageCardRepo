@@ -1,8 +1,8 @@
 [
     {
-        "level": "inbox",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "inbox.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "ella está en la caja"
     },
     {
-        "level": "waking",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "waking.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "despertar por la mañana"
     },
     {
-        "level": "ontable",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "ontable.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "la comida está en la mesa"
     },
     {
-        "level": "onwall",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "onwall.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "marco de imagen colgando en la pared"
     },
     {
-        "level": "atpark",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "atpark.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "pasar tiempo en el parque"
     },
     {
-        "level": "ateight",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "ateight.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "una reunión de negocios a las ocho en punto"
     },
     {
-        "level": "bywindow",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "bywindow.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "ella está sentada junto a la ventana"
     },
     {
-        "level": "byriver",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "byriver.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "un picnic junto al río"
     },
     {
-        "level": "forlunch",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "forlunch.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "comiendo una ensalada para el almuerzo"
     },
     {
-        "level": "forfam",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "forfam.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "comprar regalos de Navidad para su familia"
     },
     {
-        "level": "withfriends",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "withfriends.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "beber en un bar con amigos"
     },
     {
-        "level": "withpen",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "withpen.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "escribir ideas con una pluma y papel"
     },
     {
-        "level": "toschool",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "toschool.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "ir a la escuela con su mamá"
     },
     {
-        "level": "toher",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "toher.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "lanzar una pelota a su hermano menor"
     },
     {
-        "level": "orderfrom",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "orderfrom.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "ordenar de una tienda en línea"
     },
     {
-        "level": "foodfrom",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "foodfrom.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "comida del supermercado"
     },
     {
-        "level": "intoppol",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "intoppol.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "saltar a la piscina"
     },
     {
-        "level": "intocar",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "intocar.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "entrar en el coche de un desconocido"
     },
     {
-        "level": "onto",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "onto.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "derramar agua en el piso"
     },
     {
-        "level": "ofcake",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "ofcake.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "un pedazo de pastel"
     },
     {
-        "level": "topof",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "topof.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "la cima de la montaña"
     },
     {
-        "level": "above_clouds",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "above_clouds.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "volando sobre las nubes"
     },
     {
-        "level": "under_unbrella",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "under_unbrella.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "ella está bajo el paraguas"
     },
     {
-        "level": "aboutfood",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "aboutfood.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "pensar en comida"
     },
     {
-        "level": "bookabout",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "bookabout.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "un libro sobre ciencia"
     },
     {
-        "level": "below1",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "below1.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "debajo de la superficie del agua"
     },
     {
-        "level": "bewteen1",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "bewteen1.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "entre las filas"
     },
     {
-        "level": "betweenlines",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "betweenlines.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "estacionarse entre las líneas"
     },
     {
-        "level": "walkthrough",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "walkthrough.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "caminar a través de un túnel"
     },
     {
-        "level": "lookthrough",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "lookthrough.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "mirar a través de los binoculares"
     },
     {
-        "level": "amongcrowd",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "amongcrowd.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "una persona entre una multitud de personas"
     },
     {
-        "level": "during1",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "during1.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "dormir durante la clase"
     },
     {
-        "level": "before1",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "before1.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "antes"
     },
     {
-        "level": "after1",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "after1.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, prepositions are words that typically come before a noun or pronoun and establish a relationship between that noun or pronoun and another element in the sentence. Here's a basic overview of the grammar of prepositions in Spanish:\n\n1. **Position**: Prepositions are placed before the noun or pronoun they modify. For example:\n   - \"en la mesa\" (on the table)\n   - \"con mi amigo\" (with my friend)\n\n2. **Agreement**: In Spanish, prepositions do not change form based on the gender or number of the noun they modify. They remain the same regardless of whether the noun is masculine, feminine, singular, or plural. For example:\n   - \"en el libro\" (in the book) - masculine singular\n   - \"en la mesa\" (on the table) - feminine singular\n   - \"en los libros\" (in the books) - masculine plural\n   - \"en las mesas\" (on the tables) - feminine plural\n\n3. **Usage**: Prepositions in Spanish are used to indicate various relationships, including location, time, manner, cause, and more. Some common prepositions in Spanish include \"en\" (in, on, at), \"de\" (of, from), \"a\" (to, at), \"por\" (for, by), \"con\" (with), and \"para\" (for, to), among others.\n\n4. **Contractions**: In some cases, prepositions in Spanish can contract with certain articles or pronouns. For example:\n   - \"del\" = \"de\" + \"el\" (of the)\n   - \"al\" = \"a\" + \"el\" (to the)\n   - \"conmigo\" = \"con\" + \"mí\" (with me)\n\n5. **Prepositional Phrases**: Prepositions in Spanish often form prepositional phrases when combined with nouns, pronouns, or other elements. These phrases provide additional information about location, time, direction, etc. For example:\n   - \"a la casa\" (to the house)\n   - \"en la mañana\" (in the morning)\n   - \"con mi hermana\" (with my sister)\n\nUnderstanding the basic grammar of prepositions is essential for constructing grammatically correct sentences and expressing ideas accurately in Spanish.",
         "native_language": "english",

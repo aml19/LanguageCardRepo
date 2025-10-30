@@ -1,8 +1,8 @@
 [
     {
-        "level": "love_music_f",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "love_music_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "A - Amour"
     },
     {
-        "level": "hello",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "hello.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "B - Bonjour"
     },
     {
-        "level": "cat",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "cat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "C - Chat"
     },
     {
-        "level": "sleep_m",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "sleep_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "D - Dormir"
     },
     {
-        "level": "school",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "school.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "E - École"
     },
     {
-        "level": "flower",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "flower.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "F - Fleur"
     },
     {
-        "level": "cake",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "cake.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "G - Gâteau"
     },
     {
-        "level": "happy_kid",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "happy_kid.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "H - Heureux"
     },
     {
-        "level": "building2",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "building2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "I - Immeuble"
     },
     {
-        "level": "garden",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "garden.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "J - Jardin"
     },
     {
-        "level": "kiwi",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "kiwi.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "K - Kiwi"
     },
     {
-        "level": "book2",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "book2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "L - Livre"
     },
     {
-        "level": "house",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "house.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "M - Maison"
     },
     {
-        "level": "night",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "night.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "N - Nuit"
     },
     {
-        "level": "bird",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "bird.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "O - Oiseau"
     },
     {
-        "level": "apple",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "apple.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "P - Pomme"
     },
     {
-        "level": "four",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "four.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Q - Quatre"
     },
     {
-        "level": "red_apple",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "red_apple.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "R - Rouge"
     },
     {
-        "level": "sun",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "sun.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "S - Soleil"
     },
     {
-        "level": "table",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "table.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "T - Table"
     },
     {
-        "level": "university",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "university.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "U - Université"
     },
     {
-        "level": "car",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "car.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "V - Voiture"
     },
     {
-        "level": "wifi",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "wifi.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "W - Wifi"
     },
     {
-        "level": "xylophone",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "xylophone.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "X - Xylophone"
     },
     {
-        "level": "eyes",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "eyes.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Y - Yeux"
     },
     {
-        "level": "zebra",
-        "image_filename": "vocab.jpg",
-        "card_type": "f",
+        "level": 1.0,
+        "image_filename": "zebra.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The pronunciation of French letters can differ from English pronunciation in several ways. For instance:\n\nVowels like \"A,\" \"E,\" \"I,\" \"O,\" \"U,\" and sometimes \"Y\" have different sounds compared to English.\nConsonants like \"R,\" \"C,\" \"G,\" and \"H\" often have distinct pronunciations or rules regarding their usage.\nSome letters, when combined, form unique sounds, such as \"CH\" pronounced like \"sh,\" \"GN\" with a nasalized sound, and \"OU\" pronounced as \"oo.\"\nFrench also uses accents and diacritical marks:\n\nThe acute accent (´) can appear on \"E,\" \"A,\" and \"U\" to alter pronunciation or indicate stress.\nThe grave accent (`) and the circumflex accent (^) can also appear on certain vowels (like \"À,\" \"È,\" \"Ô\") and can affect pronunciation or indicate historical differences in spelling.\nThe pronunciation rules in French can be complex and often depend on combinations of letters rather than individual letters themselves. Learning these pronunciation patterns can greatly aid in mastering spoken French.",
         "native_language": "english",

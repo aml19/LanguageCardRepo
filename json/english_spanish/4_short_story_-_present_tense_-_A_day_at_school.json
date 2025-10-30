@@ -1,8 +1,8 @@
 [
     {
-        "level": "fun_party",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "fun_party.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, adjectives are words used to describe or modify nouns by providing more information about their characteristics, qualities, or attributes. Here's a breakdown of how adjectives work:\n\nAgreement:\n\nAdjectives must agree in gender (masculine/feminine) and number (singular/plural) with the noun they modify.\nFor example, if the noun is feminine and singular, the adjective must also be feminine and singular. The same rule applies for masculine, plural, and feminine plural nouns.\nPlacement:\n\nIn Spanish, adjectives generally come after the noun they describe. However, some adjectives can come before the noun to emphasize or modify the meaning.\nWhen placed before the noun, adjectives usually have a stronger or more specific meaning (e.g., \"un hombre grande\" - a big man vs. \"un gran hombre\" - a great man).\nForms of Adjectives:\n\nAdjectives have different forms to match the gender and number of the nouns they modify.\nMasculine/Feminine and Singular/Plural:\nFor example, for the adjective \"bonito\" (pretty), it changes to \"bonita\" for feminine singular (\"una chica bonita\" - a pretty girl) and \"bonitos\" for masculine plural (\"chicos bonitos\" - pretty boys).\nIrregular Adjectives:\n\nSome adjectives have irregular forms that don't follow the typical patterns. For instance, \"bueno\" (good) becomes \"buena\" for feminine singular and \"buenos\" for masculine plural.\nComparatives and Superlatives:\n\nAdjectives can also be used in comparative and superlative forms to compare qualities.\nComparative form (comparativo): Expresses a comparison between two things (e.g., \"más grande\" - bigger).\nSuperlative form (superlativo): Indicates the highest degree of a quality (e.g., \"el más grande\" - the biggest).\nDemonstrative and Possessive Adjectives:\n\nSpanish also uses demonstrative adjectives (this, that, these, those) and possessive adjectives (my, your, his, her, its) to specify or show ownership. These, too, follow the gender and number of the nouns they modify.\nUnderstanding adjectives in Spanish involves learning their forms, agreement rules, and different positions within a sentence. Practice and exposure to various examples will help in mastering the use of adjectives to describe nouns effectively in Spanish sentences.",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "fiesta divertida"
     },
     {
-        "level": "hard_cheese",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "hard_cheese.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, adjectives are words used to describe or modify nouns by providing more information about their characteristics, qualities, or attributes. Here's a breakdown of how adjectives work:\n\nAgreement:\n\nAdjectives must agree in gender (masculine/feminine) and number (singular/plural) with the noun they modify.\nFor example, if the noun is feminine and singular, the adjective must also be feminine and singular. The same rule applies for masculine, plural, and feminine plural nouns.\nPlacement:\n\nIn Spanish, adjectives generally come after the noun they describe. However, some adjectives can come before the noun to emphasize or modify the meaning.\nWhen placed before the noun, adjectives usually have a stronger or more specific meaning (e.g., \"un hombre grande\" - a big man vs. \"un gran hombre\" - a great man).\nForms of Adjectives:\n\nAdjectives have different forms to match the gender and number of the nouns they modify.\nMasculine/Feminine and Singular/Plural:\nFor example, for the adjective \"bonito\" (pretty), it changes to \"bonita\" for feminine singular (\"una chica bonita\" - a pretty girl) and \"bonitos\" for masculine plural (\"chicos bonitos\" - pretty boys).\nIrregular Adjectives:\n\nSome adjectives have irregular forms that don't follow the typical patterns. For instance, \"bueno\" (good) becomes \"buena\" for feminine singular and \"buenos\" for masculine plural.\nComparatives and Superlatives:\n\nAdjectives can also be used in comparative and superlative forms to compare qualities.\nComparative form (comparativo): Expresses a comparison between two things (e.g., \"más grande\" - bigger).\nSuperlative form (superlativo): Indicates the highest degree of a quality (e.g., \"el más grande\" - the biggest).\nDemonstrative and Possessive Adjectives:\n\nSpanish also uses demonstrative adjectives (this, that, these, those) and possessive adjectives (my, your, his, her, its) to specify or show ownership. These, too, follow the gender and number of the nouns they modify.\nUnderstanding adjectives in Spanish involves learning their forms, agreement rules, and different positions within a sentence. Practice and exposure to various examples will help in mastering the use of adjectives to describe nouns effectively in Spanish sentences.",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "queso duro"
     },
     {
-        "level": "favorite",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "favorite.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "los donuts son mi comida favorita"
     },
     {
-        "level": "whole",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "whole.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "seis rebanadas en una pizza entera"
     },
     {
-        "level": "more",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "more.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "hay más dinero a la derecha"
     },
     {
-        "level": "carefully",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "carefully.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "caminar con cuidado cuando seas viejo"
     },
     {
-        "level": "about",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "about.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "libros sobre muchas cosas"
     },
     {
-        "level": "together",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "together.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "juntos: uniendo las piezas"
     },
     {
-        "level": "shoulder",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "shoulder.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "hombro"
     },
     {
-        "level": "white_clouds",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "white_clouds.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, adjectives are words used to describe or modify nouns by providing more information about their characteristics, qualities, or attributes. Here's a breakdown of how adjectives work:\n\nAgreement:\n\nAdjectives must agree in gender (masculine/feminine) and number (singular/plural) with the noun they modify.\nFor example, if the noun is feminine and singular, the adjective must also be feminine and singular. The same rule applies for masculine, plural, and feminine plural nouns.\nPlacement:\n\nIn Spanish, adjectives generally come after the noun they describe. However, some adjectives can come before the noun to emphasize or modify the meaning.\nWhen placed before the noun, adjectives usually have a stronger or more specific meaning (e.g., \"un hombre grande\" - a big man vs. \"un gran hombre\" - a great man).\nForms of Adjectives:\n\nAdjectives have different forms to match the gender and number of the nouns they modify.\nMasculine/Feminine and Singular/Plural:\nFor example, for the adjective \"bonito\" (pretty), it changes to \"bonita\" for feminine singular (\"una chica bonita\" - a pretty girl) and \"bonitos\" for masculine plural (\"chicos bonitos\" - pretty boys).\nIrregular Adjectives:\n\nSome adjectives have irregular forms that don't follow the typical patterns. For instance, \"bueno\" (good) becomes \"buena\" for feminine singular and \"buenos\" for masculine plural.\nComparatives and Superlatives:\n\nAdjectives can also be used in comparative and superlative forms to compare qualities.\nComparative form (comparativo): Expresses a comparison between two things (e.g., \"más grande\" - bigger).\nSuperlative form (superlativo): Indicates the highest degree of a quality (e.g., \"el más grande\" - the biggest).\nDemonstrative and Possessive Adjectives:\n\nSpanish also uses demonstrative adjectives (this, that, these, those) and possessive adjectives (my, your, his, her, its) to specify or show ownership. These, too, follow the gender and number of the nouns they modify.\nUnderstanding adjectives in Spanish involves learning their forms, agreement rules, and different positions within a sentence. Practice and exposure to various examples will help in mastering the use of adjectives to describe nouns effectively in Spanish sentences.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "nubes blancas"
     },
     {
-        "level": "ring",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "ring.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "anillo"
     },
     {
-        "level": "sun",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "sun.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "sol"
     },
     {
-        "level": "animals",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "animals.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Un animal"
     },
     {
-        "level": "doctor",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "doctor.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Una doctora"
     },
     {
-        "level": "hurry",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "hurry.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Un apuro"
     },
     {
-        "level": "note",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "note.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Una nota"
     },
     {
-        "level": "school",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "school.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "La escuela"
     },
     {
-        "level": "backpack",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "backpack.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Una mochila"
     },
     {
-        "level": "friend",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "friend.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Un amigo"
     },
     {
-        "level": "entrance",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "entrance.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Una entrada"
     },
     {
-        "level": "bell",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "bell.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "El timbre"
     },
     {
-        "level": "classroom",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "classroom.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "El aula"
     },
     {
-        "level": "teacher",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "teacher.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Un profesor"
     },
     {
-        "level": "whiteboard",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "whiteboard.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Una pizarra blanca"
     },
     {
-        "level": "notebook",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "notebook.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Un cuaderno"
     },
     {
-        "level": "lesson",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "lesson.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Enseñar una lección"
     },
     {
-        "level": "pet",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "pet.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "El perro es su mascota"
     },
     {
-        "level": "recess",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "recess.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "El recreo"
     },
     {
-        "level": "swing",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "swing.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Un columpio"
     },
     {
-        "level": "snack",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "snack.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Una merienda"
     },
     {
-        "level": "afternoon",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "afternoon.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "¿Qué hora del día es? La tarde"
     },
     {
-        "level": "math",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "math.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Las matemáticas"
     },
     {
-        "level": "problem",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "problem.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Tratando de resolver un problema"
     },
     {
-        "level": "chalkboard",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "chalkboard.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "La pizarra"
     },
     {
-        "level": "classmate",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "classmate.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Ellos están en la misma clase. Son compañeros de clase"
     },
     {
-        "level": "cheer",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "cheer.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Haciendo una porra"
     },
     {
-        "level": "home",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "home.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "No solo una casa, sino un hogar"
     },
     {
-        "level": "day",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "day.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "día"
     },
     {
-        "level": "dream",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "dream.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "soñar"
     },
     {
-        "level": "laugh_p",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "laugh_p.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "reír"
     },
     {
-        "level": "listen_f",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "listen_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "escuchar"
     },
     {
-        "level": "park_car",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "park_car.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "Estacionar"
     },
     {
-        "level": "plan",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "plan.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Plan"
     },
     {
-        "level": "play_piano_m",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "play_piano_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "tocar el piano"
     },
     {
-        "level": "see",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "see.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "Ver"
     },
     {
-        "level": "take_treat",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "take_treat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "tomar una golosina"
     },
     {
-        "level": "talk_f",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "talk_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "hablar"
     },
     {
-        "level": "walk_p",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "walk_p.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "caminar"
     },
     {
-        "level": "want_dog_food",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "want_dog_food.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "querer"
     },
     {
-        "level": "write_f",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "write_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "escribir"
     },
     {
-        "level": "take_treat",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "take_treat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "tomar una golosina"
     },
     {
-        "level": "play_piano_m",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "play_piano_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "tocar el piano"
     },
     {
-        "level": "feel_water",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "feel_water.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "sentir el agua"
     },
     {
-        "level": "walk",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "walk.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "caminar"
     },
     {
-        "level": "sling",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "sling.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "colgar una mochila sobre tu hombro"
     },
     {
-        "level": "smile",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "smile.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "sonreír"
     },
     {
-        "level": "chat",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "chat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "hablar en línea: chatear"
     },
     {
-        "level": "ring",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "ring.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "tocar el timbre"
     },
     {
-        "level": "hurry",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "hurry.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "él necesita apresurarse"
     },
     {
-        "level": "write",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "write.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "escribir"
     },
     {
-        "level": "note",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "note.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "nota: registro de hechos, temas o pensamientos"
     },
     {
-        "level": "laugh",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "laugh.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "reír"
     },
     {
-        "level": "share",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "share.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "compartir información"
     },
     {
-        "level": "grow",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "grow.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "una pequeña planta crecerá"
     },
     {
-        "level": "dream",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "dream.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "soñar mientras duermes"
     },
     {
-        "level": "become",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "become.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "una pequeña planta crecerá y se convertirá en un árbol"
     },
     {
-        "level": "solve",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "solve.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "resolver un problema"
     },
     {
-        "level": "cheer",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "cheer.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "porra"
     },
     {
-        "level": "praise",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "praise.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "alabar: expresar admiración"
     },
     {
-        "level": "make",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "make.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "hacer"
     },
     {
-        "level": "look forward",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 4.0,
+        "image_filename": "look forward.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

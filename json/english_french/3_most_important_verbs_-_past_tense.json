@@ -1,8 +1,8 @@
 [
     {
-        "level": "cook_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "cook_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Il pouvait cuisiner le dîner."
     },
     {
-        "level": "cook_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "cook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Elle pouvait cuisiner le dîner."
     },
     {
-        "level": "cook_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "cook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Je pouvais cuisiner le dîner."
     },
     {
-        "level": "cook_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "cook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Nous pouvions cuisiner le dîner."
     },
     {
-        "level": "cook_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "cook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Ils pouvaient cuisiner le dîner."
     },
     {
-        "level": "cook_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "cook_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Tu pouvais cuisiner le dîner."
     },
     {
-        "level": "good_job",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Il faisait du bon travail."
     },
     {
-        "level": "good_job",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Je faisais du bon travail."
     },
     {
-        "level": "good_job",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Elle faisait du bon travail."
     },
     {
-        "level": "good_job",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Ils faisaient du bon travail."
     },
     {
-        "level": "good_job",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Nous faisions du bon travail."
     },
     {
-        "level": "good_job",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Tu faisais du bon travail."
     },
     {
-        "level": "make_hole",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Il faisait un trou."
     },
     {
-        "level": "make_pots",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Il faisait des pots en argile."
     },
     {
-        "level": "make_bread",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Je faisais du pain."
     },
     {
-        "level": "make_hole",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Elle faisait un trou."
     },
     {
-        "level": "make_pots",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Elle faisait des pots en argile."
     },
     {
-        "level": "make_bread",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Ils faisaient du pain."
     },
     {
-        "level": "make_hole",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Nous faisions un trou."
     },
     {
-        "level": "make_pots",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Nous faisions des pots en argile."
     },
     {
-        "level": "make_bread",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Tu faisais du pain."
     },
     {
-        "level": "man",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "man.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "J'étais un homme."
     },
     {
-        "level": "orange_pumpkin",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "orange_pumpkin.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Les citrouilles étaient oranges."
     },
     {
-        "level": "under_unbrella",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "under_unbrella.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Elle était sous le parapluie."
     },
     {
-        "level": "food_on_table",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "food_on_table.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "La nourriture était sur la table."
     },
     {
-        "level": "friend",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "friend.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Ils étaient amis."
     },
     {
-        "level": "above_clouds",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "above_clouds.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Nous étions au-dessus des nuages."
     },
     {
-        "level": "crowd",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "crowd.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Nous étions dans une foule."
     },
     {
-        "level": "woman",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "woman.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Tu étais une femme."
     },
     {
-        "level": "man_yellow_backpack",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Il avait un sac à dos jaune."
     },
     {
-        "level": "man_black_hat",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "J'avais un chapeau noir."
     },
     {
-        "level": "man_yellow_backpack",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "J'avais un sac à dos jaune."
     },
     {
-        "level": "woman_black_dress",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Elle avait une robe noire."
     },
     {
-        "level": "red_hands",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "red_hands.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Ils avaient les mains rouges."
     },
     {
-        "level": "red_hands",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "red_hands.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Nous avions les mains rouges."
     },
     {
-        "level": "woman_black_dress",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Tu avais une robe noire."
     },
     {
-        "level": "girl",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Tu avais un pull rouge."
     },
     {
-        "level": "tickets",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "J'avais des billets."
     },
     {
-        "level": "man",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "man.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Il était un homme."
     },
     {
-        "level": "woman",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "woman.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "J'étais une femme."
     },
     {
-        "level": "make_bread",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Elle faisait du pain."
     },
     {
-        "level": "homework",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "Il faisait ses devoirs."
     },
     {
-        "level": "tickets",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Ils avaient des billets."
     },
     {
-        "level": "tickets",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Nous avions des billets."
     },
     {
-        "level": "make_hole",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "Tu faisais un trou."
     },
     {
-        "level": "woman",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "woman.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "Elle était une femme."
     },
     {
-        "level": "sing_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "sing_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Je pouvais bien chanter."
     },
     {
-        "level": "sing_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "Tu pouvais bien chanter."
     },
     {
-        "level": "crowd",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "crowd.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "Ils étaient dans une foule."
     },
     {
-        "level": "man_yellow_backpack",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "Tu avais un sac à dos jaune."
     },
     {
-        "level": "make_pots",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "Je faisais des pots en argile."
     },
     {
-        "level": "make_bread",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "Il faisait du pain."
     },
     {
-        "level": "blue_sky",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "blue_sky.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "Le ciel était bleu."
     },
     {
-        "level": "make_hole",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "Ils faisaient un trou."
     },
     {
-        "level": "sing_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "Elle pouvait bien chanter."
     },
     {
-        "level": "cat_in_box",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "cat_in_box.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "Le chat était dans la boîte."
     },
     {
-        "level": "sing_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "Ils pouvaient bien chanter."
     },
     {
-        "level": "sing_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "Nous pouvions bien chanter."
     },
     {
-        "level": "homework",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "Elle faisait ses devoirs."
     },
     {
-        "level": "girl",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "Elle avait un pull rouge."
     },
     {
-        "level": "make_hole",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "Je faisais un trou."
     },
     {
-        "level": "man",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "man.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "Tu étais un homme."
     },
     {
-        "level": "woman_black_dress",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "J'avais une robe noire."
     },
     {
-        "level": "homework",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "Nous faisions nos devoirs."
     },
     {
-        "level": "speak_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "speak_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Elle pouvait parler anglais."
     },
     {
-        "level": "make_pots",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "Ils faisaient des pots en argile."
     },
     {
-        "level": "homework",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "Je faisais mes devoirs."
     },
     {
-        "level": "man_black_hat",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "Il avait un chapeau noir."
     },
     {
-        "level": "friend",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "friend.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "Nous étions amis."
     },
     {
-        "level": "speak_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "speak_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Tu pouvais parler anglais."
     },
     {
-        "level": "speak_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "speak_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "Nous pouvions parler anglais."
     },
     {
-        "level": "girl",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "J'avais un pull rouge."
     },
     {
-        "level": "man_black_hat",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "Tu avais un chapeau noir."
     },
     {
-        "level": "sing_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "sing_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "Il pouvait bien chanter."
     },
     {
-        "level": "make_bread",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "Nous faisions du pain."
     },
     {
-        "level": "speak_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "speak_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1368,9 +1368,9 @@
         "audio_dir": "Il pouvait parler anglais."
     },
     {
-        "level": "speak_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "speak_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1386,9 +1386,9 @@
         "audio_dir": "Je pouvais parler anglais."
     },
     {
-        "level": "homework",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1404,9 +1404,9 @@
         "audio_dir": "Ils faisaient leurs devoirs."
     },
     {
-        "level": "speak_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "speak_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1422,9 +1422,9 @@
         "audio_dir": "Ils pouvaient parler anglais."
     },
     {
-        "level": "homework",
-        "image_filename": "conjugation.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1440,9 +1440,9 @@
         "audio_dir": "Tu faisais tes devoirs."
     },
     {
-        "level": "read_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "read_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1458,9 +1458,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sing_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sing_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1476,9 +1476,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sleep_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sleep_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1494,9 +1494,9 @@
         "audio_dir": ""
     },
     {
-        "level": "read_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "read_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1512,9 +1512,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sing_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1530,9 +1530,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sleep_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sleep_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1548,9 +1548,9 @@
         "audio_dir": ""
     },
     {
-        "level": "read_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "read_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1566,9 +1566,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sing_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1584,9 +1584,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sleep_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sleep_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1602,9 +1602,9 @@
         "audio_dir": ""
     },
     {
-        "level": "read_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "read_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1620,9 +1620,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sing_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1638,9 +1638,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sleep_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sleep_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1656,9 +1656,9 @@
         "audio_dir": ""
     },
     {
-        "level": "read_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "read_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1674,9 +1674,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sing_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1692,9 +1692,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sleep_p",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sleep_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1710,9 +1710,9 @@
         "audio_dir": ""
     },
     {
-        "level": "read_f",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "read_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1728,9 +1728,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sing_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sing_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1746,9 +1746,9 @@
         "audio_dir": ""
     },
     {
-        "level": "sleep_m",
-        "image_filename": "conjugation.jpg",
-        "card_type": "e",
+        "level": 3.0,
+        "image_filename": "sleep_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

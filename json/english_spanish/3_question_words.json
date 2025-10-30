@@ -1,8 +1,8 @@
 [
     {
-        "level": "teacher",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "teacher.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "¿Quién es ella? La maestra"
     },
     {
-        "level": "friend",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "friend.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "¿Quiénes son ellos? amigos"
     },
     {
-        "level": "police",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "police.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "¿Quién está ahí? Policía"
     },
     {
-        "level": "what1",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "what1.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "¿De qué color es su camisa? azul"
     },
     {
-        "level": "who1",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "who1.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "¿Quién lanza la pelota? Número 17"
     },
     {
-        "level": "who1",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "who1.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "¿Qué número tiene en su camisa? diecisiete"
     },
     {
-        "level": "who2",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "who2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "¿Quién tiene la pelota? Número 15"
     },
     {
-        "level": "artist",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "artist.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "¿Quién hace arte? Un artista"
     },
     {
-        "level": "time2",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "time2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "¿Qué hora es? Las dos y media"
     },
     {
-        "level": "time3",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "time3.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "¿Qué hora es? las tres en punto"
     },
     {
-        "level": "temp2",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "temp2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "¿Cuál es la temperatura? cero grados"
     },
     {
-        "level": "temp3",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "temp3.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "¿Cuál es la temperatura? 40 grados"
     },
     {
-        "level": "whenleave",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whenleave.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "¿Cuándo deberíamos salir? doce"
     },
     {
-        "level": "whenshow",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whenshow.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "¿Cuándo empieza el espectáculo? después de las 5"
     },
     {
-        "level": "whenborn",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whenborn.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "¿Cuándo naciste? 2018"
     },
     {
-        "level": "whenmovie",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whenmovie.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "¿Cuándo ven películas? Por la noche"
     },
     {
-        "level": "whenrun",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whenrun.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "¿Cuándo corres? por la mañana"
     },
     {
-        "level": "whererun",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whererun.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "¿Dónde corres? La playa"
     },
     {
-        "level": "wheneat",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "wheneat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "¿Cuándo cenas? por la noche"
     },
     {
-        "level": "concert",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "concert.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "¿Cuándo es el concierto? por la noche"
     },
     {
-        "level": "wherebridge",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "wherebridge.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "¿Dónde hay nieve? En el puente"
     },
     {
-        "level": "whowin",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whowin.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "¿Quién está ganando? El equipo local"
     },
     {
-        "level": "whofront",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whofront.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "¿Quién va delante? El coche azul."
     },
     {
-        "level": "whererun2",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whererun2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "¿Dónde corres? la pista"
     },
     {
-        "level": "wherecise",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "wherecise.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "¿Dónde haces ejercicio? En el gimnasio"
     },
     {
-        "level": "wherework",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "wherework.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "¿Dónde trabajas? el hospital"
     },
     {
-        "level": "wherehouse",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "wherehouse.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "¿Dónde está la casa? junto al lago"
     },
     {
-        "level": "wherefrom",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "wherefrom.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "¿De dónde eres? África"
     },
     {
-        "level": "whatbook",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whatbook.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "¿De qué trata el libro? espacio"
     },
     {
-        "level": "whatwear",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whatwear.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "¿Qué lleva puesto? Un vestido"
     },
     {
-        "level": "whatwear",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whatwear.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "¿De qué color es el vestido? verde"
     },
     {
-        "level": "sing_f",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "¿Qué está haciendo? cantando"
     },
     {
-        "level": "whywait",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whywait.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "¿Por qué está esperando ella? Para el tren"
     },
     {
-        "level": "traffic",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "traffic.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "¿Por qué llegaste tarde? Había tráfico."
     },
     {
-        "level": "whyclose",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whyclose.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "¿Por qué está cerrada la carretera? Hay obras."
     },
     {
-        "level": "whyticket",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whyticket.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "¿Por qué le ponen una multa? No aparcar."
     },
     {
-        "level": "whydelay",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whydelay.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "¿Por qué se retrasa el vuelo? lluvia"
     },
     {
-        "level": "whychick",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whychick.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "¿Por qué cruzó la gallina la calle? para llegar al otro lado"
     },
     {
-        "level": "whyoff",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whyoff.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "¿Por qué están apagadas las luces? No hay electricidad"
     },
     {
-        "level": "whywet",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whywet.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "¿Por qué está mojado el suelo? Se cayó el cubo."
     },
     {
-        "level": "whyworry",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whyworry.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "¿Por qué están preocupados los estudiantes? una prueba"
     },
     {
-        "level": "whytire",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": 3.0,
+        "image_filename": "whytire.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish questions are formed either by raising intonation or by inverting the subject and verb, especially in writing or formal speech (¿Hablas tú...?). Common question words are quién, qué, cuándo, dónde, por qué, and cómo.",
         "native_language": "english",
