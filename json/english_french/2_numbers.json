@@ -1,8 +1,8 @@
 [
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -14,13 +14,13 @@
         "prompt": "1 - ______",
         "answer": "1 - un",
         "goal_words": "un",
-        "audio_filename": "line_fr_143.mp3",
-        "audio_dir": "1 - un"
+        "audio_filename": "line26jan26_fr_737.mp3",
+        "audio_dir": "un"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -32,13 +32,13 @@
         "prompt": "2 - ______",
         "answer": "2 - deux",
         "goal_words": "deux",
-        "audio_filename": "line_fr_170.mp3",
-        "audio_dir": "2 - deux"
+        "audio_filename": "line26jan26_fr_157.mp3",
+        "audio_dir": "deux"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -50,13 +50,13 @@
         "prompt": "3 - ______",
         "answer": "3 - trois",
         "goal_words": "trois",
-        "audio_filename": "line_fr_182.mp3",
-        "audio_dir": "3 - trois"
+        "audio_filename": "line26jan26_fr_700.mp3",
+        "audio_dir": "trois"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -68,13 +68,13 @@
         "prompt": "4 - ______",
         "answer": "4 - quatre",
         "goal_words": "quatre",
-        "audio_filename": "line_fr_184.mp3",
-        "audio_dir": "4 - quatre"
+        "audio_filename": "line26jan26_fr_591.mp3",
+        "audio_dir": "quatre"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -86,13 +86,13 @@
         "prompt": "5 - ______",
         "answer": "5 - cinq",
         "goal_words": "cinq",
-        "audio_filename": "line_fr_186.mp3",
-        "audio_dir": "5 - cinq"
+        "audio_filename": "line26jan26_fr_87.mp3",
+        "audio_dir": "cinq"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -104,13 +104,13 @@
         "prompt": "6 - ______",
         "answer": "6 - six",
         "goal_words": "six",
-        "audio_filename": "line_fr_188.mp3",
-        "audio_dir": "6 - six"
+        "audio_filename": "line26jan26_fr_679.mp3",
+        "audio_dir": "six"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -122,13 +122,13 @@
         "prompt": "7 - ______",
         "answer": "7 - sept",
         "goal_words": "sept",
-        "audio_filename": "line_fr_190.mp3",
-        "audio_dir": "7 - sept"
+        "audio_filename": "line26jan26_fr_676.mp3",
+        "audio_dir": "sept"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -140,13 +140,13 @@
         "prompt": "8 - ______",
         "answer": "8 - huit",
         "goal_words": "huit",
-        "audio_filename": "line_fr_192.mp3",
-        "audio_dir": "8 - huit"
+        "audio_filename": "line26jan26_fr_230.mp3",
+        "audio_dir": "huit"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -158,13 +158,13 @@
         "prompt": "9 - ______",
         "answer": "9 - neuf",
         "goal_words": "neuf",
-        "audio_filename": "line_fr_194.mp3",
-        "audio_dir": "9 - neuf"
+        "audio_filename": "line26jan26_fr_456.mp3",
+        "audio_dir": "neuf"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -176,13 +176,31 @@
         "prompt": "10 - ______",
         "answer": "10 - dix",
         "goal_words": "dix",
-        "audio_filename": "line_fr_144.mp3",
-        "audio_dir": "10 - dix"
+        "audio_filename": "line26jan26_fr_164.mp3",
+        "audio_dir": "dix"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "french",
+        "native_group": "2 numbers",
+        "native_answer": "1-10.\none,\ntwo,\nthree,\nfour,\nfive,\nsix,\nseven,\neight,\nnine,\nten,",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "1-10.\n______",
+        "answer": "1-10.\nun\ndeux\ntrois\nquatre\ncinq\nsix\nsept\nhuit\nneuf\ndix",
+        "goal_words": "un\ndeux\ntrois\nquatre\ncinq\nsix\nsept\nhuit\nneuf\ndix",
+        "audio_filename": "line26jan26_fr_738.mp3",
+        "audio_dir": "un\ndeux\ntrois\nquatre\ncinq\nsix\nsept\nhuit\nneuf\ndix"
+    },
+    {
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -194,13 +212,13 @@
         "prompt": "11 - ______",
         "answer": "11 - onze",
         "goal_words": "onze",
-        "audio_filename": "line_fr_148.mp3",
-        "audio_dir": "11 - onze"
+        "audio_filename": "line26jan26_fr_494.mp3",
+        "audio_dir": "onze"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -212,13 +230,13 @@
         "prompt": "12 - ______",
         "answer": "12 - douze",
         "goal_words": "douze",
-        "audio_filename": "line_fr_151.mp3",
-        "audio_dir": "12 - douze"
+        "audio_filename": "line26jan26_fr_170.mp3",
+        "audio_dir": "douze"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -230,13 +248,13 @@
         "prompt": "13 - ______",
         "answer": "13 - treize",
         "goal_words": "treize",
-        "audio_filename": "line_fr_154.mp3",
-        "audio_dir": "13 - treize"
+        "audio_filename": "line26jan26_fr_696.mp3",
+        "audio_dir": "treize"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -248,13 +266,13 @@
         "prompt": "14 - ______",
         "answer": "14 - quatorze",
         "goal_words": "quatorze",
-        "audio_filename": "line_fr_157.mp3",
-        "audio_dir": "14 - quatorze"
+        "audio_filename": "line26jan26_fr_590.mp3",
+        "audio_dir": "quatorze"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -266,13 +284,13 @@
         "prompt": "15 - ______",
         "answer": "15 - quinze",
         "goal_words": "quinze",
-        "audio_filename": "line_fr_160.mp3",
-        "audio_dir": "15 - quinze"
+        "audio_filename": "line26jan26_fr_665.mp3",
+        "audio_dir": "quinze"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -284,13 +302,13 @@
         "prompt": "16 - ______",
         "answer": "16 - seize",
         "goal_words": "seize",
-        "audio_filename": "line_fr_162.mp3",
-        "audio_dir": "16 - seize"
+        "audio_filename": "line26jan26_fr_675.mp3",
+        "audio_dir": "seize"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -302,13 +320,13 @@
         "prompt": "17 - ______",
         "answer": "17 - dix-sept",
         "goal_words": "dix-sept",
-        "audio_filename": "line_fr_164.mp3",
-        "audio_dir": "17 - dix-sept"
+        "audio_filename": "line26jan26_fr_167.mp3",
+        "audio_dir": "dix-sept"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -320,13 +338,13 @@
         "prompt": "18 - ______",
         "answer": "18 - dix-huit",
         "goal_words": "dix-huit",
-        "audio_filename": "line_fr_166.mp3",
-        "audio_dir": "18 - dix-huit"
+        "audio_filename": "line26jan26_fr_165.mp3",
+        "audio_dir": "dix-huit"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -338,13 +356,13 @@
         "prompt": "19 - ______",
         "answer": "19 - dix-neuf",
         "goal_words": "dix-neuf",
-        "audio_filename": "line_fr_168.mp3",
-        "audio_dir": "19 - dix-neuf"
+        "audio_filename": "line26jan26_fr_166.mp3",
+        "audio_dir": "dix-neuf"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -356,13 +374,31 @@
         "prompt": "20 - ______",
         "answer": "20 - vingt",
         "goal_words": "vingt",
-        "audio_filename": "line_fr_171.mp3",
-        "audio_dir": "20 - vingt"
+        "audio_filename": "line26jan26_fr_745.mp3",
+        "audio_dir": "vingt"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "french",
+        "native_group": "2 numbers",
+        "native_answer": "11-20.\neleven,\ntwelve,\nthirteen,\nfourteen,\nfifteen,\nsixteen,\nseventeen,\neighteen,\nnineteen,\ntwenty,",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "11-20.\n______",
+        "answer": "11-20.\nonze\ndouze\ntreize\nquatorze\nquinze\nseize\ndix-sept\ndix-huit\ndix-neuf\nvingt",
+        "goal_words": "onze\ndouze\ntreize\nquatorze\nquinze\nseize\ndix-sept\ndix-huit\ndix-neuf\nvingt",
+        "audio_filename": "line26jan26_2_fr_1.mp3",
+        "audio_dir": "onze\ndouze\ntreize\nquatorze\nquinze\nseize\ndix-sept\ndix-huit\ndix-neuf\nvingt"
+    },
+    {
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -374,13 +410,13 @@
         "prompt": "21 - ______",
         "answer": "21 - vingt et un",
         "goal_words": "vingt et un",
-        "audio_filename": "line_fr_173.mp3",
-        "audio_dir": "21 - vingt et un"
+        "audio_filename": "line26jan26_fr_746.mp3",
+        "audio_dir": "vingt et un"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -392,13 +428,13 @@
         "prompt": "22 - ______",
         "answer": "22 - vingt-deux",
         "goal_words": "vingt-deux",
-        "audio_filename": "line_fr_174.mp3",
-        "audio_dir": "22 - vingt-deux"
+        "audio_filename": "line26jan26_fr_749.mp3",
+        "audio_dir": "vingt-deux"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -410,13 +446,13 @@
         "prompt": "23 - ______",
         "answer": "23 - vingt-trois",
         "goal_words": "vingt-trois",
-        "audio_filename": "line_fr_175.mp3",
-        "audio_dir": "23 - vingt-trois"
+        "audio_filename": "line26jan26_fr_755.mp3",
+        "audio_dir": "vingt-trois"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -428,13 +464,13 @@
         "prompt": "24 - ______",
         "answer": "24 - vingt-quatre",
         "goal_words": "vingt-quatre",
-        "audio_filename": "line_fr_176.mp3",
-        "audio_dir": "24 - vingt-quatre"
+        "audio_filename": "line26jan26_fr_752.mp3",
+        "audio_dir": "vingt-quatre"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -446,13 +482,13 @@
         "prompt": "25 - ______",
         "answer": "25 - vingt-cinq",
         "goal_words": "vingt-cinq",
-        "audio_filename": "line_fr_177.mp3",
-        "audio_dir": "25 - vingt-cinq"
+        "audio_filename": "line26jan26_fr_748.mp3",
+        "audio_dir": "vingt-cinq"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -464,13 +500,13 @@
         "prompt": "26 - ______",
         "answer": "26 - vingt-six",
         "goal_words": "vingt-six",
-        "audio_filename": "line_fr_178.mp3",
-        "audio_dir": "26 - vingt-six"
+        "audio_filename": "line26jan26_fr_754.mp3",
+        "audio_dir": "vingt-six"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -482,13 +518,13 @@
         "prompt": "27 - ______",
         "answer": "27 - vingt-sept",
         "goal_words": "vingt-sept",
-        "audio_filename": "line_fr_179.mp3",
-        "audio_dir": "27 - vingt-sept"
+        "audio_filename": "line26jan26_fr_753.mp3",
+        "audio_dir": "vingt-sept"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -500,13 +536,13 @@
         "prompt": "28 - ______",
         "answer": "28 - vingt-huit",
         "goal_words": "vingt-huit",
-        "audio_filename": "line_fr_180.mp3",
-        "audio_dir": "28 - vingt-huit"
+        "audio_filename": "line26jan26_fr_750.mp3",
+        "audio_dir": "vingt-huit"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -518,13 +554,13 @@
         "prompt": "29 - ______",
         "answer": "29 - vingt-neuf",
         "goal_words": "vingt-neuf",
-        "audio_filename": "line_fr_181.mp3",
-        "audio_dir": "29 - vingt-neuf"
+        "audio_filename": "line26jan26_fr_751.mp3",
+        "audio_dir": "vingt-neuf"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -536,13 +572,31 @@
         "prompt": "30 - ______",
         "answer": "30 - trente",
         "goal_words": "trente",
-        "audio_filename": "line_fr_183.mp3",
-        "audio_dir": "30 - trente"
+        "audio_filename": "line26jan26_fr_697.mp3",
+        "audio_dir": "trente"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "french",
+        "native_group": "2 numbers",
+        "native_answer": "21-30.\ntwenty-one,\ntwenty-two,\ntwenty-three,\ntwenty-four,\ntwenty-five,\ntwenty-six,\ntwenty-seven,\ntwenty-eight,\ntwenty-nine,\nthirty,",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "21-30.\n______",
+        "answer": "21-30.\nvingt et un\nvingt-deux\nvingt-trois\nvingt-quatre\nvingt-cinq\nvingt-six\nvingt-sept\nvingt-huit\nvingt-neuf\ntrente\n",
+        "goal_words": "vingt et un\nvingt-deux\nvingt-trois\nvingt-quatre\nvingt-cinq\nvingt-six\nvingt-sept\nvingt-huit\nvingt-neuf\ntrente\n",
+        "audio_filename": "line26jan26_fr_747.mp3",
+        "audio_dir": "vingt et un\nvingt-deux\nvingt-trois\nvingt-quatre\nvingt-cinq\nvingt-six\nvingt-sept\nvingt-huit\nvingt-neuf\ntrente\n"
+    },
+    {
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -554,13 +608,13 @@
         "prompt": "40 - ______",
         "answer": "40 - quarante",
         "goal_words": "quarante",
-        "audio_filename": "line_fr_185.mp3",
-        "audio_dir": "40 - quarante"
+        "audio_filename": "line26jan26_fr_589.mp3",
+        "audio_dir": "quarante"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -572,13 +626,13 @@
         "prompt": "50 - ______",
         "answer": "50 - cinquante",
         "goal_words": "cinquante",
-        "audio_filename": "line_fr_187.mp3",
-        "audio_dir": "50 - cinquante"
+        "audio_filename": "line26jan26_fr_88.mp3",
+        "audio_dir": "cinquante"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -590,13 +644,13 @@
         "prompt": "60 - ______",
         "answer": "60 - soixante",
         "goal_words": "soixante",
-        "audio_filename": "line_fr_189.mp3",
-        "audio_dir": "60 - soixante"
+        "audio_filename": "line26jan26_fr_680.mp3",
+        "audio_dir": "soixante"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -608,13 +662,13 @@
         "prompt": "70 - ______",
         "answer": "70 - soixante-dix",
         "goal_words": "soixante-dix",
-        "audio_filename": "line_fr_191.mp3",
-        "audio_dir": "70 - soixante-dix"
+        "audio_filename": "line26jan26_fr_681.mp3",
+        "audio_dir": "soixante-dix"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -626,13 +680,13 @@
         "prompt": "80 - ______",
         "answer": "80 - quatre-vingts",
         "goal_words": "quatre-vingts",
-        "audio_filename": "line_fr_193.mp3",
-        "audio_dir": "80 - quatre-vingts"
+        "audio_filename": "line26jan26_fr_593.mp3",
+        "audio_dir": "quatre-vingts"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -644,13 +698,13 @@
         "prompt": "90 - ______",
         "answer": "90 - quatre-vingt-dix",
         "goal_words": "quatre-vingt-dix",
-        "audio_filename": "line_fr_195.mp3",
-        "audio_dir": "90 - quatre-vingt-dix"
+        "audio_filename": "line26jan26_fr_592.mp3",
+        "audio_dir": "quatre-vingt-dix"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -662,13 +716,13 @@
         "prompt": "100 - ______",
         "answer": "100 - cent",
         "goal_words": "cent",
-        "audio_filename": "line_fr_145.mp3",
-        "audio_dir": "100 - cent"
+        "audio_filename": "line26jan26_fr_70.mp3",
+        "audio_dir": "cent"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -680,13 +734,13 @@
         "prompt": "101 - ______",
         "answer": "101 - cent un",
         "goal_words": "cent un",
-        "audio_filename": "line_fr_147.mp3",
-        "audio_dir": "101 - cent un"
+        "audio_filename": "line26jan26_fr_82.mp3",
+        "audio_dir": "cent un"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -698,13 +752,13 @@
         "prompt": "110 - ______",
         "answer": "110 - cent dix",
         "goal_words": "cent dix",
-        "audio_filename": "line_fr_149.mp3",
-        "audio_dir": "110 - cent dix"
+        "audio_filename": "line26jan26_fr_72.mp3",
+        "audio_dir": "cent dix"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -716,13 +770,13 @@
         "prompt": "111 - ______",
         "answer": "111 - cent onze",
         "goal_words": "cent onze",
-        "audio_filename": "line_fr_150.mp3",
-        "audio_dir": "111 - cent onze"
+        "audio_filename": "line26jan26_fr_73.mp3",
+        "audio_dir": "cent onze"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -734,13 +788,13 @@
         "prompt": "120 - ______",
         "answer": "120 - cent vingt",
         "goal_words": "cent vingt",
-        "audio_filename": "line_fr_152.mp3",
-        "audio_dir": "120 - cent vingt"
+        "audio_filename": "line26jan26_fr_83.mp3",
+        "audio_dir": "cent vingt"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -752,13 +806,13 @@
         "prompt": "123 - ______",
         "answer": "123 - cent vingt-trois",
         "goal_words": "cent vingt-trois",
-        "audio_filename": "line_fr_153.mp3",
-        "audio_dir": "123 - cent vingt-trois"
+        "audio_filename": "line26jan26_fr_84.mp3",
+        "audio_dir": "cent vingt-trois"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -770,13 +824,13 @@
         "prompt": "130 - ______",
         "answer": "130 - cent trente",
         "goal_words": "cent trente",
-        "audio_filename": "line_fr_155.mp3",
-        "audio_dir": "130 - cent trente"
+        "audio_filename": "line26jan26_fr_80.mp3",
+        "audio_dir": "cent trente"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -788,13 +842,13 @@
         "prompt": "138 - ______",
         "answer": "138 - cent trente-huit",
         "goal_words": "cent trente-huit",
-        "audio_filename": "line_fr_156.mp3",
-        "audio_dir": "138 - cent trente-huit"
+        "audio_filename": "line26jan26_fr_81.mp3",
+        "audio_dir": "cent trente-huit"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -806,13 +860,13 @@
         "prompt": "140 - ______",
         "answer": "140 - cent quarante",
         "goal_words": "cent quarante",
-        "audio_filename": "line_fr_158.mp3",
-        "audio_dir": "140 - cent quarante"
+        "audio_filename": "line26jan26_fr_74.mp3",
+        "audio_dir": "cent quarante"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -824,13 +878,13 @@
         "prompt": "141 - ______",
         "answer": "141 - cent quarante-et-un",
         "goal_words": "cent quarante-et-un",
-        "audio_filename": "line_fr_159.mp3",
-        "audio_dir": "141 - cent quarante-et-un"
+        "audio_filename": "line26jan26_fr_75.mp3",
+        "audio_dir": "cent quarante-et-un"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -842,13 +896,13 @@
         "prompt": "150 - ______",
         "answer": "150 - cent cinquante",
         "goal_words": "cent cinquante",
-        "audio_filename": "line_fr_161.mp3",
-        "audio_dir": "150 - cent cinquante"
+        "audio_filename": "line26jan26_fr_71.mp3",
+        "audio_dir": "cent cinquante"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -860,13 +914,13 @@
         "prompt": "160 - ______",
         "answer": "160 - cent soixante",
         "goal_words": "cent soixante",
-        "audio_filename": "line_fr_163.mp3",
-        "audio_dir": "160 - cent soixante"
+        "audio_filename": "line26jan26_fr_78.mp3",
+        "audio_dir": "cent soixante"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -878,13 +932,13 @@
         "prompt": "170 - ______",
         "answer": "170 - cent soixante-dix",
         "goal_words": "cent soixante-dix",
-        "audio_filename": "line_fr_165.mp3",
-        "audio_dir": "170 - cent soixante-dix"
+        "audio_filename": "line26jan26_fr_79.mp3",
+        "audio_dir": "cent soixante-dix"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -896,13 +950,13 @@
         "prompt": "180 - ______",
         "answer": "180 - cent quatre-vingts",
         "goal_words": "cent quatre-vingts",
-        "audio_filename": "line_fr_167.mp3",
-        "audio_dir": "180 - cent quatre-vingts"
+        "audio_filename": "line26jan26_fr_77.mp3",
+        "audio_dir": "cent quatre-vingts"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -914,13 +968,13 @@
         "prompt": "190 - ______",
         "answer": "190 - cent quatre-vingt-dix",
         "goal_words": "cent quatre-vingt-dix",
-        "audio_filename": "line_fr_169.mp3",
-        "audio_dir": "190 - cent quatre-vingt-dix"
+        "audio_filename": "line26jan26_fr_76.mp3",
+        "audio_dir": "cent quatre-vingt-dix"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -932,13 +986,13 @@
         "prompt": "200 - ______",
         "answer": "200 - deux cents",
         "goal_words": "deux cents",
-        "audio_filename": "line_fr_172.mp3",
-        "audio_dir": "200 - deux cents"
+        "audio_filename": "line26jan26_fr_158.mp3",
+        "audio_dir": "deux cents"
     },
     {
-        "level": 2.0,
+        "level": "vocab",
         "image_filename": "",
-        "card_type": "vocab",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -950,7 +1004,79 @@
         "prompt": "1000 - ______",
         "answer": "1000 - mille",
         "goal_words": "mille",
-        "audio_filename": "line_fr_146.mp3",
-        "audio_dir": "1000 - mille"
+        "audio_filename": "line26jan26_fr_442.mp3",
+        "audio_dir": "mille"
+    },
+    {
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "french",
+        "native_group": "2 numbers",
+        "native_answer": "1492. one thousand four hundred ninety-two",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "1492. ______",
+        "answer": "1492. mille quatre cent quatre-vingt-douze",
+        "goal_words": "mille quatre cent quatre-vingt-douze",
+        "audio_filename": "line26jan26_fr_443.mp3",
+        "audio_dir": "mille quatre cent quatre-vingt-douze"
+    },
+    {
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "french",
+        "native_group": "2 numbers",
+        "native_answer": "1776. one thousand seven hundred seventy-six",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "1776. ______",
+        "answer": "1776. mille sept cent soixante-seize",
+        "goal_words": "mille sept cent soixante-seize",
+        "audio_filename": "line26jan26_fr_444.mp3",
+        "audio_dir": "mille sept cent soixante-seize"
+    },
+    {
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "french",
+        "native_group": "2 numbers",
+        "native_answer": "2008. two thousand eight",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "2008. ______",
+        "answer": "2008. deux mille huit",
+        "goal_words": "deux mille huit",
+        "audio_filename": "line26jan26_fr_160.mp3",
+        "audio_dir": "deux mille huit"
+    },
+    {
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "french",
+        "native_group": "2 numbers",
+        "native_answer": "2112. two thousand one hundred twelve",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "2112. ______",
+        "answer": "2112. deux mille cent douze",
+        "goal_words": "deux mille cent douze",
+        "audio_filename": "line26jan26_fr_159.mp3",
+        "audio_dir": "deux mille cent douze"
     }
 ]

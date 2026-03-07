@@ -1,8 +1,8 @@
 [
     {
-        "level": "bowl",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "die Schüssel"
     },
     {
-        "level": "cup",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "die Tasse"
     },
     {
-        "level": "fork",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "die Gabel"
     },
     {
-        "level": "knife",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "das Messer"
     },
     {
-        "level": "spoon",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "der Löffel"
     },
     {
-        "level": "bottle",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "die Flasche"
     },
     {
-        "level": "plate",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "der Teller"
     },
     {
-        "level": "drink",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "das Getränk"
     },
     {
-        "level": "glass",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "das Glas"
     },
     {
-        "level": "stove",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "der Herd"
     },
     {
-        "level": "oven",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "der Ofen"
     },
     {
-        "level": "microwave",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "die Mikrowelle"
     },
     {
-        "level": "fridge2",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Der Kühlschrank"
     },
     {
-        "level": "blender2",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Der Mixer"
     },
     {
-        "level": "restaurant",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "das Restaurant"
     },
     {
-        "level": "bar",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "die Bar"
     },
     {
-        "level": "check",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "die Rechnung"
     },
     {
-        "level": "chef",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "der Koch"
     },
     {
-        "level": "waiter",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "der Kellner"
     },
     {
-        "level": "waitress",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "die Kellnerin"
     },
     {
-        "level": "meal",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,93 +378,93 @@
         "audio_dir": "die Mahlzeit"
     },
     {
-        "level": "breakfast",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "german",
         "native_group": "2 kitchen/restaurant",
-        "native_answer": "breakfast",
+        "native_answer": "breakfast: the first meal of the day",
         "native_word": "restaurant",
         "tag": "restaurant",
-        "prompt": "______",
-        "answer": "das Frühstück",
-        "goal_words": "das Frühstück",
-        "audio_filename": "line_de_488.mp3",
-        "audio_dir": "das Frühstück"
+        "prompt": "______: die erste Mahlzeit des Tages",
+        "answer": "Frühstück: die erste Mahlzeit des Tages",
+        "goal_words": "Frühstück",
+        "audio_filename": "line26jan26_de_190.mp3",
+        "audio_dir": "Frühstück: die erste Mahlzeit des Tages"
     },
     {
-        "level": "lunch",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "german",
         "native_group": "2 kitchen/restaurant",
-        "native_answer": "lunch",
+        "native_answer": "lunch: meal at midday",
         "native_word": "restaurant",
         "tag": "restaurant",
-        "prompt": "______",
-        "answer": "das Mittagessen",
-        "goal_words": "das Mittagessen",
-        "audio_filename": "line_de_543.mp3",
-        "audio_dir": "das Mittagessen"
+        "prompt": "______: Mahlzeit zur Mittagszeit",
+        "answer": "Mittagessen: Mahlzeit zur Mittagszeit",
+        "goal_words": "Mittagessen",
+        "audio_filename": "line26jan26_de_376.mp3",
+        "audio_dir": "Mittagessen: Mahlzeit zur Mittagszeit"
     },
     {
-        "level": "dinner",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "german",
         "native_group": "2 kitchen/restaurant",
-        "native_answer": "dinner",
+        "native_answer": "dinner: meal at the end of the day",
         "native_word": "restaurant",
         "tag": "restaurant",
-        "prompt": "______",
-        "answer": "das Abendessen",
-        "goal_words": "das Abendessen",
-        "audio_filename": "line_de_446.mp3",
-        "audio_dir": "das Abendessen"
+        "prompt": "______: Mahlzeit am Ende des Tages",
+        "answer": "Abendessen: Mahlzeit am Ende des Tages",
+        "goal_words": "Abendessen",
+        "audio_filename": "line26jan26_de_1.mp3",
+        "audio_dir": "Abendessen: Mahlzeit am Ende des Tages"
     },
     {
-        "level": "dessert",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "german",
         "native_group": "2 kitchen/restaurant",
-        "native_answer": "dessert",
+        "native_answer": "dessert: something sweet after dinner",
         "native_word": "restaurant",
         "tag": "restaurant",
-        "prompt": "______",
-        "answer": "der Nachtisch",
-        "goal_words": "der Nachtisch",
-        "audio_filename": "line_de_775.mp3",
-        "audio_dir": "der Nachtisch"
+        "prompt": "______: etwas Süßes nach dem Abendessen",
+        "answer": "Dessert: etwas Süßes nach dem Abendessen",
+        "goal_words": "Dessert",
+        "audio_filename": "line26jan26_de_80.mp3",
+        "audio_dir": "Dessert: etwas Süßes nach dem Abendessen"
     },
     {
-        "level": "groceries",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "german",
         "native_group": "2 kitchen/restaurant",
-        "native_answer": "groceries",
+        "native_answer": "groceries: food from the store",
         "native_word": "kitchen",
         "tag": "kitchen",
-        "prompt": "______",
-        "answer": "die Lebensmittel",
-        "goal_words": "die Lebensmittel",
-        "audio_filename": "line2_de_61.mp3",
-        "audio_dir": "die Lebensmittel"
+        "prompt": "______: Essen aus dem Laden",
+        "answer": "Lebensmittel: Essen aus dem Laden",
+        "goal_words": "Lebensmittel",
+        "audio_filename": "line26jan26_de_362.mp3",
+        "audio_dir": "Lebensmittel: Essen aus dem Laden"
     }
 ]

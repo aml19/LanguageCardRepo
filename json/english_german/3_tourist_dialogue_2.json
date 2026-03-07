@@ -1,8 +1,8 @@
 [
     {
-        "level": "city",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Stadt"
     },
     {
-        "level": "week",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Die Woche"
     },
     {
-        "level": "ticket",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Das Ticket"
     },
     {
-        "level": "clerk",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Angestellter / Angestellte"
     },
     {
-        "level": "pass",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "die Sicherheit passieren"
     },
     {
-        "level": "ride",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "ein Pferd reiten"
     },
     {
-        "level": "day",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "der Tag"
     },
     {
-        "level": "metro",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "U-Bahn-Station"
     },
     {
-        "level": "transportation",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

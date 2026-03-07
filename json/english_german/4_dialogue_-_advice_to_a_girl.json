@@ -1,8 +1,8 @@
 [
     {
-        "level": "sure",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "sicher: zuversichtlich in dem, was man denkt oder weiß"
     },
     {
-        "level": "ready",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "bereit, fertig, los"
     },
     {
-        "level": "nervous",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Nervös"
     },
     {
-        "level": "capable",
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": "reading",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "fähig: die Fähigkeit haben"
     },
     {
-        "level": "really",
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": "reading",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "echt großer Roboter - zur Betonung verwendet"
     },
     {
-        "level": null,
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": "reading",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "nur"
     },
     {
-        "level": null,
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": "reading",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "gut"
     },
     {
-        "level": null,
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": "reading",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Okay"
     },
     {
-        "level": null,
-        "image_filename": "reading.jpg",
-        "card_type": null,
+        "level": "reading",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Was auch immer"
     },
     {
-        "level": "mom",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Die Mama"
     },
     {
-        "level": "dad",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Der Papa"
     },
     {
-        "level": "something",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Etwas in der Box"
     },
     {
-        "level": "mind",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Der Geist: das Element einer Person, das es ihnen ermöglicht, sich der Welt und ihren Erfahrungen bewusst zu sein"
     },
     {
-        "level": "advice",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Der Rat: Anleitung oder Empfehlungen im Hinblick auf kluges zukünftiges Handeln."
     },
     {
-        "level": "internship",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Das Praktikum: die Position eines Studenten oder Auszubildenden, der in einer Organisation arbeitet"
     },
     {
-        "level": "opportunity",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Die Gelegenheit: ein Satz von Umständen, die es ermöglichen, etwas zu tun."
     },
     {
-        "level": "workload",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Die Arbeitsbelastung: die Menge an Arbeit, die von jemandem oder etwas zu erledigen ist."
     },
     {
-        "level": "decision",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Die Entscheidung: Wahl"
     },
     {
-        "level": "need_help",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Hilfe brauchen"
     },
     {
-        "level": "trouble",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "seine Gedanken beunruhigen"
     },
     {
-        "level": "think_m",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "denken"
     },
     {
-        "level": "apply",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Make-up auftragen"
     },
     {
-        "level": "go_with_her",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "mit ihr gehen"
     },
     {
-        "level": "hold_f",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "halten"
     },
     {
-        "level": "handle",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "handhaben: verwalten (eine Situation oder ein Problem)."
     },
     {
-        "level": "remember",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Erinnern"
     },
     {
-        "level": "feel_water",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "das Wasser fühlen"
     },
     {
-        "level": "underestimate",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "unterschätzen: einen zu niedrigen Wert setzen: unterschätzen"
     },
     {
-        "level": "believe",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "glauben: (etwas) als wahr akzeptieren; sich der Wahrheit sicher sein."
     },
     {
-        "level": "support",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Unterstützung: einen Teil oder das gesamte Gewicht tragen; aufrechterhalten."
     },
     {
-        "level": "make",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

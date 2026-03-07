@@ -1,8 +1,8 @@
 [
     {
-        "level": "tourist",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Tourist"
     },
     {
-        "level": "farmersmarket",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Der Bauernmarkt verkauft lokale Produkte"
     },
     {
-        "level": "cityblock",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Block"
     },
     {
-        "level": "trafficlight",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Die Ampel"
     },
     {
-        "level": "bus",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Der Bus"
     },
     {
-        "level": "busstop",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Bushaltestelle"
     },
     {
-        "level": "minute",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "die Minute"
     },
     {
-        "level": "stop",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Haltestelle"
     },
     {
-        "level": "street",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Straße"
     },
     {
-        "level": "artmuseum",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Kunstmuseum"
     },
     {
-        "level": "visit",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "ein Museum besuchen"
     },
     {
-        "level": "help_m",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "helfen"
     },
     {
-        "level": "try_surf",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Surfen ausprobieren"
     },
     {
-        "level": "walk",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "gehen"
     },
     {
-        "level": "turn",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "drehen"
     },
     {
-        "level": "see",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Sehen"
     },
     {
-        "level": "take_treat",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "eine Leckerei nehmen"
     },
     {
-        "level": "come_f",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "mit jemandem kommen"
     },
     {
-        "level": "getoff",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "aus dem Zug aussteigen"
     },
     {
-        "level": "thank",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "danken"
     },
     {
-        "level": "enjoy_free",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Genießen"
     },
     {
-        "level": "nearfar",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "nahe fern"
     },
     {
-        "level": "straight",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "gerade – krumm"
     },
     {
-        "level": "left",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "links – rechts"
     },
     {
-        "level": "central",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Zentrale"
     },
     {
-        "level": "right",
-        "image_filename": "vocab.jpg",
-        "card_type": null,
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

@@ -1,0 +1,38 @@
+[
+    {
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
+        "identifier": "ID",
+        "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 abstract verb phrases 1",
+        "native_answer": "to sound like music",
+        "native_word": "verb - perception",
+        "tag": "verb - perception",
+        "prompt": "音楽______",
+        "answer": "音楽のように聞こえる",
+        "goal_words": "のように聞こえる",
+        "audio_filename": "line26jan26_ja_708.mp3",
+        "audio_dir": "音楽のように聞こえる"
+    },
+    {
+        "level": "vocab",
+        "image_filename": "",
+        "card_type": "english",
+        "identifier": "ID",
+        "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 abstract verb phrases 1",
+        "native_answer": "to look like a person",
+        "native_word": "verb - perception",
+        "tag": "verb - perception",
+        "prompt": "人______",
+        "answer": "人のように見える",
+        "goal_words": "のように見える",
+        "audio_filename": "line26jan26_ja_273.mp3",
+        "audio_dir": "人のように見える"
+    }
+]
