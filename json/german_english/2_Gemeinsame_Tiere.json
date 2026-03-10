@@ -13,7 +13,7 @@
         "tag": "Tier",
         "prompt": "ant",
         "answer": "ant",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13680, \"\"[A-Za-z]+\"\")\"), \"ant\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7219, \"\"[A-Za-z]+\"\")\"), \"ant\")",
         "audio_filename": "line_en_166.mp3",
         "audio_dir": "ant"
     },
@@ -31,7 +31,7 @@
         "tag": "Tier",
         "prompt": "bee",
         "answer": "bee",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13681, \"\"[A-Za-z]+\"\")\"), \"bee\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7220, \"\"[A-Za-z]+\"\")\"), \"bee\")",
         "audio_filename": "line_en_270.mp3",
         "audio_dir": "bee"
     },
@@ -49,7 +49,7 @@
         "tag": "Tier",
         "prompt": "bird",
         "answer": "bird",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13682, \"\"[A-Za-z]+\"\")\"), \"bird\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7221, \"\"[A-Za-z]+\"\")\"), \"bird\")",
         "audio_filename": "line_en_298.mp3",
         "audio_dir": "bird"
     },
@@ -67,7 +67,7 @@
         "tag": "Tier",
         "prompt": "bull",
         "answer": "bull",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13683, \"\"[A-Za-z]+\"\")\"), \"bull\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7222, \"\"[A-Za-z]+\"\")\"), \"bull\")",
         "audio_filename": "line_en_360.mp3",
         "audio_dir": "bull"
     },
@@ -85,7 +85,7 @@
         "tag": "Tier",
         "prompt": "butterfly",
         "answer": "butterfly",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13684, \"\"[A-Za-z]+\"\")\"), \"butterfly\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7223, \"\"[A-Za-z]+\"\")\"), \"butterfly\")",
         "audio_filename": "line_en_373.mp3",
         "audio_dir": "butterfly"
     },
@@ -103,7 +103,7 @@
         "tag": "Tier",
         "prompt": "cat",
         "answer": "cat",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13685, \"\"[A-Za-z]+\"\")\"), \"cat\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7224, \"\"[A-Za-z]+\"\")\"), \"cat\")",
         "audio_filename": "line_en_447.mp3",
         "audio_dir": "cat"
     },
@@ -121,7 +121,7 @@
         "tag": "Tier",
         "prompt": "chicken",
         "answer": "chicken",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13686, \"\"[A-Za-z]+\"\")\"), \"chicken\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7225, \"\"[A-Za-z]+\"\")\"), \"chicken\")",
         "audio_filename": "line_en_481.mp3",
         "audio_dir": "chicken"
     },
@@ -139,7 +139,7 @@
         "tag": "Tier",
         "prompt": "dog",
         "answer": "dog",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13687, \"\"[A-Za-z]+\"\")\"), \"dog\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7226, \"\"[A-Za-z]+\"\")\"), \"dog\")",
         "audio_filename": "line_en_684.mp3",
         "audio_dir": "dog"
     },
@@ -157,7 +157,7 @@
         "tag": "Tier",
         "prompt": "fish",
         "answer": "fish",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13688, \"\"[A-Za-z]+\"\")\"), \"fish\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7227, \"\"[A-Za-z]+\"\")\"), \"fish\")",
         "audio_filename": "line_en_884.mp3",
         "audio_dir": "fish"
     },
@@ -175,7 +175,7 @@
         "tag": "Tier",
         "prompt": "fly",
         "answer": "fly",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13689, \"\"[A-Za-z]+\"\")\"), \"fly\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7228, \"\"[A-Za-z]+\"\")\"), \"fly\")",
         "audio_filename": "line_en_898.mp3",
         "audio_dir": "fly"
     },
@@ -193,7 +193,7 @@
         "tag": "Tier",
         "prompt": "horse",
         "answer": "horse",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13690, \"\"[A-Za-z]+\"\")\"), \"horse\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7229, \"\"[A-Za-z]+\"\")\"), \"horse\")",
         "audio_filename": "line_en_1456.mp3",
         "audio_dir": "horse"
     },
@@ -211,7 +211,7 @@
         "tag": "Tier",
         "prompt": "lizard",
         "answer": "lizard",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13691, \"\"[A-Za-z]+\"\")\"), \"lizard\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7230, \"\"[A-Za-z]+\"\")\"), \"lizard\")",
         "audio_filename": "line2_en_538.mp3",
         "audio_dir": "lizard"
     },
@@ -229,7 +229,7 @@
         "tag": "Tier",
         "prompt": "mosquito",
         "answer": "mosquito",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13692, \"\"[A-Za-z]+\"\")\"), \"mosquito\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7231, \"\"[A-Za-z]+\"\")\"), \"mosquito\")",
         "audio_filename": "line2_en_646.mp3",
         "audio_dir": "mosquito"
     },
@@ -247,7 +247,7 @@
         "tag": "Tier",
         "prompt": "pig",
         "answer": "pig",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13693, \"\"[A-Za-z]+\"\")\"), \"pig\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7232, \"\"[A-Za-z]+\"\")\"), \"pig\")",
         "audio_filename": "line3_en_123.mp3",
         "audio_dir": "pig"
     },
@@ -265,7 +265,7 @@
         "tag": "Tier",
         "prompt": "rat",
         "answer": "rat",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13694, \"\"[A-Za-z]+\"\")\"), \"rat\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7233, \"\"[A-Za-z]+\"\")\"), \"rat\")",
         "audio_filename": "line3_en_229.mp3",
         "audio_dir": "rat"
     },
@@ -283,7 +283,7 @@
         "tag": "Tier",
         "prompt": "spider",
         "answer": "spider",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(K13695, \"\"[A-Za-z]+\"\")\"), \"spider\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7234, \"\"[A-Za-z]+\"\")\"), \"spider\")",
         "audio_filename": "line3_en_827.mp3",
         "audio_dir": "spider"
     }

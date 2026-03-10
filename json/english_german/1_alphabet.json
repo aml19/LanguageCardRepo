@@ -1,8 +1,8 @@
 [
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "apple.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "German pronunciation is systematic and rule-driven, much closer to spelling than English.\nVowel length (long vs short) matters more than stress, and vowels are pure — they do not glide like English ones.\nConsonants are fully articulated, especially at the ends of words, where voiced sounds become voiceless.\nEvery syllable is pronounced clearly, with far less reduction than English.\nIf you finish consonants cleanly and keep vowels steady, German becomes predictable and easy to parse.",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": ""
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "apple.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "A a. \nLike ah in father. Can be short (Mann) or long (Name). English mistake: turning it into æ (“cat”)",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO96, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"A - Apfel\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "tree2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "B b. \nLike English b, but:. At end of words → p. lieb → leep",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO97, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"B - Baum\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "computer.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "C c. \nRare alone. Usually in ch or ck. English mistake: expecting see or k",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO98, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"C - Computer\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "roof.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "D d. \nLike English d. Word-final → t. und → unt",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO99, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"D - Dach\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "elephant.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "E e. \nShort: like bed. Long: like ay but purer (See). At word endings -e is pronounced (bitte)",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO100, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"E - Elefant\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "fish.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "F f. \nSame as English.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO101, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"F - Fisch\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "badgood.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "G g. \nHard g normally. Final g often sounds like k or soft ch. English mistake: soft j sound",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO102, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"G - Guten\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "house.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "H h. \nStrongly pronounced at syllable start. Silent after vowels (marks vowel length). sehen",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO103, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"H - Haus\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "island.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "I i. \nShort: bit. Long: ee (Bier). Never like English eye",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO104, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"I - Insel\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "jacket.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "J j. \nAlways y (ja). Never English j. One of the biggest traps",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO105, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"J - Jacke\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "coffee.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "K k. \nHard k, fully released. English mistake: under-articulating.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO106, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"K - Kaffee\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "lamp.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "L l. \nClear l, never dark. English mistake: using ɫ.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO107, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"L - Lampe\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "mouse.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "M m / N n. \nSame as English, but cleaner.",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO108, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"M - Maus\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "nose.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "M m / N n. \nSame as English, but cleaner.",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO109, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"N - Nase\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "ear.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "O o. \nShort: like lot. Long: pure oh. English mistake: adding a glide (ohw)",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO110, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"O - Ohr\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "plant.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "P p. \nStrong p, often aspirated. English mistake: too soft.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO111, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"P - Pflanze\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "jellyfish.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Q q. \nAlways qu = kv. Qualität. Never kw",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO112, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Q - Qualle\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "rose.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "R r. \nMany variants:. uvular (throat). rolled",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO113, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"R - Rose\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "sun.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "S s. \nAt word start before vowel → z. Sonne → Zonne. Elsewhere → s",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO114, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"S - Sonne\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "table.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "T t. \nClean t. More dental than English. English mistake: flapping or softening",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO115, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"T - Tisch\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "clock.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "U u. \nShort: like put. Long: oo (gut). English mistake: turning it into uh",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO116, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"U - Uhr\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "bird.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "V v. \nPronounced f. English mistake: v.",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO117, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"V - Vogel\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "water.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "W w. \nPronounced v. English mistake: w.",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO118, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"W - Wasser\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "xylophone.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "X x. \nPronounced ks. English mistake: gz. Y y",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO119, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"X - Xylofon\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "yoga.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Y y. \nUsually like ü. English mistake: why. ",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO120, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Y - Yoga\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "zebra.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Z z. \nAlways ts. Never z. English mistake: voicing it",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO121, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Z - Zebra\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "apple.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Ä ä. \nLike eh / air. Often clearer than English a. English mistake: ignoring it as “just an a”",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO122, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ä - Äpfel\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "oil.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Ö ö. \nNo English equivalent. Lips rounded, tongue like eh. English mistake: saying er or oh",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO123, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ö - Öl\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "abovebelow.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Ü ü. \nNo English equivalent. Lips rounded, tongue like ee. English mistake: saying oo or ee",
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO124, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"Ü - Über\")"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "street.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "ß. \nAlways s. Indicates long vowel before it.",
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(AO125, \"\"^\\s*([^\\s]+\\s+[^\\s]+\\s+[^\\s]+)\"\")\"),\"ß - Straße\")"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "SCH. \nLike sh. Very stable.\nSchule → SHOO-luh (school)",
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Schule"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "SP / ST. \nAt word start:. shp / sht. sprechen, Straße",
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "sprechen, Straße"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "CH. \nTwo sounds:. After a, o, u → harsh throat kh. After e, i, ä, ö, ü → soft hiss\nBach → bahkh\nich → ikh (soft)",
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Bach. ich"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "EI. \nPronounced eye. English mistake: ee. IE\nmein → mine",
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "mein"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "IE. \nPronounced ee. English mistake: eye. \nBier → beer",
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Bier"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Vowel length.  This is the #1 pronunciation mistake.\nGerman cares more about long vs short vowels than about stress.\nbieten (long ee) ≠ bitten (short i)\nStaat ≠ Stadt\nOfen ≠ offen",
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "bieten. bitten. Staat. Stadt. Ofen. offen"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Devoice final consonants. English keeps voicing; German doesn’t.\nTag → tak\nund → unt\nlieb → leep",
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Tag.\nund.\nlieb"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "German R varies widely: throat, rolled, tapped. pick one non-English R and be consistent.\nA light uvular R is safest.\nrot (red)\nBrot (bread)\nreisen (to travel)",
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "rot.\nBrot.\nreisen"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "English speakers often drop weak endings.\nbitte → BIT-tuh\nmachen → MAH-khen",
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "bitte.\nmachen"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "English slides vowels. German parks on them. Don't turn German vowels into English diphthongs:\nName, so, boot",
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Name, so, boot"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "German gives every syllable a job. English fires half of them.\nWir haben keine Zeit",
         "native_language": "english",

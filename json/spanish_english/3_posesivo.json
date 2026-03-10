@@ -1,7 +1,7 @@
 [
     {
         "level": 3.0,
-        "image_filename": "",
+        "image_filename": "i_me.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -14,12 +14,12 @@
         "prompt": "I -> ______",
         "answer": "I -> my",
         "goal_words": "my",
-        "audio_filename": "line_en_1541.mp3",
-        "audio_dir": "I -> my"
+        "audio_filename": "line5jan26_en_307.mp3",
+        "audio_dir": "my"
     },
     {
         "level": 3.0,
-        "image_filename": "",
+        "image_filename": "you.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -32,12 +32,12 @@
         "prompt": "you -> ______",
         "answer": "you -> your",
         "goal_words": "your",
-        "audio_filename": "line5_en_251.mp3",
-        "audio_dir": "you -> your"
+        "audio_filename": "line5jan26_en_761.mp3",
+        "audio_dir": "your"
     },
     {
         "level": 3.0,
-        "image_filename": "",
+        "image_filename": "you_all.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -50,12 +50,12 @@
         "prompt": "you all -> ______",
         "answer": "you all -> you all's",
         "goal_words": "you all's",
-        "audio_filename": "line5_en_263.mp3",
-        "audio_dir": "you all -> you all's"
+        "audio_filename": "line5jan26_en_728.mp3",
+        "audio_dir": "you all's"
     },
     {
         "level": 3.0,
-        "image_filename": "",
+        "image_filename": "boy.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -68,12 +68,12 @@
         "prompt": "he -> ______",
         "answer": "he -> his",
         "goal_words": "his",
-        "audio_filename": "line_en_1102.mp3",
-        "audio_dir": "he -> his"
+        "audio_filename": "line5jan26_en_180.mp3",
+        "audio_dir": "his"
     },
     {
         "level": 3.0,
-        "image_filename": "",
+        "image_filename": "girl.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -86,12 +86,12 @@
         "prompt": "she -> ______",
         "answer": "she -> her",
         "goal_words": "her",
-        "audio_filename": "line3_en_467.mp3",
-        "audio_dir": "she -> her"
+        "audio_filename": "line5jan26_en_178.mp3",
+        "audio_dir": "her"
     },
     {
         "level": 3.0,
-        "image_filename": "",
+        "image_filename": "we_us.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -104,12 +104,12 @@
         "prompt": "they -> ______",
         "answer": "they -> their",
         "goal_words": "their",
-        "audio_filename": "line4_en_119.mp3",
-        "audio_dir": "they -> their"
+        "audio_filename": "line5jan26_en_452.mp3",
+        "audio_dir": "their"
     },
     {
         "level": 3.0,
-        "image_filename": "",
+        "image_filename": "they_them.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,

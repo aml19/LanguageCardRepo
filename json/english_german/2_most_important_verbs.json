@@ -1,8 +1,8 @@
 [
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Ich bin ein Mann"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Du bist ein Mann"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Er ist ein Mann"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Ich bin eine Frau"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Du bist eine Frau"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Sie ist eine Frau"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "crowd.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Sie sind in einer Menge"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "crowd.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Wir sind in einer Menge"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "blue_sky.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Der Himmel ist blau"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Ich kann Englisch sprechen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Du kannst Englisch sprechen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Er kann Englisch sprechen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Sie kann Englisch sprechen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Wir können Englisch sprechen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Sie können Englisch sprechen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Ich mache meine Hausaufgaben"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Du machst deine Hausaufgaben"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Er macht seine Hausaufgaben"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Sie macht ihre Hausaufgaben."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Wir machen unsere Hausaufgaben"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Sie machen ihre Hausaufgaben"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Ich mache Brot"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Du machst Brot"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Er macht Brot"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Sie macht Brot"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Wir machen Brot"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Sie machen Brot"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "Ich habe einen roten Pullover."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Du hast einen roten Pullover."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Er hat einen gelben Rucksack."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Wir haben Tickets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Sie haben Tickets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Ich habe Tickets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "wash_hands.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have to.” Expresses obligation or necessity. Example: Ich muss lernen → “I have to study.”",
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Ich muss mir vor dem Essen die Hände waschen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "wash_hands.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have to.” Expresses obligation or necessity. Example: Ich muss lernen → “I have to study.”",
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Du musst dir vor dem Essen die Hände waschen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "use_bathroom.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have to.” Expresses obligation or necessity. Example: Ich muss lernen → “I have to study.”",
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Wir müssen auf die Toilette gehen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "use_bathroom.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have to.” Expresses obligation or necessity. Example: Ich muss lernen → “I have to study.”",
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Sie müssen auf die Toilette gehen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "red_hands.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Wir haben rote Hände"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Wir machen ein Loch"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Du hast einen gelben Rucksack."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Er macht Tongefäße"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "Sie macht gute Arbeit"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "friend.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Wir sind Freunde"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Du hast einen schwarzen Hut."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "Du machst gute Arbeit"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "friend.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "Sie sind Freunde"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Sie kann das Abendessen kochen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "above_clouds.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "Wir sind über den Wolken"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "Wir können das Abendessen kochen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "Ich habe einen schwarzen Hut."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "Ich mache gute Arbeit"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "Ich mache Tongefäße"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "under_umbrella.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "Sie ist unter dem Regenschirm"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "Er macht ein Loch"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "Sie macht ein Loch"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "Er hat einen schwarzen Hut."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "Ich habe einen gelben Rucksack."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "Du kannst gut singen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "Sie machen gute Arbeit"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "Wir können gut singen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "Du kannst das Abendessen kochen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "Wir machen gute Arbeit"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "Sie hat einen roten Pullover."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "Sie machen Tongefäße"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Du hast ein schwarzes Kleid."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "Du machst ein Loch"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "Er kann das Abendessen kochen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "Sie macht Tongefäße"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "Sie machen ein Loch"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Er kann gut singen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "Ich mache ein Loch"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "Sie können das Abendessen kochen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "orange_pumpkin.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "Kürbisse sind orange"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cat_in_box.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "Die Katze ist in der Kiste"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "Er macht gute Arbeit"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -1368,9 +1368,9 @@
         "audio_dir": "Ich habe ein schwarzes Kleid."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1386,9 +1386,9 @@
         "audio_dir": "Ich kann das Abendessen kochen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "red_hands.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1404,9 +1404,9 @@
         "audio_dir": "Sie haben rote Hände"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -1422,9 +1422,9 @@
         "audio_dir": "Du machst Tongefäße"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -1440,9 +1440,9 @@
         "audio_dir": "Wir machen Tongefäße"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1458,9 +1458,9 @@
         "audio_dir": "Sie können gut singen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "food_on_table.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -1476,9 +1476,9 @@
         "audio_dir": "Das Essen ist auf dem Tisch"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -1494,9 +1494,9 @@
         "audio_dir": "Sie hat ein schwarzes Kleid."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1512,9 +1512,9 @@
         "audio_dir": "Sie kann gut singen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1530,9 +1530,9 @@
         "audio_dir": "Ich kann gut singen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sprint_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1548,9 +1548,9 @@
         "audio_dir": "er kann schnell laufen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sprint_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1566,9 +1566,9 @@
         "audio_dir": "ich kann schnell laufen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sprint_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1584,9 +1584,9 @@
         "audio_dir": "du kannst schnell laufen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cheetah.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -1602,9 +1602,9 @@
         "audio_dir": "Geparden können schnell laufen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cheetah.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -1620,9 +1620,9 @@
         "audio_dir": "Geparden sind schnelle Läufer"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cheetah.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -1638,9 +1638,9 @@
         "audio_dir": "dieser Gepard ist schnell"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "mustache.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1656,9 +1656,9 @@
         "audio_dir": "er hat einen Schnurrbart"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "mustache.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1674,9 +1674,9 @@
         "audio_dir": "ich habe einen Schnurrbart"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "mustache.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1692,9 +1692,9 @@
         "audio_dir": "du hast einen Schnurrbart"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "greeneyes.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1710,9 +1710,9 @@
         "audio_dir": "die Katze hat grüne Augen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "havedog.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1728,9 +1728,9 @@
         "audio_dir": "ich habe einen Hund"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "father4.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1746,9 +1746,9 @@
         "audio_dir": "ich habe ein Kind"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "eightyears.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -1764,9 +1764,9 @@
         "audio_dir": "ich bin acht Jahre alt"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "father4.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -1782,9 +1782,9 @@
         "audio_dir": "ich bin Vater"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "old_car.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -1800,9 +1800,9 @@
         "audio_dir": "das Auto ist alt"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sick3.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -1818,9 +1818,9 @@
         "audio_dir": "ich bin krank"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "anger2.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -1836,9 +1836,9 @@
         "audio_dir": "ich bin wütend"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "hungry.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1854,9 +1854,9 @@
         "audio_dir": "ich habe Hunger"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry/wear.” English “have” in sense of wearing uses tragen in German. Example: Ich trage einen Mantel → “I have a coat on.”",
         "native_language": "english",
@@ -1872,9 +1872,9 @@
         "audio_dir": "ich trage einen gelben Rucksack"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry/wear.” English “have” in sense of wearing uses tragen in German. Example: Ich trage einen Mantel → “I have a coat on.”",
         "native_language": "english",
@@ -1890,9 +1890,9 @@
         "audio_dir": "du trägst einen schwarzen Hut"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1908,9 +1908,9 @@
         "audio_dir": "ich habe Tickets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "who2.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1926,9 +1926,9 @@
         "audio_dir": "ich habe den Ball"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tools1.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -1944,9 +1944,9 @@
         "audio_dir": "wir haben viele Werkzeuge"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "toclean.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have to.” Expresses obligation or necessity. Example: Ich muss lernen → “I have to study.”",
         "native_language": "english",
@@ -1962,9 +1962,9 @@
         "audio_dir": "ich muss den Boden putzen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "havetodrive.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have to.” Expresses obligation or necessity. Example: Ich muss lernen → “I have to study.”",
         "native_language": "english",
@@ -1980,9 +1980,9 @@
         "audio_dir": "sie müssen dorthin fahren"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry/wear.” English “have” in sense of wearing uses tragen in German. Example: Ich trage einen Mantel → “I have a coat on.”",
         "native_language": "english",
@@ -1998,9 +1998,9 @@
         "audio_dir": "ich trage einen roten Pullover"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry/wear.” English “have” in sense of wearing uses tragen in German. Example: Ich trage einen Mantel → “I have a coat on.”",
         "native_language": "english",
@@ -2016,9 +2016,9 @@
         "audio_dir": "ich trage ein schwarzes Kleid"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "festival2.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2034,9 +2034,9 @@
         "audio_dir": "hier sind viele Leute"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "difficult_problem.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literally “to give,” but in expressions like Es gibt… = “There is/are…” English “be” is more general; German uses geben for existence in this pattern. Example: Es gibt einen Hund → “There is a dog.”",
         "native_language": "english",
@@ -2052,9 +2052,9 @@
         "audio_dir": "es gibt ein Problem an der Tafel"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "traffic.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literally “to give,” but in expressions like Es gibt… = “There is/are…” English “be” is more general; German uses geben for existence in this pattern. Example: Es gibt einen Hund → “There is a dog.”",
         "native_language": "english",
@@ -2070,9 +2070,9 @@
         "audio_dir": "es gibt viel Verkehr"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cattree.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literally “to give,” but in expressions like Es gibt… = “There is/are…” English “be” is more general; German uses geben for existence in this pattern. Example: Es gibt einen Hund → “There is a dog.”",
         "native_language": "english",
@@ -2088,9 +2088,9 @@
         "audio_dir": "es gibt eine Katze im Baum"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "food_on_table.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literally “to give,” but in expressions like Es gibt… = “There is/are…” English “be” is more general; German uses geben for existence in this pattern. Example: Es gibt einen Hund → “There is a dog.”",
         "native_language": "english",
@@ -2106,9 +2106,9 @@
         "audio_dir": "es gibt Essen auf dem Tisch"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "raining.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to rain.” English “be raining” uses “be,” German has a separate verb regnen. Example: Es regnet → “It is raining.”",
         "native_language": "english",
@@ -2124,9 +2124,9 @@
         "audio_dir": "heute regnet es"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "beerbar.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literally “to give,” but in expressions like Es gibt… = “There is/are…” English “be” is more general; German uses geben for existence in this pattern. Example: Es gibt einen Hund → “There is a dog.”",
         "native_language": "english",
@@ -2142,9 +2142,9 @@
         "audio_dir": "es gibt Bier hier"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "fun_party.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literally “to give,” but in expressions like Es gibt… = “There is/are…” English “be” is more general; German uses geben for existence in this pattern. Example: Es gibt einen Hund → “There is a dog.”",
         "native_language": "english",
@@ -2160,9 +2160,9 @@
         "audio_dir": "es gibt heute Abend eine Party"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "meeting.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literally “to give,” but in expressions like Es gibt… = “There is/are…” English “be” is more general; German uses geben for existence in this pattern. Example: Es gibt einen Hund → “There is a dog.”",
         "native_language": "english",
@@ -2178,9 +2178,9 @@
         "audio_dir": "es gibt heute eine Besprechung"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makesandwich.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2196,9 +2196,9 @@
         "audio_dir": "ich mache das Sandwich"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "clownlaugh.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to bring.” English “make” in sense of bringing or causing something. Example: Ich bringe das Buch → “I make/bring the book.”",
         "native_language": "english",
@@ -2214,9 +2214,9 @@
         "audio_dir": "die Clowns bringen mich zum Lachen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makecoffee.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2232,9 +2232,9 @@
         "audio_dir": "sie machen Kaffee"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "maketea.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2250,9 +2250,9 @@
         "audio_dir": "sie macht Tee"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makerun.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to let/allow.” English “make someone do something” uses lassen in German. Example: Ich lasse ihn gehen → “I make/let him go.”",
         "native_language": "english",
@@ -2268,9 +2268,9 @@
         "audio_dir": "der Trainer lässt mich laufen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makelift.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to let/allow.” English “make someone do something” uses lassen in German. Example: Ich lasse ihn gehen → “I make/let him go.”",
         "native_language": "english",
@@ -2286,9 +2286,9 @@
         "audio_dir": "der Trainer lässt uns Gewichte heben"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makephoto.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2304,9 +2304,9 @@
         "audio_dir": "ich mache Fotoalben"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makephoto_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2322,9 +2322,9 @@
         "audio_dir": "wir machen Fotoalben"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makesleepy.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2340,9 +2340,9 @@
         "audio_dir": "Fernsehen macht mich schläfrig"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "maketired.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2358,9 +2358,9 @@
         "audio_dir": "Laufen macht mich müde"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "ideamoney.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to bring.” English “make” in sense of bringing or causing something. Example: Ich bringe das Buch → “I make/bring the book.”",
         "native_language": "english",
@@ -2376,9 +2376,9 @@
         "audio_dir": "diese Idee bringt Geld ein"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makemoney.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to earn.” English “make money” uses “make,” German verdienen = earn. Example: Ich verdiene Geld → “I make/earn money.”",
         "native_language": "english",
@@ -2394,9 +2394,9 @@
         "audio_dir": "ich verdiene Geld mit Investitionen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makebed.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2412,9 +2412,9 @@
         "audio_dir": "ich mache jeden Morgen das Bett"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makebed_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2430,9 +2430,9 @@
         "audio_dir": "wir machen morgens das Bett"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makemistake.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2448,9 +2448,9 @@
         "audio_dir": "manchmal mache ich einen Fehler"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "canpuzzle.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; German können expresses ability or permission. Example: Ich kann schwimmen → “I can swim.”",
         "native_language": "english",
@@ -2466,9 +2466,9 @@
         "audio_dir": "Babys können dieses Puzzle lösen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "chores.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2484,9 +2484,9 @@
         "audio_dir": "Wir machen viele Hausarbeiten"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "pushup.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2502,9 +2502,9 @@
         "audio_dir": "Er macht Liegestütze im Fitnessstudio"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "doyoga.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2520,9 +2520,9 @@
         "audio_dir": "Sie machen zusammen Yoga"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dopuzzle.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -2538,9 +2538,9 @@
         "audio_dir": "Ich mache Rätsel zum Spaß"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "teacher.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2556,9 +2556,9 @@
         "audio_dir": "Sie ist Lehrerin"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "mydog.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2574,9 +2574,9 @@
         "audio_dir": "Das ist mein Hund"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "keysfloor.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2592,9 +2592,9 @@
         "audio_dir": "Die Schlüssel sind auf dem Boden"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tired.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2610,9 +2610,9 @@
         "audio_dir": "Ich bin müde"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cold3.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2628,9 +2628,9 @@
         "audio_dir": "Es ist heute kalt"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "important.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2646,9 +2646,9 @@
         "audio_dir": "Es ist wichtig"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "quality.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2664,9 +2664,9 @@
         "audio_dir": "Es ist von guter Qualität"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "istime.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2682,9 +2682,9 @@
         "audio_dir": "Es ist zwölf Uhr"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "monday.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2700,9 +2700,9 @@
         "audio_dir": "Heute ist Montag"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "son.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2718,9 +2718,9 @@
         "audio_dir": "Das ist mein Sohn"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "mom.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2736,9 +2736,9 @@
         "audio_dir": "Sie ist Mutter"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "fatskinnyfat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2754,9 +2754,9 @@
         "audio_dir": "Er ist dick"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sunday.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2772,9 +2772,9 @@
         "audio_dir": "Heute ist Sonntag"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "havedog.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -2790,9 +2790,9 @@
         "audio_dir": "Sie hat einen Hund"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "father4.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -2808,9 +2808,9 @@
         "audio_dir": "Er hat ein Kind"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "eightyears.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2826,9 +2826,9 @@
         "audio_dir": "Du bist 8 Jahre alt"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "father4.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2844,9 +2844,9 @@
         "audio_dir": "Er ist Vater"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sick3.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2862,9 +2862,9 @@
         "audio_dir": "Sie ist krank"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "anger2.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -2880,9 +2880,9 @@
         "audio_dir": "Er ist wütend"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "hungry.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -2898,9 +2898,9 @@
         "audio_dir": "Er hat Hunger"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry/wear.” English “have” in sense of wearing uses tragen in German. Example: Ich trage einen Mantel → “I have a coat on.”",
         "native_language": "english",
@@ -2916,9 +2916,9 @@
         "audio_dir": "Er trägt einen gelben Rucksack"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry/wear.” English “have” in sense of wearing uses tragen in German. Example: Ich trage einen Mantel → “I have a coat on.”",
         "native_language": "english",
@@ -2934,9 +2934,9 @@
         "audio_dir": "Er trägt einen schwarzen Hut"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -2952,9 +2952,9 @@
         "audio_dir": "Wir haben Tickets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "who2.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -2970,9 +2970,9 @@
         "audio_dir": "Er hat den Ball"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tools1.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; German haben = possession, age, or feelings. Example: Ich habe ein Auto → “I have a car.”",
         "native_language": "english",
@@ -2988,9 +2988,9 @@
         "audio_dir": "Sie haben viele Werkzeuge"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "to clean.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to clean.” English “have a clean room” might just use “have”; German reinigen indicates action. Example: Ich reinige mein Zimmer → “I have a clean room” (by cleaning it).",
         "native_language": "english",
@@ -3006,9 +3006,9 @@
         "audio_dir": "Du musst den Boden reinigen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "havetodrive.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to drive/ride.” English “have a car” vs “drive a car”; German fahren = act of driving. Example: Ich fahre ein Auto → “I have/drive a car.”",
         "native_language": "english",
@@ -3024,9 +3024,9 @@
         "audio_dir": "Wir müssen dorthin fahren"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry/wear.” English “have” in sense of wearing uses tragen in German. Example: Ich trage einen Mantel → “I have a coat on.”",
         "native_language": "english",
@@ -3042,9 +3042,9 @@
         "audio_dir": "Sie trägt einen roten Pullover"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry/wear.” English “have” in sense of wearing uses tragen in German. Example: Ich trage einen Mantel → “I have a coat on.”",
         "native_language": "english",
@@ -3060,9 +3060,9 @@
         "audio_dir": "Sie trägt ein schwarzes Kleid"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "clownlaugh.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to bring.” English “make” in sense of bringing or causing something. Example: Ich bringe das Buch → “I make/bring the book.”",
         "native_language": "english",
@@ -3078,9 +3078,9 @@
         "audio_dir": "Wir bringen die Leute zum Lachen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makecoffee.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -3096,9 +3096,9 @@
         "audio_dir": "Wir machen Kaffee"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "maketea.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -3114,9 +3114,9 @@
         "audio_dir": "Ich mache Tee"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makephoto.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to shape / design.” English “make” in sense of creating or forming. Example: Ich gestalte ein Bild → “I make a picture.”",
         "native_language": "english",
@@ -3132,9 +3132,9 @@
         "audio_dir": "Du gestaltest Fotoalben"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makephoto_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to shape / design.” English “make” in sense of creating or forming. Example: Ich gestalte ein Bild → “I make a picture.”",
         "native_language": "english",
@@ -3150,9 +3150,9 @@
         "audio_dir": "Sie gestalten Fotoalben"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makemoney.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to earn.” English “make money” uses “make,” German verdienen = earn. Example: Ich verdiene Geld → “I make/earn money.”",
         "native_language": "english",
@@ -3168,9 +3168,9 @@
         "audio_dir": "Du verdienst Geld mit Investitionen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makebed.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -3186,9 +3186,9 @@
         "audio_dir": "Du machst das Bett jeden Morgen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makebed_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -3204,9 +3204,9 @@
         "audio_dir": "Sie machen das Bett morgens"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makemistake.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -3222,9 +3222,9 @@
         "audio_dir": "Manchmal machen sie einen Fehler"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "chores.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -3240,9 +3240,9 @@
         "audio_dir": "Sie machen viele Hausarbeiten"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "pushup.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -3258,9 +3258,9 @@
         "audio_dir": "Ich mache Liegestütze im Fitnessstudio"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "doyoga.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -3276,9 +3276,9 @@
         "audio_dir": "Wir machen zusammen Yoga"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dopuzzle.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -3294,9 +3294,9 @@
         "audio_dir": "Sie macht Rätsel zum Spaß"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "teacher.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -3312,9 +3312,9 @@
         "audio_dir": "Ich bin Lehrer"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tired.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -3330,9 +3330,9 @@
         "audio_dir": "Er ist müde"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makebed.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to make/do.” English separates “do” vs “make,” German machen covers both. Example: Ich mache meine Hausaufgaben → “I do my homework.”",
         "native_language": "english",
@@ -3348,9 +3348,9 @@
         "audio_dir": "Sie macht das Bett jeden Morgen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "athome.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -3366,9 +3366,9 @@
         "audio_dir": "Du bist zu Hause"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "athome_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -3384,9 +3384,9 @@
         "audio_dir": "Sie sind zu Hause"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "athome.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -3402,9 +3402,9 @@
         "audio_dir": "Ich bin zu Hause"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "athome_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and existence. Example: Ich bin Lehrer → “I am a teacher.”",
         "native_language": "english",
@@ -3420,9 +3420,9 @@
         "audio_dir": "Wir sind zu Hause"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dtraffic.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3438,9 +3438,9 @@
         "audio_dir": "Es gibt nicht viel Verkehr"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "draining.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3456,9 +3456,9 @@
         "audio_dir": "Es regnet heute nicht"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmustache.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3474,9 +3474,9 @@
         "audio_dir": "Er hat keinen Schnurrbart"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dtoclean.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3492,9 +3492,9 @@
         "audio_dir": "Ich muss den Boden nicht reinigen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmeeting.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3510,9 +3510,9 @@
         "audio_dir": "Es gibt heute kein Treffen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dchores.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3528,9 +3528,9 @@
         "audio_dir": "Wir machen nicht viele Hausarbeiten"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dteacher.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3546,9 +3546,9 @@
         "audio_dir": "Sie ist keine Lehrerin"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dhavedog.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3564,9 +3564,9 @@
         "audio_dir": "Sie hat keinen Hund"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dclownlaugh.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3582,9 +3582,9 @@
         "audio_dir": "Wir bringen die Leute nicht zum Lachen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmakecoffee.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3600,9 +3600,9 @@
         "audio_dir": "Sie machen keinen Kaffee"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dsick3.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3618,9 +3618,9 @@
         "audio_dir": "Ich bin nicht krank"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dman_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3636,9 +3636,9 @@
         "audio_dir": "Du trägst keinen schwarzen Hut"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dtickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3654,9 +3654,9 @@
         "audio_dir": "Ich habe keine Tickets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmakebed.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3672,9 +3672,9 @@
         "audio_dir": "Ich mache das Bett nicht jeden Morgen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dpushup.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3690,9 +3690,9 @@
         "audio_dir": "Er macht keine Liegestütze im Fitnessstudio"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dathome.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3708,9 +3708,9 @@
         "audio_dir": "Du bist nicht zu Hause"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dathome_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3726,9 +3726,9 @@
         "audio_dir": "Sie sind nicht zu Hause"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dathome.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3744,9 +3744,9 @@
         "audio_dir": "Ich bin nicht zu Hause"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dathome_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3762,9 +3762,9 @@
         "audio_dir": "Wir sind nicht zu Hause"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dspeak_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3780,9 +3780,9 @@
         "audio_dir": "Ich kann nicht Englisch sprechen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dhomework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3798,9 +3798,9 @@
         "audio_dir": "Wir machen unsere Hausaufgaben nicht"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dhomework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3816,9 +3816,9 @@
         "audio_dir": "Sie machen ihre Hausaufgaben nicht"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dcook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3834,9 +3834,9 @@
         "audio_dir": "Sie kann das Abendessen nicht kochen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dcook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3852,9 +3852,9 @@
         "audio_dir": "Wir können das Abendessen nicht kochen"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dgood_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3870,9 +3870,9 @@
         "audio_dir": "Ich mache keine gute Arbeit"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmake_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3888,9 +3888,9 @@
         "audio_dir": "Ich mache keine Tontöpfe"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dunder_umbrella.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3906,9 +3906,9 @@
         "audio_dir": "Sie ist nicht unter dem Regenschirm"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dhavedog.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",
@@ -3924,9 +3924,9 @@
         "audio_dir": "Ich habe keinen Hund"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmakelift.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Add nicht (not) after the verb or kein for nouns.\n\nIch spreche nicht Englisch = I don’t speak English\n\nIch kann nicht, Ich habe nicht, Ich mache nicht.",
         "native_language": "english",

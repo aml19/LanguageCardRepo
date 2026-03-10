@@ -1,8 +1,8 @@
 [
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "activity.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "活動。人が行う動作や行為"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "dentalcare.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "注意"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "climate.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "気候: 時間を通じて特定の場所の通常の天気条件。例: 砂漠は暑くて乾燥した気候です。」"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "competition.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "競争"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "compost.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "堆肥"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "depth.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "深さ"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "effort.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "努力: 目標に向かってエネルギーを適用すること"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "fertilizer.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "肥料"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "flower.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "花 - はな"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "food.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "テーブルの上の食べ物"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "gardening.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "園芸"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "knowledge.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "知識"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "leaf2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "葉 (は)"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "location.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "位置"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "nutrient.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "栄養素"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "observe.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "観察"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "patience.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "忍耐"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "patience.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "忍耐"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "pest.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "害虫"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "plant.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "植物 - しょくぶつ"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "seed.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "種"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "seedling.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "苗木"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "soil.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "土壌"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "spacing.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "空間"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "spacing.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "間隔"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "stake.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "杭"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "sunlight.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "反射した日光"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "support.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "支援"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "vegetable.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "野菜"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "water.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "水"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "weed.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "雑草"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "addition.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "追加する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "choose.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "選ぶ"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "create.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "創る"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "choose.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "決める – 選択をする、または結論に達すること。例: 彼女はその仕事を引き受けることを決めた。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "grow.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "成長する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "harvest.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "収穫する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "help_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "助ける"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "locket.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "ロケットの中に保管する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "loosen.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "緩める"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "monitorverb.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "監視する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "plant.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "植える"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "prepare2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "食事を準備する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "prevent.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "病気を防ぐ"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "product.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "製品を生産する"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "charity.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "提供する – 必要または望まれるものを与えること。例: 先生は生徒たちに学習資料を提供した。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "pruneverb.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "剪定する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "remove.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "釘を取り除く"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "require.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "必要とする"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "start_race.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "開始"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "waterverb.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "植物に水をやる"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "relaxing.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "自宅でリラックスした一日"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "reward.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "やりがいのある – 満足感や利益をもたらすこと。例: 生徒が成功すると、教師の仕事はやりがいのあるものになる。"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "suitable.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "適切な – 目的や状況に合っていること。例: このドレスはフォーマルなディナーに適切です。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "healthy.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "健康的な"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "appropriate.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "ふさわしい – 状況において正しい、または受け入れられること。例: ビジネス会議に短パンを着るのはふさわしくない。"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "consistent.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "一貫した – 継続的に同じ方法で行われること。例: 彼は一貫した成果を出すパフォーマーです。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "freshstale.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "新鮮な 古い"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "beautiful.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "美しい景色"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "oustide.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "屋内 - 屋外"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "enjoy_free.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "自由で楽しい"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "routine.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "定期的に – 一定の間隔で、または頻繁に。例: 彼は健康を維持するために定期的に運動している。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "園芸"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "ガーデニングは、忍耐、手入れ、植物に関する知識が必要な、リラックスできるやりがいのあるアクティビティです。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "まず、日光が良く、土壌が健康な適切な場所を選びます。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "気候や空間に応じて、野菜、花、ハーブなど何を育てるかを決めます。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "土をほぐし、栄養分となる堆肥や肥料を加えて土を準備します。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "種や苗を適切な深さと間隔で植えます。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "定期的に水を与え、土壌を湿った状態に保ちますが、湿りすぎないようにしてください。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "栄養素の競合を防ぎ、害虫を監視するために雑草を取り除きます。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "植物が成長するにつれて、必要に応じて、背の高い植物用の支柱などのサポートを提供します。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "枯れ葉を剪定し、準備ができたら野菜や花を収穫します。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "一貫した手入れと観察は、庭の繁栄に役立ちます。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

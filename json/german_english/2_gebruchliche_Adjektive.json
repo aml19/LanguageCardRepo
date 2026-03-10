@@ -8,14 +8,14 @@
         "native_language": "german",
         "learning_language": "english",
         "native_group": "2 gebräuchliche Adjektive",
-        "native_answer": "aufgeregt",
+        "native_answer": "Wie fühlst du dich? aufgeregt",
         "native_word": "Adjektiv - Gefühl, Emotion",
         "tag": "Adjektiv - Gefühl, Emotion",
-        "prompt": "______",
-        "answer": "excited",
+        "prompt": "How do you feel? ______",
+        "answer": "How do you feel? excited",
         "goal_words": "excited",
-        "audio_filename": "lineoct_en_240.mp3",
-        "audio_dir": "excited"
+        "audio_filename": "line5jan26_en_190.mp3",
+        "audio_dir": "How do you feel? excited"
     },
     {
         "level": 2.0,
@@ -26,13 +26,13 @@
         "native_language": "german",
         "learning_language": "english",
         "native_group": "2 gebräuchliche Adjektive",
-        "native_answer": "ängstlich",
+        "native_answer": "Wie fühlst du dich? ängstlich",
         "native_word": "Adjektiv - Emotionen erzeugen",
         "tag": "Adjektiv - Emotionen erzeugen",
-        "prompt": "______",
-        "answer": "anxious",
+        "prompt": "How do you feel? ______",
+        "answer": "How do you feel? anxious",
         "goal_words": "anxious",
-        "audio_filename": "lineoct_en_23.mp3",
-        "audio_dir": "anxious"
+        "audio_filename": "line5jan26_en_188.mp3",
+        "audio_dir": "How do you feel? anxious"
     }
 ]

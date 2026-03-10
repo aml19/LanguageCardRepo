@@ -1,8 +1,8 @@
 [
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "activity.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "活動。人が行う動作や行為"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "animals.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "動物"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "balance.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "バランス"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "boot.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "ブーツ"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "canter.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "カンター: 馬の歩調で、トロットより速く、ガロップより遅い。例: 騎手は馬をスムーズなカンターに導きました。」"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "confidence2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "自信"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "control.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "コントロール"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "equipement.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "装備"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "grip.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "グリップ"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "heel.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "かかと"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "helmet.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "ヘルメット"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "horse.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "馬"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "legs.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "脚"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "movement.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "動き。物理的な動作"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "nature.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "屋外"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "pat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "軽くたたくこと"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "patience.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "忍耐"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "posture.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "姿勢"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "practice.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "練習: スキルを向上させるための繰り返しの行動や習慣。例: 毎日の練習で彼女は素晴らしいピアニストになりました。」"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "rein.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "手綱"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "rhythm.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "リズム"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "riding.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "乗馬"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "saddle.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "鞍"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "safety.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "安全のための装備"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "stirrup.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "あぶみ"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "sign_means_stop.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "停止する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "surroundings.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "周囲: 何かの周りの環境や領域。例: 彼女は森の静かな周囲を賞賛しました。」"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "dogtreat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "犬のおやつ"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "canter.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "トロット: 歩くより速く、走るより遅い歩調。例: 馬は安定したトロットで進みました。」"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "walk_p.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "歩行"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "way.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "方法: 何かをするための方法や方法論。例: ゲームをすることは学ぶ楽しい方法です。」"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "apply.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "適用するメイク"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "approach.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "馬に近づく"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "choose.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "選ぶ"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "connect.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "繋げる"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "dismount.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "降りる – 馬や自転車、乗り物から降りること。例: 彼は自転車から降りて店に入った。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "enjoy_free.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "楽しむ"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "gain.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "得る – 何かを手に入れる、または増やすこと。例: 彼女は新しい仕事で貴重な経験を得た。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "guide.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "導く"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "locket.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "ロケットの中に保管する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "locket.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "ロケットの中に保管する"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "maintain.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "維持する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "mount_motorcycle.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "それを設置する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "progress.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "進む"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "pullpush.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "引く 押す"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "require.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "必要とする"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "reward.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "報いる – 努力や成果に対して何かを与えること。例: 彼女は昇進という形で努力に報いられた。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "ride.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "馬に乗る"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "sitstand.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "座る 立つ"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "start_race.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "開始"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "dog_stay.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "残る"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "use_a_tool_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "ツールを使う"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "wearclothes.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "着る – 衣服やアクセサリーを身につけること。例: 彼はパーティーに赤いジャケットを着て行った。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "riding.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "乗馬 - 馬の背"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "exciting.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "興奮する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "skill_cooking.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "巧みな料理"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "proper.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "箱を持ち上げる正しい方法"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "firmgentle.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "反対語: 固い - 優しい"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "firmgentle.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "反対語: 固い - 優しい"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "steady.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "安定した手"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "shallowdeep.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "浅い 深い"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "fun_party.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "楽しいパーティー"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "reward.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "やりがいのある – 満足感や利益をもたらすこと。例: 生徒が成功すると、教師の仕事はやりがいのあるものになる。"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "calmly.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "冷静に – 落ち着いて、感情を抑えながら。例: 彼女は怒るのではなく、冷静にミスを説明した。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "gently.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "優しく持つ"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "方法: 乗馬"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "乗馬は、バランス、コントロール、自信が必要な、エキサイティングで熟練したアクティビティです。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "まず、よく訓練された馬を選び、ヘルメットや乗馬ブーツなどの適切な安全装備を着用します。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "落ち着いて馬に近づき、手綱をしっかりと優しく握りながらあぶみを使って馬に乗ります。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "座ったら、かかとを下げて背筋を伸ばし、正しい姿勢を保ちます。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "脚と手綱を使って馬を導き、動きの合図に穏やかな圧力を加えます。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "最初はゆっくりとした散歩から始めて、自信がついたら速歩や駈歩に進みましょう。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "周囲に注意を払い、馬の動きに合わせて一定のリズムを保ちましょう。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "停止するには、手綱を軽く引き戻し、サドルに深く腰掛けます。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "慎重に馬から降りて、馬を撫でたりおやつでご褒美をあげましょう。"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

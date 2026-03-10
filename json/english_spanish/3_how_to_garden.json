@@ -1,8 +1,8 @@
 [
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "activity.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Una actividad: algo que una persona hace, a menudo implica movimiento o acción"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "dentalcare.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "el cuidado"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "climate.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Clima: Las condiciones meteorológicas habituales de un lugar durante un tiempo.\nEjemplo: El desierto tiene un clima caluroso y seco."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "competition.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "la competencia"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "compost.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "la composta"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "depth.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "la profundidad"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "effort.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "El esfuerzo: aplicación de energía hacia un objetivo"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "fertilizer.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "el fertilizante"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "flower.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "la flor"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "food.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "La comida en la mesa"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "gardening.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "la jardinería"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "knowledge.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "el conocimiento"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "leaf2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "La hoja"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "location.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "la ubicación"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "nutrient.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "el nutriente"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "observe.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "la observación"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "patience.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "la paciencia"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "patience.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "la paciencia"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "pest.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "la plaga"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "plant.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "la planta"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "seed.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "la semilla"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "seedling.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "la plántula"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "soil.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "el suelo"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "spacing.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "el espacio"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "spacing.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "el espaciado"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "stake.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "la estaca"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "sunlight.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "reflejada luz del sol"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "support.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "el apoyo"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "vegetable.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "la verdura"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "water.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "el agua"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "weed.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "la hierba"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "addition.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "añadir"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "choose.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "elegir"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "create.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "crear algo nuevo"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "choose.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Decidir – Hacer una elección o llegar a una conclusión. Ejemplo: Ella decidió aceptar la oferta de trabajo."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "grow.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "crecer"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "harvest.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "cosechar"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "help_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "ayudar"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "locket.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Guardar dentro de un relicario"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "loosen.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "aflojar"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "monitorverb.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "monitorear"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "plant.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "plantar"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "prepare2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Preparar una comida"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "prevent.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Prevenir una enfermedad"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "product.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "producir un producto"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "charity.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "Proveer – Dar algo necesario o deseado. Ejemplo: El maestro proveyó a los estudiantes con materiales de estudio."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "pruneverb.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "podar"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "remove.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "Quitar un clavo"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "require.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "requerir"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "start_race.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "empezar"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "waterverb.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "Regar una planta"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "relaxing.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "Un día relajante en casa"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "reward.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "Gratificante – Que proporciona satisfacción o beneficio. Ejemplo: Enseñar puede ser una carrera gratificante cuando los estudiantes tienen éxito."
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "suitable.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "Adecuado – Correcto o apropiado para un propósito o situación. Ejemplo: Este vestido es adecuado para una cena formal."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "healthy.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "saludable"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "appropriate.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "Apropiado – Correcto o aceptable en una situación dada. Ejemplo: No es apropiado usar pantalones cortos en una reunión de negocios."
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "consistent.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "Consistente – Que actúa o sucede de la misma manera con el tiempo. Ejemplo: Es un intérprete consistente, siempre ofrece buenos resultados."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "freshstale.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "fresco rancio"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "beautiful.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "hermoso entorno"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "oustide.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "interior - exterior"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "enjoy_free.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "disfrutable ser libre"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "routine.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "Regularmente – En intervalos constantes o con frecuencia. Ejemplo: Él hace ejercicio regularmente para mantenerse en forma."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "Jardinería"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "La jardinería es una actividad relajante y gratificante que requiere paciencia, cuidado y conocimiento de las plantas."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Para empezar, elija un lugar adecuado con buena luz solar y suelo sano."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "Decide qué cultivar, como verduras, flores o hierbas, según tu clima y espacio."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "Prepare la tierra aflojándola y agregando abono o fertilizante para obtener nutrientes."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "Plante semillas o plántulas a la profundidad y al espacio adecuados."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "Riegue regularmente, manteniendo la tierra húmeda pero no demasiado mojada."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Elimine las malezas para evitar la competencia por los nutrientes y controle las plagas."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "A medida que las plantas crecen, brinde apoyo si es necesario, como estacas para plantas más altas."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "Pode las hojas muertas y coseche verduras o flores cuando estén listas."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "El cuidado y la observación constantes ayudarán a que su jardín prospere."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

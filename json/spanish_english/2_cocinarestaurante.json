@@ -289,7 +289,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "check.jpg",
+        "image_filename": "check_.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -386,14 +386,14 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "2 cocina/restaurante",
-        "native_answer": "el desayuno",
+        "native_answer": "desayuno: la primera comida del día",
         "native_word": "restaurante",
         "tag": "restaurante",
-        "prompt": "______",
-        "answer": "breakfast",
+        "prompt": "______: the first meal of the day",
+        "answer": "breakfast: the first meal of the day",
         "goal_words": "breakfast",
-        "audio_filename": "line_en_347.mp3",
-        "audio_dir": "breakfast"
+        "audio_filename": "line24jan26_3_en_1.mp3",
+        "audio_dir": "breakfast: the first meal of the day"
     },
     {
         "level": 2.0,
@@ -404,14 +404,14 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "2 cocina/restaurante",
-        "native_answer": "el almuerzo",
+        "native_answer": "almuerzo: comida del mediodía",
         "native_word": "restaurante",
         "tag": "restaurante",
-        "prompt": "______",
-        "answer": "lunch",
+        "prompt": "______: meal at midday",
+        "answer": "lunch: meal at midday",
         "goal_words": "lunch",
-        "audio_filename": "line2_en_565.mp3",
-        "audio_dir": "lunch"
+        "audio_filename": "line24jan26_3_en_2.mp3",
+        "audio_dir": "lunch: meal at midday"
     },
     {
         "level": 2.0,
@@ -422,14 +422,14 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "2 cocina/restaurante",
-        "native_answer": "la cena",
+        "native_answer": "cena: comida al final del día",
         "native_word": "restaurante",
         "tag": "restaurante",
-        "prompt": "______",
-        "answer": "dinner",
+        "prompt": "______: meal at the end of the day",
+        "answer": "dinner: meal at the end of the day",
         "goal_words": "dinner",
-        "audio_filename": "line_en_657.mp3",
-        "audio_dir": "dinner"
+        "audio_filename": "line24jan26_3_en_3.mp3",
+        "audio_dir": "dinner: meal at the end of the day"
     },
     {
         "level": 2.0,
@@ -440,14 +440,14 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "2 cocina/restaurante",
-        "native_answer": "el postre",
+        "native_answer": "postre: algo dulce después de la cena",
         "native_word": "restaurante",
         "tag": "restaurante",
-        "prompt": "______",
-        "answer": "dessert",
+        "prompt": "______: something sweet after dinner",
+        "answer": "dessert: something sweet after dinner",
         "goal_words": "dessert",
-        "audio_filename": "line_en_641.mp3",
-        "audio_dir": "dessert"
+        "audio_filename": "line24jan26_3_en_4.mp3",
+        "audio_dir": "dessert: something sweet after dinner"
     },
     {
         "level": 2.0,
@@ -458,13 +458,13 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "2 cocina/restaurante",
-        "native_answer": "los comestibles",
+        "native_answer": "comestibles: comida de la tienda",
         "native_word": "cocina",
         "tag": "cocina",
-        "prompt": "______",
-        "answer": "groceries",
+        "prompt": "______: food from the store",
+        "answer": "groceries: food from the store",
         "goal_words": "groceries",
-        "audio_filename": "line_en_1019.mp3",
-        "audio_dir": "groceries"
+        "audio_filename": "line24jan26_3_en_5.mp3",
+        "audio_dir": "groceries: food from the store"
     }
 ]

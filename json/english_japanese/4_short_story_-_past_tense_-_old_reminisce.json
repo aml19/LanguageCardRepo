@@ -1,8 +1,8 @@
 [
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "old_car.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "古い車"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "full.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "ブルーベリーがいっぱい入った瓶"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "young.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "若い女の子"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "simpler.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "簡単 -- より簡単"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "complicated.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "複雑な数学"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "resilient.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "風に対する強靭性"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "cozy.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "暖かくて居心地の良いスナック"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "beautiful.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "美しい女性"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "youth.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "若々しい"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "once.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "一度：1回だけの場合。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "before.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "前後"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "now.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "今すぐ"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "quickly.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "速くロープを動かす"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "countless.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "数え切れない星 - 数え切れないほど"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "hair.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "髪"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "face.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "顔"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "heart.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "心臓"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "face.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "顔"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "gray_rocks.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "灰色の岩"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "bread.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "パン"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "grandmother.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "祖母と孫娘"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "fireplace.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "벽난로"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "memory.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "記憶"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "youth.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "若さ"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "flame.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "一本の炎"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "time.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "時間"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "left_alive_right_dead_tree.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "生活"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "field.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "花の野原"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "wildflowers.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "野の花"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "laughter.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "笑い"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "countryside.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "田舎の農場"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "warmth.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "暖炉の暖かさ"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "embrace.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "抱擁"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "kitchen.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "キッチン"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "challenge.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "挑戦: スキルや能力のテスト"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "hardship.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "苦難: 苦しみや闘いを引き起こす"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "hope.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "希望"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "strength.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "強い -- 強さ"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "armchair.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "アームチェア"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "spirit.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "精神"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "wrinkles.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "しわがたくさんある古い顔"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "journey.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "旅：どこかへ旅すること。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "vigor.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "活力: 身体的または精神的な力、エネルギー、または活力。"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "echo.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "エコー"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "day.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "日"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "love_music_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "音楽を愛する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "sit.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "階段に座る"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "lose.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, the verb \"失う\" (ushinau) generally means \"to lose\" in the sense of losing something in a broader context, such as losing an object, a game, or even losing someone's trust. On the other hand, \"体重を減らす\" (taijū o herasu) specifically means \"to lose weight.\" It's a more specific term tailored for the context of losing weight in terms of body mass.",
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "失う: 体重を減らす"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "close door.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "ドアを閉める"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "travel.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "旅行"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "remember.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "覚えている"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "run_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "走る"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "laugh_p.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "笑う"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "play_piano_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "ピアノを演奏する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "remember.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "記憶する: 思い出す"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "smell.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "匂い"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "waft.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "風: 香りや音の移動をしばしば描写する、空気中をゆっくりと漂う"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "fill.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "タンクを満たす"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "grow.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "成長する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "become.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "花になる"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "remain.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "緑のままでいる"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "draw.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "描く"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "pass.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "セキュリティを通過する"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "beat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "To express \"beat a drum\" in a more natural and typical way in Japanese, you might say:\n\nドラムを叩く (doramu o tataku)",
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "打つドラム"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 4.0,
+        "image_filename": "whisper.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

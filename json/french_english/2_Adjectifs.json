@@ -8,14 +8,14 @@
         "native_language": "french",
         "learning_language": "english",
         "native_group": "2 Adjectifs",
-        "native_answer": "triste",
+        "native_answer": "Comment te sens-tu ? triste",
         "native_word": "Émotions",
         "tag": "Émotions",
-        "prompt": "______",
-        "answer": "sad",
+        "prompt": "How do you feel? ______",
+        "answer": "How do you feel? sad",
         "goal_words": "sad",
-        "audio_filename": "line3_en_312.mp3",
-        "audio_dir": "sad"
+        "audio_filename": "line5jan26_en_191.mp3",
+        "audio_dir": "How do you feel? sad"
     },
     {
         "level": 2.0,
@@ -26,14 +26,14 @@
         "native_language": "french",
         "learning_language": "english",
         "native_group": "2 Adjectifs",
-        "native_answer": "chat en colère",
+        "native_answer": "Quel genre de chat est-ce ? en colère",
         "native_word": "Émotions",
         "tag": "Émotions",
-        "prompt": "______ cat",
-        "answer": "angry cat",
+        "prompt": "What kind of cat is it? ______",
+        "answer": "What kind of cat is it? angry",
         "goal_words": "angry",
-        "audio_filename": "line_en_162.mp3",
-        "audio_dir": "angry cat"
+        "audio_filename": "line5jan26_en_617.mp3",
+        "audio_dir": "What kind of cat is it? angry"
     },
     {
         "level": 2.0,
@@ -44,14 +44,14 @@
         "native_language": "french",
         "learning_language": "english",
         "native_group": "2 Adjectifs",
-        "native_answer": "chat affamé",
+        "native_answer": "Quel genre de chat est-ce ? affamé",
         "native_word": "sentiment",
         "tag": "sentiment",
-        "prompt": "______ cat",
-        "answer": "hungry cat",
+        "prompt": "What kind of cat is it? ______",
+        "answer": "What kind of cat is it? hungry",
         "goal_words": "hungry",
-        "audio_filename": "lineoct_en_484.mp3",
-        "audio_dir": "hungry cat"
+        "audio_filename": "line5jan26_en_618.mp3",
+        "audio_dir": "What kind of cat is it? hungry"
     },
     {
         "level": 2.0,
@@ -62,14 +62,14 @@
         "native_language": "french",
         "learning_language": "english",
         "native_group": "2 Adjectifs",
-        "native_answer": "motard assoiffé",
+        "native_answer": "Comment se sent le cycliste ? assoiffé",
         "native_word": "sentiment",
         "tag": "sentiment",
-        "prompt": "______ biker",
-        "answer": "thirsty biker",
+        "prompt": "How does the biker feel? ______",
+        "answer": "How does the biker feel? thirsty",
         "goal_words": "thirsty",
-        "audio_filename": "lineoct_en_1228.mp3",
-        "audio_dir": "thirsty biker"
+        "audio_filename": "line5jan26_en_199.mp3",
+        "audio_dir": "How does the biker feel? thirsty"
     },
     {
         "level": 2.0,
@@ -80,13 +80,13 @@
         "native_language": "french",
         "learning_language": "english",
         "native_group": "2 Adjectifs",
-        "native_answer": "fatigué",
+        "native_answer": "Comment te sens-tu ? fatigué",
         "native_word": "sentiment",
         "tag": "sentiment",
-        "prompt": "______",
-        "answer": "tired",
+        "prompt": "How do you feel? ______",
+        "answer": "How do you feel? tired",
         "goal_words": "tired",
-        "audio_filename": "lineoct_en_1245.mp3",
-        "audio_dir": "tired"
+        "audio_filename": "line5jan26_en_192.mp3",
+        "audio_dir": "How do you feel? tired"
     }
 ]

@@ -8,13 +8,13 @@
         "native_language": "german",
         "learning_language": "english",
         "native_group": "Adjektive",
-        "native_answer": "dunkle Straße",
+        "native_answer": "Wie ist die Straße? dunkel",
         "native_word": "Adjektiv - Aussehen",
         "tag": "Adjektiv - Aussehen",
-        "prompt": "______ road",
-        "answer": "dark road",
+        "prompt": "What is the road like? ______",
+        "answer": "What is the road like? dark",
         "goal_words": "dark",
-        "audio_filename": "lineoct_en_174.mp3",
-        "audio_dir": "dark road"
+        "audio_filename": "line5jan26_en_606.mp3",
+        "audio_dir": "What is the road like? dark"
     }
 ]

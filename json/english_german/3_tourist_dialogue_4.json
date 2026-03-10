@@ -1,8 +1,8 @@
 [
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "time.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Die Zeit"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "museum.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Kunstmuseum"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "staff.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Flughafenpersonal"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "entrance.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Der Eingang"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "corner.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Ecke"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "desk.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Schreibtisch"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "card.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Karte oder Bargeld?"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "cash.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Karte oder Bargeld?"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "bag.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "die Tasche"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "locker.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Spind / Schließfach"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "map.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Karte"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "paper2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Das Papier"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "qr.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "QR-Code"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "pay.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "bezahlen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "acceptreject.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "akzeptieren ablehnen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "leave_on_a_trip_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "auf eine Reise gehen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "grab_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "greifen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "scan.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "scannen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "first.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "erster Platz"
     },
     {
-        "level": "reading",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "hauptsächlich / Haupt-"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "free.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "kostenlos / frei"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "digital.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

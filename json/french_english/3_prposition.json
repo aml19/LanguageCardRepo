@@ -98,14 +98,14 @@
         "native_language": "french",
         "learning_language": "english",
         "native_group": "3 préposition",
-        "native_answer": "une réunion d'affaires à huit heures",
+        "native_answer": "Il y a une réunion d'affaires à huit heures.",
         "native_word": "préposition",
         "tag": "préposition",
-        "prompt": "a business meeting ______ eight o'clock",
-        "answer": "a business meeting at eight o'clock",
+        "prompt": "there is a business meeting ______ eight o'clock",
+        "answer": "there is a business meeting at eight o'clock",
         "goal_words": "at",
-        "audio_filename": "line_en_68.mp3",
-        "audio_dir": "a business meeting at eight o'clock"
+        "audio_filename": "line24jan26_3_en_13.mp3",
+        "audio_dir": "there is a business meeting at eight o'clock"
     },
     {
         "level": 3.0,

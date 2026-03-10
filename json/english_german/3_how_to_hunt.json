@@ -1,8 +1,8 @@
 [
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "activity.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Die Aktivität. Etwas, das eine Person tut, oft mit Bewegung oder Handlung verbunden"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "ammo.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "die Munition"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "animals.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Das Tier"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "area.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Bereich: Ein spezifisches Gebiet oder Raum.\nBeispiel: Der Picknickbereich war von hohen Bäumen beschattet."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "bowarrow.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "der Bogen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "camo.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "die Tarnung"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "clothing.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "die Kleidung"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "compliance.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Compliance: Das Befolgen von Regeln oder Standards.\nBeispiel: Das Unternehmen stellte die Einhaltung der Sicherheitsvorschriften sicher."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "connection.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Verbindung: Eine Verbindung oder Beziehung zwischen Menschen oder Dingen.\nBeispiel: Sie fühlten eine starke Verbindung, obwohl sie weit auseinander lebten."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "deer.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Hirsch"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "dropping.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Abwurf: Abfallmaterial, das von Tieren ausgeschieden wird.\nBeispiel: Der Bauer verwendete Tierabfälle als Dünger."
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "equipment.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Ausrüstung: Werkzeuge oder Vorräte, die für eine Aufgabe benötigt werden.\nBeispiel: Die Wanderer packten ihre Campingausrüstung."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "firearm.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Feuerwaffe: Eine Waffe, die dafür entworfen wurde, von einer Person getragen und verwendet zu werden.\nBeispiel: Der Officer sicherte seine Feuerwaffe in seinem Holster."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "food.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Das Essen auf dem Tisch"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "videogame.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Videospiel"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "harvest.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "die Ernte"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "hunt.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "die Jagd"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "hunt.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "die Jagd"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "license.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "die Lizenz"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "meat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "das Fleisch"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "nature.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Natur: Die physische Welt, einschließlich Pflanzen, Tieren und Landschaften.\nBeispiel: Sie gingen wandern, um die Schönheit der Natur zu genießen."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "patience.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "die Geduld"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "permit.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Genehmigung: Ein offizielles Dokument, das jemandem erlaubt, etwas zu tun.\nBeispiel: Er brauchte eine Genehmigung, um einen Zaun um sein Haus zu bauen."
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "practice.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Übung: Eine wiederholte Handlung oder Gewohnheit zur Verbesserung einer Fähigkeit.\nBeispiel: Tägliche Übung half ihr, eine großartige Pianistin zu werden."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "prepare.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "die Vorbereitung"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "protection.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "der Schutz"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "rabbit.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "das Kaninchen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "range.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "die Reichweite"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "regulation.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Verordnung: Eine Regel oder ein Gesetz, das kontrolliert, wie etwas getan wird.\nBeispiel: Die neue Verordnung erfordert, dass alle Arbeiter Sicherheitsausrüstung tragen."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "respect.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "der Respekt"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "season.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "die Saison"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "shoot.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "der Schuss"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "sign_wood.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "Das Zeichen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "skill_cooking.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Das Geschick"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "track.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Die Eisenbahnstrecke"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "turkey.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "der Truthahn"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "types.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "viele Arten von Lastwagen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "way.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Art: Eine Methode oder Art, etwas zu tun.\nBeispiel: Spiele spielen ist eine unterhaltsame Art zu lernen."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "aim.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "zielen"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "avoid.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Vermeiden – Sich von etwas oder jemandem fernhalten. Beispiel: Sie vermied es, zu viel Zucker zu essen."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "choose.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "wählen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "dressverb.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "anziehen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "certain.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "sicherstellen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "certain.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "sicherstellen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "follow2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "(die Gänse) folgen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "harvest.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "ernten"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "hunt.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "jagen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "include.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "alle einbeziehen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "look_up.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "Schauen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "move_couch.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "ein Sofa bewegen"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "obtain.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "Erhalten – Etwas durch Anstrengung erwerben. Beispiel: Er erhielt ein Visum, um ins Ausland zu reisen."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "preserve.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "bewahren"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "charity.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "Bereitstellen – Etwas Notwendiges oder Gewünschtes geben. Beispiel: Der Lehrer stellte den Schülern Lernmaterialien bereit."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "require.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "erfordern"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "research.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "forschen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "respect.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "Respekt"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "scout.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "scouten"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "select.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "auswählen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "dog_stay.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "Bleiben"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "take_treat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "eine Leckerei nehmen"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "skill_cooking.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "geschicktes Kochen"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "regulation.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "Reguliert – Durch Regeln oder Vorschriften kontrolliert. Beispiel: Die Pharmaindustrie ist stark reguliert, um die Sicherheit zu gewährleisten."
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "necessary.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "Notwendig. etwas, das gebraucht oder verlangt wird"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "farmersmarket.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "Der Bauernmarkt verkauft lokale Produkte"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "appropriate.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Angemessen – Passend oder akzeptabel in einer bestimmten Situation. Beispiel: Es ist nicht angemessen, Shorts zu einem Geschäftstreffen zu tragen."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "quietloud.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "leise laut"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "responsible.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "verantwortlich"
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "successful.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "erfolgreich"
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "quick.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "Schnell – Zügig in Bewegung oder Reaktion. Beispiel: Sie gab eine schnelle Antwort auf die Frage."
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "humane.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Menschlich – Mit Freundlichkeit und Mitgefühl handeln. Beispiel: Das Tierheim verfolgt einen menschlichen Ansatz bei der Pflege von Streunern."
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "ethical.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "Ethisch – Moralisch richtig oder nach anerkannten Prinzipien handelnd. Beispiel: Die Wissenschaftlerin hielt sich bei ihrer Forschung an ethische Richtlinien."
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "reward.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "Lohnend – Etwas, das Zufriedenheit oder einen Nutzen bringt. Beispiel: Unterrichten kann eine lohnende Karriere sein, wenn die Schüler Erfolg haben."
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "sustainable.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "Nachhaltig – Etwas, das fortgesetzt werden kann, ohne Schaden oder Erschöpfung zu verursachen. Beispiel: Solarenergie ist eine nachhaltige Energiequelle."
     },
     {
-        "level": "reading",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "ontime.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "Schnell – Ohne Verzögerung; zügig und pünktlich. Beispiel: Der Arzt hat den Patienten schnell um 10 Uhr empfangen."
     },
     {
-        "level": "vocab",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 3.0,
+        "image_filename": "quiet.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "Leise"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1368,9 +1368,9 @@
         "audio_dir": "Wie man jagt"
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1386,9 +1386,9 @@
         "audio_dir": "Die Jagd ist eine geschickte und geregelte Tätigkeit, die Vorbereitung, Geduld und Respekt vor der Natur erfordert."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1404,9 +1404,9 @@
         "audio_dir": "Wählen Sie zunächst die Wildart aus, die Sie jagen möchten, z. B. Hirsche, Truthähne oder Kaninchen, und holen Sie die erforderlichen Lizenzen und Genehmigungen ein."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1422,9 +1422,9 @@
         "audio_dir": "Informieren Sie sich über die örtlichen Jagdvorschriften und -saisonen, um deren Einhaltung sicherzustellen."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1440,9 +1440,9 @@
         "audio_dir": "Wählen Sie die richtige Ausrüstung aus, darunter eine Schusswaffe oder ein Bogen, Munition und geeignete Kleidung zur Tarnung und zum Schutz."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1458,9 +1458,9 @@
         "audio_dir": "Bevor Sie losfahren, erkunden Sie das Jagdgebiet und achten Sie auf Anzeichen von Tieraktivitäten wie Spuren oder Kot."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1476,9 +1476,9 @@
         "audio_dir": "Bewegen Sie sich ruhig und bleiben Sie windabgewandt, um nicht entdeckt zu werden."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1494,9 +1494,9 @@
         "audio_dir": "Wenn sich ein Tier in Reichweite befindet, zielen Sie sorgfältig und führen Sie einen verantwortungsvollen Schuss aus, um eine schnelle und humane Beute zu gewährleisten."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1512,9 +1512,9 @@
         "audio_dir": "Nach einer erfolgreichen Jagd sollten Sie das Tier umgehend jagdbereit machen, um das Fleisch zu konservieren."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -1530,9 +1530,9 @@
         "audio_dir": "Befolgen Sie stets ethische Jagdpraktiken und respektieren Sie die Gesetze zum Schutz der Tierwelt."
     },
     {
-        "level": "story",
+        "level": 3.0,
         "image_filename": "",
-        "card_type": "english",
+        "card_type": "story",
         "identifier": "ID",
         "info": null,
         "native_language": "english",

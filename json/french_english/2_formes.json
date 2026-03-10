@@ -8,60 +8,6 @@
         "native_language": "french",
         "learning_language": "english",
         "native_group": "2 formes",
-        "native_answer": "le cercle",
-        "native_word": "forme",
-        "tag": "forme",
-        "prompt": "______",
-        "answer": "circle",
-        "goal_words": "circle",
-        "audio_filename": "line_en_493.mp3",
-        "audio_dir": "circle"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "triangle.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "2 formes",
-        "native_answer": "le triangle",
-        "native_word": "forme",
-        "tag": "forme",
-        "prompt": "______",
-        "answer": "triangle",
-        "goal_words": "triangle",
-        "audio_filename": "line4_en_588.mp3",
-        "audio_dir": "triangle"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "square.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "2 formes",
-        "native_answer": "le carré",
-        "native_word": "forme",
-        "tag": "forme",
-        "prompt": "______",
-        "answer": "square",
-        "goal_words": "square",
-        "audio_filename": "line3_en_837.mp3",
-        "audio_dir": "square"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "Circle.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "2 formes",
         "native_answer": "Le cercle",
         "native_word": "forme",
         "tag": "forme",
@@ -73,7 +19,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Oval.jpg",
+        "image_filename": "oval.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -91,7 +37,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Triangle.jpg",
+        "image_filename": "triangle.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -109,7 +55,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Square.jpg",
+        "image_filename": "square.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -127,7 +73,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Rectangle.jpg",
+        "image_filename": "rectangle.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -145,7 +91,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Diamond5.jpg",
+        "image_filename": "diamond5.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -163,7 +109,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Star5.jpg",
+        "image_filename": "star5.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -181,7 +127,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Crescent.jpg",
+        "image_filename": "crescent.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -199,7 +145,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Heart5.jpg",
+        "image_filename": "heart5.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -217,7 +163,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Arrow5.jpg",
+        "image_filename": "arrow5.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -235,7 +181,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Cross5.jpg",
+        "image_filename": "cross5.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -253,7 +199,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Sphere.jpg",
+        "image_filename": "sphere.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -271,7 +217,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Cube.jpg",
+        "image_filename": "cube.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -289,7 +235,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Cylinder.jpg",
+        "image_filename": "cylinder.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -307,7 +253,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Cone.jpg",
+        "image_filename": "cone.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -325,7 +271,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Pyramid.jpg",
+        "image_filename": "pyramid.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -343,7 +289,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Disk.jpg",
+        "image_filename": "disk.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -361,7 +307,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Line5.jpg",
+        "image_filename": "line5.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -379,7 +325,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Curve5.jpg",
+        "image_filename": "curve5.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -397,7 +343,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Angle.jpg",
+        "image_filename": "angle.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -415,7 +361,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Wave5.jpg",
+        "image_filename": "wave5.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -433,7 +379,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Spiral.jpg",
+        "image_filename": "spiral.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -451,7 +397,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "Zigzag.jpg",
+        "image_filename": "zigzag.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,

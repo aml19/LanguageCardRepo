@@ -1,7 +1,7 @@
 [
     {
         "level": 1.0,
-        "image_filename": "",
+        "image_filename": "x.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -19,7 +19,7 @@
     },
     {
         "level": 1.0,
-        "image_filename": "",
+        "image_filename": "x.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -37,7 +37,7 @@
     },
     {
         "level": 1.0,
-        "image_filename": "",
+        "image_filename": "x.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -68,8 +68,8 @@
         "prompt": "I",
         "answer": "I",
         "goal_words": "",
-        "audio_filename": "",
-        "audio_dir": ""
+        "audio_filename": "line5jan26_en_217.mp3",
+        "audio_dir": "I"
     },
     {
         "level": 1.0,
@@ -86,8 +86,8 @@
         "prompt": "You",
         "answer": "You",
         "goal_words": "",
-        "audio_filename": "",
-        "audio_dir": ""
+        "audio_filename": "line5jan26_en_726.mp3",
+        "audio_dir": "You"
     },
     {
         "level": 1.0,
@@ -104,8 +104,8 @@
         "prompt": "He",
         "answer": "He",
         "goal_words": "",
-        "audio_filename": "",
-        "audio_dir": ""
+        "audio_filename": "line5jan26_en_145.mp3",
+        "audio_dir": "He"
     },
     {
         "level": 1.0,
@@ -122,8 +122,8 @@
         "prompt": "She",
         "answer": "She",
         "goal_words": "",
-        "audio_filename": "",
-        "audio_dir": ""
+        "audio_filename": "line5jan26_en_359.mp3",
+        "audio_dir": "She"
     },
     {
         "level": 1.0,
@@ -140,8 +140,8 @@
         "prompt": "It",
         "answer": "It",
         "goal_words": "",
-        "audio_filename": "",
-        "audio_dir": ""
+        "audio_filename": "line5jan26_en_295.mp3",
+        "audio_dir": "It"
     },
     {
         "level": 1.0,
@@ -158,8 +158,8 @@
         "prompt": "We",
         "answer": "We",
         "goal_words": "",
-        "audio_filename": "",
-        "audio_dir": ""
+        "audio_filename": "line5jan26_en_532.mp3",
+        "audio_dir": "We"
     },
     {
         "level": 1.0,
@@ -176,8 +176,8 @@
         "prompt": "You all",
         "answer": "You all",
         "goal_words": "",
-        "audio_filename": "",
-        "audio_dir": ""
+        "audio_filename": "line5jan26_en_727.mp3",
+        "audio_dir": "You all"
     },
     {
         "level": 1.0,
@@ -194,7 +194,7 @@
         "prompt": "They",
         "answer": "They",
         "goal_words": "",
-        "audio_filename": "",
-        "audio_dir": ""
+        "audio_filename": "line5jan26_en_464.mp3",
+        "audio_dir": "They"
     }
 ]

@@ -1261,7 +1261,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "drop_p.jpg",
+        "image_filename": "drop_mic_mic_p.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -1322,14 +1322,14 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "2 Verbos de acción 2.1 - Frases en presente",
-        "native_answer": "Ellos comen todos los días",
-        "native_word": null,
-        "tag": null,
-        "prompt": "they  ______ every day",
-        "answer": "they  eat every day",
+        "native_answer": "Ellos comen allí todos los días.",
+        "native_word": "verbo - presente",
+        "tag": "verbo - presente",
+        "prompt": "they  ______ there every day",
+        "answer": "they  eat there every day",
         "goal_words": "eat",
-        "audio_filename": "line4_en_90.mp3",
-        "audio_dir": "they  eat every day"
+        "audio_filename": "line5jan26_en_465.mp3",
+        "audio_dir": "they  eat there every day"
     },
     {
         "level": 2.0,
@@ -1502,14 +1502,14 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "2 Verbos de acción 2.1 - Frases en presente",
-        "native_answer": "Nosotros comemos todos los días",
-        "native_word": null,
-        "tag": null,
-        "prompt": "we  ______ every day",
-        "answer": "we  eat every day",
+        "native_answer": "Nosotros comemos aquí todos los días.",
+        "native_word": "verbo - presente",
+        "tag": "verbo - presente",
+        "prompt": "we  ______ here every day",
+        "answer": "we  eat here every day",
         "goal_words": "eat",
-        "audio_filename": "line4_en_708.mp3",
-        "audio_dir": "we  eat every day"
+        "audio_filename": "line5jan26_en_533.mp3",
+        "audio_dir": "we  eat here every day"
     },
     {
         "level": 2.0,
@@ -2881,7 +2881,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "drop_p.jpg",
+        "image_filename": "drop_mic_mic_p.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -2971,7 +2971,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "drop_m.jpg",
+        "image_filename": "drop_mic_m.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -3025,7 +3025,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "drop_f.jpg",
+        "image_filename": "drop_mic_f.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -3061,7 +3061,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "drop_m.jpg",
+        "image_filename": "drop_mic_m.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -3079,7 +3079,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "drop_f.jpg",
+        "image_filename": "drop_mic_f.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,

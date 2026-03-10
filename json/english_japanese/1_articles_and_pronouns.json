@@ -1,8 +1,8 @@
 [
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": ""
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "me.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "私"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "me.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "僕"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "me.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "俺"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "me.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "あたし"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "you.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "あなた"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "you.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "君"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "he_him.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "彼"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "she_her.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "彼女"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "we_us.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "私たち"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "we_us.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "我々"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "they_them.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, pronouns are used similarly to English to replace nouns, but their use is more context-dependent. Japanese pronouns can be omitted when understood, and the choice of pronouns is influenced by social context, politeness levels, and gender. Unlike English, Japanese has a variety of pronouns with nuanced meanings, and the frequency of their use can convey subtleties about the speaker's relationships and politeness.",
         "native_language": "english",

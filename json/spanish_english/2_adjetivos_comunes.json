@@ -8,14 +8,14 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "2 adjetivos comunes",
-        "native_answer": "entusiasmado",
+        "native_answer": "¿Cómo te sientes? emocionado",
         "native_word": "adjetivo - sentimiento emoción",
         "tag": "adjetivo - sentimiento emoción",
-        "prompt": "______",
-        "answer": "excited",
+        "prompt": "How do you feel? ______",
+        "answer": "How do you feel? excited",
         "goal_words": "excited",
-        "audio_filename": "lineoct_en_240.mp3",
-        "audio_dir": "excited"
+        "audio_filename": "line5jan26_en_190.mp3",
+        "audio_dir": "How do you feel? excited"
     },
     {
         "level": 2.0,
@@ -26,13 +26,13 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "2 adjetivos comunes",
-        "native_answer": "ansioso",
+        "native_answer": "¿Cómo te sientes? ansioso",
         "native_word": "adjetivo - Creando emoción",
         "tag": "adjetivo - Creando emoción",
-        "prompt": "______",
-        "answer": "anxious",
+        "prompt": "How do you feel? ______",
+        "answer": "How do you feel? anxious",
         "goal_words": "anxious",
-        "audio_filename": "lineoct_en_23.mp3",
-        "audio_dir": "anxious"
+        "audio_filename": "line5jan26_en_188.mp3",
+        "audio_dir": "How do you feel? anxious"
     }
 ]

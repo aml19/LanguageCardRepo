@@ -1,8 +1,8 @@
 [
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "tutorial1.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Extra help can be given here to help you learn a card better",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Welcome"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "tutorial2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Extra help can be given here to help you learn a card better",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Tutorial"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "tutorial3.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Extra help can be given here to help you learn a card better",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Tutorial"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "tutorial4.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Extra help can be given here to help you learn a card better",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Tutorial"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "download.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Download and practice any list you like.  The levels are there as a rough guide to help you decide.\nLevel 1 - letters and sounds\nLevel 2 - simple words and phrases\nLevel 3 - sentences in various tenses\nLevel 4 - long form and reading\nLevel 5 - advanced grammar",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Tutorial"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "download.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Download and practice any list you like.  The levels are there as a rough guide to help you decide.\nLevel 1 - letters and sounds\nLevel 2 - simple words and phrases\nLevel 3 - sentences in various tenses\nLevel 4 - long form and reading\nLevel 5 - advanced grammar",
         "native_language": "english",

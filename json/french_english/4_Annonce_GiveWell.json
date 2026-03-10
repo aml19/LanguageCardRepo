@@ -98,7 +98,7 @@
         "native_language": "french",
         "learning_language": "english",
         "native_group": "4 Annonce: GiveWell",
-        "native_answer": "donner un cadeau",
+        "native_answer": "offrir un cadeau",
         "native_word": "verbe - interactif",
         "tag": "verbe - interactif",
         "prompt": "______ a gift",
@@ -199,7 +199,7 @@
     },
     {
         "level": 4.0,
-        "image_filename": "Person.jpg",
+        "image_filename": "person.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,

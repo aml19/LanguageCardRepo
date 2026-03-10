@@ -1,8 +1,8 @@
 [
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": "Je suis un homme"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "Tu es un homme"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "Il est un homme"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "Je suis une femme"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "Tu es une femme"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "Elle est une femme"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "crowd.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "Ils sont dans une foule"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "crowd.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "Nous sommes dans une foule"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "blue_sky.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "Le ciel est bleu"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "Je peux parler anglais"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "Tu peux parler anglais"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "Il peut parler anglais"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "Elle peut parler anglais"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "Nous pouvons parler anglais"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "speak_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "Ils peuvent parler anglais"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "Je fais mes devoirs"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "Tu fais tes devoirs"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Il fait ses devoirs"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "Elle fait ses devoirs."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "Nous faisons nos devoirs"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "homework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "Ils font leurs devoirs"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "Je fais du pain"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "Tu fais du pain"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "Il fait du pain"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "Elle fait du pain"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Nous faisons du pain"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_bread.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Ils font du pain"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "J'ai un pull rouge."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "Tu as un pull rouge."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "Il a un sac à dos jaune."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "Nous avons des billets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "Ils ont des billets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "J’ai des billets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "wash_hands.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to owe / must.” Expresses obligation, necessity, or strong recommendation. Example: Je dois étudier → “I have to study.”",
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "Je dois me laver les mains avant de manger"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "wash_hands.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to owe / must.” Expresses obligation, necessity, or strong recommendation. Example: Je dois étudier → “I have to study.”",
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "Tu dois te laver les mains avant de manger"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "use_bathroom.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to owe / must.” Expresses obligation, necessity, or strong recommendation. Example: Je dois étudier → “I have to study.”",
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "Nous devons utiliser les toilettes"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "use_bathroom.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to owe / must.” Expresses obligation, necessity, or strong recommendation. Example: Je dois étudier → “I have to study.”",
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "Ils doivent utiliser les toilettes"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "red_hands.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "Nous avons les mains rouges"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "Nous faisons un trou"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "Tu as un sac à dos jaune."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "Il fait des pots en argile"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "Elle fait du bon travail"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "friend.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "Nous sommes amis"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "Tu as un chapeau noir."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "Tu fais du bon travail"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "friend.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "Ils sont amis"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "Elle peut préparer le dîner"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "above_clouds.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "Nous sommes au-dessus des nuages"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "Nous pouvons préparer le dîner"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "J'ai un chapeau noir."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "Je fais du bon travail"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "Je fais des pots en argile"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "under_umbrella.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "Elle est sous le parapluie"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "Il fait un trou"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "Elle fait un trou"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "Il a un chapeau noir."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "J'ai un sac à dos jaune."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "Tu peux bien chanter"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "Ils font du bon travail"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "Nous pouvons bien chanter"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "Tu peux préparer le dîner"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "Nous faisons du bon travail"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "Elle a un pull rouge."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "Ils font des pots en argile"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "Tu as une robe noire."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "Tu fais un trou"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "Il peut préparer le dîner"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "Elle fait des pots en argile"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "Ils font un trou"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "Il peut bien chanter"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_hole.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "Je fais un trou"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "Ils peuvent préparer le dîner"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "orange_pumpkin.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "Les citrouilles sont orange"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cat_in_box.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "Le chat est dans la boîte"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "good_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "Il fait du bon travail"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -1368,9 +1368,9 @@
         "audio_dir": "J'ai une robe noire."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1386,9 +1386,9 @@
         "audio_dir": "Je peux préparer le dîner"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "red_hands.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1404,9 +1404,9 @@
         "audio_dir": "Ils ont les mains rouges"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -1422,9 +1422,9 @@
         "audio_dir": "Tu fais des pots en argile"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "make_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -1440,9 +1440,9 @@
         "audio_dir": "Nous faisons des pots en argile"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1458,9 +1458,9 @@
         "audio_dir": "Ils peuvent bien chanter"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "food_on_table.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -1476,9 +1476,9 @@
         "audio_dir": "La nourriture est sur la table"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
         "native_language": "english",
@@ -1494,9 +1494,9 @@
         "audio_dir": "Elle a une robe noire."
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1512,9 +1512,9 @@
         "audio_dir": "Elle peut bien chanter"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sing_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1530,9 +1530,9 @@
         "audio_dir": "Je peux bien chanter"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sprint_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1548,9 +1548,9 @@
         "audio_dir": "il peut courir vite"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sprint_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1566,9 +1566,9 @@
         "audio_dir": "je peux courir vite"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sprint_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1584,9 +1584,9 @@
         "audio_dir": "tu peux courir vite"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cheetah.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -1602,9 +1602,9 @@
         "audio_dir": "les guépards peuvent courir vite"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cheetah.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -1620,9 +1620,9 @@
         "audio_dir": "les guépards sont des coureurs rapides"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cheetah.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -1638,9 +1638,9 @@
         "audio_dir": "ce guépard est rapide"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "mustache.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1656,9 +1656,9 @@
         "audio_dir": "il a une moustache"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "mustache.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1674,9 +1674,9 @@
         "audio_dir": "j’ai une moustache"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "mustache.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1692,9 +1692,9 @@
         "audio_dir": "tu as une moustache"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "greeneyes.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1710,9 +1710,9 @@
         "audio_dir": "le chat a les yeux verts"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "havedog.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1728,9 +1728,9 @@
         "audio_dir": "j’ai un chien"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "father4.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1746,9 +1746,9 @@
         "audio_dir": "j’ai un enfant"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "eightyears.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1764,9 +1764,9 @@
         "audio_dir": "j’ai huit ans"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "father4.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -1782,9 +1782,9 @@
         "audio_dir": "je suis père"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "old_car.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -1800,9 +1800,9 @@
         "audio_dir": "la voiture est vieille"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sick3.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -1818,9 +1818,9 @@
         "audio_dir": "je suis malade"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "anger2.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -1836,9 +1836,9 @@
         "audio_dir": "je suis en colère"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "hungry.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1854,9 +1854,9 @@
         "audio_dir": "j’ai faim"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry / wear.” English “have” in sense of wearing something uses porter. Example: Je porte un manteau → “I have a coat on.”",
         "native_language": "english",
@@ -1872,9 +1872,9 @@
         "audio_dir": "je porte un sac à dos jaune"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry / wear.” English “have” in sense of wearing something uses porter. Example: Je porte un manteau → “I have a coat on.”",
         "native_language": "english",
@@ -1890,9 +1890,9 @@
         "audio_dir": "tu portes un chapeau noir"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1908,9 +1908,9 @@
         "audio_dir": "j’ai des billets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "who2.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1926,9 +1926,9 @@
         "audio_dir": "j’ai le ballon"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tools1.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -1944,9 +1944,9 @@
         "audio_dir": "nous avons beaucoup d’outils"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "toclean.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to owe / must.” Expresses obligation, necessity, or strong recommendation. Example: Je dois étudier → “I have to study.”",
         "native_language": "english",
@@ -1962,9 +1962,9 @@
         "audio_dir": "je dois nettoyer le sol"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "havetodrive.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to owe / must.” Expresses obligation, necessity, or strong recommendation. Example: Je dois étudier → “I have to study.”",
         "native_language": "english",
@@ -1980,9 +1980,9 @@
         "audio_dir": "ils doivent conduire là-bas"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry / wear.” English “have” in sense of wearing something uses porter. Example: Je porte un manteau → “I have a coat on.”",
         "native_language": "english",
@@ -1998,9 +1998,9 @@
         "audio_dir": "je porte un pull rouge"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry / wear.” English “have” in sense of wearing something uses porter. Example: Je porte un manteau → “I have a coat on.”",
         "native_language": "english",
@@ -2016,9 +2016,9 @@
         "audio_dir": "je porte une robe noire"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "festival2.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2034,9 +2034,9 @@
         "audio_dir": "il y a beaucoup de gens ici"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "difficult_problem.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2052,9 +2052,9 @@
         "audio_dir": "il y a un problème au tableau"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "traffic.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2070,9 +2070,9 @@
         "audio_dir": "il y a beaucoup de circulation"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cattree.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2088,9 +2088,9 @@
         "audio_dir": "il y a un chat dans l’arbre"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "food_on_table.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2106,9 +2106,9 @@
         "audio_dir": "il y a de la nourriture sur la table"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "raining.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to rain.” English “be raining” uses “be,” French uses a separate verb. Only third person singular: Il pleut → “It is raining.”",
         "native_language": "english",
@@ -2124,9 +2124,9 @@
         "audio_dir": "il pleut aujourd’hui"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "beerbar.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2142,9 +2142,9 @@
         "audio_dir": "il y a de la bière ici"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "fun_party.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2160,9 +2160,9 @@
         "audio_dir": "il y a une fête ce soir"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "meeting.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2178,9 +2178,9 @@
         "audio_dir": "il y a une réunion aujourd’hui"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makesandwich.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2196,9 +2196,9 @@
         "audio_dir": "je fais le sandwich"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "clownlaugh.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2214,9 +2214,9 @@
         "audio_dir": "les clowns me font rire"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makecoffee.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2232,9 +2232,9 @@
         "audio_dir": "ils font du café"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "maketea.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2250,9 +2250,9 @@
         "audio_dir": "elle fait du thé"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makerun.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2268,9 +2268,9 @@
         "audio_dir": "l’entraîneur me fait courir"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makelift.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2286,9 +2286,9 @@
         "audio_dir": "l’entraîneur nous fait soulever des poids"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makephoto.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2304,9 +2304,9 @@
         "audio_dir": "je fais des albums photo"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makephoto_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2322,9 +2322,9 @@
         "audio_dir": "nous faisons des albums photo"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makesleepy.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to return / give back.” English “make” in sense of causing a state/result. Example: Ça me rend heureux → “It makes me happy.”",
         "native_language": "english",
@@ -2340,9 +2340,9 @@
         "audio_dir": "la télé me rend somnolent"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "maketired.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to return / give back.” English “make” in sense of causing a state/result. Example: Ça me rend heureux → “It makes me happy.”",
         "native_language": "english",
@@ -2358,9 +2358,9 @@
         "audio_dir": "courir me rend fatigué"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "ideamoney.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to bring back / report.” English “make” in sense of bringing something. Example: Je rapporte le livre → “I bring the book back.”",
         "native_language": "english",
@@ -2376,9 +2376,9 @@
         "audio_dir": "cette idée rapporte de l’argent"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makemoney.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to win / earn.” English “make money” uses “make,” French uses gagner for earning. Example: Je gagne de l’argent → “I make money.”",
         "native_language": "english",
@@ -2394,9 +2394,9 @@
         "audio_dir": "je gagne de l’argent avec des investissements"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makebed.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2412,9 +2412,9 @@
         "audio_dir": "je fais le lit chaque matin"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makebed_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2430,9 +2430,9 @@
         "audio_dir": "nous faisons le lit le matin"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makemistake.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2448,9 +2448,9 @@
         "audio_dir": "parfois je fais une erreur"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "canpuzzle.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be able.” English “can” is short; French pouvoir expresses ability or permission. Example: Je peux nager → “I can swim.”",
         "native_language": "english",
@@ -2466,9 +2466,9 @@
         "audio_dir": "les bébés peuvent faire ce puzzle"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "chores.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2484,9 +2484,9 @@
         "audio_dir": "nous faisons beaucoup de tâches"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "pushup.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2502,9 +2502,9 @@
         "audio_dir": "il fait des pompes à la salle"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "doyoga.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2520,9 +2520,9 @@
         "audio_dir": "ils font du yoga ensemble"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dopuzzle.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2538,9 +2538,9 @@
         "audio_dir": "je fais des puzzles pour le plaisir"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "teacher.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2556,9 +2556,9 @@
         "audio_dir": "elle est enseignante"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "mydog.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2574,9 +2574,9 @@
         "audio_dir": "c’est mon chien"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "keysfloor.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2592,9 +2592,9 @@
         "audio_dir": "les clés sont par terre"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tired.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2610,9 +2610,9 @@
         "audio_dir": "je suis fatigué"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "cold3.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -2628,9 +2628,9 @@
         "audio_dir": "il fait froid aujourd’hui"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "important.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2646,9 +2646,9 @@
         "audio_dir": "c’est important"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "quality.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2664,9 +2664,9 @@
         "audio_dir": "c’est de bonne qualité"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "istime.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2682,9 +2682,9 @@
         "audio_dir": "il est midi"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "monday.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2700,9 +2700,9 @@
         "audio_dir": "aujourd’hui, c’est lundi"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "son.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2718,9 +2718,9 @@
         "audio_dir": "c’est mon fils"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "mom.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2736,9 +2736,9 @@
         "audio_dir": "elle est mère"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "fatskinnyfat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2754,9 +2754,9 @@
         "audio_dir": "il est gros"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sunday.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2772,9 +2772,9 @@
         "audio_dir": "aujourd’hui, c’est dimanche"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "havedog.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2790,9 +2790,9 @@
         "audio_dir": "elle a un chien"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "father4.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2808,9 +2808,9 @@
         "audio_dir": "il a un enfant"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "eightyears.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2826,9 +2826,9 @@
         "audio_dir": "tu as huit ans"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "father4.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2844,9 +2844,9 @@
         "audio_dir": "il est père"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "sick3.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2862,9 +2862,9 @@
         "audio_dir": "elle est malade"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "anger2.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -2880,9 +2880,9 @@
         "audio_dir": "il est en colère"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "hungry.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2898,9 +2898,9 @@
         "audio_dir": "il a faim"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_yellow_backpack.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry / wear.” English “have” in sense of wearing something uses porter. Example: Je porte un manteau → “I have a coat on.”",
         "native_language": "english",
@@ -2916,9 +2916,9 @@
         "audio_dir": "il porte un sac à dos jaune"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "man_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry / wear.” English “have” in sense of wearing something uses porter. Example: Je porte un manteau → “I have a coat on.”",
         "native_language": "english",
@@ -2934,9 +2934,9 @@
         "audio_dir": "il porte un chapeau noir"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2952,9 +2952,9 @@
         "audio_dir": "nous avons des billets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "who2.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2970,9 +2970,9 @@
         "audio_dir": "il a le ballon"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tools1.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to have.” English “have” is general; French avoir = possession, age, feelings. Example: J’ai une voiture → “I have a car.”",
         "native_language": "english",
@@ -2988,9 +2988,9 @@
         "audio_dir": "ils ont beaucoup d’outils"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "to clean.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to owe / must.” Expresses obligation, necessity, or strong recommendation. Example: Je dois étudier → “I have to study.”",
         "native_language": "english",
@@ -3006,9 +3006,9 @@
         "audio_dir": "tu dois nettoyer le sol"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "havetodrive.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to owe / must.” Expresses obligation, necessity, or strong recommendation. Example: Je dois étudier → “I have to study.”",
         "native_language": "english",
@@ -3024,9 +3024,9 @@
         "audio_dir": "nous devons conduire là-bas"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "girl.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry / wear.” English “have” in sense of wearing something uses porter. Example: Je porte un manteau → “I have a coat on.”",
         "native_language": "english",
@@ -3042,9 +3042,9 @@
         "audio_dir": "elle porte un pull rouge"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "woman_black_dress.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to carry / wear.” English “have” in sense of wearing something uses porter. Example: Je porte un manteau → “I have a coat on.”",
         "native_language": "english",
@@ -3060,9 +3060,9 @@
         "audio_dir": "elle porte une robe noire"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "clownlaugh.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3078,9 +3078,9 @@
         "audio_dir": "nous faisons rire les gens"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makecoffee.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3096,9 +3096,9 @@
         "audio_dir": "nous faisons du café"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "maketea.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3114,9 +3114,9 @@
         "audio_dir": "je fais du thé"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makephoto.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3132,9 +3132,9 @@
         "audio_dir": "tu fais des albums photo"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makephoto_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3150,9 +3150,9 @@
         "audio_dir": "ils font des albums photo"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makemoney.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to win / earn.” English “make money” uses “make,” French uses gagner for earning. Example: Je gagne de l’argent → “I make money.”",
         "native_language": "english",
@@ -3168,9 +3168,9 @@
         "audio_dir": "tu gagnes de l’argent avec des investissements"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makebed.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3186,9 +3186,9 @@
         "audio_dir": "tu fais le lit chaque matin"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makebed_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3204,9 +3204,9 @@
         "audio_dir": "ils font le lit le matin"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makemistake.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3222,9 +3222,9 @@
         "audio_dir": "parfois, ils font une erreur"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "chores.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3240,9 +3240,9 @@
         "audio_dir": "ils font beaucoup de tâches"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "pushup.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3258,9 +3258,9 @@
         "audio_dir": "je fais des pompes à la salle"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "doyoga.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3276,9 +3276,9 @@
         "audio_dir": "nous faisons du yoga ensemble"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dopuzzle.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3294,9 +3294,9 @@
         "audio_dir": "elle fait des puzzles pour le plaisir"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "teacher.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -3312,9 +3312,9 @@
         "audio_dir": "je suis enseignant"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "tired.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -3330,9 +3330,9 @@
         "audio_dir": "il est fatigué"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "makebed.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to do / make.” English separates “do” vs “make,” French faire covers both. Example: Je fais mes devoirs → “I do my homework.”",
         "native_language": "english",
@@ -3348,9 +3348,9 @@
         "audio_dir": "elle fait le lit chaque matin"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "athome.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -3366,9 +3366,9 @@
         "audio_dir": "tu es à la maison"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "athome_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -3384,9 +3384,9 @@
         "audio_dir": "ils sont à la maison"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "athome.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -3402,9 +3402,9 @@
         "audio_dir": "je suis à la maison"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "athome_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Literal: “to be.” Used for identity, characteristics, origin, professions, time, and states. Example: Je suis professeur → “I am a teacher.”",
         "native_language": "english",
@@ -3420,9 +3420,9 @@
         "audio_dir": "nous sommes à la maison"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dtraffic.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3438,9 +3438,9 @@
         "audio_dir": "Il n’y a pas beaucoup de trafic"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "draining.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3456,9 +3456,9 @@
         "audio_dir": "Il ne pleut pas aujourd’hui"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmustache.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3474,9 +3474,9 @@
         "audio_dir": "Il n’a pas de moustache"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dtoclean.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3492,9 +3492,9 @@
         "audio_dir": "Je n’ai pas à nettoyer le sol"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmeeting.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3510,9 +3510,9 @@
         "audio_dir": "Il n’y a pas de réunion aujourd’hui"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dchores.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3528,9 +3528,9 @@
         "audio_dir": "Nous ne faisons pas beaucoup de tâches"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dteacher.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3546,9 +3546,9 @@
         "audio_dir": "Elle n’est pas professeur"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dhavedog.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3564,9 +3564,9 @@
         "audio_dir": "Elle n’a pas de chien"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dclownlaugh.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3582,9 +3582,9 @@
         "audio_dir": "Nous ne faisons pas rire les gens"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmakecoffee.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3600,9 +3600,9 @@
         "audio_dir": "Ils ne font pas de café"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dsick3.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3618,9 +3618,9 @@
         "audio_dir": "Je ne suis pas malade"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dman_black_hat.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3636,9 +3636,9 @@
         "audio_dir": "Tu ne portes pas de chapeau noir"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dtickets.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3654,9 +3654,9 @@
         "audio_dir": "Je n’ai pas de billets"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmakebed.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3672,9 +3672,9 @@
         "audio_dir": "Je ne fais pas le lit tous les matins"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dpushup.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3690,9 +3690,9 @@
         "audio_dir": "Il ne fait pas de pompes à la salle"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dathome.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3708,9 +3708,9 @@
         "audio_dir": "Tu n’es pas à la maison"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dathome_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3726,9 +3726,9 @@
         "audio_dir": "Ils ne sont pas à la maison"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dathome.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3744,9 +3744,9 @@
         "audio_dir": "Je ne suis pas à la maison"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dathome_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3762,9 +3762,9 @@
         "audio_dir": "Nous ne sommes pas à la maison"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dspeak_m.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3780,9 +3780,9 @@
         "audio_dir": "Je ne peux pas parler anglais"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dhomework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3798,9 +3798,9 @@
         "audio_dir": "Nous ne faisons pas nos devoirs"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dhomework.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3816,9 +3816,9 @@
         "audio_dir": "Ils ne font pas leurs devoirs"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dcook_f.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3834,9 +3834,9 @@
         "audio_dir": "Elle ne peut pas cuisiner le dîner"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dcook_p.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3852,9 +3852,9 @@
         "audio_dir": "Nous ne pouvons pas cuisiner le dîner"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dgood_job.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3870,9 +3870,9 @@
         "audio_dir": "Je ne fais pas du bon travail"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmake_pots.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3888,9 +3888,9 @@
         "audio_dir": "Je ne fais pas de pots en argile"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dunder_umbrella.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3906,9 +3906,9 @@
         "audio_dir": "Elle n’est pas sous le parapluie"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dhavedog.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",
@@ -3924,9 +3924,9 @@
         "audio_dir": "Je n’ai pas de chien"
     },
     {
-        "level": "conjugation",
-        "image_filename": "",
-        "card_type": "english",
+        "level": 2.0,
+        "image_filename": "dmakelift.jpg",
+        "card_type": "conjugation",
         "identifier": "ID",
         "info": "Negative.  Wrap the verb with ne ... pas (or just pas in speech).\n\nJe ne parle pas anglais = I don’t speak English\n\nAll verbs: Je ne peux pas, Je n’ai pas, Je ne fais pas.",
         "native_language": "english",

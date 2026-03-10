@@ -1,8 +1,8 @@
 [
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "General info: French letters are sometimes pronounced similarly to English, but French has several key differences that can make words sound very different from how they look.\nFrench spelling is mostly regular, but there are many silent letters, liaisons, and nasal vowels that English doesn’t have.\nFrench vowels are generally pure, and nasal vowels are pronounced through the nose rather than as separate consonant + vowel combinations.\nWord-final consonants are often silent, and some vowels (especially schwa /ə/) may disappear in casual speech.\nFrench is syllable-timed, not stress-timed like English, so each syllable carries roughly equal weight, giving French its characteristic rhythm.\nKeep these points in mind as you read the letters.",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": ""
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "love_music_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Pure vowel /a/, similar to Spanish a.\n\nNever slides or reduces like English cat or cake.",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "A - Amour"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "hello.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Very similar to English b.\n\nPronunciation is stable; always voiced.",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "B - Bonjour"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "cat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Two main sounds:\n\n/k/ before a, o, u → like English cat\n\n/s/ before e, i, y → like English cent",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "C - Chat"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "sleep_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Very similar to English d.\n\nClear, voiced, no flapping like English water.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "D - Dormir"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "school.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "E\n\nTricky for English speakers. Several uses:\n\n/ə/ (schwa, unstressed, often disappears in speech) → le, je\n\n/e/ closed vowel → été\n\n/ɛ/ open vowel → père\n\nEnglish doesn’t have a disappearing schwa like French, so word rhythm differs.",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "E - École"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "flower.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Same as English f.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "F - Fleur"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "cake.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "G\n\nHard /g/ before a, o, u; soft /ʒ/ before e, i, y (like English “s” in vision).\n\nExample: gâteau → /gato/ ; girafe → /ʒiʁaf/",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "G - Gâteau"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "happy_kid.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "H\n\nTwo types:\n\nH muet – silent, word can link with previous vowel (l’homme → /lɔm/)\n\nH aspiré – prevents liaison, no sound (le héros → /lə eʁo/)\n\nEnglish always pronounces H; this is a key difference.",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "H - Heureux"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "building2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "I\n\nPure /i/, like Spanish i, never slides.",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "I - Immeuble"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "garden.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "/ʒ/, like “s” in measure.\n\nEnglish “j” does not exist; English speakers usually over-pronounce it.",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "J - Jardin"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "kiwi.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "/k/, very similar to English.\n\nRare, mostly in loanwords.",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "K - Kiwi"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "book2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Clear, light l, not dark like English full.",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "L - Livre"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "house.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Very similar to English.",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "M - Maison"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "night.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Similar to English, but French n often nasalizes vowels when before m or n.",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "N - Nuit"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "bird.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Two main vowels:\n\n/o/ closed → eau → /o/\n\n/ɔ/ open → porte → /pɔʁt/",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "O - Oiseau"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "apple.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Similar to English, but unaspirated.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "P - Pomme"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "four.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Always /k/, no /kw/ as in English.\n\nAlways followed by u, which is silent.\n\nExample: qui → /ki/",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "Q - Quatre"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "red_apple.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "The French R is produced at the back of the throat using the uvula, rather than with the tongue tip like the Spanish R. Air is pushed through a narrow space near the uvula, creating a gentle vibration or “gargling” sound. There are two possible realizations of this sound: the fricative and the trill. In the fricative (/ʁ/), air flows continuously through the narrow gap, producing a smooth, steady, and slightly resonant sound. In the trill (/ʀ/), the uvula flaps rapidly in the airflow, creating a series of discrete pulses and a bouncier quality. Most French speakers use the fricative in everyday speech, while the trill is less common and mostly optional.",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "R - Rouge"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "sun.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Usually /s/, never /z/ between vowels unless part of liaison.",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "S - Soleil"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "table.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Clear, unaspirated /t/, unlike English.",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "T - Table"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "university.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "/y/ (rounded front vowel), no English equivalent.\n\nVery tricky for English speakers; lips and tongue must shape simultaneously.",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "U - Université"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "car.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Similar to English v, always voiced.",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "V - Voiture"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "wifi.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Only in loanwords, usually /v/ or /w/ depending on word.",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "W - Wifi"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "xylophone.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Usually /ks/; sometimes /gz/ in certain words.",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "X - Xylophone"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "eyes.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Consonant: /j/ like English y in yes\n\nVowel: /i/ like French I",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "Y - Yeux"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "zebra.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Usually /z/, voiced.",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "Z - Zèbre"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "LL - Often tricky because it can be pronounced two different ways depending on context:\n/l/ → like a normal L\n/j/ → like English y (semi-vowel) after i\nlisten to:\nville\nfille",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "ville.\nfille"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "GN\n/ɲ/, like Spanish ñ or English “ny” in canyon.\nExample: montagne → /mɔ̃taɲ/ (“mountain”)",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "montagne"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "OU\n/u/, pure rounded vowel.\nExample: soupe → /sup/ (“soup”)\nNot a combination of O+U sounds like English might guess.",
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "soupe"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "OI\n/wa/, not /oi/ like in English oil.\nExample: moi → /mwa/ (“me”)\nEnglish speakers often say /moi/ (wrong glide).",
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "moi"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Nasal vowels\nSounds: /ɑ̃/, /ɛ̃/, /ɔ̃/, /œ̃/\nExamples:\nen → /ɑ̃/ (enfant)\nin → /ɛ̃/ (vin)\non → /ɔ̃/ (bon)\nun → /œ̃/ (un)\nEnglish speakers tend to pronounce the consonant + vowel separately, instead of nasalizing.\nTip: Say the vowel through your nose without touching the tongue to the palate.",
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "enfant.\nvin.\nbon.\nun"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "U /y/\nRounded front vowel, no English equivalent.\nExamples: lune, tu, rue.\nCommon mistakes: English speakers say /u/ (like too) instead.\nTip: lips rounded, tongue forward, vowel like /i/ in mouth position.",
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "lune, tu, rue."
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "E muet / schwa /ə/\nAppears in le, je, que, une.\nOften disappears in speech; English speakers over-pronounce it.",
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "le, je, que, une."
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Final consonants\nMany consonants are silent at the end of words: s, t, d, x, z.\nExamples: petit, fils, prix.\nMistake: English speakers pronounce every consonant fully.",
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "petit, fils, prix."
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Liaison sounds\nSome consonants at the end of words are pronounced only when the next word begins with a vowel.\nles amis → /lez‿ami/ (“the friends”)\net un → /e‿tœ̃/ (“and one”)",
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "les amis.\net un"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Diphthongs and vowel combinations\nFrench rarely has gliding vowels like English.\nMistakes: English speakers slide too much, e.g., saying /oɪ/ instead of /wa/ for moi.",
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "moi"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Stress and rhythm\nFrench is syllable-timed, unlike English’s stress-timed rhythm.\nEvery syllable is roughly equal in length, except in casual speech where schwas disappear.\nEnglish speakers often “stress” syllables the wrong way.",
         "native_language": "english",

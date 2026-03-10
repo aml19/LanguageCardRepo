@@ -1,8 +1,8 @@
 [
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Spanish letters are mostly pronounced similar to their English counterparts, although there are some differences.\nSpanish spelling → pronunciation is consistent; English is not.\nSpanish vowels are pure and fully pronounced, even at the end of words.\nEvery syllable counts — no lazy reduction like English “probly”.\nStress is predictable and strongly affects how endings sound.\nKeep that in mind as you read the letters.",
         "native_language": "english",
@@ -18,9 +18,9 @@
         "audio_dir": ""
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "yellow_banana.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "A\n\nSimilar, but not the same\n\nSpanish a = open, steady /a/\n\nEnglish “a” slides (cat, cake, about)\n\n🔹 Key difference: Spanish a never changes and is always fully pronounced.",
         "native_language": "english",
@@ -36,9 +36,9 @@
         "audio_dir": "A.  Amarillo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "path.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "A\n\nSimilar, but not the same\n\nSpanish a = open, steady /a/\n\nEnglish “a” slides (cat, cake, about)\n\n🔹 Key difference: Spanish a never changes and is always fully pronounced.",
         "native_language": "english",
@@ -54,9 +54,9 @@
         "audio_dir": "A.  Camino -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "house.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "A\n\nSimilar, but not the same\n\nSpanish a = open, steady /a/\n\nEnglish “a” slides (cat, cake, about)\n\n🔹 Key difference: Spanish a never changes and is always fully pronounced.",
         "native_language": "english",
@@ -72,9 +72,9 @@
         "audio_dir": "A.  Casa -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "boat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "B / V\n\nDifferent (merged in Spanish)\n\nSpanish b and v sound the same\n\nBetween vowels they soften to a light /β/ (almost like a soft b)\n\n🔹 English distinction between b and v does not exist.",
         "native_language": "english",
@@ -90,9 +90,9 @@
         "audio_dir": "B.  Barco -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "coat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "B / V\n\nDifferent (merged in Spanish)\n\nSpanish b and v sound the same\n\nBetween vowels they soften to a light /β/ (almost like a soft b)\n\n🔹 English distinction between b and v does not exist.",
         "native_language": "english",
@@ -108,9 +108,9 @@
         "audio_dir": "B.  Abrigo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "free.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "B / V\n\nDifferent (merged in Spanish)\n\nSpanish b and v sound the same\n\nBetween vowels they soften to a light /β/ (almost like a soft b)\n\n🔹 English distinction between b and v does not exist.",
         "native_language": "english",
@@ -126,9 +126,9 @@
         "audio_dir": "B.  Libre -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "car.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, C is soft (/s/ or /θ/) only when it comes before E or I.\nSo any Spanish word starting with:\nce-, ci-.  will have a soft C sound.\n\nExamples (word-initial)\ncena (dinner)\ncielo (sky)\n\nPronunciation note (important)\nIn Latin America: soft C = /s/\nIn Spain: soft C = /θ/ (the “th” in thin)\n\nThere are no Spanish words starting with ca-, co-, cu- that have a soft C.\n\ncasa, cosa → always hard /k/",
         "native_language": "english",
@@ -144,9 +144,9 @@
         "audio_dir": "C.  Coche -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "society.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "In Spanish, C is soft (/s/ or /θ/) only when it comes before E or I.\nSo any Spanish word starting with:\nce-, ci-.  will have a soft C sound.\n\nExamples (word-initial)\ncena (dinner)\ncielo (sky)\n\nPronunciation note (important)\nIn Latin America: soft C = /s/\nIn Spain: soft C = /θ/ (the “th” in thin)\n\nThere are no Spanish words starting with ca-, co-, cu- that have a soft C.\n\ncasa, cosa → always hard /k/",
         "native_language": "english",
@@ -162,9 +162,9 @@
         "audio_dir": "C.  Sociedad -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "chocolate.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "CH Spanish ch = /t͡ʃ/, very close to English church\n\nDifference: Spanish ch is cleaner and shorter\nEnglish tends to stretch it (chuuurch)",
         "native_language": "english",
@@ -180,9 +180,9 @@
         "audio_dir": "CH.  Chocolate -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "drunk.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "CH Spanish ch = /t͡ʃ/, very close to English church\n\nDifference: Spanish ch is cleaner and shorter\nEnglish tends to stretch it (chuuurch)",
         "native_language": "english",
@@ -198,9 +198,9 @@
         "audio_dir": "CH.  Borracho -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "much.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "CH Spanish ch = /t͡ʃ/, very close to English church\n\nDifference: Spanish ch is cleaner and shorter\nEnglish tends to stretch it (chuuurch)",
         "native_language": "english",
@@ -216,9 +216,9 @@
         "audio_dir": "CH.  Mucho -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "day.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "D\n\nSubtly different\n\nWord-initial: similar to English d\n\nBetween vowels: very soft /ð/ (like th in this)\n\n🔹 Endings like -do, -da are clearly pronounced, not swallowed:\n\nhablado → ha-BLA-do (not habluhd)\n\nThis is one of the accent giveaways",
         "native_language": "english",
@@ -234,9 +234,9 @@
         "audio_dir": "D.  Día -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "city.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "D\n\nSubtly different\n\nWord-initial: similar to English d\n\nBetween vowels: very soft /ð/ (like th in this)\n\n🔹 Endings like -do, -da are clearly pronounced, not swallowed:\n\nhablado → ha-BLA-do (not habluhd)\n\nThis is one of the accent giveaways",
         "native_language": "english",
@@ -252,9 +252,9 @@
         "audio_dir": "D.  Ciudad -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "power.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "D\n\nSubtly different\n\nWord-initial: similar to English d\n\nBetween vowels: very soft /ð/ (like th in this)\n\n🔹 Endings like -do, -da are clearly pronounced, not swallowed:\n\nhablado → ha-BLA-do (not habluhd)\n\nThis is one of the accent giveaways",
         "native_language": "english",
@@ -270,9 +270,9 @@
         "audio_dir": "D.  Poder -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "elephant.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "E\n\nDifferent\n\nSpanish e = clean /e/\n\nEnglish “e” often becomes /ə/ or /ɪ/\n\n🔹 Spanish e is never reduced, even unstressed.",
         "native_language": "english",
@@ -288,9 +288,9 @@
         "audio_dir": "E.  Elefante -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "milk.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "E\n\nDifferent\n\nSpanish e = clean /e/\n\nEnglish “e” often becomes /ə/ or /ɪ/\n\n🔹 Spanish e is never reduced, even unstressed.",
         "native_language": "english",
@@ -306,9 +306,9 @@
         "audio_dir": "E.  Leche -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "green_grass.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "E\n\nDifferent\n\nSpanish e = clean /e/\n\nEnglish “e” often becomes /ə/ or /ɪ/\n\n🔹 Spanish e is never reduced, even unstressed.",
         "native_language": "english",
@@ -324,9 +324,9 @@
         "audio_dir": "E.  Verde -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "happy_kid.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "F\n\nSame\n\nVery close to English f",
         "native_language": "english",
@@ -342,9 +342,9 @@
         "audio_dir": "F.  Feliz -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "flower.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "F\n\nSame\n\nVery close to English f",
         "native_language": "english",
@@ -360,9 +360,9 @@
         "audio_dir": "F.  Flor -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "offer.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "F\n\nSame\n\nVery close to English f",
         "native_language": "english",
@@ -378,9 +378,9 @@
         "audio_dir": "F.  Oferta -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "cat.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "G\n\nVery different rules\n\nga, go, gu → hard g\n\nge, gi → harsh /x/ (throaty, not English g)\n\ngue, gui → hard g again (u is silent)\n\n🔹 English has no sound like Spanish j / ge / gi.",
         "native_language": "english",
@@ -396,9 +396,9 @@
         "audio_dir": "G.  Gato -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "guitar.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "G\n\nVery different rules\n\nga, go, gu → hard g\n\nge, gi → harsh /x/ (throaty, not English g)\n\ngue, gui → hard g again (u is silent)\n\n🔹 English has no sound like Spanish j / ge / gi.",
         "native_language": "english",
@@ -414,9 +414,9 @@
         "audio_dir": "G.  Guitarra -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "water.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "G\n\nVery different rules\n\nga, go, gu → hard g\n\nge, gi → harsh /x/ (throaty, not English g)\n\ngue, gui → hard g again (u is silent)\n\n🔹 English has no sound like Spanish j / ge / gi.",
         "native_language": "english",
@@ -432,9 +432,9 @@
         "audio_dir": "G.  Agua -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "hour.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "H\n\nCompletely different\n\nSpanish h is silent\n\nEnglish h is pronounced\n\n🔹 Huge mental adjustment for English speakers.",
         "native_language": "english",
@@ -450,9 +450,9 @@
         "audio_dir": "H.  Hora -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "egg.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "H\n\nCompletely different\n\nSpanish h is silent\n\nEnglish h is pronounced\n\n🔹 Huge mental adjustment for English speakers.",
         "native_language": "english",
@@ -468,9 +468,9 @@
         "audio_dir": "H.  Huevo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "now.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "H\n\nCompletely different\n\nSpanish h is silent\n\nEnglish h is pronounced\n\n🔹 Huge mental adjustment for English speakers.",
         "native_language": "english",
@@ -486,9 +486,9 @@
         "audio_dir": "H.  Ahora -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "idea.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "I\n\nDifferent\n\nSpanish i = clean /i/\n\nEnglish “i” often glides (time)\n\n🔹 No diphthong unless written.",
         "native_language": "english",
@@ -504,9 +504,9 @@
         "audio_dir": "I.  Idea -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "island.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "I\n\nDifferent\n\nSpanish i = clean /i/\n\nEnglish “i” often glides (time)\n\n🔹 No diphthong unless written.",
         "native_language": "english",
@@ -522,9 +522,9 @@
         "audio_dir": "I.  Isla -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "happy_kid.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "I\n\nDifferent\n\nSpanish i = clean /i/\n\nEnglish “i” often glides (time)\n\n🔹 No diphthong unless written.",
         "native_language": "english",
@@ -540,9 +540,9 @@
         "audio_dir": "I.  Feliz -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "garden.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "J\n\nDifferent\n\nSpanish j = /x/ (same as ge/gi)\n\nNo English equivalent",
         "native_language": "english",
@@ -558,9 +558,9 @@
         "audio_dir": "J.  Jardín -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "giraffe.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "J\n\nDifferent\n\nSpanish j = /x/ (same as ge/gi)\n\nNo English equivalent",
         "native_language": "english",
@@ -576,9 +576,9 @@
         "audio_dir": "J.  Jirafa -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "videogame.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "J\n\nDifferent\n\nSpanish j = /x/ (same as ge/gi)\n\nNo English equivalent",
         "native_language": "english",
@@ -594,9 +594,9 @@
         "audio_dir": "J.  Juego -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "kilometer.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "K\n\nSame sound, rare letter\n\nOnly in loanwords (kilómetro)",
         "native_language": "english",
@@ -612,9 +612,9 @@
         "audio_dir": "K.  Kilómetro -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "koala.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "K\n\nSame sound, rare letter\n\nOnly in loanwords (kilómetro)",
         "native_language": "english",
@@ -630,9 +630,9 @@
         "audio_dir": "K.  Koala -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "something.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "L\n\nMostly same\n\nSpanish l is lighter, tongue more forward\n\nNever becomes dark “ɫ” like English full",
         "native_language": "english",
@@ -648,9 +648,9 @@
         "audio_dir": "L.  Algo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "lion.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "L\n\nMostly same\n\nSpanish l is lighter, tongue more forward\n\nNever becomes dark “ɫ” like English full",
         "native_language": "english",
@@ -666,9 +666,9 @@
         "audio_dir": "L.  León -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "places.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "L\n\nMostly same\n\nSpanish l is lighter, tongue more forward\n\nNever becomes dark “ɫ” like English full",
         "native_language": "english",
@@ -684,9 +684,9 @@
         "audio_dir": "L.  Lugar -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "call_phone_f.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "LL\n\nDifferent (and dialect-dependent)\n\nTraditionally /ʎ/\n\nMost modern dialects: /ʝ/, /ʒ/, or /ʃ/\n\n🔹 Never like English “ll”.",
         "native_language": "english",
@@ -702,9 +702,9 @@
         "audio_dir": "LL.  Llamar -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "key.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "LL\n\nDifferent (and dialect-dependent)\n\nTraditionally /ʎ/\n\nMost modern dialects: /ʝ/, /ʒ/, or /ʃ/\n\n🔹 Never like English “ll”.",
         "native_language": "english",
@@ -720,9 +720,9 @@
         "audio_dir": "LL.  Llave -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "chair.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "LL\n\nDifferent (and dialect-dependent)\n\nTraditionally /ʎ/\n\nMost modern dialects: /ʝ/, /ʒ/, or /ʃ/\n\n🔹 Never like English “ll”.",
         "native_language": "english",
@@ -738,9 +738,9 @@
         "audio_dir": "LL.  Silla -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "butterfly.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "M\n\nSame",
         "native_language": "english",
@@ -756,9 +756,9 @@
         "audio_dir": "M.  Mariposa -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "moment2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "M\n\nSame",
         "native_language": "english",
@@ -774,9 +774,9 @@
         "audio_dir": "M.  Momento -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "friend.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "M\n\nSame",
         "native_language": "english",
@@ -792,9 +792,9 @@
         "audio_dir": "M.  Amigo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "orange.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "N\n\nMostly same\n\nSpanish n always clear\n\nEnglish “n” can weaken or nasalize vowels",
         "native_language": "english",
@@ -810,9 +810,9 @@
         "audio_dir": "N.  Naranja -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "ringn.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "N\n\nMostly same\n\nSpanish n always clear\n\nEnglish “n” can weaken or nasalize vowels",
         "native_language": "english",
@@ -828,9 +828,9 @@
         "audio_dir": "N.  Anillo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "child.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "N\n\nMostly same\n\nSpanish n always clear\n\nEnglish “n” can weaken or nasalize vowels",
         "native_language": "english",
@@ -846,9 +846,9 @@
         "audio_dir": "N.  Niño -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "indigo.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Ñ\n\nDifferent\n\n/ɲ/ (like ny in canyon, but tighter)\n\nNo English letter equivalent",
         "native_language": "english",
@@ -864,9 +864,9 @@
         "audio_dir": "Ñ.  Añil -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "signal.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Ñ\n\nDifferent\n\n/ɲ/ (like ny in canyon, but tighter)\n\nNo English letter equivalent",
         "native_language": "english",
@@ -882,9 +882,9 @@
         "audio_dir": "Ñ.  Señal -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "pot.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "O\n\nDifferent\n\nSpanish o = pure /o/\n\nEnglish “o” glides (go)\n\n🔹 Always pronounced fully, including at word ends.",
         "native_language": "english",
@@ -900,9 +900,9 @@
         "audio_dir": "O.  Olla -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "bear.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "O\n\nDifferent\n\nSpanish o = pure /o/\n\nEnglish “o” glides (go)\n\n🔹 Always pronounced fully, including at word ends.",
         "native_language": "english",
@@ -918,9 +918,9 @@
         "audio_dir": "O.  Oso -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "sky.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "O\n\nDifferent\n\nSpanish o = pure /o/\n\nEnglish “o” glides (go)\n\n🔹 Always pronounced fully, including at word ends.",
         "native_language": "english",
@@ -936,9 +936,9 @@
         "audio_dir": "O.  Cielo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "dog.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Subtly different\n\nSpanish p is unaspirated\n\nEnglish p has a puff of air\n\n🔹 English speakers over-aspirate it.",
         "native_language": "english",
@@ -954,9 +954,9 @@
         "audio_dir": "P.  Perro -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "weight.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Subtly different\n\nSpanish p is unaspirated\n\nEnglish p has a puff of air\n\n🔹 English speakers over-aspirate it.",
         "native_language": "english",
@@ -972,9 +972,9 @@
         "audio_dir": "P.  Peso -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "huh.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish q is just /k/.\nNo /w/\nNo lip rounding\nNo extra glide\nSpanish uses q only to preserve spelling rules:\nc + e/i would be soft (/s/ or /θ/)\nTo force a hard /k/ before e/i, Spanish writes qu",
         "native_language": "english",
@@ -990,9 +990,9 @@
         "audio_dir": "Q.  Quién -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "me.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish q is just /k/.\nNo /w/\nNo lip rounding\nNo extra glide\nSpanish uses q only to preserve spelling rules:\nc + e/i would be soft (/s/ or /θ/)\nTo force a hard /k/ before e/i, Spanish writes qu",
         "native_language": "english",
@@ -1008,9 +1008,9 @@
         "audio_dir": "Q.  Quiero -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "stand_here.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Spanish q is just /k/.\nNo /w/\nNo lip rounding\nNo extra glide\nSpanish uses q only to preserve spelling rules:\nc + e/i would be soft (/s/ or /θ/)\nTo force a hard /k/ before e/i, Spanish writes qu",
         "native_language": "english",
@@ -1026,9 +1026,9 @@
         "audio_dir": "Q.  Aquí -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "frog.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "What the Spanish trill r actually is\nThe trilled R (IPA /r/) is not an English r\nIt is rapid, repeated taps of the tongue tip against the alveolar ridge (the bumpy area just behind your top teeth), caused by airflow, not muscular flapping.\nThink: air makes the tongue vibrate — you don’t wag it.\n\nWhen Spanish uses the trill:\nSpanish uses two R sounds:\n\nR position    -    Sound\nSingle r between vowels   -   Tap /ɾ/ (pero)\nrr between vowels   -   Trill /r/ (perro)\nWord-initial r   -   Trill /r/ (rojo)\nr after l, n, s   -   Trill /r/ (alrededor, Enrique, Israel)\n\nSo:\ncaro = tap (expensive)\ncarro = trill (car)\nMiss this distinction and you change meaning.\n\nWhy English speakers fail (and what they do instead)\n\nEnglish r is:\nProduced with the tongue pulled back\nNo tongue-tip contact\nOften rounded lips\n\nSpanish trill requires the opposite:\nTongue forward\nTip loose\nStrong airflow\n\nCommon English-speaker errors:\nTurning it into English r\nTurning it into d\nClenching the tongue (kills vibration)\nTrying to “move” the tongue instead of letting air do it\n\nThe physical setup (this matters)\nPlace your tongue tip lightly on the alveolar ridge\n(same place as t or d, but relaxed)\nKeep the tongue loose, not pressed\nExhale steadily\nLet the tongue vibrate on its own\nIf you feel tension, stop — tension prevents trilling.\n\nA progression that actually works\nStep 1: Find the tap\n\nIf you can say Spanish pero, you already have /ɾ/.\nRepeat:\npero pero pero\nFaster, lighter\nThis puts your tongue in the right place.\n\nStep 2: Extend the airflow\nSay:\npe—ro\nHold the air longer.\nOften the trill appears accidentally first — that’s normal.\n\nWhat it should feel like (important):\nThe tongue buzzes\nYou are not controlling each hit\nAir pressure does the work\nThe sound is clean and fast, not dramatic\nA good trill is shorter than learners expect.\n\nAccent reality check (this helps psychologically)\nMany native speakers don’t trill perfectly every time\nCaribbean Spanish often weakens or drops it",
         "native_language": "english",
@@ -1044,9 +1044,9 @@
         "audio_dir": "R.  Rana -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "river2.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "What the Spanish trill r actually is\nThe trilled R (IPA /r/) is not an English r\nIt is rapid, repeated taps of the tongue tip against the alveolar ridge (the bumpy area just behind your top teeth), caused by airflow, not muscular flapping.\nThink: air makes the tongue vibrate — you don’t wag it.\n\nWhen Spanish uses the trill:\nSpanish uses two R sounds:\n\nR position    -    Sound\nSingle r between vowels   -   Tap /ɾ/ (pero)\nrr between vowels   -   Trill /r/ (perro)\nWord-initial r   -   Trill /r/ (rojo)\nr after l, n, s   -   Trill /r/ (alrededor, Enrique, Israel)\n\nSo:\ncaro = tap (expensive)\ncarro = trill (car)\nMiss this distinction and you change meaning.\n\nWhy English speakers fail (and what they do instead)\n\nEnglish r is:\nProduced with the tongue pulled back\nNo tongue-tip contact\nOften rounded lips\n\nSpanish trill requires the opposite:\nTongue forward\nTip loose\nStrong airflow\n\nCommon English-speaker errors:\nTurning it into English r\nTurning it into d\nClenching the tongue (kills vibration)\nTrying to “move” the tongue instead of letting air do it\n\nThe physical setup (this matters)\nPlace your tongue tip lightly on the alveolar ridge\n(same place as t or d, but relaxed)\nKeep the tongue loose, not pressed\nExhale steadily\nLet the tongue vibrate on its own\nIf you feel tension, stop — tension prevents trilling.\n\nA progression that actually works\nStep 1: Find the tap\n\nIf you can say Spanish pero, you already have /ɾ/.\nRepeat:\npero pero pero\nFaster, lighter\nThis puts your tongue in the right place.\n\nStep 2: Extend the airflow\nSay:\npe—ro\nHold the air longer.\nOften the trill appears accidentally first — that’s normal.\n\nWhat it should feel like (important):\nThe tongue buzzes\nYou are not controlling each hit\nAir pressure does the work\nThe sound is clean and fast, not dramatic\nA good trill is shorter than learners expect.\n\nAccent reality check (this helps psychologically)\nMany native speakers don’t trill perfectly every time\nCaribbean Spanish often weakens or drops it",
         "native_language": "english",
@@ -1062,9 +1062,9 @@
         "audio_dir": "R.  Río -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "clothing.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "What the Spanish trill r actually is\nThe trilled R (IPA /r/) is not an English r\nIt is rapid, repeated taps of the tongue tip against the alveolar ridge (the bumpy area just behind your top teeth), caused by airflow, not muscular flapping.\nThink: air makes the tongue vibrate — you don’t wag it.\n\nWhen Spanish uses the trill:\nSpanish uses two R sounds:\n\nR position    -    Sound\nSingle r between vowels   -   Tap /ɾ/ (pero)\nrr between vowels   -   Trill /r/ (perro)\nWord-initial r   -   Trill /r/ (rojo)\nr after l, n, s   -   Trill /r/ (alrededor, Enrique, Israel)\n\nSo:\ncaro = tap (expensive)\ncarro = trill (car)\nMiss this distinction and you change meaning.\n\nWhy English speakers fail (and what they do instead)\n\nEnglish r is:\nProduced with the tongue pulled back\nNo tongue-tip contact\nOften rounded lips\n\nSpanish trill requires the opposite:\nTongue forward\nTip loose\nStrong airflow\n\nCommon English-speaker errors:\nTurning it into English r\nTurning it into d\nClenching the tongue (kills vibration)\nTrying to “move” the tongue instead of letting air do it\n\nThe physical setup (this matters)\nPlace your tongue tip lightly on the alveolar ridge\n(same place as t or d, but relaxed)\nKeep the tongue loose, not pressed\nExhale steadily\nLet the tongue vibrate on its own\nIf you feel tension, stop — tension prevents trilling.\n\nA progression that actually works\nStep 1: Find the tap\n\nIf you can say Spanish pero, you already have /ɾ/.\nRepeat:\npero pero pero\nFaster, lighter\nThis puts your tongue in the right place.\n\nStep 2: Extend the airflow\nSay:\npe—ro\nHold the air longer.\nOften the trill appears accidentally first — that’s normal.\n\nWhat it should feel like (important):\nThe tongue buzzes\nYou are not controlling each hit\nAir pressure does the work\nThe sound is clean and fast, not dramatic\nA good trill is shorter than learners expect.\n\nAccent reality check (this helps psychologically)\nMany native speakers don’t trill perfectly every time\nCaribbean Spanish often weakens or drops it",
         "native_language": "english",
@@ -1080,9 +1080,9 @@
         "audio_dir": "R.  Ropa -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "barrel.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "What the Spanish trill r actually is\nThe trilled R (IPA /r/) is not an English r\nIt is rapid, repeated taps of the tongue tip against the alveolar ridge (the bumpy area just behind your top teeth), caused by airflow, not muscular flapping.\nThink: air makes the tongue vibrate — you don’t wag it.\n\nWhen Spanish uses the trill:\nSpanish uses two R sounds:\n\nR position    -    Sound\nSingle r between vowels   -   Tap /ɾ/ (pero)\nrr between vowels   -   Trill /r/ (perro)\nWord-initial r   -   Trill /r/ (rojo)\nr after l, n, s   -   Trill /r/ (alrededor, Enrique, Israel)\n\nSo:\ncaro = tap (expensive)\ncarro = trill (car)\nMiss this distinction and you change meaning.\n\nWhy English speakers fail (and what they do instead)\n\nEnglish r is:\nProduced with the tongue pulled back\nNo tongue-tip contact\nOften rounded lips\n\nSpanish trill requires the opposite:\nTongue forward\nTip loose\nStrong airflow\n\nCommon English-speaker errors:\nTurning it into English r\nTurning it into d\nClenching the tongue (kills vibration)\nTrying to “move” the tongue instead of letting air do it\n\nThe physical setup (this matters)\nPlace your tongue tip lightly on the alveolar ridge\n(same place as t or d, but relaxed)\nKeep the tongue loose, not pressed\nExhale steadily\nLet the tongue vibrate on its own\nIf you feel tension, stop — tension prevents trilling.\n\nA progression that actually works\nStep 1: Find the tap\n\nIf you can say Spanish pero, you already have /ɾ/.\nRepeat:\npero pero pero\nFaster, lighter\nThis puts your tongue in the right place.\n\nStep 2: Extend the airflow\nSay:\npe—ro\nHold the air longer.\nOften the trill appears accidentally first — that’s normal.\n\nWhat it should feel like (important):\nThe tongue buzzes\nYou are not controlling each hit\nAir pressure does the work\nThe sound is clean and fast, not dramatic\nA good trill is shorter than learners expect.\n\nAccent reality check (this helps psychologically)\nMany native speakers don’t trill perfectly every time\nCaribbean Spanish often weakens or drops it",
         "native_language": "english",
@@ -1098,9 +1098,9 @@
         "audio_dir": "RR.  Barril -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "run_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "What the Spanish trill r actually is\nThe trilled R (IPA /r/) is not an English r\nIt is rapid, repeated taps of the tongue tip against the alveolar ridge (the bumpy area just behind your top teeth), caused by airflow, not muscular flapping.\nThink: air makes the tongue vibrate — you don’t wag it.\n\nWhen Spanish uses the trill:\nSpanish uses two R sounds:\n\nR position    -    Sound\nSingle r between vowels   -   Tap /ɾ/ (pero)\nrr between vowels   -   Trill /r/ (perro)\nWord-initial r   -   Trill /r/ (rojo)\nr after l, n, s   -   Trill /r/ (alrededor, Enrique, Israel)\n\nSo:\ncaro = tap (expensive)\ncarro = trill (car)\nMiss this distinction and you change meaning.\n\nWhy English speakers fail (and what they do instead)\n\nEnglish r is:\nProduced with the tongue pulled back\nNo tongue-tip contact\nOften rounded lips\n\nSpanish trill requires the opposite:\nTongue forward\nTip loose\nStrong airflow\n\nCommon English-speaker errors:\nTurning it into English r\nTurning it into d\nClenching the tongue (kills vibration)\nTrying to “move” the tongue instead of letting air do it\n\nThe physical setup (this matters)\nPlace your tongue tip lightly on the alveolar ridge\n(same place as t or d, but relaxed)\nKeep the tongue loose, not pressed\nExhale steadily\nLet the tongue vibrate on its own\nIf you feel tension, stop — tension prevents trilling.\n\nA progression that actually works\nStep 1: Find the tap\n\nIf you can say Spanish pero, you already have /ɾ/.\nRepeat:\npero pero pero\nFaster, lighter\nThis puts your tongue in the right place.\n\nStep 2: Extend the airflow\nSay:\npe—ro\nHold the air longer.\nOften the trill appears accidentally first — that’s normal.\n\nWhat it should feel like (important):\nThe tongue buzzes\nYou are not controlling each hit\nAir pressure does the work\nThe sound is clean and fast, not dramatic\nA good trill is shorter than learners expect.\n\nAccent reality check (this helps psychologically)\nMany native speakers don’t trill perfectly every time\nCaribbean Spanish often weakens or drops it",
         "native_language": "english",
@@ -1116,9 +1116,9 @@
         "audio_dir": "RR.  Correr -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "dog.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "What the Spanish trill r actually is\nThe trilled R (IPA /r/) is not an English r\nIt is rapid, repeated taps of the tongue tip against the alveolar ridge (the bumpy area just behind your top teeth), caused by airflow, not muscular flapping.\nThink: air makes the tongue vibrate — you don’t wag it.\n\nWhen Spanish uses the trill:\nSpanish uses two R sounds:\n\nR position    -    Sound\nSingle r between vowels   -   Tap /ɾ/ (pero)\nrr between vowels   -   Trill /r/ (perro)\nWord-initial r   -   Trill /r/ (rojo)\nr after l, n, s   -   Trill /r/ (alrededor, Enrique, Israel)\n\nSo:\ncaro = tap (expensive)\ncarro = trill (car)\nMiss this distinction and you change meaning.\n\nWhy English speakers fail (and what they do instead)\n\nEnglish r is:\nProduced with the tongue pulled back\nNo tongue-tip contact\nOften rounded lips\n\nSpanish trill requires the opposite:\nTongue forward\nTip loose\nStrong airflow\n\nCommon English-speaker errors:\nTurning it into English r\nTurning it into d\nClenching the tongue (kills vibration)\nTrying to “move” the tongue instead of letting air do it\n\nThe physical setup (this matters)\nPlace your tongue tip lightly on the alveolar ridge\n(same place as t or d, but relaxed)\nKeep the tongue loose, not pressed\nExhale steadily\nLet the tongue vibrate on its own\nIf you feel tension, stop — tension prevents trilling.\n\nA progression that actually works\nStep 1: Find the tap\n\nIf you can say Spanish pero, you already have /ɾ/.\nRepeat:\npero pero pero\nFaster, lighter\nThis puts your tongue in the right place.\n\nStep 2: Extend the airflow\nSay:\npe—ro\nHold the air longer.\nOften the trill appears accidentally first — that’s normal.\n\nWhat it should feel like (important):\nThe tongue buzzes\nYou are not controlling each hit\nAir pressure does the work\nThe sound is clean and fast, not dramatic\nA good trill is shorter than learners expect.\n\nAccent reality check (this helps psychologically)\nMany native speakers don’t trill perfectly every time\nCaribbean Spanish often weakens or drops it",
         "native_language": "english",
@@ -1134,9 +1134,9 @@
         "audio_dir": "RR.  Perro -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "sun.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "S\nThe /s/ is one of the biggest regional markers in Spanish, especially in the Caribbean.\n\nThe “neutral / standard” Spanish S\nIn careful or “textbook” Spanish:\nS = always /s/\nNever becomes /z/ like English\nClearly pronounced at the end of syllables and words\n\nIn Cuban, Puerto Rican, Dominican, and much of coastal Venezuela/Colombia, syllable-final /s/ often weakens.\n\nThere are three common outcomes, in order of strength:\n1. Full /s/ (least common in casual speech)\nUsually in careful or emphatic speech\n\n2. Aspirated /h/\nThe most common form. Sounds like a light English h\n\nExamples:\nlos amigos → loh amigos\nestás aquí → ehtá aquí\n\n3. Complete deletion\nVery common in fast, casual speech\nExamples:\nlos dos → lo do\nestamos → etamo\n\nThe S is weakened only in certain positions:\nmás → má\npescado → pehcado / pecao\nlos niños → lo niño\nsaber, casa, así → S stays clear",
         "native_language": "english",
@@ -1152,9 +1152,9 @@
         "audio_dir": "S.  Sol -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "house.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "S\nThe /s/ is one of the biggest regional markers in Spanish, especially in the Caribbean.\n\nThe “neutral / standard” Spanish S\nIn careful or “textbook” Spanish:\nS = always /s/\nNever becomes /z/ like English\nClearly pronounced at the end of syllables and words\n\nIn Cuban, Puerto Rican, Dominican, and much of coastal Venezuela/Colombia, syllable-final /s/ often weakens.\n\nThere are three common outcomes, in order of strength:\n1. Full /s/ (least common in casual speech)\nUsually in careful or emphatic speech\n\n2. Aspirated /h/\nThe most common form. Sounds like a light English h\n\nExamples:\nlos amigos → loh amigos\nestás aquí → ehtá aquí\n\n3. Complete deletion\nVery common in fast, casual speech\nExamples:\nlos dos → lo do\nestamos → etamo\n\nThe S is weakened only in certain positions:\nmás → má\npescado → pehcado / pecao\nlos niños → lo niño\nsaber, casa, así → S stays clear",
         "native_language": "english",
@@ -1170,9 +1170,9 @@
         "audio_dir": "S.  Casa -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "samedifferent.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "S\nThe /s/ is one of the biggest regional markers in Spanish, especially in the Caribbean.\n\nThe “neutral / standard” Spanish S\nIn careful or “textbook” Spanish:\nS = always /s/\nNever becomes /z/ like English\nClearly pronounced at the end of syllables and words\n\nIn Cuban, Puerto Rican, Dominican, and much of coastal Venezuela/Colombia, syllable-final /s/ often weakens.\n\nThere are three common outcomes, in order of strength:\n1. Full /s/ (least common in casual speech)\nUsually in careful or emphatic speech\n\n2. Aspirated /h/\nThe most common form. Sounds like a light English h\n\nExamples:\nlos amigos → loh amigos\nestás aquí → ehtá aquí\n\n3. Complete deletion\nVery common in fast, casual speech\nExamples:\nlos dos → lo do\nestamos → etamo\n\nThe S is weakened only in certain positions:\nmás → má\npescado → pehcado / pecao\nlos niños → lo niño\nsaber, casa, así → S stays clear",
         "native_language": "english",
@@ -1188,9 +1188,9 @@
         "audio_dir": "S.  Misma -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "time.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "T\n\nSubtly different\n\nSpanish t is dental, clean\n\nEnglish t is aspirated or reduced\n\nNo flapping like English water.",
         "native_language": "english",
@@ -1206,9 +1206,9 @@
         "audio_dir": "T.  Tiempo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "tiger.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "T\n\nSubtly different\n\nSpanish t is dental, clean\n\nEnglish t is aspirated or reduced\n\nNo flapping like English water.",
         "native_language": "english",
@@ -1224,9 +1224,9 @@
         "audio_dir": "T.  Tigre -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "food.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "T\n\nSubtly different\n\nSpanish t is dental, clean\n\nEnglish t is aspirated or reduced\n\nNo flapping like English water.",
         "native_language": "english",
@@ -1242,9 +1242,9 @@
         "audio_dir": "T.  Tonto -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "fingernail.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "U\n\nDifferent\n\nSpanish u = clean /u/\n\nEnglish “u” varies wildly\n\n🔹 Often silent after g/q.",
         "native_language": "english",
@@ -1260,9 +1260,9 @@
         "audio_dir": "U.  Uña -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "grapes.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "U\n\nDifferent\n\nSpanish u = clean /u/\n\nEnglish “u” varies wildly\n\n🔹 Often silent after g/q.",
         "native_language": "english",
@@ -1278,9 +1278,9 @@
         "audio_dir": "U.  Uva -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "noise_p.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "U\n\nDifferent\n\nSpanish u = clean /u/\n\nEnglish “u” varies wildly\n\n🔹 Often silent after g/q.",
         "native_language": "english",
@@ -1296,9 +1296,9 @@
         "audio_dir": "U.  Ruido -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "cow.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "B / V\n\nDifferent (merged in Spanish)\n\nSpanish b and v sound the same\n\nBetween vowels they soften to a light /β/ (almost like a soft b)\n\n🔹 English distinction between b and v does not exist.",
         "native_language": "english",
@@ -1314,9 +1314,9 @@
         "audio_dir": "V.  Vaca -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "left_alive_right_dead_tree.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "B / V\n\nDifferent (merged in Spanish)\n\nSpanish b and v sound the same\n\nBetween vowels they soften to a light /β/ (almost like a soft b)\n\n🔹 English distinction between b and v does not exist.",
         "native_language": "english",
@@ -1332,9 +1332,9 @@
         "audio_dir": "V.  Vida -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "deadalive.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "B / V\n\nDifferent (merged in Spanish)\n\nSpanish b and v sound the same\n\nBetween vowels they soften to a light /β/ (almost like a soft b)\n\n🔹 English distinction between b and v does not exist.",
         "native_language": "english",
@@ -1350,9 +1350,9 @@
         "audio_dir": "V.  Vivo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "web.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "W\n\nLoanwords only\n\nPronunciation varies",
         "native_language": "english",
@@ -1368,9 +1368,9 @@
         "audio_dir": "W.  Web -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "whiskey.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "W\n\nLoanwords only\n\nPronunciation varies",
         "native_language": "english",
@@ -1386,9 +1386,9 @@
         "audio_dir": "W.  Whisky -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "wok.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "W\n\nLoanwords only\n\nPronunciation varies",
         "native_language": "english",
@@ -1404,9 +1404,9 @@
         "audio_dir": "W.  Wok -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "exam.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "X\n\nDifferent usage\n\nUsually /ks/\n\nSometimes /s/ or /x/ in names",
         "native_language": "english",
@@ -1422,9 +1422,9 @@
         "audio_dir": "X.  Examen -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "text.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "X\n\nDifferent usage\n\nUsually /ks/\n\nSometimes /s/ or /x/ in names",
         "native_language": "english",
@@ -1440,9 +1440,9 @@
         "audio_dir": "X.  Texto -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "xylophone.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "X\n\nDifferent usage\n\nUsually /ks/\n\nSometimes /s/ or /x/ in names",
         "native_language": "english",
@@ -1458,9 +1458,9 @@
         "audio_dir": "X.  Xilófono -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "me.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Y\n\nDepends\n\nConsonant: like ll\n\nVowel: like i",
         "native_language": "english",
@@ -1476,9 +1476,9 @@
         "audio_dir": "Y.  Yo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "yo-yo.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Y\n\nDepends\n\nConsonant: like ll\n\nVowel: like i",
         "native_language": "english",
@@ -1494,9 +1494,9 @@
         "audio_dir": "Y.  Yoyo -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "help_m.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Y\n\nDepends\n\nConsonant: like ll\n\nVowel: like i",
         "native_language": "english",
@@ -1512,9 +1512,9 @@
         "audio_dir": "Y.  Ayuda -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "shoe.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Z\n\nDifferent\n\nLatAm: /s/\n\nSpain: /θ/\n\n🔹 No English equivalent spelling-to-sound rule.",
         "native_language": "english",
@@ -1530,9 +1530,9 @@
         "audio_dir": "Z.  Zapato -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "blue_sky.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Z\n\nDifferent\n\nLatAm: /s/\n\nSpain: /θ/\n\n🔹 No English equivalent spelling-to-sound rule.",
         "native_language": "english",
@@ -1548,9 +1548,9 @@
         "audio_dir": "Z.  Azul -"
     },
     {
-        "level": "vocab",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "pizza.jpg",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": "Z\n\nDifferent\n\nLatAm: /s/\n\nSpain: /θ/\n\n🔹 No English equivalent spelling-to-sound rule.",
         "native_language": "english",
@@ -1566,9 +1566,9 @@
         "audio_dir": "Z.  Pizza -"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "The subtle thing English speakers miss most\nSpanish does not weaken word endings\n-ado, -ido, -ente, -ción → all clearly pronounced\nEnglish reduces: wanted → want-əd\nSpanish does not do this. Every vowel survives.\n\nlisten to\n-ado → hablado (“spoken”)\n-ido → vivido (“lived”)\n-ente → presente (“present”)\n-ción → información (“information”)",
         "native_language": "english",
@@ -1584,9 +1584,9 @@
         "audio_dir": "hablado. vivido. presente. información."
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Tap R /ɾ/ (not just the trill)\nMany focus on the trill, but the tap causes more errors.\nSounds like a very fast d\nThis sound exists in English only accidentally (the “tt” in butter), so people don’t notice it.\n\nlisten to:\npero\ncara\nmira",
         "native_language": "english",
@@ -1602,9 +1602,9 @@
         "audio_dir": "pero. cara. mira."
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "The soft B/V (/β/)\nThis one is huge and almost never taught well.\nBetween vowels: b/v ≈ soft friction sound\nLips barely touch; no full stop\nEnglish speakers make it a hard b or v, which sounds foreign but still understandable.\n\nlisten to:\nsaber\nla vida\nhaber",
         "native_language": "english",
@@ -1620,9 +1620,9 @@
         "audio_dir": "saber. la vida. haber."
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "The soft D (/ð/)\n\nAnother quiet one.\nd between vowels = th in this\nNot as strong as English th\nThis is part of why -do endings sound “lighter” in native speech without disappearing.\n\nExamples:\ncada\nnada\nhablado",
         "native_language": "english",
@@ -1638,9 +1638,9 @@
         "audio_dir": "cada. nada. hablado."
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "The Spanish G between vowels (/ɣ/)\n\nThis is the sibling of the soft B/D.\nBetween vowels: g becomes a soft friction sound\nNot a hard stop\nEnglish speakers usually pronounce a full g, which stiffens the word.\n\nlisten to:\nlago\namigo\nllegar (after vowel)",
         "native_language": "english",
@@ -1656,9 +1656,9 @@
         "audio_dir": "lago. amigo. llegar."
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Ñ (/ɲ/)\n\nYou know it exists, but people underestimate how tight it is.\nNot “n + y”\nSingle palatal sound\n\nCompare:\naño\nanio (different word!)",
         "native_language": "english",
@@ -1674,9 +1674,9 @@
         "audio_dir": "año. anio."
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "LL / Y (/ʝ/ family)\n\nThis one varies by region, but it’s not English-like anywhere.\nDepending on dialect:\nSoft y\nzh (like vision)\nsh\nEnglish speakers default to y, which is often too weak.\n\nlisten to:\nllamar — to call\ncalle — street\nayer — yesterday",
         "native_language": "english",
@@ -1692,9 +1692,9 @@
         "audio_dir": "llamar. calle. ayer"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "The Spanish J / G (ge, gi) (/x/)\n\nYou mentioned g, but this deserves its own slot.\nThroaty, but not a growl\nProduced further forward than Arabic or Hebrew\nEnglish has no equivalent.\n\nlisten to:\njugar — to play\ngente — people\ntrabajo — work",
         "native_language": "english",
@@ -1710,9 +1710,9 @@
         "audio_dir": "jugar. gente. trabajo"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Unaspirated stops (P, T, K)\nThese are subtle but audible.\nSpanish p/t/k lack the puff of air English has\nEspecially noticeable at word starts\nEnglish speakers blow too much air.\n\nTry:\npapa\ntaco\ncasa",
         "native_language": "english",
@@ -1728,9 +1728,9 @@
         "audio_dir": "papa. taco. casa"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "Rhythm\nSpanish is syllable-timed.\n\nEach syllable:\nGets time\nGets a vowel\nGets clarity\nEnglish collapses unstressed syllables.\nThis is why Spanish can sound “machine-gun fast” but is actually very even.",
         "native_language": "english",
@@ -1746,9 +1746,9 @@
         "audio_dir": "No lo puedo creer"
     },
     {
-        "level": "reading",
-        "image_filename": "f.jpg",
-        "card_type": "english",
+        "level": 1.0,
+        "image_filename": "x.jpg",
+        "card_type": "reading",
         "identifier": "ID",
         "info": "In Caribbean Spanish (Cuba, Puerto Rico, coastal Venezuela, etc.), there are specific, predictable reductions in casual speech.\nThe key one here is:\n-ado → -ao\nnublado → nublao\ncansado → cansao\nmojado → mojao",
         "native_language": "english",
