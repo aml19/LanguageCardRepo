@@ -451,25 +451,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "2 action verbs",
-        "native_answer": "throw away",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "jeter",
-        "goal_words": "jeter",
-        "audio_filename": "line26jan26_fr_369.mp3",
-        "audio_dir": "jeter"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "throw_m.jpg",
+        "image_filename": "sit.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
@@ -628,5 +610,23 @@
         "goal_words": "mordre",
         "audio_filename": "lineoct_fr_1003.mp3",
         "audio_dir": "mordre"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "throw_away_m.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": "In French, the infinitive verb form is the base or root form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. In English, infinitive verbs are usually preceded by \"to,\" such as \"to eat,\" \"to sleep,\" or \"to study.\" In French, infinitive verbs are typically one word and end in -er, -ir, or -re.\n\nThere are three main groups of verbs in French, each identified by its infinitive ending:\n\n-er Verbs:\n\nExamples: manger (to eat), parler (to speak), aimer (to love)\nThe majority of French verbs belong to this group.\n-ir Verbs:\n\nExamples: finir (to finish), choisir (to choose), partir (to leave)\nThis group includes verbs that end in -ir.\n-re Verbs:\n\nExamples: vendre (to sell), attendre (to wait), entendre (to hear)\nThis group includes verbs that end in -re.\nConjugation is the process of changing the verb form to match the subject of a sentence, and it depends on the tense, mood, and person. The infinitive form is useful because it allows you to identify the verb and its group, but in sentences, you'll need to conjugate the verb according to the specific context.",
+        "native_language": "english",
+        "learning_language": "french",
+        "native_group": "2 action verbs",
+        "native_answer": "throw away",
+        "native_word": "verb - object",
+        "tag": "verb - object",
+        "prompt": "______",
+        "answer": "jeter",
+        "goal_words": "jeter",
+        "audio_filename": "line26jan26_fr_369.mp3",
+        "audio_dir": "jeter"
     }
 ]

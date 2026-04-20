@@ -451,25 +451,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "2 action verbs",
-        "native_answer": "throw away",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "wegwerfen",
-        "goal_words": "wegwerfen",
-        "audio_filename": "line26jan26_de_565.mp3",
-        "audio_dir": "wegwerfen"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "throw_m.jpg",
+        "image_filename": "sit.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
@@ -628,5 +610,23 @@
         "goal_words": "beißen",
         "audio_filename": "lineoct_de_69.mp3",
         "audio_dir": "beißen"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "throw_away_m.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": "In German, the infinitive is the base form of a verb. It is the unconjugated form of the verb that you would find in the dictionary. Unlike English, where the infinitive is typically preceded by \"to,\" German infinitive verbs are one-word forms that end in -en or -n. However, there are irregular verbs that may have a different infinitive ending.\n\nFor regular verbs, the infinitive endings are:\n\n-en Verbs:\n\nExamples: lesen (to read), schreiben (to write), trinken (to drink)\nMost German verbs belong to this group.\n-n Verbs:\n\nExample: tun (to do), sein (to be)\nA few German verbs end in -n in the infinitive.\nInfinitive verbs in German serve as the base for conjugation, much like in English and other languages. Conjugation involves changing the verb form to match the subject of a sentence and may also involve changes for tense, mood, and person.",
+        "native_language": "english",
+        "learning_language": "german",
+        "native_group": "2 action verbs",
+        "native_answer": "throw away",
+        "native_word": "verb - object",
+        "tag": "verb - object",
+        "prompt": "______",
+        "answer": "wegwerfen",
+        "goal_words": "wegwerfen",
+        "audio_filename": "line26jan26_de_565.mp3",
+        "audio_dir": "wegwerfen"
     }
 ]

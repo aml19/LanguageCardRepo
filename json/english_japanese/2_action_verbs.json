@@ -451,25 +451,7 @@
     },
     {
         "level": 2.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "2 action verbs",
-        "native_answer": "throw away",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "捨てる",
-        "goal_words": "捨てる",
-        "audio_filename": "line26jan26_ja_472.mp3",
-        "audio_dir": "捨てる"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "throw_m.jpg",
+        "image_filename": "sit.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
@@ -628,5 +610,23 @@
         "goal_words": "噛む",
         "audio_filename": "lineoct_ja_488.mp3",
         "audio_dir": "噛む"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "throw_away_m.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 action verbs",
+        "native_answer": "throw away",
+        "native_word": "verb - object",
+        "tag": "verb - object",
+        "prompt": "______",
+        "answer": "捨てる",
+        "goal_words": "捨てる",
+        "audio_filename": "line26jan26_ja_472.mp3",
+        "audio_dir": "捨てる"
     }
 ]
