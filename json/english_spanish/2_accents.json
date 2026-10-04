@@ -1,7 +1,7 @@
 [
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc1.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -15,11 +15,11 @@
         "answer": "papa / papá",
         "goal_words": "",
         "audio_filename": "lineoct_es_1052.mp3",
-        "audio_dir": "papa / papá"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc2.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -33,11 +33,11 @@
         "answer": "mama / mamá",
         "goal_words": "",
         "audio_filename": "lineoct_es_949.mp3",
-        "audio_dir": "mama / mamá"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "take_treat.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -51,11 +51,11 @@
         "answer": "tomo / tomó",
         "goal_words": "",
         "audio_filename": "lineoct_es_1327.mp3",
-        "audio_dir": "tomo / tomó"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "sing_p.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -69,11 +69,11 @@
         "answer": "canto / cantó",
         "goal_words": "",
         "audio_filename": "lineoct_es_214.mp3",
-        "audio_dir": "canto / cantó"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "speak_p.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -87,11 +87,11 @@
         "answer": "hablo / habló",
         "goal_words": "",
         "audio_filename": "lineoct_es_764.mp3",
-        "audio_dir": "hablo / habló"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "finish.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -105,11 +105,11 @@
         "answer": "termino / terminó",
         "goal_words": "",
         "audio_filename": "lineoct_es_1308.mp3",
-        "audio_dir": "termino / terminó"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "walk_f.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -123,11 +123,11 @@
         "answer": "camino / caminó",
         "goal_words": "",
         "audio_filename": "lineoct_es_208.mp3",
-        "audio_dir": "camino / caminó"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "dance_f.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -141,11 +141,11 @@
         "answer": "bailo / bailó",
         "goal_words": "",
         "audio_filename": "lineoct_es_171.mp3",
-        "audio_dir": "bailo / bailó"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "jump_m.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -159,11 +159,11 @@
         "answer": "salto / saltó",
         "goal_words": "",
         "audio_filename": "lineoct_es_1205.mp3",
-        "audio_dir": "salto / saltó"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc3.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -177,11 +177,11 @@
         "answer": "pico / picó",
         "goal_words": "",
         "audio_filename": "lineoct_es_1099.mp3",
-        "audio_dir": "pico / picó"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "practice.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -195,11 +195,11 @@
         "answer": "practico / practicó",
         "goal_words": "",
         "audio_filename": "lineoct_es_1123.mp3",
-        "audio_dir": "practico / practicó"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "study_m.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -213,11 +213,11 @@
         "answer": "estudio / estudió",
         "goal_words": "",
         "audio_filename": "lineoct_es_675.mp3",
-        "audio_dir": "estudio / estudió"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "work_m.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -231,11 +231,11 @@
         "answer": "trabajo / trabajó",
         "goal_words": "",
         "audio_filename": "lineoct_es_1337.mp3",
-        "audio_dir": "trabajo / trabajó"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "play_p.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -249,11 +249,11 @@
         "answer": "juego / jugó",
         "goal_words": "",
         "audio_filename": "lineoct_es_842.mp3",
-        "audio_dir": "juego / jugó"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "cut.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -267,11 +267,11 @@
         "answer": "corte / corté",
         "goal_words": "",
         "audio_filename": "lineoct_es_277.mp3",
-        "audio_dir": "corte / corté"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc4.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -285,47 +285,47 @@
         "answer": "sabana / sábana",
         "goal_words": "",
         "audio_filename": "lineoct_es_1197.mp3",
-        "audio_dir": "sabana / sábana"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "limit.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "2 accents",
-        "native_answer": "limit / limit!",
+        "native_answer": "limit / limit (verb)",
         "native_word": "accent",
         "tag": "accent",
         "prompt": "limite / límite",
         "answer": "limite / límite",
         "goal_words": "",
         "audio_filename": "lineoct_es_896.mp3",
-        "audio_dir": "limite / límite"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc5.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "2 accents",
-        "native_answer": "article (grammar) / article (text, law)",
+        "native_answer": "I articulate / article (text, law)",
         "native_word": "accent",
         "tag": "accent",
         "prompt": "articulo / artículo",
         "answer": "articulo / artículo",
         "goal_words": "",
         "audio_filename": "lineoct_es_151.mp3",
-        "audio_dir": "articulo / artículo"
+        "learning_tag": "acento"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc6.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -339,6 +339,96 @@
         "answer": "publico / publicó",
         "goal_words": "",
         "audio_filename": "lineoct_es_1136.mp3",
-        "audio_dir": "publico / publicó"
+        "learning_tag": "acento"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "acc38.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 accents",
+        "native_answer": "solid - out",
+        "native_word": "accent",
+        "tag": "accent",
+        "prompt": "sólido - salido : SÓ-li-do - sa-LI-do",
+        "answer": "sólido - salido : SÓ-li-do - sa-LI-do",
+        "goal_words": "SÓ-li-do - sa-LI-do",
+        "audio_filename": "line10June26_es_480.mp3",
+        "learning_tag": "acento"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "acc39.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 accents",
+        "native_answer": "liquid - bandit",
+        "native_word": "accent",
+        "tag": "accent",
+        "prompt": "líquido - bandido : LÍ-qui-do - ban-DI-do",
+        "answer": "líquido - bandido : LÍ-qui-do - ban-DI-do",
+        "goal_words": "LÍ-qui-do - ban-DI-do",
+        "audio_filename": "line10June26_es_267.mp3",
+        "learning_tag": "acento"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "acc40.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 accents",
+        "native_answer": "quick - match",
+        "native_word": "accent",
+        "tag": "accent",
+        "prompt": "rápido - partido : RA-pi-do - par-TI-do",
+        "answer": "rápido - partido : RA-pi-do - par-TI-do",
+        "goal_words": "RA-pi-do - par-TI-do",
+        "audio_filename": "line10June26_es_440.mp3",
+        "learning_tag": "acento"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "acc41.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 accents",
+        "native_answer": "merit - beautiful",
+        "native_word": "accent",
+        "tag": "accent",
+        "prompt": "mérito - bonito : MÉ-ri-to - bo-NI-to",
+        "answer": "mérito - bonito : MÉ-ri-to - bo-NI-to",
+        "goal_words": "MÉ-ri-to - bo-NI-to",
+        "audio_filename": "line10June26_es_323.mp3",
+        "learning_tag": "acento"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "acc42.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 accents",
+        "native_answer": "number - pointer",
+        "native_word": "accent",
+        "tag": "accent",
+        "prompt": "número - puntero : NÚ-me-ro - pun-TE-ro",
+        "answer": "número - puntero : NÚ-me-ro - pun-TE-ro",
+        "goal_words": "NÚ-me-ro - pun-TE-ro",
+        "audio_filename": "line10June26_es_359.mp3",
+        "learning_tag": "acento"
     }
 ]

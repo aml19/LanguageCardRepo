@@ -15,7 +15,7 @@
         "answer": "drink",
         "goal_words": "drink",
         "audio_filename": "line_en_736.mp3",
-        "audio_dir": "drink"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "jump",
         "goal_words": "jump",
         "audio_filename": "line2_en_434.mp3",
-        "audio_dir": "jump"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "sleep",
         "goal_words": "sleep",
         "audio_filename": "line3_en_764.mp3",
-        "audio_dir": "sleep"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "swim",
         "goal_words": "swim",
         "audio_filename": "line3_en_929.mp3",
-        "audio_dir": "swim"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "stop",
         "goal_words": "stop",
         "audio_filename": "line3_en_869.mp3",
-        "audio_dir": "stop"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "leave",
         "goal_words": "leave",
         "audio_filename": "line2_en_495.mp3",
-        "audio_dir": "leave"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "push it",
         "goal_words": "push",
         "audio_filename": "line3_en_207.mp3",
-        "audio_dir": "push it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "throw it",
         "goal_words": "throw",
         "audio_filename": "line4_en_437.mp3",
-        "audio_dir": "throw it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "try it",
         "goal_words": "try",
         "audio_filename": "line4_en_596.mp3",
-        "audio_dir": "try it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "forget it",
         "goal_words": "forget",
         "audio_filename": "line_en_920.mp3",
-        "audio_dir": "forget it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "grab this",
         "goal_words": "grab",
         "audio_filename": "line_en_999.mp3",
-        "audio_dir": "grab this"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "say something",
         "goal_words": "say",
         "audio_filename": "line3_en_375.mp3",
-        "audio_dir": "say something"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "call me",
         "goal_words": "call",
         "audio_filename": "line_en_420.mp3",
-        "audio_dir": "call me"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "play with me",
         "goal_words": "play",
         "audio_filename": "line3_en_138.mp3",
-        "audio_dir": "play with me"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -260,14 +260,14 @@
         "native_language": "german",
         "learning_language": "english",
         "native_group": "3 Verben - Befehle",
-        "native_answer": "Lies das Buch!",
+        "native_answer": "Lies das Buch, wenn du kannst",
         "native_word": "Befehle",
         "tag": "Befehle",
-        "prompt": "______ the book",
-        "answer": "read the book",
+        "prompt": "______ the book when you can",
+        "answer": "read the book when you can",
         "goal_words": "read",
-        "audio_filename": "line3_en_234.mp3",
-        "audio_dir": "read the book"
+        "audio_filename": "line10June26_en_322.mp3",
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -281,11 +281,11 @@
         "native_answer": "Gib es mir!",
         "native_word": "Befehle",
         "tag": "Befehle",
-        "prompt": "______ it to me",
-        "answer": "give it to me",
+        "prompt": "______ it to me, please",
+        "answer": "give it to me, please",
         "goal_words": "give",
-        "audio_filename": "line_en_977.mp3",
-        "audio_dir": "give it to me"
+        "audio_filename": "line10June26_en_129.mp3",
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -299,15 +299,15 @@
         "native_answer": "Gib es ihm!",
         "native_word": "Befehle",
         "tag": "Befehle",
-        "prompt": "______ it to him",
-        "answer": "give it to him",
+        "prompt": "______ it to him now",
+        "answer": "give it to him now",
         "goal_words": "give",
-        "audio_filename": "line_en_976.mp3",
-        "audio_dir": "give it to him"
+        "audio_filename": "line10June26_en_128.mp3",
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
-        "image_filename": "teach_code_m.jpg",
+        "image_filename": "learn_m.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -320,8 +320,8 @@
         "prompt": "______ me",
         "answer": "teach me",
         "goal_words": "teach",
-        "audio_filename": "line3_en_963.mp3",
-        "audio_dir": "teach me"
+        "audio_filename": "line27aug2026_en_252.mp3",
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -335,11 +335,11 @@
         "native_answer": "Komm hierher!",
         "native_word": "Befehle",
         "tag": "Befehle",
-        "prompt": "______ here",
-        "answer": "come here",
+        "prompt": "______ here now",
+        "answer": "come here now",
         "goal_words": "come",
-        "audio_filename": "line_en_521.mp3",
-        "audio_dir": "come here"
+        "audio_filename": "line10June26_en_68.mp3",
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -357,7 +357,7 @@
         "answer": "cook some food",
         "goal_words": "cook",
         "audio_filename": "line_en_557.mp3",
-        "audio_dir": "cook some food"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -375,7 +375,7 @@
         "answer": "think about it",
         "goal_words": "think",
         "audio_filename": "line4_en_414.mp3",
-        "audio_dir": "think about it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -393,7 +393,7 @@
         "answer": "don't drink",
         "goal_words": "drink",
         "audio_filename": "line_en_695.mp3",
-        "audio_dir": "don't drink"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -411,7 +411,7 @@
         "answer": "don't jump",
         "goal_words": "jump",
         "audio_filename": "line_en_703.mp3",
-        "audio_dir": "don't jump"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -429,7 +429,7 @@
         "answer": "don't sleep",
         "goal_words": "sleep",
         "audio_filename": "line_en_709.mp3",
-        "audio_dir": "don't sleep"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -447,7 +447,7 @@
         "answer": "don't swim",
         "goal_words": "swim",
         "audio_filename": "line_en_712.mp3",
-        "audio_dir": "don't swim"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -465,7 +465,7 @@
         "answer": "don't stop",
         "goal_words": "stop",
         "audio_filename": "line_en_711.mp3",
-        "audio_dir": "don't stop"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -483,7 +483,7 @@
         "answer": "don't leave",
         "goal_words": "leave",
         "audio_filename": "line_en_704.mp3",
-        "audio_dir": "don't leave"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -501,7 +501,7 @@
         "answer": "don't fall",
         "goal_words": "fall",
         "audio_filename": "line_en_696.mp3",
-        "audio_dir": "don't fall"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -519,7 +519,7 @@
         "answer": "don't push it",
         "goal_words": "push",
         "audio_filename": "line_en_706.mp3",
-        "audio_dir": "don't push it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -537,7 +537,7 @@
         "answer": "don't throw it",
         "goal_words": "throw",
         "audio_filename": "line_en_716.mp3",
-        "audio_dir": "don't throw it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -555,7 +555,7 @@
         "answer": "don't try it",
         "goal_words": "try",
         "audio_filename": "line_en_717.mp3",
-        "audio_dir": "don't try it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -573,7 +573,7 @@
         "answer": "don't forget it",
         "goal_words": "forget",
         "audio_filename": "line_en_697.mp3",
-        "audio_dir": "don't forget it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -591,7 +591,7 @@
         "answer": "don't grab this",
         "goal_words": "grab",
         "audio_filename": "line_en_701.mp3",
-        "audio_dir": "don't grab this"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -609,7 +609,7 @@
         "answer": "don't say anything",
         "goal_words": "say",
         "audio_filename": "line24jan26_3_en_12.mp3",
-        "audio_dir": "don't say anything"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -627,7 +627,7 @@
         "answer": "don't call me",
         "goal_words": "call",
         "audio_filename": "line_en_692.mp3",
-        "audio_dir": "don't call me"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -645,7 +645,7 @@
         "answer": "don't play with me",
         "goal_words": "play",
         "audio_filename": "line_en_705.mp3",
-        "audio_dir": "don't play with me"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -663,7 +663,7 @@
         "answer": "don't read the book",
         "goal_words": "read",
         "audio_filename": "line_en_707.mp3",
-        "audio_dir": "don't read the book"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -681,7 +681,7 @@
         "answer": "don't give it to me",
         "goal_words": "give",
         "audio_filename": "line_en_699.mp3",
-        "audio_dir": "don't give it to me"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -699,7 +699,7 @@
         "answer": "don't give it to him",
         "goal_words": "give",
         "audio_filename": "line_en_698.mp3",
-        "audio_dir": "don't give it to him"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -717,7 +717,7 @@
         "answer": "don't teach me",
         "goal_words": "teach",
         "audio_filename": "line_en_714.mp3",
-        "audio_dir": "don't teach me"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -735,7 +735,7 @@
         "answer": "don't come here",
         "goal_words": "come",
         "audio_filename": "line_en_693.mp3",
-        "audio_dir": "don't come here"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -753,7 +753,7 @@
         "answer": "don't cook the food",
         "goal_words": "cook",
         "audio_filename": "line24jan26_3_en_11.mp3",
-        "audio_dir": "don't cook the food"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -771,7 +771,7 @@
         "answer": "don't think about it",
         "goal_words": "think",
         "audio_filename": "line_en_715.mp3",
-        "audio_dir": "don't think about it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -789,7 +789,7 @@
         "answer": "speak",
         "goal_words": "speak",
         "audio_filename": "line3_en_818.mp3",
-        "audio_dir": "speak"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -807,7 +807,7 @@
         "answer": "be careful",
         "goal_words": "be careful",
         "audio_filename": "line_en_256.mp3",
-        "audio_dir": "be careful"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -825,7 +825,7 @@
         "answer": "use this",
         "goal_words": "use",
         "audio_filename": "line4_en_643.mp3",
-        "audio_dir": "use this"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -843,7 +843,7 @@
         "answer": "hold this",
         "goal_words": "hold",
         "audio_filename": "line_en_1448.mp3",
-        "audio_dir": "hold this"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -861,7 +861,7 @@
         "answer": "ask him",
         "goal_words": "ask",
         "audio_filename": "line_en_209.mp3",
-        "audio_dir": "ask him"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -879,7 +879,7 @@
         "answer": "help me",
         "goal_words": "help",
         "audio_filename": "line_en_1417.mp3",
-        "audio_dir": "help me"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -897,7 +897,7 @@
         "answer": "go with her",
         "goal_words": "go",
         "audio_filename": "line_en_985.mp3",
-        "audio_dir": "go with her"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -915,7 +915,7 @@
         "answer": "don't help me",
         "goal_words": "help",
         "audio_filename": "line_en_702.mp3",
-        "audio_dir": "don't help me"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -933,7 +933,7 @@
         "answer": "don't go with her",
         "goal_words": "go",
         "audio_filename": "line_en_700.mp3",
-        "audio_dir": "don't go with her"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -951,7 +951,7 @@
         "answer": "dance",
         "goal_words": "dance",
         "audio_filename": "line_en_604.mp3",
-        "audio_dir": "dance"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -969,11 +969,11 @@
         "answer": "pull it",
         "goal_words": "pull",
         "audio_filename": "line3_en_197.mp3",
-        "audio_dir": "pull it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
-        "image_filename": "drop_mic_mic_p.jpg",
+        "image_filename": "drop_mic_p.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -987,7 +987,7 @@
         "answer": "drop it",
         "goal_words": "drop",
         "audio_filename": "line_en_746.mp3",
-        "audio_dir": "drop it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -1005,7 +1005,7 @@
         "answer": "carry this",
         "goal_words": "carry",
         "audio_filename": "line_en_443.mp3",
-        "audio_dir": "carry this"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -1023,7 +1023,7 @@
         "answer": "take one",
         "goal_words": "take",
         "audio_filename": "line3_en_948.mp3",
-        "audio_dir": "take one"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -1041,7 +1041,7 @@
         "answer": "(you all) don't drop it",
         "goal_words": "drop",
         "audio_filename": "line24jan26_3_en_7.mp3",
-        "audio_dir": "don't drop it"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -1059,7 +1059,7 @@
         "answer": "don't take one",
         "goal_words": "take",
         "audio_filename": "line_en_713.mp3",
-        "audio_dir": "don't take one"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -1077,7 +1077,7 @@
         "answer": "let's eat",
         "goal_words": "eat",
         "audio_filename": "line2_en_504.mp3",
-        "audio_dir": "let's eat"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -1095,7 +1095,7 @@
         "answer": "let's study",
         "goal_words": "study",
         "audio_filename": "line2_en_507.mp3",
-        "audio_dir": "let's study"
+        "learning_tag": "command"
     },
     {
         "level": 3.0,
@@ -1113,6 +1113,6 @@
         "answer": "let's sing",
         "goal_words": "sing",
         "audio_filename": "line2_en_506.mp3",
-        "audio_dir": "let's sing"
+        "learning_tag": "command"
     }
 ]

@@ -11,11 +11,11 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ – (literally \"shit\")",
+        "prompt": "Merde – (literally \"shit\")",
         "answer": "Merde – (literally \"shit\")",
         "goal_words": "Merde",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "jurer"
     },
     {
         "level": 4.0,
@@ -29,11 +29,11 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ – (equivalent to \"damn\" or \"whore\")",
+        "prompt": "Putain – (equivalent to \"damn\" or \"whore\")",
         "answer": "Putain – (equivalent to \"damn\" or \"whore\")",
         "goal_words": "Putain",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "jurer"
     },
     {
         "level": 4.0,
@@ -47,11 +47,11 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ / Connasse – (offensive, roughly equivalent to \"asshole\" or \"bitch\")",
+        "prompt": "Connard / Connasse – (offensive, roughly equivalent to \"asshole\" or \"bitch\")",
         "answer": "Connard / Connasse – (offensive, roughly equivalent to \"asshole\" or \"bitch\")",
         "goal_words": "Connard",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "jurer"
     },
     {
         "level": 4.0,
@@ -65,11 +65,11 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ – (offensive, similar to \"bastard\")",
+        "prompt": "Salaud – (offensive, similar to \"bastard\")",
         "answer": "Salaud – (offensive, similar to \"bastard\")",
         "goal_words": "Salaud",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "jurer"
     },
     {
         "level": 4.0,
@@ -83,11 +83,11 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ – (extremely vulgar, literally \"fucker\")",
+        "prompt": "Enculé – (extremely vulgar, literally \"fucker\")",
         "answer": "Enculé – (extremely vulgar, literally \"fucker\")",
         "goal_words": "Enculé",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "jurer"
     },
     {
         "level": 4.0,
@@ -101,10 +101,10 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ – (literally \"ass\", used in various expressions)",
+        "prompt": "Cul – (literally \"ass\", used in various expressions)",
         "answer": "Cul – (literally \"ass\", used in various expressions)",
         "goal_words": "Cul",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "jurer"
     }
 ]

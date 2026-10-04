@@ -15,7 +15,7 @@
         "answer": "equipaje",
         "goal_words": "equipaje",
         "audio_filename": "line2_es_986.mp3",
-        "audio_dir": "equipaje"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "reclamación de equipaje",
         "goal_words": "reclamación de equipaje",
         "audio_filename": "line4_es_720.mp3",
-        "audio_dir": "reclamación de equipaje"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "vuelo",
         "goal_words": "vuelo",
         "audio_filename": "line5_es_895.mp3",
-        "audio_dir": "vuelo"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "pantalla rota",
         "goal_words": "pantalla",
         "audio_filename": "line4_es_441.mp3",
-        "audio_dir": "pantalla rota"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "Firmar",
         "goal_words": "Firmar",
         "audio_filename": "line3_es_226.mp3",
-        "audio_dir": "Firmar"
+        "learning_tag": "sustantivo - Objetos cotidianos"
     },
     {
         "level": 3.0,
@@ -105,25 +105,25 @@
         "answer": "aduana",
         "goal_words": "aduana",
         "audio_filename": "line_es_290.mp3",
-        "audio_dir": "aduana"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
         "image_filename": "area.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "3 tourist dialogue 9",
-        "native_answer": "Area: A specific region or space.\nExample: The picnic area was shaded by tall trees.\n\n",
+        "native_answer": "Area: A specific region or space. Example: The picnic area was shaded by tall trees.",
         "native_word": "noun - Places",
         "tag": "noun - Places",
-        "prompt": "Área: Una región o espacio específico.\nEjemplo: El ______ del picnic estaba sombreada por árboles altos.",
+        "prompt": "Área: Una región o espacio específico.\nEjemplo: El área del picnic estaba sombreada por árboles altos.",
         "answer": "Área: Una región o espacio específico.\nEjemplo: El área del picnic estaba sombreada por árboles altos.",
         "goal_words": "área",
         "audio_filename": "line_es_395.mp3",
-        "audio_dir": "Área: Una región o espacio específico.\nEjemplo: El área del picnic estaba sombreada por árboles altos."
+        "learning_tag": "sustantivo - Lugares"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "centro de la ciudad",
         "goal_words": "centro de la ciudad",
         "audio_filename": "line_es_545.mp3",
-        "audio_dir": "centro de la ciudad"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "El tren",
         "goal_words": "El tren",
         "audio_filename": "line2_es_365.mp3",
-        "audio_dir": "El tren"
+        "learning_tag": "sustantivo - ciudad"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "nivel",
         "goal_words": "nivel",
         "audio_filename": "line4_es_94.mp3",
-        "audio_dir": "nivel"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "máquina",
         "goal_words": "máquina",
         "audio_filename": "line3_es_956.mp3",
-        "audio_dir": "máquina"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "viajar",
         "goal_words": "viajar",
         "audio_filename": "line5_es_855.mp3",
-        "audio_dir": "viajar"
+        "learning_tag": "verbo - movimiento"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "aeropuerto",
         "goal_words": "aeropuerto",
         "audio_filename": "line_es_292.mp3",
-        "audio_dir": "aeropuerto"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "mirar",
         "goal_words": "mirar",
         "audio_filename": "line4_es_22.mp3",
-        "audio_dir": "mirar"
+        "learning_tag": "verbo - percepción"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "(los gansos) seguir",
         "goal_words": "seguir",
         "audio_filename": "line_es_105.mp3",
-        "audio_dir": "(los gansos) seguir"
+        "learning_tag": "verbo - movimiento"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "Atrapar una pelota de béisbol",
         "goal_words": "Atrapar",
         "audio_filename": "line_es_422.mp3",
-        "audio_dir": "Atrapar una pelota de béisbol"
+        "learning_tag": "verbo - objeto"
     },
     {
         "level": 3.0,
@@ -299,11 +299,11 @@
         "native_answer": "Next: Indicates the following action.\nFirst, mix the ingredients. Next, bake the cake.\nWe’ll visit the museum next.",
         "native_word": "conjunction",
         "tag": "conjunction",
-        "prompt": "______: Indica la siguiente acción.\nPrimero, mezcla los ingredientes. ______, hornea el pastel.\nVisitaremos el museo luego.",
+        "prompt": "Luego: Indica la siguiente acción.\nPrimero, mezcla los ingredientes. Luego, hornea el pastel.\nVisitaremos el museo luego.",
         "answer": "Luego: Indica la siguiente acción.\nPrimero, mezcla los ingredientes. Luego, hornea el pastel.\nVisitaremos el museo luego.",
         "goal_words": "Luego",
         "audio_filename": "line3_es_927.mp3",
-        "audio_dir": "Luego: Indica la siguiente acción.\nPrimero, mezcla los ingredientes. Luego, hornea el pastel.\nVisitaremos el museo luego."
+        "learning_tag": "conjunción"
     },
     {
         "level": 3.0,
@@ -321,11 +321,11 @@
         "answer": "lento - más lento, rápido - más rápido",
         "goal_words": "más rápido",
         "audio_filename": "line3_es_840.mp3",
-        "audio_dir": "lento - más lento, rápido - más rápido"
+        "learning_tag": "adjetivo"
     },
     {
         "level": 3.0,
-        "image_filename": "",
+        "image_filename": "every.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -335,11 +335,11 @@
         "native_answer": "Every: Every child deserves an education.",
         "native_word": "General Quantity",
         "tag": "General Quantity",
-        "prompt": "______: ______ niño merece una educación.",
+        "prompt": "Cada: Cada niño merece una educación.",
         "answer": "Cada: Cada niño merece una educación.",
         "goal_words": "Cada",
         "audio_filename": "line_es_476.mp3",
-        "audio_dir": "Cada: Cada niño merece una educación."
+        "learning_tag": "Cantidad general"
     },
     {
         "level": 3.0,
@@ -357,6 +357,6 @@
         "answer": "seguro",
         "goal_words": "seguro",
         "audio_filename": "line4_es_874.mp3",
-        "audio_dir": "seguro"
+        "learning_tag": "adjetivo - condición y calidad"
     }
 ]

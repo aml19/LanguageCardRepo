@@ -15,7 +15,7 @@
         "answer": "Los lugares",
         "goal_words": "lugares",
         "audio_filename": "line3_es_908.mp3",
-        "audio_dir": "Los lugares"
+        "learning_tag": "sustantivo - Edificios y lugares"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "la lista está completa",
         "goal_words": "lista",
         "audio_filename": "line3_es_654.mp3",
-        "audio_dir": "la lista está completa"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "visita guiada",
         "goal_words": "guiada",
         "audio_filename": "line5_es_868.mp3",
-        "audio_dir": "visita guiada"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "catedral",
         "goal_words": "catedral",
         "audio_filename": "line_es_536.mp3",
-        "audio_dir": "catedral"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "malecón / frente al río",
         "goal_words": "malecón / frente al río",
         "audio_filename": "line3_es_936.mp3",
-        "audio_dir": "malecón / frente al río"
+        "learning_tag": "sustantivo"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "la hora",
         "goal_words": "la hora",
         "audio_filename": "line3_es_632.mp3",
-        "audio_dir": "la hora"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "el zapato",
         "goal_words": "el zapato",
         "audio_filename": "line2_es_392.mp3",
-        "audio_dir": "el zapato"
+        "learning_tag": "ropa"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "la Botella",
         "goal_words": "la Botella",
         "audio_filename": "line3_es_541.mp3",
-        "audio_dir": "la Botella"
+        "learning_tag": "comida"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "Romper",
         "goal_words": "Romper",
         "audio_filename": "line4_es_775.mp3",
-        "audio_dir": "Romper"
+        "learning_tag": "verbo - objeto"
     },
     {
         "level": 3.0,
@@ -174,10 +174,10 @@
         "native_word": "verb",
         "tag": "verb",
         "prompt": "______ en una nueva aplicación",
-        "answer": "registrarse en una nueva aplicación",
-        "goal_words": "registrarse",
-        "audio_filename": "line4_es_734.mp3",
-        "audio_dir": "registrarse en una nueva aplicación"
+        "answer": "apuntarse en una nueva aplicación",
+        "goal_words": "apuntarse",
+        "audio_filename": "line3sep2026_es_1.mp3",
+        "learning_tag": "verbo"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "Encontrar una pista",
         "goal_words": "Encontrar",
         "audio_filename": "line2_es_958.mp3",
-        "audio_dir": "Encontrar una pista"
+        "learning_tag": "verbo - objeto"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "comenzar de carrera",
         "goal_words": "comenzar",
         "audio_filename": "line_es_583.mp3",
-        "audio_dir": "comenzar de carrera"
+        "learning_tag": "verbo - cambiar"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "emocionado",
         "goal_words": "emocionado",
         "audio_filename": "line2_es_922.mp3",
-        "audio_dir": "emocionado"
+        "learning_tag": "adjetivo - sentir emoción"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "coche viejo",
         "goal_words": "viejo",
         "audio_filename": "line_es_568.mp3",
-        "audio_dir": "coche viejo"
+        "learning_tag": "adjetivo - tiempo"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "cómodo",
         "goal_words": "cómodo",
         "audio_filename": "line_es_608.mp3",
-        "audio_dir": "cómodo"
+        "learning_tag": "adjetivo"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "lápiz corto",
         "goal_words": "corto",
         "audio_filename": "line3_es_797.mp3",
-        "audio_dir": "lápiz corto"
+        "learning_tag": "adjetivo - tamaño"
     },
     {
         "level": 3.0,
@@ -303,6 +303,6 @@
         "answer": "tu cara cuando algo es increíble",
         "goal_words": "increíble",
         "audio_filename": "line5_es_140.mp3",
-        "audio_dir": "tu cara cuando algo es increíble"
+        "learning_tag": "adjetivo"
     }
 ]

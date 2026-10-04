@@ -11,11 +11,11 @@
         "native_answer": "una vez: en una ocasión o por única vez.",
         "native_word": "adverbio - Frecuencia",
         "tag": "adverbio - Frecuencia",
-        "prompt": "______: on one occasion or for one time only.",
+        "prompt": "once: on one occasion or for one time only.",
         "answer": "once: on one occasion or for one time only.",
         "goal_words": "once",
         "audio_filename": "line3_en_27.mp3",
-        "audio_dir": "once: on one occasion or for one time only."
+        "learning_tag": "adverb -  Frequency"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "to fall suddenly; quickly and unexpectedly.",
         "goal_words": "suddenly",
         "audio_filename": "line4_en_482.mp3",
-        "audio_dir": "to fall suddenly; quickly and unexpectedly."
+        "learning_tag": "adverb -  Time"
     },
     {
         "level": 4.0,
@@ -47,11 +47,11 @@
         "native_answer": "finalmente",
         "native_word": "adverbio - tiempo",
         "tag": "adverbio - tiempo",
-        "prompt": "______",
+        "prompt": "eventually",
         "answer": "eventually",
         "goal_words": "eventually",
         "audio_filename": "line_en_811.mp3",
-        "audio_dir": "eventually"
+        "learning_tag": "adverb -  Time"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "both players want the ball",
         "goal_words": "both",
         "audio_filename": "line_en_327.mp3",
-        "audio_dir": "both players want the ball"
+        "learning_tag": "adverb -  Conjunctional Adverb"
     },
     {
         "level": 4.0,
@@ -83,10 +83,10 @@
         "native_answer": "puedes pedir ayuda siempre que la necesites",
         "native_word": "adverbio - Adverbio conjuncional",
         "tag": "adverbio - Adverbio conjuncional",
-        "prompt": "you can ask for help ______ you need it",
+        "prompt": "you can ask for help whenever you need it",
         "answer": "you can ask for help whenever you need it",
         "goal_words": "whenever",
         "audio_filename": "line5_en_315.mp3",
-        "audio_dir": "you can ask for help whenever you need it"
+        "learning_tag": "adverb -  Conjunctional Adverb"
     }
 ]

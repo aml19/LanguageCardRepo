@@ -1,24 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "old_car.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "old car",
-        "native_word": "adjective - age",
-        "tag": "adjective - age",
-        "prompt": "______車",
-        "answer": "古い車",
-        "goal_words": "古い",
-        "audio_filename": "line2_ja_517.mp3",
-        "audio_dir": "古い車"
-    },
-    {
-        "level": 4.0,
         "image_filename": "full.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -33,7 +15,7 @@
         "answer": "ブルーベリーがいっぱい入った瓶",
         "goal_words": "いっぱい",
         "audio_filename": "line_ja_992.mp3",
-        "audio_dir": "ブルーベリーがいっぱい入った瓶"
+        "learning_tag": "形容詞 - サイズ"
     },
     {
         "level": 4.0,
@@ -51,7 +33,7 @@
         "answer": "若い女の子",
         "goal_words": "若い",
         "audio_filename": "line4_ja_445.mp3",
-        "audio_dir": "若い女の子"
+        "learning_tag": "形容詞 - 年齢"
     },
     {
         "level": 4.0,
@@ -69,7 +51,7 @@
         "answer": "簡単 -- より簡単",
         "goal_words": "より簡単",
         "audio_filename": "line4_ja_318.mp3",
-        "audio_dir": "簡単 -- より簡単"
+        "learning_tag": "形容詞 - 品質"
     },
     {
         "level": 4.0,
@@ -87,7 +69,7 @@
         "answer": "複雑な数学",
         "goal_words": "複雑",
         "audio_filename": "line4_ja_490.mp3",
-        "audio_dir": "複雑な数学"
+        "learning_tag": "形容詞 - 状態"
     },
     {
         "level": 4.0,
@@ -105,7 +87,7 @@
         "answer": "風に対する強靭性",
         "goal_words": "強靭",
         "audio_filename": "line4_ja_855.mp3",
-        "audio_dir": "風に対する強靭性"
+        "learning_tag": "形容詞 - 品質"
     },
     {
         "level": 4.0,
@@ -123,7 +105,7 @@
         "answer": "暖かくて居心地の良いスナック",
         "goal_words": "居心地の良い",
         "audio_filename": "line3_ja_603.mp3",
-        "audio_dir": "暖かくて居心地の良いスナック"
+        "learning_tag": "形容詞 - 感情を生み出す"
     },
     {
         "level": 4.0,
@@ -141,7 +123,7 @@
         "answer": "美しい女性",
         "goal_words": "美しい",
         "audio_filename": "line4_ja_360.mp3",
-        "audio_dir": "美しい女性"
+        "learning_tag": "形容詞 - 感情を生み出す"
     },
     {
         "level": 4.0,
@@ -159,7 +141,7 @@
         "answer": "若々しい",
         "goal_words": "若々しい",
         "audio_filename": "line4_ja_440.mp3",
-        "audio_dir": "若々しい"
+        "learning_tag": "形容詞 - 年齢"
     },
     {
         "level": 4.0,
@@ -177,43 +159,7 @@
         "answer": "一度：1回だけの場合。",
         "goal_words": "一度",
         "audio_filename": "line2_ja_204.mp3",
-        "audio_dir": "一度：1回だけの場合。"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "before.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "before and after",
-        "native_word": "adverb -  Time",
-        "tag": "adverb -  Time",
-        "prompt": "______後",
-        "answer": "前後",
-        "goal_words": "前",
-        "audio_filename": "line2_ja_420.mp3",
-        "audio_dir": "前後"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "now.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "right now",
-        "native_word": "adverb -  Time",
-        "tag": "adverb -  Time",
-        "prompt": "______すぐ",
-        "answer": "今すぐ",
-        "goal_words": "今",
-        "audio_filename": "line2_ja_292.mp3",
-        "audio_dir": "今すぐ"
+        "learning_tag": "副詞 - 頻度"
     },
     {
         "level": 4.0,
@@ -231,7 +177,7 @@
         "answer": "速くロープを動かす",
         "goal_words": "速く",
         "audio_filename": "line4_ja_671.mp3",
-        "audio_dir": "速くロープを動かす"
+        "learning_tag": "副詞 - マナー"
     },
     {
         "level": 4.0,
@@ -245,119 +191,11 @@
         "native_answer": "countless stars - beyond counting",
         "native_word": "adverb -  amount",
         "tag": "adverb -  amount",
-        "prompt": "______星 - ______ほど",
+        "prompt": "数え切れない星 - 数え切れないほど",
         "answer": "数え切れない星 - 数え切れないほど",
         "goal_words": "数え切れない",
         "audio_filename": "line3_ja_535.mp3",
-        "audio_dir": "数え切れない星 - 数え切れないほど"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "hair.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "hair",
-        "native_word": "body parts",
-        "tag": "body parts",
-        "prompt": "______",
-        "answer": "髪",
-        "goal_words": "髪",
-        "audio_filename": "line4_ja_897.mp3",
-        "audio_dir": "髪"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "face.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "face",
-        "native_word": "body parts",
-        "tag": "body parts",
-        "prompt": "______",
-        "answer": "顔",
-        "goal_words": "顔",
-        "audio_filename": "line4_ja_848.mp3",
-        "audio_dir": "顔"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "heart.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "heart",
-        "native_word": "body parts",
-        "tag": "body parts",
-        "prompt": "______",
-        "answer": "心臓",
-        "goal_words": "心臓",
-        "audio_filename": "line3_ja_403.mp3",
-        "audio_dir": "心臓"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "face.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "face",
-        "native_word": "body parts",
-        "tag": "body parts",
-        "prompt": "______",
-        "answer": "顔",
-        "goal_words": "顔",
-        "audio_filename": "line4_ja_848.mp3",
-        "audio_dir": "顔"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "gray_rocks.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "gray rocks",
-        "native_word": "colors",
-        "tag": "colors",
-        "prompt": "______岩",
-        "answer": "灰色の岩",
-        "goal_words": "灰色の",
-        "audio_filename": "line3_ja_814.mp3",
-        "audio_dir": "灰色の岩"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "bread.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "Bread",
-        "native_word": "food",
-        "tag": "food",
-        "prompt": "______",
-        "answer": "パン",
-        "goal_words": "パン",
-        "audio_filename": "line_ja_945.mp3",
-        "audio_dir": "パン"
+        "learning_tag": "副詞 - 量"
     },
     {
         "level": 4.0,
@@ -375,7 +213,7 @@
         "answer": "祖母と孫娘",
         "goal_words": "祖母",
         "audio_filename": "line3_ja_952.mp3",
-        "audio_dir": "祖母と孫娘"
+        "learning_tag": "名詞 - 人と役割"
     },
     {
         "level": 4.0,
@@ -393,7 +231,7 @@
         "answer": "벽난로",
         "goal_words": "벽난로",
         "audio_filename": "line_ja_249.mp3",
-        "audio_dir": "벽난로"
+        "learning_tag": "名詞 - 日常の物"
     },
     {
         "level": 4.0,
@@ -411,7 +249,7 @@
         "answer": "記憶",
         "goal_words": "記憶",
         "audio_filename": "line4_ja_578.mp3",
-        "audio_dir": "記憶"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -429,7 +267,7 @@
         "answer": "若さ",
         "goal_words": "若さ",
         "audio_filename": "line4_ja_446.mp3",
-        "audio_dir": "若さ"
+        "learning_tag": "名詞 - 時間と測定"
     },
     {
         "level": 4.0,
@@ -447,7 +285,7 @@
         "answer": "一本の炎",
         "goal_words": "炎",
         "audio_filename": "line2_ja_209.mp3",
-        "audio_dir": "一本の炎"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -465,7 +303,7 @@
         "answer": "時間",
         "goal_words": "時間",
         "audio_filename": "line3_ja_593.mp3",
-        "audio_dir": "時間"
+        "learning_tag": "名詞 - 時間と測定"
     },
     {
         "level": 4.0,
@@ -483,7 +321,7 @@
         "answer": "生活",
         "goal_words": "生活",
         "audio_filename": "line3_ja_873.mp3",
-        "audio_dir": "生活"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -501,7 +339,7 @@
         "answer": "花の野原",
         "goal_words": "野原",
         "audio_filename": "line4_ja_433.mp3",
-        "audio_dir": "花の野原"
+        "learning_tag": "名詞 - 風景と地形"
     },
     {
         "level": 4.0,
@@ -519,7 +357,7 @@
         "answer": "野の花",
         "goal_words": "野の花",
         "audio_filename": "line4_ja_732.mp3",
-        "audio_dir": "野の花"
+        "learning_tag": "名詞 - 植物と植生"
     },
     {
         "level": 4.0,
@@ -537,7 +375,7 @@
         "answer": "笑い",
         "goal_words": "笑い",
         "audio_filename": "line4_ja_308.mp3",
-        "audio_dir": "笑い"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -555,7 +393,7 @@
         "answer": "田舎の農場",
         "goal_words": "田舎",
         "audio_filename": "line3_ja_875.mp3",
-        "audio_dir": "田舎の農場"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -573,7 +411,7 @@
         "answer": "暖炉の暖かさ",
         "goal_words": "暖かさ",
         "audio_filename": "line3_ja_604.mp3",
-        "audio_dir": "暖炉の暖かさ"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -591,25 +429,7 @@
         "answer": "抱擁",
         "goal_words": "抱擁",
         "audio_filename": "line3_ja_496.mp3",
-        "audio_dir": "抱擁"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "kitchen.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "Kitchen",
-        "native_word": "noun - Buildings & Places",
-        "tag": "noun - Buildings & Places",
-        "prompt": "______",
-        "answer": "キッチン",
-        "goal_words": "キッチン",
-        "audio_filename": "line_ja_561.mp3",
-        "audio_dir": "キッチン"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -623,11 +443,11 @@
         "native_answer": "challenge: A test of skill or ability.",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
-        "prompt": "______: スキルや能力のテスト",
+        "prompt": "挑戦: スキルや能力のテスト",
         "answer": "挑戦: スキルや能力のテスト",
         "goal_words": "挑戦",
         "audio_filename": "line3_ja_507.mp3",
-        "audio_dir": "挑戦: スキルや能力のテスト"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -641,11 +461,11 @@
         "native_answer": "hardship: causing suffering or struggle",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
-        "prompt": "______: 苦しみや闘いを引き起こす",
+        "prompt": "苦難: 苦しみや闘いを引き起こす",
         "answer": "苦難: 苦しみや闘いを引き起こす",
         "goal_words": "苦難",
         "audio_filename": "line4_ja_449.mp3",
-        "audio_dir": "苦難: 苦しみや闘いを引き起こす"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -663,7 +483,7 @@
         "answer": "希望",
         "goal_words": "希望",
         "audio_filename": "line2_ja_864.mp3",
-        "audio_dir": "希望"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -681,7 +501,7 @@
         "answer": "強い -- 強さ",
         "goal_words": "強さ",
         "audio_filename": "line2_ja_919.mp3",
-        "audio_dir": "強い -- 強さ"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -699,7 +519,7 @@
         "answer": "アームチェア",
         "goal_words": "アームチェア",
         "audio_filename": "line_ja_263.mp3",
-        "audio_dir": "アームチェア"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -717,7 +537,7 @@
         "answer": "精神",
         "goal_words": "精神",
         "audio_filename": "line4_ja_326.mp3",
-        "audio_dir": "精神"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -735,7 +555,7 @@
         "answer": "しわがたくさんある古い顔",
         "goal_words": "しわ",
         "audio_filename": "line_ja_695.mp3",
-        "audio_dir": "しわがたくさんある古い顔"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -749,16 +569,16 @@
         "native_answer": "journey: travel somewhere.",
         "native_word": "noun - Events",
         "tag": "noun - Events",
-        "prompt": "______：どこかへ______すること。",
-        "answer": "旅：どこかへ旅すること。",
-        "goal_words": "旅",
+        "prompt": "______：どこかへ旅すること。",
+        "answer": "旅​：どこかへ旅すること。",
+        "goal_words": "旅​",
         "audio_filename": "line3_ja_551.mp3",
-        "audio_dir": "旅：どこかへ旅すること。"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
         "image_filename": "vigor.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -767,11 +587,11 @@
         "native_answer": "vigor: physical or mental strength, energy, or vitality.",
         "native_word": "noun - Skills & Abilities",
         "tag": "noun - Skills & Abilities",
-        "prompt": "______: 身体的または精神的な力、エネルギー、または______。",
-        "answer": "活力: 身体的または精神的な力、エネルギー、または活力。",
-        "goal_words": "活力",
+        "prompt": "活力​: 身体的または精神的な力、エネルギー、または活力。",
+        "answer": "活力​: 身体的または精神的な力、エネルギー、または活力。",
+        "goal_words": "活力​",
         "audio_filename": "line3_ja_773.mp3",
-        "audio_dir": "活力: 身体的または精神的な力、エネルギー、または活力。"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -789,61 +609,7 @@
         "answer": "エコー",
         "goal_words": "エコー",
         "audio_filename": "line_ja_479.mp3",
-        "audio_dir": "エコー"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "day",
-        "native_word": "time",
-        "tag": "time",
-        "prompt": "______",
-        "answer": "日",
-        "goal_words": "日",
-        "audio_filename": "line3_ja_558.mp3",
-        "audio_dir": "日"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "love_music_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "love music",
-        "native_word": "verb - feeling",
-        "tag": "verb - feeling",
-        "prompt": "音楽を______",
-        "answer": "音楽を愛する",
-        "goal_words": "愛する",
-        "audio_filename": "line4_ja_839.mp3",
-        "audio_dir": "音楽を愛する"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "sit.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "sit on the stairs",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "階段に______",
-        "answer": "階段に座る",
-        "goal_words": "座る",
-        "audio_filename": "line4_ja_783.mp3",
-        "audio_dir": "階段に座る"
+        "learning_tag": "名詞"
     },
     {
         "level": 4.0,
@@ -861,11 +627,11 @@
         "answer": "失う: 体重を減らす",
         "goal_words": "失う",
         "audio_filename": "line2_ja_725.mp3",
-        "audio_dir": "失う: 体重を減らす"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
-        "image_filename": "close door.jpg",
+        "image_filename": "closedoor.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -879,7 +645,7 @@
         "answer": "ドアを閉める",
         "goal_words": "閉める",
         "audio_filename": "line_ja_866.mp3",
-        "audio_dir": "ドアを閉める"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
@@ -897,7 +663,7 @@
         "answer": "旅行",
         "goal_words": "旅行",
         "audio_filename": "line3_ja_552.mp3",
-        "audio_dir": "旅行"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -915,61 +681,7 @@
         "answer": "覚えている",
         "goal_words": "覚えている",
         "audio_filename": "line4_ja_501.mp3",
-        "audio_dir": "覚えている"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "run_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "run",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______",
-        "answer": "走る",
-        "goal_words": "走る",
-        "audio_filename": "line4_ja_631.mp3",
-        "audio_dir": "走る"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "laugh",
-        "native_word": "verb - self",
-        "tag": "verb - self",
-        "prompt": "______",
-        "answer": "笑う",
-        "goal_words": "笑う",
-        "audio_filename": "line4_ja_309.mp3",
-        "audio_dir": "笑う"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "play piano",
-        "native_word": "verb - interactive",
-        "tag": "verb - interactive",
-        "prompt": "ピアノを______",
-        "answer": "ピアノを演奏する",
-        "goal_words": "演奏する",
-        "audio_filename": "line_ja_958.mp3",
-        "audio_dir": "ピアノを演奏する"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 4.0,
@@ -987,7 +699,7 @@
         "answer": "記憶する: 思い出す",
         "goal_words": "記憶する",
         "audio_filename": "line4_ja_579.mp3",
-        "audio_dir": "記憶する: 思い出す"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 4.0,
@@ -1005,7 +717,7 @@
         "answer": "匂い",
         "goal_words": "匂い",
         "audio_filename": "line2_ja_451.mp3",
-        "audio_dir": "匂い"
+        "learning_tag": "動詞 - 知覚"
     },
     {
         "level": 4.0,
@@ -1019,11 +731,11 @@
         "native_answer": "waft: to float or drift gently through the air, often describing the movement of scents or sounds.",
         "native_word": "verb - movement",
         "tag": "verb - movement",
-        "prompt": "風: 香りや音の移動をしばしば描写する、空気中をゆっくりと______",
+        "prompt": "風: 香りや音の移動をしばしば描写する、空気中をゆっくりと漂う",
         "answer": "風: 香りや音の移動をしばしば描写する、空気中をゆっくりと漂う",
         "goal_words": "漂う",
         "audio_filename": "line4_ja_852.mp3",
-        "audio_dir": "風: 香りや音の移動をしばしば描写する、空気中をゆっくりと漂う"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -1041,7 +753,7 @@
         "answer": "タンクを満たす",
         "goal_words": "満たす",
         "audio_filename": "line_ja_825.mp3",
-        "audio_dir": "タンクを満たす"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
@@ -1059,7 +771,7 @@
         "answer": "成長する",
         "goal_words": "成長する",
         "audio_filename": "line3_ja_469.mp3",
-        "audio_dir": "成長する"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
@@ -1077,7 +789,7 @@
         "answer": "花になる",
         "goal_words": "なる",
         "audio_filename": "line4_ja_432.mp3",
-        "audio_dir": "花になる"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
@@ -1095,7 +807,7 @@
         "answer": "緑のままでいる",
         "goal_words": "ままでいる",
         "audio_filename": "line4_ja_347.mp3",
-        "audio_dir": "緑のままでいる"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -1113,7 +825,7 @@
         "answer": "描く",
         "goal_words": "描く",
         "audio_filename": "line3_ja_518.mp3",
-        "audio_dir": "描く"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 4.0,
@@ -1131,7 +843,7 @@
         "answer": "セキュリティを通過する",
         "goal_words": "過する",
         "audio_filename": "line_ja_730.mp3",
-        "audio_dir": "セキュリティを通過する"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -1149,7 +861,7 @@
         "answer": "打つドラム",
         "goal_words": "打つ",
         "audio_filename": "line3_ja_486.mp3",
-        "audio_dir": "打つドラム"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 4.0,
@@ -1167,6 +879,6 @@
         "answer": "秘密をささやく",
         "goal_words": "ささやく",
         "audio_filename": "line4_ja_277.mp3",
-        "audio_dir": "秘密をささやく"
+        "learning_tag": "動詞 - コミュニケーション"
     }
 ]

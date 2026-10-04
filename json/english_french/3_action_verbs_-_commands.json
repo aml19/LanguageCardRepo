@@ -15,7 +15,7 @@
         "answer": "bois",
         "goal_words": "bois",
         "audio_filename": "line_fr_433.mp3",
-        "audio_dir": "bois"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "saute",
         "goal_words": "saute",
         "audio_filename": "line4_fr_967.mp3",
-        "audio_dir": "saute"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "dors",
         "goal_words": "dors",
         "audio_filename": "line_fr_832.mp3",
-        "audio_dir": "dors"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "nage",
         "goal_words": "nage",
         "audio_filename": "line4_fr_77.mp3",
-        "audio_dir": "nage"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "arrête",
         "goal_words": "arrête",
         "audio_filename": "line_fr_300.mp3",
-        "audio_dir": "arrête"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "quitte",
         "goal_words": "quitte",
         "audio_filename": "line4_fr_792.mp3",
-        "audio_dir": "quitte"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "pousse-le",
         "goal_words": "pousse",
         "audio_filename": "line4_fr_700.mp3",
-        "audio_dir": "pousse-le"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "lance-le",
         "goal_words": "lance",
         "audio_filename": "line26jan26_fr_401.mp3",
-        "audio_dir": "lance-le"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "essaie-le",
         "goal_words": "essaie",
         "audio_filename": "line2_fr_149.mp3",
-        "audio_dir": "essaie-le"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "oublie-le",
         "goal_words": "oublie",
         "audio_filename": "line4_fr_510.mp3",
-        "audio_dir": "oublie-le"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "attrape ça",
         "goal_words": "attrape",
         "audio_filename": "line_fr_330.mp3",
-        "audio_dir": "attrape ça"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "dis quelque chose",
         "goal_words": "dis",
         "audio_filename": "line_fr_816.mp3",
-        "audio_dir": "dis quelque chose"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "appelle-moi",
         "goal_words": "appelle",
         "audio_filename": "line_fr_281.mp3",
-        "audio_dir": "appelle-moi"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "joue avec moi",
         "goal_words": "joue",
         "audio_filename": "line3_fr_252.mp3",
-        "audio_dir": "joue avec moi"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -260,14 +260,14 @@
         "native_language": "english",
         "learning_language": "french",
         "native_group": "3 action verbs - commands",
-        "native_answer": "read the book",
+        "native_answer": "read the book when you can",
         "native_word": "command",
         "tag": "command",
-        "prompt": "______ le livre",
-        "answer": "lis le livre",
+        "prompt": "Lisez le livre quand vous le pourrez.",
+        "answer": "Lisez le livre quand vous le pourrez.",
         "goal_words": "lis",
-        "audio_filename": "line3_fr_945.mp3",
-        "audio_dir": "lis le livre"
+        "audio_filename": "line10June26_fr_355.mp3",
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -278,14 +278,14 @@
         "native_language": "english",
         "learning_language": "french",
         "native_group": "3 action verbs - commands",
-        "native_answer": "give it to me",
+        "native_answer": "give it to me, please",
         "native_word": "command",
         "tag": "command",
         "prompt": "______-le moi",
         "answer": "donne-le moi",
         "goal_words": "donne",
-        "audio_filename": "line_fr_824.mp3",
-        "audio_dir": "donne-le moi"
+        "audio_filename": "line10June26_fr_117.mp3",
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -296,18 +296,18 @@
         "native_language": "english",
         "learning_language": "french",
         "native_group": "3 action verbs - commands",
-        "native_answer": "give it to him",
+        "native_answer": "give it to him now",
         "native_word": "command",
         "tag": "command",
         "prompt": "______-le lui",
         "answer": "donne-le lui",
         "goal_words": "donne",
-        "audio_filename": "line_fr_823.mp3",
-        "audio_dir": "donne-le lui"
+        "audio_filename": "line10June26_fr_116.mp3",
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
-        "image_filename": "teach_code_m.jpg",
+        "image_filename": "learn_m.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": "in French, the command verb conjugation changes depending on whether you're addressing a formal \"you\" (vous) or a singular informal \"you\" (tu), as well as whether you're addressing multiple people (vous plural).\n\nHere are the basic forms:\n\nTu (singular informal): Command form typically uses the present tense, and the verb form is usually the same as the third-person singular form, minus the subject pronoun \"tu.\"\n\nFor example:\n\nParle ! (Speak!)\nMange ! (Eat!)\nÉtudie ! (Study!)\nVous (formal singular/plural): Command form usually uses the present tense, and the verb form is generally the same as the third-person plural form, minus the subject pronoun \"vous.\"\n\nFor example:\n\nParlez ! (Speak!)\nMangez ! (Eat!)\nÉtudiez ! (Study!)\nThe command form in French doesn't vary much, but it's important to use the correct pronoun (tu or vous) to match the formality and number of the person or people you're addressing.",
@@ -320,8 +320,8 @@
         "prompt": "______-moi",
         "answer": "enseigne-moi",
         "goal_words": "enseigne",
-        "audio_filename": "line2_fr_126.mp3",
-        "audio_dir": "enseigne-moi"
+        "audio_filename": "line10June26_fr_145.mp3",
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -332,14 +332,14 @@
         "native_language": "english",
         "learning_language": "french",
         "native_group": "3 action verbs - commands",
-        "native_answer": "come here",
+        "native_answer": "come here now",
         "native_word": "command",
         "tag": "command",
         "prompt": "______ ici",
         "answer": "viens ici",
         "goal_words": "viens",
-        "audio_filename": "line5_fr_713.mp3",
-        "audio_dir": "viens ici"
+        "audio_filename": "line10June26_fr_526.mp3",
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -357,7 +357,7 @@
         "answer": "cuis quelque nourriture",
         "goal_words": "cuis",
         "audio_filename": "line_fr_687.mp3",
-        "audio_dir": "cuis quelque nourriture"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -375,7 +375,7 @@
         "answer": "pense-y",
         "goal_words": "pense",
         "audio_filename": "line4_fr_591.mp3",
-        "audio_dir": "pense-y"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -393,7 +393,7 @@
         "answer": "ne bois pas",
         "goal_words": "bois",
         "audio_filename": "line4_fr_85.mp3",
-        "audio_dir": "ne bois pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -411,7 +411,7 @@
         "answer": "ne saute pas",
         "goal_words": "saute",
         "audio_filename": "line4_fr_105.mp3",
-        "audio_dir": "ne saute pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -429,7 +429,7 @@
         "answer": "ne dors pas",
         "goal_words": "dors",
         "audio_filename": "line4_fr_88.mp3",
-        "audio_dir": "ne dors pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -447,7 +447,7 @@
         "answer": "ne nage pas",
         "goal_words": "nage",
         "audio_filename": "line4_fr_100.mp3",
-        "audio_dir": "ne nage pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -465,7 +465,7 @@
         "answer": "ne t'arrête pas",
         "goal_words": "arrête",
         "audio_filename": "line4_fr_106.mp3",
-        "audio_dir": "ne t'arrête pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -483,7 +483,7 @@
         "answer": "ne quitte pas",
         "goal_words": "quitte",
         "audio_filename": "line4_fr_104.mp3",
-        "audio_dir": "ne quitte pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -501,7 +501,7 @@
         "answer": "ne tombe pas",
         "goal_words": "tombe",
         "audio_filename": "line4_fr_107.mp3",
-        "audio_dir": "ne tombe pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -519,7 +519,7 @@
         "answer": "ne le pousse pas",
         "goal_words": "pousse",
         "audio_filename": "line4_fr_94.mp3",
-        "audio_dir": "ne le pousse pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -537,7 +537,7 @@
         "answer": "ne le jette pas",
         "goal_words": "jette",
         "audio_filename": "line4_fr_93.mp3",
-        "audio_dir": "ne le jette pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -555,7 +555,7 @@
         "answer": "ne l'essaie pas",
         "goal_words": "essaie",
         "audio_filename": "line4_fr_91.mp3",
-        "audio_dir": "ne l'essaie pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -573,7 +573,7 @@
         "answer": "ne l'oublie pas",
         "goal_words": "oublie",
         "audio_filename": "line4_fr_92.mp3",
-        "audio_dir": "ne l'oublie pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -591,7 +591,7 @@
         "answer": "ne l'attrape pas",
         "goal_words": "attrape",
         "audio_filename": "line4_fr_90.mp3",
-        "audio_dir": "ne l'attrape pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -609,7 +609,7 @@
         "answer": "Ne dis rien",
         "goal_words": "dis",
         "audio_filename": "line26jan26_fr_453.mp3",
-        "audio_dir": "Ne dis rien"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -627,7 +627,7 @@
         "answer": "ne m'appelle pas",
         "goal_words": "appelle",
         "audio_filename": "line4_fr_97.mp3",
-        "audio_dir": "ne m'appelle pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -645,7 +645,7 @@
         "answer": "ne joue pas avec moi",
         "goal_words": "joue",
         "audio_filename": "line4_fr_89.mp3",
-        "audio_dir": "ne joue pas avec moi"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -663,7 +663,7 @@
         "answer": "ne lis pas le livre",
         "goal_words": "lis",
         "audio_filename": "line4_fr_95.mp3",
-        "audio_dir": "ne lis pas le livre"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -681,7 +681,7 @@
         "answer": "ne me le donne pas",
         "goal_words": "donne",
         "audio_filename": "line4_fr_99.mp3",
-        "audio_dir": "ne me le donne pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -699,7 +699,7 @@
         "answer": "ne lui donne pas",
         "goal_words": "donne",
         "audio_filename": "line4_fr_96.mp3",
-        "audio_dir": "ne lui donne pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -717,7 +717,7 @@
         "answer": "ne m'enseigne pas",
         "goal_words": "enseigne",
         "audio_filename": "line4_fr_98.mp3",
-        "audio_dir": "ne m'enseigne pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -735,7 +735,7 @@
         "answer": "ne viens pas ici",
         "goal_words": "viens",
         "audio_filename": "line4_fr_108.mp3",
-        "audio_dir": "ne viens pas ici"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -753,7 +753,7 @@
         "answer": "ne faites pas cuire les aliments",
         "goal_words": "faites",
         "audio_filename": "line26jan26_fr_454.mp3",
-        "audio_dir": "ne faites pas cuire les aliments"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -771,7 +771,7 @@
         "answer": "ne pense pas à cela",
         "goal_words": "pense",
         "audio_filename": "line4_fr_103.mp3",
-        "audio_dir": "ne pense pas à cela"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -789,7 +789,7 @@
         "answer": "(vous) Parlez",
         "goal_words": "Parlez",
         "audio_filename": "line_fr_105.mp3",
-        "audio_dir": "(vous) Parlez"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -807,7 +807,7 @@
         "answer": "(vous) Soyez prudent",
         "goal_words": "Soyez",
         "audio_filename": "line_fr_110.mp3",
-        "audio_dir": "(vous) Soyez prudent"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -825,7 +825,7 @@
         "answer": "(vous) Utilisez ceci",
         "goal_words": "Utilisez",
         "audio_filename": "line_fr_115.mp3",
-        "audio_dir": "(vous) Utilisez ceci"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -843,7 +843,7 @@
         "answer": "(vous) Tenez ceci",
         "goal_words": "Tenez",
         "audio_filename": "line_fr_111.mp3",
-        "audio_dir": "(vous) Tenez ceci"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -861,7 +861,7 @@
         "answer": "(vous) Demandez-lui",
         "goal_words": "Demandez",
         "audio_filename": "line_fr_98.mp3",
-        "audio_dir": "(vous) Demandez-lui"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -879,7 +879,7 @@
         "answer": "(vous) Aidez-moi",
         "goal_words": "Aidez",
         "audio_filename": "line_fr_94.mp3",
-        "audio_dir": "(vous) Aidez-moi"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -897,7 +897,7 @@
         "answer": "(vous) Allez avec elle",
         "goal_words": "Allez",
         "audio_filename": "line_fr_95.mp3",
-        "audio_dir": "(vous) Allez avec elle"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -915,7 +915,7 @@
         "answer": "(vous) Ne m'aidez pas",
         "goal_words": "Ne m'aidez",
         "audio_filename": "line_fr_103.mp3",
-        "audio_dir": "(vous) Ne m'aidez pas"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -933,7 +933,7 @@
         "answer": "(vous) Ne allez pas avec elle",
         "goal_words": "Ne allez",
         "audio_filename": "line_fr_102.mp3",
-        "audio_dir": "(vous) Ne allez pas avec elle"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -951,7 +951,7 @@
         "answer": "(vous) Dansez",
         "goal_words": "Dansez",
         "audio_filename": "line_fr_96.mp3",
-        "audio_dir": "(vous) Dansez"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -969,11 +969,11 @@
         "answer": "(vous) Tirez dessus",
         "goal_words": "Tirez",
         "audio_filename": "line_fr_113.mp3",
-        "audio_dir": "(vous) Tirez dessus"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
-        "image_filename": "drop_mic_mic_p.jpg",
+        "image_filename": "drop_mic_p.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": null,
@@ -987,7 +987,7 @@
         "answer": "(vous) Laissez tomber",
         "goal_words": "Laissez",
         "audio_filename": "line_fr_99.mp3",
-        "audio_dir": "(vous) Laissez tomber"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -1005,7 +1005,7 @@
         "answer": "(vous) Portez ceci",
         "goal_words": "Portez",
         "audio_filename": "line_fr_107.mp3",
-        "audio_dir": "(vous) Portez ceci"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -1023,7 +1023,7 @@
         "answer": "(vous) Prenez-en un",
         "goal_words": "Prenez",
         "audio_filename": "line_fr_109.mp3",
-        "audio_dir": "(vous) Prenez-en un"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -1041,7 +1041,7 @@
         "answer": "(Vous) ne le laissez pas tomber",
         "goal_words": "laissez",
         "audio_filename": "line26jan26_fr_455.mp3",
-        "audio_dir": "ne le laissez pas tomber"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -1059,7 +1059,7 @@
         "answer": "(vous) Ne prenez pas un",
         "goal_words": "prenez",
         "audio_filename": "line_fr_104.mp3",
-        "audio_dir": "(vous) Ne prenez pas un"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -1077,7 +1077,7 @@
         "answer": "(nous) Mangeons",
         "goal_words": "Mangeons",
         "audio_filename": "line_fr_63.mp3",
-        "audio_dir": "(nous) Mangeons"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -1095,7 +1095,7 @@
         "answer": "(nous) Étudions",
         "goal_words": "Étudions",
         "audio_filename": "line_fr_52.mp3",
-        "audio_dir": "(nous) Étudions"
+        "learning_tag": "commandes"
     },
     {
         "level": 3.0,
@@ -1113,6 +1113,6 @@
         "answer": "(nous) Chantons",
         "goal_words": "Chantons",
         "audio_filename": "line_fr_51.mp3",
-        "audio_dir": "(nous) Chantons"
+        "learning_tag": "commandes"
     }
 ]

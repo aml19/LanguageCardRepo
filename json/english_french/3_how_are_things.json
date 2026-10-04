@@ -1,42 +1,6 @@
 [
     {
         "level": 3.0,
-        "image_filename": "successful.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In French, states and conditions are often expressed differently than in English. For personal states like hunger, thirst, or fear, French uses \"avoir\" (to have), e.g., J'ai faim (\"I am hungry,\" literally \"I have hunger\"). Weather conditions typically use \"il fait\" (it makes), e.g., Il fait chaud (\"It is hot,\" literally \"It makes heat\"). Temporary states or emotions often use \"être\" (to be), e.g., Je suis fatigué (\"I am tired\").  French externalizes some experiences and treats others as possessions, creating a distinct perspective compared to English.",
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "3 how are things?",
-        "native_answer": "They are successful.",
-        "native_word": "how are they like?",
-        "tag": "how are they like?",
-        "prompt": "______",
-        "answer": "Ils sont réussis.",
-        "goal_words": "Ils sont réussis.",
-        "audio_filename": "line2_fr_807.mp3",
-        "audio_dir": "Ils sont réussis."
-    },
-    {
-        "level": 3.0,
-        "image_filename": "responsible.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In French, states and conditions are often expressed differently than in English. For personal states like hunger, thirst, or fear, French uses \"avoir\" (to have), e.g., J'ai faim (\"I am hungry,\" literally \"I have hunger\"). Weather conditions typically use \"il fait\" (it makes), e.g., Il fait chaud (\"It is hot,\" literally \"It makes heat\"). Temporary states or emotions often use \"être\" (to be), e.g., Je suis fatigué (\"I am tired\").  French externalizes some experiences and treats others as possessions, creating a distinct perspective compared to English.",
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "3 how are things?",
-        "native_answer": "They are responsible.",
-        "native_word": "how are they like?",
-        "tag": "how are they like?",
-        "prompt": "______",
-        "answer": "Ils sont responsables.",
-        "goal_words": "Ils sont responsables.",
-        "audio_filename": "line2_fr_806.mp3",
-        "audio_dir": "Ils sont responsables."
-    },
-    {
-        "level": 3.0,
         "image_filename": "sad.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -51,7 +15,7 @@
         "answer": "Je suis triste.",
         "goal_words": "Je suis triste.",
         "audio_filename": "line3_fr_206.mp3",
-        "audio_dir": "Je suis triste."
+        "learning_tag": "comment te sens-tu?"
     },
     {
         "level": 3.0,
@@ -69,7 +33,7 @@
         "answer": "Je suis en colère.",
         "goal_words": "Je suis en colère.",
         "audio_filename": "line3_fr_189.mp3",
-        "audio_dir": "Je suis en colère."
+        "learning_tag": "comment te sens-tu?"
     },
     {
         "level": 3.0,
@@ -84,10 +48,10 @@
         "native_word": "how are you feeling?",
         "tag": "how are you feeling?",
         "prompt": "______",
-        "answer": "Je suis fatigué(e).",
-        "goal_words": "Je suis fatigué(e).",
-        "audio_filename": "line3_fr_192.mp3",
-        "audio_dir": "Je suis fatigué(e)."
+        "answer": "Je suis fatigué.",
+        "goal_words": "Je suis fatigué.",
+        "audio_filename": "line27aug2026_fr_365.mp3",
+        "learning_tag": "comment te sens-tu?"
     },
     {
         "level": 3.0,
@@ -102,10 +66,10 @@
         "native_word": "how are you feeling?",
         "tag": "how are you feeling?",
         "prompt": "______",
-        "answer": "Je suis excité(e).",
-        "goal_words": "Je suis excité(e).",
-        "audio_filename": "line3_fr_191.mp3",
-        "audio_dir": "Je suis excité(e)."
+        "answer": "Je suis enthousiaste",
+        "goal_words": "Je suis enthousiaste",
+        "audio_filename": "line27aug2026_fr_364.mp3",
+        "learning_tag": "comment te sens-tu?"
     },
     {
         "level": 3.0,
@@ -123,7 +87,7 @@
         "answer": "Je m'ennuie.",
         "goal_words": "Je m'ennuie.",
         "audio_filename": "line3_fr_112.mp3",
-        "audio_dir": "Je m'ennuie."
+        "learning_tag": "comment te sens-tu?"
     },
     {
         "level": 3.0,
@@ -138,10 +102,10 @@
         "native_word": "how are you feeling?",
         "tag": "how are you feeling?",
         "prompt": "______",
-        "answer": "Je suis surpris(e).",
-        "goal_words": "Je suis surpris(e).",
-        "audio_filename": "line3_fr_205.mp3",
-        "audio_dir": "Je suis surpris(e)."
+        "answer": "Je suis surprise.",
+        "goal_words": "Je suis surprise.",
+        "audio_filename": "line27aug2026_fr_370.mp3",
+        "learning_tag": "comment te sens-tu?"
     },
     {
         "level": 3.0,
@@ -156,10 +120,10 @@
         "native_word": "how are you feeling?",
         "tag": "how are you feeling?",
         "prompt": "______",
-        "answer": "Je suis déçu(e).",
-        "goal_words": "Je suis déçu(e).",
-        "audio_filename": "line3_fr_187.mp3",
-        "audio_dir": "Je suis déçu(e)."
+        "answer": "Je suis déçu.",
+        "goal_words": "Je suis déçu.",
+        "audio_filename": "line27aug2026_fr_358.mp3",
+        "learning_tag": "comment te sens-tu?"
     },
     {
         "level": 3.0,
@@ -174,10 +138,10 @@
         "native_word": "how are you feeling?",
         "tag": "how are you feeling?",
         "prompt": "______",
-        "answer": "Je suis nerveux/nerveuse.",
-        "goal_words": "Je suis nerveux/nerveuse.",
-        "audio_filename": "line3_fr_194.mp3",
-        "audio_dir": "Je suis nerveux/nerveuse."
+        "answer": "Je suis nerveuse.",
+        "goal_words": "Je suis nerveuse.",
+        "audio_filename": "line27aug2026_fr_367.mp3",
+        "learning_tag": "comment te sens-tu?"
     },
     {
         "level": 3.0,
@@ -192,10 +156,10 @@
         "native_word": "how are you feeling?",
         "tag": "how are you feeling?",
         "prompt": "______",
-        "answer": "Je suis embarrassé(e).",
-        "goal_words": "Je suis embarrassé(e).",
-        "audio_filename": "line3_fr_188.mp3",
-        "audio_dir": "Je suis embarrassé(e)."
+        "answer": "Je suis embarrassée.",
+        "goal_words": "Je suis embarrassée.",
+        "audio_filename": "line27aug2026_fr_359.mp3",
+        "learning_tag": "comment te sens-tu?"
     },
     {
         "level": 3.0,
@@ -213,7 +177,7 @@
         "answer": "J'ai faim.",
         "goal_words": "J'ai faim.",
         "audio_filename": "line2_fr_931.mp3",
-        "audio_dir": "J'ai faim."
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
@@ -231,7 +195,7 @@
         "answer": "J'ai soif.",
         "goal_words": "J'ai soif.",
         "audio_filename": "line2_fr_952.mp3",
-        "audio_dir": "J'ai soif."
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
@@ -249,11 +213,11 @@
         "answer": "J'ai froid.",
         "goal_words": "J'ai froid.",
         "audio_filename": "line2_fr_932.mp3",
-        "audio_dir": "J'ai froid."
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
-        "image_filename": "hot3.jpg",
+        "image_filename": "hot4.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, states and conditions are often expressed differently than in English. For personal states like hunger, thirst, or fear, French uses \"avoir\" (to have), e.g., J'ai faim (\"I am hungry,\" literally \"I have hunger\"). Weather conditions typically use \"il fait\" (it makes), e.g., Il fait chaud (\"It is hot,\" literally \"It makes heat\"). Temporary states or emotions often use \"être\" (to be), e.g., Je suis fatigué (\"I am tired\").  French externalizes some experiences and treats others as possessions, creating a distinct perspective compared to English.",
@@ -267,7 +231,7 @@
         "answer": "J'ai chaud.",
         "goal_words": "J'ai chaud.",
         "audio_filename": "line2_fr_908.mp3",
-        "audio_dir": "J'ai chaud."
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
@@ -285,7 +249,7 @@
         "answer": "J'ai sommeil.",
         "goal_words": "J'ai sommeil.",
         "audio_filename": "line2_fr_953.mp3",
-        "audio_dir": "J'ai sommeil."
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
@@ -303,7 +267,7 @@
         "answer": "J'ai peur.",
         "goal_words": "J'ai peur.",
         "audio_filename": "line2_fr_942.mp3",
-        "audio_dir": "J'ai peur."
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
@@ -321,7 +285,7 @@
         "answer": "J'ai de la chance.",
         "goal_words": "J'ai de la chance.",
         "audio_filename": "line2_fr_912.mp3",
-        "audio_dir": "J'ai de la chance."
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
@@ -336,10 +300,10 @@
         "native_word": "how are you?",
         "tag": "how are you?",
         "prompt": "______",
-        "answer": "Je suis pressé(e).",
-        "goal_words": "Je suis pressé(e).",
-        "audio_filename": "line3_fr_196.mp3",
-        "audio_dir": "Je suis pressé(e)."
+        "answer": "Je suis pressé.",
+        "goal_words": "Je suis pressé.",
+        "audio_filename": "line27aug2026_fr_369.mp3",
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
@@ -357,7 +321,7 @@
         "answer": "J'ai raison.",
         "goal_words": "J'ai raison.",
         "audio_filename": "line2_fr_946.mp3",
-        "audio_dir": "J'ai raison."
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
@@ -375,7 +339,7 @@
         "answer": "Je fais attention.",
         "goal_words": "Je fais attention.",
         "audio_filename": "line3_fr_72.mp3",
-        "audio_dir": "Je fais attention."
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
@@ -390,10 +354,10 @@
         "native_word": "how are you?",
         "tag": "how are you?",
         "prompt": "______",
-        "answer": "Je suis heureux/heureuse.",
-        "goal_words": "Je suis heureux/heureuse.",
-        "audio_filename": "line3_fr_193.mp3",
-        "audio_dir": "Je suis heureux/heureuse."
+        "answer": "Je suis heureux.",
+        "goal_words": "Je suis heureux.",
+        "audio_filename": "line27aug2026_fr_366.mp3",
+        "learning_tag": "comment vas-tu?"
     },
     {
         "level": 3.0,
@@ -411,11 +375,11 @@
         "answer": "C'est surprenant.",
         "goal_words": "C'est surprenant.",
         "audio_filename": "line_fr_495.mp3",
-        "audio_dir": "C'est surprenant."
+        "learning_tag": "comment ça se sent ?"
     },
     {
         "level": 3.0,
-        "image_filename": "surprised.jpg",
+        "image_filename": "shocking.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, states and conditions are often expressed differently than in English. For personal states like hunger, thirst, or fear, French uses \"avoir\" (to have), e.g., J'ai faim (\"I am hungry,\" literally \"I have hunger\"). Weather conditions typically use \"il fait\" (it makes), e.g., Il fait chaud (\"It is hot,\" literally \"It makes heat\"). Temporary states or emotions often use \"être\" (to be), e.g., Je suis fatigué (\"I am tired\").  French externalizes some experiences and treats others as possessions, creating a distinct perspective compared to English.",
@@ -429,7 +393,7 @@
         "answer": "C'est choquant.",
         "goal_words": "C'est choquant.",
         "audio_filename": "line_fr_463.mp3",
-        "audio_dir": "C'est choquant."
+        "learning_tag": "comment ça se sent ?"
     },
     {
         "level": 3.0,
@@ -447,7 +411,7 @@
         "answer": "C'est amusant.",
         "goal_words": "C'est amusant.",
         "audio_filename": "line_fr_455.mp3",
-        "audio_dir": "C'est amusant."
+        "learning_tag": "comment ça se sent ?"
     },
     {
         "level": 3.0,
@@ -465,7 +429,7 @@
         "answer": "C'est effrayant.",
         "goal_words": "C'est effrayant.",
         "audio_filename": "line_fr_470.mp3",
-        "audio_dir": "C'est effrayant."
+        "learning_tag": "comment ça se sent ?"
     },
     {
         "level": 3.0,
@@ -483,7 +447,7 @@
         "answer": "C'est excitant.",
         "goal_words": "C'est excitant.",
         "audio_filename": "line_fr_473.mp3",
-        "audio_dir": "C'est excitant."
+        "learning_tag": "comment ça se sent ?"
     },
     {
         "level": 3.0,
@@ -501,7 +465,7 @@
         "answer": "C'est déroutant.",
         "goal_words": "C'est déroutant.",
         "audio_filename": "line_fr_467.mp3",
-        "audio_dir": "C'est déroutant."
+        "learning_tag": "comment ça se sent ?"
     },
     {
         "level": 3.0,
@@ -519,7 +483,7 @@
         "answer": "Il est fatigué.",
         "goal_words": "Il est fatigué.",
         "audio_filename": "line2_fr_430.mp3",
-        "audio_dir": "Il est fatigué."
+        "learning_tag": "comment se sent-il ?"
     },
     {
         "level": 3.0,
@@ -537,7 +501,7 @@
         "answer": "Il est confus.",
         "goal_words": "Il est confus.",
         "audio_filename": "line2_fr_426.mp3",
-        "audio_dir": "Il est confus."
+        "learning_tag": "comment se sent-il ?"
     },
     {
         "level": 3.0,
@@ -555,7 +519,7 @@
         "answer": "Il est en bonne santé.",
         "goal_words": "Il est en bonne santé.",
         "audio_filename": "line2_fr_428.mp3",
-        "audio_dir": "Il est en bonne santé."
+        "learning_tag": "comment se sent-il ?"
     },
     {
         "level": 3.0,
@@ -573,7 +537,7 @@
         "answer": "Il est confiant.",
         "goal_words": "Il est confiant.",
         "audio_filename": "line2_fr_425.mp3",
-        "audio_dir": "Il est confiant."
+        "learning_tag": "comment va-t-il ?"
     },
     {
         "level": 3.0,
@@ -591,7 +555,7 @@
         "answer": "Il est ambitieux.",
         "goal_words": "Il est ambitieux.",
         "audio_filename": "line2_fr_424.mp3",
-        "audio_dir": "Il est ambitieux."
+        "learning_tag": "comment va-t-il ?"
     },
     {
         "level": 3.0,
@@ -609,7 +573,7 @@
         "answer": "Il est patient.",
         "goal_words": "Il est patient.",
         "audio_filename": "line2_fr_439.mp3",
-        "audio_dir": "Il est patient."
+        "learning_tag": "comment va-t-il ?"
     },
     {
         "level": 3.0,
@@ -627,7 +591,7 @@
         "answer": "Il est prudent.",
         "goal_words": "Il est prudent.",
         "audio_filename": "line2_fr_441.mp3",
-        "audio_dir": "Il est prudent."
+        "learning_tag": "comment va-t-il ?"
     },
     {
         "level": 3.0,
@@ -645,7 +609,7 @@
         "answer": "Il est poli.",
         "goal_words": "Il est poli.",
         "audio_filename": "line2_fr_440.mp3",
-        "audio_dir": "Il est poli."
+        "learning_tag": "comment va-t-il ?"
     },
     {
         "level": 3.0,
@@ -663,7 +627,7 @@
         "answer": "Il est courageux.",
         "goal_words": "Il est courageux.",
         "audio_filename": "line2_fr_427.mp3",
-        "audio_dir": "Il est courageux."
+        "learning_tag": "comment va-t-il ?"
     },
     {
         "level": 3.0,
@@ -681,7 +645,7 @@
         "answer": "Il y a du bruit.",
         "goal_words": "Il y a du bruit.",
         "audio_filename": "line2_fr_572.mp3",
-        "audio_dir": "Il y a du bruit."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -699,7 +663,7 @@
         "answer": "C'est calme.",
         "goal_words": "C'est calme.",
         "audio_filename": "line_fr_459.mp3",
-        "audio_dir": "C'est calme."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -717,7 +681,7 @@
         "answer": "C'est bondé.",
         "goal_words": "C'est bondé.",
         "audio_filename": "line_fr_458.mp3",
-        "audio_dir": "C'est bondé."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -735,7 +699,7 @@
         "answer": "C'est paisible.",
         "goal_words": "C'est paisible.",
         "audio_filename": "line_fr_486.mp3",
-        "audio_dir": "C'est paisible."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -753,7 +717,7 @@
         "answer": "C'est chaotique.",
         "goal_words": "C'est chaotique.",
         "audio_filename": "line_fr_461.mp3",
-        "audio_dir": "C'est chaotique."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -771,7 +735,7 @@
         "answer": "C'est amusant.",
         "goal_words": "C'est amusant.",
         "audio_filename": "line_fr_455.mp3",
-        "audio_dir": "C'est amusant."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -789,7 +753,7 @@
         "answer": "C'est ennuyeux.",
         "goal_words": "C'est ennuyeux.",
         "audio_filename": "line_fr_471.mp3",
-        "audio_dir": "C'est ennuyeux."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -807,7 +771,7 @@
         "answer": "C'est difficile.",
         "goal_words": "C'est difficile.",
         "audio_filename": "line_fr_468.mp3",
-        "audio_dir": "C'est difficile."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -825,7 +789,7 @@
         "answer": "C'est facile.",
         "goal_words": "C'est facile.",
         "audio_filename": "line_fr_474.mp3",
-        "audio_dir": "C'est facile."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -843,7 +807,7 @@
         "answer": "C'est compliqué.",
         "goal_words": "C'est compliqué.",
         "audio_filename": "line_fr_464.mp3",
-        "audio_dir": "C'est compliqué."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -861,7 +825,7 @@
         "answer": "Il fait sombre.",
         "goal_words": "Il fait sombre.",
         "audio_filename": "line2_fr_466.mp3",
-        "audio_dir": "Il fait sombre."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -879,7 +843,7 @@
         "answer": "Il fait clair.",
         "goal_words": "Il fait clair.",
         "audio_filename": "line2_fr_457.mp3",
-        "audio_dir": "Il fait clair."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -897,7 +861,7 @@
         "answer": "C'est dangereux.",
         "goal_words": "C'est dangereux.",
         "audio_filename": "line_fr_466.mp3",
-        "audio_dir": "C'est dangereux."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -915,7 +879,7 @@
         "answer": "C'est sûr.",
         "goal_words": "C'est sûr.",
         "audio_filename": "line_fr_494.mp3",
-        "audio_dir": "C'est sûr."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -933,7 +897,7 @@
         "answer": "C'est propre.",
         "goal_words": "C'est propre.",
         "audio_filename": "line_fr_491.mp3",
-        "audio_dir": "C'est propre."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -951,7 +915,7 @@
         "answer": "C'est sale.",
         "goal_words": "C'est sale.",
         "audio_filename": "line_fr_492.mp3",
-        "audio_dir": "C'est sale."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -969,7 +933,7 @@
         "answer": "C'est spacieux.",
         "goal_words": "C'est spacieux.",
         "audio_filename": "line_fr_493.mp3",
-        "audio_dir": "C'est spacieux."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -987,7 +951,7 @@
         "answer": "C'est étroit.",
         "goal_words": "C'est étroit.",
         "audio_filename": "line_fr_472.mp3",
-        "audio_dir": "C'est étroit."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1005,7 +969,7 @@
         "answer": "C'est confortable.",
         "goal_words": "C'est confortable.",
         "audio_filename": "line_fr_465.mp3",
-        "audio_dir": "C'est confortable."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1023,7 +987,7 @@
         "answer": "C'est inconfortable.",
         "goal_words": "C'est inconfortable.",
         "audio_filename": "line_fr_477.mp3",
-        "audio_dir": "C'est inconfortable."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1041,7 +1005,7 @@
         "answer": "C'est lourd.",
         "goal_words": "C'est lourd.",
         "audio_filename": "line_fr_482.mp3",
-        "audio_dir": "C'est lourd."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1059,7 +1023,7 @@
         "answer": "C'est léger.",
         "goal_words": "C'est léger.",
         "audio_filename": "line_fr_481.mp3",
-        "audio_dir": "C'est léger."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1077,7 +1041,7 @@
         "answer": "C'est grand.",
         "goal_words": "C'est grand.",
         "audio_filename": "line_fr_475.mp3",
-        "audio_dir": "C'est grand."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1095,7 +1059,7 @@
         "answer": "C'est petit.",
         "goal_words": "C'est petit.",
         "audio_filename": "line_fr_489.mp3",
-        "audio_dir": "C'est petit."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1113,7 +1077,7 @@
         "answer": "C'est vieux.",
         "goal_words": "C'est vieux.",
         "audio_filename": "line_fr_496.mp3",
-        "audio_dir": "C'est vieux."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1131,7 +1095,7 @@
         "answer": "C'est neuf/nouveau.",
         "goal_words": "C'est neuf/nouveau.",
         "audio_filename": "line_fr_484.mp3",
-        "audio_dir": "C'est neuf/nouveau."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1149,7 +1113,7 @@
         "answer": "C'est cher.",
         "goal_words": "C'est cher.",
         "audio_filename": "line_fr_462.mp3",
-        "audio_dir": "C'est cher."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1167,7 +1131,7 @@
         "answer": "C'est bon marché.",
         "goal_words": "C'est bon marché.",
         "audio_filename": "line_fr_457.mp3",
-        "audio_dir": "C'est bon marché."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1185,7 +1149,7 @@
         "answer": "C'est beau.",
         "goal_words": "C'est beau.",
         "audio_filename": "line_fr_456.mp3",
-        "audio_dir": "C'est beau."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1203,7 +1167,7 @@
         "answer": "C'est laid.",
         "goal_words": "C'est laid.",
         "audio_filename": "line_fr_480.mp3",
-        "audio_dir": "C'est laid."
+        "learning_tag": "comment c'est?"
     },
     {
         "level": 3.0,
@@ -1221,11 +1185,11 @@
         "answer": "Elle est honteuse.",
         "goal_words": "Elle est honteuse.",
         "audio_filename": "line_fr_977.mp3",
-        "audio_dir": "Elle est honteuse."
+        "learning_tag": "comment se sent-elle ?"
     },
     {
         "level": 3.0,
-        "image_filename": "jeaslous2.jpg",
+        "image_filename": "jealous2.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, states and conditions are often expressed differently than in English. For personal states like hunger, thirst, or fear, French uses \"avoir\" (to have), e.g., J'ai faim (\"I am hungry,\" literally \"I have hunger\"). Weather conditions typically use \"il fait\" (it makes), e.g., Il fait chaud (\"It is hot,\" literally \"It makes heat\"). Temporary states or emotions often use \"être\" (to be), e.g., Je suis fatigué (\"I am tired\").  French externalizes some experiences and treats others as possessions, creating a distinct perspective compared to English.",
@@ -1238,8 +1202,8 @@
         "prompt": "______",
         "answer": "Elle est jaloux.",
         "goal_words": "Elle est jaloux.",
-        "audio_filename": "line_fr_978.mp3",
-        "audio_dir": "Elle est jaloux."
+        "audio_filename": "line10June26_fr_135.mp3",
+        "learning_tag": "comment se sent-elle ?"
     },
     {
         "level": 3.0,
@@ -1257,7 +1221,7 @@
         "answer": "Elle est malade.",
         "goal_words": "Elle est malade.",
         "audio_filename": "line_fr_979.mp3",
-        "audio_dir": "Elle est malade."
+        "learning_tag": "comment se sent-elle ?"
     },
     {
         "level": 3.0,
@@ -1275,7 +1239,7 @@
         "answer": "Elle est pleine d'espoir.",
         "goal_words": "Elle est pleine d'espoir.",
         "audio_filename": "line_fr_980.mp3",
-        "audio_dir": "Elle est pleine d'espoir."
+        "learning_tag": "comment se sent-elle ?"
     },
     {
         "level": 3.0,
@@ -1293,11 +1257,11 @@
         "answer": "Elle est fière.",
         "goal_words": "Elle est fière.",
         "audio_filename": "line_fr_976.mp3",
-        "audio_dir": "Elle est fière."
+        "learning_tag": "comment se sent-elle ?"
     },
     {
         "level": 3.0,
-        "image_filename": "curious.jpg",
+        "image_filename": "curious2.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "In French, states and conditions are often expressed differently than in English. For personal states like hunger, thirst, or fear, French uses \"avoir\" (to have), e.g., J'ai faim (\"I am hungry,\" literally \"I have hunger\"). Weather conditions typically use \"il fait\" (it makes), e.g., Il fait chaud (\"It is hot,\" literally \"It makes heat\"). Temporary states or emotions often use \"être\" (to be), e.g., Je suis fatigué (\"I am tired\").  French externalizes some experiences and treats others as possessions, creating a distinct perspective compared to English.",
@@ -1311,7 +1275,7 @@
         "answer": "Elle est curieuse.",
         "goal_words": "Elle est curieuse.",
         "audio_filename": "line_fr_973.mp3",
-        "audio_dir": "Elle est curieuse."
+        "learning_tag": "comment est-elle ?"
     },
     {
         "level": 3.0,
@@ -1329,7 +1293,7 @@
         "answer": "Elle est énergique.",
         "goal_words": "Elle est énergique.",
         "audio_filename": "line_fr_975.mp3",
-        "audio_dir": "Elle est énergique."
+        "learning_tag": "comment est-elle ?"
     },
     {
         "level": 3.0,
@@ -1347,7 +1311,7 @@
         "answer": "Il fait chaud.",
         "goal_words": "Il fait chaud.",
         "audio_filename": "line2_fr_456.mp3",
-        "audio_dir": "Il fait chaud."
+        "learning_tag": "comment est le temps ?"
     },
     {
         "level": 3.0,
@@ -1365,7 +1329,7 @@
         "answer": "Il fait froid.",
         "goal_words": "Il fait froid.",
         "audio_filename": "line2_fr_462.mp3",
-        "audio_dir": "Il fait froid."
+        "learning_tag": "comment est le temps ?"
     },
     {
         "level": 3.0,
@@ -1383,7 +1347,7 @@
         "answer": "Il fait soleil.",
         "goal_words": "Il fait soleil.",
         "audio_filename": "line2_fr_465.mp3",
-        "audio_dir": "Il fait soleil."
+        "learning_tag": "comment est le temps ?"
     },
     {
         "level": 3.0,
@@ -1401,7 +1365,7 @@
         "answer": "Il fait du vent.",
         "goal_words": "Il fait du vent.",
         "audio_filename": "line2_fr_461.mp3",
-        "audio_dir": "Il fait du vent."
+        "learning_tag": "comment est le temps ?"
     },
     {
         "level": 3.0,
@@ -1419,7 +1383,7 @@
         "answer": "Il y a du brouillard.",
         "goal_words": "Il y a du brouillard.",
         "audio_filename": "line2_fr_571.mp3",
-        "audio_dir": "Il y a du brouillard."
+        "learning_tag": "comment est le temps ?"
     },
     {
         "level": 3.0,
@@ -1437,7 +1401,7 @@
         "answer": "Il est nuageux.",
         "goal_words": "Il est nuageux.",
         "audio_filename": "line2_fr_437.mp3",
-        "audio_dir": "Il est nuageux."
+        "learning_tag": "comment est le temps ?"
     },
     {
         "level": 3.0,
@@ -1455,7 +1419,7 @@
         "answer": "Il pleut.",
         "goal_words": "Il pleut.",
         "audio_filename": "line2_fr_530.mp3",
-        "audio_dir": "Il pleut."
+        "learning_tag": "comment est le temps ?"
     },
     {
         "level": 3.0,
@@ -1473,7 +1437,7 @@
         "answer": "Il neige.",
         "goal_words": "Il neige.",
         "audio_filename": "line2_fr_515.mp3",
-        "audio_dir": "Il neige."
+        "learning_tag": "comment est le temps ?"
     },
     {
         "level": 3.0,
@@ -1491,7 +1455,7 @@
         "answer": "Il fait humide.",
         "goal_words": "Il fait humide.",
         "audio_filename": "line2_fr_463.mp3",
-        "audio_dir": "Il fait humide."
+        "learning_tag": "comment est le temps ?"
     },
     {
         "level": 3.0,
@@ -1509,7 +1473,7 @@
         "answer": "Il y a une tempête.",
         "goal_words": "Il y a une tempête.",
         "audio_filename": "line2_fr_578.mp3",
-        "audio_dir": "Il y a une tempête."
+        "learning_tag": "comment est le temps ?"
     },
     {
         "level": 3.0,
@@ -1527,7 +1491,7 @@
         "answer": "C'est impossible.",
         "goal_words": "C'est impossible.",
         "audio_filename": "line_fr_476.mp3",
-        "audio_dir": "C'est impossible."
+        "learning_tag": "quelle est la probabilité que ce soit ?"
     },
     {
         "level": 3.0,
@@ -1545,7 +1509,7 @@
         "answer": "C'est probable.",
         "goal_words": "C'est probable.",
         "audio_filename": "line_fr_490.mp3",
-        "audio_dir": "C'est probable."
+        "learning_tag": "quelle est la probabilité que ce soit ?"
     },
     {
         "level": 3.0,
@@ -1563,7 +1527,7 @@
         "answer": "C'est certain.",
         "goal_words": "C'est certain.",
         "audio_filename": "line_fr_460.mp3",
-        "audio_dir": "C'est certain."
+        "learning_tag": "quelle est la probabilité que ce soit ?"
     },
     {
         "level": 3.0,
@@ -1581,7 +1545,7 @@
         "answer": "C'est douteux.",
         "goal_words": "C'est douteux.",
         "audio_filename": "line_fr_469.mp3",
-        "audio_dir": "C'est douteux."
+        "learning_tag": "quelle est la probabilité que ce soit ?"
     },
     {
         "level": 3.0,
@@ -1599,7 +1563,7 @@
         "answer": "Il est tôt.",
         "goal_words": "Il est tôt.",
         "audio_filename": "line2_fr_443.mp3",
-        "audio_dir": "Il est tôt."
+        "learning_tag": "quelle heure est-il?"
     },
     {
         "level": 3.0,
@@ -1617,7 +1581,7 @@
         "answer": "Il est tard.",
         "goal_words": "Il est tard.",
         "audio_filename": "line2_fr_442.mp3",
-        "audio_dir": "Il est tard."
+        "learning_tag": "quelle heure est-il?"
     },
     {
         "level": 3.0,
@@ -1635,7 +1599,7 @@
         "answer": "Il est minuit.",
         "goal_words": "Il est minuit.",
         "audio_filename": "line2_fr_435.mp3",
-        "audio_dir": "Il est minuit."
+        "learning_tag": "quelle heure est-il?"
     },
     {
         "level": 3.0,
@@ -1653,7 +1617,7 @@
         "answer": "Il est midi.",
         "goal_words": "Il est midi.",
         "audio_filename": "line2_fr_434.mp3",
-        "audio_dir": "Il est midi."
+        "learning_tag": "quelle heure est-il?"
     },
     {
         "level": 3.0,
@@ -1667,11 +1631,11 @@
         "native_answer": "(almost) It is almost time.",
         "native_word": "what time is it?",
         "tag": "what time is it?",
-        "prompt": "(Presque)______",
+        "prompt": "(Presque) ______",
         "answer": "(Presque) Il est presque l'heure.",
-        "goal_words": " Il est presque l'heure.",
+        "goal_words": "Il est presque l'heure.",
         "audio_filename": "line_fr_71.mp3",
-        "audio_dir": "(Presque) Il est presque l'heure."
+        "learning_tag": "quelle heure est-il?"
     },
     {
         "level": 3.0,
@@ -1685,11 +1649,11 @@
         "native_answer": "(already) It is already time.",
         "native_word": "what time is it?",
         "tag": "what time is it?",
-        "prompt": "(Déjà)______",
+        "prompt": "(Déjà) ______",
         "answer": "(Déjà) Il est déjà l'heure.",
-        "goal_words": " Il est déjà l'heure.",
+        "goal_words": "Il est déjà l'heure.",
         "audio_filename": "line_fr_1.mp3",
-        "audio_dir": "(Déjà) Il est déjà l'heure."
+        "learning_tag": "quelle heure est-il?"
     },
     {
         "level": 3.0,
@@ -1703,11 +1667,11 @@
         "native_answer": "(past) It is past time.",
         "native_word": "what time is it?",
         "tag": "what time is it?",
-        "prompt": "(Passé)______",
+        "prompt": "(Passé) ______",
         "answer": "(Passé) Il est temps passé.",
-        "goal_words": " Il est temps passé.",
+        "goal_words": "Il est temps passé.",
         "audio_filename": "line_fr_69.mp3",
-        "audio_dir": "(Passé) Il est temps passé."
+        "learning_tag": "quelle heure est-il?"
     },
     {
         "level": 3.0,
@@ -1725,6 +1689,6 @@
         "answer": "(Partir) Il est temps de partir.",
         "goal_words": "Il est temps de partir.",
         "audio_filename": "line_fr_68.mp3",
-        "audio_dir": "(Partir) Il est temps de partir."
+        "learning_tag": "quelle heure est-il?"
     }
 ]

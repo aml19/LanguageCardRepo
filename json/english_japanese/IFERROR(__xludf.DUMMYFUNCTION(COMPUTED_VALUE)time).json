@@ -1,0 +1,20 @@
+[
+    {
+        "level": "early",
+        "image_filename": "=IFERROR(__xludf.DUMMYFUNCTION(\"FILTER(main!A1003:DL10011, ARRAYFORMULA(ISNUMBER(MATCH(main!K1003:K10011, A2:A500, 0))))\"),3.jpg",
+        "card_type": "=IFERROR(__xludf.DUMMYFUNCTION(\"\"\"COMPUTED_VALUE\"\"\"),\"early\")",
+        "identifier": "ID",
+        "info": "=IFERROR(__xludf.DUMMYFUNCTION(\"\"\"COMPUTED_VALUE\"\"\"),\"3 時間\")",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "=IFERROR(__xludf.DUMMYFUNCTION(\"\"\"COMPUTED_VALUE\"\"\"),\"time\")",
+        "native_answer": "=IFERROR(__xludf.DUMMYFUNCTION(\"\"\"COMPUTED_VALUE\"\"\"),\"early\")",
+        "native_word": "=IFERROR(__xludf.DUMMYFUNCTION(\"\"\"COMPUTED_VALUE\"\"\"),\"early\")",
+        "tag": "=IFERROR(__xludf.DUMMYFUNCTION(\"\"\"COMPUTED_VALUE\"\"\"),\"early\")",
+        "prompt": "______,\"早い\")",
+        "answer": "=IFERROR(__xludf.DUMMYFUNCTION(\"\"\"COMPUTED_VALUE\"\"\"),\"早い\")",
+        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"\"\"COMPUTED_VALUE\"\"\"), \"ha-ya-i\")",
+        "audio_filename": "=IFERROR(__xludf.DUMMYFUNCTION(\"\"\"COMPUTED_VALUE\"\"\"),\"hayai\").mp3",
+        "audio_dir": "=IFERROR(__xludf.DUMMYFUNCTION(\"\"\"COMPUTED_VALUE\"\"\"),\"line3_ja_561\")"
+    }
+]

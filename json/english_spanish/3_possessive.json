@@ -15,7 +15,7 @@
         "answer": "Yo -> mi",
         "goal_words": "mi",
         "audio_filename": "line5jan26_es_453.mp3",
-        "audio_dir": "mi"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "tú -> tu",
         "goal_words": "tu",
         "audio_filename": "line5jan26_es_535.mp3",
-        "audio_dir": "tu"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "ustedes -> su",
         "goal_words": "su",
         "audio_filename": "line5jan26_es_519.mp3",
-        "audio_dir": "su"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "él -> su",
         "goal_words": "su",
         "audio_filename": "line5jan26_es_519.mp3",
-        "audio_dir": "su"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "ella -> su",
         "goal_words": "su",
         "audio_filename": "line5jan26_es_519.mp3",
-        "audio_dir": "su"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "ellos -> su",
         "goal_words": "su",
         "audio_filename": "line5jan26_es_519.mp3",
-        "audio_dir": "su"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "nosotros -> nuestro",
         "goal_words": "nuestro",
         "audio_filename": "line4_es_152.mp3",
-        "audio_dir": "nosotros -> nuestro"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "Estoy decorando mi pastel",
         "goal_words": "mi pastel",
         "audio_filename": "line3_es_156.mp3",
-        "audio_dir": "Estoy decorando mi pastel"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "Tú estás tocando tu guitarra",
         "goal_words": "tu guitarra",
         "audio_filename": "line5_es_190.mp3",
-        "audio_dir": "Tú estás tocando tu guitarra"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "Ella está tocando su violín",
         "goal_words": "su violín",
         "audio_filename": "line2_es_535.mp3",
-        "audio_dir": "Ella está tocando su violín"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "Él está volando su dron",
         "goal_words": "su dron",
         "audio_filename": "line2_es_70.mp3",
-        "audio_dir": "Él está volando su dron"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "Ella terminó su pintura",
         "goal_words": "su pintura",
         "audio_filename": "line2_es_642.mp3",
-        "audio_dir": "Ella terminó su pintura"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "Ellos están comiendo en su mesa",
         "goal_words": "su mesa",
         "audio_filename": "line2_es_736.mp3",
-        "audio_dir": "Ellos están comiendo en su mesa"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "Nosotros estamos sentados en nuestro sofá",
         "goal_words": "nuestro sofá",
         "audio_filename": "line4_es_216.mp3",
-        "audio_dir": "Nosotros estamos sentados en nuestro sofá"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "Las alas de la mariposa son naranjas",
         "goal_words": "de la mariposa",
         "audio_filename": "line3_es_802.mp3",
-        "audio_dir": "Las alas de la mariposa son naranjas"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "La mochila de la mujer es amarilla",
         "goal_words": "La mochila de la mujer",
         "audio_filename": "line3_es_677.mp3",
-        "audio_dir": "La mochila de la mujer es amarilla"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -303,7 +303,7 @@
         "answer": "La mochila del hombre es azul",
         "goal_words": "La mochila del hombre",
         "audio_filename": "line3_es_678.mp3",
-        "audio_dir": "La mochila del hombre es azul"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -321,7 +321,7 @@
         "answer": "Yo - el pastel es mío",
         "goal_words": "mío",
         "audio_filename": "line5_es_911.mp3",
-        "audio_dir": "Yo - el pastel es mío"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -339,7 +339,7 @@
         "answer": "Tú - la guitarra es tuya",
         "goal_words": "tuya",
         "audio_filename": "line5_es_104.mp3",
-        "audio_dir": "Tú - la guitarra es tuya"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -357,7 +357,7 @@
         "answer": "Ella - el violín es suyo",
         "goal_words": "suyo",
         "audio_filename": "line2_es_454.mp3",
-        "audio_dir": "Ella - el violín es suyo"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -375,7 +375,7 @@
         "answer": "Él - el dron es suyo",
         "goal_words": "suyo",
         "audio_filename": "line_es_864.mp3",
-        "audio_dir": "Él - el dron es suyo"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -393,7 +393,7 @@
         "answer": "Ella - la pintura es suya",
         "goal_words": "suya",
         "audio_filename": "line2_es_455.mp3",
-        "audio_dir": "Ella - la pintura es suya"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -411,7 +411,7 @@
         "answer": "Ellos - la mesa es suya",
         "goal_words": "suya",
         "audio_filename": "line2_es_671.mp3",
-        "audio_dir": "Ellos - la mesa es suya"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -429,7 +429,7 @@
         "answer": "Nosotros - el sofá es nuestro",
         "goal_words": "nuestro",
         "audio_filename": "line4_es_151.mp3",
-        "audio_dir": "Nosotros - el sofá es nuestro"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -447,7 +447,7 @@
         "answer": "Mariposa - las alas naranjas son de la mariposa",
         "goal_words": "de la mariposa",
         "audio_filename": "line3_es_960.mp3",
-        "audio_dir": "Mariposa - las alas naranjas son de la mariposa"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -465,7 +465,7 @@
         "answer": "Mujer - la mochila es de la mujer",
         "goal_words": "de la mujer",
         "audio_filename": "line4_es_57.mp3",
-        "audio_dir": "Mujer - la mochila es de la mujer"
+        "learning_tag": "posesivo"
     },
     {
         "level": 3.0,
@@ -483,6 +483,6 @@
         "answer": "Hombre - la mochila es del hombre",
         "goal_words": "del hombre",
         "audio_filename": "line3_es_394.mp3",
-        "audio_dir": "Hombre - la mochila es del hombre"
+        "learning_tag": "posesivo"
     }
 ]

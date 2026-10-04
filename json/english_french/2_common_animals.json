@@ -15,7 +15,7 @@
         "answer": "la fourmi",
         "goal_words": "la fourmi",
         "audio_filename": "line3_fr_437.mp3",
-        "audio_dir": "la fourmi"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -33,7 +33,7 @@
         "answer": "l'abeille",
         "goal_words": "l'abeille",
         "audio_filename": "line3_fr_289.mp3",
-        "audio_dir": "l'abeille"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -51,7 +51,7 @@
         "answer": "l'oiseau",
         "goal_words": "l'oiseau",
         "audio_filename": "line3_fr_352.mp3",
-        "audio_dir": "l'oiseau"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -69,7 +69,7 @@
         "answer": "le taureau",
         "goal_words": "le taureau",
         "audio_filename": "line3_fr_838.mp3",
-        "audio_dir": "le taureau"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -87,7 +87,7 @@
         "answer": "le papillon",
         "goal_words": "le papillon",
         "audio_filename": "line3_fr_754.mp3",
-        "audio_dir": "le papillon"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -105,7 +105,7 @@
         "answer": "le chat",
         "goal_words": "le chat",
         "audio_filename": "line3_fr_631.mp3",
-        "audio_dir": "le chat"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -123,7 +123,7 @@
         "answer": "le poulet",
         "goal_words": "le poulet",
         "audio_filename": "line3_fr_776.mp3",
-        "audio_dir": "le poulet"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -141,7 +141,7 @@
         "answer": "le chien",
         "goal_words": "le chien",
         "audio_filename": "line3_fr_641.mp3",
-        "audio_dir": "le chien"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -159,7 +159,7 @@
         "answer": "le poisson",
         "goal_words": "le poisson",
         "audio_filename": "line3_fr_769.mp3",
-        "audio_dir": "le poisson"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -177,7 +177,7 @@
         "answer": "la mouche",
         "goal_words": "la mouche",
         "audio_filename": "line3_fr_475.mp3",
-        "audio_dir": "la mouche"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -195,7 +195,7 @@
         "answer": "le cheval",
         "goal_words": "le cheval",
         "audio_filename": "line3_fr_639.mp3",
-        "audio_dir": "le cheval"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -213,7 +213,7 @@
         "answer": "le lézard",
         "goal_words": "le lézard",
         "audio_filename": "line3_fr_715.mp3",
-        "audio_dir": "le lézard"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -231,7 +231,7 @@
         "answer": "le moustique",
         "goal_words": "le moustique",
         "audio_filename": "line3_fr_742.mp3",
-        "audio_dir": "le moustique"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -249,7 +249,7 @@
         "answer": "le cochon",
         "goal_words": "le cochon",
         "audio_filename": "line3_fr_647.mp3",
-        "audio_dir": "le cochon"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -267,7 +267,7 @@
         "answer": "le rat",
         "goal_words": "le rat",
         "audio_filename": "line3_fr_788.mp3",
-        "audio_dir": "le rat"
+        "learning_tag": "Animal"
     },
     {
         "level": 2.0,
@@ -285,6 +285,6 @@
         "answer": "l'araignée",
         "goal_words": "l'araignée",
         "audio_filename": "line3_fr_303.mp3",
-        "audio_dir": "l'araignée"
+        "learning_tag": "Animal"
     }
 ]

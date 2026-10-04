@@ -15,7 +15,7 @@
         "answer": "Places",
         "goal_words": "Place",
         "audio_filename": "line3_en_128.mp3",
-        "audio_dir": "Places"
+        "learning_tag": "noun - Buildings & Places"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "list is complete",
         "goal_words": "list",
         "audio_filename": "line2_en_530.mp3",
-        "audio_dir": "list is complete"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "guided tour",
         "goal_words": "tour",
         "audio_filename": "line_en_1025.mp3",
-        "audio_dir": "guided tour"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "cathedral",
         "goal_words": "cathedral",
         "audio_filename": "line_en_449.mp3",
-        "audio_dir": "cathedral"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "riverfront",
         "goal_words": "riverfront",
         "audio_filename": "line3_en_300.mp3",
-        "audio_dir": "riverfront"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "hour",
         "goal_words": "hour",
         "audio_filename": "line_en_1462.mp3",
-        "audio_dir": "hour"
+        "learning_tag": "time"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "shoe",
         "goal_words": "shoe",
         "audio_filename": "line3_en_714.mp3",
-        "audio_dir": "shoe"
+        "learning_tag": "clothing"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "bottle",
         "goal_words": "bottle",
         "audio_filename": "line_en_332.mp3",
-        "audio_dir": "bottle"
+        "learning_tag": "food"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "Break",
         "goal_words": "Break",
         "audio_filename": "line_en_345.mp3",
-        "audio_dir": "Break"
+        "learning_tag": "verb - object"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "sign up for a new application",
         "goal_words": "sign up",
         "audio_filename": "line3_en_736.mp3",
-        "audio_dir": "sign up for a new application"
+        "learning_tag": "verb"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "find a clue",
         "goal_words": "find",
         "audio_filename": "line_en_872.mp3",
-        "audio_dir": "find a clue"
+        "learning_tag": "verb - object"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "start race",
         "goal_words": "start",
         "audio_filename": "line3_en_848.mp3",
-        "audio_dir": "start race"
+        "learning_tag": "verb - change"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "excited",
         "goal_words": "excited",
         "audio_filename": "line_en_819.mp3",
-        "audio_dir": "excited"
+        "learning_tag": "adjective - feeling emotion"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "old car",
         "goal_words": "old",
         "audio_filename": "line3_en_13.mp3",
-        "audio_dir": "old car"
+        "learning_tag": "adjective - time"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "comfortable",
         "goal_words": "comfortable",
         "audio_filename": "line_en_524.mp3",
-        "audio_dir": "comfortable"
+        "learning_tag": "adjective"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "short pencil",
         "goal_words": "short",
         "audio_filename": "line3_en_716.mp3",
-        "audio_dir": "short pencil"
+        "learning_tag": "adjective - size"
     },
     {
         "level": 3.0,
@@ -303,6 +303,6 @@
         "answer": "your face when something is awesome",
         "goal_words": "awesome",
         "audio_filename": "line5_en_599.mp3",
-        "audio_dir": "your face when something is awesome"
+        "learning_tag": "adjective"
     }
 ]

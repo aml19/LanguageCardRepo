@@ -1,42 +1,6 @@
 [
     {
         "level": 3.0,
-        "image_filename": "successful.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "german",
-        "learning_language": "english",
-        "native_group": "3 wie geht's?",
-        "native_answer": "Sie sind erfolgreich.",
-        "native_word": "Wie sind sie?",
-        "tag": "Wie sind sie?",
-        "prompt": "______",
-        "answer": "They are successful.",
-        "goal_words": "They are successful.",
-        "audio_filename": "line4_en_144.mp3",
-        "audio_dir": "They are successful."
-    },
-    {
-        "level": 3.0,
-        "image_filename": "responsible.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "german",
-        "learning_language": "english",
-        "native_group": "3 wie geht's?",
-        "native_answer": "Sie sind verantwortlich.",
-        "native_word": "Wie sind sie?",
-        "tag": "Wie sind sie?",
-        "prompt": "______",
-        "answer": "They are responsible.",
-        "goal_words": "They are responsible.",
-        "audio_filename": "line4_en_141.mp3",
-        "audio_dir": "They are responsible."
-    },
-    {
-        "level": 3.0,
         "image_filename": "sad.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -51,7 +15,7 @@
         "answer": "I am sad.",
         "goal_words": "I am sad.",
         "audio_filename": "line_en_1575.mp3",
-        "audio_dir": "I am sad."
+        "learning_tag": "how are you feeling?"
     },
     {
         "level": 3.0,
@@ -69,7 +33,7 @@
         "answer": "I am angry.",
         "goal_words": "I am angry.",
         "audio_filename": "line_en_1555.mp3",
-        "audio_dir": "I am angry."
+        "learning_tag": "how are you feeling?"
     },
     {
         "level": 3.0,
@@ -87,7 +51,7 @@
         "answer": "I am tired.",
         "goal_words": "I am tired.",
         "audio_filename": "line_en_1582.mp3",
-        "audio_dir": "I am tired."
+        "learning_tag": "how are you feeling?"
     },
     {
         "level": 3.0,
@@ -105,7 +69,7 @@
         "answer": "I am excited.",
         "goal_words": "I am excited.",
         "audio_filename": "line_en_1564.mp3",
-        "audio_dir": "I am excited."
+        "learning_tag": "how are you feeling?"
     },
     {
         "level": 3.0,
@@ -123,7 +87,7 @@
         "answer": "I am bored.",
         "goal_words": "I am bored.",
         "audio_filename": "line_en_1557.mp3",
-        "audio_dir": "I am bored."
+        "learning_tag": "how are you feeling?"
     },
     {
         "level": 3.0,
@@ -141,7 +105,7 @@
         "answer": "I am surprised.",
         "goal_words": "I am surprised.",
         "audio_filename": "line_en_1580.mp3",
-        "audio_dir": "I am surprised."
+        "learning_tag": "how are you feeling?"
     },
     {
         "level": 3.0,
@@ -159,7 +123,7 @@
         "answer": "I am disappointed.",
         "goal_words": "I am disappointed.",
         "audio_filename": "line_en_1562.mp3",
-        "audio_dir": "I am disappointed."
+        "learning_tag": "how are you feeling?"
     },
     {
         "level": 3.0,
@@ -177,7 +141,7 @@
         "answer": "I am nervous.",
         "goal_words": "I am nervous.",
         "audio_filename": "line_en_1571.mp3",
-        "audio_dir": "I am nervous."
+        "learning_tag": "how are you feeling?"
     },
     {
         "level": 3.0,
@@ -195,7 +159,7 @@
         "answer": "I am embarrassed.",
         "goal_words": "I am embarrassed.",
         "audio_filename": "line_en_1563.mp3",
-        "audio_dir": "I am embarrassed."
+        "learning_tag": "how are you feeling?"
     },
     {
         "level": 3.0,
@@ -213,7 +177,7 @@
         "answer": "I am hungry.",
         "goal_words": "I am hungry.",
         "audio_filename": "line_en_1568.mp3",
-        "audio_dir": "I am hungry."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
@@ -231,7 +195,7 @@
         "answer": "I am thirsty.",
         "goal_words": "I am thirsty.",
         "audio_filename": "line_en_1581.mp3",
-        "audio_dir": "I am thirsty."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
@@ -249,11 +213,11 @@
         "answer": "I am cold.",
         "goal_words": "I am cold.",
         "audio_filename": "line_en_1559.mp3",
-        "audio_dir": "I am cold."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
-        "image_filename": "hot3.jpg",
+        "image_filename": "hot4.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -267,7 +231,7 @@
         "answer": "I am hot.",
         "goal_words": "I am hot.",
         "audio_filename": "line_en_1567.mp3",
-        "audio_dir": "I am hot."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
@@ -285,7 +249,7 @@
         "answer": "I am sleepy.",
         "goal_words": "I am sleepy.",
         "audio_filename": "line_en_1579.mp3",
-        "audio_dir": "I am sleepy."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
@@ -303,7 +267,7 @@
         "answer": "I am scared.",
         "goal_words": "I am scared.",
         "audio_filename": "line_en_1576.mp3",
-        "audio_dir": "I am scared."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
@@ -321,7 +285,7 @@
         "answer": "I am lucky.",
         "goal_words": "I am lucky.",
         "audio_filename": "line_en_1570.mp3",
-        "audio_dir": "I am lucky."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
@@ -339,7 +303,7 @@
         "answer": "I am in a hurry.",
         "goal_words": "I am in a hurry.",
         "audio_filename": "line_en_1569.mp3",
-        "audio_dir": "I am in a hurry."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
@@ -357,7 +321,7 @@
         "answer": "I am right.",
         "goal_words": "I am right.",
         "audio_filename": "line_en_1574.mp3",
-        "audio_dir": "I am right."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
@@ -375,7 +339,7 @@
         "answer": "I am careful.",
         "goal_words": "I am careful.",
         "audio_filename": "line_en_1558.mp3",
-        "audio_dir": "I am careful."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
@@ -393,7 +357,7 @@
         "answer": "I am happy.",
         "goal_words": "I am happy.",
         "audio_filename": "line_en_1566.mp3",
-        "audio_dir": "I am happy."
+        "learning_tag": "how are you?"
     },
     {
         "level": 3.0,
@@ -411,11 +375,11 @@
         "answer": "It is surprising.",
         "goal_words": "It is surprising.",
         "audio_filename": "line2_en_347.mp3",
-        "audio_dir": "It is surprising."
+        "learning_tag": "how does it feel?"
     },
     {
         "level": 3.0,
-        "image_filename": "surprised.jpg",
+        "image_filename": "shocking.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -429,7 +393,7 @@
         "answer": "It is shocking.",
         "goal_words": "It is shocking.",
         "audio_filename": "line2_en_340.mp3",
-        "audio_dir": "It is shocking."
+        "learning_tag": "how does it feel?"
     },
     {
         "level": 3.0,
@@ -447,7 +411,7 @@
         "answer": "It is amusing.",
         "goal_words": "It is amusing.",
         "audio_filename": "line2_en_296.mp3",
-        "audio_dir": "It is amusing."
+        "learning_tag": "how does it feel?"
     },
     {
         "level": 3.0,
@@ -465,7 +429,7 @@
         "answer": "It is scary.",
         "goal_words": "It is scary.",
         "audio_filename": "line2_en_339.mp3",
-        "audio_dir": "It is scary."
+        "learning_tag": "how does it feel?"
     },
     {
         "level": 3.0,
@@ -483,7 +447,7 @@
         "answer": "It is exciting.",
         "goal_words": "It is exciting.",
         "audio_filename": "line2_en_318.mp3",
-        "audio_dir": "It is exciting."
+        "learning_tag": "how does it feel?"
     },
     {
         "level": 3.0,
@@ -501,7 +465,7 @@
         "answer": "It is confusing.",
         "goal_words": "It is confusing.",
         "audio_filename": "line2_en_307.mp3",
-        "audio_dir": "It is confusing."
+        "learning_tag": "how does it feel?"
     },
     {
         "level": 3.0,
@@ -519,7 +483,7 @@
         "answer": "He is tired.",
         "goal_words": "He is tired.",
         "audio_filename": "line_en_1200.mp3",
-        "audio_dir": "He is tired."
+        "learning_tag": "how is he feeling?"
     },
     {
         "level": 3.0,
@@ -537,7 +501,7 @@
         "answer": "He is confused.",
         "goal_words": "He is confused.",
         "audio_filename": "line_en_1189.mp3",
-        "audio_dir": "He is confused."
+        "learning_tag": "how is he feeling?"
     },
     {
         "level": 3.0,
@@ -555,7 +519,7 @@
         "answer": "He is healthy.",
         "goal_words": "He is healthy.",
         "audio_filename": "line_en_1193.mp3",
-        "audio_dir": "He is healthy."
+        "learning_tag": "how is he feeling?"
     },
     {
         "level": 3.0,
@@ -573,7 +537,7 @@
         "answer": "He is confident.",
         "goal_words": "He is confident.",
         "audio_filename": "line_en_1188.mp3",
-        "audio_dir": "He is confident."
+        "learning_tag": "how is he like?"
     },
     {
         "level": 3.0,
@@ -591,7 +555,7 @@
         "answer": "He is ambitious.",
         "goal_words": "He is ambitious.",
         "audio_filename": "line_en_1185.mp3",
-        "audio_dir": "He is ambitious."
+        "learning_tag": "how is he like?"
     },
     {
         "level": 3.0,
@@ -609,7 +573,7 @@
         "answer": "He is patient.",
         "goal_words": "He is patient.",
         "audio_filename": "line_en_1195.mp3",
-        "audio_dir": "He is patient."
+        "learning_tag": "how is he like?"
     },
     {
         "level": 3.0,
@@ -627,7 +591,7 @@
         "answer": "He is cautious.",
         "goal_words": "He is cautious.",
         "audio_filename": "line_en_1187.mp3",
-        "audio_dir": "He is cautious."
+        "learning_tag": "how is he like?"
     },
     {
         "level": 3.0,
@@ -645,7 +609,7 @@
         "answer": "He is polite.",
         "goal_words": "He is polite.",
         "audio_filename": "line_en_1196.mp3",
-        "audio_dir": "He is polite."
+        "learning_tag": "how is he like?"
     },
     {
         "level": 3.0,
@@ -663,7 +627,7 @@
         "answer": "He is brave.",
         "goal_words": "He is brave.",
         "audio_filename": "line_en_1186.mp3",
-        "audio_dir": "He is brave."
+        "learning_tag": "how is he?"
     },
     {
         "level": 3.0,
@@ -681,7 +645,7 @@
         "answer": "It is noisy.",
         "goal_words": "It is noisy.",
         "audio_filename": "line2_en_331.mp3",
-        "audio_dir": "It is noisy."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -699,7 +663,7 @@
         "answer": "It is quiet.",
         "goal_words": "It is quiet.",
         "audio_filename": "line2_en_336.mp3",
-        "audio_dir": "It is quiet."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -717,7 +681,7 @@
         "answer": "It is crowded.",
         "goal_words": "It is crowded.",
         "audio_filename": "line2_en_310.mp3",
-        "audio_dir": "It is crowded."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -735,7 +699,7 @@
         "answer": "It is peaceful.",
         "goal_words": "It is peaceful.",
         "audio_filename": "line2_en_334.mp3",
-        "audio_dir": "It is peaceful."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -753,7 +717,7 @@
         "answer": "It is chaotic.",
         "goal_words": "It is chaotic.",
         "audio_filename": "line2_en_301.mp3",
-        "audio_dir": "It is chaotic."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -771,7 +735,7 @@
         "answer": "It is fun.",
         "goal_words": "It is fun.",
         "audio_filename": "line2_en_321.mp3",
-        "audio_dir": "It is fun."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -789,7 +753,7 @@
         "answer": "It is boring.",
         "goal_words": "It is boring.",
         "audio_filename": "line2_en_299.mp3",
-        "audio_dir": "It is boring."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -807,7 +771,7 @@
         "answer": "It is difficult.",
         "goal_words": "It is difficult.",
         "audio_filename": "line2_en_313.mp3",
-        "audio_dir": "It is difficult."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -825,7 +789,7 @@
         "answer": "It is easy.",
         "goal_words": "It is easy.",
         "audio_filename": "line2_en_317.mp3",
-        "audio_dir": "It is easy."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -843,7 +807,7 @@
         "answer": "It is complicated.",
         "goal_words": "It is complicated.",
         "audio_filename": "line2_en_306.mp3",
-        "audio_dir": "It is complicated."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -861,11 +825,11 @@
         "answer": "It is dark.",
         "goal_words": "It is dark.",
         "audio_filename": "line2_en_312.mp3",
-        "audio_dir": "It is dark."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
-        "image_filename": "light.jpg",
+        "image_filename": "light2.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -879,7 +843,7 @@
         "answer": "It is light.",
         "goal_words": "It is light.",
         "audio_filename": "line2_en_328.mp3",
-        "audio_dir": "It is light."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -897,7 +861,7 @@
         "answer": "It is dangerous.",
         "goal_words": "It is dangerous.",
         "audio_filename": "line2_en_311.mp3",
-        "audio_dir": "It is dangerous."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -915,7 +879,7 @@
         "answer": "It is safe.",
         "goal_words": "It is safe.",
         "audio_filename": "line2_en_338.mp3",
-        "audio_dir": "It is safe."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -933,7 +897,7 @@
         "answer": "It is clean.",
         "goal_words": "It is clean.",
         "audio_filename": "line2_en_303.mp3",
-        "audio_dir": "It is clean."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -951,7 +915,7 @@
         "answer": "It is dirty.",
         "goal_words": "It is dirty.",
         "audio_filename": "line2_en_314.mp3",
-        "audio_dir": "It is dirty."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -969,7 +933,7 @@
         "answer": "It is spacious.",
         "goal_words": "It is spacious.",
         "audio_filename": "line2_en_344.mp3",
-        "audio_dir": "It is spacious."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -987,7 +951,7 @@
         "answer": "It is cramped.",
         "goal_words": "It is cramped.",
         "audio_filename": "line2_en_309.mp3",
-        "audio_dir": "It is cramped."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1005,7 +969,7 @@
         "answer": "It is cozy.",
         "goal_words": "It is cozy.",
         "audio_filename": "line2_en_308.mp3",
-        "audio_dir": "It is cozy."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1023,7 +987,7 @@
         "answer": "It is uncomfortable.",
         "goal_words": "It is uncomfortable.",
         "audio_filename": "line2_en_349.mp3",
-        "audio_dir": "It is uncomfortable."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1041,7 +1005,7 @@
         "answer": "It is heavy.",
         "goal_words": "It is heavy.",
         "audio_filename": "line2_en_322.mp3",
-        "audio_dir": "It is heavy."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1059,7 +1023,7 @@
         "answer": "It is light (weight).",
         "goal_words": "It is light (weight).",
         "audio_filename": "line2_en_327.mp3",
-        "audio_dir": "It is light (weight)."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1077,7 +1041,7 @@
         "answer": "It is big.",
         "goal_words": "It is big.",
         "audio_filename": "line2_en_298.mp3",
-        "audio_dir": "It is big."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1095,7 +1059,7 @@
         "answer": "It is small.",
         "goal_words": "It is small.",
         "audio_filename": "line2_en_342.mp3",
-        "audio_dir": "It is small."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1113,7 +1077,7 @@
         "answer": "It is old.",
         "goal_words": "It is old.",
         "audio_filename": "line2_en_333.mp3",
-        "audio_dir": "It is old."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1131,7 +1095,7 @@
         "answer": "It is new.",
         "goal_words": "It is new.",
         "audio_filename": "line2_en_330.mp3",
-        "audio_dir": "It is new."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1149,7 +1113,7 @@
         "answer": "It is expensive.",
         "goal_words": "It is expensive.",
         "audio_filename": "line2_en_319.mp3",
-        "audio_dir": "It is expensive."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1167,7 +1131,7 @@
         "answer": "It is cheap.",
         "goal_words": "It is cheap.",
         "audio_filename": "line2_en_302.mp3",
-        "audio_dir": "It is cheap."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1185,7 +1149,7 @@
         "answer": "It is beautiful.",
         "goal_words": "It is beautiful.",
         "audio_filename": "line2_en_297.mp3",
-        "audio_dir": "It is beautiful."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1203,7 +1167,7 @@
         "answer": "It is ugly.",
         "goal_words": "It is ugly.",
         "audio_filename": "line2_en_348.mp3",
-        "audio_dir": "It is ugly."
+        "learning_tag": "how is it?"
     },
     {
         "level": 3.0,
@@ -1221,11 +1185,11 @@
         "answer": "She is ashamed.",
         "goal_words": "She is ashamed.",
         "audio_filename": "line3_en_553.mp3",
-        "audio_dir": "She is ashamed."
+        "learning_tag": "how is she feeling?"
     },
     {
         "level": 3.0,
-        "image_filename": "jeaslous2.jpg",
+        "image_filename": "jealous2.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -1238,8 +1202,8 @@
         "prompt": "______",
         "answer": "She is jealous.",
         "goal_words": "She is jealous.",
-        "audio_filename": "line3_en_560.mp3",
-        "audio_dir": "She is jealous."
+        "audio_filename": "line10June26_en_344.mp3",
+        "learning_tag": "how is she feeling?"
     },
     {
         "level": 3.0,
@@ -1257,7 +1221,7 @@
         "answer": "She is sick.",
         "goal_words": "She is sick.",
         "audio_filename": "line3_en_565.mp3",
-        "audio_dir": "She is sick."
+        "learning_tag": "how is she feeling?"
     },
     {
         "level": 3.0,
@@ -1275,7 +1239,7 @@
         "answer": "She is hopeful.",
         "goal_words": "She is hopeful.",
         "audio_filename": "line3_en_558.mp3",
-        "audio_dir": "She is hopeful."
+        "learning_tag": "how is she feeling?"
     },
     {
         "level": 3.0,
@@ -1293,11 +1257,11 @@
         "answer": "She is proud.",
         "goal_words": "She is proud.",
         "audio_filename": "line3_en_563.mp3",
-        "audio_dir": "She is proud."
+        "learning_tag": "how is she feeling?"
     },
     {
         "level": 3.0,
-        "image_filename": "curious.jpg",
+        "image_filename": "curious2.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -1311,7 +1275,7 @@
         "answer": "She is curious.",
         "goal_words": "She is curious.",
         "audio_filename": "line3_en_555.mp3",
-        "audio_dir": "She is curious."
+        "learning_tag": "how is she like?"
     },
     {
         "level": 3.0,
@@ -1329,7 +1293,7 @@
         "answer": "She is energetic.",
         "goal_words": "She is energetic.",
         "audio_filename": "line3_en_557.mp3",
-        "audio_dir": "She is energetic."
+        "learning_tag": "how is she like?"
     },
     {
         "level": 3.0,
@@ -1347,7 +1311,7 @@
         "answer": "It is hot.",
         "goal_words": "It is hot.",
         "audio_filename": "line2_en_323.mp3",
-        "audio_dir": "It is hot."
+        "learning_tag": "how is the the weather?"
     },
     {
         "level": 3.0,
@@ -1365,7 +1329,7 @@
         "answer": "It is cold.",
         "goal_words": "It is cold.",
         "audio_filename": "line2_en_305.mp3",
-        "audio_dir": "It is cold."
+        "learning_tag": "how is the the weather?"
     },
     {
         "level": 3.0,
@@ -1383,7 +1347,7 @@
         "answer": "It is sunny.",
         "goal_words": "It is sunny.",
         "audio_filename": "line2_en_346.mp3",
-        "audio_dir": "It is sunny."
+        "learning_tag": "how is the the weather?"
     },
     {
         "level": 3.0,
@@ -1401,7 +1365,7 @@
         "answer": "It is windy.",
         "goal_words": "It is windy.",
         "audio_filename": "line2_en_350.mp3",
-        "audio_dir": "It is windy."
+        "learning_tag": "how is the the weather?"
     },
     {
         "level": 3.0,
@@ -1419,7 +1383,7 @@
         "answer": "It is foggy.",
         "goal_words": "It is foggy.",
         "audio_filename": "line2_en_320.mp3",
-        "audio_dir": "It is foggy."
+        "learning_tag": "how is the the weather?"
     },
     {
         "level": 3.0,
@@ -1437,7 +1401,7 @@
         "answer": "It is cloudy.",
         "goal_words": "It is cloudy.",
         "audio_filename": "line2_en_304.mp3",
-        "audio_dir": "It is cloudy."
+        "learning_tag": "how is the the weather?"
     },
     {
         "level": 3.0,
@@ -1455,7 +1419,7 @@
         "answer": "It is raining.",
         "goal_words": "It is raining.",
         "audio_filename": "line2_en_337.mp3",
-        "audio_dir": "It is raining."
+        "learning_tag": "how is the the weather?"
     },
     {
         "level": 3.0,
@@ -1473,7 +1437,7 @@
         "answer": "It is snowing.",
         "goal_words": "It is snowing.",
         "audio_filename": "line2_en_343.mp3",
-        "audio_dir": "It is snowing."
+        "learning_tag": "how is the the weather?"
     },
     {
         "level": 3.0,
@@ -1491,7 +1455,7 @@
         "answer": "It is humid.",
         "goal_words": "It is humid.",
         "audio_filename": "line2_en_324.mp3",
-        "audio_dir": "It is humid."
+        "learning_tag": "how is the the weather?"
     },
     {
         "level": 3.0,
@@ -1509,7 +1473,7 @@
         "answer": "It is stormy.",
         "goal_words": "It is stormy.",
         "audio_filename": "line2_en_345.mp3",
-        "audio_dir": "It is stormy."
+        "learning_tag": "how is the the weather?"
     },
     {
         "level": 3.0,
@@ -1527,7 +1491,7 @@
         "answer": "It is impossible.",
         "goal_words": "It is impossible.",
         "audio_filename": "line2_en_325.mp3",
-        "audio_dir": "It is impossible."
+        "learning_tag": "how likely is it?"
     },
     {
         "level": 3.0,
@@ -1545,7 +1509,7 @@
         "answer": "It is probable.",
         "goal_words": "It is probable.",
         "audio_filename": "line2_en_335.mp3",
-        "audio_dir": "It is probable."
+        "learning_tag": "how likely is it?"
     },
     {
         "level": 3.0,
@@ -1563,7 +1527,7 @@
         "answer": "It is certain.",
         "goal_words": "It is certain.",
         "audio_filename": "line2_en_300.mp3",
-        "audio_dir": "It is certain."
+        "learning_tag": "how likely is it?"
     },
     {
         "level": 3.0,
@@ -1581,7 +1545,7 @@
         "answer": "It is doubtful.",
         "goal_words": "It is doubtful.",
         "audio_filename": "line2_en_315.mp3",
-        "audio_dir": "It is doubtful."
+        "learning_tag": "how likely is it?"
     },
     {
         "level": 3.0,
@@ -1599,7 +1563,7 @@
         "answer": "It is early.",
         "goal_words": "It is early.",
         "audio_filename": "line2_en_316.mp3",
-        "audio_dir": "It is early."
+        "learning_tag": "what time is it?"
     },
     {
         "level": 3.0,
@@ -1617,7 +1581,7 @@
         "answer": "It is late.",
         "goal_words": "It is late.",
         "audio_filename": "line2_en_326.mp3",
-        "audio_dir": "It is late."
+        "learning_tag": "what time is it?"
     },
     {
         "level": 3.0,
@@ -1635,7 +1599,7 @@
         "answer": "It is midnight.",
         "goal_words": "It is midnight.",
         "audio_filename": "line2_en_329.mp3",
-        "audio_dir": "It is midnight."
+        "learning_tag": "what time is it?"
     },
     {
         "level": 3.0,
@@ -1653,7 +1617,7 @@
         "answer": "It is noon.",
         "goal_words": "It is noon.",
         "audio_filename": "line2_en_332.mp3",
-        "audio_dir": "It is noon."
+        "learning_tag": "what time is it?"
     },
     {
         "level": 3.0,
@@ -1671,7 +1635,7 @@
         "answer": "(almost) It is almost time.",
         "goal_words": "It is almost time.",
         "audio_filename": "line_en_30.mp3",
-        "audio_dir": "(almost) It is almost time."
+        "learning_tag": "what time is it?"
     },
     {
         "level": 3.0,
@@ -1689,7 +1653,7 @@
         "answer": "(already) It is already time.",
         "goal_words": "It is already time.",
         "audio_filename": "line_en_31.mp3",
-        "audio_dir": "(already) It is already time."
+        "learning_tag": "what time is it?"
     },
     {
         "level": 3.0,
@@ -1707,7 +1671,7 @@
         "answer": "(past) It is past time.",
         "goal_words": "It is past time.",
         "audio_filename": "line_en_42.mp3",
-        "audio_dir": "(past) It is past time."
+        "learning_tag": "what time is it?"
     },
     {
         "level": 3.0,
@@ -1725,6 +1689,6 @@
         "answer": "(to leave) It is time to leave.",
         "goal_words": "It is time to leave.",
         "audio_filename": "line_en_51.mp3",
-        "audio_dir": "(to leave) It is time to leave."
+        "learning_tag": "what time is it?"
     }
 ]

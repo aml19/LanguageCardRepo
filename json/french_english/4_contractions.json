@@ -9,13 +9,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Je suis content aujourd’hui.",
-        "native_word": "être",
-        "tag": "être",
+        "native_word": "to be",
+        "tag": "to be",
         "prompt": "I am – ______ happy today.",
         "answer": "I am – I'm happy today.",
         "goal_words": "I'm",
         "audio_filename": "line2_en_175.mp3",
-        "audio_dir": "I'm"
+        "learning_tag": "to be"
     },
     {
         "level": 4.0,
@@ -27,13 +27,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Tu es mon meilleur ami.",
-        "native_word": "être",
-        "tag": "être",
+        "native_word": "to be",
+        "tag": "to be",
         "prompt": "You are – ______ my best friend.",
         "answer": "You are – You're my best friend.",
         "goal_words": "You're",
         "audio_filename": "line5_en_588.mp3",
-        "audio_dir": "You're"
+        "learning_tag": "to be"
     },
     {
         "level": 4.0,
@@ -45,13 +45,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Il est fatigué.",
-        "native_word": "être",
-        "tag": "être",
+        "native_word": "to be",
+        "tag": "to be",
         "prompt": "He is – ______ tired.",
         "answer": "He is – He's tired.",
         "goal_words": "He's",
         "audio_filename": "line_en_1349.mp3",
-        "audio_dir": "He's"
+        "learning_tag": "to be"
     },
     {
         "level": 4.0,
@@ -63,13 +63,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Elle est gentille.",
-        "native_word": "être",
-        "tag": "être",
+        "native_word": "to be",
+        "tag": "to be",
         "prompt": "She is – ______ nice.",
         "answer": "She is – She's nice.",
         "goal_words": "She's",
         "audio_filename": "line3_en_707.mp3",
-        "audio_dir": "She's"
+        "learning_tag": "to be"
     },
     {
         "level": 4.0,
@@ -81,13 +81,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Il fait froid dehors.",
-        "native_word": "être",
-        "tag": "être",
+        "native_word": "to be",
+        "tag": "to be",
         "prompt": "It is – ______ cold outside.",
         "answer": "It is – It's cold outside.",
         "goal_words": "It's",
         "audio_filename": "line2_en_403.mp3",
-        "audio_dir": "It's"
+        "learning_tag": "to be"
     },
     {
         "level": 4.0,
@@ -99,13 +99,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Nous allons au parc.",
-        "native_word": "être",
-        "tag": "être",
+        "native_word": "to be",
+        "tag": "to be",
         "prompt": "We are – ______ going to the park.",
         "answer": "We are – We're going to the park.",
         "goal_words": "We're",
         "audio_filename": "line5_en_29.mp3",
-        "audio_dir": "We're"
+        "learning_tag": "to be"
     },
     {
         "level": 4.0,
@@ -117,13 +117,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Ils sont à l’école.",
-        "native_word": "être",
-        "tag": "être",
+        "native_word": "to be",
+        "tag": "to be",
         "prompt": "They are – ______ at school.",
         "answer": "They are – They're at school.",
         "goal_words": "They're",
         "audio_filename": "line4_en_405.mp3",
-        "audio_dir": "They're"
+        "learning_tag": "to be"
     },
     {
         "level": 4.0,
@@ -135,13 +135,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "J’ai vu ce film.",
-        "native_word": "avoir ou \"a\"",
-        "tag": "avoir ou \"a\"",
+        "native_word": "have or \"has\"",
+        "tag": "have or \"has\"",
         "prompt": "I have – ______ seen that movie.",
         "answer": "I have – I've seen that movie.",
         "goal_words": "I've",
         "audio_filename": "line2_en_178.mp3",
-        "audio_dir": "I've"
+        "learning_tag": "have or \"has\""
     },
     {
         "level": 4.0,
@@ -153,13 +153,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Tu as fait un excellent travail.",
-        "native_word": "avoir ou \"a\"",
-        "tag": "avoir ou \"a\"",
+        "native_word": "have or \"has\"",
+        "tag": "have or \"has\"",
         "prompt": "You have – ______ done a great job.",
         "answer": "You have – You've done a great job.",
         "goal_words": "You've",
         "audio_filename": "line5_en_596.mp3",
-        "audio_dir": "You've"
+        "learning_tag": "have or \"has\""
     },
     {
         "level": 4.0,
@@ -171,13 +171,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Il a fini ses devoirs.",
-        "native_word": "avoir ou \"a\"",
-        "tag": "avoir ou \"a\"",
+        "native_word": "have or \"has\"",
+        "tag": "have or \"has\"",
         "prompt": "He has – ______ finished his homework.",
         "answer": "He has – He's finished his homework.",
         "goal_words": "He's",
         "audio_filename": "line_en_1349.mp3",
-        "audio_dir": "He's"
+        "learning_tag": "have or \"has\""
     },
     {
         "level": 4.0,
@@ -189,13 +189,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Elle est allée au magasin.",
-        "native_word": "avoir ou \"a\"",
-        "tag": "avoir ou \"a\"",
+        "native_word": "have or \"has\"",
+        "tag": "have or \"has\"",
         "prompt": "She has – ______ gone to the store.",
         "answer": "She has – She's gone to the store.",
         "goal_words": "She's",
         "audio_filename": "line3_en_707.mp3",
-        "audio_dir": "She's"
+        "learning_tag": "have or \"has\""
     },
     {
         "level": 4.0,
@@ -207,13 +207,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Nous y sommes déjà allés.",
-        "native_word": "avoir ou \"a\"",
-        "tag": "avoir ou \"a\"",
+        "native_word": "have or \"has\"",
+        "tag": "have or \"has\"",
         "prompt": "We have – ______ been there before.",
         "answer": "We have – We've been there before.",
         "goal_words": "We've",
         "audio_filename": "line5_en_31.mp3",
-        "audio_dir": "We've"
+        "learning_tag": "have or \"has\""
     },
     {
         "level": 4.0,
@@ -225,13 +225,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Ils ont déjà mangé.",
-        "native_word": "avoir ou \"a\"",
-        "tag": "avoir ou \"a\"",
+        "native_word": "have or \"has\"",
+        "tag": "have or \"has\"",
         "prompt": "They have – ______ already eaten.",
         "answer": "They have – They've already eaten.",
         "goal_words": "They've",
         "audio_filename": "line4_en_407.mp3",
-        "audio_dir": "They've"
+        "learning_tag": "have or \"has\""
     },
     {
         "level": 4.0,
@@ -243,13 +243,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Je t’appellerai plus tard.",
-        "native_word": "volonté",
-        "tag": "volonté",
+        "native_word": "will",
+        "tag": "will",
         "prompt": "I will – ______ call you later.",
         "answer": "I will – I'll call you later.",
         "goal_words": "I'll",
         "audio_filename": "line2_en_174.mp3",
-        "audio_dir": "I'll"
+        "learning_tag": "will"
     },
     {
         "level": 4.0,
@@ -261,13 +261,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Tu vas adorer ce livre.",
-        "native_word": "volonté",
-        "tag": "volonté",
+        "native_word": "will",
+        "tag": "will",
         "prompt": "You will – ______ love this book.",
         "answer": "You will – You'll love this book.",
         "goal_words": "You'll",
         "audio_filename": "line5_en_586.mp3",
-        "audio_dir": "You'll"
+        "learning_tag": "will"
     },
     {
         "level": 4.0,
@@ -279,13 +279,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Il sera là bientôt.",
-        "native_word": "volonté",
-        "tag": "volonté",
+        "native_word": "will",
+        "tag": "will",
         "prompt": "He will – ______ be here soon.",
         "answer": "He will – He'll be here soon.",
         "goal_words": "He'll",
         "audio_filename": "line_en_1348.mp3",
-        "audio_dir": "He'll"
+        "learning_tag": "will"
     },
     {
         "level": 4.0,
@@ -297,13 +297,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Elle comprendra.",
-        "native_word": "volonté",
-        "tag": "volonté",
+        "native_word": "will",
+        "tag": "will",
         "prompt": "She will – ______ understand.",
         "answer": "She will – She'll understand.",
         "goal_words": "She'll",
         "audio_filename": "line3_en_706.mp3",
-        "audio_dir": "She'll"
+        "learning_tag": "will"
     },
     {
         "level": 4.0,
@@ -315,13 +315,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Ce sera bien.",
-        "native_word": "volonté",
-        "tag": "volonté",
+        "native_word": "will",
+        "tag": "will",
         "prompt": "It will – ______ be fine.",
         "answer": "It will – It'll be fine.",
         "goal_words": "It'll",
         "audio_filename": "line2_en_402.mp3",
-        "audio_dir": "It'll"
+        "learning_tag": "will"
     },
     {
         "level": 4.0,
@@ -333,13 +333,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Nous parlerons demain.",
-        "native_word": "volonté",
-        "tag": "volonté",
+        "native_word": "will",
+        "tag": "will",
         "prompt": "We will – ______ talk tomorrow.",
         "answer": "We will – We'll talk tomorrow.",
         "goal_words": "We'll",
         "audio_filename": "line5_en_26.mp3",
-        "audio_dir": "We'll"
+        "learning_tag": "will"
     },
     {
         "level": 4.0,
@@ -351,13 +351,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Ils arriveront à midi.",
-        "native_word": "volonté",
-        "tag": "volonté",
+        "native_word": "will",
+        "tag": "will",
         "prompt": "They will – ______ arrive at noon.",
         "answer": "They will – They'll arrive at noon.",
         "goal_words": "They'll",
         "audio_filename": "line4_en_404.mp3",
-        "audio_dir": "They'll"
+        "learning_tag": "will"
     },
     {
         "level": 4.0,
@@ -369,13 +369,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Je voudrais un café.",
-        "native_word": "« serait » ou « aurait »",
-        "tag": "« serait » ou « aurait »",
+        "native_word": "would or \"had\"",
+        "tag": "would or \"had\"",
         "prompt": "I would – ______ like some coffee.",
         "answer": "I would – I'd like some coffee.",
         "goal_words": "I'd",
         "audio_filename": "line2_en_173.mp3",
-        "audio_dir": "I'd"
+        "learning_tag": "would or \"had\""
     },
     {
         "level": 4.0,
@@ -387,13 +387,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "J’étais déjà parti.",
-        "native_word": "« serait » ou « aurait »",
-        "tag": "« serait » ou « aurait »",
+        "native_word": "would or \"had\"",
+        "tag": "would or \"had\"",
         "prompt": "I had – ______ already left.",
         "answer": "I had – I'd already left.",
         "goal_words": "I'd",
         "audio_filename": "line2_en_173.mp3",
-        "audio_dir": "I'd"
+        "learning_tag": "would or \"had\""
     },
     {
         "level": 4.0,
@@ -405,13 +405,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Tu aimerais ça.",
-        "native_word": "« serait » ou « aurait »",
-        "tag": "« serait » ou « aurait »",
+        "native_word": "would or \"had\"",
+        "tag": "would or \"had\"",
         "prompt": "You would – ______ enjoy this.",
         "answer": "You would – You'd enjoy this.",
         "goal_words": "You'd",
         "audio_filename": "line5_en_585.mp3",
-        "audio_dir": "You'd"
+        "learning_tag": "would or \"had\""
     },
     {
         "level": 4.0,
@@ -423,13 +423,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Tu avais fini tôt.",
-        "native_word": "« serait » ou « aurait »",
-        "tag": "« serait » ou « aurait »",
+        "native_word": "would or \"had\"",
+        "tag": "would or \"had\"",
         "prompt": "You had – ______ finished early.",
         "answer": "You had – You'd finished early.",
         "goal_words": "You'd",
         "audio_filename": "line5_en_585.mp3",
-        "audio_dir": "You'd"
+        "learning_tag": "would or \"had\""
     },
     {
         "level": 4.0,
@@ -441,13 +441,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Il aiderait s’il pouvait.",
-        "native_word": "« serait » ou « aurait »",
-        "tag": "« serait » ou « aurait »",
+        "native_word": "would or \"had\"",
+        "tag": "would or \"had\"",
         "prompt": "He would – ______ help if he could.",
         "answer": "He would – He'd help if he could.",
         "goal_words": "He'd",
         "audio_filename": "line_en_1347.mp3",
-        "audio_dir": "He'd"
+        "learning_tag": "would or \"had\""
     },
     {
         "level": 4.0,
@@ -459,13 +459,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Elle était rentrée chez elle.",
-        "native_word": "« serait » ou « aurait »",
-        "tag": "« serait » ou « aurait »",
+        "native_word": "would or \"had\"",
+        "tag": "would or \"had\"",
         "prompt": "She had – ______ gone home.",
         "answer": "She had – She'd gone home.",
         "goal_words": "She'd",
         "audio_filename": "line3_en_705.mp3",
-        "audio_dir": "She'd"
+        "learning_tag": "would or \"had\""
     },
     {
         "level": 4.0,
@@ -477,13 +477,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Il vaudrait mieux qu’on parte maintenant.",
-        "native_word": "« serait » ou « aurait »",
-        "tag": "« serait » ou « aurait »",
+        "native_word": "would or \"had\"",
+        "tag": "would or \"had\"",
         "prompt": "We would – ______ better go now.",
         "answer": "We would – We'd better go now.",
         "goal_words": "We'd",
         "audio_filename": "line5_en_25.mp3",
-        "audio_dir": "We'd"
+        "learning_tag": "would or \"had\""
     },
     {
         "level": 4.0,
@@ -495,13 +495,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Nous avions fini le dîner.",
-        "native_word": "« serait » ou « aurait »",
-        "tag": "« serait » ou « aurait »",
+        "native_word": "would or \"had\"",
+        "tag": "would or \"had\"",
         "prompt": "We had – ______ finished dinner.",
         "answer": "We had – We'd finished dinner.",
         "goal_words": "We'd",
         "audio_filename": "line5_en_25.mp3",
-        "audio_dir": "We'd"
+        "learning_tag": "would or \"had\""
     },
     {
         "level": 4.0,
@@ -513,13 +513,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Ils seraient heureux d’aider.",
-        "native_word": "« serait » ou « aurait »",
-        "tag": "« serait » ou « aurait »",
+        "native_word": "would or \"had\"",
+        "tag": "would or \"had\"",
         "prompt": "They would – ______ be happy to help.",
         "answer": "They would – They'd be happy to help.",
         "goal_words": "They'd",
         "audio_filename": "line4_en_403.mp3",
-        "audio_dir": "They'd"
+        "learning_tag": "would or \"had\""
     },
     {
         "level": 4.0,
@@ -531,13 +531,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Ils l’avaient déjà vu.",
-        "native_word": "« serait » ou « aurait »",
-        "tag": "« serait » ou « aurait »",
+        "native_word": "would or \"had\"",
+        "tag": "would or \"had\"",
         "prompt": "They had – ______ seen it before.",
         "answer": "They had – They'd seen it before.",
         "goal_words": "They'd",
         "audio_filename": "line4_en_403.mp3",
-        "audio_dir": "They'd"
+        "learning_tag": "would or \"had\""
     },
     {
         "level": 4.0,
@@ -549,13 +549,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Ce n’est pas mon livre.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Is not – This ______ my book.",
         "answer": "Is not – This isn't my book.",
         "goal_words": "isn't",
         "audio_filename": "line2_en_252.mp3",
-        "audio_dir": "isn't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -567,13 +567,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Ils ne sont pas encore prêts.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Are not – They ______ ready yet.",
         "answer": "Are not – They aren't ready yet.",
         "goal_words": "aren't",
         "audio_filename": "line_en_185.mp3",
-        "audio_dir": "aren't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -585,13 +585,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Il n’était pas là.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Was not – He ______ there.",
         "answer": "Was not – He wasn't there.",
         "goal_words": "wasn't",
         "audio_filename": "line4_en_685.mp3",
-        "audio_dir": "wasn't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -603,13 +603,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Tu n’étais pas en retard.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Were not – You ______ late.",
         "answer": "Were not – You weren't late.",
         "goal_words": "weren't",
         "audio_filename": "line5_en_41.mp3",
-        "audio_dir": "weren't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -621,13 +621,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Je n’aime pas les champignons.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Do not – I ______ like mushrooms.",
         "answer": "Do not – I don't like mushrooms.",
         "goal_words": "don't",
         "audio_filename": "line_en_690.mp3",
-        "audio_dir": "don't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -639,13 +639,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Elle ne connaît pas la réponse.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Does not – She ______ know the answer.",
         "answer": "Does not – She doesn't know the answer.",
         "goal_words": "doesn't",
         "audio_filename": "line_en_683.mp3",
-        "audio_dir": "doesn't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -657,13 +657,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Nous ne t’avons pas vu.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Did not – We ______ see you.",
         "answer": "Did not – We didn't see you.",
         "goal_words": "didn't",
         "audio_filename": "line_en_648.mp3",
-        "audio_dir": "didn't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -675,13 +675,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Je ne sais pas nager.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Cannot – I ______ swim.",
         "answer": "Cannot – I can't swim.",
         "goal_words": "can't",
         "audio_filename": "line_en_430.mp3",
-        "audio_dir": "can't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -693,13 +693,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Il ne viendra pas aujourd’hui.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Will not – He ______ come today.",
         "answer": "Will not – He won't come today.",
         "goal_words": "won't",
         "audio_filename": "line5_en_140.mp3",
-        "audio_dir": "won't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -711,13 +711,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Elle ne te mentirait pas.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Would not – She ______ lie to you.",
         "answer": "Would not – She wouldn't lie to you.",
         "goal_words": "wouldn't",
         "audio_filename": "line5_en_165.mp3",
-        "audio_dir": "wouldn't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -729,13 +729,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Tu ne devrais pas être en retard.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Should not – You ______ be late.",
         "answer": "Should not – You shouldn't be late.",
         "goal_words": "shouldn't",
         "audio_filename": "line3_en_723.mp3",
-        "audio_dir": "shouldn't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -747,13 +747,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Ils ne pouvaient pas nous entendre.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Could not – They ______ hear us.",
         "answer": "Could not – They couldn't hear us.",
         "goal_words": "couldn't",
         "audio_filename": "line_en_570.mp3",
-        "audio_dir": "couldn't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -765,13 +765,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Je n’ai pas encore fini.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Have not – I ______ finished yet.",
         "answer": "Have not – I haven't finished yet.",
         "goal_words": "haven't",
         "audio_filename": "line_en_1059.mp3",
-        "audio_dir": "haven't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -783,13 +783,13 @@
         "learning_language": "english",
         "native_group": "4 contractions",
         "native_answer": "Il ne m’a pas appelé.",
-        "native_word": "pas",
-        "tag": "pas",
+        "native_word": "not",
+        "tag": "not",
         "prompt": "Has not – He ______ called me.",
         "answer": "Has not – He hasn't called me.",
         "goal_words": "hasn't",
         "audio_filename": "line_en_1053.mp3",
-        "audio_dir": "hasn't"
+        "learning_tag": "not"
     },
     {
         "level": 4.0,
@@ -807,7 +807,7 @@
         "answer": "don’t know – I dunno what to say.",
         "goal_words": "dunno",
         "audio_filename": "line_en_751.mp3",
-        "audio_dir": "dunno"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -825,7 +825,7 @@
         "answer": "going to – I’m gonna call her later.",
         "goal_words": "gonna",
         "audio_filename": "line_en_987.mp3",
-        "audio_dir": "gonna"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -843,7 +843,7 @@
         "answer": "want to – Do you wanna get pizza?",
         "goal_words": "wanna",
         "audio_filename": "line4_en_678.mp3",
-        "audio_dir": "wanna"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -861,7 +861,7 @@
         "answer": "got to / have to – I gotta finish this by tonight.",
         "goal_words": "gotta",
         "audio_filename": "line_en_996.mp3",
-        "audio_dir": "gotta"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -879,7 +879,7 @@
         "answer": "let me – Lemme help you with that.",
         "goal_words": "Lemme",
         "audio_filename": "line2_en_500.mp3",
-        "audio_dir": "lemme"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -897,7 +897,7 @@
         "answer": "give me – Gimme a second, I’m coming.",
         "goal_words": "Gimme",
         "audio_filename": "line_en_970.mp3",
-        "audio_dir": "gimme"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -915,7 +915,7 @@
         "answer": "could have – I coulda gone, but I was tired.",
         "goal_words": "coulda",
         "audio_filename": "line_en_568.mp3",
-        "audio_dir": "coulda"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -933,7 +933,7 @@
         "answer": "should have – You shoulda told me earlier.",
         "goal_words": "shoulda",
         "audio_filename": "line3_en_721.mp3",
-        "audio_dir": "shoulda"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -951,7 +951,7 @@
         "answer": "would have – I woulda helped if I’d known.",
         "goal_words": "woulda",
         "audio_filename": "line5_en_163.mp3",
-        "audio_dir": "woulda"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -965,11 +965,11 @@
         "native_answer": "Ce n’est pas juste !",
         "native_word": "contraction informelle",
         "tag": "contraction informelle",
-        "prompt": "am not / is not / are not / has not / have not – That ain’t fair!",
+        "prompt": "am not / is not / are not / has not / have not – That ______ fair!",
         "answer": "am not / is not / are not / has not / have not – That ain’t fair!",
-        "goal_words": "Ain't",
+        "goal_words": "ain’t",
         "audio_filename": "line_en_126.mp3",
-        "audio_dir": "ain't"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -983,11 +983,11 @@
         "native_answer": "Vous venez tous à la fête ?",
         "native_word": "contraction informelle",
         "tag": "contraction informelle",
-        "prompt": "you all – Y’all coming to the party?",
+        "prompt": "you all – ______ coming to the party?",
         "answer": "you all – Y’all coming to the party?",
-        "goal_words": "y'all",
+        "goal_words": "Y’all",
         "audio_filename": "line5_en_179.mp3",
-        "audio_dir": "Y'all"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1005,7 +1005,7 @@
         "answer": "get them – I’ll get ’em later.",
         "goal_words": "get ’em",
         "audio_filename": "line_en_964.mp3",
-        "audio_dir": "get ’em"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1023,7 +1023,7 @@
         "answer": "let them – Lemme see ’em.",
         "goal_words": "Lemme",
         "audio_filename": "line2_en_500.mp3",
-        "audio_dir": "Lemme"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1041,7 +1041,7 @@
         "answer": "give them – Gimme those papers.",
         "goal_words": "Gimme",
         "audio_filename": "line_en_970.mp3",
-        "audio_dir": "Gimme"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1059,7 +1059,7 @@
         "answer": "tell them – Tell ’em I’m busy.",
         "goal_words": "Tell ’em",
         "audio_filename": "line3_en_971.mp3",
-        "audio_dir": "Tell ’em"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1077,7 +1077,7 @@
         "answer": "help them – Help ’em out if you can.",
         "goal_words": "Help ’em",
         "audio_filename": "line_en_1415.mp3",
-        "audio_dir": "Help ’em"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1095,7 +1095,7 @@
         "answer": "what is – Whassup? (What’s up?)",
         "goal_words": "Whassup",
         "audio_filename": "line5_en_44.mp3",
-        "audio_dir": "Whassup"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1113,7 +1113,7 @@
         "answer": "what are you – Whatcha doing? (What are you doing?)",
         "goal_words": "Whatcha",
         "audio_filename": "line5_en_70.mp3",
-        "audio_dir": "Whatcha"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1131,7 +1131,7 @@
         "answer": "what do you – Whaddaya mean? (What do you mean?)",
         "goal_words": "Whaddaya",
         "audio_filename": "line5_en_43.mp3",
-        "audio_dir": "Whaddaya"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1149,7 +1149,7 @@
         "answer": "did you – Didja see that?",
         "goal_words": "Didja",
         "audio_filename": "line_en_647.mp3",
-        "audio_dir": "Didja"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1167,7 +1167,7 @@
         "answer": "don’t you – Don’tcha want some?",
         "goal_words": "Don’tcha",
         "audio_filename": "line_en_718.mp3",
-        "audio_dir": "Don’tcha"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1185,7 +1185,7 @@
         "answer": "won’t you – Won’tcha stay a little longer?",
         "goal_words": "Won’tcha",
         "audio_filename": "line5_en_141.mp3",
-        "audio_dir": "Won’tcha"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1203,7 +1203,7 @@
         "answer": "would you – Wouldja mind helping me?",
         "goal_words": "Wouldja",
         "audio_filename": "line5_en_164.mp3",
-        "audio_dir": "Wouldja"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1221,7 +1221,7 @@
         "answer": "could you – Couldja grab that for me?",
         "goal_words": "Couldja",
         "audio_filename": "line_en_569.mp3",
-        "audio_dir": "Couldja"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1239,7 +1239,7 @@
         "answer": "should you – Shouldn’tcha be working?",
         "goal_words": "Shouldn’tcha",
         "audio_filename": "line3_en_724.mp3",
-        "audio_dir": "Shouldn’tcha"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1257,7 +1257,7 @@
         "answer": "how did you – How’dja do that?",
         "goal_words": "How’dja",
         "audio_filename": "line_en_1484.mp3",
-        "audio_dir": "How’dja"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1275,7 +1275,7 @@
         "answer": "how do you – How d’ya know?",
         "goal_words": "How d’ya",
         "audio_filename": "line_en_1466.mp3",
-        "audio_dir": "How d’ya"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1293,7 +1293,7 @@
         "answer": "have you – Have ya heard the news?",
         "goal_words": "Have ya",
         "audio_filename": "line_en_1058.mp3",
-        "audio_dir": "Have ya"
+        "learning_tag": "informal contraction"
     },
     {
         "level": 4.0,
@@ -1311,6 +1311,6 @@
         "answer": "are you – Are ya ready yet?",
         "goal_words": "Are ya",
         "audio_filename": "line_en_181.mp3",
-        "audio_dir": "Are ya"
+        "learning_tag": "informal contraction"
     }
 ]

@@ -15,7 +15,7 @@
         "answer": "Sie ist in der Box",
         "goal_words": "in",
         "audio_filename": "line4_de_830.mp3",
-        "audio_dir": "Sie ist in der Box"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -26,14 +26,14 @@
         "native_language": "english",
         "learning_language": "german",
         "native_group": "3 preposition",
-        "native_answer": "wake up in the morning",
+        "native_answer": "wake up in​ the morning",
         "native_word": "preposition",
         "tag": "preposition",
         "prompt": "Aufwachen ______ Morgen",
         "answer": "Aufwachen am Morgen",
         "goal_words": "am",
         "audio_filename": "line_de_254.mp3",
-        "audio_dir": "Aufwachen am Morgen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "Das Essen ist auf dem Tisch",
         "goal_words": "auf",
         "audio_filename": "line_de_481.mp3",
-        "audio_dir": "Das Essen ist auf dem Tisch"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -65,11 +65,11 @@
         "native_answer": "picture frame hanging on the wall",
         "native_word": "preposition",
         "tag": "preposition",
-        "prompt": "Bilderrahmen hängt ______ der W______d",
-        "answer": "Bilderrahmen hängt an der Wand",
-        "goal_words": "an",
+        "prompt": "Bilderrahmen hängt ______ der Wand",
+        "answer": "Bilderrahmen hängt an​ der Wand",
+        "goal_words": "an​",
         "audio_filename": "line_de_347.mp3",
-        "audio_dir": "Bilderrahmen hängt an der Wand"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "Zeit im Park verbringen",
         "goal_words": "im",
         "audio_filename": "line5_de_900.mp3",
-        "audio_dir": "Zeit im Park verbringen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "Um acht Uhr findet eine Geschäftssitzung statt.",
         "goal_words": "Um",
         "audio_filename": "line26jan26_de_495.mp3",
-        "audio_dir": "Um acht Uhr findet eine Geschäftssitzung statt."
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "Sie sitzt am Fenster",
         "goal_words": "am",
         "audio_filename": "line4_de_962.mp3",
-        "audio_dir": "Sie sitzt am Fenster"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "Ein Picknick am Fluss",
         "goal_words": "am",
         "audio_filename": "line2_de_575.mp3",
-        "audio_dir": "Ein Picknick am Fluss"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "Einen Salat zum Mittagessen essen",
         "goal_words": "zum",
         "audio_filename": "line2_de_628.mp3",
-        "audio_dir": "Einen Salat zum Mittagessen essen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "Weihnachtsgeschenke für ihre Familie kaufen",
         "goal_words": "für",
         "audio_filename": "line5_de_509.mp3",
-        "audio_dir": "Weihnachtsgeschenke für ihre Familie kaufen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -191,11 +191,11 @@
         "native_answer": "drinking at a bar with friends",
         "native_word": "preposition",
         "tag": "preposition",
-        "prompt": "Mit Freunden ______ e______er Bar tr______ken",
-        "answer": "Mit Freunden in einer Bar trinken",
-        "goal_words": "in",
+        "prompt": "Mit Freunden ______ einer Bar trinken",
+        "answer": "Mit Freunden in​ einer Bar trinken",
+        "goal_words": "in​",
         "audio_filename": "line4_de_189.mp3",
-        "audio_dir": "Mit Freunden in einer Bar trinken"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "Ideen mit Stift und Papier schreiben",
         "goal_words": "mit",
         "audio_filename": "line3_de_741.mp3",
-        "audio_dir": "Ideen mit Stift und Papier schreiben"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "Mit seiner Mutter zur Schule gehen",
         "goal_words": "Mit",
         "audio_filename": "line4_de_195.mp3",
-        "audio_dir": "Mit seiner Mutter zur Schule gehen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "Einem jüngeren Geschwisterkind einen Ball zuwerfen",
         "goal_words": "Einem",
         "audio_filename": "line2_de_619.mp3",
-        "audio_dir": "Einem jüngeren Geschwisterkind einen Ball zuwerfen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "Online von einem Laden bestellen",
         "goal_words": "von",
         "audio_filename": "line4_de_298.mp3",
-        "audio_dir": "Online von einem Laden bestellen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "Lebensmittel aus dem Lebensmittelgeschäft",
         "goal_words": "aus dem",
         "audio_filename": "line4_de_88.mp3",
-        "audio_dir": "Lebensmittel aus dem Lebensmittelgeschäft"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -303,7 +303,7 @@
         "answer": "In den Pool springen",
         "goal_words": "In den",
         "audio_filename": "line3_de_889.mp3",
-        "audio_dir": "In den Pool springen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -317,11 +317,11 @@
         "native_answer": "breaking into a stranger's car",
         "native_word": "preposition",
         "tag": "preposition",
-        "prompt": "In das Auto e______es Fremden e______brechen",
-        "answer": "In das Auto eines Fremden einbrechen",
-        "goal_words": "in",
+        "prompt": "In​ das Auto eines Fremden einbrechen",
+        "answer": "In​ das Auto eines Fremden einbrechen",
+        "goal_words": "in​",
         "audio_filename": "line3_de_888.mp3",
-        "audio_dir": "In das Auto eines Fremden einbrechen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -339,7 +339,7 @@
         "answer": "Wasser auf den Boden verschütten",
         "goal_words": "auf",
         "audio_filename": "line5_de_500.mp3",
-        "audio_dir": "Wasser auf den Boden verschütten"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -357,7 +357,7 @@
         "answer": "Ein Stück Kuchen",
         "goal_words": "Ein",
         "audio_filename": "line2_de_583.mp3",
-        "audio_dir": "Ein Stück Kuchen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -375,7 +375,7 @@
         "answer": "Die Spitze des Berges",
         "goal_words": "des",
         "audio_filename": "line2_de_151.mp3",
-        "audio_dir": "Die Spitze des Berges"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -393,7 +393,7 @@
         "answer": "Über den Wolken fliegen",
         "goal_words": "Über",
         "audio_filename": "line5_de_323.mp3",
-        "audio_dir": "Über den Wolken fliegen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -411,7 +411,7 @@
         "answer": "Sie ist unter dem Regenschirm",
         "goal_words": "unter",
         "audio_filename": "line4_de_835.mp3",
-        "audio_dir": "Sie ist unter dem Regenschirm"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -429,7 +429,7 @@
         "answer": "Über Essen nachdenken",
         "goal_words": "Über",
         "audio_filename": "line5_de_324.mp3",
-        "audio_dir": "Über Essen nachdenken"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -447,7 +447,7 @@
         "answer": "Ein Buch über Wissenschaft",
         "goal_words": "über",
         "audio_filename": "line2_de_551.mp3",
-        "audio_dir": "Ein Buch über Wissenschaft"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -465,7 +465,7 @@
         "answer": "Unter der Wasseroberfläche",
         "goal_words": "Unter der",
         "audio_filename": "line5_de_352.mp3",
-        "audio_dir": "Unter der Wasseroberfläche"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -483,7 +483,7 @@
         "answer": "zwischen den Reihen",
         "goal_words": "zwischen",
         "audio_filename": "line5_de_930.mp3",
-        "audio_dir": "zwischen den Reihen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -501,7 +501,7 @@
         "answer": "Im Park zwischen den Linien parken",
         "goal_words": "zwischen",
         "audio_filename": "line3_de_885.mp3",
-        "audio_dir": "Im Park zwischen den Linien parken"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -519,7 +519,7 @@
         "answer": "Durch einen Tunnel gehen",
         "goal_words": "Durch",
         "audio_filename": "line2_de_527.mp3",
-        "audio_dir": "Durch einen Tunnel gehen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -537,7 +537,7 @@
         "answer": "Durch das Fernglas schauen",
         "goal_words": "Durch",
         "audio_filename": "line2_de_526.mp3",
-        "audio_dir": "Durch das Fernglas schauen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -555,7 +555,7 @@
         "answer": "Eine Person inmitten einer Menschenmenge",
         "goal_words": "inmitten",
         "audio_filename": "line2_de_609.mp3",
-        "audio_dir": "Eine Person inmitten einer Menschenmenge"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -573,7 +573,7 @@
         "answer": "Während des Unterrichts schlafen",
         "goal_words": "Während",
         "audio_filename": "line5_de_462.mp3",
-        "audio_dir": "Während des Unterrichts schlafen"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -591,7 +591,7 @@
         "answer": "vor",
         "goal_words": "vor",
         "audio_filename": "line5_de_438.mp3",
-        "audio_dir": "vor"
+        "learning_tag": "Präposition"
     },
     {
         "level": 3.0,
@@ -609,6 +609,6 @@
         "answer": "nach",
         "goal_words": "nach",
         "audio_filename": "line4_de_237.mp3",
-        "audio_dir": "nach"
+        "learning_tag": "Präposition"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "level": 4.0,
         "image_filename": "sure.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -11,11 +11,11 @@
         "native_answer": "sure: confident in what one thinks or knows",
         "native_word": "adjective -  Judgment",
         "tag": "adjective -  Judgment",
-        "prompt": "______: zuversichtlich in dem, was man denkt oder weiß",
+        "prompt": "sicher: zuversichtlich in dem, was man denkt oder weiß",
         "answer": "sicher: zuversichtlich in dem, was man denkt oder weiß",
         "goal_words": "sicher",
         "audio_filename": "line4_de_554.mp3",
-        "audio_dir": "sicher: zuversichtlich in dem, was man denkt oder weiß"
+        "learning_tag": "Adjektiv – Urteil"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "bereit, fertig, los",
         "goal_words": "bereit",
         "audio_filename": "line_de_312.mp3",
-        "audio_dir": "bereit, fertig, los"
+        "learning_tag": "Adjektiv - Zustand"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "Nervös",
         "goal_words": "Nervös",
         "audio_filename": "line4_de_258.mp3",
-        "audio_dir": "Nervös"
+        "learning_tag": "Adjektiv – Emotion empfinden"
     },
     {
         "level": 4.0,
@@ -65,11 +65,11 @@
         "native_answer": "capable: having the ability",
         "native_word": "adjective -  Judgment",
         "tag": "adjective -  Judgment",
-        "prompt": "______: die Fähigkeit haben",
+        "prompt": "fähig: die Fähigkeit haben",
         "answer": "fähig: die Fähigkeit haben",
         "goal_words": "fähig",
         "audio_filename": "line3_de_148.mp3",
-        "audio_dir": "fähig: die Fähigkeit haben"
+        "learning_tag": "Adjektiv – Urteil"
     },
     {
         "level": 4.0,
@@ -83,11 +83,11 @@
         "native_answer": "really big robot - used for emphasis",
         "native_word": "adverb",
         "tag": "adverb",
-        "prompt": "______ großer Roboter - zur Betonung verwendet",
+        "prompt": "echt großer Roboter - zur Betonung verwendet",
         "answer": "echt großer Roboter - zur Betonung verwendet",
         "goal_words": "echt",
         "audio_filename": "line2_de_532.mp3",
-        "audio_dir": "echt großer Roboter - zur Betonung verwendet"
+        "learning_tag": "Adverb"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "nur",
         "goal_words": "",
         "audio_filename": "line4_de_283.mp3",
-        "audio_dir": "nur"
+        "learning_tag": "Adverb"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "gut",
         "goal_words": "",
         "audio_filename": "line3_de_335.mp3",
-        "audio_dir": "gut"
+        "learning_tag": "Adverb - Manieren"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "Okay",
         "goal_words": "",
         "audio_filename": "line4_de_294.mp3",
-        "audio_dir": "Okay"
+        "learning_tag": "Adverb - Manieren"
     },
     {
         "level": 4.0,
@@ -159,43 +159,7 @@
         "answer": "Was auch immer",
         "goal_words": "",
         "audio_filename": "line5_de_478.mp3",
-        "audio_dir": "Was auch immer"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "mom.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "Mom",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Die ______",
-        "answer": "Die Mama",
-        "goal_words": "Mama",
-        "audio_filename": "line2_de_69.mp3",
-        "audio_dir": "Die Mama"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "dad.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "Dad",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Der ______",
-        "answer": "Der Papa",
-        "goal_words": "Papa",
-        "audio_filename": "line_de_785.mp3",
-        "audio_dir": "Der Papa"
+        "learning_tag": "Adverb – Urteil"
     },
     {
         "level": 4.0,
@@ -213,7 +177,7 @@
         "answer": "Etwas in der Box",
         "goal_words": "Etwas",
         "audio_filename": "line3_de_144.mp3",
-        "audio_dir": "Etwas in der Box"
+        "learning_tag": "Substantiv – Ideen und Konzepte"
     },
     {
         "level": 4.0,
@@ -231,7 +195,7 @@
         "answer": "Der Geist: das Element einer Person, das es ihnen ermöglicht, sich der Welt und ihren Erfahrungen bewusst zu sein",
         "goal_words": "Geist",
         "audio_filename": "line_de_694.mp3",
-        "audio_dir": "Der Geist: das Element einer Person, das es ihnen ermöglicht, sich der Welt und ihren Erfahrungen bewusst zu sein"
+        "learning_tag": "Substantiv - Körperteile"
     },
     {
         "level": 4.0,
@@ -249,7 +213,7 @@
         "answer": "Der Rat: Anleitung oder Empfehlungen im Hinblick auf kluges zukünftiges Handeln.",
         "goal_words": "Rat",
         "audio_filename": "line_de_798.mp3",
-        "audio_dir": "Der Rat: Anleitung oder Empfehlungen im Hinblick auf kluges zukünftiges Handeln."
+        "learning_tag": "Substantiv – Ideen und Konzepte"
     },
     {
         "level": 4.0,
@@ -267,7 +231,7 @@
         "answer": "Das Praktikum: die Position eines Studenten oder Auszubildenden, der in einer Organisation arbeitet",
         "goal_words": "Praktikum",
         "audio_filename": "line_de_557.mp3",
-        "audio_dir": "Das Praktikum: die Position eines Studenten oder Auszubildenden, der in einer Organisation arbeitet"
+        "learning_tag": "Substantiv - Aktivitäten"
     },
     {
         "level": 4.0,
@@ -285,7 +249,7 @@
         "answer": "Die Gelegenheit: ein Satz von Umständen, die es ermöglichen, etwas zu tun.",
         "goal_words": "Gelegenheit",
         "audio_filename": "line_de_989.mp3",
-        "audio_dir": "Die Gelegenheit: ein Satz von Umständen, die es ermöglichen, etwas zu tun."
+        "learning_tag": "Substantiv – Ideen und Konzepte"
     },
     {
         "level": 4.0,
@@ -303,7 +267,7 @@
         "answer": "Die Arbeitsbelastung: die Menge an Arbeit, die von jemandem oder etwas zu erledigen ist.",
         "goal_words": "Arbeitsbelastung",
         "audio_filename": "line_de_912.mp3",
-        "audio_dir": "Die Arbeitsbelastung: die Menge an Arbeit, die von jemandem oder etwas zu erledigen ist."
+        "learning_tag": "Substantiv - Zeit & Messung"
     },
     {
         "level": 4.0,
@@ -321,7 +285,7 @@
         "answer": "Die Entscheidung: Wahl",
         "goal_words": "Entscheidung",
         "audio_filename": "line_de_964.mp3",
-        "audio_dir": "Die Entscheidung: Wahl"
+        "learning_tag": "Substantiv – Ideen und Konzepte"
     },
     {
         "level": 4.0,
@@ -339,7 +303,7 @@
         "answer": "Hilfe brauchen",
         "goal_words": "brauchen",
         "audio_filename": "line3_de_392.mp3",
-        "audio_dir": "Hilfe brauchen"
+        "learning_tag": "Verb - bewerten"
     },
     {
         "level": 4.0,
@@ -357,7 +321,7 @@
         "answer": "seine Gedanken beunruhigen",
         "goal_words": "beunruhigen",
         "audio_filename": "line4_de_526.mp3",
-        "audio_dir": "seine Gedanken beunruhigen"
+        "learning_tag": "Verb - Wirkung"
     },
     {
         "level": 4.0,
@@ -375,7 +339,7 @@
         "answer": "denken",
         "goal_words": "denken",
         "audio_filename": "line_de_627.mp3",
-        "audio_dir": "denken"
+        "learning_tag": "Verb - mental"
     },
     {
         "level": 4.0,
@@ -393,7 +357,7 @@
         "answer": "Make-up auftragen",
         "goal_words": "auftragen",
         "audio_filename": "line4_de_145.mp3",
-        "audio_dir": "Make-up auftragen"
+        "learning_tag": "Verb - Wirkung"
     },
     {
         "level": 4.0,
@@ -411,7 +375,7 @@
         "answer": "mit ihr gehen",
         "goal_words": "gehen",
         "audio_filename": "line4_de_192.mp3",
-        "audio_dir": "mit ihr gehen"
+        "learning_tag": "Verb - Bewegung"
     },
     {
         "level": 4.0,
@@ -429,7 +393,7 @@
         "answer": "halten",
         "goal_words": "halten",
         "audio_filename": "line3_de_348.mp3",
-        "audio_dir": "halten"
+        "learning_tag": "Verb - Objekt"
     },
     {
         "level": 4.0,
@@ -447,7 +411,7 @@
         "answer": "handhaben: verwalten (eine Situation oder ein Problem).",
         "goal_words": "handhaben",
         "audio_filename": "line3_de_357.mp3",
-        "audio_dir": "handhaben: verwalten (eine Situation oder ein Problem)."
+        "learning_tag": "Verb - Objekt"
     },
     {
         "level": 4.0,
@@ -465,7 +429,7 @@
         "answer": "Erinnern",
         "goal_words": "Erinnern",
         "audio_filename": "line2_de_939.mp3",
-        "audio_dir": "Erinnern"
+        "learning_tag": "Verb - mental"
     },
     {
         "level": 4.0,
@@ -483,12 +447,12 @@
         "answer": "das Wasser fühlen",
         "goal_words": "fühlen",
         "audio_filename": "line_de_602.mp3",
-        "audio_dir": "das Wasser fühlen"
+        "learning_tag": "Verb - Wahrnehmung"
     },
     {
         "level": 4.0,
         "image_filename": "underestimate.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -497,11 +461,11 @@
         "native_answer": "underestimate: to place too low a value on : underrate",
         "native_word": "verb - mental",
         "tag": "verb - mental",
-        "prompt": "______: einen zu niedrigen Wert setzen: ______",
-        "answer": "unterschätzen: einen zu niedrigen Wert setzen: unterschätzen",
-        "goal_words": "unterschätzen",
+        "prompt": "unterschätzen: einen zu niedrigen Wert setzen: unterschätzen​",
+        "answer": "unterschätzen: einen zu niedrigen Wert setzen: unterschätzen​",
+        "goal_words": "unterschätzen​",
         "audio_filename": "line5_de_355.mp3",
-        "audio_dir": "unterschätzen: einen zu niedrigen Wert setzen: unterschätzen"
+        "learning_tag": "Verb - mental"
     },
     {
         "level": 4.0,
@@ -519,7 +483,7 @@
         "answer": "glauben: (etwas) als wahr akzeptieren; sich der Wahrheit sicher sein.",
         "goal_words": "glauben",
         "audio_filename": "line3_de_304.mp3",
-        "audio_dir": "glauben: (etwas) als wahr akzeptieren; sich der Wahrheit sicher sein."
+        "learning_tag": "Verb - mental"
     },
     {
         "level": 4.0,
@@ -537,24 +501,6 @@
         "answer": "Unterstützung: einen Teil oder das gesamte Gewicht tragen; aufrechterhalten.",
         "goal_words": "Unterstützung",
         "audio_filename": "line5_de_357.mp3",
-        "audio_dir": "Unterstützung: einen Teil oder das gesamte Gewicht tragen; aufrechterhalten."
-    },
-    {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "make",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "machen",
-        "goal_words": "machen",
-        "audio_filename": "line4_de_136.mp3",
-        "audio_dir": "machen"
+        "learning_tag": "Verb - interaktiv"
     }
 ]

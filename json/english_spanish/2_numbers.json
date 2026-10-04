@@ -1,7 +1,7 @@
 [
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -15,11 +15,11 @@
         "answer": "1 - uno",
         "goal_words": "uno",
         "audio_filename": "line5jan26_es_555.mp3",
-        "audio_dir": "uno"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -33,11 +33,11 @@
         "answer": "2 - dos",
         "goal_words": "dos",
         "audio_filename": "line5jan26_es_298.mp3",
-        "audio_dir": "dos"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -51,11 +51,11 @@
         "answer": "3 - tres",
         "goal_words": "tres",
         "audio_filename": "line5jan26_es_532.mp3",
-        "audio_dir": "tres"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -69,11 +69,11 @@
         "answer": "4 - cuatro",
         "goal_words": "cuatro",
         "audio_filename": "line5jan26_es_286.mp3",
-        "audio_dir": "cuatro"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -87,11 +87,11 @@
         "answer": "5 - cinco",
         "goal_words": "cinco",
         "audio_filename": "line5jan26_es_275.mp3",
-        "audio_dir": "cinco"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -105,11 +105,11 @@
         "answer": "6 - seis",
         "goal_words": "seis",
         "audio_filename": "line5jan26_es_510.mp3",
-        "audio_dir": "seis"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -123,11 +123,11 @@
         "answer": "7 - siete",
         "goal_words": "siete",
         "audio_filename": "line5jan26_es_515.mp3",
-        "audio_dir": "siete"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -141,11 +141,11 @@
         "answer": "8 - ocho",
         "goal_words": "ocho",
         "audio_filename": "line5jan26_es_491.mp3",
-        "audio_dir": "ocho"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -159,11 +159,11 @@
         "answer": "9 - nueve",
         "goal_words": "nueve",
         "audio_filename": "line5jan26_es_489.mp3",
-        "audio_dir": "nueve"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -177,11 +177,11 @@
         "answer": "10 - diez",
         "goal_words": "diez",
         "audio_filename": "line5jan26_es_295.mp3",
-        "audio_dir": "diez"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -191,15 +191,15 @@
         "native_answer": "1-10.\none,\ntwo,\nthree,\nfour,\nfive,\nsix,\nseven,\neight,\nnine,\nten,",
         "native_word": "number",
         "tag": "number",
-        "prompt": "______1______-______1______0______.____________,____________,____________,____________,____________,____________,____________,____________,____________,____________,______",
+        "prompt": "______1______-______1______0______.______\n____________,____________,____________,____________,____________,____________,____________,____________,____________,____________,______",
         "answer": "1-10.\nUno,\nDos,\nTres,\nCuatro,\nCinco,\nSeis,\nSiete,\nOcho,\nNueve,\nDiez,",
-        "goal_words": "\nUno, \nDos, \nTres, \nCuatro, \nCinco, \nSeis, \nSiete, \nOcho, \nNueve, \nDiez, ",
+        "goal_words": "Uno, \nDos, \nTres, \nCuatro, \nCinco, \nSeis, \nSiete, \nOcho, \nNueve, \nDiez, ",
         "audio_filename": "line5jan26_2_es_2.mp3",
-        "audio_dir": "Uno,\nDos,\nTres,\nCuatro,\nCinco,\nSeis,\nSiete,\nOcho,\nNueve,\nDiez,"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -213,11 +213,11 @@
         "answer": "11 - once",
         "goal_words": "once",
         "audio_filename": "line5jan26_es_492.mp3",
-        "audio_dir": "once"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -231,11 +231,11 @@
         "answer": "12 - doce",
         "goal_words": "doce",
         "audio_filename": "line5jan26_es_297.mp3",
-        "audio_dir": "doce"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -249,11 +249,11 @@
         "answer": "13 - trece",
         "goal_words": "trece",
         "audio_filename": "line5jan26_es_530.mp3",
-        "audio_dir": "trece"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -267,11 +267,11 @@
         "answer": "14 - catorce",
         "goal_words": "catorce",
         "audio_filename": "line5jan26_es_257.mp3",
-        "audio_dir": "catorce"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -285,11 +285,11 @@
         "answer": "15 - quince",
         "goal_words": "quince",
         "audio_filename": "line5jan26_es_501.mp3",
-        "audio_dir": "quince"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -303,11 +303,11 @@
         "answer": "16 - dieciséis",
         "goal_words": "dieciséis",
         "audio_filename": "line5jan26_es_293.mp3",
-        "audio_dir": "dieciséis"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -321,11 +321,11 @@
         "answer": "17 - diecisiete",
         "goal_words": "diecisiete",
         "audio_filename": "line5jan26_es_294.mp3",
-        "audio_dir": "diecisiete"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -339,11 +339,11 @@
         "answer": "18 - dieciocho",
         "goal_words": "dieciocho",
         "audio_filename": "line5jan26_es_292.mp3",
-        "audio_dir": "dieciocho"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -357,11 +357,11 @@
         "answer": "19 - diecinueve",
         "goal_words": "diecinueve",
         "audio_filename": "line5jan26_es_291.mp3",
-        "audio_dir": "diecinueve"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -375,11 +375,11 @@
         "answer": "20 - veinte",
         "goal_words": "veinte",
         "audio_filename": "line5jan26_es_558.mp3",
-        "audio_dir": "veinte"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -389,15 +389,15 @@
         "native_answer": "11-20.\neleven,\ntwelve,\nthirteen,\nfourteen,\nfifteen,\nsixteen,\nseventeen,\neighteen,\nnineteen,\ntwenty,",
         "native_word": "number",
         "tag": "number",
-        "prompt": "______1______1______-______2______0______.____________,____________,____________,____________,____________,____________,____________,____________,____________,____________,______",
+        "prompt": "______1______1______-______2______0______.______\n____________,____________,____________,____________,____________,____________,____________,____________,____________,____________,______",
         "answer": "11-20.\nonce,\ndoce,\ntrece,\ncatorce,\nquince,\ndieciséis,\ndiecisiete,\ndieciocho,\ndiecinueve,\nveinte,",
-        "goal_words": "\nonce, \ndoce, \ntrece, \ncatorce, \nquince, \ndieciséis, \ndiecisiete, \ndieciocho, \ndiecinueve, \nveinte, ",
+        "goal_words": "once, \ndoce, \ntrece, \ncatorce, \nquince, \ndieciséis, \ndiecisiete, \ndieciocho, \ndiecinueve, \nveinte, ",
         "audio_filename": "line5jan26_2_es_1.mp3",
-        "audio_dir": "once,\ndoce,\ntrece,\ncatorce,\nquince,\ndieciséis,\ndiecisiete,\ndieciocho,\ndiecinueve,\nveinte,"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -411,11 +411,11 @@
         "answer": "21 - veintiuno",
         "goal_words": "veintiuno",
         "audio_filename": "line5jan26_es_567.mp3",
-        "audio_dir": "veintiuno"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -429,11 +429,11 @@
         "answer": "22 - veintidós",
         "goal_words": "veintidós",
         "audio_filename": "line5jan26_es_561.mp3",
-        "audio_dir": "veintidós"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -447,11 +447,11 @@
         "answer": "23 - veintitrés",
         "goal_words": "veintitrés",
         "audio_filename": "line5jan26_es_566.mp3",
-        "audio_dir": "veintitrés"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -465,11 +465,11 @@
         "answer": "24 - veinticuatro",
         "goal_words": "veinticuatro",
         "audio_filename": "line5jan26_es_560.mp3",
-        "audio_dir": "veinticuatro"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -483,11 +483,11 @@
         "answer": "25 - veinticinco",
         "goal_words": "veinticinco",
         "audio_filename": "line5jan26_es_559.mp3",
-        "audio_dir": "veinticinco"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -501,11 +501,11 @@
         "answer": "26 - veintiséis",
         "goal_words": "veintiséis",
         "audio_filename": "line5jan26_es_564.mp3",
-        "audio_dir": "veintiséis"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -519,11 +519,11 @@
         "answer": "27 - veintisiete",
         "goal_words": "veintisiete",
         "audio_filename": "line5jan26_es_565.mp3",
-        "audio_dir": "veintisiete"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -537,11 +537,11 @@
         "answer": "28 - veintiocho",
         "goal_words": "veintiocho",
         "audio_filename": "line5jan26_es_563.mp3",
-        "audio_dir": "veintiocho"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -555,11 +555,11 @@
         "answer": "29 - veintinueve",
         "goal_words": "veintinueve",
         "audio_filename": "line5jan26_es_562.mp3",
-        "audio_dir": "veintinueve"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -573,11 +573,11 @@
         "answer": "30 - treinta",
         "goal_words": "treinta",
         "audio_filename": "line5jan26_es_531.mp3",
-        "audio_dir": "treinta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -587,15 +587,15 @@
         "native_answer": "21-30.\ntwenty-one,\ntwenty-two,\ntwenty-three,\ntwenty-four,\ntwenty-five,\ntwenty-six,\ntwenty-seven,\ntwenty-eight,\ntwenty-nine,\nthirty,",
         "native_word": "number",
         "tag": "number",
-        "prompt": "______2______1______-______3______0______.____________,____________,____________,____________,____________,____________,____________,____________,____________,____________,______",
+        "prompt": "______2______1______-______3______0______.______\n____________,____________,____________,____________,____________,____________,____________,____________,____________,____________,______",
         "answer": "21-30.\nveintiuno,\nveintidós,\nveintitrés,\nveinticuatro,\nveinticinco,\nveintiséis,\nveintisiete,\nveintiocho,\nveintinueve,\ntreinta,",
-        "goal_words": "\nveintiuno, \nveintidós, \nveintitrés, \nveinticuatro, \nveinticinco, \nveintiséis, \nveintisiete, \nveintiocho, \nveintinueve, \ntreinta, ",
+        "goal_words": "veintiuno, \nveintidós, \nveintitrés, \nveinticuatro, \nveinticinco, \nveintiséis, \nveintisiete, \nveintiocho, \nveintinueve, \ntreinta, ",
         "audio_filename": "line5jan26_2_es_3.mp3",
-        "audio_dir": "veintiuno,\nveintidós,\nveintitrés,\nveinticuatro,\nveinticinco,\nveintiséis,\nveintisiete,\nveintiocho,\nveintinueve,\ntreinta,"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -609,11 +609,11 @@
         "answer": "40 - cuarenta",
         "goal_words": "cuarenta",
         "audio_filename": "line5jan26_es_283.mp3",
-        "audio_dir": "cuarenta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -627,11 +627,11 @@
         "answer": "50 - cincuenta",
         "goal_words": "cincuenta",
         "audio_filename": "line5jan26_es_276.mp3",
-        "audio_dir": "cincuenta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -645,11 +645,11 @@
         "answer": "60 - sesenta",
         "goal_words": "sesenta",
         "audio_filename": "line5jan26_es_513.mp3",
-        "audio_dir": "sesenta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -663,11 +663,11 @@
         "answer": "70 - setenta",
         "goal_words": "setenta",
         "audio_filename": "line5jan26_es_514.mp3",
-        "audio_dir": "setenta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -681,11 +681,11 @@
         "answer": "80 - ochenta",
         "goal_words": "ochenta",
         "audio_filename": "line5jan26_es_490.mp3",
-        "audio_dir": "ochenta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -699,11 +699,11 @@
         "answer": "90 - noventa",
         "goal_words": "noventa",
         "audio_filename": "line5jan26_es_487.mp3",
-        "audio_dir": "noventa"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -717,11 +717,11 @@
         "answer": "100 - cien",
         "goal_words": "cien",
         "audio_filename": "line5jan26_es_260.mp3",
-        "audio_dir": "cien"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -735,11 +735,11 @@
         "answer": "101 - ciento uno",
         "goal_words": "ciento uno",
         "audio_filename": "line5jan26_es_272.mp3",
-        "audio_dir": "ciento uno"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -753,11 +753,11 @@
         "answer": "110 - ciento diez",
         "goal_words": "ciento diez",
         "audio_filename": "line5jan26_es_264.mp3",
-        "audio_dir": "ciento diez"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -771,11 +771,11 @@
         "answer": "111 - ciento once",
         "goal_words": "ciento once",
         "audio_filename": "line5jan26_es_267.mp3",
-        "audio_dir": "ciento once"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -789,11 +789,11 @@
         "answer": "120 - ciento veinte",
         "goal_words": "ciento veinte",
         "audio_filename": "line5jan26_es_273.mp3",
-        "audio_dir": "ciento veinte"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -807,11 +807,11 @@
         "answer": "123 - ciento veintitrés",
         "goal_words": "ciento veintitrés",
         "audio_filename": "line5jan26_es_274.mp3",
-        "audio_dir": "ciento veintitrés"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -825,11 +825,11 @@
         "answer": "130 - ciento treinta",
         "goal_words": "ciento treinta",
         "audio_filename": "line5jan26_es_270.mp3",
-        "audio_dir": "ciento treinta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -843,11 +843,11 @@
         "answer": "138 - ciento treinta y ocho",
         "goal_words": "ciento treinta y ocho",
         "audio_filename": "line5jan26_es_271.mp3",
-        "audio_dir": "ciento treinta y ocho"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -861,11 +861,11 @@
         "answer": "140 - ciento cuarenta",
         "goal_words": "ciento cuarenta",
         "audio_filename": "line5jan26_es_262.mp3",
-        "audio_dir": "ciento cuarenta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -879,11 +879,11 @@
         "answer": "141 - ciento cuarenta y uno",
         "goal_words": "ciento cuarenta y uno",
         "audio_filename": "line5jan26_es_263.mp3",
-        "audio_dir": "ciento cuarenta y uno"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -897,11 +897,11 @@
         "answer": "150 - ciento cincuenta",
         "goal_words": "ciento cincuenta",
         "audio_filename": "line5jan26_es_261.mp3",
-        "audio_dir": "ciento cincuenta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -915,11 +915,11 @@
         "answer": "160 - ciento sesenta",
         "goal_words": "ciento sesenta",
         "audio_filename": "line5jan26_es_268.mp3",
-        "audio_dir": "ciento sesenta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -933,11 +933,11 @@
         "answer": "170 - ciento setenta",
         "goal_words": "ciento setenta",
         "audio_filename": "line5jan26_es_269.mp3",
-        "audio_dir": "ciento setenta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -951,11 +951,11 @@
         "answer": "180 - ciento ochenta",
         "goal_words": "ciento ochenta",
         "audio_filename": "line5jan26_es_266.mp3",
-        "audio_dir": "ciento ochenta"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -969,11 +969,11 @@
         "answer": "190 - ciento noventa",
         "goal_words": "ciento noventa",
         "audio_filename": "line5jan26_es_265.mp3",
-        "audio_dir": "ciento noventa"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -987,11 +987,11 @@
         "answer": "200 - doscientos",
         "goal_words": "doscientos",
         "audio_filename": "line5jan26_es_301.mp3",
-        "audio_dir": "doscientos"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -1005,11 +1005,11 @@
         "answer": "1000 - mille",
         "goal_words": "mil",
         "audio_filename": "line5jan26_es_454.mp3",
-        "audio_dir": "mil"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -1023,11 +1023,11 @@
         "answer": "1492. mil cuatrocientos noventa y dos",
         "goal_words": "mil cuatrocientos noventa y dos",
         "audio_filename": "line5jan26_es_455.mp3",
-        "audio_dir": "mil cuatrocientos noventa y dos"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -1041,11 +1041,11 @@
         "answer": "1776. mil setecientos setenta y seis",
         "goal_words": "mil setecientos setenta y seis",
         "audio_filename": "line5jan26_es_456.mp3",
-        "audio_dir": "mil setecientos setenta y seis"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -1059,11 +1059,11 @@
         "answer": "2008. dos mil ocho",
         "goal_words": "dos mil ocho",
         "audio_filename": "line5jan26_es_300.mp3",
-        "audio_dir": "dos mil ocho"
+        "learning_tag": "número"
     },
     {
         "level": 2.0,
-        "image_filename": "x.jpg",
+        "image_filename": "",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -1077,6 +1077,294 @@
         "answer": "2112. dos mil ciento doce",
         "goal_words": "dos mil ciento doce",
         "audio_filename": "line5jan26_es_299.mp3",
-        "audio_dir": "dos mil ciento doce"
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "0: zero",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "0: ______",
+        "answer": "0: cero",
+        "goal_words": "cero",
+        "audio_filename": "line27aug2026_es_48.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "∞: infiinity",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "∞: ______",
+        "answer": "∞: infinito",
+        "goal_words": "infinito",
+        "audio_filename": "line27aug2026_es_341.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "1000000: one million",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "1.000.000: ______",
+        "answer": "1.000.000: un millón",
+        "goal_words": "un millón",
+        "audio_filename": "line27aug2026_es_579.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "167: one hundred sixty-seven",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "167: ______",
+        "answer": "167: ciento sesenta y siete",
+        "goal_words": "ciento sesenta y siete",
+        "audio_filename": "line27aug2026_es_51.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "301: three hundred one",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "301: ______",
+        "answer": "301: trescientos uno",
+        "goal_words": "trescientos uno",
+        "audio_filename": "line27aug2026_es_514.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "326: three hundred twenty-six",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "326: ______",
+        "answer": "326: trescientos veintiséis",
+        "goal_words": "trescientos veintiséis",
+        "audio_filename": "line27aug2026_es_515.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "347: three hundred forty-seven",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "347: ______",
+        "answer": "347: trescientos cuarenta y siete",
+        "goal_words": "trescientos cuarenta y siete",
+        "audio_filename": "line27aug2026_es_513.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "459: four hundred fifty-nine",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "459: ______",
+        "answer": "459: cuatrocientos cincuenta y nueve",
+        "goal_words": "cuatrocientos cincuenta y nueve",
+        "audio_filename": "line27aug2026_es_62.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "490: four hundred ninety",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "490: ______",
+        "answer": "490: cuatrocientos noventa",
+        "goal_words": "cuatrocientos noventa",
+        "audio_filename": "line27aug2026_es_63.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "528: five hundred twenty-eight",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "528: ______",
+        "answer": "528: quinientos veintiocho",
+        "goal_words": "quinientos veintiocho",
+        "audio_filename": "line27aug2026_es_479.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "621: six hundred twenty-one",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "621: ______",
+        "answer": "621: seiscientos veintiuno",
+        "goal_words": "seiscientos veintiuno",
+        "audio_filename": "line27aug2026_es_489.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "857: eight hundred fifty-seven",
+        "native_word": "number",
+        "tag": "number",
+        "prompt": "857: ______",
+        "answer": "857: ochocientos cincuenta y siete",
+        "goal_words": "ochocientos cincuenta y siete",
+        "audio_filename": "line27aug2026_es_466.mp3",
+        "learning_tag": "número"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "1492. fourteen ninety-two",
+        "native_word": "the year",
+        "tag": "the year",
+        "prompt": 1492.0,
+        "answer": 1492.0,
+        "goal_words": "",
+        "audio_filename": "",
+        "learning_tag": "el año"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "1776. seventeen seventy-six",
+        "native_word": "the year",
+        "tag": "the year",
+        "prompt": 1776.0,
+        "answer": 1776.0,
+        "goal_words": "",
+        "audio_filename": "",
+        "learning_tag": "el año"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "2008. two thousand eight",
+        "native_word": "the year",
+        "tag": "the year",
+        "prompt": 2008.0,
+        "answer": 2008.0,
+        "goal_words": "",
+        "audio_filename": "",
+        "learning_tag": "el año"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "spanish",
+        "native_group": "2 numbers",
+        "native_answer": "2112. twenty-one twelve",
+        "native_word": "the year",
+        "tag": "the year",
+        "prompt": 2112.0,
+        "answer": 2112.0,
+        "goal_words": "",
+        "audio_filename": "",
+        "learning_tag": "el año"
     }
 ]

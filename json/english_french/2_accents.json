@@ -1,7 +1,7 @@
 [
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "tohave.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "In French, accents are small marks added to letters to change the pronunciation of vowels or to distinguish words. The main accents are:\n\né (accent aigu) → makes the vowel sound like ay in say. Example: été (summer).\n\nè (accent grave) → makes the vowel sound like eh in bet. Example: père (father).\n\nê (accent circonflexe) → indicates a longer or slightly different vowel sound. Example: forêt (forest).\n\nà, ù (accent grave on a or u) → usually distinguishes words that would otherwise be spelled the same. Example: à (to, at) vs. a (has).\n\nâ, î, ô, û (accent circonflexe on other vowels) → can change the vowel sound slightly and often shows historical spelling changes. Example: mûr (ripe).\n\nç (cédille) → changes a hard c into a soft s sound before a, o, u. Example: garçon (boy).\n\nAccents in French are essential for correct pronunciation and meaning, and they always appear in writing when required.",
@@ -11,15 +11,15 @@
         "native_answer": "has / to, at",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "a / à: ______,______,______",
+        "prompt": "a / à: Both pronounced [a]; a = verb “has,” à = preposition “to/at.” Same sound, different meaning.",
         "answer": "a / à: Both pronounced [a]; a = verb “has,” à = preposition “to/at.” Same sound, different meaning.",
         "goal_words": "Both pronounced [a]; a = verb “has, ” à = preposition “to/at.” Same sound,  different meaning.",
         "audio_filename": "lineoct_fr_2.mp3",
-        "audio_dir": "a / à"
+        "learning_tag": "accent"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "owhere.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "In French, accents are small marks added to letters to change the pronunciation of vowels or to distinguish words. The main accents are:\n\né (accent aigu) → makes the vowel sound like ay in say. Example: été (summer).\n\nè (accent grave) → makes the vowel sound like eh in bet. Example: père (father).\n\nê (accent circonflexe) → indicates a longer or slightly different vowel sound. Example: forêt (forest).\n\nà, ù (accent grave on a or u) → usually distinguishes words that would otherwise be spelled the same. Example: à (to, at) vs. a (has).\n\nâ, î, ô, û (accent circonflexe on other vowels) → can change the vowel sound slightly and often shows historical spelling changes. Example: mûr (ripe).\n\nç (cédille) → changes a hard c into a soft s sound before a, o, u. Example: garçon (boy).\n\nAccents in French are essential for correct pronunciation and meaning, and they always appear in writing when required.",
@@ -29,15 +29,15 @@
         "native_answer": "or / where",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "ou / où: ______,______,______",
+        "prompt": "ou / où: Both pronounced [u]; ou = “or,” où = “where.” Same sound, different meaning.",
         "answer": "ou / où: Both pronounced [u]; ou = “or,” où = “where.” Same sound, different meaning.",
         "goal_words": "Both pronounced [u]; ou = “or, ” où = “where.” Same sound,  different meaning.",
         "audio_filename": "lineoct_fr_1096.mp3",
-        "audio_dir": "ou / où"
+        "learning_tag": "accent"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "this.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "In French, accents are small marks added to letters to change the pronunciation of vowels or to distinguish words. The main accents are:\n\né (accent aigu) → makes the vowel sound like ay in say. Example: été (summer).\n\nè (accent grave) → makes the vowel sound like eh in bet. Example: père (father).\n\nê (accent circonflexe) → indicates a longer or slightly different vowel sound. Example: forêt (forest).\n\nà, ù (accent grave on a or u) → usually distinguishes words that would otherwise be spelled the same. Example: à (to, at) vs. a (has).\n\nâ, î, ô, û (accent circonflexe on other vowels) → can change the vowel sound slightly and often shows historical spelling changes. Example: mûr (ripe).\n\nç (cédille) → changes a hard c into a soft s sound before a, o, u. Example: garçon (boy).\n\nAccents in French are essential for correct pronunciation and meaning, and they always appear in writing when required.",
@@ -47,15 +47,15 @@
         "native_answer": "the / there",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "la / là: ______,______,______",
+        "prompt": "la / là: Both pronounced [la]; la = article/pronoun, là = adverb “there.” Same sound, different meaning.",
         "answer": "la / là: Both pronounced [la]; la = article/pronoun, là = adverb “there.” Same sound, different meaning.",
         "goal_words": "Both pronounced [la]; la = article/pronoun,  là = adverb “there.” Same sound,  different meaning.",
         "audio_filename": "lineoct_fr_852.mp3",
-        "audio_dir": "la / là"
+        "learning_tag": "accent"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc7.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "In French, accents are small marks added to letters to change the pronunciation of vowels or to distinguish words. The main accents are:\n\né (accent aigu) → makes the vowel sound like ay in say. Example: été (summer).\n\nè (accent grave) → makes the vowel sound like eh in bet. Example: père (father).\n\nê (accent circonflexe) → indicates a longer or slightly different vowel sound. Example: forêt (forest).\n\nà, ù (accent grave on a or u) → usually distinguishes words that would otherwise be spelled the same. Example: à (to, at) vs. a (has).\n\nâ, î, ô, û (accent circonflexe on other vowels) → can change the vowel sound slightly and often shows historical spelling changes. Example: mûr (ripe).\n\nç (cédille) → changes a hard c into a soft s sound before a, o, u. Example: garçon (boy).\n\nAccents in French are essential for correct pronunciation and meaning, and they always appear in writing when required.",
@@ -65,15 +65,15 @@
         "native_answer": "of the / owed, due",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "du / dû: ______,______,______",
+        "prompt": "du / dû: Both pronounced [dy]; du = “of the,” dû = past participle of “devoir.” Same sound, different meaning.",
         "answer": "du / dû: Both pronounced [dy]; du = “of the,” dû = past participle of “devoir.” Same sound, different meaning.",
         "goal_words": "Both pronounced [dy]; du = “of the, ” dû = past participle of “devoir.” Same sound,  different meaning.",
         "audio_filename": "lineoct_fr_285.mp3",
-        "audio_dir": "du / dû"
+        "learning_tag": "accent"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc8.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "In French, accents are small marks added to letters to change the pronunciation of vowels or to distinguish words. The main accents are:\n\né (accent aigu) → makes the vowel sound like ay in say. Example: été (summer).\n\nè (accent grave) → makes the vowel sound like eh in bet. Example: père (father).\n\nê (accent circonflexe) → indicates a longer or slightly different vowel sound. Example: forêt (forest).\n\nà, ù (accent grave on a or u) → usually distinguishes words that would otherwise be spelled the same. Example: à (to, at) vs. a (has).\n\nâ, î, ô, û (accent circonflexe on other vowels) → can change the vowel sound slightly and often shows historical spelling changes. Example: mûr (ripe).\n\nç (cédille) → changes a hard c into a soft s sound before a, o, u. Example: garçon (boy).\n\nAccents in French are essential for correct pronunciation and meaning, and they always appear in writing when required.",
@@ -83,15 +83,15 @@
         "native_answer": "on / sure, certain",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "sur / sûr: ______,______,______",
+        "prompt": "sur / sûr: Both pronounced [syʁ]; sur = “on,” sûr = “sure/certain.” Same sound, different meaning.",
         "answer": "sur / sûr: Both pronounced [syʁ]; sur = “on,” sûr = “sure/certain.” Same sound, different meaning.",
         "goal_words": "Both pronounced [syʁ]; sur = “on, ” sûr = “sure/certain.” Same sound,  different meaning.",
         "audio_filename": "lineoct_fr_1313.mp3",
-        "audio_dir": "sur / sûr"
+        "learning_tag": "accent"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc10.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "In French, accents are small marks added to letters to change the pronunciation of vowels or to distinguish words. The main accents are:\n\né (accent aigu) → makes the vowel sound like ay in say. Example: été (summer).\n\nè (accent grave) → makes the vowel sound like eh in bet. Example: père (father).\n\nê (accent circonflexe) → indicates a longer or slightly different vowel sound. Example: forêt (forest).\n\nà, ù (accent grave on a or u) → usually distinguishes words that would otherwise be spelled the same. Example: à (to, at) vs. a (has).\n\nâ, î, ô, û (accent circonflexe on other vowels) → can change the vowel sound slightly and often shows historical spelling changes. Example: mûr (ripe).\n\nç (cédille) → changes a hard c into a soft s sound before a, o, u. Example: garçon (boy).\n\nAccents in French are essential for correct pronunciation and meaning, and they always appear in writing when required.",
@@ -101,15 +101,15 @@
         "native_answer": "some / from, since",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "des / dès: ______,______",
+        "prompt": "des / dès: des [de] = “some/of the,” dès [dɛ] = “from/since.” Different vowel sound [e] vs [ɛ].",
         "answer": "des / dès: des [de] = “some/of the,” dès [dɛ] = “from/since.” Different vowel sound [e] vs [ɛ].",
         "goal_words": "des [de] = “some/of the, ” dès [dɛ] = “from/since.” Different vowel sound [e] vs [ɛ].",
         "audio_filename": "lineoct_fr_258.mp3",
-        "audio_dir": "des / dès"
+        "learning_tag": "accent"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc11.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "In French, accents are small marks added to letters to change the pronunciation of vowels or to distinguish words. The main accents are:\n\né (accent aigu) → makes the vowel sound like ay in say. Example: été (summer).\n\nè (accent grave) → makes the vowel sound like eh in bet. Example: père (father).\n\nê (accent circonflexe) → indicates a longer or slightly different vowel sound. Example: forêt (forest).\n\nà, ù (accent grave on a or u) → usually distinguishes words that would otherwise be spelled the same. Example: à (to, at) vs. a (has).\n\nâ, î, ô, û (accent circonflexe on other vowels) → can change the vowel sound slightly and often shows historical spelling changes. Example: mûr (ripe).\n\nç (cédille) → changes a hard c into a soft s sound before a, o, u. Example: garçon (boy).\n\nAccents in French are essential for correct pronunciation and meaning, and they always appear in writing when required.",
@@ -119,15 +119,15 @@
         "native_answer": "fasting / young",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "jeûne / jeune: ______,______",
+        "prompt": "jeûne / jeune: jeûne [ʒøn] = fasting, jeune [ʒœn] = young. Vowel difference: [ø] vs [œ].",
         "answer": "jeûne / jeune: jeûne [ʒøn] = fasting, jeune [ʒœn] = young. Vowel difference: [ø] vs [œ].",
         "goal_words": "jeûne [ʒøn] = fasting,  jeune [ʒœn] = young. Vowel difference: [ø] vs [œ].",
         "audio_filename": "lineoct_fr_815.mp3",
-        "audio_dir": "jeûne / jeune"
+        "learning_tag": "accent"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc12.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "In French, accents are small marks added to letters to change the pronunciation of vowels or to distinguish words. The main accents are:\n\né (accent aigu) → makes the vowel sound like ay in say. Example: été (summer).\n\nè (accent grave) → makes the vowel sound like eh in bet. Example: père (father).\n\nê (accent circonflexe) → indicates a longer or slightly different vowel sound. Example: forêt (forest).\n\nà, ù (accent grave on a or u) → usually distinguishes words that would otherwise be spelled the same. Example: à (to, at) vs. a (has).\n\nâ, î, ô, û (accent circonflexe on other vowels) → can change the vowel sound slightly and often shows historical spelling changes. Example: mûr (ripe).\n\nç (cédille) → changes a hard c into a soft s sound before a, o, u. Example: garçon (boy).\n\nAccents in French are essential for correct pronunciation and meaning, and they always appear in writing when required.",
@@ -137,15 +137,15 @@
         "native_answer": "wall / ripe",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "mur / mûr: ______,______,______",
+        "prompt": "mur / mûr: Both pronounced [myʁ]; mur = wall, mûr = ripe. Same sound, different meaning.",
         "answer": "mur / mûr: Both pronounced [myʁ]; mur = wall, mûr = ripe. Same sound, different meaning.",
         "goal_words": "Both pronounced [myʁ]; mur = wall,  mûr = ripe. Same sound,  different meaning.",
         "audio_filename": "lineoct_fr_1013.mp3",
-        "audio_dir": "mur / mûr"
+        "learning_tag": "accent"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc13.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "In French, accents are small marks added to letters to change the pronunciation of vowels or to distinguish words. The main accents are:\n\né (accent aigu) → makes the vowel sound like ay in say. Example: été (summer).\n\nè (accent grave) → makes the vowel sound like eh in bet. Example: père (father).\n\nê (accent circonflexe) → indicates a longer or slightly different vowel sound. Example: forêt (forest).\n\nà, ù (accent grave on a or u) → usually distinguishes words that would otherwise be spelled the same. Example: à (to, at) vs. a (has).\n\nâ, î, ô, û (accent circonflexe on other vowels) → can change the vowel sound slightly and often shows historical spelling changes. Example: mûr (ripe).\n\nç (cédille) → changes a hard c into a soft s sound before a, o, u. Example: garçon (boy).\n\nAccents in French are essential for correct pronunciation and meaning, and they always appear in writing when required.",
@@ -155,15 +155,15 @@
         "native_answer": "rating / side",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "cote / côté: ______,______",
+        "prompt": "cote / côté: cote [kot] = rating/score, côté [kote] = side/direction. Accent changes stress/intonation.",
         "answer": "cote / côté: cote [kot] = rating/score, côté [kote] = side/direction. Accent changes stress/intonation.",
         "goal_words": "cote [kot] = rating/score,  côté [kote] = side/direction. Accent changes stress/intonation.",
         "audio_filename": "lineoct_fr_224.mp3",
-        "audio_dir": "cote / côté"
+        "learning_tag": "accent"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc14.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "In French, accents are small marks added to letters to change the pronunciation of vowels or to distinguish words. The main accents are:\n\né (accent aigu) → makes the vowel sound like ay in say. Example: été (summer).\n\nè (accent grave) → makes the vowel sound like eh in bet. Example: père (father).\n\nê (accent circonflexe) → indicates a longer or slightly different vowel sound. Example: forêt (forest).\n\nà, ù (accent grave on a or u) → usually distinguishes words that would otherwise be spelled the same. Example: à (to, at) vs. a (has).\n\nâ, î, ô, û (accent circonflexe on other vowels) → can change the vowel sound slightly and often shows historical spelling changes. Example: mûr (ripe).\n\nç (cédille) → changes a hard c into a soft s sound before a, o, u. Example: garçon (boy).\n\nAccents in French are essential for correct pronunciation and meaning, and they always appear in writing when required.",
@@ -173,15 +173,15 @@
         "native_answer": "rating / ribs",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "cote / côtes: ______,______,______",
+        "prompt": "cote / côtes: cote [kot] = rating, côtes [kot] = ribs. Same pronunciation, different meaning.",
         "answer": "cote / côtes: cote [kot] = rating, côtes [kot] = ribs. Same pronunciation, different meaning.",
         "goal_words": "cote [kot] = rating,  côtes [kot] = ribs. Same pronunciation,  different meaning.",
         "audio_filename": "lineoct_fr_226.mp3",
-        "audio_dir": "cote / côtes"
+        "learning_tag": "accent"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "summerseason.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "The acute accent (é) always makes the vowel ay.\n\nThe grave accent (è, à, ù) often affects pronunciation or distinguishes words.\n\nThe circumflex (ê, â, î, ô, û) can indicate a longer vowel, a historical spelling change, or pronunciation difference.\n\nThe cédille (ç) changes a hard c to a soft s before a, o, u.\n\nThe ligature œ combines two vowels into one sound (œ sounds roughly like the “ur” in “burn” in some words).",
@@ -191,15 +191,15 @@
         "native_answer": "summer",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "été ______",
+        "prompt": "été Indicates a closed e sound [e]; often marks past participles or distinguishes words.",
         "answer": "été Indicates a closed e sound [e]; often marks past participles or distinguishes words.",
         "goal_words": "Indicates a closed e sound [e]; often marks past participles or distinguishes words.",
         "audio_filename": "lineoct_fr_420.mp3",
-        "audio_dir": "été"
+        "learning_tag": "é (accent aigu)"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "father4.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "The acute accent (é) always makes the vowel ay.\n\nThe grave accent (è, à, ù) often affects pronunciation or distinguishes words.\n\nThe circumflex (ê, â, î, ô, û) can indicate a longer vowel, a historical spelling change, or pronunciation difference.\n\nThe cédille (ç) changes a hard c to a soft s before a, o, u.\n\nThe ligature œ combines two vowels into one sound (œ sounds roughly like the “ur” in “burn” in some words).",
@@ -209,15 +209,15 @@
         "native_answer": "father",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "père ______",
+        "prompt": "père Indicates an open e sound [ɛ]; can also distinguish words.",
         "answer": "père Indicates an open e sound [ɛ]; can also distinguish words.",
         "goal_words": "Indicates an open e sound [ɛ]; can also distinguish words.",
         "audio_filename": "lineoct_fr_1123.mp3",
-        "audio_dir": "père"
+        "learning_tag": "è (accent grave)"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "forest.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "The acute accent (é) always makes the vowel ay.\n\nThe grave accent (è, à, ù) often affects pronunciation or distinguishes words.\n\nThe circumflex (ê, â, î, ô, û) can indicate a longer vowel, a historical spelling change, or pronunciation difference.\n\nThe cédille (ç) changes a hard c to a soft s before a, o, u.\n\nThe ligature œ combines two vowels into one sound (œ sounds roughly like the “ur” in “burn” in some words).",
@@ -227,15 +227,15 @@
         "native_answer": "forest",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "forêt ______",
+        "prompt": "forêt Often shows a historical missing s; can affect pronunciation [ɛ] or [e].",
         "answer": "forêt Often shows a historical missing s; can affect pronunciation [ɛ] or [e].",
         "goal_words": "Often shows a historical missing s; can affect pronunciation [ɛ] or [e].",
         "audio_filename": "lineoct_fr_454.mp3",
-        "audio_dir": "forêt"
+        "learning_tag": "ê (accent circonflexe)"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "island.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "The acute accent (é) always makes the vowel ay.\n\nThe grave accent (è, à, ù) often affects pronunciation or distinguishes words.\n\nThe circumflex (ê, â, î, ô, û) can indicate a longer vowel, a historical spelling change, or pronunciation difference.\n\nThe cédille (ç) changes a hard c to a soft s before a, o, u.\n\nThe ligature œ combines two vowels into one sound (œ sounds roughly like the “ur” in “burn” in some words).",
@@ -245,15 +245,15 @@
         "native_answer": "island",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "île ______",
+        "prompt": "île Indicates historical missing letter (usually s); can lengthen vowel sound slightly.",
         "answer": "île Indicates historical missing letter (usually s); can lengthen vowel sound slightly.",
         "goal_words": "Indicates historical missing letter (usually s); can lengthen vowel sound slightly.",
         "audio_filename": "lineoct_fr_617.mp3",
-        "audio_dir": "île"
+        "learning_tag": "î (accent circonflexe)"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "hospital.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "The acute accent (é) always makes the vowel ay.\n\nThe grave accent (è, à, ù) often affects pronunciation or distinguishes words.\n\nThe circumflex (ê, â, î, ô, û) can indicate a longer vowel, a historical spelling change, or pronunciation difference.\n\nThe cédille (ç) changes a hard c to a soft s before a, o, u.\n\nThe ligature œ combines two vowels into one sound (œ sounds roughly like the “ur” in “burn” in some words).",
@@ -263,15 +263,15 @@
         "native_answer": "hospital",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "hôpital ______",
+        "prompt": "hôpital Often shows historical missing s; affects pronunciation slightly.",
         "answer": "hôpital Often shows historical missing s; affects pronunciation slightly.",
         "goal_words": "Often shows historical missing s; affects pronunciation slightly.",
         "audio_filename": "lineoct_fr_511.mp3",
-        "audio_dir": "hôpital"
+        "learning_tag": "ô (accent circonflexe)"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "acc7.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "The acute accent (é) always makes the vowel ay.\n\nThe grave accent (è, à, ù) often affects pronunciation or distinguishes words.\n\nThe circumflex (ê, â, î, ô, û) can indicate a longer vowel, a historical spelling change, or pronunciation difference.\n\nThe cédille (ç) changes a hard c to a soft s before a, o, u.\n\nThe ligature œ combines two vowels into one sound (œ sounds roughly like the “ur” in “burn” in some words).",
@@ -281,15 +281,15 @@
         "native_answer": "owed, due",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "dû ______",
+        "prompt": "dû Shows historical missing s; can distinguish homophones.",
         "answer": "dû Shows historical missing s; can distinguish homophones.",
         "goal_words": "Shows historical missing s; can distinguish homophones.",
         "audio_filename": "lineoct_fr_284.mp3",
-        "audio_dir": "dû"
+        "learning_tag": "û (accent circonflexe)"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "boy.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "The acute accent (é) always makes the vowel ay.\n\nThe grave accent (è, à, ù) often affects pronunciation or distinguishes words.\n\nThe circumflex (ê, â, î, ô, û) can indicate a longer vowel, a historical spelling change, or pronunciation difference.\n\nThe cédille (ç) changes a hard c to a soft s before a, o, u.\n\nThe ligature œ combines two vowels into one sound (œ sounds roughly like the “ur” in “burn” in some words).",
@@ -299,15 +299,15 @@
         "native_answer": "boy",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "garçon ______,______,______",
+        "prompt": "garçon Changes c from hard [k] to soft [s] before a, o, u.",
         "answer": "garçon Changes c from hard [k] to soft [s] before a, o, u.",
         "goal_words": "Changes c from hard [k] to soft [s] before a,  o,  u.",
         "audio_filename": "lineoct_fr_473.mp3",
-        "audio_dir": "garçon"
+        "learning_tag": "ç (cédille)"
     },
     {
         "level": 2.0,
-        "image_filename": "",
+        "image_filename": "heart.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": "The acute accent (é) always makes the vowel ay.\n\nThe grave accent (è, à, ù) often affects pronunciation or distinguishes words.\n\nThe circumflex (ê, â, î, ô, û) can indicate a longer vowel, a historical spelling change, or pronunciation difference.\n\nThe cédille (ç) changes a hard c to a soft s before a, o, u.\n\nThe ligature œ combines two vowels into one sound (œ sounds roughly like the “ur” in “burn” in some words).",
@@ -317,10 +317,10 @@
         "native_answer": "heart",
         "native_word": "accent",
         "tag": "accent",
-        "prompt": "cœur ______",
+        "prompt": "cœur Represents the combined vowel sound [œ] (like English “ur” in “burn”).",
         "answer": "cœur Represents the combined vowel sound [œ] (like English “ur” in “burn”).",
         "goal_words": "Represents the combined vowel sound [œ] (like English “ur” in “burn”).",
         "audio_filename": "lineoct_fr_196.mp3",
-        "audio_dir": "cœur"
+        "learning_tag": "œ (ligature)"
     }
 ]

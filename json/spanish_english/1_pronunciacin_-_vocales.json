@@ -1,6 +1,24 @@
 [
     {
         "level": 1.0,
+        "image_filename": "",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "1 pronunciación - vocales",
+        "native_answer": "\"info\"",
+        "native_word": "vowels",
+        "tag": "vowels",
+        "prompt": "\"info\"",
+        "answer": "\"info\"",
+        "goal_words": "",
+        "audio_filename": "",
+        "learning_tag": "vowels"
+    },
+    {
+        "level": 1.0,
         "image_filename": "cat.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -9,13 +27,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Gato",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ como en \"cat\"",
+        "tag": "/æ/ como en \"cat\"",
         "prompt": "Cat ______,______,______",
         "answer": "Cat - /kæt/ - : \"a\"\nLa \"a\" se pronuncia como /æ/, un sonido entre la \"a\" y \"e\" en español, más abierto.",
         "goal_words": "- /kæt/ - : \"a\"\nLa \"a\" se pronuncia como /æ/,  un sonido entre la \"a\" y \"e\" en español,  más abierto.",
         "audio_filename": "line_en_447.mp3",
-        "audio_dir": "Cat"
+        "learning_tag": "/æ/ como en \"cat\""
     },
     {
         "level": 1.0,
@@ -27,13 +45,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Murciélago",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ como en \"cat\"",
+        "tag": "/æ/ como en \"cat\"",
         "prompt": "Bat ______,______,______",
         "answer": "Bat - /bæt/ - : \"a\"\nLa \"a\" se pronuncia como /æ/, un sonido entre la \"a\" y \"e\" en español, más abierto.",
         "goal_words": "- /bæt/ - : \"a\"\nLa \"a\" se pronuncia como /æ/,  un sonido entre la \"a\" y \"e\" en español,  más abierto.",
         "audio_filename": "line_en_251.mp3",
-        "audio_dir": "Bat"
+        "learning_tag": "/æ/ como en \"cat\""
     },
     {
         "level": 1.0,
@@ -45,13 +63,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Sombrero",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ como en \"cat\"",
+        "tag": "/æ/ como en \"cat\"",
         "prompt": "Hat ______,______,______",
         "answer": "Hat - /hæt/ - : \"a\"\nLa \"a\" se pronuncia como /æ/, un sonido entre la \"a\" y \"e\" en español, más abierto.",
         "goal_words": "- /hæt/ - : \"a\"\nLa \"a\" se pronuncia como /æ/,  un sonido entre la \"a\" y \"e\" en español,  más abierto.",
         "audio_filename": "line_en_1054.mp3",
-        "audio_dir": "Hat"
+        "learning_tag": "/æ/ como en \"cat\""
     },
     {
         "level": 1.0,
@@ -63,13 +81,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Hombre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ como en \"cat\"",
+        "tag": "/æ/ como en \"cat\"",
         "prompt": "Man ______,______,______",
         "answer": "Man - /mæn/ - : \"a\"\nLa \"a\" se pronuncia como /æ/, un sonido entre la \"a\" y \"e\" en español, más abierto.",
         "goal_words": "- /mæn/ - : \"a\"\nLa \"a\" se pronuncia como /æ/,  un sonido entre la \"a\" y \"e\" en español,  más abierto.",
         "audio_filename": "line2_en_578.mp3",
-        "audio_dir": "Man"
+        "learning_tag": "/æ/ como en \"cat\""
     },
     {
         "level": 1.0,
@@ -81,13 +99,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Manzana",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ como en \"cat\"",
+        "tag": "/æ/ como en \"cat\"",
         "prompt": "Apple ______,______,______",
         "answer": "Apple - /ˈæpəl/ - : \"a\"\nLa primera \"a\" es /æ/, como en las anteriores. La \"e\" final no se pronuncia, y la \"l\" es una /l/ clara.",
         "goal_words": "- /ˈæpəl/ - : \"a\"\nLa primera \"a\" es /æ/,  como en las anteriores. La \"e\" final no se pronuncia,  y la \"l\" es una /l/ clara.",
         "audio_filename": "line_en_174.mp3",
-        "audio_dir": "Apple"
+        "learning_tag": "/æ/ como en \"cat\""
     },
     {
         "level": 1.0,
@@ -99,13 +117,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Malo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ como en \"cat\"",
+        "tag": "/æ/ como en \"cat\"",
         "prompt": "Bad ______,______,______",
         "answer": "Bad - /bæd/ - : \"a\"\nLa \"a\" se pronuncia como /æ/, un sonido entre la \"a\" y \"e\" en español, más abierto.",
         "goal_words": "- /bæd/ - : \"a\"\nLa \"a\" se pronuncia como /æ/,  un sonido entre la \"a\" y \"e\" en español,  más abierto.",
         "audio_filename": "line_en_234.mp3",
-        "audio_dir": "Bad"
+        "learning_tag": "/æ/ como en \"cat\""
     },
     {
         "level": 1.0,
@@ -117,13 +135,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Gas",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ como en \"cat\"",
+        "tag": "/æ/ como en \"cat\"",
         "prompt": "Gas ______,______,______",
         "answer": "Gas - /ɡæs/ - : \"a\"\nLa \"a\" se pronuncia como /æ/, un sonido entre la \"a\" y \"e\" en español, más abierto.",
         "goal_words": "- /ɡæs/ - : \"a\"\nLa \"a\" se pronuncia como /æ/,  un sonido entre la \"a\" y \"e\" en español,  más abierto.",
         "audio_filename": "line_en_957.mp3",
-        "audio_dir": "Gas"
+        "learning_tag": "/æ/ como en \"cat\""
     },
     {
         "level": 1.0,
@@ -135,13 +153,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Mapa",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ como en \"cat\"",
+        "tag": "/æ/ como en \"cat\"",
         "prompt": "Map ______,______,______",
         "answer": "Map - /mæp/ - : \"a\"\nLa \"a\" se pronuncia como /æ/, un sonido entre la \"a\" y \"e\" en español, más abierto.",
         "goal_words": "- /mæp/ - : \"a\"\nLa \"a\" se pronuncia como /æ/,  un sonido entre la \"a\" y \"e\" en español,  más abierto.",
         "audio_filename": "line2_en_589.mp3",
-        "audio_dir": "Map"
+        "learning_tag": "/æ/ como en \"cat\""
     },
     {
         "level": 1.0,
@@ -153,13 +171,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Papá",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ como en \"cat\"",
+        "tag": "/æ/ como en \"cat\"",
         "prompt": "Dad ______,______,______",
         "answer": "Dad - /dæd/ - : \"a\"\nLa \"a\" se pronuncia como /æ/, un sonido entre la \"a\" y \"e\" en español, más abierto.",
         "goal_words": "- /dæd/ - : \"a\"\nLa \"a\" se pronuncia como /æ/,  un sonido entre la \"a\" y \"e\" en español,  más abierto.",
         "audio_filename": "line_en_602.mp3",
-        "audio_dir": "Dad"
+        "learning_tag": "/æ/ como en \"cat\""
     },
     {
         "level": 1.0,
@@ -171,13 +189,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Reír",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ como en \"cat\"",
+        "tag": "/æ/ como en \"cat\"",
         "prompt": "Laugh ______,______,______",
         "answer": "Laugh - /læf/ - : \"augh\"\nLa \"a\" se pronuncia como /æ/, pero la \"ugh\" se pronuncia como /f/, algo que no es intuitivo.",
         "goal_words": "- /læf/ - : \"augh\"\nLa \"a\" se pronuncia como /æ/,  pero la \"ugh\" se pronuncia como /f/,  algo que no es intuitivo.",
         "audio_filename": "line2_en_484.mp3",
-        "audio_dir": "Laugh"
+        "learning_tag": "/æ/ como en \"cat\""
     },
     {
         "level": 1.0,
@@ -189,13 +207,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Cama",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ como en \"bed\"",
+        "tag": "/ɛ/ como en \"bed\"",
         "prompt": "Bed ______,______",
         "answer": "Bed - /bɛd/ - : \"e\"\nLa \"e\" se pronuncia como /ɛ/, un sonido más abierto que la \"e\" española.",
         "goal_words": "- /bɛd/ - : \"e\"\nLa \"e\" se pronuncia como /ɛ/,  un sonido más abierto que la \"e\" española.",
         "audio_filename": "line_en_267.mp3",
-        "audio_dir": "Bed"
+        "learning_tag": "/ɛ/ como en \"bed\""
     },
     {
         "level": 1.0,
@@ -207,13 +225,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Rojo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ como en \"bed\"",
+        "tag": "/ɛ/ como en \"bed\"",
         "prompt": "Red ______,______,______,______,______",
         "answer": "Red - /rɛd/ - : \"e\"\nLa \"r\" es suave, sin vibrar, como una aproximación entre la lengua y el paladar, no como la \"r\" fuerte en español. La \"e\" se pronuncia como /ɛ/, más abierta que la \"e\" española.",
         "goal_words": "- /rɛd/ - : \"e\"\nLa \"r\" es suave,  sin vibrar,  como una aproximación entre la lengua y el paladar,  no como la \"r\" fuerte en español. La \"e\" se pronuncia como /ɛ/,  más abierta que la \"e\" española.",
         "audio_filename": "line3_en_248.mp3",
-        "audio_dir": "Red"
+        "learning_tag": "/ɛ/ como en \"bed\""
     },
     {
         "level": 1.0,
@@ -225,13 +243,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Conseguir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ como en \"bed\"",
+        "tag": "/ɛ/ como en \"bed\"",
         "prompt": "Get ______,______",
         "answer": "Get - /ɡɛt/ - : \"e\"\nLa \"e\" se pronuncia como /ɛ/, un sonido más abierto que la \"e\" española.",
         "goal_words": "- /ɡɛt/ - : \"e\"\nLa \"e\" se pronuncia como /ɛ/,  un sonido más abierto que la \"e\" española.",
         "audio_filename": "line_en_963.mp3",
-        "audio_dir": "Get"
+        "learning_tag": "/ɛ/ como en \"bed\""
     },
     {
         "level": 1.0,
@@ -243,13 +261,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Dicho",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ como en \"bed\"",
+        "tag": "/ɛ/ como en \"bed\"",
         "prompt": "Said ______,______",
         "answer": "Said - /sɛd/ - : \"ai\"\nLa \"ai\" se pronuncia como /ɛ/, un sonido más abierto que la \"e\" española.",
         "goal_words": "- /sɛd/ - : \"ai\"\nLa \"ai\" se pronuncia como /ɛ/,  un sonido más abierto que la \"e\" española.",
         "audio_filename": "line3_en_316.mp3",
-        "audio_dir": "Said"
+        "learning_tag": "/ɛ/ como en \"bed\""
     },
     {
         "level": 1.0,
@@ -261,13 +279,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "amigo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ como en \"bed\"",
+        "tag": "/ɛ/ como en \"bed\"",
         "prompt": "Friend ______,______",
         "answer": "Friend - /frɛnd/ - : \"ie\"\nLa \"ie\" se pronuncia como /ɛ/, un sonido más abierto que la \"e\" española.",
         "goal_words": "- /frɛnd/ - : \"ie\"\nLa \"ie\" se pronuncia como /ɛ/,  un sonido más abierto que la \"e\" española.",
         "audio_filename": "line_en_931.mp3",
-        "audio_dir": "Friend"
+        "learning_tag": "/ɛ/ como en \"bed\""
     },
     {
         "level": 1.0,
@@ -279,13 +297,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Pan",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ como en \"bed\"",
+        "tag": "/ɛ/ como en \"bed\"",
         "prompt": "Bread ______,______",
         "answer": "Bread - /brɛd/ - : \"ea\"\nLa \"ea\" se pronuncia como /ɛ/, un sonido más abierto que la \"e\" española.",
         "goal_words": "- /brɛd/ - : \"ea\"\nLa \"ea\" se pronuncia como /ɛ/,  un sonido más abierto que la \"e\" española.",
         "audio_filename": "line_en_344.mp3",
-        "audio_dir": "Bread"
+        "learning_tag": "/ɛ/ como en \"bed\""
     },
     {
         "level": 1.0,
@@ -297,13 +315,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Mensaje",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ como en \"bed\"",
+        "tag": "/ɛ/ como en \"bed\"",
         "prompt": "Message ______,______,______",
         "answer": "Message - /ˈmɛsɪdʒ/ - : \"e\"\nLa \"e\" se pronuncia como /ɛ/, y la \"a\" suena como una schwa /ə/, un sonido neutro que no es común en español.",
         "goal_words": "- /ˈmɛsɪdʒ/ - : \"e\"\nLa \"e\" se pronuncia como /ɛ/,  y la \"a\" suena como una schwa /ə/,  un sonido neutro que no es común en español.",
         "audio_filename": "line2_en_620.mp3",
-        "audio_dir": "Message"
+        "learning_tag": "/ɛ/ como en \"bed\""
     },
     {
         "level": 1.0,
@@ -315,13 +333,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Cabeza",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ como en \"bed\"",
+        "tag": "/ɛ/ como en \"bed\"",
         "prompt": "Head ______,______",
         "answer": "Head - /hɛd/ - : \"ea\"\nLa \"ea\" se pronuncia como /ɛ/, un sonido más abierto que la \"e\" española.",
         "goal_words": "- /hɛd/ - : \"ea\"\nLa \"ea\" se pronuncia como /ɛ/,  un sonido más abierto que la \"e\" española.",
         "audio_filename": "line_en_1400.mp3",
-        "audio_dir": "Head"
+        "learning_tag": "/ɛ/ como en \"bed\""
     },
     {
         "level": 1.0,
@@ -333,13 +351,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Muchos",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ como en \"bed\"",
+        "tag": "/ɛ/ como en \"bed\"",
         "prompt": "Many ______,______",
         "answer": "Many - /ˈmɛni/ - : \"a\"\nLa \"a\" se pronuncia como /ɛ/, un sonido más abierto que la \"e\" española.",
         "goal_words": "- /ˈmɛni/ - : \"a\"\nLa \"a\" se pronuncia como /ɛ/,  un sonido más abierto que la \"e\" española.",
         "audio_filename": "line2_en_584.mp3",
-        "audio_dir": "Many"
+        "learning_tag": "/ɛ/ como en \"bed\""
     },
     {
         "level": 1.0,
@@ -351,13 +369,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Dice",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ como en \"bed\"",
+        "tag": "/ɛ/ como en \"bed\"",
         "prompt": "Says ______,______",
         "answer": "Says - /sɛz/ - : \"ay\"\nLa \"ay\" se pronuncia como /ɛ/, un sonido más abierto que la \"e\" española.",
         "goal_words": "- /sɛz/ - : \"ay\"\nLa \"ay\" se pronuncia como /ɛ/,  un sonido más abierto que la \"e\" española.",
         "audio_filename": "line3_en_377.mp3",
-        "audio_dir": "Says"
+        "learning_tag": "/ɛ/ como en \"bed\""
     },
     {
         "level": 1.0,
@@ -369,13 +387,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Sentarse",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ como en \"sentarse\"",
+        "tag": "/ɪ/ como en \"sentarse\"",
         "prompt": "Sit ______,______",
         "answer": "Sit - /sɪt/ - : \"i\"\nLa \"i\" se pronuncia como /ɪ/, un sonido más corto y relajado que la \"i\" española.",
         "goal_words": "- /sɪt/ - : \"i\"\nLa \"i\" se pronuncia como /ɪ/,  un sonido más corto y relajado que la \"i\" española.",
         "audio_filename": "line3_en_747.mp3",
-        "audio_dir": "Sit"
+        "learning_tag": "/ɪ/ como en \"sit\""
     },
     {
         "level": 1.0,
@@ -387,13 +405,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Golpear",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ como en \"sentarse\"",
+        "tag": "/ɪ/ como en \"sentarse\"",
         "prompt": "Hit ______,______",
         "answer": "Hit - /hɪt/ - : \"i\"\nLa \"i\" se pronuncia como /ɪ/, un sonido más corto y relajado que la \"i\" española.",
         "goal_words": "- /hɪt/ - : \"i\"\nLa \"i\" se pronuncia como /ɪ/,  un sonido más corto y relajado que la \"i\" española.",
         "audio_filename": "line_en_1441.mp3",
-        "audio_dir": "Hit"
+        "learning_tag": "/ɪ/ como en \"sit\""
     },
     {
         "level": 1.0,
@@ -405,13 +423,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Poco",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ como en \"sentarse\"",
+        "tag": "/ɪ/ como en \"sentarse\"",
         "prompt": "Bit ______,______",
         "answer": "Bit - /bɪt/ - : \"i\"\nLa \"i\" se pronuncia como /ɪ/, un sonido más corto y relajado que la \"i\" española.",
         "goal_words": "- /bɪt/ - : \"i\"\nLa \"i\" se pronuncia como /ɪ/,  un sonido más corto y relajado que la \"i\" española.",
         "audio_filename": "line_en_301.mp3",
-        "audio_dir": "Bit"
+        "learning_tag": "/ɪ/ como en \"sit\""
     },
     {
         "level": 1.0,
@@ -423,13 +441,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Pensar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ como en \"sentarse\"",
+        "tag": "/ɪ/ como en \"sentarse\"",
         "prompt": "Think ______,______",
         "answer": "Think - /θɪŋk/ - : \"i\"\nLa \"th\" se pronuncia como /θ/, un sonido interdental que no existe en español.",
         "goal_words": "- /θɪŋk/ - : \"i\"\nLa \"th\" se pronuncia como /θ/,  un sonido interdental que no existe en español.",
         "audio_filename": "line4_en_410.mp3",
-        "audio_dir": "Think"
+        "learning_tag": "/ɪ/ como en \"sit\""
     },
     {
         "level": 1.0,
@@ -441,13 +459,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Construir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ como en \"sentarse\"",
+        "tag": "/ɪ/ como en \"sentarse\"",
         "prompt": "Build ______,______",
         "answer": "Build - /bɪld/ - : \"ui\"\nLa \"ui\" se pronuncia como /ɪ/, y la \"l\" no se pronuncia.",
         "goal_words": "- /bɪld/ - : \"ui\"\nLa \"ui\" se pronuncia como /ɪ/,  y la \"l\" no se pronuncia.",
         "audio_filename": "line_en_358.mp3",
-        "audio_dir": "Build"
+        "learning_tag": "/ɪ/ como en \"sit\""
     },
     {
         "level": 1.0,
@@ -459,13 +477,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Gimnasia",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ como en \"sentarse\"",
+        "tag": "/ɪ/ como en \"sentarse\"",
         "prompt": "Gym ______,______,______",
         "answer": "Gym - /dʒɪm/ - : \"y\"\nLa \"y\" se pronuncia como /ɪ/, y la \"g\" suena como /ʤ/, un sonido suave que no es común en español.",
         "goal_words": "- /dʒɪm/ - : \"y\"\nLa \"y\" se pronuncia como /ɪ/,  y la \"g\" suena como /ʤ/,  un sonido suave que no es común en español.",
         "audio_filename": "line_en_1028.mp3",
-        "audio_dir": "Gym"
+        "learning_tag": "/ɪ/ como en \"sit\""
     },
     {
         "level": 1.0,
@@ -477,13 +495,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Mujer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ como en \"sentarse\"",
+        "tag": "/ɪ/ como en \"sentarse\"",
         "prompt": "Women ______,______,______",
         "answer": "Women - /ˈwɪmɪn/ - : \"o\"\nLa \"o\" se pronuncia como /ɪ/, y la \"e\" suena como /ɪ/, una combinación poco intuitiva.",
         "goal_words": "- /ˈwɪmɪn/ - : \"o\"\nLa \"o\" se pronuncia como /ɪ/,  y la \"e\" suena como /ɪ/,  una combinación poco intuitiva.",
         "audio_filename": "line5_en_139.mp3",
-        "audio_dir": "Women"
+        "learning_tag": "/ɪ/ como en \"sit\""
     },
     {
         "level": 1.0,
@@ -495,13 +513,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Bonito",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ como en \"sentarse\"",
+        "tag": "/ɪ/ como en \"sentarse\"",
         "prompt": "Pretty ______,______",
         "answer": "Pretty - /ˈprɪti/ - : \"e\"\nLa \"e\" suena como /ɪ/, y la \"tt\" se pronuncia como una \"d\" suave en inglés americano.",
         "goal_words": "- /ˈprɪti/ - : \"e\"\nLa \"e\" suena como /ɪ/,  y la \"tt\" se pronuncia como una \"d\" suave en inglés americano.",
         "audio_filename": "line3_en_170.mp3",
-        "audio_dir": "Pretty"
+        "learning_tag": "/ɪ/ como en \"sit\""
     },
     {
         "level": 1.0,
@@ -513,13 +531,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Vivir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ como en \"sentarse\"",
+        "tag": "/ɪ/ como en \"sentarse\"",
         "prompt": "Live ______,______,______",
         "answer": "Live (as in \"I live here\") - /lɪv/ - : \"i\"\nDependiendo del contexto:\n\nComo \"vivir\" (verbo), la \"i\" se pronuncia como /ɪ/.\n\nComo \"en vivo\" (adjetivo), la \"i\" se pronuncia como /aɪ/.",
         "goal_words": "(as in \"I live here\") - /lɪv/ - : \"i\"\nDependiendo del contexto:\n\nComo \"vivir\" (verbo),  la \"i\" se pronuncia como /ɪ/.\n\nComo \"en vivo\" (adjetivo),  la \"i\" se pronuncia como /aɪ/.",
         "audio_filename": "line2_en_535.mp3",
-        "audio_dir": "Live"
+        "learning_tag": "/ɪ/ como en \"sit\""
     },
     {
         "level": 1.0,
@@ -531,13 +549,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Sistema",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ como en \"sentarse\"",
+        "tag": "/ɪ/ como en \"sentarse\"",
         "prompt": "System ______,______,______",
         "answer": "System - /ˈsɪstəm/ - : \"y\"\nLa \"y\" se pronuncia como /ɪ/, y la \"e\" se convierte en una schwa /ə/, un sonido neutro.",
         "goal_words": "- /ˈsɪstəm/ - : \"y\"\nLa \"y\" se pronuncia como /ɪ/,  y la \"e\" se convierte en una schwa /ə/,  un sonido neutro.",
         "audio_filename": "line3_en_935.mp3",
-        "audio_dir": "System"
+        "learning_tag": "/ɪ/ como en \"sit\""
     },
     {
         "level": 1.0,
@@ -549,13 +567,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Caliente",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Hot ______,______",
-        "answer": "Hot - /hɑt/ - : \"o\"\nLa \"o\" se pronuncia como /ɒ/ (británico) o /ɑ/ (americano), más abierta que la \"o\" española.",
-        "goal_words": "- /hɑt/ - : \"o\"\nLa \"o\" se pronuncia como /ɒ/ (británico) o /ɑ/ (americano),  más abierta que la \"o\" española.",
+        "native_word": "/ɑ/ como en \"hot\"",
+        "tag": "/ɑ/ como en \"hot\"",
+        "prompt": "Hot ______,______,______",
+        "answer": "Hot - /hɑt/ - : o \nLa o se pronuncia como /ɑ/ (inglés americano), un sonido abierto similar a la a española, pero más profundo y hacia atrás en la boca.",
+        "goal_words": "- /hɑt/ - : o \nLa o se pronuncia como /ɑ/ (inglés americano),  un sonido abierto similar a la a española,  pero más profundo y hacia atrás en la boca.",
         "audio_filename": "line_en_1459.mp3",
-        "audio_dir": "Hot"
+        "learning_tag": "/ɑ/ como en \"hot\""
     },
     {
         "level": 1.0,
@@ -567,13 +585,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Detener",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Stop ______,______",
-        "answer": "Stop - /stɑp/ - : \"o\"\nLa \"o\" se pronuncia como /ɒ/ (británico) o /ɑ/ (americano), más abierta que la \"o\" española.",
-        "goal_words": "- /stɑp/ - : \"o\"\nLa \"o\" se pronuncia como /ɒ/ (británico) o /ɑ/ (americano),  más abierta que la \"o\" española.",
+        "native_word": "/ɑ/ como en \"hot\"",
+        "tag": "/ɑ/ como en \"hot\"",
+        "prompt": "Stop ______,______,______",
+        "answer": "Stop - /stɑp/ - : o \nLa o se pronuncia como /ɑ/, similar a la a española, pero más abierta y posterior.",
+        "goal_words": "- /stɑp/ - : o \nLa o se pronuncia como /ɑ/,  similar a la a española,  pero más abierta y posterior.",
         "audio_filename": "line3_en_869.mp3",
-        "audio_dir": "Stop"
+        "learning_tag": "/ɑ/ como en \"hot\""
     },
     {
         "level": 1.0,
@@ -585,13 +603,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Roca",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Rock ______,______",
-        "answer": "Rock - /rɑk/ - : \"o\"\nLa \"o\" se pronuncia como /ɒ/ (británico) o /ɑ/ (americano), más abierta que la \"o\" española.",
-        "goal_words": "- /rɑk/ - : \"o\"\nLa \"o\" se pronuncia como /ɒ/ (británico) o /ɑ/ (americano),  más abierta que la \"o\" española.",
+        "native_word": "/ɑ/ como en \"hot\"",
+        "tag": "/ɑ/ como en \"hot\"",
+        "prompt": "Rock ______,______,______",
+        "answer": "Rock - /rɑk/ - : o \nLa o se pronuncia como /ɑ/, parecida a la a española, no como la o.",
+        "goal_words": "- /rɑk/ - : o \nLa o se pronuncia como /ɑ/,  parecida a la a española,  no como la o.",
         "audio_filename": "line3_en_302.mp3",
-        "audio_dir": "Rock"
+        "learning_tag": "/ɑ/ como en \"hot\""
     },
     {
         "level": 1.0,
@@ -603,13 +621,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Reloj",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ como en \"hot\"",
+        "tag": "/ɑ/ como en \"hot\"",
         "prompt": "Clock ______,______",
-        "answer": "Clock - /klɑk/ - : \"o\"\nLa \"o\" se pronuncia como /ɒ/ (británico) o /ɑ/ (americano), más abierta que la \"o\" española.",
-        "goal_words": "- /klɑk/ - : \"o\"\nLa \"o\" se pronuncia como /ɒ/ (británico) o /ɑ/ (americano),  más abierta que la \"o\" española.",
+        "answer": "Clock - /klɑk/ - : o \nLa o se pronuncia como /ɑ/, un sonido abierto similar a la a española.",
+        "goal_words": "- /klɑk/ - : o \nLa o se pronuncia como /ɑ/,  un sonido abierto similar a la a española.",
         "audio_filename": "line_en_504.mp3",
-        "audio_dir": "Clock"
+        "learning_tag": "/ɑ/ como en \"hot\""
     },
     {
         "level": 1.0,
@@ -621,13 +639,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Padre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ como en \"hot\"",
+        "tag": "/ɑ/ como en \"hot\"",
         "prompt": "Father ______,______,______,______",
-        "answer": "Father - /ˈfɑðɚ/ - : \"a\"\nLa \"a\" se pronuncia como /ɑː/, un sonido largo y abierto. La \"r\" es suave, sin vibrar, diferente a la \"r\" española.",
-        "goal_words": "- /ˈfɑðɚ/ - : \"a\"\nLa \"a\" se pronuncia como /ɑː/,  un sonido largo y abierto. La \"r\" es suave,  sin vibrar,  diferente a la \"r\" española.",
+        "answer": "Father - /ˈfɑðɚ/ - : a \nLa a se pronuncia como /ɑ/, un sonido abierto similar a la a española, pero más largo y profundo. La r es suave, sin vibrar.",
+        "goal_words": "- /ˈfɑðɚ/ - : a \nLa a se pronuncia como /ɑ/,  un sonido abierto similar a la a española,  pero más largo y profundo. La r es suave,  sin vibrar.",
         "audio_filename": "line_en_849.mp3",
-        "audio_dir": "Father"
+        "learning_tag": "/ɑ/ como en \"hot\""
     },
     {
         "level": 1.0,
@@ -639,13 +657,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "No",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ como en \"hot\"",
+        "tag": "/ɑ/ como en \"hot\"",
         "prompt": "Not ______,______",
-        "answer": "Not - /nɑt/ - : \"o\"\nLa \"o\" se pronuncia como /ɒ/ (británico) o /ɑ/ (americano), más abierta que la \"o\" española.",
-        "goal_words": "- /nɑt/ - : \"o\"\nLa \"o\" se pronuncia como /ɒ/ (británico) o /ɑ/ (americano),  más abierta que la \"o\" española.",
+        "answer": "Not - /nɑt/ - : o \nLa o se pronuncia como /ɑ/, más cercana a la a española que a la o.",
+        "goal_words": "- /nɑt/ - : o \nLa o se pronuncia como /ɑ/,  más cercana a la a española que a la o.",
         "audio_filename": "line2_en_707.mp3",
-        "audio_dir": "Not"
+        "learning_tag": "/ɑ/ como en \"hot\""
     },
     {
         "level": 1.0,
@@ -657,13 +675,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Caja",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ como en \"hot\"",
+        "tag": "/ɑ/ como en \"hot\"",
         "prompt": "Box ______,______",
-        "answer": "Box - /bɑks/ - : \"o\"\nLa \"o\" se pronuncia como /ɑ/, más abierta que la \"o\" española.",
-        "goal_words": "- /bɑks/ - : \"o\"\nLa \"o\" se pronuncia como /ɑ/,  más abierta que la \"o\" española.",
+        "answer": "Box - /bɑks/ - : o \nLa o se pronuncia como /ɑ/, un sonido abierto similar a la a española.",
+        "goal_words": "- /bɑks/ - : o \nLa o se pronuncia como /ɑ/,  un sonido abierto similar a la a española.",
         "audio_filename": "line_en_335.mp3",
-        "audio_dir": "Box"
+        "learning_tag": "/ɑ/ como en \"hot\""
     },
     {
         "level": 1.0,
@@ -675,13 +693,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Calcetín",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ como en \"hot\"",
+        "tag": "/ɑ/ como en \"hot\"",
         "prompt": "Sock ______,______",
-        "answer": "Sock - /sɑk/ - : \"o\"\nLa \"o\" se pronuncia como /ɑ/, más abierta que la \"o\" española.",
-        "goal_words": "- /sɑk/ - : \"o\"\nLa \"o\" se pronuncia como /ɑ/,  más abierta que la \"o\" española.",
+        "answer": "Sock - /sɑk/ - : o \nLa o se pronuncia como /ɑ/, parecido a la a española.",
+        "goal_words": "- /sɑk/ - : o \nLa o se pronuncia como /ɑ/,  parecido a la a española.",
         "audio_filename": "line3_en_789.mp3",
-        "audio_dir": "Sock"
+        "learning_tag": "/ɑ/ como en \"hot\""
     },
     {
         "level": 1.0,
@@ -693,13 +711,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Trabajo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ como en \"hot\"",
+        "tag": "/ɑ/ como en \"hot\"",
         "prompt": "Job ______,______",
-        "answer": "Job - /dʒɑb/ - : \"o\"\nLa \"o\" se pronuncia como /ɑ/, más abierta que la \"o\" española.",
-        "goal_words": "- /dʒɑb/ - : \"o\"\nLa \"o\" se pronuncia como /ɑ/,  más abierta que la \"o\" española.",
+        "answer": "Job - /dʒɑb/ - : o \nLa o se pronuncia como /ɑ/, no como la o española.",
+        "goal_words": "- /dʒɑb/ - : o \nLa o se pronuncia como /ɑ/,  no como la o española.",
         "audio_filename": "line2_en_425.mp3",
-        "audio_dir": "Job"
+        "learning_tag": "/ɑ/ como en \"hot\""
     },
     {
         "level": 1.0,
@@ -711,13 +729,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Consiguió",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ como en \"hot\"",
+        "tag": "/ɑ/ como en \"hot\"",
         "prompt": "Got ______,______",
-        "answer": "Got - /ɡɑt/ - : \"o\"\nLa \"o\" se pronuncia como /ɑ/, más abierta que la \"o\" española.",
-        "goal_words": "- /ɡɑt/ - : \"o\"\nLa \"o\" se pronuncia como /ɑ/,  más abierta que la \"o\" española.",
+        "answer": "Got - /ɡɑt/ - : o \nLa o se pronuncia como /ɑ/, similar a la a española.",
+        "goal_words": "- /ɡɑt/ - : o \nLa o se pronuncia como /ɑ/,  similar a la a española.",
         "audio_filename": "line_en_992.mp3",
-        "audio_dir": "Got"
+        "learning_tag": "/ɑ/ como en \"hot\""
     },
     {
         "level": 1.0,
@@ -729,13 +747,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Libro",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ como en \"book\"",
+        "tag": "/ʊ/ como en \"book\"",
         "prompt": "Book ______,______",
         "answer": "Book - /bʊk/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʊ/, un sonido más corto y relajado que la \"u\" española.",
         "goal_words": "- /bʊk/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʊ/,  un sonido más corto y relajado que la \"u\" española.",
         "audio_filename": "line_en_317.mp3",
-        "audio_dir": "Book"
+        "learning_tag": "/ʊ/ como en \"book\""
     },
     {
         "level": 1.0,
@@ -747,13 +765,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Mirar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ como en \"book\"",
+        "tag": "/ʊ/ como en \"book\"",
         "prompt": "Look ______,______",
         "answer": "Look - /lʊk/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʊ/, un sonido más corto y relajado que la \"u\" española.",
         "goal_words": "- /lʊk/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʊ/,  un sonido más corto y relajado que la \"u\" española.",
         "audio_filename": "line2_en_543.mp3",
-        "audio_dir": "Look"
+        "learning_tag": "/ʊ/ como en \"book\""
     },
     {
         "level": 1.0,
@@ -765,13 +783,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Bien",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ como en \"book\"",
+        "tag": "/ʊ/ como en \"book\"",
         "prompt": "Good ______,______",
         "answer": "Good - /ɡʊd/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʊ/, un sonido más corto y relajado que la \"u\" española.",
         "goal_words": "- /ɡʊd/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʊ/,  un sonido más corto y relajado que la \"u\" española.",
         "audio_filename": "line_en_988.mp3",
-        "audio_dir": "Good"
+        "learning_tag": "/ʊ/ como en \"book\""
     },
     {
         "level": 1.0,
@@ -783,13 +801,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Pie",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ como en \"book\"",
+        "tag": "/ʊ/ como en \"book\"",
         "prompt": "Foot ______,______",
         "answer": "Foot - /fʊt/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʊ/, un sonido más corto y relajado que la \"u\" española.",
         "goal_words": "- /fʊt/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʊ/,  un sonido más corto y relajado que la \"u\" española.",
         "audio_filename": "line_en_908.mp3",
-        "audio_dir": "Foot"
+        "learning_tag": "/ʊ/ como en \"book\""
     },
     {
         "level": 1.0,
@@ -801,13 +819,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Cocinar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ como en \"book\"",
+        "tag": "/ʊ/ como en \"book\"",
         "prompt": "Cook ______,______",
         "answer": "Cook - /kʊk/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʊ/, un sonido más corto y relajado que la \"u\" española.",
         "goal_words": "- /kʊk/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʊ/,  un sonido más corto y relajado que la \"u\" española.",
         "audio_filename": "line_en_556.mp3",
-        "audio_dir": "Cook"
+        "learning_tag": "/ʊ/ como en \"book\""
     },
     {
         "level": 1.0,
@@ -819,13 +837,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Podría",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ como en \"book\"",
+        "tag": "/ʊ/ como en \"book\"",
         "prompt": "Could ______,______",
         "answer": "Could - /kʊd/ - : \"ou\"\nLa \"ou\" se pronuncia como /ʊ/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /kʊd/ - : \"ou\"\nLa \"ou\" se pronuncia como /ʊ/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line_en_564.mp3",
-        "audio_dir": "Could"
+        "learning_tag": "/ʊ/ como en \"book\""
     },
     {
         "level": 1.0,
@@ -837,13 +855,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Debería",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ como en \"book\"",
+        "tag": "/ʊ/ como en \"book\"",
         "prompt": "Should ______,______",
         "answer": "Should - /ʃʊd/ - : \"ou\"\nLa \"ou\" se pronuncia como /ʊ/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /ʃʊd/ - : \"ou\"\nLa \"ou\" se pronuncia como /ʊ/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line3_en_719.mp3",
-        "audio_dir": "Should"
+        "learning_tag": "/ʊ/ como en \"book\""
     },
     {
         "level": 1.0,
@@ -855,13 +873,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Quería",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ como en \"book\"",
+        "tag": "/ʊ/ como en \"book\"",
         "prompt": "Would ______,______",
         "answer": "Would - /wʊd/ - : \"ou\"\nLa \"ou\" se pronuncia como /ʊ/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /wʊd/ - : \"ou\"\nLa \"ou\" se pronuncia como /ʊ/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line5_en_157.mp3",
-        "audio_dir": "Would"
+        "learning_tag": "/ʊ/ como en \"book\""
     },
     {
         "level": 1.0,
@@ -873,13 +891,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Lobo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ como en \"book\"",
+        "tag": "/ʊ/ como en \"book\"",
         "prompt": "Wolf ______,______",
         "answer": "Wolf - /wʊlf/ - : \"o\"\nLa \"o\" se pronuncia como /ʊ/, un sonido más corto y relajado que la \"u\" española.",
         "goal_words": "- /wʊlf/ - : \"o\"\nLa \"o\" se pronuncia como /ʊ/,  un sonido más corto y relajado que la \"u\" española.",
         "audio_filename": "line5_en_136.mp3",
-        "audio_dir": "Wolf"
+        "learning_tag": "/ʊ/ como en \"book\""
     },
     {
         "level": 1.0,
@@ -891,13 +909,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Jalar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ como en \"book\"",
+        "tag": "/ʊ/ como en \"book\"",
         "prompt": "Pull ______,______",
         "answer": "Pull - /pʊl/ - : \"u\"\nLa \"u\" se pronuncia como /ʊ/, un sonido más corto y relajado que la \"u\" española.",
         "goal_words": "- /pʊl/ - : \"u\"\nLa \"u\" se pronuncia como /ʊ/,  un sonido más corto y relajado que la \"u\" española.",
         "audio_filename": "line3_en_195.mp3",
-        "audio_dir": "Pull"
+        "learning_tag": "/ʊ/ como en \"book\""
     },
     {
         "level": 1.0,
@@ -909,13 +927,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Taza",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ como en \"cup\"",
+        "tag": "/ʌ/ como en \"cup\"",
         "prompt": "Cup ______,______",
         "answer": "Cup - /kʌp/ - : \"u\"\nLa \"u\" se pronuncia como /ʌ/, un sonido entre \"a\" y \"o\" que no existe en español.",
         "goal_words": "- /kʌp/ - : \"u\"\nLa \"u\" se pronuncia como /ʌ/,  un sonido entre \"a\" y \"o\" que no existe en español.",
         "audio_filename": "line_en_592.mp3",
-        "audio_dir": "Cup"
+        "learning_tag": "/ʌ/ como en \"cup\""
     },
     {
         "level": 1.0,
@@ -927,13 +945,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Sol",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ como en \"cup\"",
+        "tag": "/ʌ/ como en \"cup\"",
         "prompt": "Sun ______,______",
         "answer": "Sun - /sʌn/ - : \"u\"\nLa \"u\" se pronuncia como /ʌ/, un sonido entre \"a\" y \"o\" que no existe en español.",
         "goal_words": "- /sʌn/ - : \"u\"\nLa \"u\" se pronuncia como /ʌ/,  un sonido entre \"a\" y \"o\" que no existe en español.",
         "audio_filename": "line3_en_902.mp3",
-        "audio_dir": "Sun"
+        "learning_tag": "/ʌ/ como en \"cup\""
     },
     {
         "level": 1.0,
@@ -945,13 +963,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Pero",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ como en \"cup\"",
+        "tag": "/ʌ/ como en \"cup\"",
         "prompt": "But ______,______",
         "answer": "But - /bʌt/ - : \"u\"\nLa \"u\" se pronuncia como /ʌ/, un sonido entre \"a\" y \"o\" que no existe en español.",
         "goal_words": "- /bʌt/ - : \"u\"\nLa \"u\" se pronuncia como /ʌ/,  un sonido entre \"a\" y \"o\" que no existe en español.",
         "audio_filename": "line_en_367.mp3",
-        "audio_dir": "But"
+        "learning_tag": "/ʌ/ como en \"cup\""
     },
     {
         "level": 1.0,
@@ -963,13 +981,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Suerte",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ como en \"cup\"",
+        "tag": "/ʌ/ como en \"cup\"",
         "prompt": "Luck ______,______",
         "answer": "Luck - /lʌk/ - : \"u\"\nLa \"u\" se pronuncia como /ʌ/, un sonido entre \"a\" y \"o\" que no existe en español.",
         "goal_words": "- /lʌk/ - : \"u\"\nLa \"u\" se pronuncia como /ʌ/,  un sonido entre \"a\" y \"o\" que no existe en español.",
         "audio_filename": "line2_en_562.mp3",
-        "audio_dir": "Luck"
+        "learning_tag": "/ʌ/ como en \"cup\""
     },
     {
         "level": 1.0,
@@ -981,13 +999,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Divertido",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ como en \"cup\"",
+        "tag": "/ʌ/ como en \"cup\"",
         "prompt": "Fun ______,______",
         "answer": "Fun - /fʌn/ - : \"u\"\nLa \"u\" se pronuncia como /ʌ/, un sonido entre \"a\" y \"o\" que no existe en español.",
         "goal_words": "- /fʌn/ - : \"u\"\nLa \"u\" se pronuncia como /ʌ/,  un sonido entre \"a\" y \"o\" que no existe en español.",
         "audio_filename": "line_en_938.mp3",
-        "audio_dir": "Fun"
+        "learning_tag": "/ʌ/ como en \"cup\""
     },
     {
         "level": 1.0,
@@ -999,13 +1017,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Dinero",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ como en \"cup\"",
+        "tag": "/ʌ/ como en \"cup\"",
         "prompt": "Money ______,______",
         "answer": "Money - /ˈmʌni/ - : \"o\"\nLa \"o\" se pronuncia como /ʌ/, un sonido entre \"a\" y \"o\" que no existe en español.",
         "goal_words": "- /ˈmʌni/ - : \"o\"\nLa \"o\" se pronuncia como /ʌ/,  un sonido entre \"a\" y \"o\" que no existe en español.",
         "audio_filename": "line2_en_638.mp3",
-        "audio_dir": "Money"
+        "learning_tag": "/ʌ/ como en \"cup\""
     },
     {
         "level": 1.0,
@@ -1017,13 +1035,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Sangre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ como en \"cup\"",
+        "tag": "/ʌ/ como en \"cup\"",
         "prompt": "Blood ______,______",
         "answer": "Blood - /blʌd/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʌ/, un sonido entre \"a\" y \"o\" que no existe en español.",
         "goal_words": "- /blʌd/ - : \"oo\"\nLa \"oo\" se pronuncia como /ʌ/,  un sonido entre \"a\" y \"o\" que no existe en español.",
         "audio_filename": "line_en_309.mp3",
-        "audio_dir": "Blood"
+        "learning_tag": "/ʌ/ como en \"cup\""
     },
     {
         "level": 1.0,
@@ -1035,13 +1053,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Hermano",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ como en \"cup\"",
+        "tag": "/ʌ/ como en \"cup\"",
         "prompt": "Brother ______,______,______",
         "answer": "Brother - /ˈbrʌðɚ/ - : \"o\"\nLa \"o\" se pronuncia como /ʌ/, y la \"th\" se pronuncia como /ð/, un sonido interdental que no existe en español.",
         "goal_words": "- /ˈbrʌðɚ/ - : \"o\"\nLa \"o\" se pronuncia como /ʌ/,  y la \"th\" se pronuncia como /ð/,  un sonido interdental que no existe en español.",
         "audio_filename": "line_en_354.mp3",
-        "audio_dir": "Brother"
+        "learning_tag": "/ʌ/ como en \"cup\""
     },
     {
         "level": 1.0,
@@ -1053,13 +1071,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Venir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ como en \"cup\"",
+        "tag": "/ʌ/ como en \"cup\"",
         "prompt": "Come ______,______",
         "answer": "Come - /kʌm/ - : \"o\"\nLa \"o\" se pronuncia como /ʌ/, un sonido entre \"a\" y \"o\" que no existe en español.",
         "goal_words": "- /kʌm/ - : \"o\"\nLa \"o\" se pronuncia como /ʌ/,  un sonido entre \"a\" y \"o\" que no existe en español.",
         "audio_filename": "line_en_519.mp3",
-        "audio_dir": "Come"
+        "learning_tag": "/ʌ/ como en \"cup\""
     },
     {
         "level": 1.0,
@@ -1071,13 +1089,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Hace",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ como en \"cup\"",
+        "tag": "/ʌ/ como en \"cup\"",
         "prompt": "Does ______,______",
         "answer": "Does - /dʌz/ - : \"oe\"\nLa \"oe\" se pronuncia como /ʌ/, algo que no es intuitivo por la ortografía. La \"s\" suena como /z/.",
         "goal_words": "- /dʌz/ - : \"oe\"\nLa \"oe\" se pronuncia como /ʌ/,  algo que no es intuitivo por la ortografía. La \"s\" suena como /z/.",
         "audio_filename": "line_en_682.mp3",
-        "audio_dir": "Does"
+        "learning_tag": "/ʌ/ como en \"cup\""
     },
     {
         "level": 1.0,
@@ -1089,13 +1107,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ver",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ como en \"see\"",
+        "tag": "/iː/ como en \"see\"",
         "prompt": "See ______,______,______",
         "answer": "See - /siː/ - : \"ee\"\nLa \"ee\" se pronuncia como /iː/, un sonido largo y sostenido similar a la \"i\" española, pero más prolongado.",
         "goal_words": "- /siː/ - : \"ee\"\nLa \"ee\" se pronuncia como /iː/,  un sonido largo y sostenido similar a la \"i\" española,  pero más prolongado.",
         "audio_filename": "line3_en_401.mp3",
-        "audio_dir": "See"
+        "learning_tag": "/iː/ como en \"see\""
     },
     {
         "level": 1.0,
@@ -1107,13 +1125,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ser",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ como en \"see\"",
+        "tag": "/iː/ como en \"see\"",
         "prompt": "Be ______,______,______",
         "answer": "Be - /biː/ - : \"e\"\nLa \"e\" se pronuncia como /iː/, un sonido largo y sostenido similar a la \"i\" española, pero más prolongado.",
         "goal_words": "- /biː/ - : \"e\"\nLa \"e\" se pronuncia como /iː/,  un sonido largo y sostenido similar a la \"i\" española,  pero más prolongado.",
         "audio_filename": "line_en_255.mp3",
-        "audio_dir": "Be"
+        "learning_tag": "/iː/ como en \"see\""
     },
     {
         "level": 1.0,
@@ -1125,13 +1143,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Árbol",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ como en \"see\"",
+        "tag": "/iː/ como en \"see\"",
         "prompt": "Tree ______,______,______",
         "answer": "Tree - /triː/ - : \"ee\"\nLa \"ee\" se pronuncia como /iː/, un sonido largo y sostenido similar a la \"i\" española, pero más prolongado.",
         "goal_words": "- /triː/ - : \"ee\"\nLa \"ee\" se pronuncia como /iː/,  un sonido largo y sostenido similar a la \"i\" española,  pero más prolongado.",
         "audio_filename": "line4_en_587.mp3",
-        "audio_dir": "Tree"
+        "learning_tag": "/iː/ como en \"see\""
     },
     {
         "level": 1.0,
@@ -1143,13 +1161,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Encontrarse",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ como en \"see\"",
+        "tag": "/iː/ como en \"see\"",
         "prompt": "Meet ______,______,______",
         "answer": "Meet - /miːt/ - : \"ee\"\nLa \"ee\" se pronuncia como /iː/, un sonido largo y sostenido similar a la \"i\" española, pero más prolongado.",
         "goal_words": "- /miːt/ - : \"ee\"\nLa \"ee\" se pronuncia como /iː/,  un sonido largo y sostenido similar a la \"i\" española,  pero más prolongado.",
         "audio_filename": "line2_en_614.mp3",
-        "audio_dir": "Meet"
+        "learning_tag": "/iː/ como en \"see\""
     },
     {
         "level": 1.0,
@@ -1161,13 +1179,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Necesidad",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ como en \"see\"",
+        "tag": "/iː/ como en \"see\"",
         "prompt": "Need ______,______,______",
         "answer": "Need - /niːd/ - : \"ee\"\nLa \"ee\" se pronuncia como /iː/, un sonido largo y sostenido similar a la \"i\" española, pero más prolongado.",
         "goal_words": "- /niːd/ - : \"ee\"\nLa \"ee\" se pronuncia como /iː/,  un sonido largo y sostenido similar a la \"i\" española,  pero más prolongado.",
         "audio_filename": "line2_en_677.mp3",
-        "audio_dir": "Need"
+        "learning_tag": "/iː/ como en \"see\""
     },
     {
         "level": 1.0,
@@ -1179,13 +1197,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Paz",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ como en \"see\"",
+        "tag": "/iː/ como en \"see\"",
         "prompt": "Peace ______,______",
         "answer": "Peace - /piːs/ - : \"ea\"\nLa \"ea\" se pronuncia como /iː/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /piːs/ - : \"ea\"\nLa \"ea\" se pronuncia como /iː/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line3_en_96.mp3",
-        "audio_dir": "Peace"
+        "learning_tag": "/iː/ como en \"see\""
     },
     {
         "level": 1.0,
@@ -1197,13 +1215,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Llave",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ como en \"see\"",
+        "tag": "/iː/ como en \"see\"",
         "prompt": "Key ______,______",
         "answer": "Key - /kiː/ - : \"ey\"\nLa \"ey\" se pronuncia como /iː/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /kiː/ - : \"ey\"\nLa \"ey\" se pronuncia como /iː/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line2_en_459.mp3",
-        "audio_dir": "Key"
+        "learning_tag": "/iː/ como en \"see\""
     },
     {
         "level": 1.0,
@@ -1215,13 +1233,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Gente",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ como en \"see\"",
+        "tag": "/iː/ como en \"see\"",
         "prompt": "People ______,______",
         "answer": "People - /ˈpiːpəl/ - : \"eo\"\nLa \"eo\" se pronuncia como /iː/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /ˈpiːpəl/ - : \"eo\"\nLa \"eo\" se pronuncia como /iː/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line3_en_102.mp3",
-        "audio_dir": "People"
+        "learning_tag": "/iː/ como en \"see\""
     },
     {
         "level": 1.0,
@@ -1233,13 +1251,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Recibir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ como en \"see\"",
+        "tag": "/iː/ como en \"see\"",
         "prompt": "Receive ______,______",
         "answer": "Receive - /rɪˈsiːv/ - : \"ei\"\nLa \"ei\" se pronuncia como /iː/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /rɪˈsiːv/ - : \"ei\"\nLa \"ei\" se pronuncia como /iː/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line3_en_242.mp3",
-        "audio_dir": "Receive"
+        "learning_tag": "/iː/ como en \"see\""
     },
     {
         "level": 1.0,
@@ -1251,13 +1269,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Policía",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ como en \"see\"",
+        "tag": "/iː/ como en \"see\"",
         "prompt": "Police ______,______,______",
         "answer": "Police - /pəˈliːs/ - : \"i\"\nLa \"o\" se pronuncia como /ə/, un sonido neutro (schwa), y la \"i\" como /iː/.",
         "goal_words": "- /pəˈliːs/ - : \"i\"\nLa \"o\" se pronuncia como /ə/,  un sonido neutro (schwa),  y la \"i\" como /iː/.",
         "audio_filename": "line3_en_148.mp3",
-        "audio_dir": "Police"
+        "learning_tag": "/iː/ como en \"see\""
     },
     {
         "level": 1.0,
@@ -1269,13 +1287,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Padre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ como en \"car\"",
+        "tag": "/ɑː/ como en \"car\"",
         "prompt": "Father ______,______,______,______",
         "answer": "Father - /ˈfɑːðɚ/ - : \"a\"\nLa \"a\" se pronuncia como /ɑː/, un sonido largo y abierto. La \"r\" es suave, sin vibrar, diferente de la \"r\" española.",
         "goal_words": "- /ˈfɑːðɚ/ - : \"a\"\nLa \"a\" se pronuncia como /ɑː/,  un sonido largo y abierto. La \"r\" es suave,  sin vibrar,  diferente de la \"r\" española.",
         "audio_filename": "line_en_849.mp3",
-        "audio_dir": "Father"
+        "learning_tag": "/ɑː/ como en \"car\""
     },
     {
         "level": 1.0,
@@ -1287,13 +1305,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Auto",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ como en \"car\"",
+        "tag": "/ɑː/ como en \"car\"",
         "prompt": "Car ______,______",
         "answer": "Car - /kɑːr/ - : \"a\"\nLa \"a\" se pronuncia como /ɑː/, y la \"r\" es suave y no vibra.",
         "goal_words": "- /kɑːr/ - : \"a\"\nLa \"a\" se pronuncia como /ɑː/,  y la \"r\" es suave y no vibra.",
         "audio_filename": "line_en_434.mp3",
-        "audio_dir": "Car"
+        "learning_tag": "/ɑː/ como en \"car\""
     },
     {
         "level": 1.0,
@@ -1305,13 +1323,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Palmera",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ como en \"car\"",
+        "tag": "/ɑː/ como en \"car\"",
         "prompt": "Palm ______,______",
         "answer": "Palm - /pɑːm/ - : \"a\"\nLa \"a\" se pronuncia como /ɑː/, y la \"l\" es muda.",
         "goal_words": "- /pɑːm/ - : \"a\"\nLa \"a\" se pronuncia como /ɑː/,  y la \"l\" es muda.",
         "audio_filename": "line3_en_66.mp3",
-        "audio_dir": "Palm"
+        "learning_tag": "/ɑː/ como en \"car\""
     },
     {
         "level": 1.0,
@@ -1323,13 +1341,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Molestar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ como en \"car\"",
+        "tag": "/ɑː/ como en \"car\"",
         "prompt": "Bother ______,______,______",
         "answer": "Bother - /ˈbɑːðɚ/ - : \"o\"\nLa \"o\" se pronuncia como /ɑː/, y la \"th\" como /ð/, un sonido interdental que no existe en español.",
         "goal_words": "- /ˈbɑːðɚ/ - : \"o\"\nLa \"o\" se pronuncia como /ɑː/,  y la \"th\" como /ð/,  un sonido interdental que no existe en español.",
         "audio_filename": "line_en_331.mp3",
-        "audio_dir": "Bother"
+        "learning_tag": "/ɑː/ como en \"car\""
     },
     {
         "level": 1.0,
@@ -1341,13 +1359,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Estrella",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ como en \"car\"",
+        "tag": "/ɑː/ como en \"car\"",
         "prompt": "Star ______,______",
         "answer": "Star - /stɑːr/ - : \"ar\"\nLa \"a\" se pronuncia como /ɑː/, y la \"r\" es suave y no vibra.",
         "goal_words": "- /stɑːr/ - : \"ar\"\nLa \"a\" se pronuncia como /ɑː/,  y la \"r\" es suave y no vibra.",
         "audio_filename": "line3_en_845.mp3",
-        "audio_dir": "Star"
+        "learning_tag": "/ɑː/ como en \"car\""
     },
     {
         "level": 1.0,
@@ -1359,13 +1377,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Comenzar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ como en \"car\"",
+        "tag": "/ɑː/ como en \"car\"",
         "prompt": "Start ______,______",
         "answer": "Start - /stɑːrt/ - : \"ar\"\nLa \"a\" se pronuncia como /ɑː/, y la \"r\" es suave y no vibra.",
         "goal_words": "- /stɑːrt/ - : \"ar\"\nLa \"a\" se pronuncia como /ɑː/,  y la \"r\" es suave y no vibra.",
         "audio_filename": "line3_en_846.mp3",
-        "audio_dir": "Start"
+        "learning_tag": "/ɑː/ como en \"car\""
     },
     {
         "level": 1.0,
@@ -1377,13 +1395,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Duro",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ como en \"car\"",
+        "tag": "/ɑː/ como en \"car\"",
         "prompt": "Hard ______,______",
         "answer": "Hard - /hɑːrd/ - : \"ar\"\nLa \"a\" se pronuncia como /ɑː/, y la \"r\" es suave y no vibra.",
         "goal_words": "- /hɑːrd/ - : \"ar\"\nLa \"a\" se pronuncia como /ɑː/,  y la \"r\" es suave y no vibra.",
         "audio_filename": "line_en_1047.mp3",
-        "audio_dir": "Hard"
+        "learning_tag": "/ɑː/ como en \"car\""
     },
     {
         "level": 1.0,
@@ -1395,13 +1413,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Arte",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ como en \"car\"",
+        "tag": "/ɑː/ como en \"car\"",
         "prompt": "Art ______,______",
         "answer": "Art - /ɑːrt/ - : \"ar\"\nLa \"a\" se pronuncia como /ɑː/, y la \"r\" es suave y no vibra.",
         "goal_words": "- /ɑːrt/ - : \"ar\"\nLa \"a\" se pronuncia como /ɑː/,  y la \"r\" es suave y no vibra.",
         "audio_filename": "line_en_191.mp3",
-        "audio_dir": "Art"
+        "learning_tag": "/ɑː/ como en \"car\""
     },
     {
         "level": 1.0,
@@ -1413,13 +1431,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ejército",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ como en \"car\"",
+        "tag": "/ɑː/ como en \"car\"",
         "prompt": "Army ______,______,______",
         "answer": "Army - /ˈɑːrmi/ - : \"ar\"\nLa \"a\" se pronuncia como /ɑː/, la \"r\" es suave y no vibra, y la \"y\" se pronuncia como /i/.",
         "goal_words": "- /ˈɑːrmi/ - : \"ar\"\nLa \"a\" se pronuncia como /ɑː/,  la \"r\" es suave y no vibra,  y la \"y\" se pronuncia como /i/.",
         "audio_filename": "line_en_188.mp3",
-        "audio_dir": "Army"
+        "learning_tag": "/ɑː/ como en \"car\""
     },
     {
         "level": 1.0,
@@ -1431,13 +1449,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Corazón",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ como en \"car\"",
+        "tag": "/ɑː/ como en \"car\"",
         "prompt": "Heart ______,______,______",
         "answer": "Heart - /hɑːrt/ - : \"ea\"\nLa \"ear\" se pronuncia como /ɑː/, un sonido largo y abierto, algo que no es intuitivo por la ortografía. La \"r\" es suave y no vibra.",
         "goal_words": "- /hɑːrt/ - : \"ea\"\nLa \"ear\" se pronuncia como /ɑː/,  un sonido largo y abierto,  algo que no es intuitivo por la ortografía. La \"r\" es suave y no vibra.",
         "audio_filename": "line_en_1406.mp3",
-        "audio_dir": "Heart"
+        "learning_tag": "/ɑː/ como en \"car\""
     },
     {
         "level": 1.0,
@@ -1449,13 +1467,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "También",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ como en \"blue\"",
+        "tag": "/uː/ como en \"blue\"",
         "prompt": "Too ______,______,______",
         "answer": "Too - /tuː/ - : \"oo\"\n/uː/: Sonido largo de \"u\", similar a \"u\" en español, pero más prolongado.",
         "goal_words": "- /tuː/ - : \"oo\"\n/uː/: Sonido largo de \"u\",  similar a \"u\" en español,  pero más prolongado.",
         "audio_filename": "line4_en_562.mp3",
-        "audio_dir": "Too"
+        "learning_tag": "/uː/ como en \"blue\""
     },
     {
         "level": 1.0,
@@ -1467,13 +1485,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Azul",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ como en \"blue\"",
+        "tag": "/uː/ como en \"blue\"",
         "prompt": "Blue ______",
         "answer": "Blue - /bluː/ - : \"ue\"\n/uː/: Sonido largo de \"u\". /bl/: Combinación que se pronuncia como \"bl\" en español.",
         "goal_words": "- /bluː/ - : \"ue\"\n/uː/: Sonido largo de \"u\". /bl/: Combinación que se pronuncia como \"bl\" en español.",
         "audio_filename": "line_en_310.mp3",
-        "audio_dir": "Blue"
+        "learning_tag": "/uː/ como en \"blue\""
     },
     {
         "level": 1.0,
@@ -1485,13 +1503,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Verdadero",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ como en \"blue\"",
+        "tag": "/uː/ como en \"blue\"",
         "prompt": "True ______,______",
         "answer": "True - /truː/ - : \"ue\"\n/uː/: Sonido largo de \"u\". /tr/: Combinación que se pronuncia como \"tr\" en español, pero con la \"r\" más suave.",
         "goal_words": "- /truː/ - : \"ue\"\n/uː/: Sonido largo de \"u\". /tr/: Combinación que se pronuncia como \"tr\" en español,  pero con la \"r\" más suave.",
         "audio_filename": "line4_en_594.mp3",
-        "audio_dir": "True"
+        "learning_tag": "/uː/ como en \"blue\""
     },
     {
         "level": 1.0,
@@ -1503,13 +1521,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Alimento",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ como en \"blue\"",
+        "tag": "/uː/ como en \"blue\"",
         "prompt": "Food ______",
         "answer": "Food - /fuːd/ - : \"oo\"\n/uː/: Sonido largo de \"u\". /d/: Como una \"d\" suave en español.",
         "goal_words": "- /fuːd/ - : \"oo\"\n/uː/: Sonido largo de \"u\". /d/: Como una \"d\" suave en español.",
         "audio_filename": "line_en_904.mp3",
-        "audio_dir": "Food"
+        "learning_tag": "/uː/ como en \"blue\""
     },
     {
         "level": 1.0,
@@ -1521,13 +1539,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Luna",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ como en \"blue\"",
+        "tag": "/uː/ como en \"blue\"",
         "prompt": "Moon ______",
         "answer": "Moon - /muːn/ - : \"oo\"\n/uː/: Sonido largo de \"u\". /n/: Como \"n\" en español.",
         "goal_words": "- /muːn/ - : \"oo\"\n/uː/: Sonido largo de \"u\". /n/: Como \"n\" en español.",
         "audio_filename": "line2_en_642.mp3",
-        "audio_dir": "Moon"
+        "learning_tag": "/uː/ como en \"blue\""
     },
     {
         "level": 1.0,
@@ -1539,13 +1557,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Bota",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ como en \"blue\"",
+        "tag": "/uː/ como en \"blue\"",
         "prompt": "Boot ______,______",
         "answer": "Boot - /buːt/ - : \"oo\"\n/uː/: Sonido largo de \"u\". /t/: Suave, como en \"té\".",
         "goal_words": "- /buːt/ - : \"oo\"\n/uː/: Sonido largo de \"u\". /t/: Suave,  como en \"té\".",
         "audio_filename": "line_en_321.mp3",
-        "audio_dir": "Boot"
+        "learning_tag": "/uː/ como en \"blue\""
     },
     {
         "level": 1.0,
@@ -1557,13 +1575,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Pronto",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ como en \"blue\"",
+        "tag": "/uː/ como en \"blue\"",
         "prompt": "Soon ______",
         "answer": "Soon - /suːn/ - : \"oo\"\n/uː/: Sonido largo de \"u\". /s/: Como \"s\" en español.",
         "goal_words": "- /suːn/ - : \"oo\"\n/uː/: Sonido largo de \"u\". /s/: Como \"s\" en español.",
         "audio_filename": "line3_en_806.mp3",
-        "audio_dir": "Soon"
+        "learning_tag": "/uː/ como en \"blue\""
     },
     {
         "level": 1.0,
@@ -1575,13 +1593,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Grupo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ como en \"blue\"",
+        "tag": "/uː/ como en \"blue\"",
         "prompt": "Group ______",
         "answer": "Group - /ɡruːp/ - : \"ou\"\n/uː/: Sonido largo de \"u\". /gr/: Como \"gr\" en español.",
         "goal_words": "- /ɡruːp/ - : \"ou\"\n/uː/: Sonido largo de \"u\". /gr/: Como \"gr\" en español.",
         "audio_filename": "line_en_1020.mp3",
-        "audio_dir": "Group"
+        "learning_tag": "/uː/ como en \"blue\""
     },
     {
         "level": 1.0,
@@ -1593,13 +1611,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Mover",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ como en \"blue\"",
+        "tag": "/uː/ como en \"blue\"",
         "prompt": "Move ______,______",
         "answer": "Move - /muːv/ - : \"o\"\n/uː/: Sonido largo de \"u\". /v/: Como una \"v\" suave en inglés, entre \"v\" y \"b\" en español.",
         "goal_words": "- /muːv/ - : \"o\"\n/uː/: Sonido largo de \"u\". /v/: Como una \"v\" suave en inglés,  entre \"v\" y \"b\" en español.",
         "audio_filename": "line2_en_654.mp3",
-        "audio_dir": "Move"
+        "learning_tag": "/uː/ como en \"blue\""
     },
     {
         "level": 1.0,
@@ -1611,13 +1629,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Flauta",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ como en \"blue\"",
+        "tag": "/uː/ como en \"blue\"",
         "prompt": "Flute ______",
         "answer": "Flute - /fluːt/ - : \"ue\"\n/uː/: Sonido largo de \"u\". /fl/: Como \"fl\" en español.",
         "goal_words": "- /fluːt/ - : \"ue\"\n/uː/: Sonido largo de \"u\". /fl/: Como \"fl\" en español.",
         "audio_filename": "line_en_897.mp3",
-        "audio_dir": "Flute"
+        "learning_tag": "/uː/ como en \"blue\""
     },
     {
         "level": 1.0,
@@ -1629,13 +1647,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ley",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ como en \"law\"",
+        "tag": "/ɔː/ como en \"law\"",
         "prompt": "Law ______,______",
         "answer": "Law - /lɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\", más redondeado.",
         "goal_words": "- /lɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\",  más redondeado.",
         "audio_filename": "line2_en_488.mp3",
-        "audio_dir": "Law"
+        "learning_tag": "/ɔː/ como en \"law\""
     },
     {
         "level": 1.0,
@@ -1647,13 +1665,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Sierra",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ como en \"law\"",
+        "tag": "/ɔː/ como en \"law\"",
         "prompt": "Saw ______,______",
         "answer": "Saw - /sɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\", más redondeado.",
         "goal_words": "- /sɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\",  más redondeado.",
         "audio_filename": "line3_en_372.mp3",
-        "audio_dir": "Saw"
+        "learning_tag": "/ɔː/ como en \"law\""
     },
     {
         "level": 1.0,
@@ -1665,13 +1683,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Pata",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ como en \"law\"",
+        "tag": "/ɔː/ como en \"law\"",
         "prompt": "Paw ______,______",
         "answer": "Paw - /pɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\", más redondeado.",
         "goal_words": "- /pɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\",  más redondeado.",
         "audio_filename": "line3_en_89.mp3",
-        "audio_dir": "Paw"
+        "learning_tag": "/ɔː/ como en \"law\""
     },
     {
         "level": 1.0,
@@ -1683,13 +1701,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Dibujar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ como en \"law\"",
+        "tag": "/ɔː/ como en \"law\"",
         "prompt": "Draw ______,______",
         "answer": "Draw - /drɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\". /dr/: Como \"dr\" en español, pero la \"r\" más suave.",
         "goal_words": "- /drɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\". /dr/: Como \"dr\" en español,  pero la \"r\" más suave.",
         "audio_filename": "line_en_728.mp3",
-        "audio_dir": "Draw"
+        "learning_tag": "/ɔː/ como en \"law\""
     },
     {
         "level": 1.0,
@@ -1701,13 +1719,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Defecto",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ como en \"law\"",
+        "tag": "/ɔː/ como en \"law\"",
         "prompt": "Flaw ______",
         "answer": "Flaw - /flɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\". /fl/: Como \"fl\" en español.",
         "goal_words": "- /flɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\". /fl/: Como \"fl\" en español.",
         "audio_filename": "line_en_892.mp3",
-        "audio_dir": "Flaw"
+        "learning_tag": "/ɔː/ como en \"law\""
     },
     {
         "level": 1.0,
@@ -1719,31 +1737,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Crudo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ como en \"law\"",
+        "tag": "/ɔː/ como en \"law\"",
         "prompt": "Raw ______",
         "answer": "Raw - /rɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\". /r/: Como \"r\" suave en inglés.",
         "goal_words": "- /rɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\". /r/: Como \"r\" suave en inglés.",
         "audio_filename": "line3_en_230.mp3",
-        "audio_dir": "Raw"
-    },
-    {
-        "level": 1.0,
-        "image_filename": "walk_across_street.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "1 pronunciación - vocales",
-        "native_answer": "shaw",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Shaw ______,______",
-        "answer": "Shaw - /ʃɔː/ - : \"aw\"\n/ʃ/: Sonido de \"sh\", como en \"shop\". /ɔː/: Sonido largo de \"o\".",
-        "goal_words": "- /ʃɔː/ - : \"aw\"\n/ʃ/: Sonido de \"sh\",  como en \"shop\". /ɔː/: Sonido largo de \"o\".",
-        "audio_filename": "line3_en_423.mp3",
-        "audio_dir": "Shaw"
+        "learning_tag": "/ɔː/ como en \"law\""
     },
     {
         "level": 1.0,
@@ -1755,13 +1755,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Garra",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ como en \"law\"",
+        "tag": "/ɔː/ como en \"law\"",
         "prompt": "Claw ______",
         "answer": "Claw - /klɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\". /kl/: Como \"cl\" en español.",
         "goal_words": "- /klɔː/ - : \"aw\"\n/ɔː/: Sonido largo de \"o\". /kl/: Como \"cl\" en español.",
         "audio_filename": "line_en_500.mp3",
-        "audio_dir": "Claw"
+        "learning_tag": "/ɔː/ como en \"law\""
     },
     {
         "level": 1.0,
@@ -1773,13 +1773,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Causa",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ como en \"law\"",
+        "tag": "/ɔː/ como en \"law\"",
         "prompt": "Cause ______,______",
         "answer": "Cause - /kɔːz/ - : \"au\"\n/ɔː/: Sonido largo de \"o\". /z/: Como una \"z\" suave en inglés, vibrante.",
         "goal_words": "- /kɔːz/ - : \"au\"\n/ɔː/: Sonido largo de \"o\". /z/: Como una \"z\" suave en inglés,  vibrante.",
         "audio_filename": "line_en_450.mp3",
-        "audio_dir": "Cause"
+        "learning_tag": "/ɔː/ como en \"law\""
     },
     {
         "level": 1.0,
@@ -1791,13 +1791,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Pausa",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ como en \"law\"",
+        "tag": "/ɔː/ como en \"law\"",
         "prompt": "Pause ______,______",
         "answer": "Pause - /pɔːz/ - : \"au\"\n/ɔː/: Sonido largo de \"o\". /z/: Suave, como en \"zoo\".",
         "goal_words": "- /pɔːz/ - : \"au\"\n/ɔː/: Sonido largo de \"o\". /z/: Suave,  como en \"zoo\".",
         "audio_filename": "line3_en_88.mp3",
-        "audio_dir": "Pause"
+        "learning_tag": "/ɔː/ como en \"law\""
     },
     {
         "level": 1.0,
@@ -1809,13 +1809,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Día",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ como en \"decir\"",
+        "tag": "/eɪ/ como en \"decir\"",
         "prompt": "Day ______,______",
         "answer": "Day - /deɪ/ - spelling: \"ay\"\nLa \"ay\" se pronuncia como /eɪ/, un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "goal_words": "- /deɪ/ - spelling: \"ay\"\nLa \"ay\" se pronuncia como /eɪ/,  un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "audio_filename": "line_en_615.mp3",
-        "audio_dir": "Day"
+        "learning_tag": "/eɪ/ como en \"say\""
     },
     {
         "level": 1.0,
@@ -1827,13 +1827,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Decir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ como en \"decir\"",
+        "tag": "/eɪ/ como en \"decir\"",
         "prompt": "Say ______,______",
         "answer": "Say - /seɪ/ - spelling: \"ay\"\nLa \"ay\" se pronuncia como /eɪ/, un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "goal_words": "- /seɪ/ - spelling: \"ay\"\nLa \"ay\" se pronuncia como /eɪ/,  un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "audio_filename": "line3_en_373.mp3",
-        "audio_dir": "Say"
+        "learning_tag": "/eɪ/ como en \"say\""
     },
     {
         "level": 1.0,
@@ -1845,13 +1845,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Jugar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ como en \"decir\"",
+        "tag": "/eɪ/ como en \"decir\"",
         "prompt": "Play ______,______",
         "answer": "Play - /pleɪ/ - spelling: \"ay\"\nLa \"ay\" se pronuncia como /eɪ/, un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "goal_words": "- /pleɪ/ - spelling: \"ay\"\nLa \"ay\" se pronuncia como /eɪ/,  un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "audio_filename": "line3_en_135.mp3",
-        "audio_dir": "Play"
+        "learning_tag": "/eɪ/ como en \"say\""
     },
     {
         "level": 1.0,
@@ -1863,13 +1863,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Hacer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ como en \"decir\"",
+        "tag": "/eɪ/ como en \"decir\"",
         "prompt": "Make ______,______",
         "answer": "Make - /meɪk/ - spelling: \"a\"\nLa \"a\" se pronuncia como /eɪ/, un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\". La \"e\" final no se pronuncia.",
         "goal_words": "- /meɪk/ - spelling: \"a\"\nLa \"a\" se pronuncia como /eɪ/,  un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\". La \"e\" final no se pronuncia.",
         "audio_filename": "line2_en_575.mp3",
-        "audio_dir": "Make"
+        "learning_tag": "/eɪ/ como en \"say\""
     },
     {
         "level": 1.0,
@@ -1881,13 +1881,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Pagar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ como en \"decir\"",
+        "tag": "/eɪ/ como en \"decir\"",
         "prompt": "Pay ______,______",
         "answer": "Pay - /peɪ/ - spelling: \"ay\"\nLa \"ay\" se pronuncia como /eɪ/, un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "goal_words": "- /peɪ/ - spelling: \"ay\"\nLa \"ay\" se pronuncia como /eɪ/,  un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "audio_filename": "line3_en_90.mp3",
-        "audio_dir": "Pay"
+        "learning_tag": "/eɪ/ como en \"say\""
     },
     {
         "level": 1.0,
@@ -1899,13 +1899,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Esperar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ como en \"decir\"",
+        "tag": "/eɪ/ como en \"decir\"",
         "prompt": "Wait ______,______",
         "answer": "Wait - /weɪt/ - spelling: \"ai\"\nLa \"ai\" se pronuncia como /eɪ/, un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "goal_words": "- /weɪt/ - spelling: \"ai\"\nLa \"ai\" se pronuncia como /eɪ/,  un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "audio_filename": "line4_en_663.mp3",
-        "audio_dir": "Wait"
+        "learning_tag": "/eɪ/ como en \"say\""
     },
     {
         "level": 1.0,
@@ -1917,13 +1917,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ocho",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ como en \"decir\"",
+        "tag": "/eɪ/ como en \"decir\"",
         "prompt": "Eight ______,______",
         "answer": "Eight - /eɪt/ - spelling: \"eigh\"\nLa \"eigh\" se pronuncia como /eɪ/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /eɪt/ - spelling: \"eigh\"\nLa \"eigh\" se pronuncia como /eɪ/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line_en_777.mp3",
-        "audio_dir": "Eight"
+        "learning_tag": "/eɪ/ como en \"say\""
     },
     {
         "level": 1.0,
@@ -1935,13 +1935,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Lluvia",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ como en \"decir\"",
+        "tag": "/eɪ/ como en \"decir\"",
         "prompt": "Rain ______,______",
         "answer": "Rain - /reɪn/ - spelling: \"ai\"\nLa \"ai\" se pronuncia como /eɪ/, un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "goal_words": "- /reɪn/ - spelling: \"ai\"\nLa \"ai\" se pronuncia como /eɪ/,  un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "audio_filename": "line3_en_224.mp3",
-        "audio_dir": "Rain"
+        "learning_tag": "/eɪ/ como en \"say\""
     },
     {
         "level": 1.0,
@@ -1953,13 +1953,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ellos",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ como en \"decir\"",
+        "tag": "/eɪ/ como en \"decir\"",
         "prompt": "They ______,______",
         "answer": "They - /ðeɪ/ - spelling: \"ey\"\nLa \"ey\" se pronuncia como /eɪ/, un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "goal_words": "- /ðeɪ/ - spelling: \"ey\"\nLa \"ey\" se pronuncia como /eɪ/,  un diptongo que comienza como una \"e\" española y se desliza hacia una \"i\".",
         "audio_filename": "line4_en_77.mp3",
-        "audio_dir": "They"
+        "learning_tag": "/eɪ/ como en \"say\""
     },
     {
         "level": 1.0,
@@ -1971,13 +1971,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Romper",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ como en \"decir\"",
+        "tag": "/eɪ/ como en \"decir\"",
         "prompt": "Break ______,______",
         "answer": "Break - /breɪk/ - spelling: \"ea\"\nLa \"ea\" se pronuncia como /eɪ/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /breɪk/ - spelling: \"ea\"\nLa \"ea\" se pronuncia como /eɪ/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line_en_345.mp3",
-        "audio_dir": "Break"
+        "learning_tag": "/eɪ/ como en \"say\""
     },
     {
         "level": 1.0,
@@ -1989,13 +1989,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ como en \"go\"",
+        "tag": "/oʊ/ como en \"go\"",
         "prompt": "Go ______,______",
         "answer": "Go - /ɡoʊ/ - : \"o\"\nLa \"o\" se pronuncia como /oʊ/, un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "goal_words": "- /ɡoʊ/ - : \"o\"\nLa \"o\" se pronuncia como /oʊ/,  un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "audio_filename": "line_en_982.mp3",
-        "audio_dir": "Go"
+        "learning_tag": "/oʊ/ como en \"go\""
     },
     {
         "level": 1.0,
@@ -2007,13 +2007,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "No",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ como en \"go\"",
+        "tag": "/oʊ/ como en \"go\"",
         "prompt": "No ______,______",
         "answer": "No - /noʊ/ - : \"o\"\nLa \"o\" se pronuncia como /oʊ/, un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "goal_words": "- /noʊ/ - : \"o\"\nLa \"o\" se pronuncia como /oʊ/,  un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "audio_filename": "line2_en_694.mp3",
-        "audio_dir": "No"
+        "learning_tag": "/oʊ/ como en \"go\""
     },
     {
         "level": 1.0,
@@ -2025,13 +2025,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Espectáculo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ como en \"go\"",
+        "tag": "/oʊ/ como en \"go\"",
         "prompt": "Show ______,______",
         "answer": "Show - /ʃoʊ/ - : \"ow\"\nLa \"ow\" se pronuncia como /oʊ/, un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "goal_words": "- /ʃoʊ/ - : \"ow\"\nLa \"ow\" se pronuncia como /oʊ/,  un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "audio_filename": "line3_en_727.mp3",
-        "audio_dir": "Show"
+        "learning_tag": "/oʊ/ como en \"go\""
     },
     {
         "level": 1.0,
@@ -2043,13 +2043,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Entonces",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ como en \"go\"",
+        "tag": "/oʊ/ como en \"go\"",
         "prompt": "So ______,______",
         "answer": "So - /soʊ/ - : \"o\"\nLa \"o\" se pronuncia como /oʊ/, un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "goal_words": "- /soʊ/ - : \"o\"\nLa \"o\" se pronuncia como /oʊ/,  un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "audio_filename": "line3_en_784.mp3",
-        "audio_dir": "So"
+        "learning_tag": "/oʊ/ como en \"go\""
     },
     {
         "level": 1.0,
@@ -2061,13 +2061,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ambos",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ como en \"go\"",
+        "tag": "/oʊ/ como en \"go\"",
         "prompt": "Both ______,______",
         "answer": "Both - /boʊθ/ - : \"o\"\nLa \"o\" se pronuncia como /oʊ/, un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "goal_words": "- /boʊθ/ - : \"o\"\nLa \"o\" se pronuncia como /oʊ/,  un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "audio_filename": "line_en_326.mp3",
-        "audio_dir": "Both"
+        "learning_tag": "/oʊ/ como en \"go\""
     },
     {
         "level": 1.0,
@@ -2079,13 +2079,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Camino",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ como en \"go\"",
+        "tag": "/oʊ/ como en \"go\"",
         "prompt": "Road ______,______",
         "answer": "Road - /roʊd/ - : \"oa\"\nLa \"oa\" se pronuncia como /oʊ/, un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "goal_words": "- /roʊd/ - : \"oa\"\nLa \"oa\" se pronuncia como /oʊ/,  un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "audio_filename": "line3_en_301.mp3",
-        "audio_dir": "Road"
+        "learning_tag": "/oʊ/ como en \"go\""
     },
     {
         "level": 1.0,
@@ -2097,13 +2097,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Nieve",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ como en \"go\"",
+        "tag": "/oʊ/ como en \"go\"",
         "prompt": "Snow ______,______",
         "answer": "Snow - /snoʊ/ - : \"ow\"\nLa \"ow\" se pronuncia como /oʊ/, un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "goal_words": "- /snoʊ/ - : \"ow\"\nLa \"ow\" se pronuncia como /oʊ/,  un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "audio_filename": "line3_en_782.mp3",
-        "audio_dir": "Snow"
+        "learning_tag": "/oʊ/ como en \"go\""
     },
     {
         "level": 1.0,
@@ -2115,13 +2115,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Bote",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ como en \"go\"",
+        "tag": "/oʊ/ como en \"go\"",
         "prompt": "Boat ______,______",
         "answer": "Boat - /boʊt/ - : \"oa\"\nLa \"oa\" se pronuncia como /oʊ/, un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "goal_words": "- /boʊt/ - : \"oa\"\nLa \"oa\" se pronuncia como /oʊ/,  un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "audio_filename": "line_en_313.mp3",
-        "audio_dir": "Boat"
+        "learning_tag": "/oʊ/ como en \"go\""
     },
     {
         "level": 1.0,
@@ -2133,13 +2133,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "A pesar de",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ como en \"go\"",
+        "tag": "/oʊ/ como en \"go\"",
         "prompt": "Although ______,______",
         "answer": "Although - /ɔlˈðoʊ/ - : \"ough\"\nLa \"ough\" se pronuncia como /oʊ/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /ɔlˈðoʊ/ - : \"ough\"\nLa \"ough\" se pronuncia como /oʊ/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line_en_140.mp3",
-        "audio_dir": "Although"
+        "learning_tag": "/oʊ/ como en \"go\""
     },
     {
         "level": 1.0,
@@ -2151,13 +2151,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Dedo del pie",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ como en \"go\"",
+        "tag": "/oʊ/ como en \"go\"",
         "prompt": "Toe ______,______",
         "answer": "Toe - /toʊ/ - : \"oe\"\nLa \"oe\" se pronuncia como /oʊ/, un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "goal_words": "- /toʊ/ - : \"oe\"\nLa \"oe\" se pronuncia como /oʊ/,  un diptongo que comienza como una \"o\" y se desliza hacia una \"u\" suave.",
         "audio_filename": "line4_en_555.mp3",
-        "audio_dir": "Toe"
+        "learning_tag": "/oʊ/ como en \"go\""
     },
     {
         "level": 1.0,
@@ -2169,13 +2169,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Mi",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ como en \"my\"",
+        "tag": "/aɪ/ como en \"my\"",
         "prompt": "My ______,______",
         "answer": "My - /maɪ/ - : \"y\"\nLa \"y\" se pronuncia como /aɪ/, un diptongo que comienza como una \"a\" y se desliza hacia una \"i\".",
         "goal_words": "- /maɪ/ - : \"y\"\nLa \"y\" se pronuncia como /aɪ/,  un diptongo que comienza como una \"a\" y se desliza hacia una \"i\".",
         "audio_filename": "line2_en_665.mp3",
-        "audio_dir": "My"
+        "learning_tag": "/aɪ/ como en \"my\""
     },
     {
         "level": 1.0,
@@ -2187,13 +2187,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Tiempo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ como en \"my\"",
+        "tag": "/aɪ/ como en \"my\"",
         "prompt": "Time ______,______,______,______",
         "answer": "Time - /taɪm/ - : \"i\"\nLa \"i\" se pronuncia como /aɪ/, un diptongo que comienza como una \"a\" y se desliza hacia una \"i\". La \"t\" es una /t/ suave, no explosiva como en español, y la \"e\" final no se pronuncia.",
         "goal_words": "- /taɪm/ - : \"i\"\nLa \"i\" se pronuncia como /aɪ/,  un diptongo que comienza como una \"a\" y se desliza hacia una \"i\". La \"t\" es una /t/ suave,  no explosiva como en español,  y la \"e\" final no se pronuncia.",
         "audio_filename": "line4_en_444.mp3",
-        "audio_dir": "Time"
+        "learning_tag": "/aɪ/ como en \"my\""
     },
     {
         "level": 1.0,
@@ -2205,13 +2205,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Alto",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ como en \"my\"",
+        "tag": "/aɪ/ como en \"my\"",
         "prompt": "High ______,______",
         "answer": "High - /haɪ/ - : \"i\"\nLa \"igh\" se pronuncia como /aɪ/, algo que no es intuitivo por la ortografía. La \"h\" es muda.",
         "goal_words": "- /haɪ/ - : \"i\"\nLa \"igh\" se pronuncia como /aɪ/,  algo que no es intuitivo por la ortografía. La \"h\" es muda.",
         "audio_filename": "line_en_1433.mp3",
-        "audio_dir": "High"
+        "learning_tag": "/aɪ/ como en \"my\""
     },
     {
         "level": 1.0,
@@ -2223,13 +2223,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Llorar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ como en \"my\"",
+        "tag": "/aɪ/ como en \"my\"",
         "prompt": "Cry ______,______",
         "answer": "Cry - /kraɪ/ - : \"y\"\nLa \"y\" se pronuncia como /aɪ/, un diptongo que comienza como una \"a\" y se desliza hacia una \"i\".",
         "goal_words": "- /kraɪ/ - : \"y\"\nLa \"y\" se pronuncia como /aɪ/,  un diptongo que comienza como una \"a\" y se desliza hacia una \"i\".",
         "audio_filename": "line_en_587.mp3",
-        "audio_dir": "Cry"
+        "learning_tag": "/aɪ/ como en \"my\""
     },
     {
         "level": 1.0,
@@ -2241,13 +2241,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Volar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ como en \"my\"",
+        "tag": "/aɪ/ como en \"my\"",
         "prompt": "Fly ______,______",
         "answer": "Fly - /flaɪ/ - : \"y\"\nLa \"y\" se pronuncia como /aɪ/, un diptongo que comienza como una \"a\" y se desliza hacia una \"i\".",
         "goal_words": "- /flaɪ/ - : \"y\"\nLa \"y\" se pronuncia como /aɪ/,  un diptongo que comienza como una \"a\" y se desliza hacia una \"i\".",
         "audio_filename": "line_en_898.mp3",
-        "audio_dir": "Fly"
+        "learning_tag": "/aɪ/ como en \"my\""
     },
     {
         "level": 1.0,
@@ -2259,13 +2259,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Mentir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ como en \"my\"",
+        "tag": "/aɪ/ como en \"my\"",
         "prompt": "Lie ______,______",
         "answer": "Lie - /laɪ/ - : \"ie\"\nLa \"ie\" se pronuncia como /aɪ/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /laɪ/ - : \"ie\"\nLa \"ie\" se pronuncia como /aɪ/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line2_en_514.mp3",
-        "audio_dir": "Lie"
+        "learning_tag": "/aɪ/ como en \"my\""
     },
     {
         "level": 1.0,
@@ -2277,13 +2277,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Vista",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ como en \"my\"",
+        "tag": "/aɪ/ como en \"my\"",
         "prompt": "Sight ______,______",
         "answer": "Sight - /saɪt/ - : \"i\"\nLa \"igh\" se pronuncia como /aɪ/, algo que no es intuitivo por la ortografía. La \"g\" es muda.",
         "goal_words": "- /saɪt/ - : \"i\"\nLa \"igh\" se pronuncia como /aɪ/,  algo que no es intuitivo por la ortografía. La \"g\" es muda.",
         "audio_filename": "line3_en_734.mp3",
-        "audio_dir": "Sight"
+        "learning_tag": "/aɪ/ como en \"my\""
     },
     {
         "level": 1.0,
@@ -2295,13 +2295,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Bien",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ como en \"my\"",
+        "tag": "/aɪ/ como en \"my\"",
         "prompt": "Right ______,______,______",
         "answer": "Right - /raɪt/ - : \"i\"\nLa \"igh\" se pronuncia como /aɪ/, y la \"r\" es suave y no vibra, diferente de la \"r\" española. La \"g\" es muda.",
         "goal_words": "- /raɪt/ - : \"i\"\nLa \"igh\" se pronuncia como /aɪ/,  y la \"r\" es suave y no vibra,  diferente de la \"r\" española. La \"g\" es muda.",
         "audio_filename": "line3_en_291.mp3",
-        "audio_dir": "Right"
+        "learning_tag": "/aɪ/ como en \"my\""
     },
     {
         "level": 1.0,
@@ -2313,13 +2313,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Luchar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ como en \"my\"",
+        "tag": "/aɪ/ como en \"my\"",
         "prompt": "Fight ______,______,______",
         "answer": "Fight - /faɪt/ - : \"i\"\nLa \"igh\" se pronuncia como /aɪ/, y la \"gh\" es muda, algo que no es intuitivo.",
         "goal_words": "- /faɪt/ - : \"i\"\nLa \"igh\" se pronuncia como /aɪ/,  y la \"gh\" es muda,  algo que no es intuitivo.",
         "audio_filename": "line_en_868.mp3",
-        "audio_dir": "Fight"
+        "learning_tag": "/aɪ/ como en \"my\""
     },
     {
         "level": 1.0,
@@ -2331,13 +2331,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Comprar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ como en \"my\"",
+        "tag": "/aɪ/ como en \"my\"",
         "prompt": "Buy ______,______",
         "answer": "Buy - /baɪ/ - : \"uy\"\nLa \"uy\" se pronuncia como /aɪ/, algo que no es intuitivo por la ortografía.",
         "goal_words": "- /baɪ/ - : \"uy\"\nLa \"uy\" se pronuncia como /aɪ/,  algo que no es intuitivo por la ortografía.",
         "audio_filename": "line_en_375.mp3",
-        "audio_dir": "Buy"
+        "learning_tag": "/aɪ/ como en \"my\""
     },
     {
         "level": 1.0,
@@ -2349,13 +2349,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Chico",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ como en \"boy\"",
+        "tag": "/ɔɪ/ como en \"boy\"",
         "prompt": "Boy ______,______",
         "answer": "Boy - /bɔɪ/ - : \"oy\"\nLa \"oy\" se pronuncia como /ɔɪ/, un diptongo que comienza como una \"o\" abierta y se desliza hacia una \"i\".",
         "goal_words": "- /bɔɪ/ - : \"oy\"\nLa \"oy\" se pronuncia como /ɔɪ/,  un diptongo que comienza como una \"o\" abierta y se desliza hacia una \"i\".",
         "audio_filename": "line_en_336.mp3",
-        "audio_dir": "Boy"
+        "learning_tag": "/ɔɪ/ como en \"boy\""
     },
     {
         "level": 1.0,
@@ -2367,13 +2367,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Juguete",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ como en \"boy\"",
+        "tag": "/ɔɪ/ como en \"boy\"",
         "prompt": "Toy ______,______",
         "answer": "Toy - /tɔɪ/ - : \"oy\"\nLa \"oy\" se pronuncia como /ɔɪ/, un diptongo que comienza como una \"o\" abierta y se desliza hacia una \"i\".",
         "goal_words": "- /tɔɪ/ - : \"oy\"\nLa \"oy\" se pronuncia como /ɔɪ/,  un diptongo que comienza como una \"o\" abierta y se desliza hacia una \"i\".",
         "audio_filename": "line4_en_580.mp3",
-        "audio_dir": "Toy"
+        "learning_tag": "/ɔɪ/ como en \"boy\""
     },
     {
         "level": 1.0,
@@ -2385,13 +2385,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Alegría",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ como en \"boy\"",
+        "tag": "/ɔɪ/ como en \"boy\"",
         "prompt": "Joy ______,______,______",
         "answer": "Joy - /dʒɔɪ/ - : \"oy\"\nLa \"j\" se pronuncia como /dʒ/, un sonido que no existe en español, similar a una mezcla de \"d\" y \"y\". La \"oy\" se pronuncia como /ɔɪ/.",
         "goal_words": "- /dʒɔɪ/ - : \"oy\"\nLa \"j\" se pronuncia como /dʒ/,  un sonido que no existe en español,  similar a una mezcla de \"d\" y \"y\". La \"oy\" se pronuncia como /ɔɪ/.",
         "audio_filename": "line2_en_431.mp3",
-        "audio_dir": "Joy"
+        "learning_tag": "/ɔɪ/ como en \"boy\""
     },
     {
         "level": 1.0,
@@ -2403,13 +2403,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Acuñar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ como en \"boy\"",
+        "tag": "/ɔɪ/ como en \"boy\"",
         "prompt": "Coin ______,______",
         "answer": "Coin - /kɔɪn/ - : \"oi\"\nLa \"oi\" se pronuncia como /ɔɪ/, un diptongo que comienza como una \"o\" abierta y se desliza hacia una \"i\".",
         "goal_words": "- /kɔɪn/ - : \"oi\"\nLa \"oi\" se pronuncia como /ɔɪ/,  un diptongo que comienza como una \"o\" abierta y se desliza hacia una \"i\".",
         "audio_filename": "line_en_514.mp3",
-        "audio_dir": "Coin"
+        "learning_tag": "/ɔɪ/ como en \"boy\""
     },
     {
         "level": 1.0,
@@ -2421,13 +2421,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Elección",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ como en \"boy\"",
+        "tag": "/ɔɪ/ como en \"boy\"",
         "prompt": "Choice ______,______,______",
         "answer": "Choice - /ʧɔɪs/ - : \"oi\"\nLa \"ch\" se pronuncia como /tʃ/, un sonido similar a \"ch\" en español, pero más fuerte. La \"oi\" se pronuncia como /ɔɪ/.",
         "goal_words": "- /ʧɔɪs/ - : \"oi\"\nLa \"ch\" se pronuncia como /tʃ/,  un sonido similar a \"ch\" en español,  pero más fuerte. La \"oi\" se pronuncia como /ɔɪ/.",
         "audio_filename": "line_en_488.mp3",
-        "audio_dir": "Choice"
+        "learning_tag": "/ɔɪ/ como en \"boy\""
     },
     {
         "level": 1.0,
@@ -2439,13 +2439,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Hervir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ como en \"boy\"",
+        "tag": "/ɔɪ/ como en \"boy\"",
         "prompt": "Boil ______",
         "answer": "Boil - /bɔɪl/ - : \"oi\"\nLa \"oi\" se pronuncia como /ɔɪ/.",
         "goal_words": "- /bɔɪl/ - : \"oi\"\nLa \"oi\" se pronuncia como /ɔɪ/.",
         "audio_filename": "line_en_316.mp3",
-        "audio_dir": "Boil"
+        "learning_tag": "/ɔɪ/ como en \"boy\""
     },
     {
         "level": 1.0,
@@ -2457,13 +2457,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Voz",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ como en \"boy\"",
+        "tag": "/ɔɪ/ como en \"boy\"",
         "prompt": "Voice ______,______,______",
         "answer": "Voice - /vɔɪs/ - : \"oi\"\nLa \"oi\" se pronuncia como /ɔɪ/, y la \"v\" es una /v/ fricativa, más fuerte que la \"b\" española.",
         "goal_words": "- /vɔɪs/ - : \"oi\"\nLa \"oi\" se pronuncia como /ɔɪ/,  y la \"v\" es una /v/ fricativa,  más fuerte que la \"b\" española.",
         "audio_filename": "line4_en_659.mp3",
-        "audio_dir": "Voice"
+        "learning_tag": "/ɔɪ/ como en \"boy\""
     },
     {
         "level": 1.0,
@@ -2475,13 +2475,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Real",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ como en \"boy\"",
+        "tag": "/ɔɪ/ como en \"boy\"",
         "prompt": "Royal ______,______,______",
         "answer": "Royal - /ˈrɔɪəl/ - : \"oy\"\nLa \"oy\" se pronuncia como /ɔɪ/, y la \"r\" es suave y no vibra, diferente de la \"r\" española.",
         "goal_words": "- /ˈrɔɪəl/ - : \"oy\"\nLa \"oy\" se pronuncia como /ɔɪ/,  y la \"r\" es suave y no vibra,  diferente de la \"r\" española.",
         "audio_filename": "line3_en_306.mp3",
-        "audio_dir": "Royal"
+        "learning_tag": "/ɔɪ/ como en \"boy\""
     },
     {
         "level": 1.0,
@@ -2493,13 +2493,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Unirse",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ como en \"boy\"",
+        "tag": "/ɔɪ/ como en \"boy\"",
         "prompt": "Join ______,______,______",
         "answer": "Join - /dʒɔɪn/ - : \"oi\"\nLa \"j\" se pronuncia como /dʒ/, un sonido que no existe en español, similar a una mezcla de \"d\" y \"y\". La \"oi\" se pronuncia como /ɔɪ/.",
         "goal_words": "- /dʒɔɪn/ - : \"oi\"\nLa \"j\" se pronuncia como /dʒ/,  un sonido que no existe en español,  similar a una mezcla de \"d\" y \"y\". La \"oi\" se pronuncia como /ɔɪ/.",
         "audio_filename": "line2_en_426.mp3",
-        "audio_dir": "Join"
+        "learning_tag": "/ɔɪ/ como en \"boy\""
     },
     {
         "level": 1.0,
@@ -2511,13 +2511,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Arruinar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ como en \"boy\"",
+        "tag": "/ɔɪ/ como en \"boy\"",
         "prompt": "Spoil ______,______,______",
         "answer": "Spoil - /spɔɪl/ - : \"oi\"\nLa \"sp\" se pronuncia como /sp/, sin una \"e\" inicial, lo cual es difícil para hablantes de español. La \"oi\" se pronuncia como /ɔɪ/.",
         "goal_words": "- /spɔɪl/ - : \"oi\"\nLa \"sp\" se pronuncia como /sp/,  sin una \"e\" inicial,  lo cual es difícil para hablantes de español. La \"oi\" se pronuncia como /ɔɪ/.",
         "audio_filename": "line3_en_832.mp3",
-        "audio_dir": "Spoil"
+        "learning_tag": "/ɔɪ/ como en \"boy\""
     },
     {
         "level": 1.0,
@@ -2529,13 +2529,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ahora",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ como en \"ahora\"",
+        "tag": "/aʊ/ como en \"ahora\"",
         "prompt": "Now ______,______",
         "answer": "Now - /naʊ/ - : \"ow\"\nLa \"ow\" se pronuncia como /aʊ/, un diptongo que empieza con una \"a\" abierta y se desliza hacia una \"u\".",
         "goal_words": "- /naʊ/ - : \"ow\"\nLa \"ow\" se pronuncia como /aʊ/,  un diptongo que empieza con una \"a\" abierta y se desliza hacia una \"u\".",
         "audio_filename": "line2_en_727.mp3",
-        "audio_dir": "Now"
+        "learning_tag": "/aʊ/ como en \"now\""
     },
     {
         "level": 1.0,
@@ -2547,13 +2547,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Afuera",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ como en \"ahora\"",
+        "tag": "/aʊ/ como en \"ahora\"",
         "prompt": "Out ______,______",
         "answer": "Out - /aʊt/ - : \"ou\"\nLa \"ou\" se pronuncia como /aʊ/, igual que en now.",
         "goal_words": "- /aʊt/ - : \"ou\"\nLa \"ou\" se pronuncia como /aʊ/,  igual que en now.",
         "audio_filename": "line3_en_58.mp3",
-        "audio_dir": "Out"
+        "learning_tag": "/aʊ/ como en \"now\""
     },
     {
         "level": 1.0,
@@ -2565,13 +2565,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Cómo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ como en \"ahora\"",
+        "tag": "/aʊ/ como en \"ahora\"",
         "prompt": "How ______,______",
         "answer": "How - /haʊ/ - : \"ow\"\nLa \"ow\" se pronuncia como /aʊ/. La \"h\" es una aspiración suave, diferente a la \"j\" española.",
         "goal_words": "- /haʊ/ - : \"ow\"\nLa \"ow\" se pronuncia como /aʊ/. La \"h\" es una aspiración suave,  diferente a la \"j\" española.",
         "audio_filename": "line_en_1464.mp3",
-        "audio_dir": "How"
+        "learning_tag": "/aʊ/ como en \"now\""
     },
     {
         "level": 1.0,
@@ -2583,13 +2583,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Nube",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ como en \"ahora\"",
+        "tag": "/aʊ/ como en \"ahora\"",
         "prompt": "Cloud ______,______",
         "answer": "Cloud - /klaʊd/ - : \"ou\"\nLa \"ou\" se pronuncia como /aʊ/. La \"cl\" es una combinación consonántica /kl/ que puede ser difícil porque en español las consonantes juntas se pronuncian claramente, pero la \"l\" se desliza rápido.",
         "goal_words": "- /klaʊd/ - : \"ou\"\nLa \"ou\" se pronuncia como /aʊ/. La \"cl\" es una combinación consonántica /kl/ que puede ser difícil porque en español las consonantes juntas se pronuncian claramente,  pero la \"l\" se desliza rápido.",
         "audio_filename": "line_en_510.mp3",
-        "audio_dir": "Cloud"
+        "learning_tag": "/aʊ/ como en \"now\""
     },
     {
         "level": 1.0,
@@ -2601,13 +2601,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ratón",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ como en \"ahora\"",
+        "tag": "/aʊ/ como en \"ahora\"",
         "prompt": "Mouse ______,______",
         "answer": "Mouse - /maʊs/ - : \"ou\"\nLa \"ou\" se pronuncia como /aʊ/. La \"s\" final es /s/, no sonora.",
         "goal_words": "- /maʊs/ - : \"ou\"\nLa \"ou\" se pronuncia como /aʊ/. La \"s\" final es /s/,  no sonora.",
         "audio_filename": "line2_en_652.mp3",
-        "audio_dir": "Mouse"
+        "learning_tag": "/aʊ/ como en \"now\""
     },
     {
         "level": 1.0,
@@ -2619,13 +2619,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Abajo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ como en \"ahora\"",
+        "tag": "/aʊ/ como en \"ahora\"",
         "prompt": "Down ______,______",
         "answer": "Down - /daʊn/ - : \"ow\"\nLa \"ow\" se pronuncia como /aʊ/. La \"d\" inicial es suave, no tan explosiva como en español.",
         "goal_words": "- /daʊn/ - : \"ow\"\nLa \"ow\" se pronuncia como /aʊ/. La \"d\" inicial es suave,  no tan explosiva como en español.",
         "audio_filename": "line_en_725.mp3",
-        "audio_dir": "Down"
+        "learning_tag": "/aʊ/ como en \"now\""
     },
     {
         "level": 1.0,
@@ -2637,13 +2637,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ciudad",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ como en \"ahora\"",
+        "tag": "/aʊ/ como en \"ahora\"",
         "prompt": "Town ______",
         "answer": "Town - /taʊn/ - : \"ow\"\nLa \"ow\" se pronuncia como /aʊ/.",
         "goal_words": "- /taʊn/ - : \"ow\"\nLa \"ow\" se pronuncia como /aʊ/.",
         "audio_filename": "line4_en_579.mp3",
-        "audio_dir": "Town"
+        "learning_tag": "/aʊ/ como en \"now\""
     },
     {
         "level": 1.0,
@@ -2655,13 +2655,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Gritar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ como en \"ahora\"",
+        "tag": "/aʊ/ como en \"ahora\"",
         "prompt": "Shout ______,______,______",
         "answer": "Shout - /ʃaʊt/ - : \"ou\"\nLa combinación \"sh\" se pronuncia como /ʃ/, un sonido que no existe en español estándar y es como un “sh” suave, parecido a “shhh” en inglés.",
         "goal_words": "- /ʃaʊt/ - : \"ou\"\nLa combinación \"sh\" se pronuncia como /ʃ/,  un sonido que no existe en español estándar y es como un “sh” suave,  parecido a “shhh” en inglés.",
         "audio_filename": "line3_en_725.mp3",
-        "audio_dir": "Shout"
+        "learning_tag": "/aʊ/ como en \"now\""
     },
     {
         "level": 1.0,
@@ -2673,13 +2673,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Casa",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ como en \"ahora\"",
+        "tag": "/aʊ/ como en \"ahora\"",
         "prompt": "House ______",
         "answer": "House - /haʊs/ - : \"ou\"\nLa \"ou\" se pronuncia como /aʊ/.",
         "goal_words": "- /haʊs/ - : \"ou\"\nLa \"ou\" se pronuncia como /aʊ/.",
         "audio_filename": "line_en_1463.mp3",
-        "audio_dir": "House"
+        "learning_tag": "/aʊ/ como en \"now\""
     },
     {
         "level": 1.0,
@@ -2691,13 +2691,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Sur",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ como en \"ahora\"",
+        "tag": "/aʊ/ como en \"ahora\"",
         "prompt": "South ______,______",
         "answer": "South - /saʊθ/ - : \"ou\"\nLa \"ou\" se pronuncia como /aʊ/. La \"th\" final es el sonido interdental sordo /θ/, que no existe en español latino y puede ser difícil de producir.",
         "goal_words": "- /saʊθ/ - : \"ou\"\nLa \"ou\" se pronuncia como /aʊ/. La \"th\" final es el sonido interdental sordo /θ/,  que no existe en español latino y puede ser difícil de producir.",
         "audio_filename": "line3_en_814.mp3",
-        "audio_dir": "South"
+        "learning_tag": "/aʊ/ como en \"now\""
     },
     {
         "level": 1.0,
@@ -2709,13 +2709,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Acerca de",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ como en \"about\"",
+        "tag": "/ə/ como en \"about\"",
         "prompt": "About ______,______,______",
         "answer": "About - /əˈbaʊt/ - : \"a\"\nLa \"ou\" se pronuncia como /aʊ/. La \"a\" inicial es una /ə/ muy suave, casi como una vocal neutra o \"schwa\", diferente de las vocales claras del español.",
         "goal_words": "- /əˈbaʊt/ - : \"a\"\nLa \"ou\" se pronuncia como /aʊ/. La \"a\" inicial es una /ə/ muy suave,  casi como una vocal neutra o \"schwa\",  diferente de las vocales claras del español.",
         "audio_filename": "line_en_89.mp3",
-        "audio_dir": "About"
+        "learning_tag": "/ə/ como en \"about\""
     },
     {
         "level": 1.0,
@@ -2727,13 +2727,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Sofá",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ como en \"about\"",
+        "tag": "/ə/ como en \"about\"",
         "prompt": "Sofa ______,______,______,______",
         "answer": "Sofa - /ˈsoʊfə/ - : \"o\"\nLa \"o\" en la primera sílaba es /oʊ/, que es un diptongo, diferente a la \"o\" cerrada del español. La \"a\" final es /ə/, vocal neutra suave.",
         "goal_words": "- /ˈsoʊfə/ - : \"o\"\nLa \"o\" en la primera sílaba es /oʊ/,  que es un diptongo,  diferente a la \"o\" cerrada del español. La \"a\" final es /ə/,  vocal neutra suave.",
         "audio_filename": "line3_en_792.mp3",
-        "audio_dir": "Sofa"
+        "learning_tag": "/ə/ como en \"about\""
     },
     {
         "level": 1.0,
@@ -2745,13 +2745,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Banana",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ como en \"about\"",
+        "tag": "/ə/ como en \"about\"",
         "prompt": "Banana ______,______,______",
         "answer": "Banana - /bəˈnænə/ - : \"a\"\nLa \"a\" en la sílaba débil es /ə/, vocal neutra, que es rara en español.",
         "goal_words": "- /bəˈnænə/ - : \"a\"\nLa \"a\" en la sílaba débil es /ə/,  vocal neutra,  que es rara en español.",
         "audio_filename": "line_en_246.mp3",
-        "audio_dir": "Banana"
+        "learning_tag": "/ə/ como en \"about\""
     },
     {
         "level": 1.0,
@@ -2763,13 +2763,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Problema",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ como en \"about\"",
+        "tag": "/ə/ como en \"about\"",
         "prompt": "Problem ______,______",
         "answer": "Problem - /ˈprɑːbləm/ - : \"e\"\nLa \"o\" en la sílaba débil es /ə/, vocal neutra. La combinación \"bl\" se pronuncia claramente /bl/.",
         "goal_words": "- /ˈprɑːbləm/ - : \"e\"\nLa \"o\" en la sílaba débil es /ə/,  vocal neutra. La combinación \"bl\" se pronuncia claramente /bl/.",
         "audio_filename": "line3_en_177.mp3",
-        "audio_dir": "Problem"
+        "learning_tag": "/ə/ como en \"about\""
     },
     {
         "level": 1.0,
@@ -2781,13 +2781,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Apoyo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ como en \"about\"",
+        "tag": "/ə/ como en \"about\"",
         "prompt": "Support ______,______",
         "answer": "Support - /səˈpɔːrt/ - : \"u\"\nLa \"u\" en la sílaba débil es /ə/, vocal neutra. La \"pp\" se pronuncia como una /p/ fuerte.",
         "goal_words": "- /səˈpɔːrt/ - : \"u\"\nLa \"u\" en la sílaba débil es /ə/,  vocal neutra. La \"pp\" se pronuncia como una /p/ fuerte.",
         "audio_filename": "line3_en_907.mp3",
-        "audio_dir": "Support"
+        "learning_tag": "/ə/ como en \"about\""
     },
     {
         "level": 1.0,
@@ -2799,13 +2799,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Animal",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ como en \"about\"",
+        "tag": "/ə/ como en \"about\"",
         "prompt": "Animal ______,______",
         "answer": "Animal - /ˈænəməl/ - : \"a\"\nLa \"a\" en la sílaba débil es /ə/, vocal neutra.",
         "goal_words": "- /ˈænəməl/ - : \"a\"\nLa \"a\" en la sílaba débil es /ə/,  vocal neutra.",
         "audio_filename": "line_en_163.mp3",
-        "audio_dir": "Animal"
+        "learning_tag": "/ə/ como en \"about\""
     },
     {
         "level": 1.0,
@@ -2817,13 +2817,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Sistema",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ como en \"about\"",
+        "tag": "/ə/ como en \"about\"",
         "prompt": "System ______,______,______",
         "answer": "System - /ˈsɪstəm/ - : \"e\"\nLa \"y\" se pronuncia como /ɪ/, una vocal corta, no una /i/ larga. La \"s\" inicial es /s/ sonora.",
         "goal_words": "- /ˈsɪstəm/ - : \"e\"\nLa \"y\" se pronuncia como /ɪ/,  una vocal corta,  no una /i/ larga. La \"s\" inicial es /s/ sonora.",
         "audio_filename": "line3_en_935.mp3",
-        "audio_dir": "System"
+        "learning_tag": "/ə/ como en \"about\""
     },
     {
         "level": 1.0,
@@ -2835,13 +2835,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Celebrar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ como en \"about\"",
+        "tag": "/ə/ como en \"about\"",
         "prompt": "Celebrate ______,______",
         "answer": "Celebrate - /ˈsɛləˌbreɪt/ - : \"e\"\nLa \"e\" en la segunda sílaba es /ə/, vocal neutra.",
         "goal_words": "- /ˈsɛləˌbreɪt/ - : \"e\"\nLa \"e\" en la segunda sílaba es /ə/,  vocal neutra.",
         "audio_filename": "line_en_454.mp3",
-        "audio_dir": "Celebrate"
+        "learning_tag": "/ə/ como en \"about\""
     },
     {
         "level": 1.0,
@@ -2853,13 +2853,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Información",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ como en \"about\"",
+        "tag": "/ə/ como en \"about\"",
         "prompt": "Information ______,______,______,______",
         "answer": "Information - /ˌɪnfərˈmeɪʃən/ - : \"o\"\nLa \"a\" en la penúltima sílaba es /ə/, vocal neutra. La \"tion\" final se pronuncia /ʃən/, donde \"t\" suena como /ʃ/, un sonido de \"sh\".",
         "goal_words": "- /ˌɪnfərˈmeɪʃən/ - : \"o\"\nLa \"a\" en la penúltima sílaba es /ə/,  vocal neutra. La \"tion\" final se pronuncia /ʃən/,  donde \"t\" suena como /ʃ/,  un sonido de \"sh\".",
         "audio_filename": "line2_en_239.mp3",
-        "audio_dir": "Information"
+        "learning_tag": "/ə/ como en \"about\""
     },
     {
         "level": 1.0,
@@ -2871,13 +2871,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Lápiz",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ como en \"about\"",
+        "tag": "/ə/ como en \"about\"",
         "prompt": "Pencil ______,______",
         "answer": "Pencil - /ˈpɛnsəl/ - : \"i\"\nLa \"e\" es una vocal corta /ɛ/, diferente de la \"e\" cerrada del español. La \"c\" se pronuncia como /s/.",
         "goal_words": "- /ˈpɛnsəl/ - : \"i\"\nLa \"e\" es una vocal corta /ɛ/,  diferente de la \"e\" cerrada del español. La \"c\" se pronuncia como /s/.",
         "audio_filename": "line3_en_100.mp3",
-        "audio_dir": "Pencil"
+        "learning_tag": "/ə/ como en \"about\""
     },
     {
         "level": 1.0,
@@ -2889,13 +2889,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Pájaro",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ como en \"her\"",
+        "tag": "/ɝ/ como en \"her\"",
         "prompt": "Bird ______,______,______",
         "answer": "Bird - /bɝːd/ - : \"ir\"\nLa vocal central es /ɝ/ (r-colorada), un sonido que no existe en español; la \"r\" se pronuncia como /ɹ/, suave y sin vibrar.",
         "goal_words": "- /bɝːd/ - : \"ir\"\nLa vocal central es /ɝ/ (r-colorada),  un sonido que no existe en español; la \"r\" se pronuncia como /ɹ/,  suave y sin vibrar.",
         "audio_filename": "line_en_298.mp3",
-        "audio_dir": "Bird"
+        "learning_tag": "/ɝ/ como en \"her\""
     },
     {
         "level": 1.0,
@@ -2907,13 +2907,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Doblar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ como en \"her\"",
+        "tag": "/ɝ/ como en \"her\"",
         "prompt": "Turn ______,______",
         "answer": "Turn - /tɝːrn/ - : \"ur\"\nLa vocal central es /ɝ/, r-colorada; la \"r\" es suave y no vibrante.",
         "goal_words": "- /tɝːrn/ - : \"ur\"\nLa vocal central es /ɝ/,  r-colorada; la \"r\" es suave y no vibrante.",
         "audio_filename": "line4_en_603.mp3",
-        "audio_dir": "Turn"
+        "learning_tag": "/ɝ/ como en \"her\""
     },
     {
         "level": 1.0,
@@ -2925,13 +2925,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Trabajar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ como en \"her\"",
+        "tag": "/ɝ/ como en \"her\"",
         "prompt": "Work ______,______",
         "answer": "Work - /wɝːrk/ - : \"or\"\nLa vocal es /ɝ/, r-colorada; la \"r\" es suave y no vibrante; la \"k\" final es fuerte.",
         "goal_words": "- /wɝːrk/ - : \"or\"\nLa vocal es /ɝ/,  r-colorada; la \"r\" es suave y no vibrante; la \"k\" final es fuerte.",
         "audio_filename": "line5_en_145.mp3",
-        "audio_dir": "Work"
+        "learning_tag": "/ɝ/ como en \"her\""
     },
     {
         "level": 1.0,
@@ -2943,13 +2943,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Chica",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ como en \"her\"",
+        "tag": "/ɝ/ como en \"her\"",
         "prompt": "Girl ______,______,______",
         "answer": "Girl - /ɡɝːrl/ - : \"ir\"\nLa vocal central /ɝ/ r-colorada; la \"r\" suave, y la \"l\" es clara, distinta de la \"l\" española.",
         "goal_words": "- /ɡɝːrl/ - : \"ir\"\nLa vocal central /ɝ/ r-colorada; la \"r\" suave,  y la \"l\" es clara,  distinta de la \"l\" española.",
         "audio_filename": "line_en_972.mp3",
-        "audio_dir": "Girl"
+        "learning_tag": "/ɝ/ como en \"her\""
     },
     {
         "level": 1.0,
@@ -2961,13 +2961,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Quemar",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ como en \"her\"",
+        "tag": "/ɝ/ como en \"her\"",
         "prompt": "Burn ______",
         "answer": "Burn - /bɝːrn/ - : \"ur\"\nVocal r-colorada /ɝ/ y \"r\" suave.",
         "goal_words": "- /bɝːrn/ - : \"ur\"\nVocal r-colorada /ɝ/ y \"r\" suave.",
         "audio_filename": "line_en_361.mp3",
-        "audio_dir": "Burn"
+        "learning_tag": "/ɝ/ como en \"her\""
     },
     {
         "level": 1.0,
@@ -2979,13 +2979,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Primero",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ como en \"her\"",
+        "tag": "/ɝ/ como en \"her\"",
         "prompt": "First ______",
         "answer": "First - /fɝːst/ - : \"ir\"\nLa vocal es /ɝ/ y la \"r\" es suave; la \"st\" final se pronuncia claramente como /st/.",
         "goal_words": "- /fɝːst/ - : \"ir\"\nLa vocal es /ɝ/ y la \"r\" es suave; la \"st\" final se pronuncia claramente como /st/.",
         "audio_filename": "line_en_880.mp3",
-        "audio_dir": "First"
+        "learning_tag": "/ɝ/ como en \"her\""
     },
     {
         "level": 1.0,
@@ -2997,13 +2997,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Aprender",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ como en \"her\"",
+        "tag": "/ɝ/ como en \"her\"",
         "prompt": "Learn ______,______",
         "answer": "Learn - /lɝːrn/ - : \"ea\"\nLa vocal es /ɝ/, y la \"r\" es suave y sin vibración.",
         "goal_words": "- /lɝːrn/ - : \"ea\"\nLa vocal es /ɝ/,  y la \"r\" es suave y sin vibración.",
         "audio_filename": "line2_en_494.mp3",
-        "audio_dir": "Learn"
+        "learning_tag": "/ɝ/ como en \"her\""
     },
     {
         "level": 1.0,
@@ -3015,13 +3015,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Mundo",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ como en \"her\"",
+        "tag": "/ɝ/ como en \"her\"",
         "prompt": "World ______",
         "answer": "World - /wɝːld/ - : \"or\"\nLa vocal es r-colorada /ɝ/; la \"r\" suave; el grupo consonántico final /ld/ es pronunciado claramente.",
         "goal_words": "- /wɝːld/ - : \"or\"\nLa vocal es r-colorada /ɝ/; la \"r\" suave; el grupo consonántico final /ld/ es pronunciado claramente.",
         "audio_filename": "line5_en_153.mp3",
-        "audio_dir": "World"
+        "learning_tag": "/ɝ/ como en \"her\""
     },
     {
         "level": 1.0,
@@ -3033,13 +3033,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Iglesia",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ como en \"her\"",
+        "tag": "/ɝ/ como en \"her\"",
         "prompt": "Church ______,______",
         "answer": "Church - /ʧɝːʧ/ - : \"ur\"\nLa combinación \"ch\" se pronuncia como /tʃ/, un sonido que no existe en español y es fuerte; la \"r\" es suave dentro de la palabra.",
         "goal_words": "- /ʧɝːʧ/ - : \"ur\"\nLa combinación \"ch\" se pronuncia como /tʃ/,  un sonido que no existe en español y es fuerte; la \"r\" es suave dentro de la palabra.",
         "audio_filename": "line_en_492.mp3",
-        "audio_dir": "Church"
+        "learning_tag": "/ɝ/ como en \"her\""
     },
     {
         "level": 1.0,
@@ -3051,13 +3051,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Atender",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ como en \"her\"",
+        "tag": "/ɝ/ como en \"her\"",
         "prompt": "Serve ______,______",
         "answer": "Serve - /sɝːv/ - : \"er\"\nLa \"r\" se pronuncia como /ɹ/, suave; la vocal es r-colorada /ɝ/.",
         "goal_words": "- /sɝːv/ - : \"er\"\nLa \"r\" se pronuncia como /ɹ/,  suave; la vocal es r-colorada /ɝ/.",
         "audio_filename": "line3_en_413.mp3",
-        "audio_dir": "Serve"
+        "learning_tag": "/ɝ/ como en \"her\""
     },
     {
         "level": 1.0,
@@ -3069,13 +3069,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Maestro",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ como en \"butter\"",
+        "tag": "/ɚ/ como en \"butter\"",
         "prompt": "Teacher ______,______",
         "answer": "Teacher - /ˈtiːtʃɚ/ - : \"er\"\nLa terminación \"-er\" es /ɚ/, una vocal neutra r-colorada; la \"t\" es suave y no explosiva.",
         "goal_words": "- /ˈtiːtʃɚ/ - : \"er\"\nLa terminación \"-er\" es /ɚ/,  una vocal neutra r-colorada; la \"t\" es suave y no explosiva.",
         "audio_filename": "line3_en_964.mp3",
-        "audio_dir": "Teacher"
+        "learning_tag": "/ɚ/ como en \"butter\""
     },
     {
         "level": 1.0,
@@ -3087,13 +3087,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Manteca",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ como en \"butter\"",
+        "tag": "/ɚ/ como en \"butter\"",
         "prompt": "Butter ______,______",
         "answer": "Butter - /ˈbʌtɚ/ - : \"er\"\nLa \"tt\" se pronuncia como un sonido intermedio entre /t/ y /d/ (flap /ɾ/), parecido a una \"r\" suave para hispanohablantes; la terminación \"-er\" es vocal neutra r-colorada /ɚ/.",
         "goal_words": "- /ˈbʌtɚ/ - : \"er\"\nLa \"tt\" se pronuncia como un sonido intermedio entre /t/ y /d/ (flap /ɾ/),  parecido a una \"r\" suave para hispanohablantes; la terminación \"-er\" es vocal neutra r-colorada /ɚ/.",
         "audio_filename": "line_en_372.mp3",
-        "audio_dir": "Butter"
+        "learning_tag": "/ɚ/ como en \"butter\""
     },
     {
         "level": 1.0,
@@ -3105,13 +3105,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Padre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ como en \"butter\"",
+        "tag": "/ɚ/ como en \"butter\"",
         "prompt": "Father ______",
         "answer": "Father - /ˈfɑːðɚ/ - : \"er\"\nLa terminación \"-er\" es vocal neutra r-colorada /ɚ/.",
         "goal_words": "- /ˈfɑːðɚ/ - : \"er\"\nLa terminación \"-er\" es vocal neutra r-colorada /ɚ/.",
         "audio_filename": "line_en_849.mp3",
-        "audio_dir": "Father"
+        "learning_tag": "/ɚ/ como en \"butter\""
     },
     {
         "level": 1.0,
@@ -3123,13 +3123,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Mejor",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ como en \"butter\"",
+        "tag": "/ɚ/ como en \"butter\"",
         "prompt": "Better ______,______",
         "answer": "Better - /ˈbɛtɚ/ - : \"er\"\nLa \"tt\" es flap /ɾ/, similar a una \"r\" suave; terminación r-colorada /ɚ/.",
         "goal_words": "- /ˈbɛtɚ/ - : \"er\"\nLa \"tt\" es flap /ɾ/,  similar a una \"r\" suave; terminación r-colorada /ɚ/.",
         "audio_filename": "line_en_291.mp3",
-        "audio_dir": "Better"
+        "learning_tag": "/ɚ/ como en \"butter\""
     },
     {
         "level": 1.0,
@@ -3141,13 +3141,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Flor",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ como en \"butter\"",
+        "tag": "/ɚ/ como en \"butter\"",
         "prompt": "Flower ______",
         "answer": "Flower - /ˈflaʊɚ/ - : \"er\"\nLa \"ow\" se pronuncia como /aʊ/ (diptongo); la terminación \"-er\" es /ɚ/.",
         "goal_words": "- /ˈflaʊɚ/ - : \"er\"\nLa \"ow\" se pronuncia como /aʊ/ (diptongo); la terminación \"-er\" es /ɚ/.",
         "audio_filename": "line_en_896.mp3",
-        "audio_dir": "Flower"
+        "learning_tag": "/ɚ/ como en \"butter\""
     },
     {
         "level": 1.0,
@@ -3159,13 +3159,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Obrero",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ como en \"butter\"",
+        "tag": "/ɚ/ como en \"butter\"",
         "prompt": "Worker ______",
         "answer": "Worker - /ˈwɝːrkɚ/ - : \"er\"\nLa \"er\" final es vocal neutra r-colorada /ɚ/ y la \"r\" en medio es suave.",
         "goal_words": "- /ˈwɝːrkɚ/ - : \"er\"\nLa \"er\" final es vocal neutra r-colorada /ɚ/ y la \"r\" en medio es suave.",
         "audio_filename": "line5_en_150.mp3",
-        "audio_dir": "Worker"
+        "learning_tag": "/ɚ/ como en \"butter\""
     },
     {
         "level": 1.0,
@@ -3177,13 +3177,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Ganador",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ como en \"butter\"",
+        "tag": "/ɚ/ como en \"butter\"",
         "prompt": "Winner ______,______",
         "answer": "Winner - /ˈwɪnɚ/ - : \"er\"\nLa \"nn\" se pronuncia como flap /ɾ/, similar a una \"r\" suave; terminación /ɚ/.",
         "goal_words": "- /ˈwɪnɚ/ - : \"er\"\nLa \"nn\" se pronuncia como flap /ɾ/,  similar a una \"r\" suave; terminación /ɚ/.",
         "audio_filename": "line5_en_118.mp3",
-        "audio_dir": "Winner"
+        "learning_tag": "/ɚ/ como en \"butter\""
     },
     {
         "level": 1.0,
@@ -3195,13 +3195,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Respuesta",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ como en \"butter\"",
+        "tag": "/ɚ/ como en \"butter\"",
         "prompt": "Answer ______",
         "answer": "Answer - /ˈænsɚ/ - : \"er\"\nLa \"w\" es muda; la \"s\" es /s/; la terminación \"-er\" es r-colorada /ɚ/.",
         "goal_words": "- /ˈænsɚ/ - : \"er\"\nLa \"w\" es muda; la \"s\" es /s/; la terminación \"-er\" es r-colorada /ɚ/.",
         "audio_filename": "line_en_165.mp3",
-        "audio_dir": "Answer"
+        "learning_tag": "/ɚ/ como en \"butter\""
     },
     {
         "level": 1.0,
@@ -3213,13 +3213,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Jugador",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ como en \"butter\"",
+        "tag": "/ɚ/ como en \"butter\"",
         "prompt": "Player ______",
         "answer": "Player - /ˈpleɪɚ/ - : \"er\"\nLa terminación \"-er\" es vocal neutra r-colorada /ɚ/.",
         "goal_words": "- /ˈpleɪɚ/ - : \"er\"\nLa terminación \"-er\" es vocal neutra r-colorada /ɚ/.",
         "audio_filename": "line3_en_139.mp3",
-        "audio_dir": "Player"
+        "learning_tag": "/ɚ/ como en \"butter\""
     },
     {
         "level": 1.0,
@@ -3231,13 +3231,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "Vocero",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ como en \"butter\"",
+        "tag": "/ɚ/ como en \"butter\"",
         "prompt": "Speaker ______",
         "answer": "Speaker - /ˈspiːkɚ/ - : \"er\"\nLa terminación \"-er\" es vocal neutra r-colorada /ɚ/.",
         "goal_words": "- /ˈspiːkɚ/ - : \"er\"\nLa terminación \"-er\" es vocal neutra r-colorada /ɚ/.",
         "audio_filename": "line3_en_820.mp3",
-        "audio_dir": "Speaker"
+        "learning_tag": "/ɚ/ como en \"butter\""
     },
     {
         "level": 1.0,
@@ -3249,13 +3249,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/",
+        "tag": "/æ/",
         "prompt": "Cat\nBat\nHat\nMan\nApple\nBad\nGas\nMap\nDad\nLaugh",
         "answer": "Cat\nBat\nHat\nMan\nApple\nBad\nGas\nMap\nDad\nLaugh",
         "goal_words": "",
         "audio_filename": "line_en_448.mp3",
-        "audio_dir": "Cat\nBat\nHat\nMan\nApple\nBad\nGas\nMap\nDad\nLaugh"
+        "learning_tag": "/æ/"
     },
     {
         "level": 1.0,
@@ -3267,13 +3267,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/",
+        "tag": "/ɛ/",
         "prompt": "Bed\nRed\nGet\nSaid\nFriend\nBread\nMessage\nHead\nMany\nSays",
         "answer": "Bed\nRed\nGet\nSaid\nFriend\nBread\nMessage\nHead\nMany\nSays",
         "goal_words": "",
         "audio_filename": "line_en_268.mp3",
-        "audio_dir": "Bed\nRed\nGet\nSaid\nFriend\nBread\nMessage\nHead\nMany\nSays"
+        "learning_tag": "/ɛ/"
     },
     {
         "level": 1.0,
@@ -3285,13 +3285,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/",
+        "tag": "/ɪ/",
         "prompt": "Sit\nHit\nBit\nThink\nBuild\nGym\nWomen\nPretty\nLive\nSystem",
         "answer": "Sit\nHit\nBit\nThink\nBuild\nGym\nWomen\nPretty\nLive\nSystem",
         "goal_words": "",
         "audio_filename": "line3_en_748.mp3",
-        "audio_dir": "Sit\nHit\nBit\nThink\nBuild\nGym\nWomen\nPretty\nLive\nSystem"
+        "learning_tag": "/ɪ/"
     },
     {
         "level": 1.0,
@@ -3303,13 +3303,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/",
+        "tag": "/ɑ/",
         "prompt": "Hot\nStop\nRock\nClock\nFather\nNot\nBox\nSock\nJob\nGot",
         "answer": "Hot\nStop\nRock\nClock\nFather\nNot\nBox\nSock\nJob\nGot",
         "goal_words": "",
         "audio_filename": "line_en_1460.mp3",
-        "audio_dir": "Hot\nStop\nRock\nClock\nFather\nNot\nBox\nSock\nJob\nGot"
+        "learning_tag": "/ɑ/"
     },
     {
         "level": 1.0,
@@ -3321,13 +3321,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/",
+        "tag": "/ʊ/",
         "prompt": "Book\nLook\nGood\nFoot\nCook\nCould\nShould\nWould\nWolf\nPull",
         "answer": "Book\nLook\nGood\nFoot\nCook\nCould\nShould\nWould\nWolf\nPull",
         "goal_words": "",
         "audio_filename": "line_en_318.mp3",
-        "audio_dir": "Book\nLook\nGood\nFoot\nCook\nCould\nShould\nWould\nWolf\nPull"
+        "learning_tag": "/ʊ/"
     },
     {
         "level": 1.0,
@@ -3339,13 +3339,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/",
+        "tag": "/ʌ/",
         "prompt": "Cup\nSun\nBut\nLuck\nFun\nMoney\nBlood\nBrother\nCome\nDoes",
         "answer": "Cup\nSun\nBut\nLuck\nFun\nMoney\nBlood\nBrother\nCome\nDoes",
         "goal_words": "",
         "audio_filename": "line_en_593.mp3",
-        "audio_dir": "Cup\nSun\nBut\nLuck\nFun\nMoney\nBlood\nBrother\nCome\nDoes"
+        "learning_tag": "/ʌ/"
     },
     {
         "level": 1.0,
@@ -3357,13 +3357,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/i/",
+        "tag": "/i/",
         "prompt": "See\nBe\nTree\nMeet\nNeed\nPeace\nKey\nPeople\nReceive\nPolice",
         "answer": "See\nBe\nTree\nMeet\nNeed\nPeace\nKey\nPeople\nReceive\nPolice",
         "goal_words": "",
         "audio_filename": "line3_en_402.mp3",
-        "audio_dir": "See\nBe\nTree\nMeet\nNeed\nPeace\nKey\nPeople\nReceive\nPolice"
+        "learning_tag": "/iː/"
     },
     {
         "level": 1.0,
@@ -3375,13 +3375,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/",
+        "tag": "/ɑː/",
         "prompt": "Father\nCar\nPalm\nBother\nStar\nStart\nHard\nArt\nArmy\nHeart",
         "answer": "Father\nCar\nPalm\nBother\nStar\nStart\nHard\nArt\nArmy\nHeart",
         "goal_words": "",
         "audio_filename": "line_en_850.mp3",
-        "audio_dir": "Father\nCar\nPalm\nBother\nStar\nStart\nHard\nArt\nArmy\nHeart"
+        "learning_tag": "/ɑː/"
     },
     {
         "level": 1.0,
@@ -3393,13 +3393,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/",
+        "tag": "/uː/",
         "prompt": "Too\nBlue\nTrue\nFood\nMoon\nBoot\nSoon\nGroup\nMove\nFlute",
         "answer": "Too\nBlue\nTrue\nFood\nMoon\nBoot\nSoon\nGroup\nMove\nFlute",
         "goal_words": "",
         "audio_filename": "line4_en_563.mp3",
-        "audio_dir": "Too\nBlue\nTrue\nFood\nMoon\nBoot\nSoon\nGroup\nMove\nFlute"
+        "learning_tag": "/uː/"
     },
     {
         "level": 1.0,
@@ -3411,13 +3411,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/",
+        "tag": "/ɔː/",
         "prompt": "Law\nSaw\nPaw\nDraw\nFlaw\nRaw\nShaw\nClaw\nCause\nPause",
         "answer": "Law\nSaw\nPaw\nDraw\nFlaw\nRaw\nShaw\nClaw\nCause\nPause",
         "goal_words": "",
         "audio_filename": "line2_en_489.mp3",
-        "audio_dir": "Law\nSaw\nPaw\nDraw\nFlaw\nRaw\nShaw\nClaw\nCause\nPause"
+        "learning_tag": "/ɔː/"
     },
     {
         "level": 1.0,
@@ -3429,13 +3429,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/",
+        "tag": "/eɪ/",
         "prompt": "Day\nSay\nPlay\nMake\nPay\nWait\nEight\nRain\nThey\nBreak",
         "answer": "Day\nSay\nPlay\nMake\nPay\nWait\nEight\nRain\nThey\nBreak",
         "goal_words": "",
         "audio_filename": "line_en_616.mp3",
-        "audio_dir": "Day\nSay\nPlay\nMake\nPay\nWait\nEight\nRain\nThey\nBreak"
+        "learning_tag": "/eɪ/"
     },
     {
         "level": 1.0,
@@ -3447,13 +3447,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/",
+        "tag": "/oʊ/",
         "prompt": "Go\nNo\nShow\nSo\nBoth\nRoad\nSnow\nBoat\nAlthough\nToe",
         "answer": "Go\nNo\nShow\nSo\nBoth\nRoad\nSnow\nBoat\nAlthough\nToe",
         "goal_words": "",
         "audio_filename": "line_en_983.mp3",
-        "audio_dir": "Go\nNo\nShow\nSo\nBoth\nRoad\nSnow\nBoat\nAlthough\nToe"
+        "learning_tag": "/oʊ/"
     },
     {
         "level": 1.0,
@@ -3465,13 +3465,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/",
+        "tag": "/aɪ/",
         "prompt": "My\nTime\nHigh\nCry\nFly\nLie\nSight\nRight\nFight\nBuy",
         "answer": "My\nTime\nHigh\nCry\nFly\nLie\nSight\nRight\nFight\nBuy",
         "goal_words": "",
         "audio_filename": "line2_en_666.mp3",
-        "audio_dir": "My\nTime\nHigh\nCry\nFly\nLie\nSight\nRight\nFight\nBuy"
+        "learning_tag": "/aɪ/"
     },
     {
         "level": 1.0,
@@ -3483,13 +3483,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/",
+        "tag": "/ɔɪ/",
         "prompt": "Boy\nToy\nJoy\nCoin\nChoice\nBoil\nVoice\nRoyal\nJoin\nSpoil",
         "answer": "Boy\nToy\nJoy\nCoin\nChoice\nBoil\nVoice\nRoyal\nJoin\nSpoil",
         "goal_words": "",
         "audio_filename": "line_en_337.mp3",
-        "audio_dir": "Boy\nToy\nJoy\nCoin\nChoice\nBoil\nVoice\nRoyal\nJoin\nSpoil"
+        "learning_tag": "/ɔɪ/"
     },
     {
         "level": 1.0,
@@ -3501,13 +3501,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/",
+        "tag": "/aʊ/",
         "prompt": "Now\nOut\nHow\nCloud\nMouse\nDown\nTown\nShout\nHouse\nSouth",
         "answer": "Now\nOut\nHow\nCloud\nMouse\nDown\nTown\nShout\nHouse\nSouth",
         "goal_words": "",
         "audio_filename": "line2_en_728.mp3",
-        "audio_dir": "Now\nOut\nHow\nCloud\nMouse\nDown\nTown\nShout\nHouse\nSouth"
+        "learning_tag": "/aʊ/"
     },
     {
         "level": 1.0,
@@ -3519,13 +3519,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/",
+        "tag": "/ə/",
         "prompt": "About\nSofa\nBanana\nProblem\nSupport\nAnimal\nSystem\nCelebrate\nInformation\nPencil",
         "answer": "About\nSofa\nBanana\nProblem\nSupport\nAnimal\nSystem\nCelebrate\nInformation\nPencil",
         "goal_words": "",
         "audio_filename": "line_en_90.mp3",
-        "audio_dir": "About\nSofa\nBanana\nProblem\nSupport\nAnimal\nSystem\nCelebrate\nInformation\nPencil"
+        "learning_tag": "/ə/"
     },
     {
         "level": 1.0,
@@ -3537,13 +3537,13 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/",
+        "tag": "/ɝ/",
         "prompt": "Bird\nTurn\nWork\nGirl\nBurn\nFirst\nLearn\nWorld\nChurch\nServe",
         "answer": "Bird\nTurn\nWork\nGirl\nBurn\nFirst\nLearn\nWorld\nChurch\nServe",
         "goal_words": "",
         "audio_filename": "line_en_299.mp3",
-        "audio_dir": "Bird\nTurn\nWork\nGirl\nBurn\nFirst\nLearn\nWorld\nChurch\nServe"
+        "learning_tag": "/ɝ/"
     },
     {
         "level": 1.0,
@@ -3555,12 +3555,12 @@
         "learning_language": "english",
         "native_group": "1 pronunciación - vocales",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/",
+        "tag": "/ɚ/",
         "prompt": "Teacher\nButter\nFather\nBetter\nFlower\nWorker\nWinner\nAnswer\nPlayer\nSpeaker",
         "answer": "Teacher\nButter\nFather\nBetter\nFlower\nWorker\nWinner\nAnswer\nPlayer\nSpeaker",
         "goal_words": "",
         "audio_filename": "line3_en_965.mp3",
-        "audio_dir": "Teacher\nButter\nFather\nBetter\nFlower\nWorker\nWinner\nAnswer\nPlayer\nSpeaker"
+        "learning_tag": "/ɚ/"
     }
 ]

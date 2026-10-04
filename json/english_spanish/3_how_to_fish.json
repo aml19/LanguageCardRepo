@@ -1,6 +1,6 @@
 [
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "activity.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -11,14 +11,14 @@
         "native_answer": "activity.  something that a person does, often involving movement or action",
         "native_word": "noun - Activities",
         "tag": "noun - Activities",
-        "prompt": "Una ______: algo que una persona hace, a menudo implica movimiento o acción",
+        "prompt": "Una actividad: algo que una persona hace, a menudo implica movimiento o acción",
         "answer": "Una actividad: algo que una persona hace, a menudo implica movimiento o acción",
         "goal_words": "actividad",
         "audio_filename": "line5_es_514.mp3",
-        "audio_dir": "Una actividad: algo que una persona hace, a menudo implica movimiento o acción"
+        "learning_tag": "sustantivo - actividades"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "bait.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -33,46 +33,10 @@
         "answer": "Anzuelo: Algo que se usa para atraer o atraer.\nEjemplo: El pescador puso un gusano en el anzuelo como cebo.",
         "goal_words": "anzuelo",
         "audio_filename": "line_es_374.mp3",
-        "audio_dir": "Anzuelo: Algo que se usa para atraer o atraer.\nEjemplo: El pescador puso un gusano en el anzuelo como cebo."
+        "learning_tag": "sustantivo -Herramientas y equipos"
     },
     {
-        "level": 3.0,
-        "image_filename": "equipment.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "Equipment: Tools or supplies needed for a task.\nExample: The hikers packed their camping equipment.\n\n",
-        "native_word": "noun - Tools & Equipment",
-        "tag": "noun - Tools & Equipment",
-        "prompt": "Equipo: Herramientas o suministros necesarios para una tarea.\nEjemplo: Los excursionistas empacaron su ______ de camping.",
-        "answer": "Equipo: Herramientas o suministros necesarios para una tarea.\nEjemplo: Los excursionistas empacaron su equipo de camping.",
-        "goal_words": "equipo",
-        "audio_filename": "line2_es_988.mp3",
-        "audio_dir": "Equipo: Herramientas o suministros necesarios para una tarea.\nEjemplo: Los excursionistas empacaron su equipo de camping."
-    },
-    {
-        "level": 3.0,
-        "image_filename": "fish.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "fish",
-        "native_word": "animal",
-        "tag": "animal",
-        "prompt": "______",
-        "answer": "el pez",
-        "goal_words": "el pez",
-        "audio_filename": "line2_es_246.mp3",
-        "audio_dir": "el pez"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "fishing.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -87,28 +51,10 @@
         "answer": "la pesca",
         "goal_words": "pesca",
         "audio_filename": "line3_es_709.mp3",
-        "audio_dir": "la pesca"
+        "learning_tag": "sustantivo - Actividad"
     },
     {
-        "level": 3.0,
-        "image_filename": "hand.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "hand",
-        "native_word": "body parts",
-        "tag": "body parts",
-        "prompt": "______",
-        "answer": "La cabeza",
-        "goal_words": "La cabeza",
-        "audio_filename": "line3_es_543.mp3",
-        "audio_dir": "La cabeza"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "hook.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -123,46 +69,10 @@
         "answer": "el anzuelo",
         "goal_words": "anzuelo",
         "audio_filename": "line_es_891.mp3",
-        "audio_dir": "el anzuelo"
+        "learning_tag": "sustantivo - Herramientas y equipo"
     },
     {
-        "level": 3.0,
-        "image_filename": "lake2.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "Lake",
-        "native_word": "noun - nature",
-        "tag": "noun - nature",
-        "prompt": "______",
-        "answer": "El lago",
-        "goal_words": "El lago",
-        "audio_filename": "line2_es_154.mp3",
-        "audio_dir": "El lago"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "line5.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "Line",
-        "native_word": "shape",
-        "tag": "shape",
-        "prompt": "______",
-        "answer": "La línea",
-        "goal_words": "La línea",
-        "audio_filename": "line3_es_652.mp3",
-        "audio_dir": "La línea"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "lure.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -177,12 +87,12 @@
         "answer": "el señuelo",
         "goal_words": "señuelo",
         "audio_filename": "line2_es_310.mp3",
-        "audio_dir": "el señuelo"
+        "learning_tag": "sustantivo - Herramientas y equipo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "minnow.jpg",
-        "card_type": "reading",
+        "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -195,10 +105,10 @@
         "answer": "Pececillo: Un pez pequeño de agua dulce.\nEjemplo: Los pececillos nadaban cerca de la superficie del estanque.",
         "goal_words": "pececillo",
         "audio_filename": "line4_es_509.mp3",
-        "audio_dir": "Pececillo: Un pez pequeño de agua dulce.\nEjemplo: Los pececillos nadaban cerca de la superficie del estanque."
+        "learning_tag": "sustantivo - animal"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "movement.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -213,28 +123,10 @@
         "answer": "el Movimiento. Movimiento físico",
         "goal_words": "Movimiento",
         "audio_filename": "line2_es_194.mp3",
-        "audio_dir": "el Movimiento. Movimiento físico"
+        "learning_tag": "sustantivo - Acciones"
     },
     {
-        "level": 3.0,
-        "image_filename": "ocean.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "ocean: a very large expanse of sea",
-        "native_word": "noun - Natural Elements",
-        "tag": "noun - Natural Elements",
-        "prompt": "El ______: una extensión muy grande de mar",
-        "answer": "El océano: una extensión muy grande de mar",
-        "goal_words": "océano",
-        "audio_filename": "line2_es_216.mp3",
-        "audio_dir": "El océano: una extensión muy grande de mar"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "patience.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -249,10 +141,10 @@
         "answer": "la paciencia",
         "goal_words": "paciencia",
         "audio_filename": "line3_es_699.mp3",
-        "audio_dir": "la paciencia"
+        "learning_tag": "sustantivo - comportamiento"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "reel.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -267,10 +159,10 @@
         "answer": "el carrete",
         "goal_words": "carrete",
         "audio_filename": "line_es_959.mp3",
-        "audio_dir": "el carrete"
+        "learning_tag": "sustantivo - Herramientas y equipo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "regulation.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -281,32 +173,14 @@
         "native_answer": "Regulation: A rule or law that controls how something is done.\nExample: The new regulation requires all workers to wear safety gear.",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
-        "prompt": "Reglamento: Una regla o ley que controla cómo se hace algo.\nEjemplo: El nuevo ______ requiere que todos los trabajadores usen equipo de seguridad.",
+        "prompt": "Reglamento: Una regla o ley que controla cómo se hace algo.\nEjemplo: El nuevo reglamento requiere que todos los trabajadores usen equipo de seguridad.",
         "answer": "Reglamento: Una regla o ley que controla cómo se hace algo.\nEjemplo: El nuevo reglamento requiere que todos los trabajadores usen equipo de seguridad.",
         "goal_words": "reglamento",
         "audio_filename": "line4_es_736.mp3",
-        "audio_dir": "Reglamento: Una regla o ley que controla cómo se hace algo.\nEjemplo: El nuevo reglamento requiere que todos los trabajadores usen equipo de seguridad."
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
-        "level": 3.0,
-        "image_filename": "river2.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "River",
-        "native_word": "noun - nature",
-        "tag": "noun - nature",
-        "prompt": "______",
-        "answer": "El río",
-        "goal_words": "El río",
-        "audio_filename": "line2_es_296.mp3",
-        "audio_dir": "El río"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "rod.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -321,10 +195,10 @@
         "answer": "la caña",
         "goal_words": "caña",
         "audio_filename": "line3_es_550.mp3",
-        "audio_dir": "la caña"
+        "learning_tag": "sustantivo - Herramientas y equipo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "spot.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -339,10 +213,10 @@
         "answer": "El lugar",
         "goal_words": "lugar",
         "audio_filename": "line2_es_179.mp3",
-        "audio_dir": "El lugar"
+        "learning_tag": "sustantivo - lugar"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "tension.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -357,46 +231,10 @@
         "answer": "la tensión",
         "goal_words": "tensión",
         "audio_filename": "line3_es_771.mp3",
-        "audio_dir": "la tensión"
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
-        "level": 3.0,
-        "image_filename": "time.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "Time",
-        "native_word": "noun - Time",
-        "tag": "noun - Time",
-        "prompt": "El ______",
-        "answer": "El tiempo",
-        "goal_words": "tiempo",
-        "audio_filename": "line2_es_339.mp3",
-        "audio_dir": "El tiempo"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "towel.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "towel",
-        "native_word": "clothing",
-        "tag": "clothing",
-        "prompt": "______",
-        "answer": "la toalla",
-        "goal_words": "la toalla",
-        "audio_filename": "line3_es_776.mp3",
-        "audio_dir": "la toalla"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "tug.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -407,32 +245,14 @@
         "native_answer": "Tug: A quick or forceful pull.\nExample: He gave the rope a strong tug.",
         "native_word": "noun - action",
         "tag": "noun - action",
-        "prompt": "Tirón: Un ______ rápido o forzado.\nEjemplo: Él dio un fuerte ______ a la cuerda.",
+        "prompt": "Tirón: Un tirón rápido o forzado.\nEjemplo: Él dio un fuerte tirón a la cuerda.",
         "answer": "Tirón: Un tirón rápido o forzado.\nEjemplo: Él dio un fuerte tirón a la cuerda.",
         "goal_words": "tirón",
         "audio_filename": "line5_es_61.mp3",
-        "audio_dir": "Tirón: Un tirón rápido o forzado.\nEjemplo: Él dio un fuerte tirón a la cuerda."
+        "learning_tag": "sustantivo - acción"
     },
     {
-        "level": 3.0,
-        "image_filename": "water.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "water",
-        "native_word": "noun - Natural Elements",
-        "tag": "noun - Natural Elements",
-        "prompt": "el ______",
-        "answer": "el agua",
-        "goal_words": "agua",
-        "audio_filename": "line_es_873.mp3",
-        "audio_dir": "el agua"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "worm.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -447,10 +267,10 @@
         "answer": "el gusano",
         "goal_words": "gusano",
         "audio_filename": "line2_es_100.mp3",
-        "audio_dir": "el gusano"
+        "learning_tag": "sustantivo - animal"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "attach.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -465,10 +285,10 @@
         "answer": "Sujetar una cadena",
         "goal_words": "Sujetar",
         "audio_filename": "line4_es_988.mp3",
-        "audio_dir": "Sujetar una cadena"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "avoid.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -479,14 +299,14 @@
         "native_answer": "Avoid – To keep away from something or someone. Example: She avoided eating too much sugar.",
         "native_word": "verb - Object",
         "tag": "verb - Object",
-        "prompt": "______ – Mantenerse alejado de algo o alguien. Ejemplo: Ella evitó comer demasiada azúcar.",
+        "prompt": "Evitar – Mantenerse alejado de algo o alguien. Ejemplo: Ella evitó comer demasiada azúcar.",
         "answer": "Evitar – Mantenerse alejado de algo o alguien. Ejemplo: Ella evitó comer demasiada azúcar.",
         "goal_words": "Evitar",
         "audio_filename": "line3_es_185.mp3",
-        "audio_dir": "Evitar – Mantenerse alejado de algo o alguien. Ejemplo: Ella evitó comer demasiada azúcar."
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "castfish.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -501,10 +321,10 @@
         "answer": "Lanzar una línea de pesca",
         "goal_words": "Lanzar",
         "audio_filename": "line3_es_795.mp3",
-        "audio_dir": "Lanzar una línea de pesca"
+        "learning_tag": "verbo - movimiento"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "catchbaseball.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -519,10 +339,10 @@
         "answer": "Atrapar una pelota de béisbol",
         "goal_words": "Atrapar",
         "audio_filename": "line_es_422.mp3",
-        "audio_dir": "Atrapar una pelota de béisbol"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "checkverb.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -537,10 +357,10 @@
         "answer": "verificar",
         "goal_words": "verificar",
         "audio_filename": "line5_es_851.mp3",
-        "audio_dir": "verificar"
+        "learning_tag": "verbo - efecto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "choose.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -555,10 +375,10 @@
         "answer": "elegir",
         "goal_words": "elegir",
         "audio_filename": "line2_es_448.mp3",
-        "audio_dir": "elegir"
+        "learning_tag": "verbo - mental"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "choose.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -569,32 +389,14 @@
         "native_answer": "Decide – To make a choice or come to a conclusion. Example: She decided to take the job offer.",
         "native_word": "verb - Mental",
         "tag": "verb - Mental",
-        "prompt": "______ – Hacer una elección o llegar a una conclusión. Ejemplo: Ella decidió aceptar la oferta de trabajo.",
+        "prompt": "Decidir – Hacer una elección o llegar a una conclusión. Ejemplo: Ella decidió aceptar la oferta de trabajo.",
         "answer": "Decidir – Hacer una elección o llegar a una conclusión. Ejemplo: Ella decidió aceptar la oferta de trabajo.",
         "goal_words": "Decidir",
         "audio_filename": "line_es_743.mp3",
-        "audio_dir": "Decidir – Hacer una elección o llegar a una conclusión. Ejemplo: Ella decidió aceptar la oferta de trabajo."
+        "learning_tag": "verbo - mental"
     },
     {
-        "level": 3.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "feel the water",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "______ el agua",
-        "answer": "sentir el agua",
-        "goal_words": "sentir",
-        "audio_filename": "line4_es_892.mp3",
-        "audio_dir": "sentir el agua"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "handle.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -609,10 +411,10 @@
         "answer": "manejar: administrar una situación o problema.",
         "goal_words": "manejar",
         "audio_filename": "line3_es_944.mp3",
-        "audio_dir": "manejar: administrar una situación o problema."
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "hookverb.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -627,10 +429,10 @@
         "answer": "enganchar",
         "goal_words": "enganchar",
         "audio_filename": "line2_es_966.mp3",
-        "audio_dir": "enganchar"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "locket.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -645,10 +447,10 @@
         "answer": "Guardar dentro de un relicario",
         "goal_words": "Guardar",
         "audio_filename": "line3_es_288.mp3",
-        "audio_dir": "Guardar dentro de un relicario"
+        "learning_tag": "verbo - posesión"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "letgo.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -663,28 +465,10 @@
         "answer": "Soltar un globo",
         "goal_words": "Soltar",
         "audio_filename": "line4_es_958.mp3",
-        "audio_dir": "Soltar un globo"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
-        "image_filename": "pullpush.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "pull push",
-        "native_word": "opposites - verb",
-        "tag": "opposites - verb",
-        "prompt": "______ empujar",
-        "answer": "tirar empujar",
-        "goal_words": "tirar",
-        "audio_filename": "line5_es_57.mp3",
-        "audio_dir": "tirar empujar"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "reel.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -699,10 +483,10 @@
         "answer": "recoger",
         "goal_words": "recoger",
         "audio_filename": "line4_es_721.mp3",
-        "audio_dir": "recoger"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "release.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -717,10 +501,10 @@
         "answer": "liberar",
         "goal_words": "liberar",
         "audio_filename": "line3_es_846.mp3",
-        "audio_dir": "liberar"
+        "learning_tag": "verbo - posesión"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "require.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -735,10 +519,10 @@
         "answer": "requerir",
         "goal_words": "requerir",
         "audio_filename": "line4_es_749.mp3",
-        "audio_dir": "requerir"
+        "learning_tag": "verbo - efecto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "secure.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -749,14 +533,14 @@
         "native_answer": "Secure – To make something safe or obtain firmly. Example: He secured the door before leaving.",
         "native_word": "verb - Effect",
         "tag": "verb - Effect",
-        "prompt": "______ – Hacer algo seguro o conseguirlo firmemente. Ejemplo: Él aseguró la puerta antes de salir.",
+        "prompt": "Asegurar – Hacer algo seguro o conseguirlo firmemente. Ejemplo: Él aseguró la puerta antes de salir.",
         "answer": "Asegurar – Hacer algo seguro o conseguirlo firmemente. Ejemplo: Él aseguró la puerta antes de salir.",
         "goal_words": "Asegurar",
         "audio_filename": "line_es_408.mp3",
-        "audio_dir": "Asegurar – Hacer algo seguro o conseguirlo firmemente. Ejemplo: Él aseguró la puerta antes de salir."
+        "learning_tag": "verbo - efecto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "spend_finance.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -767,14 +551,14 @@
         "native_answer": "Spend",
         "native_word": "verb - object",
         "tag": "verb - object",
-        "prompt": "______",
+        "prompt": "Gastar",
         "answer": "Gastar",
         "goal_words": "Gastar",
         "audio_filename": "line3_es_264.mp3",
-        "audio_dir": "Gastar"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "swing.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -789,46 +573,10 @@
         "answer": "balancearse",
         "goal_words": "balancearse",
         "audio_filename": "line_es_440.mp3",
-        "audio_dir": "balancearse"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
-        "image_filename": "wait.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "wait",
-        "native_word": "verb - self",
-        "tag": "verb - self",
-        "prompt": "______",
-        "answer": "esperar",
-        "goal_words": "esperar",
-        "audio_filename": "line3_es_77.mp3",
-        "audio_dir": "esperar"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "birdwatch.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "watch",
-        "native_word": "verb - Perception",
-        "tag": "verb - Perception",
-        "prompt": "______",
-        "answer": "mirar",
-        "goal_words": "mirar",
-        "audio_filename": "line4_es_22.mp3",
-        "audio_dir": "mirar"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "basic.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -839,14 +587,14 @@
         "native_answer": "basic - advanced",
         "native_word": "adjective - Condition & Quality",
         "tag": "adjective - Condition & Quality",
-        "prompt": "______ - avanzado",
+        "prompt": "básico - avanzado",
         "answer": "básico - avanzado",
         "goal_words": "básico",
         "audio_filename": "line_es_446.mp3",
-        "audio_dir": "básico - avanzado"
+        "learning_tag": "adjetivo - Condición y calidad"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "farmersmarket.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -861,10 +609,10 @@
         "answer": "el mercado del agricultor vende productos locales",
         "goal_words": "local",
         "audio_filename": "line2_es_185.mp3",
-        "audio_dir": "el mercado del agricultor vende productos locales"
+        "learning_tag": "adjetivo - rasgos físicos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "livebait.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -879,10 +627,10 @@
         "answer": "cebo vivo",
         "goal_words": "vivo",
         "audio_filename": "line_es_539.mp3",
-        "audio_dir": "cebo vivo"
+        "learning_tag": "adjetivo - Condición y calidad"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "steady.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -897,28 +645,10 @@
         "answer": "mano firme",
         "goal_words": "firme",
         "audio_filename": "line3_es_949.mp3",
-        "audio_dir": "mano firme"
+        "learning_tag": "adjetivo - movimiento"
     },
     {
-        "level": 3.0,
-        "image_filename": "wetdry.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: fish",
-        "native_answer": "wet dry",
-        "native_word": "opposites - adjective",
-        "tag": "opposites - adjective",
-        "prompt": "______ seco",
-        "answer": "mojado seco",
-        "goal_words": "mojado",
-        "audio_filename": "line4_es_27.mp3",
-        "audio_dir": "mojado seco"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "enjoy_free.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -933,10 +663,10 @@
         "answer": "disfrutable ser libre",
         "goal_words": "disfrutable",
         "audio_filename": "line_es_824.mp3",
-        "audio_dir": "disfrutable ser libre"
+        "learning_tag": "adjetivo - creando emoción"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "oustide.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -951,10 +681,10 @@
         "answer": "interior - exterior",
         "goal_words": "exterior",
         "audio_filename": "line3_es_437.mp3",
-        "audio_dir": "interior - exterior"
+        "learning_tag": "adjetivo - rasgos físicos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "carefully.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -969,10 +699,10 @@
         "answer": "Caminar cuidadosamente",
         "goal_words": "cuidadosamente",
         "audio_filename": "line_es_512.mp3",
-        "audio_dir": "Caminar cuidadosamente"
+        "learning_tag": "adverbio - manera"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "forward.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -987,10 +717,10 @@
         "answer": "Doblarse hacia adelante",
         "goal_words": "hacia adelante",
         "audio_filename": "line_es_830.mp3",
-        "audio_dir": "Doblarse hacia adelante"
+        "learning_tag": "adverbio - lugar"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "proper.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1005,10 +735,10 @@
         "answer": "Levantar correctamente",
         "goal_words": "correctamente",
         "audio_filename": "line3_es_843.mp3",
-        "audio_dir": "Levantar correctamente"
+        "learning_tag": "adverbio - manera"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "slowly2.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1023,10 +753,10 @@
         "answer": "Moverse lentamente",
         "goal_words": "lentamente",
         "audio_filename": "line4_es_43.mp3",
-        "audio_dir": "Moverse lentamente"
+        "learning_tag": "adverbio - manera"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1041,10 +771,10 @@
         "answer": "Cómo pescar",
         "goal_words": "",
         "audio_filename": "line_es_602.mp3",
-        "audio_dir": "Cómo pescar"
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1059,10 +789,10 @@
         "answer": "La pesca es una actividad relajante y gratificante que requiere equipo básico y paciencia.",
         "goal_words": "",
         "audio_filename": "line3_es_710.mp3",
-        "audio_dir": "La pesca es una actividad relajante y gratificante que requiere equipo básico y paciencia."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1077,10 +807,10 @@
         "answer": "Para comenzar, necesita una caña de pescar, un carrete, un hilo de pescar y un cebo o señuelos.",
         "goal_words": "",
         "audio_filename": "line4_es_450.mp3",
-        "audio_dir": "Para comenzar, necesita una caña de pescar, un carrete, un hilo de pescar y un cebo o señuelos."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1095,10 +825,10 @@
         "answer": "Elija un lugar de pesca, como un lago, río u océano, y consulte las regulaciones de pesca locales.",
         "goal_words": "",
         "audio_filename": "line2_es_450.mp3",
-        "audio_dir": "Elija un lugar de pesca, como un lago, río u océano, y consulte las regulaciones de pesca locales."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1113,10 +843,10 @@
         "answer": "Primero, coloque el anzuelo y el cebo en su línea.",
         "goal_words": "",
         "audio_filename": "line4_es_635.mp3",
-        "audio_dir": "Primero, coloque el anzuelo y el cebo en su línea."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1131,10 +861,10 @@
         "answer": "Si utiliza cebo vivo, como gusanos o pececillos, asegúrelos adecuadamente.",
         "goal_words": "",
         "audio_filename": "line4_es_936.mp3",
-        "audio_dir": "Si utiliza cebo vivo, como gusanos o pececillos, asegúrelos adecuadamente."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1149,10 +879,10 @@
         "answer": "Lanza el sedal al agua moviendo la caña hacia adelante mientras sueltas el sedal.",
         "goal_words": "",
         "audio_filename": "line3_es_792.mp3",
-        "audio_dir": "Lanza el sedal al agua moviendo la caña hacia adelante mientras sueltas el sedal."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1167,10 +897,10 @@
         "answer": "Deje que el cebo se hunda y espere a que pique el pez.",
         "goal_words": "",
         "audio_filename": "line_es_755.mp3",
-        "audio_dir": "Deje que el cebo se hunda y espere a que pique el pez."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1185,10 +915,10 @@
         "answer": "Esté atento al movimiento en la línea o sienta un tirón.",
         "goal_words": "",
         "audio_filename": "line3_es_143.mp3",
-        "audio_dir": "Esté atento al movimiento en la línea o sienta un tirón."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1203,10 +933,10 @@
         "answer": "Cuando un pez muerde, tira de la caña hacia arriba con firmeza, pero no demasiado, para engancharlo.",
         "goal_words": "",
         "audio_filename": "line_es_699.mp3",
-        "audio_dir": "Cuando un pez muerde, tira de la caña hacia arriba con firmeza, pero no demasiado, para engancharlo."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1221,10 +951,10 @@
         "answer": "Enrolle lentamente el pescado, manteniendo una tensión constante en el hilo.",
         "goal_words": "",
         "audio_filename": "line2_es_968.mp3",
-        "audio_dir": "Enrolle lentamente el pescado, manteniendo una tensión constante en el hilo."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1239,10 +969,10 @@
         "answer": "Una vez capturado, manipule el pescado con cuidado, utilizando las manos mojadas o una toalla para evitar dañarlo.",
         "goal_words": "",
         "audio_filename": "line5_es_568.mp3",
-        "audio_dir": "Una vez capturado, manipule el pescado con cuidado, utilizando las manos mojadas o una toalla para evitar dañarlo."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1257,10 +987,10 @@
         "answer": "Decida si conservarlo o liberarlo según las regulaciones.",
         "goal_words": "",
         "audio_filename": "line_es_740.mp3",
-        "audio_dir": "Decida si conservarlo o liberarlo según las regulaciones."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1275,6 +1005,6 @@
         "answer": "La pesca requiere práctica, pero con paciencia puede ser una forma divertida de pasar tiempo al aire libre.",
         "goal_words": "",
         "audio_filename": "line3_es_711.mp3",
-        "audio_dir": "La pesca requiere práctica, pero con paciencia puede ser una forma divertida de pasar tiempo al aire libre."
+        "learning_tag": "tiempo presente e imperativo"
     }
 ]

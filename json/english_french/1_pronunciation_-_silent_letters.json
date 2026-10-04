@@ -9,13 +9,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-e (often silent)",
+        "tag": "-e (often silent)",
         "prompt": "porte ______",
         "answer": "porte /pɔʁt/ (door) — The final e is not pronounced.",
         "goal_words": "/pɔʁt/ (door) — The final e is not pronounced.",
         "audio_filename": "line4_fr_678.mp3",
-        "audio_dir": "porte"
+        "learning_tag": "-e (often silent)"
     },
     {
         "level": 1.0,
@@ -27,13 +27,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-e (often silent)",
+        "tag": "-e (often silent)",
         "prompt": "femme ______",
         "answer": "femme /fam/ (woman) — The final e is silent.",
         "goal_words": "/fam/ (woman) — The final e is silent.",
         "audio_filename": "line2_fr_215.mp3",
-        "audio_dir": "femme"
+        "learning_tag": "-e (often silent)"
     },
     {
         "level": 1.0,
@@ -45,13 +45,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-s (often silent in nouns and adjectives, unless followed by a vowel)",
+        "tag": "-s (often silent in nouns and adjectives, unless followed by a vowel)",
         "prompt": "chefs ______",
         "answer": "chefs /ʃɛf/ (chiefs) — The final s is silent.",
         "goal_words": "/ʃɛf/ (chiefs) — The final s is silent.",
         "audio_filename": "line_fr_573.mp3",
-        "audio_dir": "chefs"
+        "learning_tag": "-s (often silent in nouns and adjectives, unless followed by a vowel)"
     },
     {
         "level": 1.0,
@@ -63,13 +63,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-x (often silent in plural forms)",
+        "tag": "-x (often silent in plural forms)",
         "prompt": "doux ______",
         "answer": "doux /du/ (soft) — The final x is silent.",
         "goal_words": "/du/ (soft) — The final x is silent.",
         "audio_filename": "line_fr_837.mp3",
-        "audio_dir": "doux"
+        "learning_tag": "-x (often silent in plural forms)"
     },
     {
         "level": 1.0,
@@ -81,13 +81,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-x (often silent in plural forms)",
+        "tag": "-x (often silent in plural forms)",
         "prompt": "beaux ______",
         "answer": "beaux /bo/ (beautiful) — The final x is silent.",
         "goal_words": "/bo/ (beautiful) — The final x is silent.",
         "audio_filename": "line_fr_404.mp3",
-        "audio_dir": "beaux"
+        "learning_tag": "-x (often silent in plural forms)"
     },
     {
         "level": 1.0,
@@ -99,13 +99,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-t (sometimes silent, often in feminine forms or plural forms)",
+        "tag": "-t (sometimes silent, often in feminine forms or plural forms)",
         "prompt": "chat ______",
         "answer": "chat /ʃa/ (cat) — The final t is silent.",
         "goal_words": "/ʃa/ (cat) — The final t is silent.",
         "audio_filename": "line_fr_562.mp3",
-        "audio_dir": "chat"
+        "learning_tag": "-t (sometimes silent, often in feminine forms or plural forms)"
     },
     {
         "level": 1.0,
@@ -117,13 +117,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-t (sometimes silent, often in feminine forms or plural forms)",
+        "tag": "-t (sometimes silent, often in feminine forms or plural forms)",
         "prompt": "ballet ______",
         "answer": "ballet /ba.lɛ/ (ballet) — The final t is silent.",
         "goal_words": "/ba.lɛ/ (ballet) — The final t is silent.",
         "audio_filename": "line_fr_384.mp3",
-        "audio_dir": "ballet"
+        "learning_tag": "-t (sometimes silent, often in feminine forms or plural forms)"
     },
     {
         "level": 1.0,
@@ -135,13 +135,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-gn (pronounced like \"ny\" in \"canyon\")",
+        "tag": "-gn (pronounced like \"ny\" in \"canyon\")",
         "prompt": "montagne ______,______",
         "answer": "montagne /mɔ̃.taɲ/ (mountain) — The gn is pronounced as \"ny,\" like in English \"canyon.\"",
         "goal_words": "/mɔ̃.taɲ/ (mountain) — The gn is pronounced as \"ny, \" like in English \"canyon.\"",
         "audio_filename": "line4_fr_57.mp3",
-        "audio_dir": "montagne"
+        "learning_tag": "-gn (pronounced like \"ny\" in \"canyon\")"
     },
     {
         "level": 1.0,
@@ -153,13 +153,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-il (silent l in some words)",
+        "tag": "-il (silent l in some words)",
         "prompt": "papillon ______",
         "answer": "papillon /pa.pi.jɔ̃/ (butterfly) — The l is silent in \"il\" in this case.",
         "goal_words": "/pa.pi.jɔ̃/ (butterfly) — The l is silent in \"il\" in this case.",
         "audio_filename": "line4_fr_530.mp3",
-        "audio_dir": "papillon"
+        "learning_tag": "-il (silent l in some words)"
     },
     {
         "level": 1.0,
@@ -171,13 +171,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-il (silent l in some words)",
+        "tag": "-il (silent l in some words)",
         "prompt": "milieu ______",
         "answer": "milieu /mi.ljø/ (environment) — The l is silent.",
         "goal_words": "/mi.ljø/ (environment) — The l is silent.",
         "audio_filename": "line4_fr_46.mp3",
-        "audio_dir": "milieu"
+        "learning_tag": "-il (silent l in some words)"
     },
     {
         "level": 1.0,
@@ -189,13 +189,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-eu and -eau (silent e or u)",
+        "tag": "-eu and -eau (silent e or u)",
         "prompt": "feu ______",
         "answer": "feu /fø/ (fire) — The u is silent.",
         "goal_words": "/fø/ (fire) — The u is silent.",
         "audio_filename": "line2_fr_223.mp3",
-        "audio_dir": "feu"
+        "learning_tag": "-eu and -eau (silent e or u)"
     },
     {
         "level": 1.0,
@@ -207,17 +207,17 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-eu and -eau (silent e or u)",
+        "tag": "-eu and -eau (silent e or u)",
         "prompt": "eau ______",
         "answer": "eau /o/ (water) — The e is silent.",
         "goal_words": "/o/ (water) — The e is silent.",
         "audio_filename": "line_fr_844.mp3",
-        "audio_dir": "eau"
+        "learning_tag": "-eu and -eau (silent e or u)"
     },
     {
         "level": 1.0,
-        "image_filename": "eat_m.jpg",
+        "image_filename": "eat_p.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "3. Silent Letters in Verbs",
@@ -225,17 +225,17 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "ils mangent /il mɑ̃ʒ/ (they eat) — The ent are silent.",
-        "answer": "ils mangent /il mɑ̃ʒ/ (they eat) — The ent are silent.",
-        "goal_words": "mangent /il mɑ̃ʒ/ (they eat) — The e and t are silent.",
+        "native_word": "-ent (silent e and t in the third-person plural form)",
+        "tag": "-ent (silent e and t in the third-person plural form)",
+        "prompt": "ils mangent /il ______",
+        "answer": "ils mangent /il mɑ̃ʒ/ — The ent are silent.",
+        "goal_words": "mɑ̃ʒ/ — The ent are silent.",
         "audio_filename": "line3_fr_998.mp3",
-        "audio_dir": "mangent"
+        "learning_tag": "-ent (silent e and t in the third-person plural form)"
     },
     {
         "level": 1.0,
-        "image_filename": "speak_f.jpg",
+        "image_filename": "speak_p.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "3. Silent Letters in Verbs",
@@ -243,13 +243,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "ils parlent /il paʁl/ (they speak) — The ent are silent.",
-        "answer": "ils parlent /il paʁl/ (they speak) — The ent are silent.",
-        "goal_words": "parlent /il paʁl/ (they speak) — The e and t are silent.",
+        "native_word": "-ent (silent e and t in the third-person plural form)",
+        "tag": "-ent (silent e and t in the third-person plural form)",
+        "prompt": "ils parlent /il ______",
+        "answer": "ils parlent /il paʁl/ — The ent are silent.",
+        "goal_words": "paʁl/ — The ent are silent.",
         "audio_filename": "line4_fr_540.mp3",
-        "audio_dir": "parlent"
+        "learning_tag": "-ent (silent e and t in the third-person plural form)"
     },
     {
         "level": 1.0,
@@ -261,13 +261,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-e (silent e in many verb endings in present tense)",
+        "tag": "-e (silent e in many verb endings in present tense)",
         "prompt": "aime ______",
         "answer": "aime /ɛm/ (loves) — The final e is silent.",
         "goal_words": "/ɛm/ (loves) — The final e is silent.",
         "audio_filename": "line_fr_237.mp3",
-        "audio_dir": "aime"
+        "learning_tag": "-e (silent e in many verb endings in present tense)"
     },
     {
         "level": 1.0,
@@ -279,13 +279,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-e (silent e in many verb endings in present tense)",
+        "tag": "-e (silent e in many verb endings in present tense)",
         "prompt": "parle ______",
         "answer": "parle /paʁl/ (speaks) — The final e is silent.",
         "goal_words": "/paʁl/ (speaks) — The final e is silent.",
         "audio_filename": "line4_fr_539.mp3",
-        "audio_dir": "parle"
+        "learning_tag": "-e (silent e in many verb endings in present tense)"
     },
     {
         "level": 1.0,
@@ -297,13 +297,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "Silent h (the letter h is silent in most words, especially at the beginning of words)",
+        "tag": "Silent h (the letter h is silent in most words, especially at the beginning of words)",
         "prompt": "hôtel ______",
         "answer": "hôtel /ɔ.tɛl/ (hotel) — The h is silent.",
         "goal_words": "/ɔ.tɛl/ (hotel) — The h is silent.",
         "audio_filename": "line2_fr_314.mp3",
-        "audio_dir": "hôtel"
+        "learning_tag": "Silent h (the letter h is silent in most words, especially at the beginning of words)"
     },
     {
         "level": 1.0,
@@ -315,13 +315,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "Silent h (the letter h is silent in most words, especially at the beginning of words)",
+        "tag": "Silent h (the letter h is silent in most words, especially at the beginning of words)",
         "prompt": "homme ______",
         "answer": "homme /ɔm/ (man) — The h is silent.",
         "goal_words": "/ɔm/ (man) — The h is silent.",
         "audio_filename": "line2_fr_310.mp3",
-        "audio_dir": "homme"
+        "learning_tag": "Silent h (the letter h is silent in most words, especially at the beginning of words)"
     },
     {
         "level": 1.0,
@@ -333,13 +333,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-p (silent when it occurs before a vowel)",
+        "tag": "-p (silent when it occurs before a vowel)",
         "prompt": "psychologie ______",
         "answer": "psychologie /psiko.lɔ.ʒi/ (psychology) — The p is silent.",
         "goal_words": "/psiko.lɔ.ʒi/ (psychology) — The p is silent.",
         "audio_filename": "line4_fr_730.mp3",
-        "audio_dir": "psychologie"
+        "learning_tag": "-p (silent when it occurs before a vowel)"
     },
     {
         "level": 1.0,
@@ -351,12 +351,12 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "-s (silent in some cases)",
+        "tag": "-s (silent in some cases)",
         "prompt": "gris ______",
         "answer": "gris /ɡʁi/ (gray) — The s is silent.",
         "goal_words": "/ɡʁi/ (gray) — The s is silent.",
         "audio_filename": "line2_fr_286.mp3",
-        "audio_dir": "gris"
+        "learning_tag": "-s (silent in some cases)"
     }
 ]

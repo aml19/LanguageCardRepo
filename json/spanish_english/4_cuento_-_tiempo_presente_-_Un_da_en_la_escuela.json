@@ -15,25 +15,7 @@
         "answer": "walk carefully when you are old",
         "goal_words": "carefully",
         "audio_filename": "line4_en_672.mp3",
-        "audio_dir": "walk carefully when you are old"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "about.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 cuento - tiempo presente - Un día en la escuela",
-        "native_answer": "libros sobre muchas cosas",
-        "native_word": "adverbio - Adverbio conjuncional",
-        "tag": "adverbio - Adverbio conjuncional",
-        "prompt": "books ______ many things",
-        "answer": "books about many things",
-        "goal_words": "about",
-        "audio_filename": "line_en_319.mp3",
-        "audio_dir": "books about many things"
+        "learning_tag": "adverb -  Manner"
     },
     {
         "level": 4.0,
@@ -51,6 +33,6 @@
         "answer": "putting the pieces together",
         "goal_words": "together",
         "audio_filename": "line3_en_210.mp3",
-        "audio_dir": "putting the pieces together"
+        "learning_tag": "adverb -  Place"
     }
 ]

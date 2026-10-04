@@ -15,25 +15,7 @@
         "answer": "stolz",
         "goal_words": "stolz",
         "audio_filename": "line5_de_204.mp3",
-        "audio_dir": "stolz"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "young.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 dialogue - advice to a boy",
-        "native_answer": "young girl",
-        "native_word": "adjective - age",
-        "tag": "adjective - age",
-        "prompt": "______es Mädchen",
-        "answer": "junges Mädchen",
-        "goal_words": "jung",
-        "audio_filename": "line3_de_950.mp3",
-        "audio_dir": "junges Mädchen"
+        "learning_tag": "Adjektiv – Emotion empfinden"
     },
     {
         "level": 4.0,
@@ -51,7 +33,7 @@
         "answer": "falsch",
         "goal_words": "falsch",
         "audio_filename": "line3_de_160.mp3",
-        "audio_dir": "falsch"
+        "learning_tag": "Adjektiv – Urteil"
     },
     {
         "level": 4.0,
@@ -69,7 +51,7 @@
         "answer": "wichtige Ankündigung",
         "goal_words": "wichtig",
         "audio_filename": "line5_de_584.mp3",
-        "audio_dir": "wichtige Ankündigung"
+        "learning_tag": "Adjektiv – Urteil"
     },
     {
         "level": 4.0,
@@ -80,14 +62,14 @@
         "native_language": "english",
         "learning_language": "german",
         "native_group": "4 dialogue - advice to a boy",
-        "native_answer": "true_ or false",
+        "native_answer": "true or false",
         "native_word": "adjective -  Judgment",
         "tag": "adjective -  Judgment",
         "prompt": "______ oder falsch",
         "answer": "wahr oder falsch",
         "goal_words": "wahr",
         "audio_filename": "line5_de_459.mp3",
-        "audio_dir": "wahr oder falsch"
+        "learning_tag": "Adjektiv – Urteil"
     },
     {
         "level": 4.0,
@@ -105,7 +87,7 @@
         "answer": "süße Desserts",
         "goal_words": "süß",
         "audio_filename": "line5_de_217.mp3",
-        "audio_dir": "süße Desserts"
+        "learning_tag": "Adjektiv - Geschmack"
     },
     {
         "level": 4.0,
@@ -123,61 +105,7 @@
         "answer": "richtig und falsch",
         "goal_words": "richtig",
         "audio_filename": "line4_de_386.mp3",
-        "audio_dir": "richtig und falsch"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "son.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 dialogue - advice to a boy",
-        "native_answer": "son",
-        "native_word": "family",
-        "tag": "family",
-        "prompt": "______",
-        "answer": "Sohn",
-        "goal_words": "Sohn",
-        "audio_filename": "line5_de_142.mp3",
-        "audio_dir": "Sohn"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "mom.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 dialogue - advice to a boy",
-        "native_answer": "Mom",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Die ______",
-        "answer": "Die Mama",
-        "goal_words": "Mama",
-        "audio_filename": "line2_de_69.mp3",
-        "audio_dir": "Die Mama"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "dad.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 dialogue - advice to a boy",
-        "native_answer": "dad holding his baby",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Der ______ hält sein Baby",
-        "answer": "Der Papa hält sein Baby",
-        "goal_words": "Papa",
-        "audio_filename": "line_de_786.mp3",
-        "audio_dir": "Der Papa hält sein Baby"
+        "learning_tag": "Adjektiv – Urteil"
     },
     {
         "level": 4.0,
@@ -195,43 +123,7 @@
         "answer": "Das Versuchen, ein Problem zu lösen",
         "goal_words": "Problem",
         "audio_filename": "line_de_596.mp3",
-        "audio_dir": "Das Versuchen, ein Problem zu lösen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "school.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 dialogue - advice to a boy",
-        "native_answer": "school",
-        "native_word": "noun - Buildings & Places",
-        "tag": "noun - Buildings & Places",
-        "prompt": "Die ______",
-        "answer": "Die Schule",
-        "goal_words": "Schule",
-        "audio_filename": "line2_de_132.mp3",
-        "audio_dir": "Die Schule"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 dialogue - advice to a boy",
-        "native_answer": "friend",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Der ______",
-        "answer": "Der Freund",
-        "goal_words": "Freund",
-        "audio_filename": "line_de_687.mp3",
-        "audio_dir": "Der Freund"
+        "learning_tag": "Substantiv – Ideen und Konzepte"
     },
     {
         "level": 4.0,
@@ -249,7 +141,7 @@
         "answer": "Der Rat: Anleitung oder Empfehlungen",
         "goal_words": "Rat",
         "audio_filename": "line_de_797.mp3",
-        "audio_dir": "Der Rat: Anleitung oder Empfehlungen"
+        "learning_tag": "Substantiv – Ideen und Konzepte"
     },
     {
         "level": 4.0,
@@ -267,7 +159,7 @@
         "answer": "Der Wert beim Aufsteigen",
         "goal_words": "Wert",
         "audio_filename": "line_de_880.mp3",
-        "audio_dir": "Der Wert beim Aufsteigen"
+        "learning_tag": "Substantiv – Ideen und Konzepte"
     },
     {
         "level": 4.0,
@@ -285,25 +177,7 @@
         "answer": "Verstecken spielen",
         "goal_words": "spielen",
         "audio_filename": "line5_de_404.mp3",
-        "audio_dir": "Verstecken spielen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "want_dog_food.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 dialogue - advice to a boy",
-        "native_answer": "want",
-        "native_word": "verb - feeling",
-        "tag": "verb - feeling",
-        "prompt": "______",
-        "answer": "wollen",
-        "goal_words": "wollen",
-        "audio_filename": "line5_de_876.mp3",
-        "audio_dir": "wollen"
+        "learning_tag": "Verb - Objekt"
     },
     {
         "level": 4.0,
@@ -321,7 +195,7 @@
         "answer": "Enttäuschung: die Hoffnungen oder Erwartungen nicht erfüllen",
         "goal_words": "Enttäuschung",
         "audio_filename": "line2_de_666.mp3",
-        "audio_dir": "Enttäuschung: die Hoffnungen oder Erwartungen nicht erfüllen"
+        "learning_tag": "Verb - bewerten"
     },
     {
         "level": 4.0,
@@ -339,7 +213,7 @@
         "answer": "auf den Zehenspitzen stehen",
         "goal_words": "stehen",
         "audio_filename": "line_de_243.mp3",
-        "audio_dir": "auf den Zehenspitzen stehen"
+        "learning_tag": "Verb - Bewegung"
     },
     {
         "level": 4.0,
@@ -357,7 +231,7 @@
         "answer": "seine Gedanken beunruhigen",
         "goal_words": "beunruhigen",
         "audio_filename": "line4_de_526.mp3",
-        "audio_dir": "seine Gedanken beunruhigen"
+        "learning_tag": "Verb - Wirkung"
     },
     {
         "level": 4.0,
@@ -375,7 +249,7 @@
         "answer": "Respekt",
         "goal_words": "Respekt",
         "audio_filename": "line4_de_375.mp3",
-        "audio_dir": "Respekt"
+        "learning_tag": "Verb - bewerten"
     },
     {
         "level": 4.0,
@@ -393,6 +267,6 @@
         "answer": "helfen",
         "goal_words": "helfen",
         "audio_filename": "line3_de_375.mp3",
-        "audio_dir": "helfen"
+        "learning_tag": "Verb - interaktiv"
     }
 ]

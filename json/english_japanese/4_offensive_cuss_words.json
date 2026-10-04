@@ -11,11 +11,11 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ (Kuso) – (literally \"shit\", used for frustration)",
+        "prompt": "くそ (Kuso) – (literally \"shit\", used for frustration)",
         "answer": "くそ (Kuso) – (literally \"shit\", used for frustration)",
         "goal_words": "くそ",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "悪口を言う"
     },
     {
         "level": 4.0,
@@ -29,11 +29,11 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ (Baka) – (literally \"fool\" or \"idiot\")",
+        "prompt": "バカ (Baka) – (literally \"fool\" or \"idiot\")",
         "answer": "バカ (Baka) – (literally \"fool\" or \"idiot\")",
         "goal_words": "バカ",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "悪口を言う"
     },
     {
         "level": 4.0,
@@ -47,11 +47,11 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ (Aho) – (similar to \"idiot\", common in Kansai dialect)",
+        "prompt": "アホ (Aho) – (similar to \"idiot\", common in Kansai dialect)",
         "answer": "アホ (Aho) – (similar to \"idiot\", common in Kansai dialect)",
         "goal_words": "アホ",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "悪口を言う"
     },
     {
         "level": 4.0,
@@ -65,11 +65,11 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ (Shine) – (literally \"die\", very offensive)",
+        "prompt": "死ね (Shine) – (literally \"die\", very offensive)",
         "answer": "死ね (Shine) – (literally \"die\", very offensive)",
         "goal_words": "死ね",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "悪口を言う"
     },
     {
         "level": 4.0,
@@ -83,11 +83,11 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ (Baka yarou) – (very offensive, \"you idiot\" or \"asshole\")",
+        "prompt": "馬鹿野郎 (Baka yarou) – (very offensive, \"you idiot\" or \"asshole\")",
         "answer": "馬鹿野郎 (Baka yarou) – (very offensive, \"you idiot\" or \"asshole\")",
         "goal_words": "馬鹿野郎",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "悪口を言う"
     },
     {
         "level": 4.0,
@@ -101,10 +101,10 @@
         "native_answer": "NA",
         "native_word": "cuss",
         "tag": "cuss",
-        "prompt": "______ (Kutabare) – (literally \"drop dead\", very offensive)",
+        "prompt": "くたばれ (Kutabare) – (literally \"drop dead\", very offensive)",
         "answer": "くたばれ (Kutabare) – (literally \"drop dead\", very offensive)",
         "goal_words": "くたばれ",
         "audio_filename": "",
-        "audio_dir": ""
+        "learning_tag": "悪口を言う"
     }
 ]

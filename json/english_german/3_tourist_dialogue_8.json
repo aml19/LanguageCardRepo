@@ -15,7 +15,7 @@
         "answer": "Rezeptionist / Rezeptionistin",
         "goal_words": "Rezeptionist / Rezeptionistin",
         "audio_filename": "line4_de_378.mp3",
-        "audio_dir": "Rezeptionist / Rezeptionistin"
+        "learning_tag": "Substantiv"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "Welche Tageszeit ist es? Der Nachmittag",
         "goal_words": "Nachmittag",
         "audio_filename": "line5_de_522.mp3",
-        "audio_dir": "Welche Tageszeit ist es? Der Nachmittag"
+        "learning_tag": "Ding"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "Reservierung",
         "goal_words": "Reservierung",
         "audio_filename": "line4_de_374.mp3",
-        "audio_dir": "Reservierung"
+        "learning_tag": "Substantiv"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "Name",
         "goal_words": "Name",
         "audio_filename": "line4_de_249.mp3",
-        "audio_dir": "Name"
+        "learning_tag": "Substantiv"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "Das leere Zimmer",
         "goal_words": "Zimmer",
         "audio_filename": "line_de_534.mp3",
-        "audio_dir": "Das leere Zimmer"
+        "learning_tag": "Substantiv"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "die Nacht",
         "goal_words": "die Nacht",
         "audio_filename": "line2_de_88.mp3",
-        "audio_dir": "die Nacht"
+        "learning_tag": "Zeit"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "Ausweis",
         "goal_words": "Ausweis",
         "audio_filename": "line_de_269.mp3",
-        "audio_dir": "Ausweis"
+        "learning_tag": "Substantiv"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "Kreditkarte",
         "goal_words": "Kreditkarte",
         "audio_filename": "line4_de_48.mp3",
-        "audio_dir": "Kreditkarte"
+        "learning_tag": "Substantiv"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "Der Boden",
         "goal_words": "Der Boden",
         "audio_filename": "line_de_656.mp3",
-        "audio_dir": "Der Boden"
+        "learning_tag": "Substantiv - in einem Haus"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "Schlüsselkarte",
         "goal_words": "Schlüsselkarte",
         "audio_filename": "line4_de_474.mp3",
-        "audio_dir": "Schlüsselkarte"
+        "learning_tag": "Substantiv"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "das Frühstück",
         "goal_words": "das Frühstück",
         "audio_filename": "line_de_488.mp3",
-        "audio_dir": "das Frühstück"
+        "learning_tag": "Küche"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "Das Esszimmer",
         "goal_words": "Das Esszimmer",
         "audio_filename": "line_de_484.mp3",
-        "audio_dir": "Das Esszimmer"
+        "learning_tag": "Substantiv - in einem Haus"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "WLAN",
         "goal_words": "WLAN",
         "audio_filename": "line5_de_862.mp3",
-        "audio_dir": "WLAN"
+        "learning_tag": "Substantiv"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "Netzwerk",
         "goal_words": "Netzwerk",
         "audio_filename": "line4_de_261.mp3",
-        "audio_dir": "Netzwerk"
+        "learning_tag": "Substantiv"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "Passwort",
         "goal_words": "Passwort",
         "audio_filename": "line4_de_312.mp3",
-        "audio_dir": "Passwort"
+        "learning_tag": "Substantiv"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "Bleiben",
         "goal_words": "Bleiben",
         "audio_filename": "line_de_386.mp3",
-        "audio_dir": "Bleiben"
+        "learning_tag": "Verb - Bewegung"
     },
     {
         "level": 3.0,
@@ -303,6 +303,6 @@
         "answer": "die Sekunde",
         "goal_words": "die Sekunde",
         "audio_filename": "line2_de_139.mp3",
-        "audio_dir": "die Sekunde"
+        "learning_tag": "Zeit"
     }
 ]

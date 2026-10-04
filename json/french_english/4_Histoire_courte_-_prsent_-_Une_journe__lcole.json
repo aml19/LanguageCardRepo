@@ -1,42 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "fun_party.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "fête amusante",
-        "native_word": "adjectif - Créer de l'émotion",
-        "tag": "adjectif - Créer de l'émotion",
-        "prompt": "______ party",
-        "answer": "fun party",
-        "goal_words": "fun",
-        "audio_filename": "line_en_939.mp3",
-        "audio_dir": "fun party"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "hard_cheese.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "fromage dur",
-        "native_word": "adjectif - qualité",
-        "tag": "adjectif - qualité",
-        "prompt": "______ cheese",
-        "answer": "hard cheese",
-        "goal_words": "hard",
-        "audio_filename": "line_en_1048.mp3",
-        "audio_dir": "hard cheese"
-    },
-    {
-        "level": 4.0,
         "image_filename": "favorite.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -51,7 +15,7 @@
         "answer": "donuts are my favorite food",
         "goal_words": "favorite",
         "audio_filename": "line_en_719.mp3",
-        "audio_dir": "donuts are my favorite food"
+        "learning_tag": "adjective - judgement"
     },
     {
         "level": 4.0,
@@ -69,7 +33,7 @@
         "answer": "six slices in a whole pizza",
         "goal_words": "whole",
         "audio_filename": "line3_en_755.mp3",
-        "audio_dir": "six slices in a whole pizza"
+        "learning_tag": "adjective - size"
     },
     {
         "level": 4.0,
@@ -87,7 +51,7 @@
         "answer": "there is more money on the right",
         "goal_words": "more",
         "audio_filename": "line4_en_64.mp3",
-        "audio_dir": "there is more money on the right"
+        "learning_tag": "adjective - amount"
     },
     {
         "level": 4.0,
@@ -105,25 +69,7 @@
         "answer": "walk carefully when you are old",
         "goal_words": "carefully",
         "audio_filename": "line4_en_672.mp3",
-        "audio_dir": "walk carefully when you are old"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "about.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "livres sur beaucoup de choses",
-        "native_word": "adverbe - Adverbe conjonctionnel",
-        "tag": "adverbe - Adverbe conjonctionnel",
-        "prompt": "books ______ many things",
-        "answer": "books about many things",
-        "goal_words": "about",
-        "audio_filename": "line_en_319.mp3",
-        "audio_dir": "books about many things"
+        "learning_tag": "adverb -  Manner"
     },
     {
         "level": 4.0,
@@ -141,7 +87,7 @@
         "answer": "putting the pieces together",
         "goal_words": "together",
         "audio_filename": "line3_en_210.mp3",
-        "audio_dir": "putting the pieces together"
+        "learning_tag": "adverb -  Place"
     },
     {
         "level": 4.0,
@@ -159,25 +105,7 @@
         "answer": "shoulder",
         "goal_words": "shoulder",
         "audio_filename": "line3_en_722.mp3",
-        "audio_dir": "shoulder"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "white_clouds.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "nuages blancs",
-        "native_word": "couleurs",
-        "tag": "couleurs",
-        "prompt": "______ clouds",
-        "answer": "white clouds",
-        "goal_words": "white",
-        "audio_filename": "line5_en_93.mp3",
-        "audio_dir": "white clouds"
+        "learning_tag": "body parts"
     },
     {
         "level": 4.0,
@@ -195,61 +123,7 @@
         "answer": "ring",
         "goal_words": "ring",
         "audio_filename": "line3_en_296.mp3",
-        "audio_dir": "ring"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "sun.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "soleil",
-        "native_word": "choses quotidiennes",
-        "tag": "choses quotidiennes",
-        "prompt": "______",
-        "answer": "sun",
-        "goal_words": "sun",
-        "audio_filename": "line3_en_902.mp3",
-        "audio_dir": "sun"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "animals.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "Un animal",
-        "native_word": "Nom",
-        "tag": "Nom",
-        "prompt": "______",
-        "answer": "Animal",
-        "goal_words": "Animal",
-        "audio_filename": "line_en_163.mp3",
-        "audio_dir": "Animal"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "doctor.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "Un docteur",
-        "native_word": "Nom",
-        "tag": "Nom",
-        "prompt": "______",
-        "answer": "doctor",
-        "goal_words": "doctor",
-        "audio_filename": "line_en_680.mp3",
-        "audio_dir": "doctor"
+        "learning_tag": "everyday things"
     },
     {
         "level": 4.0,
@@ -267,7 +141,7 @@
         "answer": "hurry",
         "goal_words": "hurry",
         "audio_filename": "line_en_1496.mp3",
-        "audio_dir": "hurry"
+        "learning_tag": "noun - Actions"
     },
     {
         "level": 4.0,
@@ -285,25 +159,7 @@
         "answer": "Note",
         "goal_words": "Note",
         "audio_filename": "line2_en_718.mp3",
-        "audio_dir": "Note"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "school.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "Une école",
-        "native_word": "Nom",
-        "tag": "Nom",
-        "prompt": "______",
-        "answer": "school",
-        "goal_words": "school",
-        "audio_filename": "line3_en_385.mp3",
-        "audio_dir": "school"
+        "learning_tag": "noun - Everyday Objects"
     },
     {
         "level": 4.0,
@@ -321,25 +177,7 @@
         "answer": "backpack",
         "goal_words": "backpack",
         "audio_filename": "line_en_232.mp3",
-        "audio_dir": "backpack"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "Un ami",
-        "native_word": "Nom",
-        "tag": "Nom",
-        "prompt": "______",
-        "answer": "friend",
-        "goal_words": "friend",
-        "audio_filename": "line_en_931.mp3",
-        "audio_dir": "friend"
+        "learning_tag": "noun - Clothing & Accessories"
     },
     {
         "level": 4.0,
@@ -357,7 +195,7 @@
         "answer": "entrance",
         "goal_words": "entrance",
         "audio_filename": "line_en_803.mp3",
-        "audio_dir": "entrance"
+        "learning_tag": "noun - Buildings & Places"
     },
     {
         "level": 4.0,
@@ -375,7 +213,7 @@
         "answer": "bell",
         "goal_words": "bell",
         "audio_filename": "line_en_284.mp3",
-        "audio_dir": "bell"
+        "learning_tag": "noun - Everyday Objects"
     },
     {
         "level": 4.0,
@@ -393,7 +231,7 @@
         "answer": "classroom",
         "goal_words": "classroom",
         "audio_filename": "line_en_499.mp3",
-        "audio_dir": "classroom"
+        "learning_tag": "noun - Buildings & Places"
     },
     {
         "level": 4.0,
@@ -411,7 +249,7 @@
         "answer": "teacher",
         "goal_words": "teacher",
         "audio_filename": "line3_en_964.mp3",
-        "audio_dir": "teacher"
+        "learning_tag": "noun - People & Roles"
     },
     {
         "level": 4.0,
@@ -429,7 +267,7 @@
         "answer": "whiteboard",
         "goal_words": "whiteboard",
         "audio_filename": "line5_en_94.mp3",
-        "audio_dir": "whiteboard"
+        "learning_tag": "noun - Everyday Objects"
     },
     {
         "level": 4.0,
@@ -447,7 +285,7 @@
         "answer": "notebook",
         "goal_words": "notebook",
         "audio_filename": "line2_en_720.mp3",
-        "audio_dir": "notebook"
+        "learning_tag": "noun - Everyday Objects"
     },
     {
         "level": 4.0,
@@ -465,7 +303,7 @@
         "answer": "teach a lesson",
         "goal_words": "lesson",
         "audio_filename": "line3_en_961.mp3",
-        "audio_dir": "teach a lesson"
+        "learning_tag": "noun - Activities"
     },
     {
         "level": 4.0,
@@ -483,7 +321,7 @@
         "answer": "dog is her pet",
         "goal_words": "pet",
         "audio_filename": "line_en_685.mp3",
-        "audio_dir": "dog is her pet"
+        "learning_tag": "noun - Animals"
     },
     {
         "level": 4.0,
@@ -501,7 +339,7 @@
         "answer": "recess",
         "goal_words": "recess",
         "audio_filename": "line3_en_244.mp3",
-        "audio_dir": "recess"
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
@@ -519,7 +357,7 @@
         "answer": "swing",
         "goal_words": "swing",
         "audio_filename": "line3_en_932.mp3",
-        "audio_dir": "swing"
+        "learning_tag": "noun - Everyday Objects"
     },
     {
         "level": 4.0,
@@ -537,7 +375,7 @@
         "answer": "snack",
         "goal_words": "snack",
         "audio_filename": "line3_en_781.mp3",
-        "audio_dir": "snack"
+        "learning_tag": "noun - Food & Drink"
     },
     {
         "level": 4.0,
@@ -555,7 +393,7 @@
         "answer": "what time of day is it? afternoon",
         "goal_words": "afternoon",
         "audio_filename": "line5_en_67.mp3",
-        "audio_dir": "what time of day is it? afternoon"
+        "learning_tag": "noun - Time & Measurement"
     },
     {
         "level": 4.0,
@@ -573,7 +411,7 @@
         "answer": "math",
         "goal_words": "math",
         "audio_filename": "line2_en_598.mp3",
-        "audio_dir": "math"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -591,7 +429,7 @@
         "answer": "trying to solve a problem",
         "goal_words": "problem",
         "audio_filename": "line4_en_598.mp3",
-        "audio_dir": "trying to solve a problem"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -609,7 +447,7 @@
         "answer": "chalkboard",
         "goal_words": "chalkboard",
         "audio_filename": "line_en_464.mp3",
-        "audio_dir": "chalkboard"
+        "learning_tag": "noun - Everyday Objects"
     },
     {
         "level": 4.0,
@@ -627,7 +465,7 @@
         "answer": "they are in the same class.  They are classmates",
         "goal_words": "classmate",
         "audio_filename": "line4_en_137.mp3",
-        "audio_dir": "they are in the same class.  They are classmates"
+        "learning_tag": "noun - People & Roles"
     },
     {
         "level": 4.0,
@@ -645,12 +483,12 @@
         "answer": "doing a cheer",
         "goal_words": "cheer",
         "audio_filename": "line_en_687.mp3",
-        "audio_dir": "doing a cheer"
+        "learning_tag": "noun - Sound & Music"
     },
     {
         "level": 4.0,
         "image_filename": "home.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "french",
@@ -659,29 +497,11 @@
         "native_answer": "Pas juste une maison, mais un foyer",
         "native_word": "Nom",
         "tag": "Nom",
-        "prompt": "not just a house, but a ______",
+        "prompt": "not just a house, but a home",
         "answer": "not just a house, but a home",
         "goal_words": "home",
         "audio_filename": "line2_en_712.mp3",
-        "audio_dir": "not just a house, but a home"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "jour",
-        "native_word": "temps",
-        "tag": "temps",
-        "prompt": "______",
-        "answer": "day",
-        "goal_words": "day",
-        "audio_filename": "line_en_615.mp3",
-        "audio_dir": "day"
+        "learning_tag": "noun - Buildings & Places"
     },
     {
         "level": 4.0,
@@ -699,43 +519,7 @@
         "answer": "Dream",
         "goal_words": "Dream",
         "audio_filename": "line_en_729.mp3",
-        "audio_dir": "Dream"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "rire",
-        "native_word": "verbe - soi",
-        "tag": "verbe - soi",
-        "prompt": "______",
-        "answer": "laugh",
-        "goal_words": "laugh",
-        "audio_filename": "line2_en_484.mp3",
-        "audio_dir": "laugh"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "listen_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "Écouter",
-        "native_word": "verbe - perception",
-        "tag": "verbe - perception",
-        "prompt": "______",
-        "answer": "Listen",
-        "goal_words": "Listen",
-        "audio_filename": "line2_en_531.mp3",
-        "audio_dir": "Listen"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -753,7 +537,7 @@
         "answer": "Park",
         "goal_words": "Park",
         "audio_filename": "line3_en_71.mp3",
-        "audio_dir": "Park"
+        "learning_tag": "verb - object"
     },
     {
         "level": 4.0,
@@ -771,205 +555,7 @@
         "answer": "Plan",
         "goal_words": "Plan",
         "audio_filename": "line3_en_129.mp3",
-        "audio_dir": "Plan"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "jouer du piano",
-        "native_word": "verbe - interactif",
-        "tag": "verbe - interactif",
-        "prompt": "______ piano",
-        "answer": "play piano",
-        "goal_words": "play",
-        "audio_filename": "line3_en_137.mp3",
-        "audio_dir": "play piano"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "see.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "Voir",
-        "native_word": "verbe - perception",
-        "tag": "verbe - perception",
-        "prompt": "______",
-        "answer": "See",
-        "goal_words": "See",
-        "audio_filename": "line3_en_401.mp3",
-        "audio_dir": "See"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "prendre une friandise",
-        "native_word": "verbe - objet",
-        "tag": "verbe - objet",
-        "prompt": "______ a treat",
-        "answer": "take a treat",
-        "goal_words": "take",
-        "audio_filename": "line3_en_945.mp3",
-        "audio_dir": "take a treat"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "parler",
-        "native_word": "verbe - communication",
-        "tag": "verbe - communication",
-        "prompt": "______",
-        "answer": "talk",
-        "goal_words": "talk",
-        "audio_filename": "line3_en_950.mp3",
-        "audio_dir": "talk"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "marcher",
-        "native_word": "verbe - mouvement",
-        "tag": "verbe - mouvement",
-        "prompt": "______",
-        "answer": "walk",
-        "goal_words": "walk",
-        "audio_filename": "line4_en_670.mp3",
-        "audio_dir": "walk"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "want_dog_food.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "vouloir",
-        "native_word": "verbe - sentiment",
-        "tag": "verbe - sentiment",
-        "prompt": "______",
-        "answer": "want",
-        "goal_words": "want",
-        "audio_filename": "line4_en_679.mp3",
-        "audio_dir": "want"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "write_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "écrire",
-        "native_word": "verbe - objet",
-        "tag": "verbe - objet",
-        "prompt": "______",
-        "answer": "write",
-        "goal_words": "write",
-        "audio_filename": "line5_en_171.mp3",
-        "audio_dir": "write"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "prendre une friandise",
-        "native_word": "verbe - objet",
-        "tag": "verbe - objet",
-        "prompt": "______ a treat",
-        "answer": "take a treat",
-        "goal_words": "take",
-        "audio_filename": "line3_en_945.mp3",
-        "audio_dir": "take a treat"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "jouer du piano",
-        "native_word": "verbe - interactif",
-        "tag": "verbe - interactif",
-        "prompt": "______ piano",
-        "answer": "play piano",
-        "goal_words": "play",
-        "audio_filename": "line3_en_137.mp3",
-        "audio_dir": "play piano"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "sentir l'eau",
-        "native_word": "verbe - perception",
-        "tag": "verbe - perception",
-        "prompt": "______ the water",
-        "answer": "feel the water",
-        "goal_words": "feel",
-        "audio_filename": "line_en_857.mp3",
-        "audio_dir": "feel the water"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "walk.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "marcher",
-        "native_word": "verbe - mouvement",
-        "tag": "verbe - mouvement",
-        "prompt": "______",
-        "answer": "walk",
-        "goal_words": "walk",
-        "audio_filename": "line4_en_670.mp3",
-        "audio_dir": "walk"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -987,7 +573,7 @@
         "answer": "sling a backpack over your shoulder",
         "goal_words": "sling",
         "audio_filename": "line3_en_768.mp3",
-        "audio_dir": "sling a backpack over your shoulder"
+        "learning_tag": "verb - object"
     },
     {
         "level": 4.0,
@@ -1005,7 +591,7 @@
         "answer": "smile",
         "goal_words": "smile",
         "audio_filename": "line3_en_779.mp3",
-        "audio_dir": "smile"
+        "learning_tag": "verb - self"
     },
     {
         "level": 4.0,
@@ -1023,7 +609,7 @@
         "answer": "talk online: chat",
         "goal_words": "chat",
         "audio_filename": "line3_en_954.mp3",
-        "audio_dir": "talk online: chat"
+        "learning_tag": "verb - communication"
     },
     {
         "level": 4.0,
@@ -1041,7 +627,7 @@
         "answer": "ring the bell",
         "goal_words": "ring",
         "audio_filename": "line3_en_297.mp3",
-        "audio_dir": "ring the bell"
+        "learning_tag": "verb - object"
     },
     {
         "level": 4.0,
@@ -1059,25 +645,7 @@
         "answer": "he needs to hurry",
         "goal_words": "hurry",
         "audio_filename": "line_en_1231.mp3",
-        "audio_dir": "he needs to hurry"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "write.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "écrire",
-        "native_word": "verbe - objet",
-        "tag": "verbe - objet",
-        "prompt": "______",
-        "answer": "write",
-        "goal_words": "write",
-        "audio_filename": "line5_en_171.mp3",
-        "audio_dir": "write"
+        "learning_tag": "verb - self"
     },
     {
         "level": 4.0,
@@ -1095,7 +663,7 @@
         "answer": "note: record of facts, topics, or thoughts",
         "goal_words": "note",
         "audio_filename": "line2_en_719.mp3",
-        "audio_dir": "note: record of facts, topics, or thoughts"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -1113,7 +681,7 @@
         "answer": "laugh",
         "goal_words": "laugh",
         "audio_filename": "line2_en_484.mp3",
-        "audio_dir": "laugh"
+        "learning_tag": "verb - self"
     },
     {
         "level": 4.0,
@@ -1131,7 +699,7 @@
         "answer": "share information",
         "goal_words": "share",
         "audio_filename": "line3_en_422.mp3",
-        "audio_dir": "share information"
+        "learning_tag": "verb - interactive"
     },
     {
         "level": 4.0,
@@ -1149,7 +717,7 @@
         "answer": "small plant will grow",
         "goal_words": "grow",
         "audio_filename": "line3_en_773.mp3",
-        "audio_dir": "small plant will grow"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
@@ -1167,7 +735,7 @@
         "answer": "dream while sleeping",
         "goal_words": "dream",
         "audio_filename": "line_en_732.mp3",
-        "audio_dir": "dream while sleeping"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -1185,7 +753,7 @@
         "answer": "small plant will grow and become a tree",
         "goal_words": "become",
         "audio_filename": "line3_en_774.mp3",
-        "audio_dir": "small plant will grow and become a tree"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
@@ -1203,7 +771,7 @@
         "answer": "solve a problem",
         "goal_words": "solve",
         "audio_filename": "line3_en_799.mp3",
-        "audio_dir": "solve a problem"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -1221,7 +789,7 @@
         "answer": "cheer",
         "goal_words": "cheer",
         "audio_filename": "line_en_475.mp3",
-        "audio_dir": "cheer"
+        "learning_tag": "verb - communication"
     },
     {
         "level": 4.0,
@@ -1239,25 +807,7 @@
         "answer": "praise: express admiration",
         "goal_words": "praise",
         "audio_filename": "line3_en_164.mp3",
-        "audio_dir": "praise: express admiration"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "4 Histoire courte - présent - Une journée à l'école",
-        "native_answer": "faire",
-        "native_word": "verbe - objet",
-        "tag": "verbe - objet",
-        "prompt": "______",
-        "answer": "make",
-        "goal_words": "make",
-        "audio_filename": "line2_en_575.mp3",
-        "audio_dir": "make"
+        "learning_tag": "verb - communication"
     },
     {
         "level": 4.0,
@@ -1275,6 +825,6 @@
         "answer": "look forward",
         "goal_words": "look forward",
         "audio_filename": "line2_en_546.mp3",
-        "audio_dir": "look forward"
+        "learning_tag": "verb - feeling"
     }
 ]

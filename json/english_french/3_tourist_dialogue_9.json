@@ -15,7 +15,7 @@
         "answer": "bagages",
         "goal_words": "bagages",
         "audio_filename": "line_fr_380.mp3",
-        "audio_dir": "bagages"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "retrait des bagages",
         "goal_words": "retrait des bagages",
         "audio_filename": "line4_fr_863.mp3",
-        "audio_dir": "retrait des bagages"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "vol",
         "goal_words": "vol",
         "audio_filename": "line5_fr_728.mp3",
-        "audio_dir": "vol"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "écran cassé",
         "goal_words": "écran",
         "audio_filename": "line_fr_855.mp3",
-        "audio_dir": "écran cassé"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "Un signe",
         "goal_words": "signe",
         "audio_filename": "line5_fr_602.mp3",
-        "audio_dir": "Un signe"
+        "learning_tag": "Nom"
     },
     {
         "level": 3.0,
@@ -105,25 +105,25 @@
         "answer": "douane",
         "goal_words": "douane",
         "audio_filename": "line_fr_833.mp3",
-        "audio_dir": "douane"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
         "image_filename": "area.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "french",
         "native_group": "3 tourist dialogue 9",
-        "native_answer": "Area: A specific region or space.\nExample: The picnic area was shaded by tall trees.\n\n",
+        "native_answer": "Area: A specific region or space. Example: The picnic area was shaded by tall trees.",
         "native_word": "noun - Places",
         "tag": "noun - Places",
-        "prompt": "Zone : Une région ou un espace spécifique.\nExemple : La ______ de pique-nique était ombragée par des arbres hauts.",
+        "prompt": "Zone : Une région ou un espace spécifique.\nExemple : La zone de pique-nique était ombragée par des arbres hauts.",
         "answer": "Zone : Une région ou un espace spécifique.\nExemple : La zone de pique-nique était ombragée par des arbres hauts.",
         "goal_words": "zone",
         "audio_filename": "line5_fr_892.mp3",
-        "audio_dir": "Zone : Une région ou un espace spécifique.\nExemple : La zone de pique-nique était ombragée par des arbres hauts."
+        "learning_tag": "nom - Lieux"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "centre-ville",
         "goal_words": "centre-ville",
         "audio_filename": "line_fr_529.mp3",
-        "audio_dir": "centre-ville"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "Le train",
         "goal_words": "Le train",
         "audio_filename": "line3_fr_844.mp3",
-        "audio_dir": "Le train"
+        "learning_tag": "nom - ville"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "niveau",
         "goal_words": "niveau",
         "audio_filename": "line4_fr_119.mp3",
-        "audio_dir": "niveau"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "machine",
         "goal_words": "machine",
         "audio_filename": "line3_fr_971.mp3",
-        "audio_dir": "machine"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "voyager",
         "goal_words": "voyager",
         "audio_filename": "line5_fr_876.mp3",
-        "audio_dir": "voyager"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "aéroport",
         "goal_words": "aéroport",
         "audio_filename": "line_fr_231.mp3",
-        "audio_dir": "aéroport"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "Regarder",
         "goal_words": "Regarder",
         "audio_filename": "line4_fr_823.mp3",
-        "audio_dir": "Regarder"
+        "learning_tag": "verbe - perception"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "(les oies) suivre",
         "goal_words": "suivre",
         "audio_filename": "line_fr_50.mp3",
-        "audio_dir": "(les oies) suivre"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "Attraper une balle de baseball",
         "goal_words": "Attraper",
         "audio_filename": "line_fr_333.mp3",
-        "audio_dir": "Attraper une balle de baseball"
+        "learning_tag": "verbe - Objet"
     },
     {
         "level": 3.0,
@@ -299,11 +299,11 @@
         "native_answer": "Next: Indicates the following action.\nFirst, mix the ingredients. Next, bake the cake.\nWe’ll visit the museum next.",
         "native_word": "conjunction",
         "tag": "conjunction",
-        "prompt": "______ : Indique l’action suivante.\nD’abord, mélange les ingrédients. ______, fais cuire le gâteau.\nNous visiterons le musée ensuite.",
+        "prompt": "Ensuite : Indique l’action suivante.\nD’abord, mélange les ingrédients. Ensuite, fais cuire le gâteau.\nNous visiterons le musée ensuite.",
         "answer": "Ensuite : Indique l’action suivante.\nD’abord, mélange les ingrédients. Ensuite, fais cuire le gâteau.\nNous visiterons le musée ensuite.",
         "goal_words": "Ensuite",
         "audio_filename": "line2_fr_131.mp3",
-        "audio_dir": "Ensuite : Indique l’action suivante.\nD’abord, mélange les ingrédients. Ensuite, fais cuire le gâteau.\nNous visiterons le musée ensuite."
+        "learning_tag": "conjonction"
     },
     {
         "level": 3.0,
@@ -321,11 +321,11 @@
         "answer": "lent - plus lent, rapide - plus rapide",
         "goal_words": "plus rapide",
         "audio_filename": "line3_fr_864.mp3",
-        "audio_dir": "lent - plus lent, rapide - plus rapide"
+        "learning_tag": "adjectif"
     },
     {
         "level": 3.0,
-        "image_filename": "",
+        "image_filename": "every.jpg",
         "card_type": "reading",
         "identifier": "ID",
         "info": null,
@@ -335,11 +335,11 @@
         "native_answer": "Every: Every child deserves an education.",
         "native_word": "General Quantity",
         "tag": "General Quantity",
-        "prompt": "______ : ______ enfant mérite une éducation.",
+        "prompt": "Chaque : Chaque enfant mérite une éducation.",
         "answer": "Chaque : Chaque enfant mérite une éducation.",
         "goal_words": "Chaque",
         "audio_filename": "line_fr_556.mp3",
-        "audio_dir": "Chaque : Chaque enfant mérite une éducation."
+        "learning_tag": "Quantité générale"
     },
     {
         "level": 3.0,
@@ -357,6 +357,6 @@
         "answer": "sûr",
         "goal_words": "sûr",
         "audio_filename": "line5_fr_106.mp3",
-        "audio_dir": "sûr"
+        "learning_tag": "adjectif - état et qualité"
     }
 ]

@@ -15,7 +15,7 @@
         "answer": "receptionist",
         "goal_words": "receptionist",
         "audio_filename": "line3_en_243.mp3",
-        "audio_dir": "receptionist"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "what time of day is it? afternoon",
         "goal_words": "afternoon",
         "audio_filename": "line5_en_67.mp3",
-        "audio_dir": "what time of day is it? afternoon"
+        "learning_tag": "noun - Time & Measurement"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "reservation",
         "goal_words": "reservation",
         "audio_filename": "line3_en_270.mp3",
-        "audio_dir": "reservation"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "name",
         "goal_words": "name",
         "audio_filename": "line2_en_668.mp3",
-        "audio_dir": "name"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "empty room",
         "goal_words": "room",
         "audio_filename": "line_en_792.mp3",
-        "audio_dir": "empty room"
+        "learning_tag": "noun - Buildings & Places"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "night",
         "goal_words": "night",
         "audio_filename": "line2_en_690.mp3",
-        "audio_dir": "night"
+        "learning_tag": "time"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "ID",
         "goal_words": "ID",
         "audio_filename": "line2_en_181.mp3",
-        "audio_dir": "ID"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "credit card",
         "goal_words": "credit card",
         "audio_filename": "line_en_578.mp3",
-        "audio_dir": "credit card"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "floor",
         "goal_words": "floor",
         "audio_filename": "line_en_895.mp3",
-        "audio_dir": "floor"
+        "learning_tag": "noun - in a house"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "key card",
         "goal_words": "key card",
         "audio_filename": "line2_en_460.mp3",
-        "audio_dir": "key card"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "breakfast",
         "goal_words": "breakfast",
         "audio_filename": "line_en_347.mp3",
-        "audio_dir": "breakfast"
+        "learning_tag": "kitchen"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "Dining room",
         "goal_words": "Dining room",
         "audio_filename": "line_en_656.mp3",
-        "audio_dir": "Dining room"
+        "learning_tag": "noun - in a house"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "Wi-Fi",
         "goal_words": "Wi-Fi",
         "audio_filename": "line5_en_106.mp3",
-        "audio_dir": "Wi-Fi"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "network",
         "goal_words": "network",
         "audio_filename": "line2_en_684.mp3",
-        "audio_dir": "network"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "password",
         "goal_words": "password",
         "audio_filename": "line3_en_80.mp3",
-        "audio_dir": "password"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "stay",
         "goal_words": "stay",
         "audio_filename": "line3_en_851.mp3",
-        "audio_dir": "stay"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 3.0,
@@ -303,6 +303,6 @@
         "answer": "second",
         "goal_words": "second",
         "audio_filename": "line3_en_397.mp3",
-        "audio_dir": "second"
+        "learning_tag": "time"
     }
 ]

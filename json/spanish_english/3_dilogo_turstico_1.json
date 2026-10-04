@@ -8,32 +8,14 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "3 diálogo turístico 1",
-        "native_answer": "turista",
-        "native_word": "sustantivo",
-        "tag": "sustantivo",
+        "native_answer": "turistas",
+        "native_word": "pueblo",
+        "tag": "pueblo",
         "prompt": "______",
-        "answer": "tourist",
-        "goal_words": "tourist",
-        "audio_filename": "line4_en_577.mp3",
-        "audio_dir": "tourist"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "farmersmarket.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "3 diálogo turístico 1",
-        "native_answer": "el mercado del agricultor vende productos locales",
-        "native_word": "adjetivo - rasgos físicos",
-        "tag": "adjetivo - rasgos físicos",
-        "prompt": "farmer's market sells ______ produce",
-        "answer": "farmer's market sells local produce",
-        "goal_words": "local",
-        "audio_filename": "line_en_845.mp3",
-        "audio_dir": "farmer's market sells local produce"
+        "answer": "tourists",
+        "goal_words": "tourists",
+        "audio_filename": "line28aug2026_en_1.mp3",
+        "learning_tag": "the people"
     },
     {
         "level": 3.0,
@@ -44,14 +26,14 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "3 diálogo turístico 1",
-        "native_answer": "cuadra",
+        "native_answer": "una cuadra",
         "native_word": "sustantivo",
         "tag": "sustantivo",
-        "prompt": "______",
-        "answer": "block",
+        "prompt": "(city) ______",
+        "answer": "(city) block",
         "goal_words": "block",
-        "audio_filename": "line_en_306.mp3",
-        "audio_dir": "block"
+        "audio_filename": "line28aug2026_en_2.mp3",
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -69,7 +51,7 @@
         "answer": "Traffic light",
         "goal_words": "Traffic light",
         "audio_filename": "line4_en_581.mp3",
-        "audio_dir": "Traffic light"
+        "learning_tag": "noun - city"
     },
     {
         "level": 3.0,
@@ -87,7 +69,7 @@
         "answer": "Bus",
         "goal_words": "Bus",
         "audio_filename": "line_en_362.mp3",
-        "audio_dir": "Bus"
+        "learning_tag": "noun - city"
     },
     {
         "level": 3.0,
@@ -105,7 +87,7 @@
         "answer": "bus stop",
         "goal_words": "bus stop",
         "audio_filename": "line_en_363.mp3",
-        "audio_dir": "bus stop"
+        "learning_tag": "noun - city"
     },
     {
         "level": 3.0,
@@ -123,7 +105,7 @@
         "answer": "minute",
         "goal_words": "minute",
         "audio_filename": "line2_en_629.mp3",
-        "audio_dir": "minute"
+        "learning_tag": "time"
     },
     {
         "level": 3.0,
@@ -134,14 +116,14 @@
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "3 diálogo turístico 1",
-        "native_answer": "parada",
+        "native_answer": "una parada",
         "native_word": "sustantivo",
         "tag": "sustantivo",
-        "prompt": "______",
-        "answer": "stop",
+        "prompt": "a ______",
+        "answer": "a stop",
         "goal_words": "stop",
-        "audio_filename": "line3_en_869.mp3",
-        "audio_dir": "stop"
+        "audio_filename": "line28aug2026_en_3.mp3",
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -159,7 +141,7 @@
         "answer": "street",
         "goal_words": "street",
         "audio_filename": "line3_en_876.mp3",
-        "audio_dir": "street"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -177,7 +159,7 @@
         "answer": "museum of art",
         "goal_words": "art",
         "audio_filename": "line2_en_662.mp3",
-        "audio_dir": "museum of art"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -195,61 +177,7 @@
         "answer": "to visit a museum",
         "goal_words": "visit",
         "audio_filename": "line4_en_548.mp3",
-        "audio_dir": "to visit a museum"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "help_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "3 diálogo turístico 1",
-        "native_answer": "ayudar",
-        "native_word": "verbo - interactivo",
-        "tag": "verbo - interactivo",
-        "prompt": "______",
-        "answer": "help",
-        "goal_words": "help",
-        "audio_filename": "line_en_1414.mp3",
-        "audio_dir": "help"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "try_surf.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "3 diálogo turístico 1",
-        "native_answer": "intentar surfear",
-        "native_word": "verbo - yo",
-        "tag": "verbo - yo",
-        "prompt": "______ surfing",
-        "answer": "try surfing",
-        "goal_words": "try",
-        "audio_filename": "line4_en_597.mp3",
-        "audio_dir": "try surfing"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "walk.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "3 diálogo turístico 1",
-        "native_answer": "caminar",
-        "native_word": "verbo - movimiento",
-        "tag": "verbo - movimiento",
-        "prompt": "______",
-        "answer": "walk",
-        "goal_words": "walk",
-        "audio_filename": "line4_en_670.mp3",
-        "audio_dir": "walk"
+        "learning_tag": "verb"
     },
     {
         "level": 3.0,
@@ -267,61 +195,7 @@
         "answer": "turn",
         "goal_words": "turn",
         "audio_filename": "line4_en_603.mp3",
-        "audio_dir": "turn"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "see.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "3 diálogo turístico 1",
-        "native_answer": "Ver",
-        "native_word": "verbo - percepción",
-        "tag": "verbo - percepción",
-        "prompt": "______",
-        "answer": "See",
-        "goal_words": "See",
-        "audio_filename": "line3_en_401.mp3",
-        "audio_dir": "See"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "3 diálogo turístico 1",
-        "native_answer": "tomar una golosina",
-        "native_word": "verbo - objeto",
-        "tag": "verbo - objeto",
-        "prompt": "______ a treat",
-        "answer": "take a treat",
-        "goal_words": "take",
-        "audio_filename": "line3_en_945.mp3",
-        "audio_dir": "take a treat"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "come_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "3 diálogo turístico 1",
-        "native_answer": "venir con alguien",
-        "native_word": "verbo - movimiento",
-        "tag": "verbo - movimiento",
-        "prompt": "______ with someone",
-        "answer": "come with someone",
-        "goal_words": "come",
-        "audio_filename": "lineoct_en_137.mp3",
-        "audio_dir": "come with someone"
+        "learning_tag": "verb - Movement"
     },
     {
         "level": 3.0,
@@ -339,7 +213,7 @@
         "answer": "to get off the train",
         "goal_words": "get off",
         "audio_filename": "line4_en_488.mp3",
-        "audio_dir": "to get off the train"
+        "learning_tag": "verb"
     },
     {
         "level": 3.0,
@@ -357,7 +231,7 @@
         "answer": "to thank",
         "goal_words": "thank",
         "audio_filename": "line4_en_543.mp3",
-        "audio_dir": "to thank"
+        "learning_tag": "verb - communication"
     },
     {
         "level": 3.0,
@@ -375,7 +249,7 @@
         "answer": "Enjoy",
         "goal_words": "Enjoy",
         "audio_filename": "line_en_799.mp3",
-        "audio_dir": "Enjoy"
+        "learning_tag": "verb - feeling"
     },
     {
         "level": 3.0,
@@ -393,25 +267,25 @@
         "answer": "near far",
         "goal_words": "far",
         "audio_filename": "line2_en_672.mp3",
-        "audio_dir": "near far"
+        "learning_tag": "opposites - adjective"
     },
     {
         "level": 3.0,
-        "image_filename": "straight.jpg",
+        "image_filename": "gostraight.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
         "learning_language": "english",
         "native_group": "3 diálogo turístico 1",
-        "native_answer": "recto - torcido",
-        "native_word": "adjetivo",
-        "tag": "adjetivo",
-        "prompt": "______ - crooked",
-        "answer": "straight - crooked",
-        "goal_words": "straight",
-        "audio_filename": "line3_en_874.mp3",
-        "audio_dir": "straight - crooked"
+        "native_answer": "seguir recto",
+        "native_word": "verbo - Movimiento",
+        "tag": "verbo - Movimiento",
+        "prompt": "______",
+        "answer": "to go straight",
+        "goal_words": "to go straight",
+        "audio_filename": "line27aug2026_en_364.mp3",
+        "learning_tag": "verb - Movement"
     },
     {
         "level": 3.0,
@@ -429,7 +303,7 @@
         "answer": "left - right",
         "goal_words": "left",
         "audio_filename": "line2_en_497.mp3",
-        "audio_dir": "left - right"
+        "learning_tag": "adjective"
     },
     {
         "level": 3.0,
@@ -447,7 +321,7 @@
         "answer": "central office",
         "goal_words": "central",
         "audio_filename": "line_en_457.mp3",
-        "audio_dir": "central office"
+        "learning_tag": "adjective"
     },
     {
         "level": 3.0,
@@ -465,6 +339,24 @@
         "answer": "right and wrong",
         "goal_words": "right",
         "audio_filename": "line3_en_292.mp3",
-        "audio_dir": "right and wrong"
+        "learning_tag": "adjective -  Judgment"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "farmersmarket.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "3 diálogo turístico 1",
+        "native_answer": "el mercado del agricultor vende productos locales",
+        "native_word": "adjetivo - rasgos físicos",
+        "tag": "adjetivo - rasgos físicos",
+        "prompt": "farmer's market sells ______ produce",
+        "answer": "farmer's market sells local produce",
+        "goal_words": "local",
+        "audio_filename": "line_en_845.mp3",
+        "learning_tag": "adjective - Physical Traits"
     }
 ]

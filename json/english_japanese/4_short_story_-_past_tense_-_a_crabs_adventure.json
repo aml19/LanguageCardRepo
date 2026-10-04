@@ -1,24 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "little.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - a crab's adventure",
-        "native_answer": "big and little kid",
-        "native_word": "adjective - size",
-        "tag": "adjective - size",
-        "prompt": "大きい子と______子",
-        "answer": "大きい子と小さい子",
-        "goal_words": "小さい",
-        "audio_filename": "line2_ja_710.mp3",
-        "audio_dir": "大きい子と小さい子"
-    },
-    {
-        "level": 4.0,
         "image_filename": "sandy.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -33,7 +15,7 @@
         "answer": "砂の足",
         "goal_words": "砂の",
         "audio_filename": "line3_ja_940.mp3",
-        "audio_dir": "砂の足"
+        "learning_tag": "形容詞 - テクスチャ"
     },
     {
         "level": 4.0,
@@ -51,7 +33,7 @@
         "answer": "強力な雷雨",
         "goal_words": "強力な",
         "audio_filename": "line2_ja_923.mp3",
-        "audio_dir": "強力な雷雨"
+        "learning_tag": "形容詞 - 品質"
     },
     {
         "level": 4.0,
@@ -69,7 +51,7 @@
         "answer": "渦巻く",
         "goal_words": "渦巻く",
         "audio_filename": "line3_ja_797.mp3",
-        "audio_dir": "渦巻く"
+        "learning_tag": "形容詞 - 動き"
     },
     {
         "level": 4.0,
@@ -87,7 +69,7 @@
         "answer": "カラフルな模様",
         "goal_words": "カラフルな",
         "audio_filename": "line_ja_548.mp3",
-        "audio_dir": "カラフルな模様"
+        "learning_tag": "形容詞 - 色"
     },
     {
         "level": 4.0,
@@ -105,7 +87,7 @@
         "answer": "怖がる：怖がったり怖がったりする",
         "goal_words": "怖がる",
         "audio_filename": "line3_ja_425.mp3",
-        "audio_dir": "怖がる：怖がったり怖がったりする"
+        "learning_tag": "形容詞 - 感情を感じる"
     },
     {
         "level": 4.0,
@@ -123,7 +105,7 @@
         "answer": "元気にされる：非常に幸せで、活気がある、または高揚した。",
         "goal_words": "高揚した",
         "audio_filename": "line2_ja_357.mp3",
-        "audio_dir": "元気にされる：非常に幸せで、活気がある、または高揚した。"
+        "learning_tag": "形容詞 - 感情を感じる"
     },
     {
         "level": 4.0,
@@ -141,7 +123,7 @@
         "answer": "スリリングなジェットコースターライド",
         "goal_words": "スリリング",
         "audio_filename": "line_ja_725.mp3",
-        "audio_dir": "スリリングなジェットコースターライド"
+        "learning_tag": "形容詞 - 感情を生み出す"
     },
     {
         "level": 4.0,
@@ -159,7 +141,7 @@
         "answer": "大胆で危険なジャンプ",
         "goal_words": "大胆で",
         "audio_filename": "line2_ja_717.mp3",
-        "audio_dir": "大胆で危険なジャンプ"
+        "learning_tag": "形容詞 - 行動"
     },
     {
         "level": 4.0,
@@ -173,11 +155,11 @@
         "native_answer": "once: on one occasion or for one time only.",
         "native_word": "adverb -  Frequency",
         "tag": "adverb -  Frequency",
-        "prompt": "______：1回だけの場合。",
+        "prompt": "一度：1回だけの場合。",
         "answer": "一度：1回だけの場合。",
         "goal_words": "一度",
         "audio_filename": "line2_ja_204.mp3",
-        "audio_dir": "一度：1回だけの場合。"
+        "learning_tag": "副詞 - 頻度"
     },
     {
         "level": 4.0,
@@ -195,7 +177,7 @@
         "answer": "突然、速く、予期せずに落ちる。",
         "goal_words": "突然",
         "audio_filename": "line4_ja_300.mp3",
-        "audio_dir": "突然、速く、予期せずに落ちる。"
+        "learning_tag": "副詞 - 時間"
     },
     {
         "level": 4.0,
@@ -209,11 +191,11 @@
         "native_answer": "eventually",
         "native_word": "adverb -  Time",
         "tag": "adverb -  Time",
-        "prompt": "______",
+        "prompt": "最終的に",
         "answer": "最終的に",
         "goal_words": "最終的に",
         "audio_filename": "line3_ja_618.mp3",
-        "audio_dir": "最終的に"
+        "learning_tag": "副詞 - 時間"
     },
     {
         "level": 4.0,
@@ -231,7 +213,7 @@
         "answer": "両方のプレイヤーがボールを欲しがっています",
         "goal_words": "両方",
         "audio_filename": "line2_ja_254.mp3",
-        "audio_dir": "両方のプレイヤーがボールを欲しがっています"
+        "learning_tag": "副詞 - 接続副詞"
     },
     {
         "level": 4.0,
@@ -245,65 +227,11 @@
         "native_answer": "you can ask for help whenever you need it",
         "native_word": "adverb -  Conjunctional Adverb",
         "tag": "adverb -  Conjunctional Adverb",
-        "prompt": "必要なときは______助けを求めることができます",
+        "prompt": "必要なときはいつでも助けを求めることができます",
         "answer": "必要なときはいつでも助けを求めることができます",
         "goal_words": "いつでも",
         "audio_filename": "line3_ja_410.mp3",
-        "audio_dir": "必要なときはいつでも助けを求めることができます"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "fish.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - a crab's adventure",
-        "native_answer": "fish",
-        "native_word": "animal",
-        "tag": "animal",
-        "prompt": "______",
-        "answer": "魚",
-        "goal_words": "魚",
-        "audio_filename": "line4_ja_906.mp3",
-        "audio_dir": "魚"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "tired.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - a crab's adventure",
-        "native_answer": "tired",
-        "native_word": "emotions",
-        "tag": "emotions",
-        "prompt": "______",
-        "answer": "疲れた",
-        "goal_words": "疲れた",
-        "audio_filename": "line3_ja_898.mp3",
-        "audio_dir": "疲れた"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "happy_kid.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - a crab's adventure",
-        "native_answer": "happy kid",
-        "native_word": "emotions",
-        "tag": "emotions",
-        "prompt": "______子供",
-        "answer": "幸せな子供",
-        "goal_words": "幸せな",
-        "audio_filename": "line2_ja_877.mp3",
-        "audio_dir": "幸せな子供"
+        "learning_tag": "副詞 - 接続副詞"
     },
     {
         "level": 4.0,
@@ -321,7 +249,7 @@
         "answer": "蟹",
         "goal_words": "蟹",
         "audio_filename": "line4_ja_474.mp3",
-        "audio_dir": "蟹"
+        "learning_tag": "名詞 - 動物"
     },
     {
         "level": 4.0,
@@ -339,7 +267,7 @@
         "answer": "砂",
         "goal_words": "砂",
         "audio_filename": "line3_ja_939.mp3",
-        "audio_dir": "砂"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -357,7 +285,7 @@
         "answer": "ウサギの巣穴",
         "goal_words": "巣穴",
         "audio_filename": "line_ja_470.mp3",
-        "audio_dir": "ウサギの巣穴"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -375,7 +303,7 @@
         "answer": "ビーチ",
         "goal_words": "ビーチ",
         "audio_filename": "line_ja_953.mp3",
-        "audio_dir": "ビーチ"
+        "learning_tag": "名詞 - 風景と地形"
     },
     {
         "level": 4.0,
@@ -393,7 +321,7 @@
         "answer": "海岸線：陸地と海が出会う場所",
         "goal_words": "海岸線",
         "audio_filename": "line3_ja_780.mp3",
-        "audio_dir": "海岸線：陸地と海が出会う場所"
+        "learning_tag": "名詞 - 風景と地形"
     },
     {
         "level": 4.0,
@@ -411,7 +339,7 @@
         "answer": "潮だまりはまだ水中にあります",
         "goal_words": "潮",
         "audio_filename": "line3_ja_811.mp3",
-        "audio_dir": "潮だまりはまだ水中にあります"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -429,7 +357,7 @@
         "answer": "カモメ",
         "goal_words": "カモメ",
         "audio_filename": "line_ja_546.mp3",
-        "audio_dir": "カモメ"
+        "learning_tag": "名詞 - 動物"
     },
     {
         "level": 4.0,
@@ -447,7 +375,7 @@
         "answer": "波",
         "goal_words": "波",
         "audio_filename": "line3_ja_755.mp3",
-        "audio_dir": "波"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -465,7 +393,7 @@
         "answer": "海洋：非常に広大な海の領域",
         "goal_words": "海洋",
         "audio_filename": "line3_ja_781.mp3",
-        "audio_dir": "海洋：非常に広大な海の領域"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -483,7 +411,7 @@
         "answer": "速い河川の流れ",
         "goal_words": "流れ",
         "audio_filename": "line4_ja_670.mp3",
-        "audio_dir": "速い河川の流れ"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -497,11 +425,11 @@
         "native_answer": "journey: travel somewhere.",
         "native_word": "noun - Events",
         "tag": "noun - Events",
-        "prompt": "______：どこかへ______すること。",
-        "answer": "旅：どこかへ旅すること。",
-        "goal_words": "旅",
+        "prompt": "______：どこかへ旅すること。",
+        "answer": "旅​：どこかへ旅すること。",
+        "goal_words": "旅​",
         "audio_filename": "line3_ja_551.mp3",
-        "audio_dir": "旅：どこかへ旅すること。"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -515,11 +443,11 @@
         "native_answer": "adventure: an unusual and exciting, typically hazardous, experience",
         "native_word": "noun - Events",
         "tag": "noun - Events",
-        "prompt": "______：通常は危険な、珍しい興奮を覚える経験",
+        "prompt": "冒険：通常は危険な、珍しい興奮を覚える経験",
         "answer": "冒険：通常は危険な、珍しい興奮を覚える経験",
         "goal_words": "冒険",
         "audio_filename": "line2_ja_388.mp3",
-        "audio_dir": "冒険：通常は危険な、珍しい興奮を覚える経験"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -537,7 +465,7 @@
         "answer": "ライオンの咆哮",
         "goal_words": "咆哮",
         "audio_filename": "line2_ja_153.mp3",
-        "audio_dir": "ライオンの咆哮"
+        "learning_tag": "名詞 - サウンドと音楽"
     },
     {
         "level": 4.0,
@@ -555,7 +483,7 @@
         "answer": "ベリーの混合",
         "goal_words": "混合",
         "audio_filename": "line2_ja_11.mp3",
-        "audio_dir": "ベリーの混合"
+        "learning_tag": "名詞 – アクション"
     },
     {
         "level": 4.0,
@@ -569,11 +497,11 @@
         "native_answer": "venture: dare to do something or go somewhere that may be dangerous",
         "native_word": "verb - movement",
         "tag": "verb - movement",
-        "prompt": "______：危険かもしれないことをしたり、どこかへ行くことに挑戦する",
+        "prompt": "ベンチャー：危険かもしれないことをしたり、どこかへ行くことに挑戦する",
         "answer": "ベンチャー：危険かもしれないことをしたり、どこかへ行くことに挑戦する",
         "goal_words": "ベンチャー",
         "audio_filename": "line2_ja_25.mp3",
-        "audio_dir": "ベンチャー：危険かもしれないことをしたり、どこかへ行くことに挑戦する"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -587,11 +515,11 @@
         "native_answer": "scuttle: run hurriedly or furtively with short quick steps.",
         "native_word": "verb - movement",
         "tag": "verb - movement",
-        "prompt": "______：短い速いステップで急いでまたはこっそりと走る。",
+        "prompt": "スカットル：短い速いステップで急いでまたはこっそりと走る。",
         "answer": "スカットル：短い速いステップで急いでまたはこっそりと走る。",
         "goal_words": "スカットル",
         "audio_filename": "line_ja_701.mp3",
-        "audio_dir": "スカットル：短い速いステップで急いでまたはこっそりと走る。"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -605,11 +533,11 @@
         "native_answer": "explore a new world",
         "native_word": "verb - movement",
         "tag": "verb - movement",
-        "prompt": "新しい世界を______",
+        "prompt": "新しい世界を探検する",
         "answer": "新しい世界を探検する",
         "goal_words": "探検する",
         "audio_filename": "line3_ja_544.mp3",
-        "audio_dir": "新しい世界を探検する"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -627,7 +555,7 @@
         "answer": "恐竜に追われる",
         "goal_words": "追われる",
         "audio_filename": "line3_ja_434.mp3",
-        "audio_dir": "恐竜に追われる"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -645,7 +573,7 @@
         "answer": "掃除",
         "goal_words": "掃除",
         "audio_filename": "line3_ja_509.mp3",
-        "audio_dir": "掃除"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 4.0,
@@ -663,7 +591,7 @@
         "answer": "手がかりを見つける",
         "goal_words": "見つける",
         "audio_filename": "line3_ja_479.mp3",
-        "audio_dir": "手がかりを見つける"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 4.0,
@@ -675,13 +603,13 @@
         "learning_language": "japanese",
         "native_group": "4 short story - past tense - a crab's adventure",
         "native_answer": "city surround",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
+        "native_word": "verb - position",
+        "tag": "verb - position",
         "prompt": "都市を______",
         "answer": "都市を囲む",
         "goal_words": "囲む",
         "audio_filename": "line4_ja_718.mp3",
-        "audio_dir": "都市を囲む"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -699,25 +627,7 @@
         "answer": "馬に乗る",
         "goal_words": "乗る",
         "audio_filename": "line4_ja_878.mp3",
-        "audio_dir": "馬に乗る"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - past tense - a crab's adventure",
-        "native_answer": "feel the water",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "水を______",
-        "answer": "水を感じる",
-        "goal_words": "感じる",
-        "audio_filename": "line3_ja_735.mp3",
-        "audio_dir": "水を感じる"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -735,7 +645,7 @@
         "answer": "戻る: 家に帰る",
         "goal_words": "戻る",
         "audio_filename": "line3_ja_475.mp3",
-        "audio_dir": "戻る: 家に帰る"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -753,7 +663,7 @@
         "answer": "はいたつく：手とひざで進む",
         "goal_words": "はいたつく",
         "audio_filename": "line_ja_920.mp3",
-        "audio_dir": "はいたつく：手とひざで進む"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -771,7 +681,7 @@
         "answer": "仮想現実を経験する",
         "goal_words": "経験",
         "audio_filename": "line2_ja_302.mp3",
-        "audio_dir": "仮想現実を経験する"
+        "learning_tag": "動詞 - 知覚"
     },
     {
         "level": 4.0,
@@ -789,6 +699,6 @@
         "answer": "覚えている",
         "goal_words": "覚えている",
         "audio_filename": "line4_ja_501.mp3",
-        "audio_dir": "覚えている"
+        "learning_tag": "動詞 - 精神的"
     }
 ]

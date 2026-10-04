@@ -15,7 +15,7 @@
         "answer": "récompenser un grand accomplissement",
         "goal_words": "grand",
         "audio_filename": "line4_fr_818.mp3",
-        "audio_dir": "récompenser un grand accomplissement"
+        "learning_tag": "adjectif - Jugement"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "belle femme",
         "goal_words": "belle",
         "audio_filename": "line_fr_407.mp3",
-        "audio_dir": "belle femme"
+        "learning_tag": "adjectif - Créer de l'émotion"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "lieux célèbres",
         "goal_words": "célèbre",
         "audio_filename": "line3_fr_940.mp3",
-        "audio_dir": "lieux célèbres"
+        "learning_tag": "adjectif - condition"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "Nerveux",
         "goal_words": "Nerveux",
         "audio_filename": "line4_fr_113.mp3",
-        "audio_dir": "Nerveux"
+        "learning_tag": "adjectif - Ressentir une émotion"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "passez une bonne journée",
         "goal_words": "bonne",
         "audio_filename": "line4_fr_574.mp3",
-        "audio_dir": "passez une bonne journée"
+        "learning_tag": "adjectif - Jugement"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "bon travail",
         "goal_words": "bon",
         "audio_filename": "line_fr_436.mp3",
-        "audio_dir": "bon travail"
+        "learning_tag": "adjectif - Jugement"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "meilleurs amis",
         "goal_words": "meilleur",
         "audio_filename": "line4_fr_29.mp3",
-        "audio_dir": "meilleurs amis"
+        "learning_tag": "adjectif - Jugement et opinion"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "première place",
         "goal_words": "première",
         "audio_filename": "line4_fr_707.mp3",
-        "audio_dir": "première place"
+        "learning_tag": "adjectif - temps"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "arrêter enfin de fumer, après longtemps",
         "goal_words": "enfin",
         "audio_filename": "line_fr_302.mp3",
-        "audio_dir": "arrêter enfin de fumer, après longtemps"
+        "learning_tag": "adverbe - Temps"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "les autres montagnes sont encore plus hautes",
         "goal_words": "encore",
         "audio_filename": "line3_fr_867.mp3",
-        "audio_dir": "les autres montagnes sont encore plus hautes"
+        "learning_tag": "adverbe - Adverbe conjonctionnel"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "tellement d'étoiles",
         "goal_words": "tellement",
         "audio_filename": "line5_fr_126.mp3",
-        "audio_dir": "tellement d'étoiles"
+        "learning_tag": "adverbe - Adverbe conjonctionnel"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "vraiment gros robot - utilisé pour l'accentuation",
         "goal_words": "vraiment",
         "audio_filename": "line5_fr_880.mp3",
-        "audio_dir": "vraiment gros robot - utilisé pour l'accentuation"
+        "learning_tag": "adverbe"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "avant et après",
         "goal_words": "avant",
         "audio_filename": "line_fr_354.mp3",
-        "audio_dir": "avant et après"
+        "learning_tag": "adverbe - Temps"
     },
     {
         "level": 4.0,
@@ -249,7 +249,25 @@
         "answer": "trop de livres pour en mettre plus",
         "goal_words": "trop de",
         "audio_filename": "line5_fr_243.mp3",
-        "audio_dir": "trop de livres pour en mettre plus"
+        "learning_tag": "adverbe"
+    },
+    {
+        "level": 4.0,
+        "image_filename": "too.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "french",
+        "native_group": "4 Dialogue - first date",
+        "native_answer": "too many books to fit any more",
+        "native_word": "adverb",
+        "tag": "adverb",
+        "prompt": "______ livres pour en mettre plus",
+        "answer": "trop de livres pour en mettre plus",
+        "goal_words": "trop de",
+        "audio_filename": "line5_fr_243.mp3",
+        "learning_tag": "adverbe"
     },
     {
         "level": 4.0,
@@ -267,7 +285,7 @@
         "answer": "un peu",
         "goal_words": "peu",
         "audio_filename": "line5_fr_584.mp3",
-        "audio_dir": "un peu"
+        "learning_tag": "adverbe"
     },
     {
         "level": 4.0,
@@ -285,7 +303,7 @@
         "answer": "Absolument : complètement, sans aucun doute.",
         "goal_words": "Absolument",
         "audio_filename": "line_fr_213.mp3",
-        "audio_dir": "Absolument : complètement, sans aucun doute."
+        "learning_tag": "adverbe - jugement"
     },
     {
         "level": 4.0,
@@ -303,7 +321,7 @@
         "answer": "Pâtes",
         "goal_words": "Pâtes",
         "audio_filename": "line4_fr_575.mp3",
-        "audio_dir": "Pâtes"
+        "learning_tag": "nourriture"
     },
     {
         "level": 4.0,
@@ -321,7 +339,7 @@
         "answer": "Repas",
         "goal_words": "Repas",
         "audio_filename": "line4_fr_841.mp3",
-        "audio_dir": "Repas"
+        "learning_tag": "nourriture"
     },
     {
         "level": 4.0,
@@ -339,7 +357,7 @@
         "answer": "Prendre une photo",
         "goal_words": "photo",
         "audio_filename": "line4_fr_711.mp3",
-        "audio_dir": "Prendre une photo"
+        "learning_tag": "nom - Objets du quotidien"
     },
     {
         "level": 4.0,
@@ -357,7 +375,7 @@
         "answer": "La nourriture sur la table",
         "goal_words": "nourriture",
         "audio_filename": "line3_fr_483.mp3",
-        "audio_dir": "La nourriture sur la table"
+        "learning_tag": "nom - Nourriture et boisson"
     },
     {
         "level": 4.0,
@@ -375,7 +393,7 @@
         "answer": "Une application",
         "goal_words": "application",
         "audio_filename": "line5_fr_617.mp3",
-        "audio_dir": "Une application"
+        "learning_tag": "nom - Outils et équipement "
     },
     {
         "level": 4.0,
@@ -393,7 +411,7 @@
         "answer": "Une conversation",
         "goal_words": "conversation",
         "audio_filename": "line5_fr_627.mp3",
-        "audio_dir": "Une conversation"
+        "learning_tag": "nom - Activités"
     },
     {
         "level": 4.0,
@@ -411,7 +429,7 @@
         "answer": "Un rendez-vous : engagement romantique",
         "goal_words": "rendez-vous",
         "audio_filename": "line5_fr_596.mp3",
-        "audio_dir": "Un rendez-vous : engagement romantique"
+        "learning_tag": "nom - Événements"
     },
     {
         "level": 4.0,
@@ -429,7 +447,7 @@
         "answer": "se rencontrer pour affaires",
         "goal_words": "rencontrer",
         "audio_filename": "line4_fr_989.mp3",
-        "audio_dir": "se rencontrer pour affaires"
+        "learning_tag": "verbe - interactif"
     },
     {
         "level": 4.0,
@@ -447,7 +465,7 @@
         "answer": "Regarder",
         "goal_words": "Regarder",
         "audio_filename": "line4_fr_823.mp3",
-        "audio_dir": "Regarder"
+        "learning_tag": "verbe - perception"
     },
     {
         "level": 4.0,
@@ -465,7 +483,7 @@
         "answer": "dire",
         "goal_words": "dire",
         "audio_filename": "line_fr_809.mp3",
-        "audio_dir": "dire"
+        "learning_tag": "verbe - communication"
     },
     {
         "level": 4.0,
@@ -483,7 +501,7 @@
         "answer": "Entendre",
         "goal_words": "Entendre",
         "audio_filename": "line2_fr_133.mp3",
-        "audio_dir": "Entendre"
+        "learning_tag": "verbe - perception"
     },
     {
         "level": 4.0,
@@ -501,7 +519,7 @@
         "answer": "essayer de surfer",
         "goal_words": "essayer",
         "audio_filename": "line2_fr_151.mp3",
-        "audio_dir": "essayer de surfer"
+        "learning_tag": "verbe - soi"
     },
     {
         "level": 4.0,
@@ -515,11 +533,11 @@
         "native_answer": "to match outfits",
         "native_word": "verb - object",
         "tag": "verb - object",
-        "prompt": "pour ______aux tenues",
+        "prompt": "pour ______ aux tenues",
         "answer": "pour correspondre aux tenues",
-        "goal_words": "correspondre ",
+        "goal_words": "correspondre",
         "audio_filename": "line4_fr_692.mp3",
-        "audio_dir": "pour correspondre aux tenues"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -537,7 +555,7 @@
         "answer": "sembler heureux - apparaître, avoir l'air",
         "goal_words": "sembler",
         "audio_filename": "line5_fr_5.mp3",
-        "audio_dir": "sembler heureux - apparaître, avoir l'air"
+        "learning_tag": "verbe - perception"
     },
     {
         "level": 4.0,
@@ -555,7 +573,7 @@
         "answer": "sentir l'eau",
         "goal_words": "sentir",
         "audio_filename": "line5_fr_8.mp3",
-        "audio_dir": "sentir l'eau"
+        "learning_tag": "verbe - perception"
     },
     {
         "level": 4.0,
@@ -573,7 +591,7 @@
         "answer": "souhaiter, prier, espérer",
         "goal_words": "espérer",
         "audio_filename": "line5_fr_83.mp3",
-        "audio_dir": "souhaiter, prier, espérer"
+        "learning_tag": "verbe - sentiment"
     },
     {
         "level": 4.0,
@@ -591,6 +609,6 @@
         "answer": "Profiter",
         "goal_words": "Profiter",
         "audio_filename": "line4_fr_723.mp3",
-        "audio_dir": "Profiter"
+        "learning_tag": "verbe - sentiment"
     }
 ]

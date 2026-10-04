@@ -15,7 +15,7 @@
         "answer": "El chico cantando.",
         "goal_words": "cantando",
         "audio_filename": "line_es_970.mp3",
-        "audio_dir": "El chico cantando."
+        "learning_tag": "adjetivo - sonido"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "La chica durmiendo.",
         "goal_words": "durmiendo",
         "audio_filename": "line3_es_569.mp3",
-        "audio_dir": "La chica durmiendo."
+        "learning_tag": "adjetivo - comportamiento"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "El hombre riendo.",
         "goal_words": "riendo",
         "audio_filename": "line2_es_131.mp3",
-        "audio_dir": "El hombre riendo."
+        "learning_tag": "adjetivo - comportamiento"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "Los niños corrían alrededor del patio de recreo, saltando con alegría.",
         "goal_words": "saltando",
         "audio_filename": "line3_es_913.mp3",
-        "audio_dir": "Los niños corrían alrededor del patio de recreo, saltando con alegría."
+        "learning_tag": "frases adverbiales"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "Ellos caminaban de la mano, riendo juntos.",
         "goal_words": "riendo",
         "audio_filename": "line2_es_692.mp3",
-        "audio_dir": "Ellos caminaban de la mano, riendo juntos."
+        "learning_tag": "frases adverbiales"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "Pasaron la tarde en el parque, jugando felizmente.",
         "goal_words": "jugando",
         "audio_filename": "line4_es_504.mp3",
-        "audio_dir": "Pasaron la tarde en el parque, jugando felizmente."
+        "learning_tag": "frases adverbiales"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "Si están riendo, debe ser un buen chiste.",
         "goal_words": "riendo",
         "audio_filename": "line4_es_911.mp3",
-        "audio_dir": "Si están riendo, debe ser un buen chiste."
+        "learning_tag": "conditional"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "Si están jugando afuera, deben estar disfrutando del buen clima.",
         "goal_words": "jugando",
         "audio_filename": "line4_es_910.mp3",
-        "audio_dir": "Si están jugando afuera, deben estar disfrutando del buen clima."
+        "learning_tag": "conditional"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "Si está tirando de la cuerda, probablemente esté tratando de mover algo pesado.",
         "goal_words": "tirando",
         "audio_filename": "line4_es_909.mp3",
-        "audio_dir": "Si está tirando de la cuerda, probablemente esté tratando de mover algo pesado."
+        "learning_tag": "conditional"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "El chef cocinando la cena es muy hábil.",
         "goal_words": "cocinando",
         "audio_filename": "line_es_969.mp3",
-        "audio_dir": "El chef cocinando la cena es muy hábil."
+        "learning_tag": "reduced relative clause"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "El bebé llorando en la habitación de al lado necesita atención.",
         "goal_words": "llorando",
         "audio_filename": "line_es_920.mp3",
-        "audio_dir": "El bebé llorando en la habitación de al lado necesita atención."
+        "learning_tag": "reduced relative clause"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "La pareja bailando en la pista de baile parecía feliz.",
         "goal_words": "bailando",
         "audio_filename": "line3_es_703.mp3",
-        "audio_dir": "La pareja bailando en la pista de baile parecía feliz."
+        "learning_tag": "reduced relative clause"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "La persona tomando café en el café es mi amigo.",
         "goal_words": "tomando",
         "audio_filename": "line3_es_708.mp3",
-        "audio_dir": "La persona tomando café en el café es mi amigo."
+        "learning_tag": "reduced relative clause"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "El conductor conduciendo el autobús era experimentado.",
         "goal_words": "conduciendo",
         "audio_filename": "line_es_993.mp3",
-        "audio_dir": "El conductor conduciendo el autobús era experimentado."
+        "learning_tag": "reduced relative clause"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "Ella estaba cocinando la cena cuando llegué.",
         "goal_words": "cocinando",
         "audio_filename": "line2_es_538.mp3",
-        "audio_dir": "Ella estaba cocinando la cena cuando llegué."
+        "learning_tag": "verb phrases"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "El bebé lloraba ruidosamente en la habitación de al lado.",
         "goal_words": "lloraba",
         "audio_filename": "line_es_919.mp3",
-        "audio_dir": "El bebé lloraba ruidosamente en la habitación de al lado."
+        "learning_tag": "verb phrases"
     },
     {
         "level": 3.0,
@@ -303,7 +303,7 @@
         "answer": "Ellos estaban bailando juntos en la fiesta.",
         "goal_words": "bailando",
         "audio_filename": "line2_es_729.mp3",
-        "audio_dir": "Ellos estaban bailando juntos en la fiesta."
+        "learning_tag": "verb phrases"
     },
     {
         "level": 3.0,
@@ -321,7 +321,7 @@
         "answer": "Él estaba bebiendo agua para saciar su sed.",
         "goal_words": "bebiendo",
         "audio_filename": "line2_es_71.mp3",
-        "audio_dir": "Él estaba bebiendo agua para saciar su sed."
+        "learning_tag": "verb phrases"
     },
     {
         "level": 3.0,
@@ -339,7 +339,7 @@
         "answer": "Ella conducía cuidadosamente por la carretera sinuosa.",
         "goal_words": "conducía",
         "audio_filename": "line2_es_493.mp3",
-        "audio_dir": "Ella conducía cuidadosamente por la carretera sinuosa."
+        "learning_tag": "verb phrases"
     },
     {
         "level": 3.0,
@@ -357,7 +357,7 @@
         "answer": "Nosotros estábamos almorzando cuando sonó el teléfono.",
         "goal_words": "almorzando",
         "audio_filename": "line4_es_207.mp3",
-        "audio_dir": "Nosotros estábamos almorzando cuando sonó el teléfono."
+        "learning_tag": "verb phrases"
     },
     {
         "level": 3.0,
@@ -375,7 +375,7 @@
         "answer": "Las hojas estaban cayendo de los árboles en otoño.",
         "goal_words": "cayendo",
         "audio_filename": "line3_es_816.mp3",
-        "audio_dir": "Las hojas estaban cayendo de los árboles en otoño."
+        "learning_tag": "verb phrases"
     },
     {
         "level": 3.0,
@@ -393,6 +393,6 @@
         "answer": "Los niños estaban saltando en el trampolín en el patio trasero.",
         "goal_words": "saltando",
         "audio_filename": "line3_es_914.mp3",
-        "audio_dir": "Los niños estaban saltando en el trampolín en el patio trasero."
+        "learning_tag": "verb phrases"
     }
 ]

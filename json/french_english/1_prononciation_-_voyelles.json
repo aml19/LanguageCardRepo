@@ -1,6 +1,24 @@
 [
     {
         "level": 1.0,
+        "image_filename": "",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "french",
+        "learning_language": "english",
+        "native_group": "1 prononciation - voyelles",
+        "native_answer": "\"info\"",
+        "native_word": "vowels",
+        "tag": "vowels",
+        "prompt": "\"info\"",
+        "answer": "\"info\"",
+        "goal_words": "",
+        "audio_filename": "",
+        "learning_tag": "vowels"
+    },
+    {
+        "level": 1.0,
         "image_filename": "cat.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -9,13 +27,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Chat",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ comme dans \"cat\"",
+        "tag": "/æ/ comme dans \"cat\"",
         "prompt": "Cat ______,______,______",
         "answer": "Cat - /kæt/ - : \"a\"\nLe a se prononce /æ/, un son entre le a français et le è ouvert, plus ouvert et plus antérieur que le a français habituel.",
         "goal_words": "- /kæt/ - : \"a\"\nLe a se prononce /æ/,  un son entre le a français et le è ouvert,  plus ouvert et plus antérieur que le a français habituel.",
         "audio_filename": "line_en_447.mp3",
-        "audio_dir": "Cat"
+        "learning_tag": "/æ/ comme dans \"cat\""
     },
     {
         "level": 1.0,
@@ -27,13 +45,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Batte",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ comme dans \"cat\"",
+        "tag": "/æ/ comme dans \"cat\"",
         "prompt": "Bat ______,______",
         "answer": "Bat - /bæt/ - : \"a\"\nMême son /æ/ que dans cat, plus ouvert que le a français.",
         "goal_words": "- /bæt/ - : \"a\"\nMême son /æ/ que dans cat,  plus ouvert que le a français.",
         "audio_filename": "line_en_251.mp3",
-        "audio_dir": "Bat"
+        "learning_tag": "/æ/ comme dans \"cat\""
     },
     {
         "level": 1.0,
@@ -45,13 +63,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Chapeau",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ comme dans \"cat\"",
+        "tag": "/æ/ comme dans \"cat\"",
         "prompt": "Hat ______,______",
         "answer": "Hat - /hæt/ - : \"a\"\nIdem, le /æ/ est un son plus ouvert et plus antérieur que le a français.",
         "goal_words": "- /hæt/ - : \"a\"\nIdem,  le /æ/ est un son plus ouvert et plus antérieur que le a français.",
         "audio_filename": "line_en_1054.mp3",
-        "audio_dir": "Hat"
+        "learning_tag": "/æ/ comme dans \"cat\""
     },
     {
         "level": 1.0,
@@ -63,13 +81,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Homme",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ comme dans \"cat\"",
+        "tag": "/æ/ comme dans \"cat\"",
         "prompt": "Man ______,______,______",
         "answer": "Man - /mæn/ - : \"a\"\nLe /æ/ est plus ouvert que le a français, et la consonne finale n est prononcée nettement, sans nasalisation comme en français.",
         "goal_words": "- /mæn/ - : \"a\"\nLe /æ/ est plus ouvert que le a français,  et la consonne finale n est prononcée nettement,  sans nasalisation comme en français.",
         "audio_filename": "line2_en_578.mp3",
-        "audio_dir": "Man"
+        "learning_tag": "/æ/ comme dans \"cat\""
     },
     {
         "level": 1.0,
@@ -81,13 +99,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Pomme",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ comme dans \"cat\"",
+        "tag": "/æ/ comme dans \"cat\"",
         "prompt": "Apple ______,______,______,______",
         "answer": "Apple - /ˈæpəl/ - : \"a\"\nLe premier a est /æ/, plus ouvert que le a français. La e finale n’est pas prononcée. Le l est clair, c’est-à-dire que la langue touche le palais, contrairement au l souvent plus mou en français.",
         "goal_words": "- /ˈæpəl/ - : \"a\"\nLe premier a est /æ/,  plus ouvert que le a français. La e finale n’est pas prononcée. Le l est clair,  c’est-à-dire que la langue touche le palais,  contrairement au l souvent plus mou en français.",
         "audio_filename": "line_en_174.mp3",
-        "audio_dir": "Apple"
+        "learning_tag": "/æ/ comme dans \"cat\""
     },
     {
         "level": 1.0,
@@ -99,13 +117,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Mauvais",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ comme dans \"cat\"",
+        "tag": "/æ/ comme dans \"cat\"",
         "prompt": "Bad ______,______",
         "answer": "Bad - /bæd/ - : \"a\"\nLe /æ/ est plus ouvert et antérieur que le a français. La consonne finale d est prononcée nettement, ce qui n’est pas toujours le cas en français.",
         "goal_words": "- /bæd/ - : \"a\"\nLe /æ/ est plus ouvert et antérieur que le a français. La consonne finale d est prononcée nettement,  ce qui n’est pas toujours le cas en français.",
         "audio_filename": "line_en_234.mp3",
-        "audio_dir": "Bad"
+        "learning_tag": "/æ/ comme dans \"cat\""
     },
     {
         "level": 1.0,
@@ -117,13 +135,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Gaz",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ comme dans \"cat\"",
+        "tag": "/æ/ comme dans \"cat\"",
         "prompt": "Gas ______,______",
         "answer": "Gas - /ɡæs/ - : \"a\"\nLe /æ/ est plus ouvert que le a français. La consonne finale s est prononcée /s/, jamais muette ni sonorisée comme en français.",
         "goal_words": "- /ɡæs/ - : \"a\"\nLe /æ/ est plus ouvert que le a français. La consonne finale s est prononcée /s/,  jamais muette ni sonorisée comme en français.",
         "audio_filename": "line_en_957.mp3",
-        "audio_dir": "Gas"
+        "learning_tag": "/æ/ comme dans \"cat\""
     },
     {
         "level": 1.0,
@@ -135,13 +153,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Carte",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ comme dans \"cat\"",
+        "tag": "/æ/ comme dans \"cat\"",
         "prompt": "Map ______,______",
         "answer": "Map - /mæp/ - : \"a\"\nLe /æ/ est plus ouvert. La consonne finale p est bien audible et aspirée, plus forte qu’en français.",
         "goal_words": "- /mæp/ - : \"a\"\nLe /æ/ est plus ouvert. La consonne finale p est bien audible et aspirée,  plus forte qu’en français.",
         "audio_filename": "line2_en_589.mp3",
-        "audio_dir": "Map"
+        "learning_tag": "/æ/ comme dans \"cat\""
     },
     {
         "level": 1.0,
@@ -153,13 +171,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Papa",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ comme dans \"cat\"",
+        "tag": "/æ/ comme dans \"cat\"",
         "prompt": "Dad ______,______",
         "answer": "Dad - /dæd/ - : \"a\"\nLe /æ/ est plus ouvert que le a français, et la d finale est prononcée.",
         "goal_words": "- /dæd/ - : \"a\"\nLe /æ/ est plus ouvert que le a français,  et la d finale est prononcée.",
         "audio_filename": "line_en_602.mp3",
-        "audio_dir": "Dad"
+        "learning_tag": "/æ/ comme dans \"cat\""
     },
     {
         "level": 1.0,
@@ -171,13 +189,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Rire",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/ comme dans \"cat\"",
+        "tag": "/æ/ comme dans \"cat\"",
         "prompt": "Laugh ______,______,______",
         "answer": "Laugh - /læf/ - : \"augh\"\nLa voyelle est /æ/, très ouverte et antérieure, et le gh final se prononce comme un f (/f/). C’est un son absent en français.",
         "goal_words": "- /læf/ - : \"augh\"\nLa voyelle est /æ/,  très ouverte et antérieure,  et le gh final se prononce comme un f (/f/). C’est un son absent en français.",
         "audio_filename": "line2_en_484.mp3",
-        "audio_dir": "Laugh"
+        "learning_tag": "/æ/ comme dans \"cat\""
     },
     {
         "level": 1.0,
@@ -189,13 +207,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Lit",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ comme dans \"bed\"",
+        "tag": "/ɛ/ comme dans \"bed\"",
         "prompt": "Bed ______,______",
         "answer": "Bed - /bɛd/ - : \"e\"\nLa voyelle est /ɛ/, proche du è français mais un peu plus ouvert.",
         "goal_words": "- /bɛd/ - : \"e\"\nLa voyelle est /ɛ/,  proche du è français mais un peu plus ouvert.",
         "audio_filename": "line_en_267.mp3",
-        "audio_dir": "Bed"
+        "learning_tag": "/ɛ/ comme dans \"bed\""
     },
     {
         "level": 1.0,
@@ -207,13 +225,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Rouge",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ comme dans \"bed\"",
+        "tag": "/ɛ/ comme dans \"bed\"",
         "prompt": "Red ______,______",
         "answer": "Red - /rɛd/ - : \"e\"\nMême voyelle /ɛ/ que dans bed, et la d finale est prononcée nettement.",
         "goal_words": "- /rɛd/ - : \"e\"\nMême voyelle /ɛ/ que dans bed,  et la d finale est prononcée nettement.",
         "audio_filename": "line3_en_248.mp3",
-        "audio_dir": "Red"
+        "learning_tag": "/ɛ/ comme dans \"bed\""
     },
     {
         "level": 1.0,
@@ -225,13 +243,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Obtenir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ comme dans \"bed\"",
+        "tag": "/ɛ/ comme dans \"bed\"",
         "prompt": "Get ______,______,______",
         "answer": "Get - /ɡɛt/ - : \"e\"\nLa voyelle est /ɛ/, plus ouverte que la voyelle é en français, et la consonne t finale est prononcée clairement.",
         "goal_words": "- /ɡɛt/ - : \"e\"\nLa voyelle est /ɛ/,  plus ouverte que la voyelle é en français,  et la consonne t finale est prononcée clairement.",
         "audio_filename": "line_en_963.mp3",
-        "audio_dir": "Get"
+        "learning_tag": "/ɛ/ comme dans \"bed\""
     },
     {
         "level": 1.0,
@@ -243,13 +261,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Dit",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ comme dans \"bed\"",
+        "tag": "/ɛ/ comme dans \"bed\"",
         "prompt": "Said ______,______,______",
         "answer": "Said - /sɛd/ - : \"ai\"\nLa voyelle est /ɛ/, comme un è bien ouvert, la d finale est bien audible.",
         "goal_words": "- /sɛd/ - : \"ai\"\nLa voyelle est /ɛ/,  comme un è bien ouvert,  la d finale est bien audible.",
         "audio_filename": "line3_en_316.mp3",
-        "audio_dir": "Said"
+        "learning_tag": "/ɛ/ comme dans \"bed\""
     },
     {
         "level": 1.0,
@@ -261,13 +279,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Ami",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ comme dans \"bed\"",
+        "tag": "/ɛ/ comme dans \"bed\"",
         "prompt": "Friend ______,______,______,______",
         "answer": "Friend - /frɛnd/ - : \"ie\"\nLa voyelle est /ɛ/, plus ouverte que le è français, et le groupe final nd est prononcé nettement, sans nasalisation.",
         "goal_words": "- /frɛnd/ - : \"ie\"\nLa voyelle est /ɛ/,  plus ouverte que le è français,  et le groupe final nd est prononcé nettement,  sans nasalisation.",
         "audio_filename": "line_en_931.mp3",
-        "audio_dir": "Friend"
+        "learning_tag": "/ɛ/ comme dans \"bed\""
     },
     {
         "level": 1.0,
@@ -279,13 +297,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Pain",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ comme dans \"bed\"",
+        "tag": "/ɛ/ comme dans \"bed\"",
         "prompt": "Bread ______,______,______",
         "answer": "Bread - /brɛd/ - : \"ea\"\nLa voyelle est /ɛ/, ouverte, la consonne d finale est prononcée.",
         "goal_words": "- /brɛd/ - : \"ea\"\nLa voyelle est /ɛ/,  ouverte,  la consonne d finale est prononcée.",
         "audio_filename": "line_en_344.mp3",
-        "audio_dir": "Bread"
+        "learning_tag": "/ɛ/ comme dans \"bed\""
     },
     {
         "level": 1.0,
@@ -297,13 +315,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Message",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ comme dans \"bed\"",
+        "tag": "/ɛ/ comme dans \"bed\"",
         "prompt": "Message ______,______,______",
         "answer": "Message - /ˈmɛsɪdʒ/ - : \"e\"\nLa première voyelle est /ɛ/, ouverte. La consonne g finale n’est pas prononcée, contrairement à certains mots français où le g se prononce.",
         "goal_words": "- /ˈmɛsɪdʒ/ - : \"e\"\nLa première voyelle est /ɛ/,  ouverte. La consonne g finale n’est pas prononcée,  contrairement à certains mots français où le g se prononce.",
         "audio_filename": "line2_en_620.mp3",
-        "audio_dir": "Message"
+        "learning_tag": "/ɛ/ comme dans \"bed\""
     },
     {
         "level": 1.0,
@@ -315,13 +333,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Tête",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ comme dans \"bed\"",
+        "tag": "/ɛ/ comme dans \"bed\"",
         "prompt": "Head ______,______,______",
         "answer": "Head - /hɛd/ - : \"ea\"\nLa voyelle est /ɛ/, ouverte, la d finale est prononcée.",
         "goal_words": "- /hɛd/ - : \"ea\"\nLa voyelle est /ɛ/,  ouverte,  la d finale est prononcée.",
         "audio_filename": "line_en_1400.mp3",
-        "audio_dir": "Head"
+        "learning_tag": "/ɛ/ comme dans \"bed\""
     },
     {
         "level": 1.0,
@@ -333,13 +351,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Beaucoup",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ comme dans \"bed\"",
+        "tag": "/ɛ/ comme dans \"bed\"",
         "prompt": "Many ______",
         "answer": "Many - /ˈmɛni/ - : \"a\"\n Le y final se prononce /i/.",
         "goal_words": "- /ˈmɛni/ - : \"a\"\n Le y final se prononce /i/.",
         "audio_filename": "line2_en_584.mp3",
-        "audio_dir": "Many"
+        "learning_tag": "/ɛ/ comme dans \"bed\""
     },
     {
         "level": 1.0,
@@ -351,13 +369,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Dit",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/ comme dans \"bed\"",
+        "tag": "/ɛ/ comme dans \"bed\"",
         "prompt": "Says ______,______,______",
         "answer": "Says - /sɛz/ - : \"ay\"\nSe prononce /sɛz/, avec un e ouvert /ɛ/ et la consonne finale s prononcée /z/, contrairement au français où la s finale est souvent muette.",
         "goal_words": "- /sɛz/ - : \"ay\"\nSe prononce /sɛz/,  avec un e ouvert /ɛ/ et la consonne finale s prononcée /z/,  contrairement au français où la s finale est souvent muette.",
         "audio_filename": "line3_en_377.mp3",
-        "audio_dir": "Says"
+        "learning_tag": "/ɛ/ comme dans \"bed\""
     },
     {
         "level": 1.0,
@@ -369,13 +387,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "S'asseoir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ comme dans \"sit\"",
+        "tag": "/ɪ/ comme dans \"sit\"",
         "prompt": "Sit ______,______,______",
         "answer": "Sit - /sɪt/ - : \"i\"\nLa voyelle est /ɪ/, un son court entre le i de si et le è en français, un peu plus fermé et court.",
         "goal_words": "- /sɪt/ - : \"i\"\nLa voyelle est /ɪ/,  un son court entre le i de si et le è en français,  un peu plus fermé et court.",
         "audio_filename": "line3_en_747.mp3",
-        "audio_dir": "Sit"
+        "learning_tag": "/ɪ/ comme dans \"sit\""
     },
     {
         "level": 1.0,
@@ -387,13 +405,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Frapper",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ comme dans \"sit\"",
+        "tag": "/ɪ/ comme dans \"sit\"",
         "prompt": "Hit ______",
         "answer": "Hit - /hɪt/ - : \"i\"\nMême voyelle courte /ɪ/. La consonne finale t est bien prononcée.",
         "goal_words": "- /hɪt/ - : \"i\"\nMême voyelle courte /ɪ/. La consonne finale t est bien prononcée.",
         "audio_filename": "line_en_1441.mp3",
-        "audio_dir": "Hit"
+        "learning_tag": "/ɪ/ comme dans \"sit\""
     },
     {
         "level": 1.0,
@@ -405,13 +423,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Peu",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ comme dans \"sit\"",
+        "tag": "/ɪ/ comme dans \"sit\"",
         "prompt": "Bit ______,______,______",
         "answer": "Bit - /bɪt/ - : \"i\"\nMême voyelle /ɪ/, plus courte que le i français, et la consonne t finale prononcée.",
         "goal_words": "- /bɪt/ - : \"i\"\nMême voyelle /ɪ/,  plus courte que le i français,  et la consonne t finale prononcée.",
         "audio_filename": "line_en_301.mp3",
-        "audio_dir": "Bit"
+        "learning_tag": "/ɪ/ comme dans \"sit\""
     },
     {
         "level": 1.0,
@@ -423,13 +441,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Pense",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ comme dans \"sit\"",
+        "tag": "/ɪ/ comme dans \"sit\"",
         "prompt": "Think ______,______,______",
         "answer": "Think - /θɪŋk/ - : \"i\"\nLe son th est /θ/, une consonne sourde interdentaire absente en français (langue entre les dents). Le i est /ɪ/ court, et le nk final est un groupe nasal + occlusive.",
         "goal_words": "- /θɪŋk/ - : \"i\"\nLe son th est /θ/,  une consonne sourde interdentaire absente en français (langue entre les dents). Le i est /ɪ/ court,  et le nk final est un groupe nasal + occlusive.",
         "audio_filename": "line4_en_410.mp3",
-        "audio_dir": "Think"
+        "learning_tag": "/ɪ/ comme dans \"sit\""
     },
     {
         "level": 1.0,
@@ -441,13 +459,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Construire",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ comme dans \"sit\"",
+        "tag": "/ɪ/ comme dans \"sit\"",
         "prompt": "Build ______,______,______",
         "answer": "Build - /bɪld/ - : \"ui\"\nLa voyelle est /ɪ/, mais la prononciation est un peu irrégulière : le u ne se prononce pas comme en français, c’est un /ɪ/. Le ld final est prononcé clairement.",
         "goal_words": "- /bɪld/ - : \"ui\"\nLa voyelle est /ɪ/,  mais la prononciation est un peu irrégulière : le u ne se prononce pas comme en français,  c’est un /ɪ/. Le ld final est prononcé clairement.",
         "audio_filename": "line_en_358.mp3",
-        "audio_dir": "Build"
+        "learning_tag": "/ɪ/ comme dans \"sit\""
     },
     {
         "level": 1.0,
@@ -459,13 +477,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Salle de sport",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ comme dans \"sit\"",
+        "tag": "/ɪ/ comme dans \"sit\"",
         "prompt": "Gym ______,______,______",
         "answer": "Gym - /dʒɪm/ - : \"y\"\nLe son j se prononce /dʒ/, comme un mélange entre dj et j, différent du j français plus doux. La voyelle est /ɪ/.",
         "goal_words": "- /dʒɪm/ - : \"y\"\nLe son j se prononce /dʒ/,  comme un mélange entre dj et j,  différent du j français plus doux. La voyelle est /ɪ/.",
         "audio_filename": "line_en_1028.mp3",
-        "audio_dir": "Gym"
+        "learning_tag": "/ɪ/ comme dans \"sit\""
     },
     {
         "level": 1.0,
@@ -477,13 +495,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Femmes",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ comme dans \"sit\"",
+        "tag": "/ɪ/ comme dans \"sit\"",
         "prompt": "Women ______,______",
         "answer": "Women - /ˈwɪmɪn/ - : \"o\"\nLa première voyelle est /ɪ/, différente de la prononciation attendue avec un o. La prononciation correcte est /ˈwɪmɪn/.",
         "goal_words": "- /ˈwɪmɪn/ - : \"o\"\nLa première voyelle est /ɪ/,  différente de la prononciation attendue avec un o. La prononciation correcte est /ˈwɪmɪn/.",
         "audio_filename": "line5_en_139.mp3",
-        "audio_dir": "Women"
+        "learning_tag": "/ɪ/ comme dans \"sit\""
     },
     {
         "level": 1.0,
@@ -495,13 +513,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Joli",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ comme dans \"sit\"",
+        "tag": "/ɪ/ comme dans \"sit\"",
         "prompt": "Pretty ______,______,______",
         "answer": "Pretty - /ˈprɪti/ - : \"e\"\nLa voyelle est /ɪ/, courte, dans les deux syllabes. Le tt est prononcé comme un t simple.",
         "goal_words": "- /ˈprɪti/ - : \"e\"\nLa voyelle est /ɪ/,  courte,  dans les deux syllabes. Le tt est prononcé comme un t simple.",
         "audio_filename": "line3_en_170.mp3",
-        "audio_dir": "Pretty"
+        "learning_tag": "/ɪ/ comme dans \"sit\""
     },
     {
         "level": 1.0,
@@ -513,13 +531,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "En direct",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ comme dans \"sit\"",
+        "tag": "/ɪ/ comme dans \"sit\"",
         "prompt": "Live ______,______,______",
         "answer": "Live (as in \"I live here\") - /lɪv/ - : \"i\"\nLe i est /ɪ/ quand le verbe est conjugué (ex : I live), et la consonne finale v est prononcée clairement, différente du v français plus doux.",
         "goal_words": "(as in \"I live here\") - /lɪv/ - : \"i\"\nLe i est /ɪ/ quand le verbe est conjugué (ex : I live),  et la consonne finale v est prononcée clairement,  différente du v français plus doux.",
         "audio_filename": "line2_en_535.mp3",
-        "audio_dir": "Live"
+        "learning_tag": "/ɪ/ comme dans \"sit\""
     },
     {
         "level": 1.0,
@@ -531,13 +549,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Système",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/ comme dans \"sit\"",
+        "tag": "/ɪ/ comme dans \"sit\"",
         "prompt": "System ______,______,______,______,______",
         "answer": "System - /ˈsɪstəm/ - : \"y\"\nLa première voyelle est /ɪ/, courte, la y agit comme un /ɪ/. Le st est prononcé clairement, et le em final est /əm/, un son peu marqué.",
         "goal_words": "- /ˈsɪstəm/ - : \"y\"\nLa première voyelle est /ɪ/,  courte,  la y agit comme un /ɪ/. Le st est prononcé clairement,  et le em final est /əm/,  un son peu marqué.",
         "audio_filename": "line3_en_935.mp3",
-        "audio_dir": "System"
+        "learning_tag": "/ɪ/ comme dans \"sit\""
     },
     {
         "level": 1.0,
@@ -549,13 +567,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Chaud",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ comme dans",
+        "tag": "/ɑ/ comme dans",
         "prompt": "Hot ______,______",
         "answer": "Hot - /hɑt/ - : \"o\"\nLa voyelle est /ɑ/, plus ouverte et plus arrière que le o français.",
         "goal_words": "- /hɑt/ - : \"o\"\nLa voyelle est /ɑ/,  plus ouverte et plus arrière que le o français.",
         "audio_filename": "line_en_1459.mp3",
-        "audio_dir": "Hot"
+        "learning_tag": "/ɑ/ comme dans"
     },
     {
         "level": 1.0,
@@ -567,13 +585,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Arrêt",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ comme dans",
+        "tag": "/ɑ/ comme dans",
         "prompt": "Stop ______,______",
         "answer": "Stop - /stɑp/ - : \"o\"\nLa voyelle est /ɑ/, ouverte et postérieure; la consonne finale p est aspirée.",
         "goal_words": "- /stɑp/ - : \"o\"\nLa voyelle est /ɑ/,  ouverte et postérieure; la consonne finale p est aspirée.",
         "audio_filename": "line3_en_869.mp3",
-        "audio_dir": "Stop"
+        "learning_tag": "/ɑ/ comme dans"
     },
     {
         "level": 1.0,
@@ -585,13 +603,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Rocher",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ comme dans",
+        "tag": "/ɑ/ comme dans",
         "prompt": "Rock ______,______",
         "answer": "Rock - /rɑk/ - : \"o\"\nLa voyelle est /ɑ/, plus ouverte et postérieure que le français; la consonne finale k est prononcée.",
         "goal_words": "- /rɑk/ - : \"o\"\nLa voyelle est /ɑ/,  plus ouverte et postérieure que le français; la consonne finale k est prononcée.",
         "audio_filename": "line3_en_302.mp3",
-        "audio_dir": "Rock"
+        "learning_tag": "/ɑ/ comme dans"
     },
     {
         "level": 1.0,
@@ -603,13 +621,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Horloge",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ comme dans",
+        "tag": "/ɑ/ comme dans",
         "prompt": "Clock ______,______",
         "answer": "Clock - /klɑk/ - : \"o\"\nIdem à rock, voyelle /ɑ/ et consonne finale /k/.",
         "goal_words": "- /klɑk/ - : \"o\"\nIdem à rock,  voyelle /ɑ/ et consonne finale /k/.",
         "audio_filename": "line_en_504.mp3",
-        "audio_dir": "Clock"
+        "learning_tag": "/ɑ/ comme dans"
     },
     {
         "level": 1.0,
@@ -621,13 +639,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Père",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ comme dans",
+        "tag": "/ɑ/ comme dans",
         "prompt": "Father ______,______,______,______",
         "answer": "Father - /ˈfɑðɚ/ - : \"a\"\nLa voyelle est /ɑː/, longue et ouverte, différente du a français. Le r est prononcé fortement, contrairement au français.",
         "goal_words": "- /ˈfɑðɚ/ - : \"a\"\nLa voyelle est /ɑː/,  longue et ouverte,  différente du a français. Le r est prononcé fortement,  contrairement au français.",
         "audio_filename": "line_en_849.mp3",
-        "audio_dir": "Father"
+        "learning_tag": "/ɑ/ comme dans"
     },
     {
         "level": 1.0,
@@ -639,13 +657,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Pas",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ comme dans",
+        "tag": "/ɑ/ comme dans",
         "prompt": "Not ______,______",
         "answer": "Not - /nɑt/ - : \"o\"\nLa voyelle est /ɑ/, plus ouverte que le o français.",
         "goal_words": "- /nɑt/ - : \"o\"\nLa voyelle est /ɑ/,  plus ouverte que le o français.",
         "audio_filename": "line2_en_707.mp3",
-        "audio_dir": "Not"
+        "learning_tag": "/ɑ/ comme dans"
     },
     {
         "level": 1.0,
@@ -657,13 +675,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Boîte",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ comme dans",
+        "tag": "/ɑ/ comme dans",
         "prompt": "Box ______,______,______",
         "answer": "Box - /bɑks/ - : \"o\"\nLa voyelle est /ɑ/, et le x final se prononce /ks/, un groupe de consonnes peu fréquent en français.",
         "goal_words": "- /bɑks/ - : \"o\"\nLa voyelle est /ɑ/,  et le x final se prononce /ks/,  un groupe de consonnes peu fréquent en français.",
         "audio_filename": "line_en_335.mp3",
-        "audio_dir": "Box"
+        "learning_tag": "/ɑ/ comme dans"
     },
     {
         "level": 1.0,
@@ -675,13 +693,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Chaussette",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ comme dans",
+        "tag": "/ɑ/ comme dans",
         "prompt": "Sock ______,______",
         "answer": "Sock - /sɑk/ - : \"o\"\nLa voyelle est /ɑ/, la consonne finale /k/ prononcée.",
         "goal_words": "- /sɑk/ - : \"o\"\nLa voyelle est /ɑ/,  la consonne finale /k/ prononcée.",
         "audio_filename": "line3_en_789.mp3",
-        "audio_dir": "Sock"
+        "learning_tag": "/ɑ/ comme dans"
     },
     {
         "level": 1.0,
@@ -693,13 +711,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Emploi",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ comme dans",
+        "tag": "/ɑ/ comme dans",
         "prompt": "Job ______,______,______",
         "answer": "Job - /dʒɑb/ - : \"o\"\nLe j se prononce /dʒ/, comme un mélange entre dj et j, différent du j français. La voyelle est /ɑ/.",
         "goal_words": "- /dʒɑb/ - : \"o\"\nLe j se prononce /dʒ/,  comme un mélange entre dj et j,  différent du j français. La voyelle est /ɑ/.",
         "audio_filename": "line2_en_425.mp3",
-        "audio_dir": "Job"
+        "learning_tag": "/ɑ/ comme dans"
     },
     {
         "level": 1.0,
@@ -711,13 +729,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "A obtenu",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/ comme dans",
+        "tag": "/ɑ/ comme dans",
         "prompt": "Got ______,______,______",
         "answer": "Got - /ɡɑt/ - : \"o\"\nLa voyelle est /ɑ/, ouverte et postérieure, différente du o français.",
         "goal_words": "- /ɡɑt/ - : \"o\"\nLa voyelle est /ɑ/,  ouverte et postérieure,  différente du o français.",
         "audio_filename": "line_en_992.mp3",
-        "audio_dir": "Got"
+        "learning_tag": "/ɑ/ comme dans"
     },
     {
         "level": 1.0,
@@ -729,13 +747,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Livre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ comme dans \"book\"",
+        "tag": "/ʊ/ comme dans \"book\"",
         "prompt": "Book ______,______,______",
         "answer": "Book - /bʊk/ - : \"oo\"\nLa voyelle est /ʊ/, un son court et arrondi qui n’existe pas en français, entre ou et u mais plus court.",
         "goal_words": "- /bʊk/ - : \"oo\"\nLa voyelle est /ʊ/,  un son court et arrondi qui n’existe pas en français,  entre ou et u mais plus court.",
         "audio_filename": "line_en_317.mp3",
-        "audio_dir": "Book"
+        "learning_tag": "/ʊ/ comme dans \"book\""
     },
     {
         "level": 1.0,
@@ -747,13 +765,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Regarder",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ comme dans \"book\"",
+        "tag": "/ʊ/ comme dans \"book\"",
         "prompt": "Look ______,______,______",
         "answer": "Look - /lʊk/ - : \"oo\"\nMême voyelle /ʊ/, courte et arrondie, différente du ou français.",
         "goal_words": "- /lʊk/ - : \"oo\"\nMême voyelle /ʊ/,  courte et arrondie,  différente du ou français.",
         "audio_filename": "line2_en_543.mp3",
-        "audio_dir": "Look"
+        "learning_tag": "/ʊ/ comme dans \"book\""
     },
     {
         "level": 1.0,
@@ -765,13 +783,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Bien",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ comme dans \"book\"",
+        "tag": "/ʊ/ comme dans \"book\"",
         "prompt": "Good ______,______,______",
         "answer": "Good - /ɡʊd/ - : \"oo\"\nVoyelle /ʊ/, courte et arrondie, pas comme le ou français long.",
         "goal_words": "- /ɡʊd/ - : \"oo\"\nVoyelle /ʊ/,  courte et arrondie,  pas comme le ou français long.",
         "audio_filename": "line_en_988.mp3",
-        "audio_dir": "Good"
+        "learning_tag": "/ʊ/ comme dans \"book\""
     },
     {
         "level": 1.0,
@@ -783,13 +801,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Pied",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ comme dans \"book\"",
+        "tag": "/ʊ/ comme dans \"book\"",
         "prompt": "Foot ______,______",
         "answer": "Foot - /fʊt/ - : \"oo\"\nVoyelle /ʊ/, même particularité qu’en book.",
         "goal_words": "- /fʊt/ - : \"oo\"\nVoyelle /ʊ/,  même particularité qu’en book.",
         "audio_filename": "line_en_908.mp3",
-        "audio_dir": "Foot"
+        "learning_tag": "/ʊ/ comme dans \"book\""
     },
     {
         "level": 1.0,
@@ -801,13 +819,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Cuisiner",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ comme dans \"book\"",
+        "tag": "/ʊ/ comme dans \"book\"",
         "prompt": "Cook ______,______,______",
         "answer": "Cook - /kʊk/ - : \"oo\"\nIdem, voyelle /ʊ/, courte et arrondie.",
         "goal_words": "- /kʊk/ - : \"oo\"\nIdem,  voyelle /ʊ/,  courte et arrondie.",
         "audio_filename": "line_en_556.mp3",
-        "audio_dir": "Cook"
+        "learning_tag": "/ʊ/ comme dans \"book\""
     },
     {
         "level": 1.0,
@@ -819,13 +837,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Pourrait",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ comme dans \"book\"",
+        "tag": "/ʊ/ comme dans \"book\"",
         "prompt": "Could ______,______",
         "answer": "Could - /kʊd/ - : \"ou\"\nMême voyelle /ʊ/, et la consonne finale d est prononcée.",
         "goal_words": "- /kʊd/ - : \"ou\"\nMême voyelle /ʊ/,  et la consonne finale d est prononcée.",
         "audio_filename": "line_en_564.mp3",
-        "audio_dir": "Could"
+        "learning_tag": "/ʊ/ comme dans \"book\""
     },
     {
         "level": 1.0,
@@ -837,13 +855,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Devrait",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ comme dans \"book\"",
+        "tag": "/ʊ/ comme dans \"book\"",
         "prompt": "Should ______,______,______,______",
         "answer": "Should - /ʃʊd/ - : \"ou\"\nVoyelle /ʊ/, consonne finale d prononcée, le sh est /ʃ/, un son qui existe en français mais qu’il faut bien distinguer de s.",
         "goal_words": "- /ʃʊd/ - : \"ou\"\nVoyelle /ʊ/,  consonne finale d prononcée,  le sh est /ʃ/,  un son qui existe en français mais qu’il faut bien distinguer de s.",
         "audio_filename": "line3_en_719.mp3",
-        "audio_dir": "Should"
+        "learning_tag": "/ʊ/ comme dans \"book\""
     },
     {
         "level": 1.0,
@@ -855,13 +873,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Serait",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ comme dans \"book\"",
+        "tag": "/ʊ/ comme dans \"book\"",
         "prompt": "Would ______,______",
         "answer": "Would - /wʊd/ - : \"ou\"\nVoyelle /ʊ/, consonne finale d prononcée.",
         "goal_words": "- /wʊd/ - : \"ou\"\nVoyelle /ʊ/,  consonne finale d prononcée.",
         "audio_filename": "line5_en_157.mp3",
-        "audio_dir": "Would"
+        "learning_tag": "/ʊ/ comme dans \"book\""
     },
     {
         "level": 1.0,
@@ -873,13 +891,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Loup",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ comme dans \"book\"",
+        "tag": "/ʊ/ comme dans \"book\"",
         "prompt": "Wolf ______,______,______",
         "answer": "Wolf - /wʊlf/ - : \"o\"\nVoyelle /ʊ/, et le lf final se prononce /lf/, le l est clair.",
         "goal_words": "- /wʊlf/ - : \"o\"\nVoyelle /ʊ/,  et le lf final se prononce /lf/,  le l est clair.",
         "audio_filename": "line5_en_136.mp3",
-        "audio_dir": "Wolf"
+        "learning_tag": "/ʊ/ comme dans \"book\""
     },
     {
         "level": 1.0,
@@ -891,13 +909,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Tirer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/ comme dans \"book\"",
+        "tag": "/ʊ/ comme dans \"book\"",
         "prompt": "Pull ______,______,______",
         "answer": "Pull - /pʊl/ - : \"u\"\nVoyelle /ʊ/, le ll est clair, contrairement au l mou en français.",
         "goal_words": "- /pʊl/ - : \"u\"\nVoyelle /ʊ/,  le ll est clair,  contrairement au l mou en français.",
         "audio_filename": "line3_en_195.mp3",
-        "audio_dir": "Pull"
+        "learning_tag": "/ʊ/ comme dans \"book\""
     },
     {
         "level": 1.0,
@@ -909,13 +927,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Tasse",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ comme dans \"cup\"",
+        "tag": "/ʌ/ comme dans \"cup\"",
         "prompt": "Cup ______,______,______",
         "answer": "Cup - /kʌp/ - : \"u\"\nVoyelle /ʌ/, un son entre a et e ouvert, différent des voyelles françaises classiques.",
         "goal_words": "- /kʌp/ - : \"u\"\nVoyelle /ʌ/,  un son entre a et e ouvert,  différent des voyelles françaises classiques.",
         "audio_filename": "line_en_592.mp3",
-        "audio_dir": "Cup"
+        "learning_tag": "/ʌ/ comme dans \"cup\""
     },
     {
         "level": 1.0,
@@ -927,13 +945,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Soleil",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ comme dans \"cup\"",
+        "tag": "/ʌ/ comme dans \"cup\"",
         "prompt": "Sun ______,______,______",
         "answer": "Sun - /sʌn/ - : \"u\"\nMême voyelle /ʌ/, avec la consonne finale n bien prononcée, non nasalisée.",
         "goal_words": "- /sʌn/ - : \"u\"\nMême voyelle /ʌ/,  avec la consonne finale n bien prononcée,  non nasalisée.",
         "audio_filename": "line3_en_902.mp3",
-        "audio_dir": "Sun"
+        "learning_tag": "/ʌ/ comme dans \"cup\""
     },
     {
         "level": 1.0,
@@ -945,13 +963,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Mais",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ comme dans \"cup\"",
+        "tag": "/ʌ/ comme dans \"cup\"",
         "prompt": "But ______,______",
         "answer": "But - /bʌt/ - : \"u\"\nVoyelle /ʌ/, plus ouverte que le u français.",
         "goal_words": "- /bʌt/ - : \"u\"\nVoyelle /ʌ/,  plus ouverte que le u français.",
         "audio_filename": "line_en_367.mp3",
-        "audio_dir": "But"
+        "learning_tag": "/ʌ/ comme dans \"cup\""
     },
     {
         "level": 1.0,
@@ -963,13 +981,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Chance",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ comme dans \"cup\"",
+        "tag": "/ʌ/ comme dans \"cup\"",
         "prompt": "Luck ______,______",
         "answer": "Luck - /lʌk/ - : \"u\"\nVoyelle /ʌ/, consonne finale /k/ prononcée.",
         "goal_words": "- /lʌk/ - : \"u\"\nVoyelle /ʌ/,  consonne finale /k/ prononcée.",
         "audio_filename": "line2_en_562.mp3",
-        "audio_dir": "Luck"
+        "learning_tag": "/ʌ/ comme dans \"cup\""
     },
     {
         "level": 1.0,
@@ -981,13 +999,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Amusant",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ comme dans \"cup\"",
+        "tag": "/ʌ/ comme dans \"cup\"",
         "prompt": "Fun ______,______",
         "answer": "Fun - /fʌn/ - : \"u\"\nVoyelle /ʌ/, consonne finale /n/ prononcée.",
         "goal_words": "- /fʌn/ - : \"u\"\nVoyelle /ʌ/,  consonne finale /n/ prononcée.",
         "audio_filename": "line_en_938.mp3",
-        "audio_dir": "Fun"
+        "learning_tag": "/ʌ/ comme dans \"cup\""
     },
     {
         "level": 1.0,
@@ -999,13 +1017,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Argent",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ comme dans \"cup\"",
+        "tag": "/ʌ/ comme dans \"cup\"",
         "prompt": "Money ______,______",
         "answer": "Money - /ˈmʌni/ - : \"o\"\nPremière voyelle /ʌ/, deuxième syllabe avec un ee prononcé /i/.",
         "goal_words": "- /ˈmʌni/ - : \"o\"\nPremière voyelle /ʌ/,  deuxième syllabe avec un ee prononcé /i/.",
         "audio_filename": "line2_en_638.mp3",
-        "audio_dir": "Money"
+        "learning_tag": "/ʌ/ comme dans \"cup\""
     },
     {
         "level": 1.0,
@@ -1017,13 +1035,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Sang",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ comme dans \"cup\"",
+        "tag": "/ʌ/ comme dans \"cup\"",
         "prompt": "Blood ______,______",
         "answer": "Blood - /blʌd/ - : \"oo\"\nLa voyelle est /ʌ/ ou /ʌd/, différente de ce que l’on pourrait attendre à cause de l’orthographe.",
         "goal_words": "- /blʌd/ - : \"oo\"\nLa voyelle est /ʌ/ ou /ʌd/,  différente de ce que l’on pourrait attendre à cause de l’orthographe.",
         "audio_filename": "line_en_309.mp3",
-        "audio_dir": "Blood"
+        "learning_tag": "/ʌ/ comme dans \"cup\""
     },
     {
         "level": 1.0,
@@ -1035,13 +1053,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Frère",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ comme dans \"cup\"",
+        "tag": "/ʌ/ comme dans \"cup\"",
         "prompt": "Brother ______,______,______",
         "answer": "Brother - /ˈbrʌðɚ/ - : \"o\"\nLa voyelle est /ʌ/, et le r final est prononcé, ce qui est très différent du français.",
         "goal_words": "- /ˈbrʌðɚ/ - : \"o\"\nLa voyelle est /ʌ/,  et le r final est prononcé,  ce qui est très différent du français.",
         "audio_filename": "line_en_354.mp3",
-        "audio_dir": "Brother"
+        "learning_tag": "/ʌ/ comme dans \"cup\""
     },
     {
         "level": 1.0,
@@ -1053,13 +1071,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Viens",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ comme dans \"cup\"",
+        "tag": "/ʌ/ comme dans \"cup\"",
         "prompt": "Come ______,______",
         "answer": "Come - /kʌm/ - : \"o\"\nVoyelle /ʌ/, consonne finale muette.",
         "goal_words": "- /kʌm/ - : \"o\"\nVoyelle /ʌ/,  consonne finale muette.",
         "audio_filename": "line_en_519.mp3",
-        "audio_dir": "Come"
+        "learning_tag": "/ʌ/ comme dans \"cup\""
     },
     {
         "level": 1.0,
@@ -1071,13 +1089,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Fait",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/ comme dans \"cup\"",
+        "tag": "/ʌ/ comme dans \"cup\"",
         "prompt": "Does ______,______,______",
         "answer": "Does - /dʌz/ - : \"oe\"\nSe prononce /dʌz/, avec un /ʌ/ et la consonne finale sonore /z/, ce qui peut surprendre un francophone.",
         "goal_words": "- /dʌz/ - : \"oe\"\nSe prononce /dʌz/,  avec un /ʌ/ et la consonne finale sonore /z/,  ce qui peut surprendre un francophone.",
         "audio_filename": "line_en_682.mp3",
-        "audio_dir": "Does"
+        "learning_tag": "/ʌ/ comme dans \"cup\""
     },
     {
         "level": 1.0,
@@ -1089,13 +1107,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Voir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ comme dans \"see\"",
+        "tag": "/iː/ comme dans \"see\"",
         "prompt": "See ______,______",
         "answer": "See - /siː/ - : \"ee\"\nVoyelle longue /iː/, plus tendue et prolongée que le i français habituel.",
         "goal_words": "- /siː/ - : \"ee\"\nVoyelle longue /iː/,  plus tendue et prolongée que le i français habituel.",
         "audio_filename": "line3_en_401.mp3",
-        "audio_dir": "See"
+        "learning_tag": "/iː/ comme dans \"see\""
     },
     {
         "level": 1.0,
@@ -1107,13 +1125,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Être",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ comme dans \"see\"",
+        "tag": "/iː/ comme dans \"see\"",
         "prompt": "Be ______,______",
         "answer": "Be - /biː/ - : \"e\"\nMême voyelle longue /iː/, consonne finale muette.",
         "goal_words": "- /biː/ - : \"e\"\nMême voyelle longue /iː/,  consonne finale muette.",
         "audio_filename": "line_en_255.mp3",
-        "audio_dir": "Be"
+        "learning_tag": "/iː/ comme dans \"see\""
     },
     {
         "level": 1.0,
@@ -1125,13 +1143,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Arbre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ comme dans \"see\"",
+        "tag": "/iː/ comme dans \"see\"",
         "prompt": "Tree ______,______,______,______",
         "answer": "Tree - /triː/ - : \"ee\"\nVoyelle longue /iː/, et le tr se prononce avec un r américain fort, roulé ou approximé, très différent du r français.",
         "goal_words": "- /triː/ - : \"ee\"\nVoyelle longue /iː/,  et le tr se prononce avec un r américain fort,  roulé ou approximé,  très différent du r français.",
         "audio_filename": "line4_en_587.mp3",
-        "audio_dir": "Tree"
+        "learning_tag": "/iː/ comme dans \"see\""
     },
     {
         "level": 1.0,
@@ -1143,13 +1161,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Rencontrer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ comme dans \"see\"",
+        "tag": "/iː/ comme dans \"see\"",
         "prompt": "Meet ______,______",
         "answer": "Meet - /miːt/ - : \"ee\"\nVoyelle longue /iː/, consonne finale /t/ claire.",
         "goal_words": "- /miːt/ - : \"ee\"\nVoyelle longue /iː/,  consonne finale /t/ claire.",
         "audio_filename": "line2_en_614.mp3",
-        "audio_dir": "Meet"
+        "learning_tag": "/iː/ comme dans \"see\""
     },
     {
         "level": 1.0,
@@ -1161,13 +1179,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Besoin",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ comme dans \"see\"",
+        "tag": "/iː/ comme dans \"see\"",
         "prompt": "Need ______,______",
         "answer": "Need - /niːd/ - : \"ee\"\nVoyelle longue /iː/, consonne finale sonore /d/ prononcée nettement.",
         "goal_words": "- /niːd/ - : \"ee\"\nVoyelle longue /iː/,  consonne finale sonore /d/ prononcée nettement.",
         "audio_filename": "line2_en_677.mp3",
-        "audio_dir": "Need"
+        "learning_tag": "/iː/ comme dans \"see\""
     },
     {
         "level": 1.0,
@@ -1179,13 +1197,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Paix",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ comme dans \"see\"",
+        "tag": "/iː/ comme dans \"see\"",
         "prompt": "Peace ______,______",
         "answer": "Peace - /piːs/ - : \"ea\"\nVoyelle longue /iː/, consonne finale /s/ prononcée.",
         "goal_words": "- /piːs/ - : \"ea\"\nVoyelle longue /iː/,  consonne finale /s/ prononcée.",
         "audio_filename": "line3_en_96.mp3",
-        "audio_dir": "Peace"
+        "learning_tag": "/iː/ comme dans \"see\""
     },
     {
         "level": 1.0,
@@ -1197,13 +1215,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Clé",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ comme dans \"see\"",
+        "tag": "/iː/ comme dans \"see\"",
         "prompt": "Key ______,______,______",
         "answer": "Key - /kiː/ - : \"ey\"\nVoyelle longue /iː/, fin muette ou presque, son clair.",
         "goal_words": "- /kiː/ - : \"ey\"\nVoyelle longue /iː/,  fin muette ou presque,  son clair.",
         "audio_filename": "line2_en_459.mp3",
-        "audio_dir": "Key"
+        "learning_tag": "/iː/ comme dans \"see\""
     },
     {
         "level": 1.0,
@@ -1215,13 +1233,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Personnes",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ comme dans \"see\"",
+        "tag": "/iː/ comme dans \"see\"",
         "prompt": "People ______,______,______",
         "answer": "People - /ˈpiːpəl/ - : \"eo\"\nPremière voyelle /iː/, mais la seconde syllabe contient un schwa /ə/, son neutre très bref et souvent ignoré par les francophones.",
         "goal_words": "- /ˈpiːpəl/ - : \"eo\"\nPremière voyelle /iː/,  mais la seconde syllabe contient un schwa /ə/,  son neutre très bref et souvent ignoré par les francophones.",
         "audio_filename": "line3_en_102.mp3",
-        "audio_dir": "People"
+        "learning_tag": "/iː/ comme dans \"see\""
     },
     {
         "level": 1.0,
@@ -1233,13 +1251,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Recevoir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ comme dans \"see\"",
+        "tag": "/iː/ comme dans \"see\"",
         "prompt": "Receive ______,______,______",
         "answer": "Receive - /rɪˈsiːv/ - : \"ei\"\nVoyelle /iː/ dans la deuxième syllabe, le v final est prononcé, contrairement à un f ou un b.",
         "goal_words": "- /rɪˈsiːv/ - : \"ei\"\nVoyelle /iː/ dans la deuxième syllabe,  le v final est prononcé,  contrairement à un f ou un b.",
         "audio_filename": "line3_en_242.mp3",
-        "audio_dir": "Receive"
+        "learning_tag": "/iː/ comme dans \"see\""
     },
     {
         "level": 1.0,
@@ -1251,13 +1269,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Police",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/ comme dans \"see\"",
+        "tag": "/iː/ comme dans \"see\"",
         "prompt": "Police ______,______",
         "answer": "Police - /pəˈliːs/ - : \"i\"\nLa deuxième syllabe a la voyelle longue /iː/, et le c final se prononce /s/.",
         "goal_words": "- /pəˈliːs/ - : \"i\"\nLa deuxième syllabe a la voyelle longue /iː/,  et le c final se prononce /s/.",
         "audio_filename": "line3_en_148.mp3",
-        "audio_dir": "Police"
+        "learning_tag": "/iː/ comme dans \"see\""
     },
     {
         "level": 1.0,
@@ -1269,13 +1287,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Père",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ comme dans \"car\"",
+        "tag": "/ɑː/ comme dans \"car\"",
         "prompt": "Father ______,______,______",
         "answer": "Father - /ˈfɑːðɚ/ - : \"a\"\nVoyelle longue et ouverte /ɑː/, bien plus ouverte que le a français. Le r final est prononcé fortement, contrairement au r muet français.",
         "goal_words": "- /ˈfɑːðɚ/ - : \"a\"\nVoyelle longue et ouverte /ɑː/,  bien plus ouverte que le a français. Le r final est prononcé fortement,  contrairement au r muet français.",
         "audio_filename": "line_en_849.mp3",
-        "audio_dir": "Father"
+        "learning_tag": "/ɑː/ comme dans \"car\""
     },
     {
         "level": 1.0,
@@ -1287,13 +1305,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Voiture",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ comme dans \"car\"",
+        "tag": "/ɑː/ comme dans \"car\"",
         "prompt": "Car ______,______,______,______",
         "answer": "Car - /kɑːr/ - : \"a\"\nVoyelle /ɑː/, avec le r américain prononcé, roulé ou approximé, fort et audible.",
         "goal_words": "- /kɑːr/ - : \"a\"\nVoyelle /ɑː/,  avec le r américain prononcé,  roulé ou approximé,  fort et audible.",
         "audio_filename": "line_en_434.mp3",
-        "audio_dir": "Car"
+        "learning_tag": "/ɑː/ comme dans \"car\""
     },
     {
         "level": 1.0,
@@ -1305,13 +1323,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Palmier",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ comme dans \"car\"",
+        "tag": "/ɑː/ comme dans \"car\"",
         "prompt": "Palm ______,______,______",
         "answer": "Palm - /pɑːm/ - : \"a\"\nVoyelle /ɑː/, le l est clair, pas mouillé comme en français.",
         "goal_words": "- /pɑːm/ - : \"a\"\nVoyelle /ɑː/,  le l est clair,  pas mouillé comme en français.",
         "audio_filename": "line3_en_66.mp3",
-        "audio_dir": "Palm"
+        "learning_tag": "/ɑː/ comme dans \"car\""
     },
     {
         "level": 1.0,
@@ -1323,13 +1341,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Déranger",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ comme dans \"car\"",
+        "tag": "/ɑː/ comme dans \"car\"",
         "prompt": "Bother ______,______",
         "answer": "Bother - /ˈbɑːðɚ/ - : \"o\"\nVoyelle /ɑː/ ou /ɒ/ (selon accent), avec le r américain prononcé.",
         "goal_words": "- /ˈbɑːðɚ/ - : \"o\"\nVoyelle /ɑː/ ou /ɒ/ (selon accent),  avec le r américain prononcé.",
         "audio_filename": "line_en_331.mp3",
-        "audio_dir": "Bother"
+        "learning_tag": "/ɑː/ comme dans \"car\""
     },
     {
         "level": 1.0,
@@ -1341,13 +1359,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Étoile",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ comme dans \"car\"",
+        "tag": "/ɑː/ comme dans \"car\"",
         "prompt": "Star ______,______,______",
         "answer": "Star - /stɑːr/ - : \"ar\"\nVoyelle /ɑː/, et le r final américain, roulé ou approximé.",
         "goal_words": "- /stɑːr/ - : \"ar\"\nVoyelle /ɑː/,  et le r final américain,  roulé ou approximé.",
         "audio_filename": "line3_en_845.mp3",
-        "audio_dir": "Star"
+        "learning_tag": "/ɑː/ comme dans \"car\""
     },
     {
         "level": 1.0,
@@ -1359,13 +1377,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Commencer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ comme dans \"car\"",
+        "tag": "/ɑː/ comme dans \"car\"",
         "prompt": "Start ______,______,______",
         "answer": "Start - /stɑːrt/ - : \"ar\"\nVoyelle /ɑː/, consonnes finales prononcées, r accentué.",
         "goal_words": "- /stɑːrt/ - : \"ar\"\nVoyelle /ɑː/,  consonnes finales prononcées,  r accentué.",
         "audio_filename": "line3_en_846.mp3",
-        "audio_dir": "Start"
+        "learning_tag": "/ɑː/ comme dans \"car\""
     },
     {
         "level": 1.0,
@@ -1377,13 +1395,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Dur",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ comme dans \"car\"",
+        "tag": "/ɑː/ comme dans \"car\"",
         "prompt": "Hard ______,______",
         "answer": "Hard - /hɑːrd/ - : \"ar\"\nVoyelle /ɑː/, avec un r clair et prononcé.",
         "goal_words": "- /hɑːrd/ - : \"ar\"\nVoyelle /ɑː/,  avec un r clair et prononcé.",
         "audio_filename": "line_en_1047.mp3",
-        "audio_dir": "Hard"
+        "learning_tag": "/ɑː/ comme dans \"car\""
     },
     {
         "level": 1.0,
@@ -1395,13 +1413,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Art",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ comme dans \"car\"",
+        "tag": "/ɑː/ comme dans \"car\"",
         "prompt": "Art ______,______",
         "answer": "Art - /ɑːrt/ - : \"ar\"\nVoyelle /ɑː/, et r prononcé.",
         "goal_words": "- /ɑːrt/ - : \"ar\"\nVoyelle /ɑː/,  et r prononcé.",
         "audio_filename": "line_en_191.mp3",
-        "audio_dir": "Art"
+        "learning_tag": "/ɑː/ comme dans \"car\""
     },
     {
         "level": 1.0,
@@ -1413,13 +1431,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Armée",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ comme dans \"car\"",
+        "tag": "/ɑː/ comme dans \"car\"",
         "prompt": "Army ______,______,______",
         "answer": "Army - /ˈɑːrmi/ - : \"ar\"\nPremière syllabe avec /ɑː/, et r prononcé, deuxième syllabe courte.",
         "goal_words": "- /ˈɑːrmi/ - : \"ar\"\nPremière syllabe avec /ɑː/,  et r prononcé,  deuxième syllabe courte.",
         "audio_filename": "line_en_188.mp3",
-        "audio_dir": "Army"
+        "learning_tag": "/ɑː/ comme dans \"car\""
     },
     {
         "level": 1.0,
@@ -1431,13 +1449,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Cœur",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/ comme dans \"car\"",
+        "tag": "/ɑː/ comme dans \"car\"",
         "prompt": "Heart ______,______,______",
         "answer": "Heart - /hɑːrt/ - : \"ea\"\nVoyelle /ɑː/, avec r américain prononcé, donnant une sonorité différente du a français.",
         "goal_words": "- /hɑːrt/ - : \"ea\"\nVoyelle /ɑː/,  avec r américain prononcé,  donnant une sonorité différente du a français.",
         "audio_filename": "line_en_1406.mp3",
-        "audio_dir": "Heart"
+        "learning_tag": "/ɑː/ comme dans \"car\""
     },
     {
         "level": 1.0,
@@ -1449,13 +1467,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Aussi",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ comme dans \"blue\"",
+        "tag": "/uː/ comme dans \"blue\"",
         "prompt": "Too ______,______",
         "answer": "Too - /tuː/ - : \"oo\"\n/uː/: Son long de \"ou\", comme dans \"fou\".",
         "goal_words": "- /tuː/ - : \"oo\"\n/uː/: Son long de \"ou\",  comme dans \"fou\".",
         "audio_filename": "line4_en_562.mp3",
-        "audio_dir": "Too"
+        "learning_tag": "/uː/ comme dans \"blue\""
     },
     {
         "level": 1.0,
@@ -1467,13 +1485,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Bleu",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ comme dans \"blue\"",
+        "tag": "/uː/ comme dans \"blue\"",
         "prompt": "Blue ______",
         "answer": "Blue - /bluː/ - : \"ue\"\n/uː/: Son long de \"ou\". /bl/: Comme \"bl\" en français.",
         "goal_words": "- /bluː/ - : \"ue\"\n/uː/: Son long de \"ou\". /bl/: Comme \"bl\" en français.",
         "audio_filename": "line_en_310.mp3",
-        "audio_dir": "Blue"
+        "learning_tag": "/uː/ comme dans \"blue\""
     },
     {
         "level": 1.0,
@@ -1485,13 +1503,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Vrai",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ comme dans \"blue\"",
+        "tag": "/uː/ comme dans \"blue\"",
         "prompt": "True ______,______,______",
         "answer": "True - /truː/ - : \"ue\"\n/uː/: Son long de \"ou\". /tr/: Comme \"tr\" en français, mais avec un \"r\" plus doux, presque comme un \"r\" roulé.",
         "goal_words": "- /truː/ - : \"ue\"\n/uː/: Son long de \"ou\". /tr/: Comme \"tr\" en français,  mais avec un \"r\" plus doux,  presque comme un \"r\" roulé.",
         "audio_filename": "line4_en_594.mp3",
-        "audio_dir": "True"
+        "learning_tag": "/uː/ comme dans \"blue\""
     },
     {
         "level": 1.0,
@@ -1503,13 +1521,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Nourriture",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ comme dans \"blue\"",
+        "tag": "/uː/ comme dans \"blue\"",
         "prompt": "Food ______,______",
         "answer": "Food - /fuːd/ - : \"oo\"\n/uː/: Son long de \"ou\". /d/: Doux, presque comme un \"d\" entre deux voyelles en français.",
         "goal_words": "- /fuːd/ - : \"oo\"\n/uː/: Son long de \"ou\". /d/: Doux,  presque comme un \"d\" entre deux voyelles en français.",
         "audio_filename": "line_en_904.mp3",
-        "audio_dir": "Food"
+        "learning_tag": "/uː/ comme dans \"blue\""
     },
     {
         "level": 1.0,
@@ -1521,13 +1539,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Lune",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ comme dans \"blue\"",
+        "tag": "/uː/ comme dans \"blue\"",
         "prompt": "Moon ______",
         "answer": "Moon - /muːn/ - : \"oo\"\n/uː/: Son long de \"ou\". /n/: Comme \"n\" en français.",
         "goal_words": "- /muːn/ - : \"oo\"\n/uː/: Son long de \"ou\". /n/: Comme \"n\" en français.",
         "audio_filename": "line2_en_642.mp3",
-        "audio_dir": "Moon"
+        "learning_tag": "/uː/ comme dans \"blue\""
     },
     {
         "level": 1.0,
@@ -1539,13 +1557,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Botte",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ comme dans \"blue\"",
+        "tag": "/uː/ comme dans \"blue\"",
         "prompt": "Boot ______,______",
         "answer": "Boot - /buːt/ - : \"oo\"\n/uː/: Son long de \"ou\". /t/: Comme un \"t\" léger, pas aussi appuyé qu'en français.",
         "goal_words": "- /buːt/ - : \"oo\"\n/uː/: Son long de \"ou\". /t/: Comme un \"t\" léger,  pas aussi appuyé qu'en français.",
         "audio_filename": "line_en_321.mp3",
-        "audio_dir": "Boot"
+        "learning_tag": "/uː/ comme dans \"blue\""
     },
     {
         "level": 1.0,
@@ -1557,13 +1575,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Bientôt",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ comme dans \"blue\"",
+        "tag": "/uː/ comme dans \"blue\"",
         "prompt": "Soon ______",
         "answer": "Soon - /suːn/ - : \"oo\"\n/uː/: Son long de \"ou\". /s/: Comme \"s\" en français.",
         "goal_words": "- /suːn/ - : \"oo\"\n/uː/: Son long de \"ou\". /s/: Comme \"s\" en français.",
         "audio_filename": "line3_en_806.mp3",
-        "audio_dir": "Soon"
+        "learning_tag": "/uː/ comme dans \"blue\""
     },
     {
         "level": 1.0,
@@ -1575,13 +1593,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Groupe",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ comme dans \"blue\"",
+        "tag": "/uː/ comme dans \"blue\"",
         "prompt": "Group ______",
         "answer": "Group - /ɡruːp/ - : \"ou\"\n/uː/: Son long de \"ou\". /gr/: Comme \"gr\" en français.",
         "goal_words": "- /ɡruːp/ - : \"ou\"\n/uː/: Son long de \"ou\". /gr/: Comme \"gr\" en français.",
         "audio_filename": "line_en_1020.mp3",
-        "audio_dir": "Group"
+        "learning_tag": "/uː/ comme dans \"blue\""
     },
     {
         "level": 1.0,
@@ -1593,13 +1611,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Se déplacer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ comme dans \"blue\"",
+        "tag": "/uː/ comme dans \"blue\"",
         "prompt": "Move ______,______",
         "answer": "Move - /muːv/ - : \"o\"\n/uː/: Son long de \"ou\". /v/: Comme un \"v\" doux, entre \"v\" et \"b\" en français.",
         "goal_words": "- /muːv/ - : \"o\"\n/uː/: Son long de \"ou\". /v/: Comme un \"v\" doux,  entre \"v\" et \"b\" en français.",
         "audio_filename": "line2_en_654.mp3",
-        "audio_dir": "Move"
+        "learning_tag": "/uː/ comme dans \"blue\""
     },
     {
         "level": 1.0,
@@ -1611,13 +1629,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Flûte",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/ comme dans \"blue\"",
+        "tag": "/uː/ comme dans \"blue\"",
         "prompt": "Flute ______",
         "answer": "Flute - /fluːt/ - : \"ue\"\n/uː/: Son long de \"ou\". /fl/: Comme \"fl\" en français.",
         "goal_words": "- /fluːt/ - : \"ue\"\n/uː/: Son long de \"ou\". /fl/: Comme \"fl\" en français.",
         "audio_filename": "line_en_897.mp3",
-        "audio_dir": "Flute"
+        "learning_tag": "/uː/ comme dans \"blue\""
     },
     {
         "level": 1.0,
@@ -1629,13 +1647,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Loi",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ comme dans \"law\"",
+        "tag": "/ɔː/ comme dans \"law\"",
         "prompt": "Law ______,______,______",
         "answer": "Law - /lɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\", plus ouvert, comme \"or\" en anglais mais sans le \"r\".",
         "goal_words": "- /lɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\",  plus ouvert,  comme \"or\" en anglais mais sans le \"r\".",
         "audio_filename": "line2_en_488.mp3",
-        "audio_dir": "Law"
+        "learning_tag": "/ɔː/ comme dans \"law\""
     },
     {
         "level": 1.0,
@@ -1647,13 +1665,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Scie",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ comme dans \"law\"",
+        "tag": "/ɔː/ comme dans \"law\"",
         "prompt": "Saw ______,______",
         "answer": "Saw - /sɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\", plus ouvert.",
         "goal_words": "- /sɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\",  plus ouvert.",
         "audio_filename": "line3_en_372.mp3",
-        "audio_dir": "Saw"
+        "learning_tag": "/ɔː/ comme dans \"law\""
     },
     {
         "level": 1.0,
@@ -1665,13 +1683,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Patte",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ comme dans \"law\"",
+        "tag": "/ɔː/ comme dans \"law\"",
         "prompt": "Paw ______,______",
         "answer": "Paw - /pɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\", plus ouvert.",
         "goal_words": "- /pɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\",  plus ouvert.",
         "audio_filename": "line3_en_89.mp3",
-        "audio_dir": "Paw"
+        "learning_tag": "/ɔː/ comme dans \"law\""
     },
     {
         "level": 1.0,
@@ -1683,13 +1701,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Dessiner",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ comme dans \"law\"",
+        "tag": "/ɔː/ comme dans \"law\"",
         "prompt": "Draw ______,______",
         "answer": "Draw - /drɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\". /dr/: Comme \"dr\" en français, mais avec un \"r\" plus doux.",
         "goal_words": "- /drɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\". /dr/: Comme \"dr\" en français,  mais avec un \"r\" plus doux.",
         "audio_filename": "line_en_728.mp3",
-        "audio_dir": "Draw"
+        "learning_tag": "/ɔː/ comme dans \"law\""
     },
     {
         "level": 1.0,
@@ -1701,13 +1719,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Défaut",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ comme dans \"law\"",
+        "tag": "/ɔː/ comme dans \"law\"",
         "prompt": "Flaw ______",
         "answer": "Flaw - /flɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\". /fl/: Comme \"fl\" en français.",
         "goal_words": "- /flɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\". /fl/: Comme \"fl\" en français.",
         "audio_filename": "line_en_892.mp3",
-        "audio_dir": "Flaw"
+        "learning_tag": "/ɔː/ comme dans \"law\""
     },
     {
         "level": 1.0,
@@ -1719,31 +1737,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Brut",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ comme dans \"law\"",
+        "tag": "/ɔː/ comme dans \"law\"",
         "prompt": "Raw ______,______",
         "answer": "Raw - /rɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\". /r/: Comme un \"r\" doux, presque comme un \"r\" anglais.",
         "goal_words": "- /rɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\". /r/: Comme un \"r\" doux,  presque comme un \"r\" anglais.",
         "audio_filename": "line3_en_230.mp3",
-        "audio_dir": "Raw"
-    },
-    {
-        "level": 1.0,
-        "image_filename": "walk_across_street.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "1 prononciation - voyelles",
-        "native_answer": "Shaw",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Shaw ______,______",
-        "answer": "Shaw - /ʃɔː/ - : \"aw\"\n/ʃ/: Son de \"sh\", comme dans \"chut\". /ɔː/: Son long de \"o\".",
-        "goal_words": "- /ʃɔː/ - : \"aw\"\n/ʃ/: Son de \"sh\",  comme dans \"chut\". /ɔː/: Son long de \"o\".",
-        "audio_filename": "line3_en_423.mp3",
-        "audio_dir": "Shaw"
+        "learning_tag": "/ɔː/ comme dans \"law\""
     },
     {
         "level": 1.0,
@@ -1755,13 +1755,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Griffe",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ comme dans \"law\"",
+        "tag": "/ɔː/ comme dans \"law\"",
         "prompt": "Claw ______",
         "answer": "Claw - /klɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\". /kl/: Comme \"cl\" en français.",
         "goal_words": "- /klɔː/ - : \"aw\"\n/ɔː/: Son long de \"o\". /kl/: Comme \"cl\" en français.",
         "audio_filename": "line_en_500.mp3",
-        "audio_dir": "Claw"
+        "learning_tag": "/ɔː/ comme dans \"law\""
     },
     {
         "level": 1.0,
@@ -1773,13 +1773,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Cause",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ comme dans \"law\"",
+        "tag": "/ɔː/ comme dans \"law\"",
         "prompt": "Cause ______,______",
         "answer": "Cause - /kɔːz/ - : \"au\"\n/ɔː/: Son long de \"o\". /z/: Comme un \"z\" doux, presque comme un \"s\" sonore.",
         "goal_words": "- /kɔːz/ - : \"au\"\n/ɔː/: Son long de \"o\". /z/: Comme un \"z\" doux,  presque comme un \"s\" sonore.",
         "audio_filename": "line_en_450.mp3",
-        "audio_dir": "Cause"
+        "learning_tag": "/ɔː/ comme dans \"law\""
     },
     {
         "level": 1.0,
@@ -1791,13 +1791,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Pause",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/ comme dans \"law\"",
+        "tag": "/ɔː/ comme dans \"law\"",
         "prompt": "Pause ______,______",
         "answer": "Pause - /pɔːz/ - : \"au\"\n/ɔː/: Son long de \"o\". /z/: Comme un \"z\" doux, presque comme un \"s\" sonore.",
         "goal_words": "- /pɔːz/ - : \"au\"\n/ɔː/: Son long de \"o\". /z/: Comme un \"z\" doux,  presque comme un \"s\" sonore.",
         "audio_filename": "line3_en_88.mp3",
-        "audio_dir": "Pause"
+        "learning_tag": "/ɔː/ comme dans \"law\""
     },
     {
         "level": 1.0,
@@ -1809,13 +1809,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Jour",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ comme dans \"say\"",
+        "tag": "/eɪ/ comme dans \"say\"",
         "prompt": "Day ______,______",
         "answer": "Day - /deɪ/ - spelling: \"ay\"\nDiphtongue /eɪ/, commence par un son proche de é mais glisse vers un son i bref à la fin.",
         "goal_words": "- /deɪ/ - spelling: \"ay\"\nDiphtongue /eɪ/,  commence par un son proche de é mais glisse vers un son i bref à la fin.",
         "audio_filename": "line_en_615.mp3",
-        "audio_dir": "Day"
+        "learning_tag": "/eɪ/ comme dans \"say\""
     },
     {
         "level": 1.0,
@@ -1827,13 +1827,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Dire",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ comme dans \"say\"",
+        "tag": "/eɪ/ comme dans \"say\"",
         "prompt": "Say ______,______",
         "answer": "Say - /seɪ/ - spelling: \"ay\"\nMême diphtongue /eɪ/, glissant vers un i bref.",
         "goal_words": "- /seɪ/ - spelling: \"ay\"\nMême diphtongue /eɪ/,  glissant vers un i bref.",
         "audio_filename": "line3_en_373.mp3",
-        "audio_dir": "Say"
+        "learning_tag": "/eɪ/ comme dans \"say\""
     },
     {
         "level": 1.0,
@@ -1845,13 +1845,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Jouer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ comme dans \"say\"",
+        "tag": "/eɪ/ comme dans \"say\"",
         "prompt": "Play ______,______",
         "answer": "Play - /pleɪ/ - spelling: \"ay\"\nMême diphtongue /eɪ/, avec le pl prononcé clairement.",
         "goal_words": "- /pleɪ/ - spelling: \"ay\"\nMême diphtongue /eɪ/,  avec le pl prononcé clairement.",
         "audio_filename": "line3_en_135.mp3",
-        "audio_dir": "Play"
+        "learning_tag": "/eɪ/ comme dans \"say\""
     },
     {
         "level": 1.0,
@@ -1863,13 +1863,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Faire",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ comme dans \"say\"",
+        "tag": "/eɪ/ comme dans \"say\"",
         "prompt": "Make ______,______,______",
         "answer": "Make - /meɪk/ - spelling: \"a\"\nDiphtongue /eɪ/, fin en /k/, le k est prononcé nettement.",
         "goal_words": "- /meɪk/ - spelling: \"a\"\nDiphtongue /eɪ/,  fin en /k/,  le k est prononcé nettement.",
         "audio_filename": "line2_en_575.mp3",
-        "audio_dir": "Make"
+        "learning_tag": "/eɪ/ comme dans \"say\""
     },
     {
         "level": 1.0,
@@ -1881,13 +1881,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Payer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ comme dans \"say\"",
+        "tag": "/eɪ/ comme dans \"say\"",
         "prompt": "Pay ______,______",
         "answer": "Pay - /peɪ/ - spelling: \"ay\"\nDiphtongue /eɪ/, son tendu et glissant vers i.",
         "goal_words": "- /peɪ/ - spelling: \"ay\"\nDiphtongue /eɪ/,  son tendu et glissant vers i.",
         "audio_filename": "line3_en_90.mp3",
-        "audio_dir": "Pay"
+        "learning_tag": "/eɪ/ comme dans \"say\""
     },
     {
         "level": 1.0,
@@ -1899,13 +1899,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Attendez",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ comme dans \"say\"",
+        "tag": "/eɪ/ comme dans \"say\"",
         "prompt": "Wait ______,______",
         "answer": "Wait - /weɪt/ - spelling: \"ai\"\nDiphtongue /eɪ/, consonne finale /t/ prononcée.",
         "goal_words": "- /weɪt/ - spelling: \"ai\"\nDiphtongue /eɪ/,  consonne finale /t/ prononcée.",
         "audio_filename": "line4_en_663.mp3",
-        "audio_dir": "Wait"
+        "learning_tag": "/eɪ/ comme dans \"say\""
     },
     {
         "level": 1.0,
@@ -1917,13 +1917,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Huit",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ comme dans \"say\"",
+        "tag": "/eɪ/ comme dans \"say\"",
         "prompt": "Eight ______,______,______",
         "answer": "Eight - /eɪt/ - spelling: \"eigh\"\nDiphtongue /eɪ/, consonne finale /t/ prononcée, plus marquée.",
         "goal_words": "- /eɪt/ - spelling: \"eigh\"\nDiphtongue /eɪ/,  consonne finale /t/ prononcée,  plus marquée.",
         "audio_filename": "line_en_777.mp3",
-        "audio_dir": "Eight"
+        "learning_tag": "/eɪ/ comme dans \"say\""
     },
     {
         "level": 1.0,
@@ -1935,13 +1935,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Pluie",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ comme dans \"say\"",
+        "tag": "/eɪ/ comme dans \"say\"",
         "prompt": "Rain ______,______",
         "answer": "Rain - /reɪn/ - spelling: \"ai\"\nDiphtongue /eɪ/, consonne finale /n/ prononcée.",
         "goal_words": "- /reɪn/ - spelling: \"ai\"\nDiphtongue /eɪ/,  consonne finale /n/ prononcée.",
         "audio_filename": "line3_en_224.mp3",
-        "audio_dir": "Rain"
+        "learning_tag": "/eɪ/ comme dans \"say\""
     },
     {
         "level": 1.0,
@@ -1953,13 +1953,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Ils",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ comme dans \"say\"",
+        "tag": "/eɪ/ comme dans \"say\"",
         "prompt": "They ______,______,______",
         "answer": "They - /ðeɪ/ - spelling: \"ey\"\nDiphtongue /eɪ/, le th est un son interdental sourd /ð/, très différent du z ou d français.",
         "goal_words": "- /ðeɪ/ - spelling: \"ey\"\nDiphtongue /eɪ/,  le th est un son interdental sourd /ð/,  très différent du z ou d français.",
         "audio_filename": "line4_en_77.mp3",
-        "audio_dir": "They"
+        "learning_tag": "/eɪ/ comme dans \"say\""
     },
     {
         "level": 1.0,
@@ -1971,13 +1971,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Casser",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/ comme dans \"say\"",
+        "tag": "/eɪ/ comme dans \"say\"",
         "prompt": "Break ______,______,______",
         "answer": "Break - /breɪk/ - spelling: \"ea\"\nDiphtongue /eɪ/, fin en /k/, avec le br prononcé clairement.",
         "goal_words": "- /breɪk/ - spelling: \"ea\"\nDiphtongue /eɪ/,  fin en /k/,  avec le br prononcé clairement.",
         "audio_filename": "line_en_345.mp3",
-        "audio_dir": "Break"
+        "learning_tag": "/eɪ/ comme dans \"say\""
     },
     {
         "level": 1.0,
@@ -1989,13 +1989,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Aller",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ comme dans \"go\"",
+        "tag": "/oʊ/ comme dans \"go\"",
         "prompt": "Go ______,______",
         "answer": "Go - /ɡoʊ/ - : \"o\"\nDiphtongue /oʊ/, commence par un son proche de o fermé et glisse vers un u bref.",
         "goal_words": "- /ɡoʊ/ - : \"o\"\nDiphtongue /oʊ/,  commence par un son proche de o fermé et glisse vers un u bref.",
         "audio_filename": "line_en_982.mp3",
-        "audio_dir": "Go"
+        "learning_tag": "/oʊ/ comme dans \"go\""
     },
     {
         "level": 1.0,
@@ -2007,13 +2007,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Non",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ comme dans \"go\"",
+        "tag": "/oʊ/ comme dans \"go\"",
         "prompt": "No ______,______,______",
         "answer": "No - /noʊ/ - : \"o\"\nDiphtongue /oʊ/, similaire à go, glissant vers un u bref.",
         "goal_words": "- /noʊ/ - : \"o\"\nDiphtongue /oʊ/,  similaire à go,  glissant vers un u bref.",
         "audio_filename": "line2_en_694.mp3",
-        "audio_dir": "No"
+        "learning_tag": "/oʊ/ comme dans \"go\""
     },
     {
         "level": 1.0,
@@ -2025,13 +2025,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Montrer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ comme dans \"go\"",
+        "tag": "/oʊ/ comme dans \"go\"",
         "prompt": "Show ______,______,______",
         "answer": "Show - /ʃoʊ/ - : \"ow\"\nDiphtongue /oʊ/, le sh est /ʃ/, un son existant en français mais important de distinguer.",
         "goal_words": "- /ʃoʊ/ - : \"ow\"\nDiphtongue /oʊ/,  le sh est /ʃ/,  un son existant en français mais important de distinguer.",
         "audio_filename": "line3_en_727.mp3",
-        "audio_dir": "Show"
+        "learning_tag": "/oʊ/ comme dans \"go\""
     },
     {
         "level": 1.0,
@@ -2043,13 +2043,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Donc",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ comme dans \"go\"",
+        "tag": "/oʊ/ comme dans \"go\"",
         "prompt": "So ______,______",
         "answer": "So - /soʊ/ - : \"o\"\nDiphtongue /oʊ/, son tendu avec glissement final.",
         "goal_words": "- /soʊ/ - : \"o\"\nDiphtongue /oʊ/,  son tendu avec glissement final.",
         "audio_filename": "line3_en_784.mp3",
-        "audio_dir": "So"
+        "learning_tag": "/oʊ/ comme dans \"go\""
     },
     {
         "level": 1.0,
@@ -2061,13 +2061,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Les deux",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ comme dans \"go\"",
+        "tag": "/oʊ/ comme dans \"go\"",
         "prompt": "Both ______,______,______",
         "answer": "Both - /boʊθ/ - : \"o\"\nDiphtongue /oʊ/, consonne finale /θ/ (son th sourd), difficile pour un francophone.",
         "goal_words": "- /boʊθ/ - : \"o\"\nDiphtongue /oʊ/,  consonne finale /θ/ (son th sourd),  difficile pour un francophone.",
         "audio_filename": "line_en_326.mp3",
-        "audio_dir": "Both"
+        "learning_tag": "/oʊ/ comme dans \"go\""
     },
     {
         "level": 1.0,
@@ -2079,13 +2079,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Route",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ comme dans \"go\"",
+        "tag": "/oʊ/ comme dans \"go\"",
         "prompt": "Road ______,______",
         "answer": "Road - /roʊd/ - : \"oa\"\nDiphtongue /oʊ/, consonne finale sonore /d/ prononcée.",
         "goal_words": "- /roʊd/ - : \"oa\"\nDiphtongue /oʊ/,  consonne finale sonore /d/ prononcée.",
         "audio_filename": "line3_en_301.mp3",
-        "audio_dir": "Road"
+        "learning_tag": "/oʊ/ comme dans \"go\""
     },
     {
         "level": 1.0,
@@ -2097,13 +2097,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Neige",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ comme dans \"go\"",
+        "tag": "/oʊ/ comme dans \"go\"",
         "prompt": "Snow ______,______",
         "answer": "Snow - /snoʊ/ - : \"ow\"\nDiphtongue /oʊ/, consonne finale /w/ audible.",
         "goal_words": "- /snoʊ/ - : \"ow\"\nDiphtongue /oʊ/,  consonne finale /w/ audible.",
         "audio_filename": "line3_en_782.mp3",
-        "audio_dir": "Snow"
+        "learning_tag": "/oʊ/ comme dans \"go\""
     },
     {
         "level": 1.0,
@@ -2115,13 +2115,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Bateau",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ comme dans \"go\"",
+        "tag": "/oʊ/ comme dans \"go\"",
         "prompt": "Boat ______,______",
         "answer": "Boat - /boʊt/ - : \"oa\"\nDiphtongue /oʊ/, consonne finale /t/ claire.",
         "goal_words": "- /boʊt/ - : \"oa\"\nDiphtongue /oʊ/,  consonne finale /t/ claire.",
         "audio_filename": "line_en_313.mp3",
-        "audio_dir": "Boat"
+        "learning_tag": "/oʊ/ comme dans \"go\""
     },
     {
         "level": 1.0,
@@ -2133,13 +2133,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Bien que",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ comme dans \"go\"",
+        "tag": "/oʊ/ comme dans \"go\"",
         "prompt": "Although ______,______,______",
         "answer": "Although - /ɔlˈðoʊ/ - : \"ough\"\nDiphtongue /oʊ/, le th final est /ð/ sonore, consonne difficile.",
         "goal_words": "- /ɔlˈðoʊ/ - : \"ough\"\nDiphtongue /oʊ/,  le th final est /ð/ sonore,  consonne difficile.",
         "audio_filename": "line_en_140.mp3",
-        "audio_dir": "Although"
+        "learning_tag": "/oʊ/ comme dans \"go\""
     },
     {
         "level": 1.0,
@@ -2151,13 +2151,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Orteil",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/ comme dans \"go\"",
+        "tag": "/oʊ/ comme dans \"go\"",
         "prompt": "Toe ______,______,______",
         "answer": "Toe - /toʊ/ - : \"oe\"\nDiphtongue /oʊ/, fin muette, son tendu.",
         "goal_words": "- /toʊ/ - : \"oe\"\nDiphtongue /oʊ/,  fin muette,  son tendu.",
         "audio_filename": "line4_en_555.mp3",
-        "audio_dir": "Toe"
+        "learning_tag": "/oʊ/ comme dans \"go\""
     },
     {
         "level": 1.0,
@@ -2169,13 +2169,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Mon",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ comme dans \"my\"",
+        "tag": "/aɪ/ comme dans \"my\"",
         "prompt": "My ______,______",
         "answer": "My - /maɪ/ - : \"y\"\nDiphtongue /aɪ/, commence par un son ouvert proche de a puis glisse vers un i bref.",
         "goal_words": "- /maɪ/ - : \"y\"\nDiphtongue /aɪ/,  commence par un son ouvert proche de a puis glisse vers un i bref.",
         "audio_filename": "line2_en_665.mp3",
-        "audio_dir": "My"
+        "learning_tag": "/aɪ/ comme dans \"my\""
     },
     {
         "level": 1.0,
@@ -2187,13 +2187,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Temps",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ comme dans \"my\"",
+        "tag": "/aɪ/ comme dans \"my\"",
         "prompt": "Time ______,______",
         "answer": "Time - /taɪm/ - : \"i\"\nDiphtongue /aɪ/, consonne finale muette (le e ne se prononce pas).",
         "goal_words": "- /taɪm/ - : \"i\"\nDiphtongue /aɪ/,  consonne finale muette (le e ne se prononce pas).",
         "audio_filename": "line4_en_444.mp3",
-        "audio_dir": "Time"
+        "learning_tag": "/aɪ/ comme dans \"my\""
     },
     {
         "level": 1.0,
@@ -2205,13 +2205,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Haut",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ comme dans \"my\"",
+        "tag": "/aɪ/ comme dans \"my\"",
         "prompt": "High ______,______",
         "answer": "High - /haɪ/ - : \"i\"\nDiphtongue /aɪ/, son similaire à time.",
         "goal_words": "- /haɪ/ - : \"i\"\nDiphtongue /aɪ/,  son similaire à time.",
         "audio_filename": "line_en_1433.mp3",
-        "audio_dir": "High"
+        "learning_tag": "/aɪ/ comme dans \"my\""
     },
     {
         "level": 1.0,
@@ -2223,13 +2223,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Pleurer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ comme dans \"my\"",
+        "tag": "/aɪ/ comme dans \"my\"",
         "prompt": "Cry ______,______",
         "answer": "Cry - /kraɪ/ - : \"y\"\nDiphtongue /aɪ/, avec consonne finale r prononcée très différemment du r français (plus roulé ou approximé).",
         "goal_words": "- /kraɪ/ - : \"y\"\nDiphtongue /aɪ/,  avec consonne finale r prononcée très différemment du r français (plus roulé ou approximé).",
         "audio_filename": "line_en_587.mp3",
-        "audio_dir": "Cry"
+        "learning_tag": "/aɪ/ comme dans \"my\""
     },
     {
         "level": 1.0,
@@ -2241,13 +2241,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Voler",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ comme dans \"my\"",
+        "tag": "/aɪ/ comme dans \"my\"",
         "prompt": "Fly ______,______",
         "answer": "Fly - /flaɪ/ - : \"y\"\nDiphtongue /aɪ/, son en f bien prononcé au début.",
         "goal_words": "- /flaɪ/ - : \"y\"\nDiphtongue /aɪ/,  son en f bien prononcé au début.",
         "audio_filename": "line_en_898.mp3",
-        "audio_dir": "Fly"
+        "learning_tag": "/aɪ/ comme dans \"my\""
     },
     {
         "level": 1.0,
@@ -2259,13 +2259,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Mensonge",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ comme dans \"my\"",
+        "tag": "/aɪ/ comme dans \"my\"",
         "prompt": "Lie ______,______",
         "answer": "Lie - /laɪ/ - : \"ie\"\nDiphtongue /aɪ/, fin muette.",
         "goal_words": "- /laɪ/ - : \"ie\"\nDiphtongue /aɪ/,  fin muette.",
         "audio_filename": "line2_en_514.mp3",
-        "audio_dir": "Lie"
+        "learning_tag": "/aɪ/ comme dans \"my\""
     },
     {
         "level": 1.0,
@@ -2277,13 +2277,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Vue",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ comme dans \"my\"",
+        "tag": "/aɪ/ comme dans \"my\"",
         "prompt": "Sight ______,______",
         "answer": "Sight - /saɪt/ - : \"i\"\nDiphtongue /aɪ/, consonne finale /t/ claire.",
         "goal_words": "- /saɪt/ - : \"i\"\nDiphtongue /aɪ/,  consonne finale /t/ claire.",
         "audio_filename": "line3_en_734.mp3",
-        "audio_dir": "Sight"
+        "learning_tag": "/aɪ/ comme dans \"my\""
     },
     {
         "level": 1.0,
@@ -2295,13 +2295,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Droite",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ comme dans \"my\"",
+        "tag": "/aɪ/ comme dans \"my\"",
         "prompt": "Right ______,______,______",
         "answer": "Right - /raɪt/ - : \"i\"\nDiphtongue /aɪ/, r prononcé fort, /t/ final net.",
         "goal_words": "- /raɪt/ - : \"i\"\nDiphtongue /aɪ/,  r prononcé fort,  /t/ final net.",
         "audio_filename": "line3_en_291.mp3",
-        "audio_dir": "Right"
+        "learning_tag": "/aɪ/ comme dans \"my\""
     },
     {
         "level": 1.0,
@@ -2313,13 +2313,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Lutte",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ comme dans \"my\"",
+        "tag": "/aɪ/ comme dans \"my\"",
         "prompt": "Fight ______,______",
         "answer": "Fight - /faɪt/ - : \"i\"\nDiphtongue /aɪ/, consonnes finales nettes /t/.",
         "goal_words": "- /faɪt/ - : \"i\"\nDiphtongue /aɪ/,  consonnes finales nettes /t/.",
         "audio_filename": "line_en_868.mp3",
-        "audio_dir": "Fight"
+        "learning_tag": "/aɪ/ comme dans \"my\""
     },
     {
         "level": 1.0,
@@ -2331,13 +2331,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Acheter",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/ comme dans \"my\"",
+        "tag": "/aɪ/ comme dans \"my\"",
         "prompt": "Buy ______,______",
         "answer": "Buy - /baɪ/ - : \"uy\"\nDiphtongue /aɪ/, fin muette.",
         "goal_words": "- /baɪ/ - : \"uy\"\nDiphtongue /aɪ/,  fin muette.",
         "audio_filename": "line_en_375.mp3",
-        "audio_dir": "Buy"
+        "learning_tag": "/aɪ/ comme dans \"my\""
     },
     {
         "level": 1.0,
@@ -2349,13 +2349,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Garçon",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ comme dans \"boy\"",
+        "tag": "/ɔɪ/ comme dans \"boy\"",
         "prompt": "Boy ______,______",
         "answer": "Boy - /bɔɪ/ - : \"oy\"\nDiphtongue /ɔɪ/, commence par un son ouvert proche de o suivi d’un glissement vers un i bref.",
         "goal_words": "- /bɔɪ/ - : \"oy\"\nDiphtongue /ɔɪ/,  commence par un son ouvert proche de o suivi d’un glissement vers un i bref.",
         "audio_filename": "line_en_336.mp3",
-        "audio_dir": "Boy"
+        "learning_tag": "/ɔɪ/ comme dans \"boy\""
     },
     {
         "level": 1.0,
@@ -2367,13 +2367,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Jouet",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ comme dans \"boy\"",
+        "tag": "/ɔɪ/ comme dans \"boy\"",
         "prompt": "Toy ______,______",
         "answer": "Toy - /tɔɪ/ - : \"oy\"\nDiphtongue /ɔɪ/, similaire à boy.",
         "goal_words": "- /tɔɪ/ - : \"oy\"\nDiphtongue /ɔɪ/,  similaire à boy.",
         "audio_filename": "line4_en_580.mp3",
-        "audio_dir": "Toy"
+        "learning_tag": "/ɔɪ/ comme dans \"boy\""
     },
     {
         "level": 1.0,
@@ -2385,13 +2385,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Joie",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ comme dans \"boy\"",
+        "tag": "/ɔɪ/ comme dans \"boy\"",
         "prompt": "Joy ______,______",
         "answer": "Joy - /dʒɔɪ/ - : \"oy\"\nDiphtongue /ɔɪ/, avec consonne initiale /dʒ/ comme dans job.",
         "goal_words": "- /dʒɔɪ/ - : \"oy\"\nDiphtongue /ɔɪ/,  avec consonne initiale /dʒ/ comme dans job.",
         "audio_filename": "line2_en_431.mp3",
-        "audio_dir": "Joy"
+        "learning_tag": "/ɔɪ/ comme dans \"boy\""
     },
     {
         "level": 1.0,
@@ -2403,13 +2403,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Pièce de monnaie",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ comme dans \"boy\"",
+        "tag": "/ɔɪ/ comme dans \"boy\"",
         "prompt": "Coin ______,______",
         "answer": "Coin - /kɔɪn/ - : \"oi\"\nDiphtongue /ɔɪ/, consonne finale /n/ prononcée.",
         "goal_words": "- /kɔɪn/ - : \"oi\"\nDiphtongue /ɔɪ/,  consonne finale /n/ prononcée.",
         "audio_filename": "line_en_514.mp3",
-        "audio_dir": "Coin"
+        "learning_tag": "/ɔɪ/ comme dans \"boy\""
     },
     {
         "level": 1.0,
@@ -2421,13 +2421,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Choix",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ comme dans \"boy\"",
+        "tag": "/ɔɪ/ comme dans \"boy\"",
         "prompt": "Choice ______,______",
         "answer": "Choice - /ʧɔɪs/ - : \"oi\"\nDiphtongue /ɔɪ/, consonne finale /s/ prononcée.",
         "goal_words": "- /ʧɔɪs/ - : \"oi\"\nDiphtongue /ɔɪ/,  consonne finale /s/ prononcée.",
         "audio_filename": "line_en_488.mp3",
-        "audio_dir": "Choice"
+        "learning_tag": "/ɔɪ/ comme dans \"boy\""
     },
     {
         "level": 1.0,
@@ -2439,13 +2439,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Bouillir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ comme dans \"boy\"",
+        "tag": "/ɔɪ/ comme dans \"boy\"",
         "prompt": "Boil ______,______",
         "answer": "Boil - /bɔɪl/ - : \"oi\"\nDiphtongue /ɔɪ/, consonne finale /l/ claire.",
         "goal_words": "- /bɔɪl/ - : \"oi\"\nDiphtongue /ɔɪ/,  consonne finale /l/ claire.",
         "audio_filename": "line_en_316.mp3",
-        "audio_dir": "Boil"
+        "learning_tag": "/ɔɪ/ comme dans \"boy\""
     },
     {
         "level": 1.0,
@@ -2457,13 +2457,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Voix",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ comme dans \"boy\"",
+        "tag": "/ɔɪ/ comme dans \"boy\"",
         "prompt": "Voice ______,______",
         "answer": "Voice - /vɔɪs/ - : \"oi\"\nDiphtongue /ɔɪ/, consonne finale /s/ prononcée.",
         "goal_words": "- /vɔɪs/ - : \"oi\"\nDiphtongue /ɔɪ/,  consonne finale /s/ prononcée.",
         "audio_filename": "line4_en_659.mp3",
-        "audio_dir": "Voice"
+        "learning_tag": "/ɔɪ/ comme dans \"boy\""
     },
     {
         "level": 1.0,
@@ -2475,13 +2475,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Royal",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ comme dans \"boy\"",
+        "tag": "/ɔɪ/ comme dans \"boy\"",
         "prompt": "Royal ______,______",
         "answer": "Royal - /ˈrɔɪəl/ - : \"oy\"\nDouble syllabe, diphtongue /ɔɪ/ suivie d’un /əl/ avec un r prononcé fort.",
         "goal_words": "- /ˈrɔɪəl/ - : \"oy\"\nDouble syllabe,  diphtongue /ɔɪ/ suivie d’un /əl/ avec un r prononcé fort.",
         "audio_filename": "line3_en_306.mp3",
-        "audio_dir": "Royal"
+        "learning_tag": "/ɔɪ/ comme dans \"boy\""
     },
     {
         "level": 1.0,
@@ -2493,13 +2493,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Rejoindre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ comme dans \"boy\"",
+        "tag": "/ɔɪ/ comme dans \"boy\"",
         "prompt": "Join ______,______,______",
         "answer": "Join - /dʒɔɪn/ - : \"oi\"\nDiphtongue /ɔɪ/, initiale en /dʒ/, finale /n/ claire.",
         "goal_words": "- /dʒɔɪn/ - : \"oi\"\nDiphtongue /ɔɪ/,  initiale en /dʒ/,  finale /n/ claire.",
         "audio_filename": "line2_en_426.mp3",
-        "audio_dir": "Join"
+        "learning_tag": "/ɔɪ/ comme dans \"boy\""
     },
     {
         "level": 1.0,
@@ -2511,13 +2511,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Gâcher",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/ comme dans \"boy\"",
+        "tag": "/ɔɪ/ comme dans \"boy\"",
         "prompt": "Spoil ______,______",
         "answer": "Spoil - /spɔɪl/ - : \"oi\"\nDiphtongue /ɔɪ/, consonne finale /l/ claire.",
         "goal_words": "- /spɔɪl/ - : \"oi\"\nDiphtongue /ɔɪ/,  consonne finale /l/ claire.",
         "audio_filename": "line3_en_832.mp3",
-        "audio_dir": "Spoil"
+        "learning_tag": "/ɔɪ/ comme dans \"boy\""
     },
     {
         "level": 1.0,
@@ -2529,13 +2529,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Maintenant",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ comme dans \"now\"",
+        "tag": "/aʊ/ comme dans \"now\"",
         "prompt": "Now ______,______,______,______",
         "answer": "Now - /naʊ/ - : \"ow\"\nDiphtongue /aʊ/, commence par un son proche de « a » ouvert, glissant vers un son /ʊ/ (comme le « ou » français, mais plus court).",
         "goal_words": "- /naʊ/ - : \"ow\"\nDiphtongue /aʊ/,  commence par un son proche de « a » ouvert,  glissant vers un son /ʊ/ (comme le « ou » français,  mais plus court).",
         "audio_filename": "line2_en_727.mp3",
-        "audio_dir": "Now"
+        "learning_tag": "/aʊ/ comme dans \"now\""
     },
     {
         "level": 1.0,
@@ -2547,13 +2547,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Dehors",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ comme dans \"now\"",
+        "tag": "/aʊ/ comme dans \"now\"",
         "prompt": "Out ______,______",
         "answer": "Out - /aʊt/ - : \"ou\"\nMême diphtongue /aʊ/, avec une consonne finale /t/ prononcée.",
         "goal_words": "- /aʊt/ - : \"ou\"\nMême diphtongue /aʊ/,  avec une consonne finale /t/ prononcée.",
         "audio_filename": "line3_en_58.mp3",
-        "audio_dir": "Out"
+        "learning_tag": "/aʊ/ comme dans \"now\""
     },
     {
         "level": 1.0,
@@ -2565,13 +2565,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Comment",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ comme dans \"now\"",
+        "tag": "/aʊ/ comme dans \"now\"",
         "prompt": "How ______,______",
         "answer": "How - /haʊ/ - : \"ow\"\nDiphtongue /aʊ/, avec un /h/ aspiré au début (son absent en français).",
         "goal_words": "- /haʊ/ - : \"ow\"\nDiphtongue /aʊ/,  avec un /h/ aspiré au début (son absent en français).",
         "audio_filename": "line_en_1464.mp3",
-        "audio_dir": "How"
+        "learning_tag": "/aʊ/ comme dans \"now\""
     },
     {
         "level": 1.0,
@@ -2583,13 +2583,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Nuage",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ comme dans \"now\"",
+        "tag": "/aʊ/ comme dans \"now\"",
         "prompt": "Cloud ______,______",
         "answer": "Cloud - /klaʊd/ - : \"ou\"\nDiphtongue /aʊ/ suivie de /d/, prononcée nettement.",
         "goal_words": "- /klaʊd/ - : \"ou\"\nDiphtongue /aʊ/ suivie de /d/,  prononcée nettement.",
         "audio_filename": "line_en_510.mp3",
-        "audio_dir": "Cloud"
+        "learning_tag": "/aʊ/ comme dans \"now\""
     },
     {
         "level": 1.0,
@@ -2601,13 +2601,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Souris",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ comme dans \"now\"",
+        "tag": "/aʊ/ comme dans \"now\"",
         "prompt": "Mouse ______,______",
         "answer": "Mouse - /maʊs/ - : \"ou\"\nDiphtongue /aʊ/ suivie de /s/, finale claire.",
         "goal_words": "- /maʊs/ - : \"ou\"\nDiphtongue /aʊ/ suivie de /s/,  finale claire.",
         "audio_filename": "line2_en_652.mp3",
-        "audio_dir": "Mouse"
+        "learning_tag": "/aʊ/ comme dans \"now\""
     },
     {
         "level": 1.0,
@@ -2619,13 +2619,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Vers le bas",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ comme dans \"now\"",
+        "tag": "/aʊ/ comme dans \"now\"",
         "prompt": "Down ______",
         "answer": "Down - /daʊn/ - : \"ow\"\nDiphtongue /aʊ/ avec consonne finale /n/.",
         "goal_words": "- /daʊn/ - : \"ow\"\nDiphtongue /aʊ/ avec consonne finale /n/.",
         "audio_filename": "line_en_725.mp3",
-        "audio_dir": "Down"
+        "learning_tag": "/aʊ/ comme dans \"now\""
     },
     {
         "level": 1.0,
@@ -2637,13 +2637,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Ville",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ comme dans \"now\"",
+        "tag": "/aʊ/ comme dans \"now\"",
         "prompt": "Town ______,______",
         "answer": "Town - /taʊn/ - : \"ow\"\nIdem, diphtongue /aʊ/ + /n/.",
         "goal_words": "- /taʊn/ - : \"ow\"\nIdem,  diphtongue /aʊ/ + /n/.",
         "audio_filename": "line4_en_579.mp3",
-        "audio_dir": "Town"
+        "learning_tag": "/aʊ/ comme dans \"now\""
     },
     {
         "level": 1.0,
@@ -2655,13 +2655,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Crier",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ comme dans \"now\"",
+        "tag": "/aʊ/ comme dans \"now\"",
         "prompt": "Shout ______",
         "answer": "Shout - /ʃaʊt/ - : \"ou\"\nDiphtongue /aʊ/ avec /ʃ/ initial (son « ch » comme en français « chat »).",
         "goal_words": "- /ʃaʊt/ - : \"ou\"\nDiphtongue /aʊ/ avec /ʃ/ initial (son « ch » comme en français « chat »).",
         "audio_filename": "line3_en_725.mp3",
-        "audio_dir": "Shout"
+        "learning_tag": "/aʊ/ comme dans \"now\""
     },
     {
         "level": 1.0,
@@ -2673,13 +2673,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Maison",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ comme dans \"now\"",
+        "tag": "/aʊ/ comme dans \"now\"",
         "prompt": "House ______",
         "answer": "House - /haʊs/ - : \"ou\"\nDiphtongue /aʊ/ + /s/ final.",
         "goal_words": "- /haʊs/ - : \"ou\"\nDiphtongue /aʊ/ + /s/ final.",
         "audio_filename": "line_en_1463.mp3",
-        "audio_dir": "House"
+        "learning_tag": "/aʊ/ comme dans \"now\""
     },
     {
         "level": 1.0,
@@ -2691,13 +2691,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Sud",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/ comme dans \"now\"",
+        "tag": "/aʊ/ comme dans \"now\"",
         "prompt": "South ______,______",
         "answer": "South - /saʊθ/ - : \"ou\"\nDiphtongue /aʊ/ + /θ/ final (le /θ/ est le son « th » sans vibration, difficile pour les francophones).",
         "goal_words": "- /saʊθ/ - : \"ou\"\nDiphtongue /aʊ/ + /θ/ final (le /θ/ est le son « th » sans vibration,  difficile pour les francophones).",
         "audio_filename": "line3_en_814.mp3",
-        "audio_dir": "South"
+        "learning_tag": "/aʊ/ comme dans \"now\""
     },
     {
         "level": 1.0,
@@ -2709,13 +2709,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "À propos",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ comme dans \"about\"",
+        "tag": "/ə/ comme dans \"about\"",
         "prompt": "About ______,______",
         "answer": "About - /əˈbaʊt/ - : \"a\"\nDeux syllabes, avec diphtongue /aʊ/ dans la seconde syllabe et /t/ finale prononcée.",
         "goal_words": "- /əˈbaʊt/ - : \"a\"\nDeux syllabes,  avec diphtongue /aʊ/ dans la seconde syllabe et /t/ finale prononcée.",
         "audio_filename": "line_en_89.mp3",
-        "audio_dir": "About"
+        "learning_tag": "/ə/ comme dans \"about\""
     },
     {
         "level": 1.0,
@@ -2727,13 +2727,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Canapé",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ comme dans \"about\"",
+        "tag": "/ə/ comme dans \"about\"",
         "prompt": "Sofa ______,______,______,______",
         "answer": "Sofa - /ˈsoʊfə/ - : \"o\"\nDeux syllabes, avec /oʊ/ dans la première syllabe (diphtongue proche du français « o ») et /ə/ (schwa, son neutre) dans la seconde, souvent difficile à repérer.",
         "goal_words": "- /ˈsoʊfə/ - : \"o\"\nDeux syllabes,  avec /oʊ/ dans la première syllabe (diphtongue proche du français « o ») et /ə/ (schwa,  son neutre) dans la seconde,  souvent difficile à repérer.",
         "audio_filename": "line3_en_792.mp3",
-        "audio_dir": "Sofa"
+        "learning_tag": "/ə/ comme dans \"about\""
     },
     {
         "level": 1.0,
@@ -2745,13 +2745,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Banane",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ comme dans \"about\"",
+        "tag": "/ə/ comme dans \"about\"",
         "prompt": "Banana ______,______",
         "answer": "Banana - /bəˈnænə/ - : \"a\"\nTrois syllabes, présence du schwa /ə/ dans la 2e et 3e syllabe.",
         "goal_words": "- /bəˈnænə/ - : \"a\"\nTrois syllabes,  présence du schwa /ə/ dans la 2e et 3e syllabe.",
         "audio_filename": "line_en_246.mp3",
-        "audio_dir": "Banana"
+        "learning_tag": "/ə/ comme dans \"about\""
     },
     {
         "level": 1.0,
@@ -2763,13 +2763,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Problème",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ comme dans \"about\"",
+        "tag": "/ə/ comme dans \"about\"",
         "prompt": "Problem ______,______",
         "answer": "Problem - /ˈprɑːbləm/ - : \"e\"\nDeux syllabes, consonne finale /m/ prononcée clairement.",
         "goal_words": "- /ˈprɑːbləm/ - : \"e\"\nDeux syllabes,  consonne finale /m/ prononcée clairement.",
         "audio_filename": "line3_en_177.mp3",
-        "audio_dir": "Problem"
+        "learning_tag": "/ə/ comme dans \"about\""
     },
     {
         "level": 1.0,
@@ -2781,13 +2781,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Soutien",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ comme dans \"about\"",
+        "tag": "/ə/ comme dans \"about\"",
         "prompt": "Support ______,______,______,______",
         "answer": "Support - /səˈpɔːrt/ - : \"u\"\nDeux syllabes, avec /ɚ/ (r prononcé à l’américaine, rétroflexe) à la fin, difficile pour les francophones.",
         "goal_words": "- /səˈpɔːrt/ - : \"u\"\nDeux syllabes,  avec /ɚ/ (r prononcé à l’américaine,  rétroflexe) à la fin,  difficile pour les francophones.",
         "audio_filename": "line3_en_907.mp3",
-        "audio_dir": "Support"
+        "learning_tag": "/ə/ comme dans \"about\""
     },
     {
         "level": 1.0,
@@ -2799,13 +2799,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Animal",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ comme dans \"about\"",
+        "tag": "/ə/ comme dans \"about\"",
         "prompt": "Animal ______,______",
         "answer": "Animal - /ˈænəməl/ - : \"a\"\nTrois syllabes, avec schwa /ə/ dans la 3e syllabe.",
         "goal_words": "- /ˈænəməl/ - : \"a\"\nTrois syllabes,  avec schwa /ə/ dans la 3e syllabe.",
         "audio_filename": "line_en_163.mp3",
-        "audio_dir": "Animal"
+        "learning_tag": "/ə/ comme dans \"about\""
     },
     {
         "level": 1.0,
@@ -2817,13 +2817,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Système",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ comme dans \"about\"",
+        "tag": "/ə/ comme dans \"about\"",
         "prompt": "System ______,______",
         "answer": "System - /ˈsɪstəm/ - : \"e\"\nDeux syllabes, avec /s/ initial clair et /m/ final.",
         "goal_words": "- /ˈsɪstəm/ - : \"e\"\nDeux syllabes,  avec /s/ initial clair et /m/ final.",
         "audio_filename": "line3_en_935.mp3",
-        "audio_dir": "System"
+        "learning_tag": "/ə/ comme dans \"about\""
     },
     {
         "level": 1.0,
@@ -2835,13 +2835,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Célébrer",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ comme dans \"about\"",
+        "tag": "/ə/ comme dans \"about\"",
         "prompt": "Celebrate ______,______",
         "answer": "Celebrate - /ˈsɛləˌbreɪt/ - : \"e\"\nTrois syllabes, avec schwa /ə/ en 2e et 3e syllabe.",
         "goal_words": "- /ˈsɛləˌbreɪt/ - : \"e\"\nTrois syllabes,  avec schwa /ə/ en 2e et 3e syllabe.",
         "audio_filename": "line_en_454.mp3",
-        "audio_dir": "Celebrate"
+        "learning_tag": "/ə/ comme dans \"about\""
     },
     {
         "level": 1.0,
@@ -2853,13 +2853,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Information",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ comme dans \"about\"",
+        "tag": "/ə/ comme dans \"about\"",
         "prompt": "Information ______,______,______,______",
         "answer": "Information - /ˌɪnfərˈmeɪʃən/ - : \"o\"\nQuatre syllabes, plusieurs schwa /ə/, et /ʃ/ dans « tion » (son « ch »), qui est comme en français.",
         "goal_words": "- /ˌɪnfərˈmeɪʃən/ - : \"o\"\nQuatre syllabes,  plusieurs schwa /ə/,  et /ʃ/ dans « tion » (son « ch »),  qui est comme en français.",
         "audio_filename": "line2_en_239.mp3",
-        "audio_dir": "Information"
+        "learning_tag": "/ə/ comme dans \"about\""
     },
     {
         "level": 1.0,
@@ -2871,13 +2871,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Crayon",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/ comme dans \"about\"",
+        "tag": "/ə/ comme dans \"about\"",
         "prompt": "Pencil ______,______,______",
         "answer": "Pencil - /ˈpɛnsəl/ - : \"i\"\nDeux syllabes, consonnes finales prononcées, /s/ suivi de /l/ clair.",
         "goal_words": "- /ˈpɛnsəl/ - : \"i\"\nDeux syllabes,  consonnes finales prononcées,  /s/ suivi de /l/ clair.",
         "audio_filename": "line3_en_100.mp3",
-        "audio_dir": "Pencil"
+        "learning_tag": "/ə/ comme dans \"about\""
     },
     {
         "level": 1.0,
@@ -2889,13 +2889,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Oiseau",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ comme dans \"her\"",
+        "tag": "/ɝ/ comme dans \"her\"",
         "prompt": "Bird ______,______",
         "answer": "Bird - /bɝːd/ - : \"ir\"\nSon /ɝː/ (voyelle r-colored) — voyelle avec « r » rétroflexe, très différente du « r » roulé français. Le /d/ final se prononce.",
         "goal_words": "- /bɝːd/ - : \"ir\"\nSon /ɝː/ (voyelle r-colored) — voyelle avec « r » rétroflexe,  très différente du « r » roulé français. Le /d/ final se prononce.",
         "audio_filename": "line_en_298.mp3",
-        "audio_dir": "Bird"
+        "learning_tag": "/ɝ/ comme dans \"her\""
     },
     {
         "level": 1.0,
@@ -2907,13 +2907,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Tourner",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ comme dans \"her\"",
+        "tag": "/ɝ/ comme dans \"her\"",
         "prompt": "Turn ______,______",
         "answer": "Turn - /tɝːrn/ - : \"ur\"\nVoyelle /ɝː/ avec « r » rétroflexe, + /n/ final prononcé.",
         "goal_words": "- /tɝːrn/ - : \"ur\"\nVoyelle /ɝː/ avec « r » rétroflexe,  + /n/ final prononcé.",
         "audio_filename": "line4_en_603.mp3",
-        "audio_dir": "Turn"
+        "learning_tag": "/ɝ/ comme dans \"her\""
     },
     {
         "level": 1.0,
@@ -2925,13 +2925,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Travail",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ comme dans \"her\"",
+        "tag": "/ɝ/ comme dans \"her\"",
         "prompt": "Work ______,______",
         "answer": "Work - /wɝːrk/ - : \"or\"\nMême voyelle /ɝː/, avec consonne finale /k/ prononcée.",
         "goal_words": "- /wɝːrk/ - : \"or\"\nMême voyelle /ɝː/,  avec consonne finale /k/ prononcée.",
         "audio_filename": "line5_en_145.mp3",
-        "audio_dir": "Work"
+        "learning_tag": "/ɝ/ comme dans \"her\""
     },
     {
         "level": 1.0,
@@ -2943,13 +2943,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Fille",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ comme dans \"her\"",
+        "tag": "/ɝ/ comme dans \"her\"",
         "prompt": "Girl ______,______,______",
         "answer": "Girl - /ɡɝːrl/ - : \"ir\"\nVoyelle /ɝː/, suivi de /l/ claire, son « r » américain fort.",
         "goal_words": "- /ɡɝːrl/ - : \"ir\"\nVoyelle /ɝː/,  suivi de /l/ claire,  son « r » américain fort.",
         "audio_filename": "line_en_972.mp3",
-        "audio_dir": "Girl"
+        "learning_tag": "/ɝ/ comme dans \"her\""
     },
     {
         "level": 1.0,
@@ -2961,13 +2961,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Brûler",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ comme dans \"her\"",
+        "tag": "/ɝ/ comme dans \"her\"",
         "prompt": "Burn ______",
         "answer": "Burn - /bɝːrn/ - : \"ur\"\nVoyelle /ɝː/ + /n/ final.",
         "goal_words": "- /bɝːrn/ - : \"ur\"\nVoyelle /ɝː/ + /n/ final.",
         "audio_filename": "line_en_361.mp3",
-        "audio_dir": "Burn"
+        "learning_tag": "/ɝ/ comme dans \"her\""
     },
     {
         "level": 1.0,
@@ -2979,13 +2979,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "D'abord",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ comme dans \"her\"",
+        "tag": "/ɝ/ comme dans \"her\"",
         "prompt": "First ______",
         "answer": "First - /fɝːst/ - : \"ir\"\nVoyelle /ɝː/ + consonnes finales /st/ bien prononcées.",
         "goal_words": "- /fɝːst/ - : \"ir\"\nVoyelle /ɝː/ + consonnes finales /st/ bien prononcées.",
         "audio_filename": "line_en_880.mp3",
-        "audio_dir": "First"
+        "learning_tag": "/ɝ/ comme dans \"her\""
     },
     {
         "level": 1.0,
@@ -2997,13 +2997,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Apprendre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ comme dans \"her\"",
+        "tag": "/ɝ/ comme dans \"her\"",
         "prompt": "Learn ______",
         "answer": "Learn - /lɝːrn/ - : \"ea\"\nVoyelle /ɝː/ + /n/ finale.",
         "goal_words": "- /lɝːrn/ - : \"ea\"\nVoyelle /ɝː/ + /n/ finale.",
         "audio_filename": "line2_en_494.mp3",
-        "audio_dir": "Learn"
+        "learning_tag": "/ɝ/ comme dans \"her\""
     },
     {
         "level": 1.0,
@@ -3015,13 +3015,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Monde",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ comme dans \"her\"",
+        "tag": "/ɝ/ comme dans \"her\"",
         "prompt": "World ______,______",
         "answer": "World - /wɝːld/ - : \"or\"\nVoyelle /ɝː/ + consonnes finales /ld/, prononcées distinctement.",
         "goal_words": "- /wɝːld/ - : \"or\"\nVoyelle /ɝː/ + consonnes finales /ld/,  prononcées distinctement.",
         "audio_filename": "line5_en_153.mp3",
-        "audio_dir": "World"
+        "learning_tag": "/ɝ/ comme dans \"her\""
     },
     {
         "level": 1.0,
@@ -3033,13 +3033,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Église",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ comme dans \"her\"",
+        "tag": "/ɝ/ comme dans \"her\"",
         "prompt": "Church ______,______,______",
         "answer": "Church - /ʧɝːʧ/ - : \"ur\"\nConsonne initiale /tʃ/ (comme « tch » en français mais plus explosif), + /r/ muet, se termine en /tʃ/.",
         "goal_words": "- /ʧɝːʧ/ - : \"ur\"\nConsonne initiale /tʃ/ (comme « tch » en français mais plus explosif),  + /r/ muet,  se termine en /tʃ/.",
         "audio_filename": "line_en_492.mp3",
-        "audio_dir": "Church"
+        "learning_tag": "/ɝ/ comme dans \"her\""
     },
     {
         "level": 1.0,
@@ -3051,13 +3051,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Servir",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/ comme dans \"her\"",
+        "tag": "/ɝ/ comme dans \"her\"",
         "prompt": "Serve ______",
         "answer": "Serve - /sɝːv/ - : \"er\"\nVoyelle /ɝː/ + consonne finale /v/.",
         "goal_words": "- /sɝːv/ - : \"er\"\nVoyelle /ɝː/ + consonne finale /v/.",
         "audio_filename": "line3_en_413.mp3",
-        "audio_dir": "Serve"
+        "learning_tag": "/ɝ/ comme dans \"her\""
     },
     {
         "level": 1.0,
@@ -3069,13 +3069,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Professeur",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ comme dans \"butter\"",
+        "tag": "/ɚ/ comme dans \"butter\"",
         "prompt": "Teacher ______,______,______",
         "answer": "Teacher - /ˈtiːtʃɚ/ - : \"er\"\nDeux syllabes, avec /tʃ/ en milieu (comme en church), et fin en /ər/ avec « r » rétroflexe.",
         "goal_words": "- /ˈtiːtʃɚ/ - : \"er\"\nDeux syllabes,  avec /tʃ/ en milieu (comme en church),  et fin en /ər/ avec « r » rétroflexe.",
         "audio_filename": "line3_en_964.mp3",
-        "audio_dir": "Teacher"
+        "learning_tag": "/ɚ/ comme dans \"butter\""
     },
     {
         "level": 1.0,
@@ -3087,13 +3087,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Beurre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ comme dans \"butter\"",
+        "tag": "/ɚ/ comme dans \"butter\"",
         "prompt": "Butter ______,______,______,______",
         "answer": "Butter - /ˈbʌtɚ/ - : \"er\"\nDeux syllabes, avec /t/ prononcé comme un flap [ɾ], son rapide proche du « d » en espagnol, et /ər/ final.",
         "goal_words": "- /ˈbʌtɚ/ - : \"er\"\nDeux syllabes,  avec /t/ prononcé comme un flap [ɾ],  son rapide proche du « d » en espagnol,  et /ər/ final.",
         "audio_filename": "line_en_372.mp3",
-        "audio_dir": "Butter"
+        "learning_tag": "/ɚ/ comme dans \"butter\""
     },
     {
         "level": 1.0,
@@ -3105,13 +3105,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Père",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ comme dans \"butter\"",
+        "tag": "/ɚ/ comme dans \"butter\"",
         "prompt": "Father ______,______,______",
         "answer": "Father - /ˈfɑːðɚ/ - : \"er\"\nDeux syllabes, voyelle /ɑː/ longue (similaire au « a » français mais plus ouverte), fin en /ər/ avec « r » rétroflexe.",
         "goal_words": "- /ˈfɑːðɚ/ - : \"er\"\nDeux syllabes,  voyelle /ɑː/ longue (similaire au « a » français mais plus ouverte),  fin en /ər/ avec « r » rétroflexe.",
         "audio_filename": "line_en_849.mp3",
-        "audio_dir": "Father"
+        "learning_tag": "/ɚ/ comme dans \"butter\""
     },
     {
         "level": 1.0,
@@ -3123,13 +3123,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Mieux",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ comme dans \"butter\"",
+        "tag": "/ɚ/ comme dans \"butter\"",
         "prompt": "Better ______,______,______",
         "answer": "Better - /ˈbɛtɚ/ - : \"er\"\nDeux syllabes, /t/ comme flap [ɾ], /ər/ final.",
         "goal_words": "- /ˈbɛtɚ/ - : \"er\"\nDeux syllabes,  /t/ comme flap [ɾ],  /ər/ final.",
         "audio_filename": "line_en_291.mp3",
-        "audio_dir": "Better"
+        "learning_tag": "/ɚ/ comme dans \"butter\""
     },
     {
         "level": 1.0,
@@ -3141,13 +3141,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Fleur",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ comme dans \"butter\"",
+        "tag": "/ɚ/ comme dans \"butter\"",
         "prompt": "Flower ______,______",
         "answer": "Flower - /ˈflaʊɚ/ - : \"er\"\nDeux syllabes, diphtongue /aʊ/ + /ər/ final avec « r » americano.",
         "goal_words": "- /ˈflaʊɚ/ - : \"er\"\nDeux syllabes,  diphtongue /aʊ/ + /ər/ final avec « r » americano.",
         "audio_filename": "line_en_896.mp3",
-        "audio_dir": "Flower"
+        "learning_tag": "/ɚ/ comme dans \"butter\""
     },
     {
         "level": 1.0,
@@ -3159,13 +3159,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Travailleur",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ comme dans \"butter\"",
+        "tag": "/ɚ/ comme dans \"butter\"",
         "prompt": "Worker ______,______,______",
         "answer": "Worker - /ˈwɝːrkɚ/ - : \"er\"\nTrois syllabes, voyelle /ɝː/ dans la 2a syllabe, « r » retroflexe.",
         "goal_words": "- /ˈwɝːrkɚ/ - : \"er\"\nTrois syllabes,  voyelle /ɝː/ dans la 2a syllabe,  « r » retroflexe.",
         "audio_filename": "line5_en_150.mp3",
-        "audio_dir": "Worker"
+        "learning_tag": "/ɚ/ comme dans \"butter\""
     },
     {
         "level": 1.0,
@@ -3177,13 +3177,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Gagnant",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ comme dans \"butter\"",
+        "tag": "/ɚ/ comme dans \"butter\"",
         "prompt": "Winner ______,______,______,______",
         "answer": "Winner - /ˈwɪnɚ/ - : \"er\"\nDos sílabas, /ɪ/ en la primera, flap /ɾ/ en lugar del /t/, y /ər/ final.",
         "goal_words": "- /ˈwɪnɚ/ - : \"er\"\nDos sílabas,  /ɪ/ en la primera,  flap /ɾ/ en lugar del /t/,  y /ər/ final.",
         "audio_filename": "line5_en_118.mp3",
-        "audio_dir": "Winner"
+        "learning_tag": "/ɚ/ comme dans \"butter\""
     },
     {
         "level": 1.0,
@@ -3195,13 +3195,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Répondre",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ comme dans \"butter\"",
+        "tag": "/ɚ/ comme dans \"butter\"",
         "prompt": "Answer ______,______,______",
         "answer": "Answer - /ˈænsɚ/ - : \"er\"\nDos sílabas, la /s/ no se pronuncia, termina en /ər/ con « r » retroflexe.",
         "goal_words": "- /ˈænsɚ/ - : \"er\"\nDos sílabas,  la /s/ no se pronuncia,  termina en /ər/ con « r » retroflexe.",
         "audio_filename": "line_en_165.mp3",
-        "audio_dir": "Answer"
+        "learning_tag": "/ɚ/ comme dans \"butter\""
     },
     {
         "level": 1.0,
@@ -3213,13 +3213,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Joueur",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ comme dans \"butter\"",
+        "tag": "/ɚ/ comme dans \"butter\"",
         "prompt": "Player ______,______",
         "answer": "Player - /ˈpleɪɚ/ - : \"er\"\nDos sílabas, diphtongue /eɪ/ + /ər/ final.",
         "goal_words": "- /ˈpleɪɚ/ - : \"er\"\nDos sílabas,  diphtongue /eɪ/ + /ər/ final.",
         "audio_filename": "line3_en_139.mp3",
-        "audio_dir": "Player"
+        "learning_tag": "/ɚ/ comme dans \"butter\""
     },
     {
         "level": 1.0,
@@ -3231,13 +3231,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "Conférencier",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/ comme dans \"butter\"",
+        "tag": "/ɚ/ comme dans \"butter\"",
         "prompt": "Speaker ______,______",
         "answer": "Speaker - /ˈspiːkɚ/ - : \"er\"\nDos sílabas, /iː/ largo + /ər/ final.",
         "goal_words": "- /ˈspiːkɚ/ - : \"er\"\nDos sílabas,  /iː/ largo + /ər/ final.",
         "audio_filename": "line3_en_820.mp3",
-        "audio_dir": "Speaker"
+        "learning_tag": "/ɚ/ comme dans \"butter\""
     },
     {
         "level": 1.0,
@@ -3249,13 +3249,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/æ/",
+        "tag": "/æ/",
         "prompt": "Cat\nBat\nHat\nMan\nApple\nBad\nGas\nMap\nDad\nLaugh",
         "answer": "Cat\nBat\nHat\nMan\nApple\nBad\nGas\nMap\nDad\nLaugh",
         "goal_words": "",
         "audio_filename": "line_en_448.mp3",
-        "audio_dir": "Cat\nBat\nHat\nMan\nApple\nBad\nGas\nMap\nDad\nLaugh"
+        "learning_tag": "/æ/"
     },
     {
         "level": 1.0,
@@ -3267,13 +3267,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɛ/",
+        "tag": "/ɛ/",
         "prompt": "Bed\nRed\nGet\nSaid\nFriend\nBread\nMessage\nHead\nMany\nSays",
         "answer": "Bed\nRed\nGet\nSaid\nFriend\nBread\nMessage\nHead\nMany\nSays",
         "goal_words": "",
         "audio_filename": "line_en_268.mp3",
-        "audio_dir": "Bed\nRed\nGet\nSaid\nFriend\nBread\nMessage\nHead\nMany\nSays"
+        "learning_tag": "/ɛ/"
     },
     {
         "level": 1.0,
@@ -3285,13 +3285,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɪ/",
+        "tag": "/ɪ/",
         "prompt": "Sit\nHit\nBit\nThink\nBuild\nGym\nWomen\nPretty\nLive\nSystem",
         "answer": "Sit\nHit\nBit\nThink\nBuild\nGym\nWomen\nPretty\nLive\nSystem",
         "goal_words": "",
         "audio_filename": "line3_en_748.mp3",
-        "audio_dir": "Sit\nHit\nBit\nThink\nBuild\nGym\nWomen\nPretty\nLive\nSystem"
+        "learning_tag": "/ɪ/"
     },
     {
         "level": 1.0,
@@ -3303,13 +3303,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑ/",
+        "tag": "/ɑ/",
         "prompt": "Hot\nStop\nRock\nClock\nFather\nNot\nBox\nSock\nJob\nGot",
         "answer": "Hot\nStop\nRock\nClock\nFather\nNot\nBox\nSock\nJob\nGot",
         "goal_words": "",
         "audio_filename": "line_en_1460.mp3",
-        "audio_dir": "Hot\nStop\nRock\nClock\nFather\nNot\nBox\nSock\nJob\nGot"
+        "learning_tag": "/ɑ/"
     },
     {
         "level": 1.0,
@@ -3321,13 +3321,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʊ/",
+        "tag": "/ʊ/",
         "prompt": "Book\nLook\nGood\nFoot\nCook\nCould\nShould\nWould\nWolf\nPull",
         "answer": "Book\nLook\nGood\nFoot\nCook\nCould\nShould\nWould\nWolf\nPull",
         "goal_words": "",
         "audio_filename": "line_en_318.mp3",
-        "audio_dir": "Book\nLook\nGood\nFoot\nCook\nCould\nShould\nWould\nWolf\nPull"
+        "learning_tag": "/ʊ/"
     },
     {
         "level": 1.0,
@@ -3339,13 +3339,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ʌ/",
+        "tag": "/ʌ/",
         "prompt": "Cup\nSun\nBut\nLuck\nFun\nMoney\nBlood\nBrother\nCome\nDoes",
         "answer": "Cup\nSun\nBut\nLuck\nFun\nMoney\nBlood\nBrother\nCome\nDoes",
         "goal_words": "",
         "audio_filename": "line_en_593.mp3",
-        "audio_dir": "Cup\nSun\nBut\nLuck\nFun\nMoney\nBlood\nBrother\nCome\nDoes"
+        "learning_tag": "/ʌ/"
     },
     {
         "level": 1.0,
@@ -3357,13 +3357,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/iː/",
+        "tag": "/iː/",
         "prompt": "See\nBe\nTree\nMeet\nNeed\nPeace\nKey\nPeople\nReceive\nPolice",
         "answer": "See\nBe\nTree\nMeet\nNeed\nPeace\nKey\nPeople\nReceive\nPolice",
         "goal_words": "",
         "audio_filename": "line3_en_402.mp3",
-        "audio_dir": "See\nBe\nTree\nMeet\nNeed\nPeace\nKey\nPeople\nReceive\nPolice"
+        "learning_tag": "/iː/"
     },
     {
         "level": 1.0,
@@ -3375,13 +3375,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɑː/",
+        "tag": "/ɑː/",
         "prompt": "Father\nCar\nPalm\nBother\nStar\nStart\nHard\nArt\nArmy\nHeart",
         "answer": "Father\nCar\nPalm\nBother\nStar\nStart\nHard\nArt\nArmy\nHeart",
         "goal_words": "",
         "audio_filename": "line_en_850.mp3",
-        "audio_dir": "Father\nCar\nPalm\nBother\nStar\nStart\nHard\nArt\nArmy\nHeart"
+        "learning_tag": "/ɑː/"
     },
     {
         "level": 1.0,
@@ -3393,13 +3393,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/uː/",
+        "tag": "/uː/",
         "prompt": "Too\nBlue\nTrue\nFood\nMoon\nBoot\nSoon\nGroup\nMove\nFlute",
         "answer": "Too\nBlue\nTrue\nFood\nMoon\nBoot\nSoon\nGroup\nMove\nFlute",
         "goal_words": "",
         "audio_filename": "line4_en_563.mp3",
-        "audio_dir": "Too\nBlue\nTrue\nFood\nMoon\nBoot\nSoon\nGroup\nMove\nFlute"
+        "learning_tag": "/uː/"
     },
     {
         "level": 1.0,
@@ -3411,13 +3411,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔː/",
+        "tag": "/ɔː/",
         "prompt": "Law\nSaw\nPaw\nDraw\nFlaw\nRaw\nShaw\nClaw\nCause\nPause",
         "answer": "Law\nSaw\nPaw\nDraw\nFlaw\nRaw\nShaw\nClaw\nCause\nPause",
         "goal_words": "",
         "audio_filename": "line2_en_489.mp3",
-        "audio_dir": "Law\nSaw\nPaw\nDraw\nFlaw\nRaw\nShaw\nClaw\nCause\nPause"
+        "learning_tag": "/ɔː/"
     },
     {
         "level": 1.0,
@@ -3429,13 +3429,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/eɪ/",
+        "tag": "/eɪ/",
         "prompt": "Day\nSay\nPlay\nMake\nPay\nWait\nEight\nRain\nThey\nBreak",
         "answer": "Day\nSay\nPlay\nMake\nPay\nWait\nEight\nRain\nThey\nBreak",
         "goal_words": "",
         "audio_filename": "line_en_616.mp3",
-        "audio_dir": "Day\nSay\nPlay\nMake\nPay\nWait\nEight\nRain\nThey\nBreak"
+        "learning_tag": "/eɪ/"
     },
     {
         "level": 1.0,
@@ -3447,13 +3447,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/oʊ/",
+        "tag": "/oʊ/",
         "prompt": "Go\nNo\nShow\nSo\nBoth\nRoad\nSnow\nBoat\nAlthough\nToe",
         "answer": "Go\nNo\nShow\nSo\nBoth\nRoad\nSnow\nBoat\nAlthough\nToe",
         "goal_words": "",
         "audio_filename": "line_en_983.mp3",
-        "audio_dir": "Go\nNo\nShow\nSo\nBoth\nRoad\nSnow\nBoat\nAlthough\nToe"
+        "learning_tag": "/oʊ/"
     },
     {
         "level": 1.0,
@@ -3465,13 +3465,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aɪ/",
+        "tag": "/aɪ/",
         "prompt": "My\nTime\nHigh\nCry\nFly\nLie\nSight\nRight\nFight\nBuy",
         "answer": "My\nTime\nHigh\nCry\nFly\nLie\nSight\nRight\nFight\nBuy",
         "goal_words": "",
         "audio_filename": "line2_en_666.mp3",
-        "audio_dir": "My\nTime\nHigh\nCry\nFly\nLie\nSight\nRight\nFight\nBuy"
+        "learning_tag": "/aɪ/"
     },
     {
         "level": 1.0,
@@ -3483,13 +3483,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɔɪ/",
+        "tag": "/ɔɪ/",
         "prompt": "Boy\nToy\nJoy\nCoin\nChoice\nBoil\nVoice\nRoyal\nJoin\nSpoil",
         "answer": "Boy\nToy\nJoy\nCoin\nChoice\nBoil\nVoice\nRoyal\nJoin\nSpoil",
         "goal_words": "",
         "audio_filename": "line_en_337.mp3",
-        "audio_dir": "Boy\nToy\nJoy\nCoin\nChoice\nBoil\nVoice\nRoyal\nJoin\nSpoil"
+        "learning_tag": "/ɔɪ/"
     },
     {
         "level": 1.0,
@@ -3501,13 +3501,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/aʊ/",
+        "tag": "/aʊ/",
         "prompt": "Now\nOut\nHow\nCloud\nMouse\nDown\nTown\nShout\nHouse\nSouth",
         "answer": "Now\nOut\nHow\nCloud\nMouse\nDown\nTown\nShout\nHouse\nSouth",
         "goal_words": "",
         "audio_filename": "line2_en_728.mp3",
-        "audio_dir": "Now\nOut\nHow\nCloud\nMouse\nDown\nTown\nShout\nHouse\nSouth"
+        "learning_tag": "/aʊ/"
     },
     {
         "level": 1.0,
@@ -3519,13 +3519,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ə/",
+        "tag": "/ə/",
         "prompt": "About\nSofa\nBanana\nProblem\nSupport\nAnimal\nSystem\nCelebrate\nInformation\nPencil",
         "answer": "About\nSofa\nBanana\nProblem\nSupport\nAnimal\nSystem\nCelebrate\nInformation\nPencil",
         "goal_words": "",
         "audio_filename": "line_en_90.mp3",
-        "audio_dir": "About\nSofa\nBanana\nProblem\nSupport\nAnimal\nSystem\nCelebrate\nInformation\nPencil"
+        "learning_tag": "/ə/"
     },
     {
         "level": 1.0,
@@ -3537,13 +3537,13 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɝ/",
+        "tag": "/ɝ/",
         "prompt": "Bird\nTurn\nWork\nGirl\nBurn\nFirst\nLearn\nWorld\nChurch\nServe",
         "answer": "Bird\nTurn\nWork\nGirl\nBurn\nFirst\nLearn\nWorld\nChurch\nServe",
         "goal_words": "",
         "audio_filename": "line_en_299.mp3",
-        "audio_dir": "Bird\nTurn\nWork\nGirl\nBurn\nFirst\nLearn\nWorld\nChurch\nServe"
+        "learning_tag": "/ɝ/"
     },
     {
         "level": 1.0,
@@ -3555,12 +3555,12 @@
         "learning_language": "english",
         "native_group": "1 prononciation - voyelles",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "/ɚ/",
+        "tag": "/ɚ/",
         "prompt": "Teacher\nButter\nFather\nBetter\nFlower\nWorker\nWinner\nAnswer\nPlayer\nSpeaker",
         "answer": "Teacher\nButter\nFather\nBetter\nFlower\nWorker\nWinner\nAnswer\nPlayer\nSpeaker",
         "goal_words": "",
         "audio_filename": "line3_en_965.mp3",
-        "audio_dir": "Teacher\nButter\nFather\nBetter\nFlower\nWorker\nWinner\nAnswer\nPlayer\nSpeaker"
+        "learning_tag": "/ɚ/"
     }
 ]

@@ -15,7 +15,7 @@
         "answer": "lion",
         "goal_words": "lion",
         "audio_filename": "line2_en_525.mp3",
-        "audio_dir": "lion"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "flamingo",
         "goal_words": "flamingo",
         "audio_filename": "line_en_891.mp3",
-        "audio_dir": "flamingo"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "meercat",
         "goal_words": "meercat",
         "audio_filename": "line2_en_613.mp3",
-        "audio_dir": "meercat"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "panda",
         "goal_words": "panda",
         "audio_filename": "line3_en_67.mp3",
-        "audio_dir": "panda"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "dolphin",
         "goal_words": "dolphin",
         "audio_filename": "line_en_689.mp3",
-        "audio_dir": "dolphin"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "orangutan",
         "goal_words": "orangutan",
         "audio_filename": "line3_en_56.mp3",
-        "audio_dir": "orangutan"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "deer",
         "goal_words": "deer",
         "audio_filename": "line_en_626.mp3",
-        "audio_dir": "deer"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "elephant",
         "goal_words": "elephant",
         "audio_filename": "line_en_784.mp3",
-        "audio_dir": "elephant"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "polar bear",
         "goal_words": "polar bear",
         "audio_filename": "line3_en_147.mp3",
-        "audio_dir": "polar bear"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "tiger",
         "goal_words": "tiger",
         "audio_filename": "line4_en_443.mp3",
-        "audio_dir": "tiger"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "rhinoceros",
         "goal_words": "rhinoceros",
         "audio_filename": "line3_en_284.mp3",
-        "audio_dir": "rhinoceros"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "gorilla",
         "goal_words": "gorilla",
         "audio_filename": "line_en_991.mp3",
-        "audio_dir": "gorilla"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "penguin",
         "goal_words": "penguin",
         "audio_filename": "line3_en_101.mp3",
-        "audio_dir": "penguin"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -249,7 +249,7 @@
         "answer": "zebra",
         "goal_words": "zebra",
         "audio_filename": "line5_en_604.mp3",
-        "audio_dir": "zebra"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -267,7 +267,7 @@
         "answer": "eagle",
         "goal_words": "eagle",
         "audio_filename": "line_en_757.mp3",
-        "audio_dir": "eagle"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -285,7 +285,7 @@
         "answer": "monkey",
         "goal_words": "monkey",
         "audio_filename": "line2_en_640.mp3",
-        "audio_dir": "monkey"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -303,7 +303,7 @@
         "answer": "koala",
         "goal_words": "koala",
         "audio_filename": "line2_en_471.mp3",
-        "audio_dir": "koala"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -321,7 +321,7 @@
         "answer": "giraffe",
         "goal_words": "giraffe",
         "audio_filename": "line_en_971.mp3",
-        "audio_dir": "giraffe"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -339,7 +339,7 @@
         "answer": "kangaroo",
         "goal_words": "kangaroo",
         "audio_filename": "line2_en_442.mp3",
-        "audio_dir": "kangaroo"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -357,7 +357,7 @@
         "answer": "tortoise",
         "goal_words": "tortoise",
         "audio_filename": "line4_en_573.mp3",
-        "audio_dir": "tortoise"
+        "learning_tag": "animal"
     },
     {
         "level": 4.0,
@@ -375,7 +375,7 @@
         "answer": "bamboo",
         "goal_words": "bamboo",
         "audio_filename": "line_en_245.mp3",
-        "audio_dir": "bamboo"
+        "learning_tag": "plant"
     },
     {
         "level": 4.0,
@@ -393,7 +393,7 @@
         "answer": "Where are the lions? on a rock",
         "goal_words": "on a rock",
         "audio_filename": "line3_en_19.mp3",
-        "audio_dir": "on a rock"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -407,11 +407,11 @@
         "native_answer": "¿Qué están haciendo los leones? Los leones están relajándose en una roca.",
         "native_word": "preguntas y respuestas",
         "tag": "preguntas y respuestas",
-        "prompt": "What are the lions doing ______",
-        "answer": "What are the lions doing the lions are relaxing on a rock",
+        "prompt": "What are the lions doing? ______",
+        "answer": "What are the lions doing? the lions are relaxing on a rock",
         "goal_words": "the lions are relaxing on a rock",
         "audio_filename": "line4_en_35.mp3",
-        "audio_dir": "the lions are relaxing on a rock"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -429,7 +429,7 @@
         "answer": "where are the flamingos? the flamingos are standing in a river",
         "goal_words": "the flamingos are standing in a river",
         "audio_filename": "line4_en_20.mp3",
-        "audio_dir": "the flamingos are standing in a river"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -447,7 +447,7 @@
         "answer": "how deep is the river? the river is shallow",
         "goal_words": "the river is shallow",
         "audio_filename": "line4_en_44.mp3",
-        "audio_dir": "the river is shallow"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -465,7 +465,7 @@
         "answer": "what is the meercat on the right doing? standing",
         "goal_words": "standing",
         "audio_filename": "line3_en_844.mp3",
-        "audio_dir": "standing"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -483,7 +483,7 @@
         "answer": "what is the meercat on the left doing? sitting on a rock",
         "goal_words": "sitting on a rock",
         "audio_filename": "line3_en_753.mp3",
-        "audio_dir": "sitting on a rock"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -501,7 +501,7 @@
         "answer": "what is the panda doing? the panda is eating bamboo",
         "goal_words": "the panda is eating bamboo",
         "audio_filename": "line4_en_39.mp3",
-        "audio_dir": "the panda is eating bamboo"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -519,7 +519,7 @@
         "answer": "which way are the dolphins swimming? the dolphins are swimming backwards",
         "goal_words": "the dolphins are swimming backwards",
         "audio_filename": "line4_en_17.mp3",
-        "audio_dir": "the dolphins are swimming backwards"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -537,7 +537,7 @@
         "answer": "who in the man in black? the dolphin trainer",
         "goal_words": "the dolphin trainer",
         "audio_filename": "line4_en_16.mp3",
-        "audio_dir": "the dolphin trainer"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -555,7 +555,7 @@
         "answer": "what is she holding? a map of the zoo",
         "goal_words": "a map of the zoo",
         "audio_filename": "line_en_78.mp3",
-        "audio_dir": "a map of the zoo"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -573,7 +573,7 @@
         "answer": "what are the orangutan doing? they are climbing bamboo",
         "goal_words": "they are climbing bamboo",
         "audio_filename": "line4_en_130.mp3",
-        "audio_dir": "they are climbing bamboo"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -591,7 +591,7 @@
         "answer": "what is the boy doing? he is feeding the deer",
         "goal_words": "he is feeding the deer",
         "audio_filename": "line_en_1191.mp3",
-        "audio_dir": "he is feeding the deer"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -609,7 +609,7 @@
         "answer": "where is the polar bear? underwater",
         "goal_words": "underwater",
         "audio_filename": "line4_en_631.mp3",
-        "audio_dir": "underwater"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -627,7 +627,7 @@
         "answer": "what is the polar bear doing the polar bear is swimming underwater",
         "goal_words": "the polar bear is swimming underwater",
         "audio_filename": "line4_en_42.mp3",
-        "audio_dir": "the polar bear is swimming underwater"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -645,7 +645,7 @@
         "answer": "what does the monkey have? it has a can of soda",
         "goal_words": "it has a can of soda",
         "audio_filename": "line2_en_292.mp3",
-        "audio_dir": "it has a can of soda"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -663,7 +663,7 @@
         "answer": "where is the monkey sitting? it is sitting on a beach",
         "goal_words": "it is sitting on a beach",
         "audio_filename": "line2_en_341.mp3",
-        "audio_dir": "it is sitting on a beach"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -681,7 +681,7 @@
         "answer": "where is the baby giraffe? behind it's mother",
         "goal_words": "behind it's mother",
         "audio_filename": "line_en_281.mp3",
-        "audio_dir": "behind it's mother"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -699,7 +699,7 @@
         "answer": "where is the kangaroo? in the middle of the road",
         "goal_words": "in the middle of the road",
         "audio_filename": "line2_en_232.mp3",
-        "audio_dir": "in the middle of the road"
+        "learning_tag": "Q&A"
     },
     {
         "level": 4.0,
@@ -717,6 +717,6 @@
         "answer": "what does the tortoise have on its back? it carries a hard shell",
         "goal_words": "it carries a hard shell",
         "audio_filename": "line2_en_283.mp3",
-        "audio_dir": "it carries a hard shell"
+        "learning_tag": "Q&A"
     }
 ]

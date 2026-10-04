@@ -15,7 +15,7 @@
         "answer": "ペン (ぺん)",
         "goal_words": "ペン (ぺん)",
         "audio_filename": "line2_ja_18.mp3",
-        "audio_dir": "ペン (ぺん)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -33,7 +33,7 @@
         "answer": "紙 (かみ)",
         "goal_words": "紙 (かみ)",
         "audio_filename": "line4_ja_327.mp3",
-        "audio_dir": "紙 (かみ)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -51,7 +51,7 @@
         "answer": "鉛筆 (えんぴつ)",
         "goal_words": "鉛筆 (えんぴつ)",
         "audio_filename": "line4_ja_758.mp3",
-        "audio_dir": "鉛筆 (えんぴつ)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -69,7 +69,7 @@
         "answer": "マーカー (まーかー)",
         "goal_words": "マーカー (まーかー)",
         "audio_filename": "line2_ja_70.mp3",
-        "audio_dir": "マーカー (まーかー)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -87,7 +87,7 @@
         "answer": "消しゴム (けしごむ)",
         "goal_words": "消しゴム (けしごむ)",
         "audio_filename": "line3_ja_784.mp3",
-        "audio_dir": "消しゴム (けしごむ)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -105,7 +105,7 @@
         "answer": "はさみ (はさみ)",
         "goal_words": "はさみ (はさみ)",
         "audio_filename": "line_ja_924.mp3",
-        "audio_dir": "はさみ (はさみ)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -123,7 +123,7 @@
         "answer": "財布 (さいふ)",
         "goal_words": "財布 (さいふ)",
         "audio_filename": "line4_ja_611.mp3",
-        "audio_dir": "財布 (さいふ)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -141,7 +141,7 @@
         "answer": "テレビ (てれび)",
         "goal_words": "テレビ (てれび)",
         "audio_filename": "line_ja_862.mp3",
-        "audio_dir": "テレビ (てれび)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -159,7 +159,7 @@
         "answer": "リモコン (りもこん)",
         "goal_words": "リモコン (りもこん)",
         "audio_filename": "line2_ja_170.mp3",
-        "audio_dir": "リモコン (りもこん)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -177,7 +177,7 @@
         "answer": "枕 (まくら)",
         "goal_words": "枕 (まくら)",
         "audio_filename": "line3_ja_655.mp3",
-        "audio_dir": "枕 (まくら)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -195,7 +195,7 @@
         "answer": "毛布 (もうふ)",
         "goal_words": "毛布 (もうふ)",
         "audio_filename": "line3_ja_726.mp3",
-        "audio_dir": "毛布 (もうふ)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -213,7 +213,7 @@
         "answer": "歯ブラシ (はぶらし)",
         "goal_words": "歯ブラシ (はぶらし)",
         "audio_filename": "line3_ja_713.mp3",
-        "audio_dir": "歯ブラシ (はぶらし)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -231,7 +231,7 @@
         "answer": "石鹸 (せっけん)",
         "goal_words": "石鹸 (せっけん)",
         "audio_filename": "line3_ja_938.mp3",
-        "audio_dir": "石鹸 (せっけん)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -249,11 +249,11 @@
         "answer": "ヘッドフォン (へっどふぉん) / イヤホン (いやほん)",
         "goal_words": "ヘッドフォン (へっどふぉん) / イヤホン (いやほん)",
         "audio_filename": "line2_ja_9.mp3",
-        "audio_dir": "ヘッドフォン (へっどふぉん) / イヤホン (いやほん)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
-        "image_filename": "charger2.jpg",
+        "image_filename": "charge.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
@@ -267,7 +267,7 @@
         "answer": "充電器 (じゅうでんき)",
         "goal_words": "充電器 (じゅうでんき)",
         "audio_filename": "line2_ja_360.mp3",
-        "audio_dir": "充電器 (じゅうでんき)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -285,7 +285,7 @@
         "answer": "ほうき (ほうき)",
         "goal_words": "ほうき (ほうき)",
         "audio_filename": "line2_ja_34.mp3",
-        "audio_dir": "ほうき (ほうき)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -303,7 +303,7 @@
         "answer": "ブラシ (ぶらし)",
         "goal_words": "ブラシ (ぶらし)",
         "audio_filename": "line_ja_985.mp3",
-        "audio_dir": "ブラシ (ぶらし)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -321,7 +321,7 @@
         "answer": "傘 (かさ)",
         "goal_words": "傘 (かさ)",
         "audio_filename": "line2_ja_348.mp3",
-        "audio_dir": "傘 (かさ)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -339,7 +339,7 @@
         "answer": "扇風機 (せんぷうき)",
         "goal_words": "扇風機 (せんぷうき)",
         "audio_filename": "line3_ja_477.mp3",
-        "audio_dir": "扇風機 (せんぷうき)"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -357,7 +357,7 @@
         "answer": "おもちゃ",
         "goal_words": "おもちゃ",
         "audio_filename": "line_ja_500.mp3",
-        "audio_dir": "おもちゃ"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -375,7 +375,7 @@
         "answer": "水 - みず",
         "goal_words": "水",
         "audio_filename": "line3_ja_733.mp3",
-        "audio_dir": "水 - みず"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -393,7 +393,7 @@
         "answer": "ボール",
         "goal_words": "ボール",
         "audio_filename": "line2_ja_31.mp3",
-        "audio_dir": "ボール"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -411,7 +411,7 @@
         "answer": "椅子 - いす",
         "goal_words": "椅子",
         "audio_filename": "line3_ja_665.mp3",
-        "audio_dir": "椅子 - いす"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -429,7 +429,7 @@
         "answer": "時計 - とけい",
         "goal_words": "時計",
         "audio_filename": "line3_ja_592.mp3",
-        "audio_dir": "時計 - とけい"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -447,7 +447,7 @@
         "answer": "氷 - こおり",
         "goal_words": "氷",
         "audio_filename": "line3_ja_741.mp3",
-        "audio_dir": "氷 - こおり"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -465,7 +465,7 @@
         "answer": "鍵",
         "goal_words": "鍵",
         "audio_filename": "line4_ja_763.mp3",
-        "audio_dir": "鍵"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -483,7 +483,7 @@
         "answer": "携帯電話 - けいたいでんわ",
         "goal_words": "携帯電話",
         "audio_filename": "line3_ja_520.mp3",
-        "audio_dir": "携帯電話 - けいたいでんわ"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -501,7 +501,7 @@
         "answer": "植物 - しょくぶつ",
         "goal_words": "植物",
         "audio_filename": "line3_ja_669.mp3",
-        "audio_dir": "植物 - しょくぶつ"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -515,11 +515,11 @@
         "native_answer": "laptop",
         "native_word": "everyday items",
         "tag": "everyday items",
-        "prompt": "______ - ______",
-        "answer": "ノートパソコン - ノートパソコン",
+        "prompt": "______",
+        "answer": "ノートパソコン",
         "goal_words": "ノートパソコン",
         "audio_filename": "line_ja_909.mp3",
-        "audio_dir": "ノートパソコン - ノートパソコン"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -533,11 +533,11 @@
         "native_answer": "computer",
         "native_word": "everyday items",
         "tag": "everyday items",
-        "prompt": "______ー - ______ー",
-        "answer": "コンピューター - コンピューター",
+        "prompt": "______ー",
+        "answer": "コンピューター",
         "goal_words": "コンピュータ",
         "audio_filename": "line_ja_626.mp3",
-        "audio_dir": "コンピューター - コンピューター"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -555,7 +555,7 @@
         "answer": "光 - ひかり",
         "goal_words": "光",
         "audio_filename": "line2_ja_364.mp3",
-        "audio_dir": "光 - ひかり"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -573,7 +573,7 @@
         "answer": "お金 - おかね",
         "goal_words": "お金",
         "audio_filename": "line_ja_525.mp3",
-        "audio_dir": "お金 - おかね"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -591,7 +591,7 @@
         "answer": "絵 - え",
         "goal_words": "絵",
         "audio_filename": "line4_ja_340.mp3",
-        "audio_dir": "絵 - え"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -605,11 +605,11 @@
         "native_answer": "camera",
         "native_word": "everyday items",
         "tag": "everyday items",
-        "prompt": "______ - ______",
-        "answer": "カメラ - カメラ",
+        "prompt": "______",
+        "answer": "カメラ",
         "goal_words": "カメラ",
         "audio_filename": "line_ja_545.mp3",
-        "audio_dir": "カメラ - カメラ"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -627,7 +627,7 @@
         "answer": "ノートブック",
         "goal_words": "ノートブック",
         "audio_filename": "line_ja_910.mp3",
-        "audio_dir": "ノートブック"
+        "learning_tag": "日用品"
     },
     {
         "level": 2.0,
@@ -645,6 +645,600 @@
         "answer": "本",
         "goal_words": "本",
         "audio_filename": "line3_ja_641.mp3",
-        "audio_dir": "本"
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "pen2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Pen to write with",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "ペンで書く",
+        "answer": "ペンで書く",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_142.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "paper2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Paper to write or draw on",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "書いたり絵を描いたりするための紙",
+        "answer": "書いたり絵を描いたりするための紙",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_300.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "pencil2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Pencil to write or sketch with",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "書いたりスケッチしたりするための鉛筆",
+        "answer": "書いたりスケッチしたりするための鉛筆",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_299.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "marker2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Marker to write with bold ink",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "太字インクで書くためのマーカー",
+        "answer": "太字インクで書くためのマーカー",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_241.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "eraser2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Eraser to remove mistakes",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "間違いを消すための消しゴム",
+        "answer": "間違いを消すための消しゴム",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_443.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "scissors2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Scissors to cut paper or objects",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "紙や物を切るためのはさみ",
+        "answer": "紙や物を切るためのはさみ",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_383.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "wallet2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Wallet to carry money and cards",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "お金とカードを入れるための財布",
+        "answer": "お金とカードを入れるための財布",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_29.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "tv2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "TV to watch shows and movies",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "テレビ番組や映画を見るためのテレビ",
+        "answer": "テレビ番組や映画を見るためのテレビ",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_99.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "remote2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Remote to control devices like TV",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "テレビなどの機器を操作するためのリモコン",
+        "answer": "テレビなどの機器を操作するためのリモコン",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_98.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "pillow2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Pillow to rest your head on",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "頭を休めるための枕",
+        "answer": "頭を休めるための枕",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_457.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "blanket2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Blanket to keep warm",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "暖かく過ごすための毛布",
+        "answer": "暖かく過ごすための毛布",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_298.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "toothbrush2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Toothbrush to clean your teeth",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "歯を磨くための歯ブラシ",
+        "answer": "歯を磨くための歯ブラシ",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_308.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "soap2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Soap to wash your hands and body",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "手や体を洗うための石鹸",
+        "answer": "手や体を洗うための石鹸",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_284.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "headphones2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Headphones to listen to audio privately",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "プライベートな音声を聞くためのヘッドホン",
+        "answer": "プライベートな音声を聞くためのヘッドホン",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_135.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "charge.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Charger to power electronic devices",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "電子機器に電力を供給するための充電器",
+        "answer": "電子機器に電力を供給するための充電器",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_450.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "broom2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Broom to sweep floors",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "床を掃くためのほうき",
+        "answer": "床を掃くためのほうき",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_247.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "umbrella2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Umbrella to protect you from rain",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "雨から身を守る傘",
+        "answer": "雨から身を守る傘",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_449.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "fan5.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Fan to cool the air",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "空気を冷やすための扇風機",
+        "answer": "空気を冷やすための扇風機",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_378.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "toy.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Toy to play with",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "遊ぶためのおもちゃ",
+        "answer": "遊ぶためのおもちゃ",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_433.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "water.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Water to drink",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "飲料水",
+        "answer": "飲料水",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_463.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "ball.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Ball to throw or play sports with",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "投げたりスポーツをしたりするためのボール",
+        "answer": "投げたりスポーツをしたりするためのボール",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_285.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "chair.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Chair to sit on",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "座る椅子",
+        "answer": "座る椅子",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_249.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "clock.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Clock to tell time",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "時間を知るための時計",
+        "answer": "時間を知るための時計",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_296.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "ice.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Ice to cool drinks or keep things cold",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "飲み物を冷やしたり、物を冷たく保つための氷",
+        "answer": "飲み物を冷やしたり、物を冷たく保つための氷",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_462.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "keys.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Keys to open locks",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "錠を開けるための鍵",
+        "answer": "錠を開けるための鍵",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_440.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "cell_phone.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Cell phone to call and text people",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "携帯電話で人に電話したりメールを送ったりする",
+        "answer": "携帯電話で人に電話したりメールを送ったりする",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_288.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "plant.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Plant to grow and decorate spaces",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "植物を育てて空間を飾ろう",
+        "answer": "植物を育てて空間を飾ろう",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_304.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "laptop.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Laptop to work or study on",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "仕事や勉強に使うノートパソコン",
+        "answer": "仕事や勉強に使うノートパソコン",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_193.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "money.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Money to buy things",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "物を買うためのお金",
+        "answer": "物を買うためのお金",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_323.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "picture.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Picture to view or display an image",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "画像を表示または表示する画像",
+        "answer": "画像を表示または表示する画像",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_328.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "camera.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Camera to take photos or videos",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "写真や動画を撮影するためのカメラ",
+        "answer": "写真や動画を撮影するためのカメラ",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_208.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "notebook.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Notebook to write notes in",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "メモを取るためのノート",
+        "answer": "メモを取るためのノート",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_163.mp3",
+        "learning_tag": "日用品"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "book2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": "Nouns have no grammatical gender or number in most contexts.\n\nNouns do not inflect; they keep the same form regardless of their grammatical role.\n\nPlurality can be optionally expressed using suffixes like 〜たち (-tachi) or 〜ら (-ra) for people or animate nouns, but context often makes number clear.\n\nJapanese relies heavily on particles, which are small function words placed after nouns to indicate their grammatical role:\n\nが (ga) marks the subject.\n\nを (wo/o) marks the direct object.\n\nに (ni) indicates direction, time, or indirect object.\n\nへ (e) marks direction, similar to “toward.”\n\nで (de) marks the location of an action or means/method.\n\nの (no) indicates possession or noun-to-noun modification (like \"'s\" in English).\n\nThere are no articles (like \"a\" or \"the\"); definiteness is inferred through context or use of demonstratives like この (this), その (that).\n\n",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "2 everyday items",
+        "native_answer": "Book to read stories or information",
+        "native_word": "everyday items",
+        "tag": "everyday items",
+        "prompt": "物語や情報を読むための本",
+        "answer": "物語や情報を読むための本",
+        "goal_words": "",
+        "audio_filename": "line10June26_ja_324.mp3",
+        "learning_tag": "日用品"
     }
 ]

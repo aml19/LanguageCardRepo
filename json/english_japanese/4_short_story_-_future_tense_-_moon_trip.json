@@ -1,78 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "alone.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "alone",
-        "native_word": "adjective -  Condition",
-        "tag": "adjective -  Condition",
-        "prompt": "______",
-        "answer": "一人で",
-        "goal_words": "一人で",
-        "audio_filename": "line2_ja_200.mp3",
-        "audio_dir": "一人で"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "stand_here.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "Here",
-        "native_word": "adverb -  Place",
-        "tag": "adverb -  Place",
-        "prompt": "______",
-        "answer": "ここ",
-        "goal_words": "ここ",
-        "audio_filename": "line_ja_596.mp3",
-        "audio_dir": "ここ"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "moon.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "moon",
-        "native_word": "everyday things",
-        "tag": "everyday things",
-        "prompt": "______ - つき",
-        "answer": "月 - つき",
-        "goal_words": "月",
-        "audio_filename": "line3_ja_622.mp3",
-        "audio_dir": "月 - つき"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "person.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "Person",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "______",
-        "answer": "人",
-        "goal_words": "人",
-        "audio_filename": "line2_ja_279.mp3",
-        "audio_dir": "人"
-    },
-    {
-        "level": 4.0,
         "image_filename": "road_trip.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -87,7 +15,7 @@
         "answer": "旅行",
         "goal_words": "旅行",
         "audio_filename": "line3_ja_552.mp3",
-        "audio_dir": "旅行"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -105,7 +33,7 @@
         "answer": "重力：地球の中心に物体を引き寄せる力",
         "goal_words": "重力",
         "audio_filename": "line4_ja_729.mp3",
-        "audio_dir": "重力：地球の中心に物体を引き寄せる力"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -123,7 +51,7 @@
         "answer": "地球",
         "goal_words": "地球",
         "audio_filename": "line2_ja_675.mp3",
-        "audio_dir": "地球"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -141,7 +69,7 @@
         "answer": "宇宙には多くのものがあります",
         "goal_words": "宇宙",
         "audio_filename": "line2_ja_775.mp3",
-        "audio_dir": "宇宙には多くのものがあります"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -159,43 +87,7 @@
         "answer": "スリルを求めて乗る",
         "goal_words": "スリル",
         "audio_filename": "line_ja_726.mp3",
-        "audio_dir": "スリルを求めて乗る"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "foot.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "Foot",
-        "native_word": "noun - Body Parts",
-        "tag": "noun - Body Parts",
-        "prompt": "______",
-        "answer": "足",
-        "goal_words": "足",
-        "audio_filename": "line4_ja_634.mp3",
-        "audio_dir": "足"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "body.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "Body",
-        "native_word": "noun - Body Parts",
-        "tag": "noun - Body Parts",
-        "prompt": "______",
-        "answer": "体",
-        "goal_words": "体",
-        "audio_filename": "line2_ja_316.mp3",
-        "audio_dir": "体"
+        "learning_tag": "名詞 - 感情と感情"
     },
     {
         "level": 4.0,
@@ -213,7 +105,7 @@
         "answer": "歴史",
         "goal_words": "歴史",
         "audio_filename": "line3_ja_715.mp3",
-        "audio_dir": "歴史"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -231,7 +123,7 @@
         "answer": "月の表面",
         "goal_words": "表面",
         "audio_filename": "line3_ja_625.mp3",
-        "audio_dir": "月の表面"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -249,7 +141,7 @@
         "answer": "実験を行う",
         "goal_words": "実験",
         "audio_filename": "line2_ja_793.mp3",
-        "audio_dir": "実験を行う"
+        "learning_tag": "名詞 - 活動"
     },
     {
         "level": 4.0,
@@ -267,7 +159,7 @@
         "answer": "各動物はその生息地で",
         "goal_words": "生息地",
         "audio_filename": "line2_ja_526.mp3",
-        "audio_dir": "各動物はその生息地で"
+        "learning_tag": "名詞 - 自然要素"
     },
     {
         "level": 4.0,
@@ -285,7 +177,7 @@
         "answer": "冒険中",
         "goal_words": "冒険",
         "audio_filename": "line2_ja_389.mp3",
-        "audio_dir": "冒険中"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -303,7 +195,7 @@
         "answer": "若いから年老いるまでの一生",
         "goal_words": "一生",
         "audio_filename": "line4_ja_441.mp3",
-        "audio_dir": "若いから年老いるまでの一生"
+        "learning_tag": "名詞 - 時間と測定"
     },
     {
         "level": 4.0,
@@ -317,11 +209,11 @@
         "native_answer": "american pioneer going west",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
-        "prompt": "西へ進んだアメリカの______",
+        "prompt": "西へ進んだアメリカの先駆者",
         "answer": "西へ進んだアメリカの先駆者",
         "goal_words": "先駆者",
         "audio_filename": "line4_ja_491.mp3",
-        "audio_dir": "西へ進んだアメリカの先駆者"
+        "learning_tag": "名詞 - 人と役割"
     },
     {
         "level": 4.0,
@@ -339,7 +231,7 @@
         "answer": "探検：それについて学ぶために未知の地域を旅行する行為。",
         "goal_words": "探検",
         "audio_filename": "line3_ja_515.mp3",
-        "audio_dir": "探検：それについて学ぶために未知の地域を旅行する行為。"
+        "learning_tag": "名詞 - 活動"
     },
     {
         "level": 4.0,
@@ -357,7 +249,7 @@
         "answer": "前途の長い旅",
         "goal_words": "旅",
         "audio_filename": "line2_ja_423.mp3",
-        "audio_dir": "前途の長い旅"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -375,7 +267,7 @@
         "answer": "段階",
         "goal_words": "段階",
         "audio_filename": "line3_ja_719.mp3",
-        "audio_dir": "段階"
+        "learning_tag": "名詞 – アクション"
     },
     {
         "level": 4.0,
@@ -393,25 +285,7 @@
         "answer": "信じる：真実を受け入れる；真実を確信する。",
         "goal_words": "信じる",
         "audio_filename": "line2_ja_331.mp3",
-        "audio_dir": "信じる：真実を受け入れる；真実を確信する。"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "to go with her",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "彼女と一緒に______",
-        "answer": "彼女と一緒に行く",
-        "goal_words": "行く",
-        "audio_filename": "line3_ja_255.mp3",
-        "audio_dir": "彼女と一緒に行く"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 4.0,
@@ -429,7 +303,7 @@
         "answer": "夢を見る",
         "goal_words": "夢を見る",
         "audio_filename": "line2_ja_707.mp3",
-        "audio_dir": "夢を見る"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 4.0,
@@ -447,43 +321,7 @@
         "answer": "仮想現実を体験する",
         "goal_words": "体験する",
         "audio_filename": "line2_ja_301.mp3",
-        "audio_dir": "仮想現実を体験する"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "see.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "See",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "______",
-        "answer": "見る",
-        "goal_words": "見る",
-        "audio_filename": "line4_ja_495.mp3",
-        "audio_dir": "見る"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "wait.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "wait",
-        "native_word": "verb - self",
-        "tag": "verb - self",
-        "prompt": "______",
-        "answer": "待つ",
-        "goal_words": "待つ",
-        "audio_filename": "line3_ja_370.mp3",
-        "audio_dir": "待つ"
+        "learning_tag": "動詞 - 知覚"
     },
     {
         "level": 4.0,
@@ -501,7 +339,7 @@
         "answer": "新しい世界を探検する",
         "goal_words": "探検する",
         "audio_filename": "line3_ja_544.mp3",
-        "audio_dir": "新しい世界を探検する"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -519,24 +357,6 @@
         "answer": "バンドを指揮する",
         "goal_words": "指揮する",
         "audio_filename": "line_ja_948.mp3",
-        "audio_dir": "バンドを指揮する"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "make",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "作る",
-        "goal_words": "作る",
-        "audio_filename": "line2_ja_319.mp3",
-        "audio_dir": "作る"
+        "learning_tag": "動詞 - 効果"
     }
 ]

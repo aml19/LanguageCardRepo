@@ -15,7 +15,7 @@
         "answer": "increíble",
         "goal_words": "increíble",
         "audio_filename": "line3_es_423.mp3",
-        "audio_dir": "increíble"
+        "learning_tag": "adjetivo - juicio"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "épico: transmite un sentido de grandeza, grandeza o impacto extraordinario.",
         "goal_words": "épico",
         "audio_filename": "line2_es_984.mp3",
-        "audio_dir": "épico: transmite un sentido de grandeza, grandeza o impacto extraordinario."
+        "learning_tag": "adjetivo - juicio"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "buen trabajo",
         "goal_words": "buen",
         "audio_filename": "line_es_463.mp3",
-        "audio_dir": "buen trabajo"
+        "learning_tag": "adjetivo - juicio"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "última porción de pizza",
         "goal_words": "última",
         "audio_filename": "line5_es_438.mp3",
-        "audio_dir": "última porción de pizza"
+        "learning_tag": "adjetivo - tiempo"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "hoy",
         "goal_words": "hoy",
         "audio_filename": "line3_es_399.mp3",
-        "audio_dir": "hoy"
+        "learning_tag": "adjetivo - tiempo"
     },
     {
         "level": 4.0,
@@ -101,11 +101,11 @@
         "native_answer": "already",
         "native_word": "adverb -  Time",
         "tag": "adverb -  Time",
-        "prompt": "______",
+        "prompt": "ya",
         "answer": "ya",
         "goal_words": "ya",
         "audio_filename": "line5_es_908.mp3",
-        "audio_dir": "ya"
+        "learning_tag": "adverbio - tiempo"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "definitivamente: sin duda",
         "goal_words": "definitivamente",
         "audio_filename": "line_es_751.mp3",
-        "audio_dir": "definitivamente: sin duda"
+        "learning_tag": "adverbio - juicio"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "El corazón",
         "goal_words": "El corazón",
         "audio_filename": "line2_es_2.mp3",
-        "audio_dir": "El corazón"
+        "learning_tag": "partes del cuerpo"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "la cuenta",
         "goal_words": "la cuenta",
         "audio_filename": "line3_es_589.mp3",
-        "audio_dir": "la cuenta"
+        "learning_tag": "comida"
     },
     {
         "level": 4.0,
@@ -177,25 +177,7 @@
         "answer": "La entrada",
         "goal_words": "entrada",
         "audio_filename": "line3_es_602.mp3",
-        "audio_dir": "La entrada"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "friend",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Un ______",
-        "answer": "Un amigo",
-        "goal_words": "amigo",
-        "audio_filename": "line5_es_443.mp3",
-        "audio_dir": "Un amigo"
+        "learning_tag": "sustantivo - Edificios y lugares"
     },
     {
         "level": 4.0,
@@ -213,7 +195,7 @@
         "answer": "La alineación del equipo",
         "goal_words": "alineación",
         "audio_filename": "line3_es_519.mp3",
-        "audio_dir": "La alineación del equipo"
+        "learning_tag": "sustantivo - Eventos"
     },
     {
         "level": 4.0,
@@ -231,7 +213,7 @@
         "answer": "El lugar",
         "goal_words": "lugar",
         "audio_filename": "line2_es_179.mp3",
-        "audio_dir": "El lugar"
+        "learning_tag": "sustantivo - lugar"
     },
     {
         "level": 4.0,
@@ -249,25 +231,7 @@
         "answer": "El boleto",
         "goal_words": "boleto",
         "audio_filename": "line_es_928.mp3",
-        "audio_dir": "El boleto"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "time.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "Time",
-        "native_word": "noun - Time",
-        "tag": "noun - Time",
-        "prompt": "El ______",
-        "answer": "El tiempo",
-        "goal_words": "tiempo",
-        "audio_filename": "line2_es_339.mp3",
-        "audio_dir": "El tiempo"
+        "learning_tag": "sustantivo - Objetos cotidianos"
     },
     {
         "level": 4.0,
@@ -285,7 +249,7 @@
         "answer": "La semana",
         "goal_words": "semana",
         "audio_filename": "line3_es_754.mp3",
-        "audio_dir": "La semana"
+        "learning_tag": "sustantivo - tiempo"
     },
     {
         "level": 4.0,
@@ -303,7 +267,7 @@
         "answer": "El fin de semana",
         "goal_words": "fin de semana",
         "audio_filename": "line2_es_88.mp3",
-        "audio_dir": "El fin de semana"
+        "learning_tag": "sustantivo - tiempo"
     },
     {
         "level": 4.0,
@@ -321,25 +285,7 @@
         "answer": "El concierto",
         "goal_words": "concierto",
         "audio_filename": "line_es_989.mp3",
-        "audio_dir": "El concierto"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "door.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "door",
-        "native_word": "noun - Everyday Objects",
-        "tag": "noun - Everyday Objects",
-        "prompt": "______",
-        "answer": "La puerta",
-        "goal_words": "La puerta",
-        "audio_filename": "line3_es_735.mp3",
-        "audio_dir": "La puerta"
+        "learning_tag": "sustantivo - Eventos"
     },
     {
         "level": 4.0,
@@ -357,43 +303,7 @@
         "answer": "Comprar",
         "goal_words": "Comprar",
         "audio_filename": "line_es_617.mp3",
-        "audio_dir": "Comprar"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "get_gift_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "get a gift",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______ un regalo",
-        "answer": "conseguir un regalo",
-        "goal_words": "conseguir",
-        "audio_filename": "line_es_651.mp3",
-        "audio_dir": "conseguir un regalo"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "go with her",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______ con ella",
-        "answer": "ir con ella",
-        "goal_words": "ir",
-        "audio_filename": "line3_es_445.mp3",
-        "audio_dir": "ir con ella"
+        "learning_tag": "verbo - objeto"
     },
     {
         "level": 4.0,
@@ -411,7 +321,7 @@
         "answer": "agarrar",
         "goal_words": "agarrar",
         "audio_filename": "line_es_296.mp3",
-        "audio_dir": "agarrar"
+        "learning_tag": "verbo - objeto"
     },
     {
         "level": 4.0,
@@ -429,7 +339,7 @@
         "answer": "ayudar",
         "goal_words": "ayudar",
         "audio_filename": "line_es_429.mp3",
-        "audio_dir": "ayudar"
+        "learning_tag": "verbo - interactivo"
     },
     {
         "level": 4.0,
@@ -447,7 +357,7 @@
         "answer": "reunirse por negocios",
         "goal_words": "reunirse",
         "audio_filename": "line4_es_761.mp3",
-        "audio_dir": "reunirse por negocios"
+        "learning_tag": "verbo - interactivo"
     },
     {
         "level": 4.0,
@@ -465,7 +375,7 @@
         "answer": "perder",
         "goal_words": "perder",
         "audio_filename": "line4_es_526.mp3",
-        "audio_dir": "perder"
+        "learning_tag": "verbo - sentimiento"
     },
     {
         "level": 4.0,
@@ -483,7 +393,7 @@
         "answer": "abrir",
         "goal_words": "abrir",
         "audio_filename": "line_es_262.mp3",
-        "audio_dir": "abrir"
+        "learning_tag": "verbo - cambiar"
     },
     {
         "level": 4.0,
@@ -501,7 +411,7 @@
         "answer": "Mostrar dinero",
         "goal_words": "Mostrar",
         "audio_filename": "line4_es_39.mp3",
-        "audio_dir": "Mostrar dinero"
+        "learning_tag": "verbo - interactivo"
     },
     {
         "level": 4.0,
@@ -519,7 +429,7 @@
         "answer": "empezar",
         "goal_words": "empezar",
         "audio_filename": "line2_es_927.mp3",
-        "audio_dir": "empezar"
+        "learning_tag": "verbo - cambiar"
     },
     {
         "level": 4.0,
@@ -537,24 +447,6 @@
         "answer": "esperar",
         "goal_words": "esperar",
         "audio_filename": "line3_es_77.mp3",
-        "audio_dir": "esperar"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "want_dog_food.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "want",
-        "native_word": "verb - feeling",
-        "tag": "verb - feeling",
-        "prompt": "______",
-        "answer": "querer",
-        "goal_words": "querer",
-        "audio_filename": "line4_es_680.mp3",
-        "audio_dir": "querer"
+        "learning_tag": "verbo - yo"
     }
 ]

@@ -15,7 +15,7 @@
         "answer": "近距離パット",
         "goal_words": "近",
         "audio_filename": "line4_ja_652.mp3",
-        "audio_dir": "近距離パット"
+        "learning_tag": "形容詞 - スペース"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "大きい子と小さい子",
         "goal_words": "小さい",
         "audio_filename": "line2_ja_710.mp3",
-        "audio_dir": "大きい子と小さい子"
+        "learning_tag": "形容詞 - サイズ"
     },
     {
         "level": 4.0,
@@ -47,11 +47,11 @@
         "native_answer": "wider: more wide",
         "native_word": "adjective - size",
         "tag": "adjective - size",
-        "prompt": "より______: もっと______",
-        "answer": "より広い: もっと広い",
-        "goal_words": "広い",
+        "prompt": "より______: もっと広い",
+        "answer": "より広い​: もっと広い",
+        "goal_words": "広い​",
         "audio_filename": "line2_ja_150.mp3",
-        "audio_dir": "より広い: もっと広い"
+        "learning_tag": "形容詞 - サイズ"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "固体、液体、気体",
         "goal_words": "固体",
         "audio_filename": "line2_ja_659.mp3",
-        "audio_dir": "固体、液体、気体"
+        "learning_tag": "形容詞 - テクスチャ"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "川のもう一方の岸にあるボート",
         "goal_words": "もう一方の",
         "audio_filename": "line2_ja_854.mp3",
-        "audio_dir": "川のもう一方の岸にあるボート"
+        "learning_tag": "adjective - 形容詞 (一般的、特定のカテゴリには当てはまりません)"
     },
     {
         "level": 4.0,
@@ -101,11 +101,11 @@
         "native_answer": "should i go left or right?",
         "native_word": "adverb -  judgement",
         "tag": "adverb -  judgement",
-        "prompt": "左に行く______ですか、それとも右に行く______ですか？",
+        "prompt": "左に行くべきですか、それとも右に行くべきですか？",
         "answer": "左に行くべきですか、それとも右に行くべきですか？",
         "goal_words": "べき",
         "audio_filename": "line2_ja_858.mp3",
-        "audio_dir": "左に行くべきですか、それとも右に行くべきですか？"
+        "learning_tag": "副詞 - 判断"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "さらに: もっと遠く",
         "goal_words": "さらに",
         "audio_filename": "line_ja_655.mp3",
-        "audio_dir": "さらに: もっと遠く"
+        "learning_tag": "副詞 - 程度"
     },
     {
         "level": 4.0,
@@ -141,12 +141,12 @@
         "answer": "ボス: 監督またはマネージャー。",
         "goal_words": "ボス",
         "audio_filename": "line2_ja_61.mp3",
-        "audio_dir": "ボス: 監督またはマネージャー。"
+        "learning_tag": "名詞 - 人と役割"
     },
     {
         "level": 4.0,
         "image_filename": "employee.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -155,11 +155,11 @@
         "native_answer": "Employee: Worker or staff member.",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
-        "prompt": "______: 労働者またはスタッフメンバー。",
+        "prompt": "従業員: 労働者またはスタッフメンバー。",
         "answer": "従業員: 労働者またはスタッフメンバー。",
         "goal_words": "従業員",
         "audio_filename": "line3_ja_390.mp3",
-        "audio_dir": "従業員: 労働者またはスタッフメンバー。"
+        "learning_tag": "名詞 - 人と役割"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "鉄道の線路 - トラックのレール",
         "goal_words": "トラック",
         "audio_filename": "line4_ja_757.mp3",
-        "audio_dir": "鉄道の線路 - トラックのレール"
+        "learning_tag": "名詞 - 日常の物"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "道の終わり",
         "goal_words": "終わり",
         "audio_filename": "line4_ja_698.mp3",
-        "audio_dir": "道の終わり"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "15分間 - 四半期間",
         "goal_words": "四半期",
         "audio_filename": "line_ja_156.mp3",
-        "audio_dir": "15分間 - 四半期間"
+        "learning_tag": "名詞 - 測定"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "チェス: 戦略を用いたゲーム",
         "goal_words": "戦略",
         "audio_filename": "line_ja_830.mp3",
-        "audio_dir": "チェス: 戦略を用いたゲーム"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -249,7 +249,7 @@
         "answer": "トマトの販売",
         "goal_words": "販売",
         "audio_filename": "line_ja_876.mp3",
-        "audio_dir": "トマトの販売"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -267,7 +267,7 @@
         "answer": "アイデア",
         "goal_words": "アイデア",
         "audio_filename": "line_ja_268.mp3",
-        "audio_dir": "アイデア"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -285,7 +285,7 @@
         "answer": "努力: 目標に向かってエネルギーを適用すること",
         "goal_words": "努力",
         "audio_filename": "line2_ja_437.mp3",
-        "audio_dir": "努力: 目標に向かってエネルギーを適用すること"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -303,7 +303,7 @@
         "answer": "ソーシャルメディアでのマーケティング",
         "goal_words": "マーケティング",
         "audio_filename": "line_ja_734.mp3",
-        "audio_dir": "ソーシャルメディアでのマーケティング"
+        "learning_tag": "名詞 - 活動"
     },
     {
         "level": 4.0,
@@ -321,7 +321,7 @@
         "answer": "広告: プロモーションメッセージ",
         "goal_words": "広告",
         "audio_filename": "line2_ja_884.mp3",
-        "audio_dir": "広告: プロモーションメッセージ"
+        "learning_tag": "名詞 - 活動"
     },
     {
         "level": 4.0,
@@ -339,7 +339,7 @@
         "answer": "影響力者",
         "goal_words": "影響力者",
         "audio_filename": "line2_ja_926.mp3",
-        "audio_dir": "影響力者"
+        "learning_tag": "名詞 - 人と役割"
     },
     {
         "level": 4.0,
@@ -357,7 +357,7 @@
         "answer": "観客",
         "goal_words": "観客",
         "audio_filename": "line4_ja_564.mp3",
-        "audio_dir": "観客"
+        "learning_tag": "名詞 - 人と役割"
     },
     {
         "level": 4.0,
@@ -375,7 +375,7 @@
         "answer": "ビジネス会議",
         "goal_words": "会議",
         "audio_filename": "line_ja_965.mp3",
-        "audio_dir": "ビジネス会議"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -393,7 +393,7 @@
         "answer": "議論",
         "goal_words": "議論",
         "audio_filename": "line4_ja_607.mp3",
-        "audio_dir": "議論"
+        "learning_tag": "名詞 - 活動"
     },
     {
         "level": 4.0,
@@ -407,11 +407,11 @@
         "native_answer": "A session is a period of time devoted to a particular activity, discussion, or event.",
         "native_word": "noun - Events",
         "tag": "noun - Events",
-        "prompt": "______は特定の活動、議論、またはイベントに専念する期間です。",
+        "prompt": "セッションは特定の活動、議論、またはイベントに専念する期間です。",
         "answer": "セッションは特定の活動、議論、またはイベントに専念する期間です。",
         "goal_words": "セッション",
         "audio_filename": "line_ja_731.mp3",
-        "audio_dir": "セッションは特定の活動、議論、またはイベントに専念する期間です。"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -429,7 +429,7 @@
         "answer": "計画",
         "goal_words": "計画",
         "audio_filename": "line4_ja_576.mp3",
-        "audio_dir": "計画"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 4.0,
@@ -447,25 +447,7 @@
         "answer": "レースを開始する",
         "goal_words": "開始",
         "audio_filename": "line2_ja_178.mp3",
-        "audio_dir": "レースを開始する"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - typical work meeting",
-        "native_answer": "go with her",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "彼女と一緒に______",
-        "answer": "彼女と一緒に行く",
-        "goal_words": "行く",
-        "audio_filename": "line3_ja_255.mp3",
-        "audio_dir": "彼女と一緒に行く"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
@@ -483,25 +465,7 @@
         "answer": "ビジネスのために会う",
         "goal_words": "会う",
         "audio_filename": "line_ja_964.mp3",
-        "audio_dir": "ビジネスのために会う"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - typical work meeting",
-        "native_answer": "push",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "押す",
-        "goal_words": "押す",
-        "audio_filename": "line3_ja_497.mp3",
-        "audio_dir": "押す"
+        "learning_tag": "動詞 - インタラクティブ"
     },
     {
         "level": 4.0,
@@ -519,7 +483,7 @@
         "answer": "ブレインストーミング: アイデアを生み出す創造的なプロセス",
         "goal_words": "ブレインストーミング",
         "audio_filename": "line_ja_994.mp3",
-        "audio_dir": "ブレインストーミング: アイデアを生み出す創造的なプロセス"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 4.0,
@@ -537,7 +501,7 @@
         "answer": "ブースト",
         "goal_words": "ブースト",
         "audio_filename": "line_ja_975.mp3",
-        "audio_dir": "ブースト"
+        "learning_tag": "動詞 - 効果"
     },
     {
         "level": 4.0,
@@ -555,7 +519,7 @@
         "answer": "拡大",
         "goal_words": "拡大",
         "audio_filename": "line3_ja_499.mp3",
-        "audio_dir": "拡大"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
@@ -573,12 +537,12 @@
         "answer": "投資",
         "goal_words": "投資",
         "audio_filename": "line3_ja_495.mp3",
-        "audio_dir": "投資"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
         "image_filename": "collaborate.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -587,11 +551,11 @@
         "native_answer": "collaborate: work together, cooperate",
         "native_word": "verb - communication",
         "tag": "verb - communication",
-        "prompt": "共同作業する: 一緒に働く、______",
+        "prompt": "共同作業する: 一緒に働く、協力する",
         "answer": "共同作業する: 一緒に働く、協力する",
         "goal_words": "協力する",
         "audio_filename": "line2_ja_377.mp3",
-        "audio_dir": "共同作業する: 一緒に働く、協力する"
+        "learning_tag": "動詞 - コミュニケーション"
     },
     {
         "level": 4.0,
@@ -609,7 +573,7 @@
         "answer": "月に手が届くように努力する - ",
         "goal_words": "届く",
         "audio_filename": "line3_ja_623.mp3",
-        "audio_dir": "月に手が届くように努力する - "
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -627,7 +591,7 @@
         "answer": "聞く",
         "goal_words": "聞く",
         "audio_filename": "line4_ja_384.mp3",
-        "audio_dir": "聞く"
+        "learning_tag": "動詞 - 知覚"
     },
     {
         "level": 4.0,
@@ -645,7 +609,7 @@
         "answer": "新しい世界を探検する",
         "goal_words": "探検する",
         "audio_filename": "line3_ja_544.mp3",
-        "audio_dir": "新しい世界を探検する"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -663,7 +627,7 @@
         "answer": "ゲームオーバーです。続けますか？",
         "goal_words": "続け",
         "audio_filename": "line_ja_586.mp3",
-        "audio_dir": "ゲームオーバーです。続けますか？"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
@@ -681,7 +645,7 @@
         "answer": "議論",
         "goal_words": "議論",
         "audio_filename": "line4_ja_607.mp3",
-        "audio_dir": "議論"
+        "learning_tag": "動詞 - コミュニケーション"
     },
     {
         "level": 4.0,
@@ -699,6 +663,6 @@
         "answer": "ブレインストーミング: アイデアを生み出す創造的なプロセス",
         "goal_words": "ブレインストーミング",
         "audio_filename": "line_ja_994.mp3",
-        "audio_dir": "ブレインストーミング: アイデアを生み出す創造的なプロセス"
+        "learning_tag": "動詞 - 精神的"
     }
 ]

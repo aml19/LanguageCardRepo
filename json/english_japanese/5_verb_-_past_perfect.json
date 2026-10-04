@@ -15,7 +15,7 @@
         "answer": "あなたたちは彼が彼女に贈り物を買うことを考える前に、贈り物をもらっていた。",
         "goal_words": "もらっていた",
         "audio_filename": "line_ja_315.mp3",
-        "audio_dir": "あなたたちは彼が彼女に贈り物を買うことを考える前に、贈り物をもらっていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -33,7 +33,7 @@
         "answer": "私たちが到着した時までに、彼女はすでに旅行に出発していた。",
         "goal_words": "出発していた",
         "audio_filename": "line3_ja_965.mp3",
-        "audio_dir": "私たちが到着した時までに、彼女はすでに旅行に出発していた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -51,7 +51,7 @@
         "answer": "誰も気付く前に、彼は瓶からお菓子を取っていた。",
         "goal_words": "取っていた",
         "audio_filename": "line4_ja_599.mp3",
-        "audio_dir": "誰も気付く前に、彼は瓶からお菓子を取っていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -69,7 +69,7 @@
         "answer": "彼らは会う前に何度も電話をかけていた。",
         "goal_words": "かけていた",
         "audio_filename": "line3_ja_154.mp3",
-        "audio_dir": "彼らは会う前に何度も電話をかけていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -87,7 +87,7 @@
         "answer": "泳がないことを決める前に、水が冷たすぎると感じていた。",
         "goal_words": "感じていた",
         "audio_filename": "line3_ja_769.mp3",
-        "audio_dir": "泳がないことを決める前に、水が冷たすぎると感じていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -105,7 +105,7 @@
         "answer": "彼らの指は一瞬触れ合い、忘れられない思い出を作りました",
         "goal_words": "触れ合い",
         "audio_filename": "line3_ja_110.mp3",
-        "audio_dir": "彼らの指は一瞬触れ合い、忘れられない思い出を作りました"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -123,7 +123,7 @@
         "answer": "あなたは寝る前に残り物を冷蔵庫に入れていた。",
         "goal_words": "入れていた",
         "audio_filename": "line_ja_373.mp3",
-        "audio_dir": "あなたは寝る前に残り物を冷蔵庫に入れていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -141,7 +141,7 @@
         "answer": "彼女は技術者が到着する前に、問題を修理するために道具を使っていました",
         "goal_words": "使っていました",
         "audio_filename": "line3_ja_314.mp3",
-        "audio_dir": "彼女は技術者が到着する前に、問題を修理するために道具を使っていました"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -159,11 +159,11 @@
         "answer": "私たちは最終的に成功する前に何度かサーフィンを試みていた。",
         "goal_words": "試みていた",
         "audio_filename": "line4_ja_77.mp3",
-        "audio_dir": "私たちは最終的に成功する前に何度かサーフィンを試みていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
-        "image_filename": "love_music_f.jpg",
+        "image_filename": "love_music_m.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": "Japanese does not have a direct equivalent of the past perfect tense. The sequence of events and context usually indicate the relationship between past actions.\n\nFormation and Usage: The past tense form of verbs and context indicate the temporal relationship between actions.\nExample: \"食べた後に、出かけました\" (Tabeta ato ni, dekakemashita - After I had eaten, I went out).",
@@ -173,11 +173,11 @@
         "native_answer": "He had loved music since he was a child.",
         "native_word": "verb - past perfect",
         "tag": "verb - past perfect",
-        "prompt": "彼は子供の頃から音楽を______。",
-        "answer": "彼は子供の頃から音楽を愛していた。",
-        "goal_words": "愛していた",
-        "audio_filename": "line3_ja_30.mp3",
-        "audio_dir": "彼は子供の頃から音楽を愛していた。"
+        "prompt": "彼は子供の頃から音楽が______。",
+        "answer": "彼は子供の頃から音楽が大好きでした。",
+        "goal_words": "大好きでした",
+        "audio_filename": "line27aug2026_ja_229.mp3",
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -195,7 +195,7 @@
         "answer": "ゲストが到着する前に、私はピアノを美しく弾いていた。",
         "goal_words": "弾いていた",
         "audio_filename": "line_ja_587.mp3",
-        "audio_dir": "ゲストが到着する前に、私はピアノを美しく弾いていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -213,7 +213,7 @@
         "answer": "彼らは謝る前に自分たちが間違っていると結論付けていた。",
         "goal_words": "結論付けていた",
         "audio_filename": "line3_ja_218.mp3",
-        "audio_dir": "彼らは謝る前に自分たちが間違っていると結論付けていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -231,7 +231,7 @@
         "answer": "彼女はパーティーが始まる数週間前からサプライズパーティーのことを知っていた。",
         "goal_words": "知っていた",
         "audio_filename": "line3_ja_269.mp3",
-        "audio_dir": "彼女はパーティーが始まる数週間前からサプライズパーティーのことを知っていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -249,7 +249,7 @@
         "answer": "あなたたちはテストの前に概念を完全に理解していた。",
         "goal_words": "理解していた",
         "audio_filename": "line_ja_312.mp3",
-        "audio_dir": "あなたたちはテストの前に概念を完全に理解していた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -267,7 +267,7 @@
         "answer": "彼は決断を下す前に結果について考えていた。",
         "goal_words": "考えていた",
         "audio_filename": "line3_ja_64.mp3",
-        "audio_dir": "彼は決断を下す前に結果について考えていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -285,7 +285,7 @@
         "answer": "私は仕事中に気付く前に鍵を家に忘れていた。",
         "goal_words": "忘れていた",
         "audio_filename": "line4_ja_161.mp3",
-        "audio_dir": "私は仕事中に気付く前に鍵を家に忘れていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -303,7 +303,7 @@
         "answer": "あなたは迷子になる前に道を尋ねていた。",
         "goal_words": "尋ねていた",
         "audio_filename": "line_ja_402.mp3",
-        "audio_dir": "あなたは迷子になる前に道を尋ねていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -321,7 +321,7 @@
         "answer": "私たちは落ち着く前に世界を旅したいと思っていた。",
         "goal_words": "思っていた",
         "audio_filename": "line4_ja_93.mp3",
-        "audio_dir": "私たちは落ち着く前に世界を旅したいと思っていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -339,7 +339,7 @@
         "answer": "彼らはプロジェクトが完了する前に何度もお互いを助けていた。",
         "goal_words": "助けていた",
         "audio_filename": "line3_ja_138.mp3",
-        "audio_dir": "彼らはプロジェクトが完了する前に何度もお互いを助けていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -357,7 +357,7 @@
         "answer": "彼女が他の誰かに頼む前に、彼は彼女と一緒に医者に行っていた。",
         "goal_words": "行っていた",
         "audio_filename": "line3_ja_244.mp3",
-        "audio_dir": "彼女が他の誰かに頼む前に、彼は彼女と一緒に医者に行っていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -375,7 +375,7 @@
         "answer": "投稿がバイラルになる前に、彼女はそれを気に入っていた。",
         "goal_words": "気に入っていた",
         "audio_filename": "line3_ja_492.mp3",
-        "audio_dir": "投稿がバイラルになる前に、彼女はそれを気に入っていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -393,7 +393,7 @@
         "answer": "誤解が起こる前に、私たちは深く愛し合っていた。",
         "goal_words": "愛し合っていた",
         "audio_filename": "line4_ja_593.mp3",
-        "audio_dir": "誤解が起こる前に、私たちは深く愛し合っていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -411,7 +411,7 @@
         "answer": "彼らの友達が助けを申し出る前に、彼らはプロジェクトに助けを必要としていた。",
         "goal_words": "必要としていた",
         "audio_filename": "line3_ja_109.mp3",
-        "audio_dir": "彼らの友達が助けを申し出る前に、彼らはプロジェクトに助けを必要としていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -429,7 +429,7 @@
         "answer": "あなたたちはそれを適切に調理する方法を学ぶ前に、ブロッコリーの味を嫌っていた。",
         "goal_words": "嫌っていた",
         "audio_filename": "line_ja_311.mp3",
-        "audio_dir": "あなたたちはそれを適切に調理する方法を学ぶ前に、ブロッコリーの味を嫌っていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -447,25 +447,25 @@
         "answer": "私は新しい方針が実施される前にそれを嫌っていた。",
         "goal_words": "嫌っていた",
         "audio_filename": "line4_ja_214.mp3",
-        "audio_dir": "私は新しい方針が実施される前にそれを嫌っていた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
-        "image_filename": "teach_code_m.jpg",
+        "image_filename": "teach_f.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": "Japanese does not have a direct equivalent of the past perfect tense. The sequence of events and context usually indicate the relationship between past actions.\n\nFormation and Usage: The past tense form of verbs and context indicate the temporal relationship between actions.\nExample: \"食べた後に、出かけました\" (Tabeta ato ni, dekakemashita - After I had eaten, I went out).",
         "native_language": "english",
         "learning_language": "japanese",
         "native_group": "5 verb - past perfect",
-        "native_answer": "She had taught coding to many students before joining the company.",
+        "native_answer": "She had taught math to many students before joining the company.",
         "native_word": "verb - past perfect",
         "tag": "verb - past perfect",
-        "prompt": "彼女は会社に入る前に多くの学生にコーディングを______。",
-        "answer": "彼女は会社に入る前に多くの学生にコーディングを教えていた。",
-        "goal_words": "教えていた",
-        "audio_filename": "line3_ja_281.mp3",
-        "audio_dir": "彼女は会社に入る前に多くの学生にコーディングを教えていた。"
+        "prompt": "彼女は会社に入る前に、多くの学生に数学を______。",
+        "answer": "彼女は会社に入る前に、多くの学生に数学を教えていました。",
+        "goal_words": "教えていました",
+        "audio_filename": "line27aug2026_ja_330.mp3",
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -483,7 +483,7 @@
         "answer": "旅行の前に、私たちはその言語の基本を学んでいた。",
         "goal_words": "学んでいた",
         "audio_filename": "line3_ja_556.mp3",
-        "audio_dir": "旅行の前に、私たちはその言語の基本を学んでいた。"
+        "learning_tag": "動詞 - 過去"
     },
     {
         "level": 5.0,
@@ -501,6 +501,6 @@
         "answer": "彼は会社を去る前に同僚一人一人にプレゼントを渡していた。",
         "goal_words": "渡していた",
         "audio_filename": "line3_ja_14.mp3",
-        "audio_dir": "彼は会社を去る前に同僚一人一人にプレゼントを渡していた。"
+        "learning_tag": "動詞 - 過去"
     }
 ]

@@ -15,7 +15,7 @@
         "answer": "Yo estoy en casa ahora.",
         "goal_words": "estoy",
         "audio_filename": "line5_es_990.mp3",
-        "audio_dir": "Yo estoy en casa ahora."
+        "learning_tag": "estar (Presente)"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "Tú estás cansado después de correr.",
         "goal_words": "estás",
         "audio_filename": "line5_es_185.mp3",
-        "audio_dir": "Tú estás cansado después de correr."
+        "learning_tag": "estar (Presente)"
     },
     {
         "level": 4.0,
@@ -44,14 +44,14 @@
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "4 common, mostly irregular verbs - practice",
-        "native_answer": "She is at the office this morning.",
+        "native_answer": "She is​ at the office this morning.",
         "native_word": "be (Present)",
         "tag": "be (Present)",
         "prompt": "Ella ______ en la oficina esta mañana.",
         "answer": "Ella está en la oficina esta mañana.",
         "goal_words": "está",
         "audio_filename": "line2_es_529.mp3",
-        "audio_dir": "Ella está en la oficina esta mañana."
+        "learning_tag": "estar (Presente)"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "Nosotros estamos felices de verte.",
         "goal_words": "estamos",
         "audio_filename": "line4_es_214.mp3",
-        "audio_dir": "Nosotros estamos felices de verte."
+        "learning_tag": "estar (Presente)"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "Vosotros estáis listos para la clase.",
         "goal_words": "estáis",
         "audio_filename": "line5_es_885.mp3",
-        "audio_dir": "Vosotros estáis listos para la clase."
+        "learning_tag": "estar (Presente)"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "Ellos están en el parque jugando fútbol.",
         "goal_words": "están",
         "audio_filename": "line2_es_739.mp3",
-        "audio_dir": "Ellos están en el parque jugando fútbol."
+        "learning_tag": "estar (Presente)"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "Yo estaré en casa mañana por la tarde.",
         "goal_words": "estaré",
         "audio_filename": "line5_es_988.mp3",
-        "audio_dir": "Yo estaré en casa mañana por la tarde."
+        "learning_tag": "estar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "Tú estarás en la reunión a las diez.",
         "goal_words": "estarás",
         "audio_filename": "line5_es_184.mp3",
-        "audio_dir": "Tú estarás en la reunión a las diez."
+        "learning_tag": "estar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "Él estará ocupado con un proyecto nuevo.",
         "goal_words": "estará",
         "audio_filename": "line2_es_76.mp3",
-        "audio_dir": "Él estará ocupado con un proyecto nuevo."
+        "learning_tag": "estar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "Nosotros estaremos en el hotel a las seis.",
         "goal_words": "estaremos",
         "audio_filename": "line4_es_217.mp3",
-        "audio_dir": "Nosotros estaremos en el hotel a las seis."
+        "learning_tag": "estar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "Vosotros estaréis en clase toda la semana.",
         "goal_words": "estaréis",
         "audio_filename": "line5_es_886.mp3",
-        "audio_dir": "Vosotros estaréis en clase toda la semana."
+        "learning_tag": "estar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "Ellos estarán de viaje la próxima semana.",
         "goal_words": "estarán",
         "audio_filename": "line2_es_744.mp3",
-        "audio_dir": "Ellos estarán de viaje la próxima semana."
+        "learning_tag": "estar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "Yo estaba en la escuela cuando me llamaste.",
         "goal_words": "estaba",
         "audio_filename": "line5_es_986.mp3",
-        "audio_dir": "Yo estaba en la escuela cuando me llamaste."
+        "learning_tag": "estar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -249,7 +249,7 @@
         "answer": "Tú estabas feliz con tu nuevo trabajo.",
         "goal_words": "estabas",
         "audio_filename": "line5_es_182.mp3",
-        "audio_dir": "Tú estabas feliz con tu nuevo trabajo."
+        "learning_tag": "estar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -267,7 +267,7 @@
         "answer": "Ella estaba triste porque su perro se perdió.",
         "goal_words": "estaba",
         "audio_filename": "line2_es_541.mp3",
-        "audio_dir": "Ella estaba triste porque su perro se perdió."
+        "learning_tag": "estar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -285,7 +285,7 @@
         "answer": "Nosotros estábamos en la playa todos los veranos.",
         "goal_words": "estábamos",
         "audio_filename": "line4_es_209.mp3",
-        "audio_dir": "Nosotros estábamos en la playa todos los veranos."
+        "learning_tag": "estar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -303,7 +303,7 @@
         "answer": "Vosotros estabais estudiando en la biblioteca.",
         "goal_words": "estabais",
         "audio_filename": "line5_es_884.mp3",
-        "audio_dir": "Vosotros estabais estudiando en la biblioteca."
+        "learning_tag": "estar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -321,7 +321,7 @@
         "answer": "Ellos estaban preocupados por el examen.",
         "goal_words": "estaban",
         "audio_filename": "line2_es_734.mp3",
-        "audio_dir": "Ellos estaban preocupados por el examen."
+        "learning_tag": "estar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -339,7 +339,7 @@
         "answer": "Yo estuve en Madrid la semana pasada.",
         "goal_words": "estuve",
         "audio_filename": "line5_es_996.mp3",
-        "audio_dir": "Yo estuve en Madrid la semana pasada."
+        "learning_tag": "estar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -357,7 +357,7 @@
         "answer": "Tú estuviste enfermo ayer.",
         "goal_words": "estuviste",
         "audio_filename": "line5_es_195.mp3",
-        "audio_dir": "Tú estuviste enfermo ayer."
+        "learning_tag": "estar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -375,7 +375,7 @@
         "answer": "Él estuvo muy ocupado con el trabajo.",
         "goal_words": "estuvo",
         "audio_filename": "line2_es_83.mp3",
-        "audio_dir": "Él estuvo muy ocupado con el trabajo."
+        "learning_tag": "estar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -393,7 +393,7 @@
         "answer": "Nosotros estuvimos en una reunión todo el día.",
         "goal_words": "estuvimos",
         "audio_filename": "line4_es_222.mp3",
-        "audio_dir": "Nosotros estuvimos en una reunión todo el día."
+        "learning_tag": "estar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -411,7 +411,7 @@
         "answer": "Vosotros estuvisteis en la fiesta hasta tarde.",
         "goal_words": "estuvisteis",
         "audio_filename": "line5_es_887.mp3",
-        "audio_dir": "Vosotros estuvisteis en la fiesta hasta tarde."
+        "learning_tag": "estar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -429,7 +429,7 @@
         "answer": "Ellas estuvieron de vacaciones en Italia.",
         "goal_words": "estuvieron",
         "audio_filename": "line2_es_669.mp3",
-        "audio_dir": "Ellas estuvieron de vacaciones en Italia."
+        "learning_tag": "estar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -447,7 +447,7 @@
         "answer": "Yo daba clases de matemáticas todos los días.",
         "goal_words": "daba",
         "audio_filename": "line5_es_958.mp3",
-        "audio_dir": "Yo daba clases de matemáticas todos los días."
+        "learning_tag": "dar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -465,7 +465,7 @@
         "answer": "Tú dabas paseos por el parque cada mañana.",
         "goal_words": "dabas",
         "audio_filename": "line5_es_152.mp3",
-        "audio_dir": "Tú dabas paseos por el parque cada mañana."
+        "learning_tag": "dar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -483,7 +483,7 @@
         "answer": "Él daba consejos a sus amigos.",
         "goal_words": "daba",
         "audio_filename": "line2_es_10.mp3",
-        "audio_dir": "Él daba consejos a sus amigos."
+        "learning_tag": "dar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -501,7 +501,7 @@
         "answer": "Nosotros dábamos dinero a la caridad regularmente.",
         "goal_words": "dábamos",
         "audio_filename": "line4_es_187.mp3",
-        "audio_dir": "Nosotros dábamos dinero a la caridad regularmente."
+        "learning_tag": "dar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -519,7 +519,7 @@
         "answer": "Vosotros dabais apoyo a la comunidad.",
         "goal_words": "dabais",
         "audio_filename": "line5_es_876.mp3",
-        "audio_dir": "Vosotros dabais apoyo a la comunidad."
+        "learning_tag": "dar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -537,7 +537,7 @@
         "answer": "Ellos daban clases en la universidad.",
         "goal_words": "daban",
         "audio_filename": "line2_es_709.mp3",
-        "audio_dir": "Ellos daban clases en la universidad."
+        "learning_tag": "dar (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -555,7 +555,7 @@
         "answer": "Yo doy dinero a la caridad.",
         "goal_words": "doy",
         "audio_filename": "line5_es_970.mp3",
-        "audio_dir": "Yo doy dinero a la caridad."
+        "learning_tag": "dar (Presente)"
     },
     {
         "level": 4.0,
@@ -573,7 +573,7 @@
         "answer": "Tú das buenos consejos.",
         "goal_words": "das",
         "audio_filename": "line5_es_154.mp3",
-        "audio_dir": "Tú das buenos consejos."
+        "learning_tag": "dar (Presente)"
     },
     {
         "level": 4.0,
@@ -591,7 +591,7 @@
         "answer": "Él da una fiesta en su casa.",
         "goal_words": "da",
         "audio_filename": "line2_es_9.mp3",
-        "audio_dir": "Él da una fiesta en su casa."
+        "learning_tag": "dar (Presente)"
     },
     {
         "level": 4.0,
@@ -609,7 +609,7 @@
         "answer": "Nosotros damos clases de español.",
         "goal_words": "damos",
         "audio_filename": "line4_es_188.mp3",
-        "audio_dir": "Nosotros damos clases de español."
+        "learning_tag": "dar (Presente)"
     },
     {
         "level": 4.0,
@@ -627,7 +627,7 @@
         "answer": "Vosotros dais regalos en Navidad.",
         "goal_words": "dais",
         "audio_filename": "line5_es_877.mp3",
-        "audio_dir": "Vosotros dais regalos en Navidad."
+        "learning_tag": "dar (Presente)"
     },
     {
         "level": 4.0,
@@ -645,7 +645,7 @@
         "answer": "Ellos dan las gracias por la ayuda.",
         "goal_words": "dan",
         "audio_filename": "line2_es_710.mp3",
-        "audio_dir": "Ellos dan las gracias por la ayuda."
+        "learning_tag": "dar (Presente)"
     },
     {
         "level": 4.0,
@@ -663,7 +663,7 @@
         "answer": "Yo di mi opinión en la reunión.",
         "goal_words": "di",
         "audio_filename": "line5_es_962.mp3",
-        "audio_dir": "Yo di mi opinión en la reunión."
+        "learning_tag": "dar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -681,7 +681,7 @@
         "answer": "Tú diste un buen ejemplo.",
         "goal_words": "diste",
         "audio_filename": "line5_es_161.mp3",
-        "audio_dir": "Tú diste un buen ejemplo."
+        "learning_tag": "dar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -699,7 +699,7 @@
         "answer": "Ella dio un discurso interesante.",
         "goal_words": "dio",
         "audio_filename": "line2_es_499.mp3",
-        "audio_dir": "Ella dio un discurso interesante."
+        "learning_tag": "dar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -717,7 +717,7 @@
         "answer": "Nosotros dimos una presentación ayer.",
         "goal_words": "dimos",
         "audio_filename": "line4_es_194.mp3",
-        "audio_dir": "Nosotros dimos una presentación ayer."
+        "learning_tag": "dar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -735,7 +735,7 @@
         "answer": "Vosotros disteis una gran sorpresa.",
         "goal_words": "disteis",
         "audio_filename": "line5_es_883.mp3",
-        "audio_dir": "Vosotros disteis una gran sorpresa."
+        "learning_tag": "dar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -753,7 +753,7 @@
         "answer": "Ellos dieron comida a los necesitados.",
         "goal_words": "dieron",
         "audio_filename": "line2_es_715.mp3",
-        "audio_dir": "Ellos dieron comida a los necesitados."
+        "learning_tag": "dar (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -771,7 +771,7 @@
         "answer": "Yo daré una conferencia mañana.",
         "goal_words": "daré",
         "audio_filename": "line5_es_959.mp3",
-        "audio_dir": "Yo daré una conferencia mañana."
+        "learning_tag": "dar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -789,7 +789,7 @@
         "answer": "Tú darás tu opinión en la reunión.",
         "goal_words": "darás",
         "audio_filename": "line5_es_153.mp3",
-        "audio_dir": "Tú darás tu opinión en la reunión."
+        "learning_tag": "dar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -807,7 +807,7 @@
         "answer": "Ella dará una fiesta este fin de semana.",
         "goal_words": "dará",
         "audio_filename": "line2_es_496.mp3",
-        "audio_dir": "Ella dará una fiesta este fin de semana."
+        "learning_tag": "dar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -825,7 +825,7 @@
         "answer": "Nosotros daremos un paseo por el parque.",
         "goal_words": "daremos",
         "audio_filename": "line4_es_189.mp3",
-        "audio_dir": "Nosotros daremos un paseo por el parque."
+        "learning_tag": "dar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -843,7 +843,7 @@
         "answer": "Vosotros daréis un regalo a vuestro amigo.",
         "goal_words": "daréis",
         "audio_filename": "line5_es_878.mp3",
-        "audio_dir": "Vosotros daréis un regalo a vuestro amigo."
+        "learning_tag": "dar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -861,7 +861,7 @@
         "answer": "Ellos darán su apoyo al proyecto.",
         "goal_words": "darán",
         "audio_filename": "line2_es_711.mp3",
-        "audio_dir": "Ellos darán su apoyo al proyecto."
+        "learning_tag": "dar (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -879,7 +879,7 @@
         "answer": "Yo voy al gimnasio todos los días.",
         "goal_words": "voy",
         "audio_filename": "line5_es_1163.mp3",
-        "audio_dir": "Yo voy al gimnasio todos los días."
+        "learning_tag": "ir (Presente)"
     },
     {
         "level": 4.0,
@@ -897,7 +897,7 @@
         "answer": "Tú vas a la escuela temprano.",
         "goal_words": "vas",
         "audio_filename": "line5_es_351.mp3",
-        "audio_dir": "Tú vas a la escuela temprano."
+        "learning_tag": "ir (Presente)"
     },
     {
         "level": 4.0,
@@ -915,7 +915,7 @@
         "answer": "Él va al trabajo en bicicleta.",
         "goal_words": "va",
         "audio_filename": "line2_es_370.mp3",
-        "audio_dir": "Él va al trabajo en bicicleta."
+        "learning_tag": "ir (Presente)"
     },
     {
         "level": 4.0,
@@ -933,7 +933,7 @@
         "answer": "Nosotros vamos al cine los viernes.",
         "goal_words": "vamos",
         "audio_filename": "line4_es_348.mp3",
-        "audio_dir": "Nosotros vamos al cine los viernes."
+        "learning_tag": "ir (Presente)"
     },
     {
         "level": 4.0,
@@ -951,7 +951,7 @@
         "answer": "Vosotros vais de compras al centro comercial.",
         "goal_words": "vais",
         "audio_filename": "line5_es_892.mp3",
-        "audio_dir": "Vosotros vais de compras al centro comercial."
+        "learning_tag": "ir (Presente)"
     },
     {
         "level": 4.0,
@@ -969,7 +969,7 @@
         "answer": "Ellos van a la playa en verano.",
         "goal_words": "van",
         "audio_filename": "line2_es_847.mp3",
-        "audio_dir": "Ellos van a la playa en verano."
+        "learning_tag": "ir (Presente)"
     },
     {
         "level": 4.0,
@@ -987,7 +987,7 @@
         "answer": "Yo iré a la universidad el próximo año.",
         "goal_words": "iré",
         "audio_filename": "line5_es_1025.mp3",
-        "audio_dir": "Yo iré a la universidad el próximo año."
+        "learning_tag": "ir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1005,7 +1005,7 @@
         "answer": "Tú irás a la boda de tu prima.",
         "goal_words": "irás",
         "audio_filename": "line5_es_223.mp3",
-        "audio_dir": "Tú irás a la boda de tu prima."
+        "learning_tag": "ir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1023,7 +1023,7 @@
         "answer": "Él irá a trabajar en una nueva empresa.",
         "goal_words": "irá",
         "audio_filename": "line2_es_144.mp3",
-        "audio_dir": "Él irá a trabajar en una nueva empresa."
+        "learning_tag": "ir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1041,7 +1041,7 @@
         "answer": "Nosotros iremos de vacaciones a España.",
         "goal_words": "iremos",
         "audio_filename": "line4_es_252.mp3",
-        "audio_dir": "Nosotros iremos de vacaciones a España."
+        "learning_tag": "ir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1059,7 +1059,7 @@
         "answer": "Vosotros iréis al parque mañana.",
         "goal_words": "iréis",
         "audio_filename": "line5_es_890.mp3",
-        "audio_dir": "Vosotros iréis al parque mañana."
+        "learning_tag": "ir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1077,7 +1077,7 @@
         "answer": "Ellas irán a una conferencia la próxima semana.",
         "goal_words": "irán",
         "audio_filename": "line2_es_670.mp3",
-        "audio_dir": "Ellas irán a una conferencia la próxima semana."
+        "learning_tag": "ir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1095,7 +1095,7 @@
         "answer": "Yo iba al parque todos los días cuando era niño.",
         "goal_words": "iba",
         "audio_filename": "line5_es_1021.mp3",
-        "audio_dir": "Yo iba al parque todos los días cuando era niño."
+        "learning_tag": "ir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1113,7 +1113,7 @@
         "answer": "Tú ibas a la escuela en autobús cada mañana.",
         "goal_words": "ibas",
         "audio_filename": "line5_es_219.mp3",
-        "audio_dir": "Tú ibas a la escuela en autobús cada mañana."
+        "learning_tag": "ir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1131,7 +1131,7 @@
         "answer": "Ella iba a la biblioteca a estudiar.",
         "goal_words": "iba",
         "audio_filename": "line2_es_570.mp3",
-        "audio_dir": "Ella iba a la biblioteca a estudiar."
+        "learning_tag": "ir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1149,7 +1149,7 @@
         "answer": "Nosotros íbamos a la playa todos los veranos.",
         "goal_words": "íbamos",
         "audio_filename": "line4_es_248.mp3",
-        "audio_dir": "Nosotros íbamos a la playa todos los veranos."
+        "learning_tag": "ir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1167,7 +1167,7 @@
         "answer": "Vosotros ibais a ese restaurante todos los fines de semana.",
         "goal_words": "ibais",
         "audio_filename": "line5_es_889.mp3",
-        "audio_dir": "Vosotros ibais a ese restaurante todos los fines de semana."
+        "learning_tag": "ir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1185,7 +1185,7 @@
         "answer": "Ellos iban al cine todos los viernes.",
         "goal_words": "iban",
         "audio_filename": "line2_es_772.mp3",
-        "audio_dir": "Ellos iban al cine todos los viernes."
+        "learning_tag": "ir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1203,7 +1203,7 @@
         "answer": "Yo fui a México el año pasado.",
         "goal_words": "fui",
         "audio_filename": "line5_es_997.mp3",
-        "audio_dir": "Yo fui a México el año pasado."
+        "learning_tag": "ir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1221,7 +1221,7 @@
         "answer": "Tú fuiste a la fiesta anoche.",
         "goal_words": "fuiste",
         "audio_filename": "line5_es_197.mp3",
-        "audio_dir": "Tú fuiste a la fiesta anoche."
+        "learning_tag": "ir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1239,7 +1239,7 @@
         "answer": "Ella fue al médico ayer.",
         "goal_words": "fue",
         "audio_filename": "line2_es_546.mp3",
-        "audio_dir": "Ella fue al médico ayer."
+        "learning_tag": "ir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1257,7 +1257,7 @@
         "answer": "Nosotros fuimos a un concierto el fin de semana pasado.",
         "goal_words": "fuimos",
         "audio_filename": "line4_es_223.mp3",
-        "audio_dir": "Nosotros fuimos a un concierto el fin de semana pasado."
+        "learning_tag": "ir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1275,7 +1275,7 @@
         "answer": "Vosotros fuisteis a visitar a vuestra abuela.",
         "goal_words": "fuisteis",
         "audio_filename": "line5_es_888.mp3",
-        "audio_dir": "Vosotros fuisteis a visitar a vuestra abuela."
+        "learning_tag": "ir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1293,7 +1293,7 @@
         "answer": "Ellos fueron al museo la semana pasada.",
         "goal_words": "fueron",
         "audio_filename": "line2_es_749.mp3",
-        "audio_dir": "Ellos fueron al museo la semana pasada."
+        "learning_tag": "ir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1311,7 +1311,7 @@
         "answer": "Yo decía que quería ser médico cuando era niño.",
         "goal_words": "decía",
         "audio_filename": "line5_es_961.mp3",
-        "audio_dir": "Yo decía que quería ser médico cuando era niño."
+        "learning_tag": "decir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1329,7 +1329,7 @@
         "answer": "Tú decías siempre lo mismo.",
         "goal_words": "decías",
         "audio_filename": "line5_es_157.mp3",
-        "audio_dir": "Tú decías siempre lo mismo."
+        "learning_tag": "decir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1347,7 +1347,7 @@
         "answer": "Él decía que iba a viajar por el mundo.",
         "goal_words": "decía",
         "audio_filename": "line2_es_12.mp3",
-        "audio_dir": "Él decía que iba a viajar por el mundo."
+        "learning_tag": "decir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1365,7 +1365,7 @@
         "answer": "Nosotros decíamos historias divertidas.",
         "goal_words": "decíamos",
         "audio_filename": "line4_es_190.mp3",
-        "audio_dir": "Nosotros decíamos historias divertidas."
+        "learning_tag": "decir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1383,7 +1383,7 @@
         "answer": "Vosotros decíais que nunca os mudaríais.",
         "goal_words": "decíais",
         "audio_filename": "line5_es_879.mp3",
-        "audio_dir": "Vosotros decíais que nunca os mudaríais."
+        "learning_tag": "decir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1401,7 +1401,7 @@
         "answer": "Ellos decían que no les gustaba el deporte.",
         "goal_words": "decían",
         "audio_filename": "line2_es_713.mp3",
-        "audio_dir": "Ellos decían que no les gustaba el deporte."
+        "learning_tag": "decir (Imperfect - Pretérito Imperfecto)"
     },
     {
         "level": 4.0,
@@ -1419,7 +1419,7 @@
         "answer": "Yo digo la verdad.",
         "goal_words": "digo",
         "audio_filename": "line5_es_964.mp3",
-        "audio_dir": "Yo digo la verdad."
+        "learning_tag": "decir (Presente)"
     },
     {
         "level": 4.0,
@@ -1437,7 +1437,7 @@
         "answer": "Tú dices muchas cosas interesantes.",
         "goal_words": "dices",
         "audio_filename": "line5_es_158.mp3",
-        "audio_dir": "Tú dices muchas cosas interesantes."
+        "learning_tag": "decir (Presente)"
     },
     {
         "level": 4.0,
@@ -1455,7 +1455,7 @@
         "answer": "Él dice que llegará tarde.",
         "goal_words": "dice",
         "audio_filename": "line2_es_19.mp3",
-        "audio_dir": "Él dice que llegará tarde."
+        "learning_tag": "decir (Presente)"
     },
     {
         "level": 4.0,
@@ -1473,7 +1473,7 @@
         "answer": "Nosotros decimos que es una buena idea.",
         "goal_words": "decimos",
         "audio_filename": "line4_es_192.mp3",
-        "audio_dir": "Nosotros decimos que es una buena idea."
+        "learning_tag": "decir (Presente)"
     },
     {
         "level": 4.0,
@@ -1491,7 +1491,7 @@
         "answer": "Vosotros decís que no os gusta.",
         "goal_words": "decís",
         "audio_filename": "line5_es_880.mp3",
-        "audio_dir": "Vosotros decís que no os gusta."
+        "learning_tag": "decir (Presente)"
     },
     {
         "level": 4.0,
@@ -1509,7 +1509,7 @@
         "answer": "Ellos dicen que van a venir.",
         "goal_words": "dicen",
         "audio_filename": "line2_es_714.mp3",
-        "audio_dir": "Ellos dicen que van a venir."
+        "learning_tag": "decir (Presente)"
     },
     {
         "level": 4.0,
@@ -1527,7 +1527,7 @@
         "answer": "Yo dije lo que pensaba.",
         "goal_words": "dije",
         "audio_filename": "line5_es_965.mp3",
-        "audio_dir": "Yo dije lo que pensaba."
+        "learning_tag": "decir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1545,7 +1545,7 @@
         "answer": "Tú dijiste la verdad ayer.",
         "goal_words": "dijiste",
         "audio_filename": "line5_es_159.mp3",
-        "audio_dir": "Tú dijiste la verdad ayer."
+        "learning_tag": "decir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1563,7 +1563,7 @@
         "answer": "Ella dijo que estaba cansada.",
         "goal_words": "dijo",
         "audio_filename": "line2_es_498.mp3",
-        "audio_dir": "Ella dijo que estaba cansada."
+        "learning_tag": "decir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1581,7 +1581,7 @@
         "answer": "Nosotros dijimos adiós antes de irnos.",
         "goal_words": "dijimos",
         "audio_filename": "line4_es_193.mp3",
-        "audio_dir": "Nosotros dijimos adiós antes de irnos."
+        "learning_tag": "decir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1599,7 +1599,7 @@
         "answer": "Vosotros dijisteis todo lo que sabíais.",
         "goal_words": "dijisteis",
         "audio_filename": "line5_es_881.mp3",
-        "audio_dir": "Vosotros dijisteis todo lo que sabíais."
+        "learning_tag": "decir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1617,7 +1617,7 @@
         "answer": "Ellos dijeron que no podían venir.",
         "goal_words": "dijeron",
         "audio_filename": "line2_es_716.mp3",
-        "audio_dir": "Ellos dijeron que no podían venir."
+        "learning_tag": "decir (Preterite - Pretérito Indefinido)"
     },
     {
         "level": 4.0,
@@ -1635,7 +1635,7 @@
         "answer": "Yo diré mi opinión en la reunión.",
         "goal_words": "diré",
         "audio_filename": "line5_es_966.mp3",
-        "audio_dir": "Yo diré mi opinión en la reunión."
+        "learning_tag": "decir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1653,7 +1653,7 @@
         "answer": "Tú dirás todo lo que sabes.",
         "goal_words": "dirás",
         "audio_filename": "line5_es_160.mp3",
-        "audio_dir": "Tú dirás todo lo que sabes."
+        "learning_tag": "decir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1671,7 +1671,7 @@
         "answer": "Ella dirá algo interesante mañana.",
         "goal_words": "dirá",
         "audio_filename": "line2_es_501.mp3",
-        "audio_dir": "Ella dirá algo interesante mañana."
+        "learning_tag": "decir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1689,7 +1689,7 @@
         "answer": "Nosotros diremos la verdad sobre el incidente.",
         "goal_words": "diremos",
         "audio_filename": "line4_es_195.mp3",
-        "audio_dir": "Nosotros diremos la verdad sobre el incidente."
+        "learning_tag": "decir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1707,7 +1707,7 @@
         "answer": "Vosotros diréis lo que pensáis en la clase.",
         "goal_words": "diréis",
         "audio_filename": "line5_es_882.mp3",
-        "audio_dir": "Vosotros diréis lo que pensáis en la clase."
+        "learning_tag": "decir (Futuro Simple)"
     },
     {
         "level": 4.0,
@@ -1725,6 +1725,6 @@
         "answer": "Ellos dirán su decisión pronto.",
         "goal_words": "dirán",
         "audio_filename": "line2_es_717.mp3",
-        "audio_dir": "Ellos dirán su decisión pronto."
+        "learning_tag": "decir (Futuro Simple)"
     }
 ]

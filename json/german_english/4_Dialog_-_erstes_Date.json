@@ -15,7 +15,7 @@
         "answer": "award great achievement",
         "goal_words": "great",
         "audio_filename": "line_en_224.mp3",
-        "audio_dir": "award great achievement"
+        "learning_tag": "adjective -  Judgment"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "beautiful woman",
         "goal_words": "beautiful",
         "audio_filename": "line_en_263.mp3",
-        "audio_dir": "beautiful woman"
+        "learning_tag": "adjective -  appearance"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "famous places",
         "goal_words": "famous",
         "audio_filename": "line_en_840.mp3",
-        "audio_dir": "famous places"
+        "learning_tag": "adjective - condition"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "Nervous",
         "goal_words": "Nervous",
         "audio_filename": "line2_en_681.mp3",
-        "audio_dir": "Nervous"
+        "learning_tag": "adjective -  Feeling emotion"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "have a nice day",
         "goal_words": "nice",
         "audio_filename": "line_en_1057.mp3",
-        "audio_dir": "have a nice day"
+        "learning_tag": "adjective -  Judgment"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "good job",
         "goal_words": "good",
         "audio_filename": "line_en_990.mp3",
-        "audio_dir": "good job"
+        "learning_tag": "adjective -  Judgment"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "best friends",
         "goal_words": "best",
         "audio_filename": "line_en_290.mp3",
-        "audio_dir": "best friends"
+        "learning_tag": "adjective -  Judgment"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "first place",
         "goal_words": "first",
         "audio_filename": "line_en_881.mp3",
-        "audio_dir": "first place"
+        "learning_tag": "adjective - time"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "finally quit smoking, after a long time",
         "goal_words": "finally",
         "audio_filename": "line_en_871.mp3",
-        "audio_dir": "finally quit smoking, after a long time"
+        "learning_tag": "adverb -  Time"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "the other mountains are even higher",
         "goal_words": "even",
         "audio_filename": "line4_en_38.mp3",
-        "audio_dir": "the other mountains are even higher"
+        "learning_tag": "adverb -  Conjunctional Adverb"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "so many stars",
         "goal_words": "so",
         "audio_filename": "line3_en_785.mp3",
-        "audio_dir": "so many stars"
+        "learning_tag": "adverb -  Conjunctional Adverb"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "really big robot - used for emphasis",
         "goal_words": "really",
         "audio_filename": "line3_en_239.mp3",
-        "audio_dir": "really big robot - used for emphasis"
+        "learning_tag": "adverb"
     },
     {
         "level": 4.0,
@@ -231,7 +231,25 @@
         "answer": "before and after",
         "goal_words": "before",
         "audio_filename": "line_en_275.mp3",
-        "audio_dir": "before and after"
+        "learning_tag": "adverb -  Time"
+    },
+    {
+        "level": 4.0,
+        "image_filename": "too.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "4 Dialog - erstes Date",
+        "native_answer": "zu​ viele Bücher, um noch hineinzupassen",
+        "native_word": "Adverb",
+        "tag": "Adverb",
+        "prompt": "______ many book to fit any more",
+        "answer": "too many book to fit any more",
+        "goal_words": "too",
+        "audio_filename": "line4_en_567.mp3",
+        "learning_tag": "adverb"
     },
     {
         "level": 4.0,
@@ -245,11 +263,11 @@
         "native_answer": "zu viele Bücher, um noch hineinzupassen",
         "native_word": "Adverb",
         "tag": "Adverb",
-        "prompt": "______ many book to fit any more",
-        "answer": "too many book to fit any more",
+        "prompt": "______ many books to fit any more",
+        "answer": "too many books to fit any more",
         "goal_words": "too",
-        "audio_filename": "line4_en_567.mp3",
-        "audio_dir": "too many book to fit any more"
+        "audio_filename": "line3sep2026_en_10.mp3",
+        "learning_tag": "adverb"
     },
     {
         "level": 4.0,
@@ -267,7 +285,7 @@
         "answer": "a little bit",
         "goal_words": "bit",
         "audio_filename": "line_en_73.mp3",
-        "audio_dir": "a little bit"
+        "learning_tag": "adverb"
     },
     {
         "level": 4.0,
@@ -285,7 +303,7 @@
         "answer": "Absolutely: completely, without doubt.",
         "goal_words": "Absolutely",
         "audio_filename": "line_en_93.mp3",
-        "audio_dir": "Absolutely: completely, without doubt."
+        "learning_tag": "adverb -  judgement"
     },
     {
         "level": 4.0,
@@ -303,7 +321,7 @@
         "answer": "pasta",
         "goal_words": "pasta",
         "audio_filename": "line3_en_82.mp3",
-        "audio_dir": "pasta"
+        "learning_tag": "food"
     },
     {
         "level": 4.0,
@@ -321,7 +339,7 @@
         "answer": "meal",
         "goal_words": "meal",
         "audio_filename": "line2_en_608.mp3",
-        "audio_dir": "meal"
+        "learning_tag": "food"
     },
     {
         "level": 4.0,
@@ -339,7 +357,7 @@
         "answer": "take a photo",
         "goal_words": "photo",
         "audio_filename": "line3_en_943.mp3",
-        "audio_dir": "take a photo"
+        "learning_tag": "noun - Everyday Objects"
     },
     {
         "level": 4.0,
@@ -357,7 +375,7 @@
         "answer": "food on the table",
         "goal_words": "food",
         "audio_filename": "line_en_906.mp3",
-        "audio_dir": "food on the table"
+        "learning_tag": "noun - Food & Drink"
     },
     {
         "level": 4.0,
@@ -375,7 +393,7 @@
         "answer": "app",
         "goal_words": "app",
         "audio_filename": "line_en_172.mp3",
-        "audio_dir": "app"
+        "learning_tag": "noun - Tools & Equipment "
     },
     {
         "level": 4.0,
@@ -393,7 +411,7 @@
         "answer": "conversation",
         "goal_words": "conversation",
         "audio_filename": "line_en_555.mp3",
-        "audio_dir": "conversation"
+        "learning_tag": "noun - Activities"
     },
     {
         "level": 4.0,
@@ -411,7 +429,7 @@
         "answer": "date: romantic engagement",
         "goal_words": "date",
         "audio_filename": "line_en_613.mp3",
-        "audio_dir": "date: romantic engagement"
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
@@ -429,7 +447,7 @@
         "answer": "meet for business",
         "goal_words": "meet",
         "audio_filename": "line2_en_615.mp3",
-        "audio_dir": "meet for business"
+        "learning_tag": "verb - interactive"
     },
     {
         "level": 4.0,
@@ -447,7 +465,7 @@
         "answer": "Look",
         "goal_words": "Look",
         "audio_filename": "line2_en_543.mp3",
-        "audio_dir": "Look"
+        "learning_tag": "verb - perception"
     },
     {
         "level": 4.0,
@@ -465,7 +483,7 @@
         "answer": "say",
         "goal_words": "say",
         "audio_filename": "line3_en_373.mp3",
-        "audio_dir": "say"
+        "learning_tag": "verb - communication"
     },
     {
         "level": 4.0,
@@ -483,7 +501,7 @@
         "answer": "hear",
         "goal_words": "hear",
         "audio_filename": "line_en_1405.mp3",
-        "audio_dir": "hear"
+        "learning_tag": "verb - perception"
     },
     {
         "level": 4.0,
@@ -501,7 +519,7 @@
         "answer": "try surfing",
         "goal_words": "try",
         "audio_filename": "line4_en_597.mp3",
-        "audio_dir": "try surfing"
+        "learning_tag": "verb - self"
     },
     {
         "level": 4.0,
@@ -519,7 +537,7 @@
         "answer": "to match outfits",
         "goal_words": "match",
         "audio_filename": "line4_en_512.mp3",
-        "audio_dir": "to match outfits"
+        "learning_tag": "verb - object"
     },
     {
         "level": 4.0,
@@ -537,7 +555,7 @@
         "answer": "seem happy - appear, look",
         "goal_words": "seem",
         "audio_filename": "line3_en_405.mp3",
-        "audio_dir": "seem happy - appear, look"
+        "learning_tag": "verb - perception"
     },
     {
         "level": 4.0,
@@ -555,7 +573,7 @@
         "answer": "feel the water",
         "goal_words": "feel",
         "audio_filename": "line_en_857.mp3",
-        "audio_dir": "feel the water"
+        "learning_tag": "verb - perception"
     },
     {
         "level": 4.0,
@@ -573,7 +591,7 @@
         "answer": "wish, pray, hope",
         "goal_words": "hope",
         "audio_filename": "line5_en_122.mp3",
-        "audio_dir": "wish, pray, hope"
+        "learning_tag": "verb - feeling"
     },
     {
         "level": 4.0,
@@ -591,6 +609,6 @@
         "answer": "Enjoy",
         "goal_words": "Enjoy",
         "audio_filename": "line_en_799.mp3",
-        "audio_dir": "Enjoy"
+        "learning_tag": "verb - feeling"
     }
 ]

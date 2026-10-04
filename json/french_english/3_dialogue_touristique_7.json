@@ -1,132 +1,6 @@
 [
     {
         "level": 3.0,
-        "image_filename": "apple.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "3 dialogue touristique 7",
-        "native_answer": "la Pomme",
-        "native_word": "nourriture",
-        "tag": "nourriture",
-        "prompt": "______",
-        "answer": "Apple",
-        "goal_words": "Apple",
-        "audio_filename": "line_en_174.mp3",
-        "audio_dir": "Apple"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "vendor.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "3 dialogue touristique 7",
-        "native_answer": "vendeur de rue",
-        "native_word": "nom",
-        "tag": "nom",
-        "prompt": "street ______",
-        "answer": "street vendor",
-        "goal_words": "vendor",
-        "audio_filename": "line3_en_878.mp3",
-        "audio_dir": "street vendor"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "weight.jpg",
-        "card_type": "reading",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "3 dialogue touristique 7",
-        "native_answer": "Des livres (poids)",
-        "native_word": "Nom",
-        "tag": "Nom",
-        "prompt": "______s",
-        "answer": "Pounds",
-        "goal_words": "Pound",
-        "audio_filename": "line3_en_161.mp3",
-        "audio_dir": "Pounds"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "change2.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "3 dialogue touristique 7",
-        "native_answer": "Un changement de pneu",
-        "native_word": "nom",
-        "tag": "nom",
-        "prompt": "a tire ______",
-        "answer": "a tire change",
-        "goal_words": "change",
-        "audio_filename": "line_en_86.mp3",
-        "audio_dir": "a tire change"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "put_in_refridgerator_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "3 dialogue touristique 7",
-        "native_answer": "mettre du lait dans le réfrigérateur",
-        "native_word": "verbe - objet",
-        "tag": "verbe - objet",
-        "prompt": "______ milk in the refridgerator",
-        "answer": "put milk in the refridgerator",
-        "goal_words": "put",
-        "audio_filename": "lineoct_en_823.mp3",
-        "audio_dir": "put milk in the refridgerator"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "3 dialogue touristique 7",
-        "native_answer": "peu importe",
-        "native_word": "phrase",
-        "tag": "phrase",
-        "prompt": "______: you'll be happy to accept either thing",
-        "answer": "either is fine: you'll be happy to accept either thing",
-        "goal_words": "either is fine",
-        "audio_filename": "line_en_780.mp3",
-        "audio_dir": "either is fine: you'll be happy to accept either thing"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "good.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "3 dialogue touristique 7",
-        "native_answer": "bon travail",
-        "native_word": "adjectif - Jugement",
-        "tag": "adjectif - Jugement",
-        "prompt": "______ job",
-        "answer": "good job",
-        "goal_words": "good",
-        "audio_filename": "line_en_990.mp3",
-        "audio_dir": "good job"
-    },
-    {
-        "level": 3.0,
         "image_filename": "bracelet.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -141,7 +15,7 @@
         "answer": "Bracelet",
         "goal_words": "Bracelet",
         "audio_filename": "line_en_339.mp3",
-        "audio_dir": "Bracelet"
+        "learning_tag": "clothing and wearable items"
     },
     {
         "level": 3.0,
@@ -159,25 +33,7 @@
         "answer": "made of stone",
         "goal_words": "stone",
         "audio_filename": "line2_en_569.mp3",
-        "audio_dir": "made of stone"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "",
-        "card_type": "reading",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "french",
-        "learning_language": "english",
-        "native_group": "3 dialogue touristique 7",
-        "native_answer": "ça marche",
-        "native_word": "phrase",
-        "tag": "phrase",
-        "prompt": "______: a casual phrase used to indicate agreement",
-        "answer": "sounds good: a casual phrase used to indicate agreement",
-        "goal_words": "sounds good",
-        "audio_filename": "line3_en_810.mp3",
-        "audio_dir": "sounds good: a casual phrase used to indicate agreement"
+        "learning_tag": "noun"
     },
     {
         "level": 3.0,
@@ -195,7 +51,7 @@
         "answer": "make",
         "goal_words": "make",
         "audio_filename": "line2_en_575.mp3",
-        "audio_dir": "make"
+        "learning_tag": "verb - object"
     },
     {
         "level": 3.0,
@@ -213,7 +69,7 @@
         "answer": "beautiful woman",
         "goal_words": "beautiful",
         "audio_filename": "line_en_263.mp3",
-        "audio_dir": "beautiful woman"
+        "learning_tag": "adjective -  Creating emotion"
     },
     {
         "level": 3.0,
@@ -231,7 +87,7 @@
         "answer": "real - fake",
         "goal_words": "real",
         "audio_filename": "line3_en_237.mp3",
-        "audio_dir": "real - fake"
+        "learning_tag": "adjective"
     },
     {
         "level": 3.0,
@@ -245,11 +101,11 @@
         "native_answer": "adorable",
         "native_word": "adjectif",
         "tag": "adjectif",
-        "prompt": "______",
+        "prompt": "lovely",
         "answer": "lovely",
         "goal_words": "lovely",
         "audio_filename": "line2_en_558.mp3",
-        "audio_dir": "lovely"
+        "learning_tag": "adjective"
     },
     {
         "level": 3.0,
@@ -267,7 +123,7 @@
         "answer": "handmade",
         "goal_words": "handmade",
         "audio_filename": "line_en_1041.mp3",
-        "audio_dir": "handmade"
+        "learning_tag": "adjective"
     },
     {
         "level": 3.0,
@@ -281,10 +137,10 @@
         "native_answer": "merveilleux",
         "native_word": "adjectif",
         "tag": "adjectif",
-        "prompt": "______: inspiring delight, pleasure, or admiration",
+        "prompt": "wonderful: inspiring delight, pleasure, or admiration",
         "answer": "wonderful: inspiring delight, pleasure, or admiration",
         "goal_words": "wonderful",
         "audio_filename": "line5_en_142.mp3",
-        "audio_dir": "wonderful: inspiring delight, pleasure, or admiration"
+        "learning_tag": "adjective"
     }
 ]

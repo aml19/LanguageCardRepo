@@ -15,7 +15,7 @@
         "answer": "to face your fear",
         "goal_words": "face",
         "audio_filename": "lineoct_en_1251.mp3",
-        "audio_dir": "to face your fear"
+        "learning_tag": "verb - Interactive"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "to prevent disease",
         "goal_words": "prevent",
         "audio_filename": "lineoct_en_1263.mp3",
-        "audio_dir": "to prevent disease"
+        "learning_tag": "verb - Effect"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "Suffer",
         "goal_words": "suffer",
         "audio_filename": "lineoct_en_1022.mp3",
-        "audio_dir": "Suffer"
+        "learning_tag": "verb - feeling"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "research",
         "goal_words": "research",
         "audio_filename": "lineoct_en_838.mp3",
-        "audio_dir": "research"
+        "learning_tag": "verb - Mental"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "find a clue",
         "goal_words": "find",
         "audio_filename": "lineoct_en_261.mp3",
-        "audio_dir": "find a clue"
+        "learning_tag": "verb - object"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "give a gift",
         "goal_words": "give",
         "audio_filename": "lineoct_en_306.mp3",
-        "audio_dir": "give a gift"
+        "learning_tag": "verb - interactive"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "to save a file",
         "goal_words": "save",
         "audio_filename": "lineoct_en_1265.mp3",
-        "audio_dir": "to save a file"
+        "learning_tag": "verb"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "to improve your home",
         "goal_words": "improve",
         "audio_filename": "lineoct_en_1256.mp3",
-        "audio_dir": "to improve your home"
+        "learning_tag": "verb - Interactive"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "to join a group",
         "goal_words": "join",
         "audio_filename": "lineoct_en_1257.mp3",
-        "audio_dir": "to join a group"
+        "learning_tag": "verb - Interactive"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "make",
         "goal_words": "make",
         "audio_filename": "lineoct_en_687.mp3",
-        "audio_dir": "make"
+        "learning_tag": "verb - object"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "number 1,000,000: million",
         "goal_words": "million",
         "audio_filename": "lineoct_en_738.mp3",
-        "audio_dir": "number 1,000,000: million"
+        "learning_tag": "noun"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "Person",
         "goal_words": "person",
         "audio_filename": "lineoct_en_776.mp3",
-        "audio_dir": "Person"
+        "learning_tag": "noun - People & Roles"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "suffering",
         "goal_words": "suffering",
         "audio_filename": "lineoct_en_1023.mp3",
-        "audio_dir": "suffering"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 4.0,
@@ -249,7 +249,7 @@
         "answer": "year",
         "goal_words": "year",
         "audio_filename": "lineoct_en_1432.mp3",
-        "audio_dir": "year"
+        "learning_tag": "time"
     },
     {
         "level": 4.0,
@@ -267,7 +267,7 @@
         "answer": "give money to charity",
         "goal_words": "charity",
         "audio_filename": "lineoct_en_309.mp3",
-        "audio_dir": "give money to charity"
+        "learning_tag": "noun"
     },
     {
         "level": 4.0,
@@ -285,7 +285,7 @@
         "answer": "some difference between eggs",
         "goal_words": "difference",
         "audio_filename": "lineoct_en_996.mp3",
-        "audio_dir": "some difference between eggs"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 4.0,
@@ -303,7 +303,7 @@
         "answer": "one dollar",
         "goal_words": "dollar",
         "audio_filename": "lineoct_en_744.mp3",
-        "audio_dir": "one dollar"
+        "learning_tag": "noun"
     },
     {
         "level": 4.0,
@@ -321,7 +321,7 @@
         "answer": "Life",
         "goal_words": "life",
         "audio_filename": "lineoct_en_668.mp3",
-        "audio_dir": "Life"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -339,7 +339,7 @@
         "answer": "preventable disease",
         "goal_words": "preventable",
         "audio_filename": "lineoct_en_812.mp3",
-        "audio_dir": "preventable disease"
+        "learning_tag": "adjective - condition"
     },
     {
         "level": 4.0,
@@ -357,7 +357,7 @@
         "answer": "effective: producing the intended result",
         "goal_words": "effective",
         "audio_filename": "lineoct_en_218.mp3",
-        "audio_dir": "effective: producing the intended result"
+        "learning_tag": "adjective - judgement"
     },
     {
         "level": 4.0,
@@ -375,6 +375,6 @@
         "answer": "today",
         "goal_words": "today",
         "audio_filename": "lineoct_en_1270.mp3",
-        "audio_dir": "today"
+        "learning_tag": "adjective - time"
     }
 ]

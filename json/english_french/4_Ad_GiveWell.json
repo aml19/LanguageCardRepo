@@ -15,7 +15,7 @@
         "answer": "affronter ta peur",
         "goal_words": "affronter",
         "audio_filename": "lineoct_fr_16.mp3",
-        "audio_dir": "affronter ta peur"
+        "learning_tag": "verbe - Interactif"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "Prévenir une maladie",
         "goal_words": "Prévenir",
         "audio_filename": "line4_fr_717.mp3",
-        "audio_dir": "Prévenir une maladie"
+        "learning_tag": "verbe - Effet"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "Souffrir",
         "goal_words": "Souffrir",
         "audio_filename": "line5_fr_82.mp3",
-        "audio_dir": "Souffrir"
+        "learning_tag": "verbe - sentiment"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "rechercher",
         "goal_words": "rechercher",
         "audio_filename": "line4_fr_814.mp3",
-        "audio_dir": "rechercher"
+        "learning_tag": "verbe - Mental"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "Trouver un indice",
         "goal_words": "Trouver",
         "audio_filename": "line5_fr_247.mp3",
-        "audio_dir": "Trouver un indice"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "offrir un cadeau",
         "goal_words": "offrir",
         "audio_filename": "line26jan26_fr_493.mp3",
-        "audio_dir": "offrir un cadeau"
+        "learning_tag": "verbe - interactif"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "enregistrer un fichier",
         "goal_words": "enregistrer",
         "audio_filename": "lineoct_fr_401.mp3",
-        "audio_dir": "enregistrer un fichier"
+        "learning_tag": "verbe"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "améliorer ta maison",
         "goal_words": "améliorer",
         "audio_filename": "lineoct_fr_36.mp3",
-        "audio_dir": "améliorer ta maison"
+        "learning_tag": "verbe - Interactif"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "rejoindre un groupe",
         "goal_words": "rejoindre",
         "audio_filename": "lineoct_fr_1228.mp3",
-        "audio_dir": "rejoindre un groupe"
+        "learning_tag": "verbe - Interactif"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "faire",
         "goal_words": "faire",
         "audio_filename": "line2_fr_195.mp3",
-        "audio_dir": "faire"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "nombre 1,000,000: million",
         "goal_words": "million",
         "audio_filename": "lineoct_fr_1027.mp3",
-        "audio_dir": "nombre 1,000,000: million"
+        "learning_tag": "nom"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "Une personne",
         "goal_words": "personne",
         "audio_filename": "line5_fr_656.mp3",
-        "audio_dir": "Une personne"
+        "learning_tag": "nom - Personnes et rôles"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "souffrance",
         "goal_words": "souffrance",
         "audio_filename": "lineoct_fr_1302.mp3",
-        "audio_dir": "souffrance"
+        "learning_tag": "nom - Sentiments et émotions"
     },
     {
         "level": 4.0,
@@ -249,7 +249,7 @@
         "answer": "l'an",
         "goal_words": "l'an",
         "audio_filename": "line3_fr_299.mp3",
-        "audio_dir": "l'an"
+        "learning_tag": "temps"
     },
     {
         "level": 4.0,
@@ -267,7 +267,7 @@
         "answer": "donner de l’argent à une œuvre de charité",
         "goal_words": "charité",
         "audio_filename": "lineoct_fr_281.mp3",
-        "audio_dir": "donner de l’argent à une œuvre de charité"
+        "learning_tag": "nom"
     },
     {
         "level": 4.0,
@@ -285,7 +285,7 @@
         "answer": "une différence entre des œufs",
         "goal_words": "différence",
         "audio_filename": "lineoct_fr_1393.mp3",
-        "audio_dir": "une différence entre des œufs"
+        "learning_tag": "nom - Sentiments et émotions"
     },
     {
         "level": 4.0,
@@ -303,7 +303,7 @@
         "answer": "un dollar",
         "goal_words": "dollar",
         "audio_filename": "lineoct_fr_1390.mp3",
-        "audio_dir": "un dollar"
+        "learning_tag": "nom"
     },
     {
         "level": 4.0,
@@ -321,7 +321,7 @@
         "answer": "La vie",
         "goal_words": "vie",
         "audio_filename": "line3_fr_570.mp3",
-        "audio_dir": "La vie"
+        "learning_tag": "nom - Idées et concepts"
     },
     {
         "level": 4.0,
@@ -339,7 +339,7 @@
         "answer": "maladie évitable",
         "goal_words": "évitable",
         "audio_filename": "lineoct_fr_967.mp3",
-        "audio_dir": "maladie évitable"
+        "learning_tag": "adjectif - condition"
     },
     {
         "level": 4.0,
@@ -357,7 +357,7 @@
         "answer": "efficace: produisant le résultat voulu",
         "goal_words": "efficace",
         "audio_filename": "lineoct_fr_293.mp3",
-        "audio_dir": "efficace: produisant le résultat voulu"
+        "learning_tag": "adjectif - jugement"
     },
     {
         "level": 4.0,
@@ -375,6 +375,6 @@
         "answer": "aujourd'hui",
         "goal_words": "aujourd'hui",
         "audio_filename": "line_fr_343.mp3",
-        "audio_dir": "aujourd'hui"
+        "learning_tag": "adjectif - temps"
     }
 ]

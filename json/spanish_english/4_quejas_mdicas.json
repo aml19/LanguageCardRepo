@@ -1,0 +1,38 @@
+[
+    {
+        "level": 4.0,
+        "image_filename": "hairbrush.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "4 quejas médicas",
+        "native_answer": "cepillo para el pelo",
+        "native_word": "cabello",
+        "tag": "cabello",
+        "prompt": "______",
+        "answer": "hairbrush",
+        "goal_words": "hairbrush",
+        "audio_filename": "line10June26_en_134.mp3",
+        "learning_tag": "hair"
+    },
+    {
+        "level": 4.0,
+        "image_filename": "comb.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "4 quejas médicas",
+        "native_answer": "un peine",
+        "native_word": "cabello",
+        "tag": "cabello",
+        "prompt": "______",
+        "answer": "a comb",
+        "goal_words": "a comb",
+        "audio_filename": "line10June26_en_3.mp3",
+        "learning_tag": "hair"
+    }
+]

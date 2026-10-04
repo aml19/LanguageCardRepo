@@ -9,13 +9,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "Dad",
-        "native_word": null,
-        "tag": null,
-        "prompt": "papa - ______,______",
-        "answer": "papa - - /pa.pa/ (dad): A familiar and affectionate word for father. The \"p\" sound is clear and strong here, with the syllables evenly stressed.",
-        "goal_words": "- /pa.pa/ (dad): A familiar and affectionate word for father. The \"p\" sound is clear and strong here,  with the syllables evenly stressed.",
+        "native_word": "/p/ - Like \"p\" in \"pat\"",
+        "tag": "/p/ - Like \"p\" in \"pat\"",
+        "prompt": "papa: ______,______",
+        "answer": "papa: The \"p\" sound is clear and strong here, with the syllables evenly stressed.",
+        "goal_words": "The \"p\" sound is clear and strong here,  with the syllables evenly stressed.",
         "audio_filename": "line4_fr_524.mp3",
-        "audio_dir": "PApa"
+        "learning_tag": "/p/ - Like \"p\" in \"pat\""
     },
     {
         "level": 1.0,
@@ -27,13 +27,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "APPLE",
-        "native_word": null,
-        "tag": null,
-        "prompt": "pomme - ______,______,______",
-        "answer": "pomme - - /pɔm/ (apple): A common word for \"apple,\" pronounced with a short, clean \"p\" sound.",
-        "goal_words": "- /pɔm/ (apple): A common word for \"apple, \" pronounced with a short,  clean \"p\" sound.",
+        "native_word": "/p/ - Like \"p\" in \"pat\"",
+        "tag": "/p/ - Like \"p\" in \"pat\"",
+        "prompt": "pomme: ______,______",
+        "answer": "pomme: pronounced with a short, clean \"p\" sound.",
+        "goal_words": "pronounced with a short,  clean \"p\" sound.",
         "audio_filename": "line4_fr_672.mp3",
-        "audio_dir": "POMME"
+        "learning_tag": "/p/ - Like \"p\" in \"pat\""
     },
     {
         "level": 1.0,
@@ -45,13 +45,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "BALL",
-        "native_word": null,
-        "tag": null,
-        "prompt": "bal - ______,______,______",
-        "answer": "bal - - /bal/ (ball): Refers to a ball, typically used for dancing or sports. The \"b\" sound is smooth and voiced, where the vocal cords vibrate.",
-        "goal_words": "- /bal/ (ball): Refers to a ball,  typically used for dancing or sports. The \"b\" sound is smooth and voiced,  where the vocal cords vibrate.",
+        "native_word": "/b/ - Like \"b\" in \"bat\"",
+        "tag": "/b/ - Like \"b\" in \"bat\"",
+        "prompt": "bal: ______,______",
+        "answer": "bal: The \"b\" sound is smooth and voiced, where the vocal cords vibrate.",
+        "goal_words": "The \"b\" sound is smooth and voiced,  where the vocal cords vibrate.",
         "audio_filename": "line_fr_382.mp3",
-        "audio_dir": "BAL"
+        "learning_tag": "/b/ - Like \"b\" in \"bat\""
     },
     {
         "level": 1.0,
@@ -63,13 +63,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "Boots",
-        "native_word": null,
-        "tag": null,
-        "prompt": "bottes - ______,______",
-        "answer": "bottes - - /bɔt/ (boots): This refers to footwear that covers the leg up to the knee, with a strong \"b\" sound and silent final \"es\".",
-        "goal_words": "- /bɔt/ (boots): This refers to footwear that covers the leg up to the knee,  with a strong \"b\" sound and silent final \"es\".",
+        "native_word": "/b/ - Like \"b\" in \"bat\"",
+        "tag": "/b/ - Like \"b\" in \"bat\"",
+        "prompt": "bottes: ______",
+        "answer": "bottes: with a strong \"b\" sound and silent final \"es\".",
+        "goal_words": "with a strong \"b\" sound and silent final \"es\".",
         "audio_filename": "line_fr_441.mp3",
-        "audio_dir": "BOttes"
+        "learning_tag": "/b/ - Like \"b\" in \"bat\""
     },
     {
         "level": 1.0,
@@ -81,13 +81,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "television",
-        "native_word": null,
-        "tag": null,
-        "prompt": "télévision - ______,______",
-        "answer": "télévision - - /te.le.vi.zjɔ̃/ (television): A long word meaning television. The \"t\" at the beginning is crisp, and each syllable is pronounced clearly.",
-        "goal_words": "- /te.le.vi.zjɔ̃/ (television): A long word meaning television. The \"t\" at the beginning is crisp,  and each syllable is pronounced clearly.",
+        "native_word": "/t/ - Like \"t\" in \"top\"",
+        "tag": "/t/ - Like \"t\" in \"top\"",
+        "prompt": "télévision: ______,______",
+        "answer": "télévision: The \"t\" at the beginning is crisp, and each syllable is pronounced clearly.",
+        "goal_words": "The \"t\" at the beginning is crisp,  and each syllable is pronounced clearly.",
         "audio_filename": "line5_fr_125.mp3",
-        "audio_dir": "téléVISION"
+        "learning_tag": "/t/ - Like \"t\" in \"top\""
     },
     {
         "level": 1.0,
@@ -99,13 +99,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "THREE",
-        "native_word": null,
-        "tag": null,
-        "prompt": "trois - ______,______,______",
-        "answer": "trois - - /tʁwɑ/ (three): The \"t\" is pronounced clearly at the start of this number, followed by the \"r\" sound, which is unique to French.",
-        "goal_words": "- /tʁwɑ/ (three): The \"t\" is pronounced clearly at the start of this number,  followed by the \"r\" sound,  which is unique to French.",
+        "native_word": "/t/ - Like \"t\" in \"top\"",
+        "tag": "/t/ - Like \"t\" in \"top\"",
+        "prompt": "trois: ______,______,______",
+        "answer": "trois: The \"t\" is pronounced clearly at the start of this number, followed by the \"r\" sound, which is unique to French.",
+        "goal_words": "The \"t\" is pronounced clearly at the start of this number,  followed by the \"r\" sound,  which is unique to French.",
         "audio_filename": "line5_fr_239.mp3",
-        "audio_dir": "TROIS"
+        "learning_tag": "/t/ - Like \"t\" in \"top\""
     },
     {
         "level": 1.0,
@@ -117,13 +117,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "IN",
-        "native_word": null,
-        "tag": null,
-        "prompt": "dans - ______",
-        "answer": "dans - - /dɑ̃/ (in): A simple preposition used to indicate location. The \"d\" sound is soft and smooth.",
-        "goal_words": "- /dɑ̃/ (in): A simple preposition used to indicate location. The \"d\" sound is soft and smooth.",
+        "native_word": "/d/ - Like \"d\" in \"dog\"",
+        "tag": "/d/ - Like \"d\" in \"dog\"",
+        "prompt": "dans: ______",
+        "answer": "dans: The \"d\" sound is soft and smooth.",
+        "goal_words": "The \"d\" sound is soft and smooth.",
         "audio_filename": "line_fr_732.mp3",
-        "audio_dir": "DANS"
+        "learning_tag": "/d/ - Like \"d\" in \"dog\""
     },
     {
         "level": 1.0,
@@ -135,13 +135,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "MOAT",
-        "native_word": null,
-        "tag": null,
-        "prompt": "douve - ______,______",
-        "answer": "douve - - /duv/ (arch): A less common word referring to an architectural feature, pronounced with a light \"d\" sound.",
-        "goal_words": "- /duv/ (arch): A less common word referring to an architectural feature,  pronounced with a light \"d\" sound.",
+        "native_word": "/d/ - Like \"d\" in \"dog\"",
+        "tag": "/d/ - Like \"d\" in \"dog\"",
+        "prompt": "douve: ______",
+        "answer": "douve: pronounced with a light \"d\" sound.",
+        "goal_words": "pronounced with a light \"d\" sound.",
         "audio_filename": "line_fr_836.mp3",
-        "audio_dir": "DOUVE"
+        "learning_tag": "/d/ - Like \"d\" in \"dog\""
     },
     {
         "level": 1.0,
@@ -153,13 +153,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "HEART",
-        "native_word": null,
-        "tag": null,
-        "prompt": "cœur - ______,______,______",
-        "answer": "cœur - - /kœʁ/ (heart): A word meaning \"heart,\" pronounced with a \"k\" sound, followed by the distinct French \"œ\" and \"r\" sounds.",
-        "goal_words": "- /kœʁ/ (heart): A word meaning \"heart, \" pronounced with a \"k\" sound,  followed by the distinct French \"œ\" and \"r\" sounds.",
+        "native_word": "/k/ - Like \"k\" in \"cat\"",
+        "tag": "/k/ - Like \"k\" in \"cat\"",
+        "prompt": "cœur: ______,______",
+        "answer": "cœur: pronounced with a \"k\" sound, followed by the distinct French \"œ\" and \"r\" sounds.",
+        "goal_words": "pronounced with a \"k\" sound,  followed by the distinct French \"œ\" and \"r\" sounds.",
         "audio_filename": "line_fr_604.mp3",
-        "audio_dir": "CŒUR"
+        "learning_tag": "/k/ - Like \"k\" in \"cat\""
     },
     {
         "level": 1.0,
@@ -171,13 +171,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "CELLAR",
-        "native_word": null,
-        "tag": null,
-        "prompt": "cave - ______",
-        "answer": "cave - - /kav/ (cellar): This word refers to an underground room or storage space. The \"k\" sound is strong and clear.",
-        "goal_words": "- /kav/ (cellar): This word refers to an underground room or storage space. The \"k\" sound is strong and clear.",
+        "native_word": "/k/ - Like \"k\" in \"cat\"",
+        "tag": "/k/ - Like \"k\" in \"cat\"",
+        "prompt": "cave: ______",
+        "answer": "cave: The \"k\" sound is strong and clear.",
+        "goal_words": "The \"k\" sound is strong and clear.",
         "audio_filename": "line_fr_519.mp3",
-        "audio_dir": "CAVE"
+        "learning_tag": "/k/ - Like \"k\" in \"cat\""
     },
     {
         "level": 1.0,
@@ -189,13 +189,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "boy",
-        "native_word": null,
-        "tag": null,
-        "prompt": "garçon - ______,______",
-        "answer": "garçon - - /ɡaʁ.sɔ̃/ (boy): Refers to a young male, with the \"g\" sound at the beginning of the word.",
-        "goal_words": "- /ɡaʁ.sɔ̃/ (boy): Refers to a young male,  with the \"g\" sound at the beginning of the word.",
+        "native_word": "/g/ - Like \"g\" in \"go\"",
+        "tag": "/g/ - Like \"g\" in \"go\"",
+        "prompt": "garçon: ______",
+        "answer": "garçon: with the \"g\" sound at the beginning of the word.",
+        "goal_words": "with the \"g\" sound at the beginning of the word.",
         "audio_filename": "line2_fr_266.mp3",
-        "audio_dir": "garÇON"
+        "learning_tag": "/g/ - Like \"g\" in \"go\""
     },
     {
         "level": 1.0,
@@ -207,13 +207,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "DROP",
-        "native_word": null,
-        "tag": null,
-        "prompt": "goutte - ______,______",
-        "answer": "goutte - - /ɡut/ (drop): A word for a drop of liquid, with the voiced \"g\" sound leading the word.",
-        "goal_words": "- /ɡut/ (drop): A word for a drop of liquid,  with the voiced \"g\" sound leading the word.",
+        "native_word": "/g/ - Like \"g\" in \"go\"",
+        "tag": "/g/ - Like \"g\" in \"go\"",
+        "prompt": "goutte: ______",
+        "answer": "goutte: with the voiced \"g\" sound leading the word.",
+        "goal_words": "with the voiced \"g\" sound leading the word.",
         "audio_filename": "line2_fr_276.mp3",
-        "audio_dir": "GOUTTE"
+        "learning_tag": "/g/ - Like \"g\" in \"go\""
     },
     {
         "level": 1.0,
@@ -225,13 +225,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "FLOWER",
-        "native_word": null,
-        "tag": null,
-        "prompt": "fleur - ______,______",
-        "answer": "fleur - - /flœʁ/ (flower): A word for flower, with the \"f\" sound clearly pronounced at the beginning.",
-        "goal_words": "- /flœʁ/ (flower): A word for flower,  with the \"f\" sound clearly pronounced at the beginning.",
+        "native_word": "/f/ - Like \"f\" in \"fun\"",
+        "tag": "/f/ - Like \"f\" in \"fun\"",
+        "prompt": "fleur: ______",
+        "answer": "fleur: with the \"f\" sound clearly pronounced at the beginning.",
+        "goal_words": "with the \"f\" sound clearly pronounced at the beginning.",
         "audio_filename": "line2_fr_239.mp3",
-        "audio_dir": "FLEUR"
+        "learning_tag": "/f/ - Like \"f\" in \"fun\""
     },
     {
         "level": 1.0,
@@ -243,13 +243,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "MAD",
-        "native_word": null,
-        "tag": null,
-        "prompt": "fou - ______,______",
-        "answer": "fou - - /fu/ (crazy): Refers to something or someone insane, with a clean \"f\" sound followed by the \"u\" vowel sound.",
-        "goal_words": "- /fu/ (crazy): Refers to something or someone insane,  with a clean \"f\" sound followed by the \"u\" vowel sound.",
+        "native_word": "/f/ - Like \"f\" in \"fun\"",
+        "tag": "/f/ - Like \"f\" in \"fun\"",
+        "prompt": "fou: ______",
+        "answer": "fou: with a clean \"f\" sound followed by the \"u\" vowel sound.",
+        "goal_words": "with a clean \"f\" sound followed by the \"u\" vowel sound.",
         "audio_filename": "line2_fr_249.mp3",
-        "audio_dir": "FOU"
+        "learning_tag": "/f/ - Like \"f\" in \"fun\""
     },
     {
         "level": 1.0,
@@ -261,13 +261,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "COW",
-        "native_word": null,
-        "tag": null,
-        "prompt": "vache - ______,______,______",
-        "answer": "vache - - /vaʃ/ (cow): A word for cow, where the \"v\" sound is clearly heard at the beginning, with a soft \"sh\" sound at the end.",
-        "goal_words": "- /vaʃ/ (cow): A word for cow,  where the \"v\" sound is clearly heard at the beginning,  with a soft \"sh\" sound at the end.",
+        "native_word": "/v/ - Like \"v\" in \"van\"",
+        "tag": "/v/ - Like \"v\" in \"van\"",
+        "prompt": "vache: ______,______",
+        "answer": "vache: where the \"v\" sound is clearly heard at the beginning, with a soft \"sh\" sound at the end.",
+        "goal_words": "where the \"v\" sound is clearly heard at the beginning,  with a soft \"sh\" sound at the end.",
         "audio_filename": "line5_fr_680.mp3",
-        "audio_dir": "VACHE"
+        "learning_tag": "/v/ - Like \"v\" in \"van\""
     },
     {
         "level": 1.0,
@@ -279,13 +279,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "SEE",
-        "native_word": null,
-        "tag": null,
-        "prompt": "voir - ______,______,______",
-        "answer": "voir - - /vwaʁ/ (to see): Refers to the verb \"to see,\" pronounced with the \"v\" sound at the start, followed by a \"w\" and French \"r.\"",
-        "goal_words": "- /vwaʁ/ (to see): Refers to the verb \"to see, \" pronounced with the \"v\" sound at the start,  followed by a \"w\" and French \"r.\"",
+        "native_word": "/v/ - Like \"v\" in \"van\"",
+        "tag": "/v/ - Like \"v\" in \"van\"",
+        "prompt": "voir: ______,______",
+        "answer": "voir: pronounced with the \"v\" sound at the start, followed by a \"w\" and French \"r.\"",
+        "goal_words": "pronounced with the \"v\" sound at the start,  followed by a \"w\" and French \"r.\"",
         "audio_filename": "line5_fr_727.mp3",
-        "audio_dir": "VOIR"
+        "learning_tag": "/v/ - Like \"v\" in \"van\""
     },
     {
         "level": 1.0,
@@ -297,13 +297,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "ROOM",
-        "native_word": null,
-        "tag": null,
-        "prompt": "salle - ______,______,______",
-        "answer": "salle - - /sal/ (room): A word for a room, with the \"s\" sound clear and soft, typical of the French \"s.\"",
-        "goal_words": "- /sal/ (room): A word for a room,  with the \"s\" sound clear and soft,  typical of the French \"s.\"",
+        "native_word": "/s/ - Like \"s\" in \"sit\"",
+        "tag": "/s/ - Like \"s\" in \"sit\"",
+        "prompt": "salle: ______,______",
+        "answer": "salle: with the \"s\" sound clear and soft, typical of the French \"s.\"",
+        "goal_words": "with the \"s\" sound clear and soft,  typical of the French \"s.\"",
         "audio_filename": "line4_fr_921.mp3",
-        "audio_dir": "SALLE"
+        "learning_tag": "/s/ - Like \"s\" in \"sit\""
     },
     {
         "level": 1.0,
@@ -315,13 +315,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "mouse",
-        "native_word": null,
-        "tag": null,
-        "prompt": "souris - ______,______",
-        "answer": "souris - - /suʁi/ (mouse): Refers to a mouse, with a distinct \"s\" sound at the beginning and the \"r\" sound after.",
-        "goal_words": "- /suʁi/ (mouse): Refers to a mouse,  with a distinct \"s\" sound at the beginning and the \"r\" sound after.",
+        "native_word": "/s/ - Like \"s\" in \"sit\"",
+        "tag": "/s/ - Like \"s\" in \"sit\"",
+        "prompt": "souris: ______",
+        "answer": "souris: with a distinct \"s\" sound at the beginning and the \"r\" sound after.",
+        "goal_words": "with a distinct \"s\" sound at the beginning and the \"r\" sound after.",
         "audio_filename": "line5_fr_86.mp3",
-        "audio_dir": "souRIS"
+        "learning_tag": "/s/ - Like \"s\" in \"sit\""
     },
     {
         "level": 1.0,
@@ -333,13 +333,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "ZERO",
-        "native_word": null,
-        "tag": null,
-        "prompt": "zéro - ______,______,______",
-        "answer": "zéro - - /ze.ʁo/ (zero): A word for \"zero,\" with the \"z\" sound leading, followed by a soft French \"r\" sound.",
-        "goal_words": "- /ze.ʁo/ (zero): A word for \"zero, \" with the \"z\" sound leading,  followed by a soft French \"r\" sound.",
+        "native_word": "/z/ - Like \"z\" in \"zebra\"",
+        "tag": "/z/ - Like \"z\" in \"zebra\"",
+        "prompt": "zéro: ______,______",
+        "answer": "zéro: with the \"z\" sound leading, followed by a soft French \"r\" sound.",
+        "goal_words": "with the \"z\" sound leading,  followed by a soft French \"r\" sound.",
         "audio_filename": "line5_fr_890.mp3",
-        "audio_dir": "ZÉRO"
+        "learning_tag": "/z/ - Like \"z\" in \"zebra\""
     },
     {
         "level": 1.0,
@@ -351,13 +351,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "AREA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "zone - ______,______",
-        "answer": "zone - - /zɔn/ (zone): A word for an area or region, with the \"z\" sound at the start and a nasal \"o\" sound.",
-        "goal_words": "- /zɔn/ (zone): A word for an area or region,  with the \"z\" sound at the start and a nasal \"o\" sound.",
+        "native_word": "/z/ - Like \"z\" in \"zebra\"",
+        "tag": "/z/ - Like \"z\" in \"zebra\"",
+        "prompt": "zone: ______",
+        "answer": "zone: with the \"z\" sound at the start and a nasal \"o\" sound.",
+        "goal_words": "with the \"z\" sound at the start and a nasal \"o\" sound.",
         "audio_filename": "line5_fr_891.mp3",
-        "audio_dir": "ZONE"
+        "learning_tag": "/z/ - Like \"z\" in \"zebra\""
     },
     {
         "level": 1.0,
@@ -369,13 +369,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "CAT",
-        "native_word": null,
-        "tag": null,
-        "prompt": "chat - ______,______,______",
-        "answer": "chat - - /ʃa/ (cat): The French word for \"cat,\" with a \"sh\" sound at the start, typical of French \"ch\".",
-        "goal_words": "- /ʃa/ (cat): The French word for \"cat, \" with a \"sh\" sound at the start,  typical of French \"ch\".",
+        "native_word": "/ʃ/ - Like \"sh\" in \"ship\"",
+        "tag": "/ʃ/ - Like \"sh\" in \"ship\"",
+        "prompt": "chat: ______,______",
+        "answer": "chat: with a \"sh\" sound at the start, typical of French \"ch\".",
+        "goal_words": "with a \"sh\" sound at the start,  typical of French \"ch\".",
         "audio_filename": "line_fr_562.mp3",
-        "audio_dir": "CHAT"
+        "learning_tag": "/ʃ/ - Like \"sh\" in \"ship\""
     },
     {
         "level": 1.0,
@@ -387,13 +387,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "shoe",
-        "native_word": null,
-        "tag": null,
-        "prompt": "chaussure - ______,______",
-        "answer": "chaussure - - /ʃo.syʁ/ (shoe): A word for \"shoe,\" where the \"sh\" sound is prominent at the beginning.",
-        "goal_words": "- /ʃo.syʁ/ (shoe): A word for \"shoe, \" where the \"sh\" sound is prominent at the beginning.",
+        "native_word": "/ʃ/ - Like \"sh\" in \"ship\"",
+        "tag": "/ʃ/ - Like \"sh\" in \"ship\"",
+        "prompt": "chaussure: ______",
+        "answer": "chaussure: where the \"sh\" sound is prominent at the beginning.",
+        "goal_words": "where the \"sh\" sound is prominent at the beginning.",
         "audio_filename": "line_fr_571.mp3",
-        "audio_dir": "chausSURE"
+        "learning_tag": "/ʃ/ - Like \"sh\" in \"ship\""
     },
     {
         "level": 1.0,
@@ -405,13 +405,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "DAY",
-        "native_word": null,
-        "tag": null,
-        "prompt": "jour - ______,______,______",
-        "answer": "jour - - /ʒuʁ/ (day): A word for \"day,\" with a soft \"zh\" sound, similar to the \"s\" in \"measure.\"",
-        "goal_words": "- /ʒuʁ/ (day): A word for \"day, \" with a soft \"zh\" sound,  similar to the \"s\" in \"measure.\"",
+        "native_word": "/ʒ/ - Like \"s\" in \"measure\"",
+        "tag": "/ʒ/ - Like \"s\" in \"measure\"",
+        "prompt": "jour: ______,______",
+        "answer": "jour: with a soft \"zh\" sound, similar to the \"s\" in \"measure.\"",
+        "goal_words": "with a soft \"zh\" sound,  similar to the \"s\" in \"measure.\"",
         "audio_filename": "line3_fr_259.mp3",
-        "audio_dir": "JOUR"
+        "learning_tag": "/ʒ/ - Like \"s\" in \"measure\""
     },
     {
         "level": 1.0,
@@ -423,13 +423,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "garden",
-        "native_word": null,
-        "tag": null,
-        "prompt": "jardin - ______,______",
-        "answer": "jardin - - /ʒaʁ.dɛ̃/ (garden): Refers to a garden, with the \"zh\" sound leading.",
-        "goal_words": "- /ʒaʁ.dɛ̃/ (garden): Refers to a garden,  with the \"zh\" sound leading.",
+        "native_word": "/ʒ/ - Like \"s\" in \"measure\"",
+        "tag": "/ʒ/ - Like \"s\" in \"measure\"",
+        "prompt": "jardin: ______",
+        "answer": "jardin: with the \"zh\" sound leading.",
+        "goal_words": "with the \"zh\" sound leading.",
         "audio_filename": "line3_fr_34.mp3",
-        "audio_dir": "jarDIN"
+        "learning_tag": "/ʒ/ - Like \"s\" in \"measure\""
     },
     {
         "level": 1.0,
@@ -441,13 +441,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "Mom",
-        "native_word": null,
-        "tag": null,
-        "prompt": "maman - ______,______",
-        "answer": "maman - - /ma.mɑ̃/ (mom): A loving term for mother, with a strong \"m\" sound at the beginning of both syllables.",
-        "goal_words": "- /ma.mɑ̃/ (mom): A loving term for mother,  with a strong \"m\" sound at the beginning of both syllables.",
+        "native_word": "/m/ - Like \"m\" in \"man\"",
+        "tag": "/m/ - Like \"m\" in \"man\"",
+        "prompt": "maman: ______",
+        "answer": "maman: with a strong \"m\" sound at the beginning of both syllables.",
+        "goal_words": "with a strong \"m\" sound at the beginning of both syllables.",
         "audio_filename": "line3_fr_991.mp3",
-        "audio_dir": "maMAN"
+        "learning_tag": "/m/ - Like \"m\" in \"man\""
     },
     {
         "level": 1.0,
@@ -459,13 +459,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "WORLD",
-        "native_word": null,
-        "tag": null,
-        "prompt": "monde - ______,______",
-        "answer": "monde - - /mɔ̃d/ (world): Refers to the world, with the \"m\" sound clearly pronounced.",
-        "goal_words": "- /mɔ̃d/ (world): Refers to the world,  with the \"m\" sound clearly pronounced.",
+        "native_word": "/m/ - Like \"m\" in \"man\"",
+        "tag": "/m/ - Like \"m\" in \"man\"",
+        "prompt": "monde: ______",
+        "answer": "monde: with the \"m\" sound clearly pronounced.",
+        "goal_words": "with the \"m\" sound clearly pronounced.",
         "audio_filename": "line4_fr_54.mp3",
-        "audio_dir": "MONDE"
+        "learning_tag": "/m/ - Like \"m\" in \"man\""
     },
     {
         "level": 1.0,
@@ -477,13 +477,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "NOSE",
-        "native_word": null,
-        "tag": null,
-        "prompt": "nez - ______,______",
-        "answer": "nez - - /ne/ (nose): A word for \"nose,\" with the \"n\" sound clearly pronounced.",
-        "goal_words": "- /ne/ (nose): A word for \"nose, \" with the \"n\" sound clearly pronounced.",
+        "native_word": "/n/ - Like \"n\" in \"no\"",
+        "tag": "/n/ - Like \"n\" in \"no\"",
+        "prompt": "nez: ______",
+        "answer": "nez: with the \"n\" sound clearly pronounced.",
+        "goal_words": "with the \"n\" sound clearly pronounced.",
         "audio_filename": "line4_fr_116.mp3",
-        "audio_dir": "NEZ"
+        "learning_tag": "/n/ - Like \"n\" in \"no\""
     },
     {
         "level": 1.0,
@@ -495,13 +495,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "NO",
-        "native_word": null,
-        "tag": null,
-        "prompt": "non - ______,______",
-        "answer": "non - - /nɔ̃/ (no): A common negative response, with the \"n\" sound at the start and a nasal vowel sound following.",
-        "goal_words": "- /nɔ̃/ (no): A common negative response,  with the \"n\" sound at the start and a nasal vowel sound following.",
+        "native_word": "/n/ - Like \"n\" in \"no\"",
+        "tag": "/n/ - Like \"n\" in \"no\"",
+        "prompt": "non: ______",
+        "answer": "non: with the \"n\" sound at the start and a nasal vowel sound following.",
+        "goal_words": "with the \"n\" sound at the start and a nasal vowel sound following.",
         "audio_filename": "line4_fr_124.mp3",
-        "audio_dir": "NON"
+        "learning_tag": "/n/ - Like \"n\" in \"no\""
     },
     {
         "level": 1.0,
@@ -513,13 +513,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "MOON",
-        "native_word": null,
-        "tag": null,
-        "prompt": "lune - ______,______",
-        "answer": "lune - - /lyn/ (moon): The word for moon, with a clear \"l\" sound at the beginning.",
-        "goal_words": "- /lyn/ (moon): The word for moon,  with a clear \"l\" sound at the beginning.",
+        "native_word": "/l/ - Like \"l\" in \"love\"",
+        "tag": "/l/ - Like \"l\" in \"love\"",
+        "prompt": "lune: ______",
+        "answer": "lune: with a clear \"l\" sound at the beginning.",
+        "goal_words": "with a clear \"l\" sound at the beginning.",
         "audio_filename": "line3_fr_968.mp3",
-        "audio_dir": "LUNE"
+        "learning_tag": "/l/ - Like \"l\" in \"love\""
     },
     {
         "level": 1.0,
@@ -531,13 +531,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "BOOK",
-        "native_word": null,
-        "tag": null,
-        "prompt": "livre - ______,______",
-        "answer": "livre - - /livʁ/ (book): A word for book, with a soft \"l\" sound at the start.",
-        "goal_words": "- /livʁ/ (book): A word for book,  with a soft \"l\" sound at the start.",
+        "native_word": "/l/ - Like \"l\" in \"love\"",
+        "tag": "/l/ - Like \"l\" in \"love\"",
+        "prompt": "livre: ______",
+        "answer": "livre: with a soft \"l\" sound at the start.",
+        "goal_words": "with a soft \"l\" sound at the start.",
         "audio_filename": "line3_fr_948.mp3",
-        "audio_dir": "LIVRE"
+        "learning_tag": "/l/ - Like \"l\" in \"love\""
     },
     {
         "level": 1.0,
@@ -549,13 +549,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "STREET",
-        "native_word": null,
-        "tag": null,
-        "prompt": "rue - ______,______",
-        "answer": "rue - - /ʁy/ (street): The French word for street, with a guttural \"r\" sound produced in the back of the throat.",
-        "goal_words": "- /ʁy/ (street): The French word for street,  with a guttural \"r\" sound produced in the back of the throat.",
+        "native_word": "/ʁ/ - Like \"r\" in French",
+        "tag": "/ʁ/ - Like \"r\" in French",
+        "prompt": "rue: ______",
+        "answer": "rue: with a guttural \"r\" sound produced in the back of the throat.",
+        "goal_words": "with a guttural \"r\" sound produced in the back of the throat.",
         "audio_filename": "line4_fr_888.mp3",
-        "audio_dir": "RUE"
+        "learning_tag": "/ʁ/ - Like \"r\" in French"
     },
     {
         "level": 1.0,
@@ -567,13 +567,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "DREAM",
-        "native_word": null,
-        "tag": null,
-        "prompt": "rêve - ______,______",
-        "answer": "rêve - - /ʁɛv/ (dream): Refers to a dream, with the distinctive French \"r\" sound.",
-        "goal_words": "- /ʁɛv/ (dream): Refers to a dream,  with the distinctive French \"r\" sound.",
+        "native_word": "/ʁ/ - Like \"r\" in French",
+        "tag": "/ʁ/ - Like \"r\" in French",
+        "prompt": "rêve: ______",
+        "answer": "rêve: with the distinctive French \"r\" sound.",
+        "goal_words": "with the distinctive French \"r\" sound.",
         "audio_filename": "line4_fr_867.mp3",
-        "audio_dir": "RÊVE"
+        "learning_tag": "/ʁ/ - Like \"r\" in French"
     },
     {
         "level": 1.0,
@@ -585,13 +585,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "THANKS",
-        "native_word": null,
-        "tag": null,
-        "prompt": "merci ______,______",
-        "answer": "merci – /mɛʁ.si/ (thank you): A polite and essential French word for expressing gratitude. The \"r\" is pronounced with the guttural French sound made in the back of the throat, followed by a soft \"s\" and a clear final \"i\".",
-        "goal_words": "– /mɛʁ.si/ (thank you): A polite and essential French word for expressing gratitude. The \"r\" is pronounced with the guttural French sound made in the back of the throat,  followed by a soft \"s\" and a clear final \"i\".",
+        "native_word": "/ʁ/ - Like \"r\" in French",
+        "tag": "/ʁ/ - Like \"r\" in French",
+        "prompt": "merci: ______,______",
+        "answer": "merci: The \"r\" is pronounced with the guttural French sound made in the back of the throat, followed by a soft \"s\" and a clear final \"i\".",
+        "goal_words": "The \"r\" is pronounced with the guttural French sound made in the back of the throat,  followed by a soft \"s\" and a clear final \"i\".",
         "audio_filename": "line4_fr_33.mp3",
-        "audio_dir": "MERCI"
+        "learning_tag": "/ʁ/ - Like \"r\" in French"
     },
     {
         "level": 1.0,
@@ -603,13 +603,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "bow",
-        "native_word": null,
-        "tag": null,
-        "prompt": "arc ______,______,______",
-        "answer": "arc – /aʁk/ (arch, bow): This short word contains the characteristic French \"r\" in the middle, followed by a hard \"k\" sound. It can refer to an archway or a bow (as in bow and arrow).",
-        "goal_words": "– /aʁk/ (arch,  bow): This short word contains the characteristic French \"r\" in the middle,  followed by a hard \"k\" sound. It can refer to an archway or a bow (as in bow and arrow).",
+        "native_word": "/ʁ/ - Like \"r\" in French",
+        "tag": "/ʁ/ - Like \"r\" in French",
+        "prompt": "arc: ______,______ ",
+        "answer": "arc: This short word contains the characteristic French \"r\" in the middle, followed by a hard \"k\" sound. ",
+        "goal_words": "This short word contains the characteristic French \"r\" in the middle,  followed by a hard \"k\" sound.",
         "audio_filename": "line_fr_293.mp3",
-        "audio_dir": "ARC"
+        "learning_tag": "/ʁ/ - Like \"r\" in French"
     },
     {
         "level": 1.0,
@@ -621,13 +621,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "arm",
-        "native_word": null,
-        "tag": null,
-        "prompt": "bras ______,______,______",
-        "answer": "bras – /bʁɑ/ (arm): A common word for \"arm,\" with the \"r\" immediately following the \"b\" to produce a trilled, throaty sound. The final \"s\" is silent.",
-        "goal_words": "– /bʁɑ/ (arm): A common word for \"arm, \" with the \"r\" immediately following the \"b\" to produce a trilled,  throaty sound. The final \"s\" is silent.",
+        "native_word": "/ʁ/ - Like \"r\" in French",
+        "tag": "/ʁ/ - Like \"r\" in French",
+        "prompt": "bras: ______",
+        "answer": "bras: The final \"s\" is silent.",
+        "goal_words": "The final \"s\" is silent.",
         "audio_filename": "line_fr_445.mp3",
-        "audio_dir": "BRAS"
+        "learning_tag": "/ʁ/ - Like \"r\" in French"
     },
     {
         "level": 1.0,
@@ -639,13 +639,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "fat",
-        "native_word": null,
-        "tag": null,
-        "prompt": "gros ______,______,______",
-        "answer": "gros – /ɡʁo/ (big, fat): Often used to describe size or weight. The \"r\" follows the hard \"g\", creating a bold and heavy sound. The final \"s\" is not pronounced.",
-        "goal_words": "– /ɡʁo/ (big,  fat): Often used to describe size or weight. The \"r\" follows the hard \"g\",  creating a bold and heavy sound. The final \"s\" is not pronounced.",
+        "native_word": "/ʁ/ - Like \"r\" in French",
+        "tag": "/ʁ/ - Like \"r\" in French",
+        "prompt": "gros: ______,______",
+        "answer": "gros: The \"r\" follows the hard \"g\", creating a bold and heavy sound. The final \"s\" is not pronounced.",
+        "goal_words": "The \"r\" follows the hard \"g\",  creating a bold and heavy sound. The final \"s\" is not pronounced.",
         "audio_filename": "line2_fr_287.mp3",
-        "audio_dir": "GROS"
+        "learning_tag": "/ʁ/ - Like \"r\" in French"
     },
     {
         "level": 1.0,
@@ -657,13 +657,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "heart",
-        "native_word": null,
-        "tag": null,
-        "prompt": "coeur ______,______",
-        "answer": "coeur – /kœʁ/ (heart): A poetic and emotional word in French. The \"r\" comes at the end and is softly gargled in the throat. The word features the rounded œ vowel, unique to French.",
-        "goal_words": "– /kœʁ/ (heart): A poetic and emotional word in French. The \"r\" comes at the end and is softly gargled in the throat. The word features the rounded œ vowel,  unique to French.",
+        "native_word": "/ʁ/ - Like \"r\" in French",
+        "tag": "/ʁ/ - Like \"r\" in French",
+        "prompt": "coeur: ______,______",
+        "answer": "coeur: The \"r\" comes at the end and is softly gargled in the throat. The word features the rounded œ vowel, unique to French.",
+        "goal_words": "The \"r\" comes at the end and is softly gargled in the throat. The word features the rounded œ vowel,  unique to French.",
         "audio_filename": "line_fr_603.mp3",
-        "audio_dir": "COEUR"
+        "learning_tag": "/ʁ/ - Like \"r\" in French"
     },
     {
         "level": 1.0,
@@ -675,13 +675,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "winter",
-        "native_word": null,
-        "tag": null,
-        "prompt": "hiver - ______,______",
-        "answer": "hiver - - /ivɛʁ/ (winter): A word for winter, with an unpronounced \"h\" at the start.",
-        "goal_words": "- /ivɛʁ/ (winter): A word for winter,  with an unpronounced \"h\" at the start.",
+        "native_word": "/h/ - Like \"h\" in \"hat\" (in some cases, not pronounced in many words)",
+        "tag": "/h/ - Like \"h\" in \"hat\" (in some cases, not pronounced in many words)",
+        "prompt": "hiver: ______",
+        "answer": "hiver: with an unpronounced \"h\" at the start.",
+        "goal_words": "with an unpronounced \"h\" at the start.",
         "audio_filename": "line2_fr_309.mp3",
-        "audio_dir": "hiVER"
+        "learning_tag": "/h/ - Like \"h\" in \"hat\" (in some cases, not pronounced in many words)"
     },
     {
         "level": 1.0,
@@ -693,13 +693,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "hotel",
-        "native_word": null,
-        "tag": null,
-        "prompt": "hôtel - ______,______",
-        "answer": "hôtel - - /ɔ.tɛl/ (hotel): A word for hotel, where the \"h\" is silent.",
-        "goal_words": "- /ɔ.tɛl/ (hotel): A word for hotel,  where the \"h\" is silent.",
+        "native_word": "/h/ - Like \"h\" in \"hat\" (in some cases, not pronounced in many words)",
+        "tag": "/h/ - Like \"h\" in \"hat\" (in some cases, not pronounced in many words)",
+        "prompt": "hôtel: ______",
+        "answer": "hôtel: where the \"h\" is silent.",
+        "goal_words": "where the \"h\" is silent.",
         "audio_filename": "line2_fr_314.mp3",
-        "audio_dir": "hôTEL"
+        "learning_tag": "/h/ - Like \"h\" in \"hat\" (in some cases, not pronounced in many words)"
     },
     {
         "level": 1.0,
@@ -711,13 +711,13 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "car",
-        "native_word": null,
-        "tag": null,
-        "prompt": "wagon - ______,______",
-        "answer": "wagon - - /vaɡɔ̃/ (wagon): A word for a railroad car, with the \"w\" sound at the beginning followed by a soft French \"r\".",
-        "goal_words": "- /vaɡɔ̃/ (wagon): A word for a railroad car,  with the \"w\" sound at the beginning followed by a soft French \"r\".",
+        "native_word": "/w/ - Like \"w\" in \"win\"",
+        "tag": "/w/ - Like \"w\" in \"win\"",
+        "prompt": "wagon: ______",
+        "answer": "wagon: with the \"w\" sound at the beginning followed by a soft French \"r\".",
+        "goal_words": "with the \"w\" sound at the beginning followed by a soft French \"r\".",
         "audio_filename": "line5_fr_883.mp3",
-        "audio_dir": "waGON"
+        "learning_tag": "/w/ - Like \"w\" in \"win\""
     },
     {
         "level": 1.0,
@@ -729,12 +729,12 @@
         "learning_language": "french",
         "native_group": "1 pronunciation - consonants",
         "native_answer": "weekend",
-        "native_word": null,
-        "tag": null,
-        "prompt": "week-end - ______,______",
-        "answer": "week-end - - /wikɛnd/ (weekend): A word for weekend, with a clear \"w\" sound at the start.",
-        "goal_words": "- /wikɛnd/ (weekend): A word for weekend,  with a clear \"w\" sound at the start.",
+        "native_word": "/w/ - Like \"w\" in \"win\"",
+        "tag": "/w/ - Like \"w\" in \"win\"",
+        "prompt": "week-end: ______",
+        "answer": "week-end: with a clear \"w\" sound at the start.",
+        "goal_words": "with a clear \"w\" sound at the start.",
         "audio_filename": "line5_fr_884.mp3",
-        "audio_dir": "week-END"
+        "learning_tag": "/w/ - Like \"w\" in \"win\""
     }
 ]

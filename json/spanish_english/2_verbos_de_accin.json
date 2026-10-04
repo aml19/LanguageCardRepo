@@ -15,7 +15,7 @@
         "answer": "cook",
         "goal_words": "cook",
         "audio_filename": "line_en_556.mp3",
-        "audio_dir": "cook"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -33,7 +33,7 @@
         "answer": "cry",
         "goal_words": "cry",
         "audio_filename": "line_en_587.mp3",
-        "audio_dir": "cry"
+        "learning_tag": "verb - self"
     },
     {
         "level": 2.0,
@@ -51,7 +51,7 @@
         "answer": "dance",
         "goal_words": "dance",
         "audio_filename": "line_en_604.mp3",
-        "audio_dir": "dance"
+        "learning_tag": "verb - self"
     },
     {
         "level": 2.0,
@@ -69,7 +69,7 @@
         "answer": "drink",
         "goal_words": "drink",
         "audio_filename": "line_en_736.mp3",
-        "audio_dir": "drink"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -87,7 +87,7 @@
         "answer": "drive",
         "goal_words": "drive",
         "audio_filename": "line_en_740.mp3",
-        "audio_dir": "drive"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 2.0,
@@ -105,7 +105,7 @@
         "answer": "eat",
         "goal_words": "eat",
         "audio_filename": "line_en_765.mp3",
-        "audio_dir": "eat"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -123,7 +123,7 @@
         "answer": "fall",
         "goal_words": "fall",
         "audio_filename": "line_en_837.mp3",
-        "audio_dir": "fall"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 2.0,
@@ -141,7 +141,7 @@
         "answer": "jump",
         "goal_words": "jump",
         "audio_filename": "line2_en_434.mp3",
-        "audio_dir": "jump"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 2.0,
@@ -159,7 +159,7 @@
         "answer": "laugh",
         "goal_words": "laugh",
         "audio_filename": "line2_en_484.mp3",
-        "audio_dir": "laugh"
+        "learning_tag": "verb - self"
     },
     {
         "level": 2.0,
@@ -177,7 +177,7 @@
         "answer": "love",
         "goal_words": "love",
         "audio_filename": "line2_en_554.mp3",
-        "audio_dir": "love"
+        "learning_tag": "verb - feeling"
     },
     {
         "level": 2.0,
@@ -195,7 +195,7 @@
         "answer": "play",
         "goal_words": "play",
         "audio_filename": "line3_en_135.mp3",
-        "audio_dir": "play"
+        "learning_tag": "verb - interactive"
     },
     {
         "level": 2.0,
@@ -213,7 +213,7 @@
         "answer": "pull",
         "goal_words": "pull",
         "audio_filename": "line3_en_195.mp3",
-        "audio_dir": "pull"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -231,7 +231,7 @@
         "answer": "push",
         "goal_words": "push",
         "audio_filename": "line3_en_205.mp3",
-        "audio_dir": "push"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -249,7 +249,7 @@
         "answer": "say",
         "goal_words": "say",
         "audio_filename": "line3_en_373.mp3",
-        "audio_dir": "say"
+        "learning_tag": "verb - communication"
     },
     {
         "level": 2.0,
@@ -267,7 +267,7 @@
         "answer": "sing",
         "goal_words": "sing",
         "audio_filename": "line3_en_741.mp3",
-        "audio_dir": "sing"
+        "learning_tag": "verb - self"
     },
     {
         "level": 2.0,
@@ -285,7 +285,7 @@
         "answer": "sleep",
         "goal_words": "sleep",
         "audio_filename": "line3_en_764.mp3",
-        "audio_dir": "sleep"
+        "learning_tag": "verb - self"
     },
     {
         "level": 2.0,
@@ -303,7 +303,7 @@
         "answer": "speak",
         "goal_words": "speak",
         "audio_filename": "line3_en_818.mp3",
-        "audio_dir": "speak"
+        "learning_tag": "verb - communication"
     },
     {
         "level": 2.0,
@@ -321,7 +321,7 @@
         "answer": "study",
         "goal_words": "study",
         "audio_filename": "line3_en_886.mp3",
-        "audio_dir": "study"
+        "learning_tag": "verb - self"
     },
     {
         "level": 2.0,
@@ -339,7 +339,7 @@
         "answer": "swim",
         "goal_words": "swim",
         "audio_filename": "line3_en_929.mp3",
-        "audio_dir": "swim"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 2.0,
@@ -357,7 +357,7 @@
         "answer": "talk",
         "goal_words": "talk",
         "audio_filename": "line3_en_950.mp3",
-        "audio_dir": "talk"
+        "learning_tag": "verb - communication"
     },
     {
         "level": 2.0,
@@ -375,7 +375,7 @@
         "answer": "walk",
         "goal_words": "walk",
         "audio_filename": "line4_en_670.mp3",
-        "audio_dir": "walk"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 2.0,
@@ -393,7 +393,7 @@
         "answer": "work",
         "goal_words": "work",
         "audio_filename": "line5_en_145.mp3",
-        "audio_dir": "work"
+        "learning_tag": "verb - self"
     },
     {
         "level": 2.0,
@@ -411,7 +411,7 @@
         "answer": "write",
         "goal_words": "write",
         "audio_filename": "line5_en_171.mp3",
-        "audio_dir": "write"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -429,7 +429,7 @@
         "answer": "drop",
         "goal_words": "drop",
         "audio_filename": "line_en_744.mp3",
-        "audio_dir": "drop"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -447,29 +447,11 @@
         "answer": "throw",
         "goal_words": "throw",
         "audio_filename": "line4_en_434.mp3",
-        "audio_dir": "throw"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
-        "image_filename": "throw_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "2 verbos de acción",
-        "native_answer": "tirar a la basura",
-        "native_word": "verbo - objeto",
-        "tag": "verbo - objeto",
-        "prompt": "______",
-        "answer": "throw away",
-        "goal_words": "throw away",
-        "audio_filename": "line24jan26_3_en_6.mp3",
-        "audio_dir": "throw away"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "throw_m.jpg",
+        "image_filename": "sit.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -483,7 +465,7 @@
         "answer": "sit",
         "goal_words": "sit",
         "audio_filename": "line24jan26_3_en_8.mp3",
-        "audio_dir": "sit"
+        "learning_tag": "verb - self"
     },
     {
         "level": 2.0,
@@ -501,7 +483,7 @@
         "answer": "hold",
         "goal_words": "hold",
         "audio_filename": "line_en_1446.mp3",
-        "audio_dir": "hold"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -519,7 +501,7 @@
         "answer": "carry",
         "goal_words": "carry",
         "audio_filename": "line_en_442.mp3",
-        "audio_dir": "carry"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -537,7 +519,7 @@
         "answer": "grab",
         "goal_words": "grab",
         "audio_filename": "line_en_997.mp3",
-        "audio_dir": "grab"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -555,7 +537,7 @@
         "answer": "read",
         "goal_words": "read",
         "audio_filename": "line3_en_232.mp3",
-        "audio_dir": "read"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -573,7 +555,7 @@
         "answer": "to die, to live",
         "goal_words": "live",
         "audio_filename": "lineoct_en_1250.mp3",
-        "audio_dir": "to die, to live"
+        "learning_tag": "verb - self"
     },
     {
         "level": 2.0,
@@ -591,7 +573,7 @@
         "answer": "to die, to live",
         "goal_words": "die",
         "audio_filename": "lineoct_en_1249.mp3",
-        "audio_dir": "to die, to live"
+        "learning_tag": "verb - self"
     },
     {
         "level": 2.0,
@@ -609,7 +591,7 @@
         "answer": "cut",
         "goal_words": "cut",
         "audio_filename": "lineoct_en_173.mp3",
-        "audio_dir": "cut"
+        "learning_tag": "verb - object"
     },
     {
         "level": 2.0,
@@ -627,6 +609,24 @@
         "answer": "bite",
         "goal_words": "bite",
         "audio_filename": "lineoct_en_56.mp3",
-        "audio_dir": "bite"
+        "learning_tag": "verb - object"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "throw_away_m.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 verbos de acción",
+        "native_answer": "tirar a la basura",
+        "native_word": "verbo - objeto",
+        "tag": "verbo - objeto",
+        "prompt": "______",
+        "answer": "throw away",
+        "goal_words": "throw away",
+        "audio_filename": "line24jan26_3_en_6.mp3",
+        "learning_tag": "verb - object"
     }
 ]

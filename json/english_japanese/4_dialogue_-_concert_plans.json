@@ -15,7 +15,7 @@
         "answer": "素晴らしい",
         "goal_words": "素晴らしい",
         "audio_filename": "line4_ja_330.mp3",
-        "audio_dir": "素晴らしい"
+        "learning_tag": "形容詞 - 判断"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "エピック: 偉大さ、壮大さ、または非凡な影響を伝える。",
         "goal_words": "エピック",
         "audio_filename": "line_ja_482.mp3",
-        "audio_dir": "エピック: 偉大さ、壮大さ、または非凡な影響を伝える。"
+        "learning_tag": "形容詞 - 判断"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "良い仕事",
         "goal_words": "良い",
         "audio_filename": "line4_ja_428.mp3",
-        "audio_dir": "良い仕事"
+        "learning_tag": "形容詞 - 判断"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "最後のピザの一切れ",
         "goal_words": "最後の",
         "audio_filename": "line3_ja_617.mp3",
-        "audio_dir": "最後のピザの一切れ"
+        "learning_tag": "形容詞 - 時間"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "今日",
         "goal_words": "今日",
         "audio_filename": "line2_ja_296.mp3",
-        "audio_dir": "今日"
+        "learning_tag": "形容詞 - 時間"
     },
     {
         "level": 4.0,
@@ -101,11 +101,11 @@
         "native_answer": "already",
         "native_word": "adverb -  Time",
         "tag": "adverb -  Time",
-        "prompt": "______",
+        "prompt": "すでに",
         "answer": "すでに",
         "goal_words": "すでに",
         "audio_filename": "line_ja_716.mp3",
-        "audio_dir": "すでに"
+        "learning_tag": "副詞 - 時間"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "絶対に: 疑いなく",
         "goal_words": "絶対に",
         "audio_filename": "line4_ja_342.mp3",
-        "audio_dir": "絶対に: 疑いなく"
+        "learning_tag": "副詞 - 判断"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "頭",
         "goal_words": "頭",
         "audio_filename": "line4_ja_843.mp3",
-        "audio_dir": "頭"
+        "learning_tag": "身体の部位"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "チェック",
         "goal_words": "チェック",
         "audio_filename": "line_ja_832.mp3",
-        "audio_dir": "チェック"
+        "learning_tag": "食べ物"
     },
     {
         "level": 4.0,
@@ -177,25 +177,7 @@
         "answer": "入り口",
         "goal_words": "入り口",
         "audio_filename": "line2_ja_366.mp3",
-        "audio_dir": "入り口"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "friend",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "______",
-        "answer": "友達",
-        "goal_words": "友達",
-        "audio_filename": "line2_ja_481.mp3",
-        "audio_dir": "友達"
+        "learning_tag": "名詞 - 建物と場所"
     },
     {
         "level": 4.0,
@@ -213,7 +195,7 @@
         "answer": "チームのラインナップ",
         "goal_words": "ラインナップ",
         "audio_filename": "line_ja_829.mp3",
-        "audio_dir": "チームのラインナップ"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -231,7 +213,7 @@
         "answer": "スポット",
         "goal_words": "スポット",
         "audio_filename": "line_ja_722.mp3",
-        "audio_dir": "スポット"
+        "learning_tag": "名詞 - 場所"
     },
     {
         "level": 4.0,
@@ -249,25 +231,7 @@
         "answer": "チケット",
         "goal_words": "チケット",
         "audio_filename": "line_ja_833.mp3",
-        "audio_dir": "チケット"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "time.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "Time",
-        "native_word": "noun - Time",
-        "tag": "noun - Time",
-        "prompt": "______",
-        "answer": "時間",
-        "goal_words": "時間",
-        "audio_filename": "line3_ja_593.mp3",
-        "audio_dir": "時間"
+        "learning_tag": "名詞 - 日常の物"
     },
     {
         "level": 4.0,
@@ -285,7 +249,7 @@
         "answer": "週",
         "goal_words": "週",
         "audio_filename": "line4_ja_673.mp3",
-        "audio_dir": "週"
+        "learning_tag": "名詞 - 時間"
     },
     {
         "level": 4.0,
@@ -303,7 +267,7 @@
         "answer": "週末",
         "goal_words": "週末",
         "audio_filename": "line4_ja_675.mp3",
-        "audio_dir": "週末"
+        "learning_tag": "名詞 - 時間"
     },
     {
         "level": 4.0,
@@ -321,25 +285,7 @@
         "answer": "コンサート",
         "goal_words": "コンサート",
         "audio_filename": "line_ja_620.mp3",
-        "audio_dir": "コンサート"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "door.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "door",
-        "native_word": "noun - Everyday Objects",
-        "tag": "noun - Everyday Objects",
-        "prompt": "______",
-        "answer": "ドア",
-        "goal_words": "ドア",
-        "audio_filename": "line_ja_865.mp3",
-        "audio_dir": "ドア"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -357,43 +303,7 @@
         "answer": "買う",
         "goal_words": "買う",
         "audio_filename": "line4_ja_619.mp3",
-        "audio_dir": "買う"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "get_gift_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "get a gift",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "ギフトを______",
-        "answer": "ギフトを手に入れる",
-        "goal_words": "手に入れる",
-        "audio_filename": "line_ja_564.mp3",
-        "audio_dir": "ギフトを手に入れる"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "go with her",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "彼女と一緒に______",
-        "answer": "彼女と一緒に行く",
-        "goal_words": "行く",
-        "audio_filename": "line3_ja_255.mp3",
-        "audio_dir": "彼女と一緒に行く"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 4.0,
@@ -411,7 +321,7 @@
         "answer": "つかむ",
         "goal_words": "つかむ",
         "audio_filename": "line_ja_846.mp3",
-        "audio_dir": "つかむ"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 4.0,
@@ -429,7 +339,7 @@
         "answer": "助ける",
         "goal_words": "助ける",
         "audio_filename": "line2_ja_434.mp3",
-        "audio_dir": "助ける"
+        "learning_tag": "動詞 - インタラクティブ"
     },
     {
         "level": 4.0,
@@ -447,7 +357,7 @@
         "answer": "ビジネスのために会う",
         "goal_words": "会う",
         "audio_filename": "line_ja_964.mp3",
-        "audio_dir": "ビジネスのために会う"
+        "learning_tag": "動詞 - インタラクティブ"
     },
     {
         "level": 4.0,
@@ -465,7 +375,7 @@
         "answer": "逃す",
         "goal_words": "逃す",
         "audio_filename": "line4_ja_662.mp3",
-        "audio_dir": "逃す"
+        "learning_tag": "動詞 - 感情"
     },
     {
         "level": 4.0,
@@ -483,7 +393,7 @@
         "answer": "開く",
         "goal_words": "開く",
         "audio_filename": "line4_ja_771.mp3",
-        "audio_dir": "開く"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
@@ -501,7 +411,7 @@
         "answer": "お金を見せる",
         "goal_words": "見せる",
         "audio_filename": "line_ja_526.mp3",
-        "audio_dir": "お金を見せる"
+        "learning_tag": "動詞 - インタラクティブ"
     },
     {
         "level": 4.0,
@@ -519,7 +429,7 @@
         "answer": "開始",
         "goal_words": "開始",
         "audio_filename": "line4_ja_772.mp3",
-        "audio_dir": "開始"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 4.0,
@@ -537,24 +447,6 @@
         "answer": "待つ",
         "goal_words": "待つ",
         "audio_filename": "line3_ja_370.mp3",
-        "audio_dir": "待つ"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "want_dog_food.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "want",
-        "native_word": "verb - feeling",
-        "tag": "verb - feeling",
-        "prompt": "______",
-        "answer": "欲しい",
-        "goal_words": "欲しい",
-        "audio_filename": "line3_ja_692.mp3",
-        "audio_dir": "欲しい"
+        "learning_tag": "動詞 - 自分自身"
     }
 ]

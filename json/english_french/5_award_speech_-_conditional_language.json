@@ -7,15 +7,15 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "Incredible means difficult to believe or extraordinary",
         "native_word": "adjective - judgement",
         "tag": "adjective - judgement",
-        "prompt": "______ signifie difficile à croire ou extraordinaire -",
+        "prompt": "incroyable signifie difficile à croire ou extraordinaire -",
         "answer": "incroyable signifie difficile à croire ou extraordinaire -",
         "goal_words": "incroyable",
         "audio_filename": "line2_fr_882.mp3",
-        "audio_dir": "incroyable signifie difficile à croire ou extraordinaire -"
+        "learning_tag": "adjectif - jugement"
     },
     {
         "level": 5.0,
@@ -25,15 +25,15 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "Crucial means extremely important or essential",
         "native_word": "adjective - judgement",
         "tag": "adjective - judgement",
-        "prompt": "______ signifie extrêmement important ou essentiel -",
+        "prompt": "crucial signifie extrêmement important ou essentiel -",
         "answer": "crucial signifie extrêmement important ou essentiel -",
         "goal_words": "crucial",
         "audio_filename": "line_fr_685.mp3",
-        "audio_dir": "crucial signifie extrêmement important ou essentiel -"
+        "learning_tag": "adjectif - jugement"
     },
     {
         "level": 5.0,
@@ -43,7 +43,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "Aspiring. having a strong desire or ambition to achieve something",
         "native_word": "adjective - Behavior",
         "tag": "adjective - Behavior",
@@ -51,7 +51,7 @@
         "answer": "aspirant se réfère à avoir un fort désir ou une ambition d'atteindre quelque chose -",
         "goal_words": "aspirant",
         "audio_filename": "line_fr_310.mp3",
-        "audio_dir": "aspirant se réfère à avoir un fort désir ou une ambition d'atteindre quelque chose -"
+        "learning_tag": "adjectif - Comportement"
     },
     {
         "level": 5.0,
@@ -61,7 +61,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "award for doing well",
         "native_word": "noun - Events",
         "tag": "noun - Events",
@@ -69,7 +69,7 @@
         "answer": "Une récompense pour bien faire",
         "goal_words": "récompense",
         "audio_filename": "line5_fr_662.mp3",
-        "audio_dir": "Une récompense pour bien faire"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -79,15 +79,15 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "journey: trip, travel from a to b",
         "native_word": "noun - Events",
         "tag": "noun - Events",
-        "prompt": "Un ______ : déplacement, ______r d'un point A à un point B",
-        "answer": "Un voyage : déplacement, voyager d'un point A à un point B",
-        "goal_words": "voyage",
+        "prompt": "Un ______ : déplacement, voyager d'un point A à un point B",
+        "answer": "Un voyage​ : déplacement, voyager d'un point A à un point B",
+        "goal_words": "voyage​",
         "audio_filename": "line5_fr_612.mp3",
-        "audio_dir": "Un voyage : déplacement, voyager d'un point A à un point B"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -97,7 +97,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "business team",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
@@ -105,25 +105,25 @@
         "answer": "Une équipe d'affaires",
         "goal_words": "équipe",
         "audio_filename": "line5_fr_635.mp3",
-        "audio_dir": "Une équipe d'affaires"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
         "image_filename": "vision_2.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "vision: the ability to see ahead",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
-        "prompt": "Une ______ : la capacité de voir loin",
+        "prompt": "Une vision : la capacité de voir loin",
         "answer": "Une vision : la capacité de voir loin",
         "goal_words": "vision",
         "audio_filename": "line5_fr_673.mp3",
-        "audio_dir": "Une vision : la capacité de voir loin"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -133,7 +133,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "to job was a success",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
@@ -141,7 +141,7 @@
         "answer": "Le travail a été un succès",
         "goal_words": "succès",
         "audio_filename": "line3_fr_846.mp3",
-        "audio_dir": "Le travail a été un succès"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -151,7 +151,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "getting to the top is a challenge",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
@@ -159,7 +159,7 @@
         "answer": "Atteindre le sommet est un défi",
         "goal_words": "défi",
         "audio_filename": "line_fr_322.mp3",
-        "audio_dir": "Atteindre le sommet est un défi"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -169,7 +169,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "mentor: a guide who offers advice and support",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
@@ -177,7 +177,7 @@
         "answer": "Un mentor : un guide qui offre des conseils et du soutien",
         "goal_words": "mentor",
         "audio_filename": "line5_fr_577.mp3",
-        "audio_dir": "Un mentor : un guide qui offre des conseils et du soutien"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -187,15 +187,15 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "online lesson for learning math",
         "native_word": "noun - Activities",
         "tag": "noun - Activities",
-        "prompt": "Une ______ en ligne pour apprendre les mathématiques",
+        "prompt": "Une leçon en ligne pour apprendre les mathématiques",
         "answer": "Une leçon en ligne pour apprendre les mathématiques",
         "goal_words": "leçon",
         "audio_filename": "line5_fr_650.mp3",
-        "audio_dir": "Une leçon en ligne pour apprendre les mathématiques"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -205,7 +205,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "audience at a concert",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
@@ -213,7 +213,7 @@
         "answer": "Un public lors d'un concert",
         "goal_words": "public",
         "audio_filename": "line5_fr_593.mp3",
-        "audio_dir": "Un public lors d'un concert"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -223,7 +223,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "milestone",
         "native_word": "noun - Time & Measurement",
         "tag": "noun - Time & Measurement",
@@ -231,7 +231,7 @@
         "answer": "Un jalon",
         "goal_words": "jalon",
         "audio_filename": "line5_fr_570.mp3",
-        "audio_dir": "Un jalon"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -241,7 +241,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "piece of the cake",
         "native_word": "noun - Everyday Objects",
         "tag": "noun - Everyday Objects",
@@ -249,7 +249,7 @@
         "answer": "Un morceau de gâteau",
         "goal_words": "morceau",
         "audio_filename": "line5_fr_580.mp3",
-        "audio_dir": "Un morceau de gâteau"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -259,7 +259,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "mentors give advice",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
@@ -267,7 +267,7 @@
         "answer": "Les mentors donnent des conseils",
         "goal_words": "conseils",
         "audio_filename": "line3_fr_914.mp3",
-        "audio_dir": "Les mentors donnent des conseils"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -277,7 +277,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "each individual flower is different",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
@@ -285,7 +285,7 @@
         "answer": "Chaque fleur individuelle est différente",
         "goal_words": "individuelle",
         "audio_filename": "line_fr_559.mp3",
-        "audio_dir": "Chaque fleur individuelle est différente"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -295,7 +295,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "the path has many obstacles in the way",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
@@ -303,7 +303,7 @@
         "answer": "Le chemin a de nombreux obstacles sur son passage",
         "goal_words": "obstacles",
         "audio_filename": "line3_fr_638.mp3",
-        "audio_dir": "Le chemin a de nombreux obstacles sur son passage"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -313,15 +313,15 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "to show honor to the flag",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
-        "prompt": "rendre ______à la drapeau",
+        "prompt": "rendre ______ à la drapeau",
         "answer": "rendre hommage à la drapeau",
-        "goal_words": "hommage ",
+        "goal_words": "hommage",
         "audio_filename": "line4_fr_838.mp3",
-        "audio_dir": "rendre hommage à la drapeau"
+        "learning_tag": "Nom"
     },
     {
         "level": 5.0,
@@ -331,7 +331,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "expect a flower",
         "native_word": "verb - evaluate",
         "tag": "verb - evaluate",
@@ -339,7 +339,7 @@
         "answer": "attendre une fleur -",
         "goal_words": "attendre",
         "audio_filename": "line_fr_328.mp3",
-        "audio_dir": "attendre une fleur -"
+        "learning_tag": "verbe - évaluer"
     },
     {
         "level": 5.0,
@@ -349,7 +349,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "lead a group",
         "native_word": "verb - interactive",
         "tag": "verb - interactive",
@@ -357,7 +357,7 @@
         "answer": "diriger un groupe -",
         "goal_words": "diriger",
         "audio_filename": "line_fr_815.mp3",
-        "audio_dir": "diriger un groupe -"
+        "learning_tag": "verbe - interactif"
     },
     {
         "level": 5.0,
@@ -367,7 +367,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "work construction",
         "native_word": "verb - self",
         "tag": "verb - self",
@@ -375,7 +375,7 @@
         "answer": "travail dans la construction -",
         "goal_words": "travail",
         "audio_filename": "line5_fr_229.mp3",
-        "audio_dir": "travail dans la construction -"
+        "learning_tag": "verbe - soi"
     },
     {
         "level": 5.0,
@@ -385,7 +385,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "support: to keep from falling",
         "native_word": "verb - interactive",
         "tag": "verb - interactive",
@@ -393,7 +393,7 @@
         "answer": "soutien : empêcher de tomber -",
         "goal_words": "soutien",
         "audio_filename": "line5_fr_91.mp3",
-        "audio_dir": "soutien : empêcher de tomber -"
+        "learning_tag": "verbe - interactif"
     },
     {
         "level": 5.0,
@@ -403,15 +403,15 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "Struggle is a difficult effort to overcome challenge",
         "native_word": "verb - self",
         "tag": "verb - self",
-        "prompt": "la ______ est un effort difficile pour surmonter un défi -",
+        "prompt": "la lutte est un effort difficile pour surmonter un défi -",
         "answer": "la lutte est un effort difficile pour surmonter un défi -",
         "goal_words": "lutte",
         "audio_filename": "line3_fr_460.mp3",
-        "audio_dir": "la lutte est un effort difficile pour surmonter un défi -"
+        "learning_tag": "verbe - soi"
     },
     {
         "level": 5.0,
@@ -421,7 +421,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "a mentor guides their mentee",
         "native_word": "verb - communication",
         "tag": "verb - communication",
@@ -429,7 +429,7 @@
         "answer": "un mentor guide son mentoré -",
         "goal_words": "guide",
         "audio_filename": "line5_fr_578.mp3",
-        "audio_dir": "un mentor guide son mentoré -"
+        "learning_tag": "verbe - communication"
     },
     {
         "level": 5.0,
@@ -439,7 +439,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "to miss the target",
         "native_word": "verb - feeling",
         "tag": "verb - feeling",
@@ -447,7 +447,7 @@
         "answer": "rater la cible -",
         "goal_words": "rater",
         "audio_filename": "line4_fr_804.mp3",
-        "audio_dir": "rater la cible -"
+        "learning_tag": "verbe - sentiment"
     },
     {
         "level": 5.0,
@@ -457,7 +457,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "to reach for the moon",
         "native_word": "verb - movement",
         "tag": "verb - movement",
@@ -465,7 +465,7 @@
         "answer": "tendre la main vers la lune -",
         "goal_words": "tendre",
         "audio_filename": "line5_fr_129.mp3",
-        "audio_dir": "tendre la main vers la lune -"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 5.0,
@@ -475,7 +475,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "To face an opponent means to confront or meet them directly",
         "native_word": "verb - object",
         "tag": "verb - object",
@@ -483,7 +483,7 @@
         "answer": "faire face à un adversaire signifie le confronter ou le rencontrer directement - faire",
         "goal_words": "face",
         "audio_filename": "line2_fr_197.mp3",
-        "audio_dir": "faire face à un adversaire signifie le confronter ou le rencontrer directement - faire"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 5.0,
@@ -493,7 +493,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "Doubt is a feeling of uncertainty",
         "native_word": "verb - mental",
         "tag": "verb - mental",
@@ -501,7 +501,7 @@
         "answer": "le doute est un sentiment d'incertitude -",
         "goal_words": "doute",
         "audio_filename": "line3_fr_680.mp3",
-        "audio_dir": "le doute est un sentiment d'incertitude -"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 5.0,
@@ -511,7 +511,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "pay off is to yield a beneficial result or reward from an investment",
         "native_word": "verb - evaluate",
         "tag": "verb - evaluate",
@@ -519,7 +519,7 @@
         "answer": "rembourser signifie générer un résultat ou une récompense bénéfique d'un investissement -",
         "goal_words": "rembourser",
         "audio_filename": "line4_fr_834.mp3",
-        "audio_dir": "rembourser signifie générer un résultat ou une récompense bénéfique d'un investissement -"
+        "learning_tag": "verbe - évaluer"
     },
     {
         "level": 5.0,
@@ -529,7 +529,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "share",
         "native_word": "verb - interactive",
         "tag": "verb - interactive",
@@ -537,7 +537,7 @@
         "answer": "partager -",
         "goal_words": "partager",
         "audio_filename": "line4_fr_553.mp3",
-        "audio_dir": "partager -"
+        "learning_tag": "verbe - interactif"
     },
     {
         "level": 5.0,
@@ -547,7 +547,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "continue straight",
         "native_word": "verb - change",
         "tag": "verb - change",
@@ -555,7 +555,7 @@
         "answer": "continuer tout droit -",
         "goal_words": "continuer",
         "audio_filename": "line_fr_662.mp3",
-        "audio_dir": "continuer tout droit -"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 5.0,
@@ -565,7 +565,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "french",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "achieve an award",
         "native_word": "verb - self",
         "tag": "verb - self",
@@ -573,6 +573,6 @@
         "answer": "obtenir une récompense -",
         "goal_words": "obtenir",
         "audio_filename": "line4_fr_396.mp3",
-        "audio_dir": "obtenir une récompense -"
+        "learning_tag": "verbe - soi"
     }
 ]

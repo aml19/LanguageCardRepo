@@ -2,7 +2,7 @@
     {
         "level": 4.0,
         "image_filename": "sure.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -11,11 +11,11 @@
         "native_answer": "sure: confident in what one thinks or knows",
         "native_word": "adjective -  Judgment",
         "tag": "adjective -  Judgment",
-        "prompt": "______：思考または知識に自信がある",
+        "prompt": "確か：思考または知識に自信がある",
         "answer": "確か：思考または知識に自信がある",
         "goal_words": "確か",
         "audio_filename": "line3_ja_943.mp3",
-        "audio_dir": "確か：思考または知識に自信がある"
+        "learning_tag": "形容詞 - 判断"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "準備、セット、行く",
         "goal_words": "準備",
         "audio_filename": "line3_ja_807.mp3",
-        "audio_dir": "準備、セット、行く"
+        "learning_tag": "形容詞 - 状態"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "緊張",
         "goal_words": "緊張",
         "audio_filename": "line4_ja_345.mp3",
-        "audio_dir": "緊張"
+        "learning_tag": "形容詞 - 感情を感じる"
     },
     {
         "level": 4.0,
@@ -65,11 +65,11 @@
         "native_answer": "capable: having the ability",
         "native_word": "adjective -  Judgment",
         "tag": "adjective -  Judgment",
-        "prompt": "______：能力を持っています",
+        "prompt": "能力がある：能力を持っています",
         "answer": "能力がある：能力を持っています",
         "goal_words": "能力がある",
         "audio_filename": "line4_ja_394.mp3",
-        "audio_dir": "能力がある：能力を持っています"
+        "learning_tag": "形容詞 - 判断"
     },
     {
         "level": 4.0,
@@ -83,11 +83,11 @@
         "native_answer": "really big robot - used for emphasis",
         "native_word": "adverb",
         "tag": "adverb",
-        "prompt": "______大きなロボット - 強調用",
+        "prompt": "本当に大きなロボット - 強調用",
         "answer": "本当に大きなロボット - 強調用",
         "goal_words": "本当に",
         "audio_filename": "line3_ja_644.mp3",
-        "audio_dir": "本当に大きなロボット - 強調用"
+        "learning_tag": "副詞"
     },
     {
         "level": 4.0,
@@ -101,11 +101,11 @@
         "native_answer": "Just",
         "native_word": "adverb",
         "tag": "adverb",
-        "prompt": "______",
+        "prompt": "ちょうど",
         "answer": "ちょうど",
         "goal_words": "ちょうど",
         "audio_filename": "line_ja_836.mp3",
-        "audio_dir": "ちょうど"
+        "learning_tag": "副詞"
     },
     {
         "level": 4.0,
@@ -119,11 +119,11 @@
         "native_answer": "Well",
         "native_word": "adverb -  Manner",
         "tag": "adverb -  Manner",
-        "prompt": "______",
+        "prompt": "上手に",
         "answer": "上手に",
         "goal_words": "上手に",
         "audio_filename": "line2_ja_236.mp3",
-        "audio_dir": "上手に"
+        "learning_tag": "副詞 - マナー"
     },
     {
         "level": 4.0,
@@ -137,11 +137,11 @@
         "native_answer": "Okay",
         "native_word": "adverb -  Manner",
         "tag": "adverb -  Manner",
-        "prompt": "______",
+        "prompt": "大丈夫",
         "answer": "大丈夫",
         "goal_words": "大丈夫",
         "audio_filename": "line2_ja_712.mp3",
-        "audio_dir": "大丈夫"
+        "learning_tag": "副詞 - マナー"
     },
     {
         "level": 4.0,
@@ -155,47 +155,11 @@
         "native_answer": "Whatever",
         "native_word": "adverb -  judgement",
         "tag": "adverb -  judgement",
-        "prompt": "______",
+        "prompt": "どんな",
         "answer": "どんな",
         "goal_words": "どんな",
         "audio_filename": "line_ja_887.mp3",
-        "audio_dir": "どんな"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "mom.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "Mom",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "______",
-        "answer": "お母さん",
-        "goal_words": "お母さん",
-        "audio_filename": "line_ja_520.mp3",
-        "audio_dir": "お母さん"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "dad.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "Dad",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "______ - 赤ちゃんを抱いている",
-        "answer": "お父さん - 赤ちゃんを抱いている",
-        "goal_words": "お父さん",
-        "audio_filename": "line_ja_522.mp3",
-        "audio_dir": "お父さん - 赤ちゃんを抱いている"
+        "learning_tag": "副詞 - 判断"
     },
     {
         "level": 4.0,
@@ -213,7 +177,7 @@
         "answer": "箱の中に何か",
         "goal_words": "何か",
         "audio_filename": "line4_ja_316.mp3",
-        "audio_dir": "箱の中に何か"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -231,7 +195,7 @@
         "answer": "心：人々が世界とその経験を認識するのに役立つ要素",
         "goal_words": "心",
         "audio_filename": "line3_ja_400.mp3",
-        "audio_dir": "心：人々が世界とその経験を認識するのに役立つ要素"
+        "learning_tag": "名詞 - 体の部分"
     },
     {
         "level": 4.0,
@@ -249,7 +213,7 @@
         "answer": "助言：将来の慎重な行動に関して提供される指示または推奨。",
         "goal_words": "助言",
         "audio_filename": "line2_ja_436.mp3",
-        "audio_dir": "助言：将来の慎重な行動に関して提供される指示または推奨。"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -267,7 +231,7 @@
         "answer": "インターンシップ：組織で働く学生または見習いの立場",
         "goal_words": "インターンシップ",
         "audio_filename": "line_ja_450.mp3",
-        "audio_dir": "インターンシップ：組織で働く学生または見習いの立場"
+        "learning_tag": "名詞 - 活動"
     },
     {
         "level": 4.0,
@@ -285,7 +249,7 @@
         "answer": "機会: 何かを可能にする状況",
         "goal_words": "機会",
         "audio_filename": "line3_ja_687.mp3",
-        "audio_dir": "機会: 何かを可能にする状況"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -303,7 +267,7 @@
         "answer": "作業量：誰かまたは何かによって行われるべき仕事の量。",
         "goal_words": "作業量",
         "audio_filename": "line2_ja_321.mp3",
-        "audio_dir": "作業量：誰かまたは何かによって行われるべき仕事の量。"
+        "learning_tag": "名詞 - 時間と測定"
     },
     {
         "level": 4.0,
@@ -321,7 +285,7 @@
         "answer": "決定：選択",
         "goal_words": "決定",
         "audio_filename": "line3_ja_750.mp3",
-        "audio_dir": "決定：選択"
+        "learning_tag": "名詞 - アイデアとコンセプト"
     },
     {
         "level": 4.0,
@@ -339,7 +303,7 @@
         "answer": "助けが必要",
         "goal_words": "必要",
         "audio_filename": "line2_ja_432.mp3",
-        "audio_dir": "助けが必要"
+        "learning_tag": "動詞 - 評価する"
     },
     {
         "level": 4.0,
@@ -357,7 +321,7 @@
         "answer": "問題を彼の考えに",
         "goal_words": "問題",
         "audio_filename": "line2_ja_645.mp3",
-        "audio_dir": "問題を彼の考えに"
+        "learning_tag": "動詞 - 効果"
     },
     {
         "level": 4.0,
@@ -375,7 +339,7 @@
         "answer": "考える",
         "goal_words": "考える",
         "audio_filename": "line4_ja_379.mp3",
-        "audio_dir": "考える"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 4.0,
@@ -393,7 +357,7 @@
         "answer": "適用するメイク",
         "goal_words": "適用する",
         "audio_filename": "line4_ja_706.mp3",
-        "audio_dir": "適用するメイク"
+        "learning_tag": "動詞 - 効果"
     },
     {
         "level": 4.0,
@@ -411,7 +375,7 @@
         "answer": "彼女と一緒に行く",
         "goal_words": "行く",
         "audio_filename": "line3_ja_255.mp3",
-        "audio_dir": "彼女と一緒に行く"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 4.0,
@@ -429,7 +393,7 @@
         "answer": "持つ",
         "goal_words": "持つ",
         "audio_filename": "line3_ja_500.mp3",
-        "audio_dir": "持つ"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 4.0,
@@ -443,11 +407,11 @@
         "native_answer": "handle: manage (a situation or problem).",
         "native_word": "verb - object",
         "tag": "verb - object",
-        "prompt": "______：（状況や問題を）______。",
-        "answer": "処理する：（状況や問題を）処理する。",
-        "goal_words": "処理する",
+        "prompt": "______：（状況や問題を）処理する。",
+        "answer": "処理する​：（状況や問題を）処理する。",
+        "goal_words": "処理する​",
         "audio_filename": "line2_ja_404.mp3",
-        "audio_dir": "処理する：（状況や問題を）処理する。"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 4.0,
@@ -465,7 +429,7 @@
         "answer": "覚えている",
         "goal_words": "覚えている",
         "audio_filename": "line4_ja_501.mp3",
-        "audio_dir": "覚えている"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 4.0,
@@ -483,12 +447,12 @@
         "answer": "水を感じる",
         "goal_words": "感じる",
         "audio_filename": "line3_ja_735.mp3",
-        "audio_dir": "水を感じる"
+        "learning_tag": "動詞 - 知覚"
     },
     {
         "level": 4.0,
         "image_filename": "underestimate.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -497,11 +461,11 @@
         "native_answer": "underestimate: to place too low a value on : underrate",
         "native_word": "verb - mental",
         "tag": "verb - mental",
-        "prompt": "______：低い値を置く：______",
-        "answer": "過小評価する：低い値を置く：過小評価する",
-        "goal_words": "過小評価する",
+        "prompt": "過小評価する​：低い値を置く：過小評価する",
+        "answer": "過小評価する​：低い値を置く：過小評価する",
+        "goal_words": "過小評価する​",
         "audio_filename": "line4_ja_694.mp3",
-        "audio_dir": "過小評価する：低い値を置く：過小評価する"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 4.0,
@@ -519,7 +483,7 @@
         "answer": "信じる：真実を受け入れる；真実を確信する。",
         "goal_words": "信じる",
         "audio_filename": "line2_ja_331.mp3",
-        "audio_dir": "信じる：真実を受け入れる；真実を確信する。"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 4.0,
@@ -537,24 +501,6 @@
         "answer": "サポート：全体または一部の重みを支える；持ち上げる。",
         "goal_words": "サポート",
         "audio_filename": "line_ja_637.mp3",
-        "audio_dir": "サポート：全体または一部の重みを支える；持ち上げる。"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "make",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "作る",
-        "goal_words": "作る",
-        "audio_filename": "line2_ja_319.mp3",
-        "audio_dir": "作る"
+        "learning_tag": "動詞 - インタラクティブ"
     }
 ]

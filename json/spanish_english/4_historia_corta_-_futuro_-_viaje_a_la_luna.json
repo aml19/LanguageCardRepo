@@ -1,42 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "moon.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 historia corta - futuro - viaje a la luna",
-        "native_answer": "luna",
-        "native_word": "cosas de todos los días",
-        "tag": "cosas de todos los días",
-        "prompt": "______",
-        "answer": "moon",
-        "goal_words": "moon",
-        "audio_filename": "line2_en_642.mp3",
-        "audio_dir": "moon"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "person.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 historia corta - futuro - viaje a la luna",
-        "native_answer": "Una persona",
-        "native_word": "sustantivo - Personas y roles",
-        "tag": "sustantivo - Personas y roles",
-        "prompt": "______",
-        "answer": "Person",
-        "goal_words": "Person",
-        "audio_filename": "line3_en_109.mp3",
-        "audio_dir": "Person"
-    },
-    {
-        "level": 4.0,
         "image_filename": "road_trip.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -51,7 +15,7 @@
         "answer": "Trip",
         "goal_words": "Trip",
         "audio_filename": "line4_en_589.mp3",
-        "audio_dir": "Trip"
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
@@ -69,7 +33,7 @@
         "answer": "gravity: the force that attracts a body toward the center of the earth",
         "goal_words": "gravity",
         "audio_filename": "line_en_1009.mp3",
-        "audio_dir": "gravity: the force that attracts a body toward the center of the earth"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -87,7 +51,7 @@
         "answer": "Earth",
         "goal_words": "Earth",
         "audio_filename": "line_en_761.mp3",
-        "audio_dir": "Earth"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -105,7 +69,7 @@
         "answer": "there are many things in space",
         "goal_words": "space",
         "audio_filename": "line4_en_63.mp3",
-        "audio_dir": "there are many things in space"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -123,43 +87,7 @@
         "answer": "ride for a thrill",
         "goal_words": "thrill",
         "audio_filename": "line3_en_289.mp3",
-        "audio_dir": "ride for a thrill"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "foot.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 historia corta - futuro - viaje a la luna",
-        "native_answer": "Un pie",
-        "native_word": "sustantivo - Partes del cuerpo",
-        "tag": "sustantivo - Partes del cuerpo",
-        "prompt": "______",
-        "answer": "Foot",
-        "goal_words": "Foot",
-        "audio_filename": "line_en_908.mp3",
-        "audio_dir": "Foot"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "body.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 historia corta - futuro - viaje a la luna",
-        "native_answer": "Un cuerpo",
-        "native_word": "sustantivo - Partes del cuerpo",
-        "tag": "sustantivo - Partes del cuerpo",
-        "prompt": "______",
-        "answer": "Body",
-        "goal_words": "Body",
-        "audio_filename": "line_en_315.mp3",
-        "audio_dir": "Body"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 4.0,
@@ -177,7 +105,7 @@
         "answer": "History",
         "goal_words": "History",
         "audio_filename": "line_en_1440.mp3",
-        "audio_dir": "History"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -195,7 +123,7 @@
         "answer": "surface of the moon",
         "goal_words": "surface",
         "audio_filename": "line3_en_917.mp3",
-        "audio_dir": "surface of the moon"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -213,7 +141,7 @@
         "answer": "doing an experiment",
         "goal_words": "experiment",
         "audio_filename": "line_en_688.mp3",
-        "audio_dir": "doing an experiment"
+        "learning_tag": "noun - Activities"
     },
     {
         "level": 4.0,
@@ -231,7 +159,7 @@
         "answer": "each animal in its habitat",
         "goal_words": "habitat",
         "audio_filename": "line_en_754.mp3",
-        "audio_dir": "each animal in its habitat"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -249,7 +177,7 @@
         "answer": "on an adventure",
         "goal_words": "adventure",
         "audio_filename": "line3_en_20.mp3",
-        "audio_dir": "on an adventure"
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
@@ -267,7 +195,7 @@
         "answer": "lifetime going from young to old",
         "goal_words": "lifetime",
         "audio_filename": "line2_en_516.mp3",
-        "audio_dir": "lifetime going from young to old"
+        "learning_tag": "noun - Time & Measurement"
     },
     {
         "level": 4.0,
@@ -281,11 +209,11 @@
         "native_answer": "Un pionero americano yendo al oeste",
         "native_word": "sustantivo - Personas y roles",
         "tag": "sustantivo - Personas y roles",
-        "prompt": "american ______ going west",
+        "prompt": "american pioneer going west",
         "answer": "american pioneer going west",
         "goal_words": "pioneer",
         "audio_filename": "line_en_150.mp3",
-        "audio_dir": "american pioneer going west"
+        "learning_tag": "noun - People & Roles"
     },
     {
         "level": 4.0,
@@ -303,7 +231,7 @@
         "answer": "exploration: the action of traveling in or through an unfamiliar area in order to learn about it.",
         "goal_words": "exploration",
         "audio_filename": "line_en_831.mp3",
-        "audio_dir": "exploration: the action of traveling in or through an unfamiliar area in order to learn about it."
+        "learning_tag": "noun - Activities"
     },
     {
         "level": 4.0,
@@ -321,7 +249,7 @@
         "answer": "a long journey ahead",
         "goal_words": "journey",
         "audio_filename": "line_en_74.mp3",
-        "audio_dir": "a long journey ahead"
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
@@ -339,7 +267,7 @@
         "answer": "step",
         "goal_words": "step",
         "audio_filename": "line3_en_858.mp3",
-        "audio_dir": "step"
+        "learning_tag": "noun - Actions"
     },
     {
         "level": 4.0,
@@ -357,25 +285,7 @@
         "answer": "believe: accept (something) as true; feel sure of the truth of.",
         "goal_words": "believe",
         "audio_filename": "line_en_283.mp3",
-        "audio_dir": "believe: accept (something) as true; feel sure of the truth of."
-    },
-    {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 historia corta - futuro - viaje a la luna",
-        "native_answer": "ir con ella",
-        "native_word": "verbo - movimiento",
-        "tag": "verbo - movimiento",
-        "prompt": "to ______ with her",
-        "answer": "to go with her",
-        "goal_words": "go",
-        "audio_filename": "line4_en_490.mp3",
-        "audio_dir": "to go with her"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -393,7 +303,7 @@
         "answer": "Dream",
         "goal_words": "Dream",
         "audio_filename": "line_en_729.mp3",
-        "audio_dir": "Dream"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -411,43 +321,7 @@
         "answer": "experience virtual reality",
         "goal_words": "experience",
         "audio_filename": "line_en_829.mp3",
-        "audio_dir": "experience virtual reality"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "see.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 historia corta - futuro - viaje a la luna",
-        "native_answer": "Ver",
-        "native_word": "verbo - percepción",
-        "tag": "verbo - percepción",
-        "prompt": "______",
-        "answer": "See",
-        "goal_words": "See",
-        "audio_filename": "line3_en_401.mp3",
-        "audio_dir": "See"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "wait.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 historia corta - futuro - viaje a la luna",
-        "native_answer": "esperar",
-        "native_word": "verbo - yo",
-        "tag": "verbo - yo",
-        "prompt": "______",
-        "answer": "wait",
-        "goal_words": "wait",
-        "audio_filename": "line4_en_663.mp3",
-        "audio_dir": "wait"
+        "learning_tag": "verb - perception"
     },
     {
         "level": 4.0,
@@ -465,7 +339,7 @@
         "answer": "explore a new world",
         "goal_words": "explore",
         "audio_filename": "line_en_832.mp3",
-        "audio_dir": "explore a new world"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -483,24 +357,6 @@
         "answer": "conduct a band",
         "goal_words": "conduct",
         "audio_filename": "line_en_536.mp3",
-        "audio_dir": "conduct a band"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 historia corta - futuro - viaje a la luna",
-        "native_answer": "hacer",
-        "native_word": "verbo - objeto",
-        "tag": "verbo - objeto",
-        "prompt": "______",
-        "answer": "make",
-        "goal_words": "make",
-        "audio_filename": "line2_en_575.mp3",
-        "audio_dir": "make"
+        "learning_tag": "verb - effect"
     }
 ]

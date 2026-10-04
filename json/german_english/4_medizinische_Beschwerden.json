@@ -1,0 +1,38 @@
+[
+    {
+        "level": 4.0,
+        "image_filename": "hairbrush.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "4 medizinische Beschwerden",
+        "native_answer": "Haarbürste",
+        "native_word": "Haar",
+        "tag": "Haar",
+        "prompt": "______",
+        "answer": "hairbrush",
+        "goal_words": "hairbrush",
+        "audio_filename": "line10June26_en_134.mp3",
+        "learning_tag": "hair"
+    },
+    {
+        "level": 4.0,
+        "image_filename": "comb.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "4 medizinische Beschwerden",
+        "native_answer": "ein Kamm",
+        "native_word": "Haar",
+        "tag": "Haar",
+        "prompt": "______",
+        "answer": "a comb",
+        "goal_words": "a comb",
+        "audio_filename": "line10June26_en_3.mp3",
+        "learning_tag": "hair"
+    }
+]

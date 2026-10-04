@@ -2,7 +2,7 @@
     {
         "level": 4.0,
         "image_filename": "sure.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -11,11 +11,11 @@
         "native_answer": "sure: confident in what one thinks or knows",
         "native_word": "adjective -  Judgment",
         "tag": "adjective -  Judgment",
-        "prompt": "______: confiado en lo que uno piensa o sabe",
+        "prompt": "seguro: confiado en lo que uno piensa o sabe",
         "answer": "seguro: confiado en lo que uno piensa o sabe",
         "goal_words": "seguro",
         "audio_filename": "line4_es_876.mp3",
-        "audio_dir": "seguro: confiado en lo que uno piensa o sabe"
+        "learning_tag": "adjetivo - juicio"
     },
     {
         "level": 4.0,
@@ -29,11 +29,11 @@
         "native_answer": "ready, set, go",
         "native_word": "adjective -  Condition",
         "tag": "adjective -  Condition",
-        "prompt": "______, preparado, ______, ya",
-        "answer": "listo, preparado, listo, ya",
+        "prompt": "______, preparado, ya",
+        "answer": "listo, preparado, ya",
         "goal_words": "listo",
-        "audio_filename": "line3_es_853.mp3",
-        "audio_dir": "listo, preparado, listo, ya"
+        "audio_filename": "line3sep2026_es_2.mp3",
+        "learning_tag": "adjetivo - Condición"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "nervioso",
         "goal_words": "nervioso",
         "audio_filename": "line4_es_82.mp3",
-        "audio_dir": "nervioso"
+        "learning_tag": "adjetivo - Sentir emoción"
     },
     {
         "level": 4.0,
@@ -65,11 +65,11 @@
         "native_answer": "capable: having the ability",
         "native_word": "adjective -  Judgment",
         "tag": "adjective -  Judgment",
-        "prompt": "______: teniendo la capacidad",
+        "prompt": "capaz: teniendo la capacidad",
         "answer": "capaz: teniendo la capacidad",
         "goal_words": "capaz",
         "audio_filename": "line_es_523.mp3",
-        "audio_dir": "capaz: teniendo la capacidad"
+        "learning_tag": "adjetivo - juicio"
     },
     {
         "level": 4.0,
@@ -83,11 +83,11 @@
         "native_answer": "really big robot - used for emphasis",
         "native_word": "adverb",
         "tag": "adverb",
-        "prompt": "robot ______ grande - usado para enfatizar",
+        "prompt": "robot realmente grande - usado para enfatizar",
         "answer": "robot realmente grande - usado para enfatizar",
         "goal_words": "realmente",
         "audio_filename": "line4_es_770.mp3",
-        "audio_dir": "robot realmente grande - usado para enfatizar"
+        "learning_tag": "adverbio - Grado"
     },
     {
         "level": 4.0,
@@ -101,11 +101,11 @@
         "native_answer": "Just",
         "native_word": "adverb",
         "tag": "adverb",
-        "prompt": "______",
+        "prompt": "Solo",
         "answer": "Solo",
         "goal_words": "Solo",
         "audio_filename": "line4_es_956.mp3",
-        "audio_dir": "Solo"
+        "learning_tag": "adverbio - Grado"
     },
     {
         "level": 4.0,
@@ -119,11 +119,11 @@
         "native_answer": "Well",
         "native_word": "adverb -  Manner",
         "tag": "adverb -  Manner",
-        "prompt": "______",
+        "prompt": "Bueno",
         "answer": "Bueno",
         "goal_words": "Bueno",
         "audio_filename": "line_es_464.mp3",
-        "audio_dir": "Bueno"
+        "learning_tag": "adverbio - manera"
     },
     {
         "level": 4.0,
@@ -137,11 +137,11 @@
         "native_answer": "Okay",
         "native_word": "adverb -  Manner",
         "tag": "adverb -  Manner",
-        "prompt": "______",
+        "prompt": "De acuerdo",
         "answer": "De acuerdo",
         "goal_words": "De acuerdo",
         "audio_filename": "line_es_725.mp3",
-        "audio_dir": "De acuerdo"
+        "learning_tag": "adverbio - manera"
     },
     {
         "level": 4.0,
@@ -155,47 +155,11 @@
         "native_answer": "Whatever",
         "native_word": "adverb -  judgement",
         "tag": "adverb -  judgement",
-        "prompt": "______",
+        "prompt": "Lo que sea",
         "answer": "Lo que sea",
         "goal_words": "Lo que sea",
         "audio_filename": "line3_es_879.mp3",
-        "audio_dir": "Lo que sea"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "mom.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "Mom",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "La ______",
-        "answer": "La mamá",
-        "goal_words": "mamá",
-        "audio_filename": "line3_es_663.mp3",
-        "audio_dir": "La mamá"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "dad.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "Dad",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "El ______",
-        "answer": "El papá",
-        "goal_words": "papá",
-        "audio_filename": "line2_es_227.mp3",
-        "audio_dir": "El papá"
+        "learning_tag": "adverbio - juicio"
     },
     {
         "level": 4.0,
@@ -213,7 +177,7 @@
         "answer": "Algo en la caja",
         "goal_words": "Algo",
         "audio_filename": "line_es_325.mp3",
-        "audio_dir": "Algo en la caja"
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
         "level": 4.0,
@@ -231,7 +195,7 @@
         "answer": "La mente: el elemento de una persona que le permite ser consciente del mundo y sus experiencias",
         "goal_words": "mente",
         "audio_filename": "line3_es_673.mp3",
-        "audio_dir": "La mente: el elemento de una persona que le permite ser consciente del mundo y sus experiencias"
+        "learning_tag": "sustantivo - Partes del cuerpo"
     },
     {
         "level": 4.0,
@@ -249,7 +213,7 @@
         "answer": "El consejo: orientación o recomendaciones ofrecidas con respecto a una acción prudente futura.",
         "goal_words": "consejo",
         "audio_filename": "line_es_998.mp3",
-        "audio_dir": "El consejo: orientación o recomendaciones ofrecidas con respecto a una acción prudente futura."
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
         "level": 4.0,
@@ -267,7 +231,7 @@
         "answer": "Las prácticas: la posición de un estudiante o aprendiz que trabaja en una organización",
         "goal_words": "prácticas",
         "audio_filename": "line3_es_829.mp3",
-        "audio_dir": "Las prácticas: la posición de un estudiante o aprendiz que trabaja en una organización"
+        "learning_tag": "sustantivo - actividades"
     },
     {
         "level": 4.0,
@@ -285,7 +249,7 @@
         "answer": "La oportunidad: una serie de circunstancias que hacen posible hacer algo.",
         "goal_words": "oportunidad",
         "audio_filename": "line3_es_697.mp3",
-        "audio_dir": "La oportunidad: una serie de circunstancias que hacen posible hacer algo."
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
         "level": 4.0,
@@ -303,7 +267,7 @@
         "answer": "La carga de trabajo: la cantidad de trabajo que debe hacer alguien o algo.",
         "goal_words": "carga de trabajo",
         "audio_filename": "line3_es_552.mp3",
-        "audio_dir": "La carga de trabajo: la cantidad de trabajo que debe hacer alguien o algo."
+        "learning_tag": "sustantivo - Tiempo y medida"
     },
     {
         "level": 4.0,
@@ -321,7 +285,7 @@
         "answer": "La decisión: elección",
         "goal_words": "decisión",
         "audio_filename": "line3_es_593.mp3",
-        "audio_dir": "La decisión: elección"
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
         "level": 4.0,
@@ -339,7 +303,7 @@
         "answer": "necesitar ayuda",
         "goal_words": "necesitar",
         "audio_filename": "line4_es_79.mp3",
-        "audio_dir": "necesitar ayuda"
+        "learning_tag": "verbo - evaluar"
     },
     {
         "level": 4.0,
@@ -357,7 +321,7 @@
         "answer": "trastornar sus pensamientos",
         "goal_words": "trastornar",
         "audio_filename": "line5_es_96.mp3",
-        "audio_dir": "trastornar sus pensamientos"
+        "learning_tag": "verbo - efecto"
     },
     {
         "level": 4.0,
@@ -375,7 +339,7 @@
         "answer": "pensar",
         "goal_words": "pensar",
         "audio_filename": "line4_es_518.mp3",
-        "audio_dir": "pensar"
+        "learning_tag": "verbo - mental"
     },
     {
         "level": 4.0,
@@ -393,7 +357,7 @@
         "answer": "aplicar maquillaje",
         "goal_words": "aplicar",
         "audio_filename": "line_es_379.mp3",
-        "audio_dir": "aplicar maquillaje"
+        "learning_tag": "verbo - efecto"
     },
     {
         "level": 4.0,
@@ -411,7 +375,7 @@
         "answer": "ir con ella",
         "goal_words": "ir",
         "audio_filename": "line3_es_445.mp3",
-        "audio_dir": "ir con ella"
+        "learning_tag": "verbo - movimiento"
     },
     {
         "level": 4.0,
@@ -429,7 +393,7 @@
         "answer": "sostener",
         "goal_words": "sostener",
         "audio_filename": "line4_es_969.mp3",
-        "audio_dir": "sostener"
+        "learning_tag": "verbo - objeto"
     },
     {
         "level": 4.0,
@@ -447,7 +411,7 @@
         "answer": "manejar: administrar una situación o problema.",
         "goal_words": "manejar",
         "audio_filename": "line3_es_944.mp3",
-        "audio_dir": "manejar: administrar una situación o problema."
+        "learning_tag": "verbo - objeto"
     },
     {
         "level": 4.0,
@@ -465,7 +429,7 @@
         "answer": "Acuerdes",
         "goal_words": "Acuerdes",
         "audio_filename": "line_es_284.mp3",
-        "audio_dir": "Acuerdes"
+        "learning_tag": "verbo - mental"
     },
     {
         "level": 4.0,
@@ -483,12 +447,12 @@
         "answer": "sentir el agua",
         "goal_words": "sentir",
         "audio_filename": "line4_es_892.mp3",
-        "audio_dir": "sentir el agua"
+        "learning_tag": "verbo - percepción"
     },
     {
         "level": 4.0,
         "image_filename": "underestimate.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -497,11 +461,11 @@
         "native_answer": "underestimate: to place too low a value on : underrate",
         "native_word": "verb - mental",
         "tag": "verb - mental",
-        "prompt": "______: colocar un valor demasiado bajo: menospreciar",
+        "prompt": "subestimar: colocar un valor demasiado bajo: menospreciar",
         "answer": "subestimar: colocar un valor demasiado bajo: menospreciar",
         "goal_words": "subestimar",
         "audio_filename": "line4_es_977.mp3",
-        "audio_dir": "subestimar: colocar un valor demasiado bajo: menospreciar"
+        "learning_tag": "verbo - mental"
     },
     {
         "level": 4.0,
@@ -519,7 +483,7 @@
         "answer": "creer: aceptar (algo) como verdadero; sentirse seguro de la verdad de ello.",
         "goal_words": "creer",
         "audio_filename": "line_es_679.mp3",
-        "audio_dir": "creer: aceptar (algo) como verdadero; sentirse seguro de la verdad de ello."
+        "learning_tag": "verbo - mental"
     },
     {
         "level": 4.0,
@@ -537,24 +501,6 @@
         "answer": "apoyo: soportar todo o parte del peso de; sostener.",
         "goal_words": "apoyo",
         "audio_filename": "line_es_381.mp3",
-        "audio_dir": "apoyo: soportar todo o parte del peso de; sostener."
-    },
-    {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "make",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "hacer",
-        "goal_words": "hacer",
-        "audio_filename": "line3_es_336.mp3",
-        "audio_dir": "hacer"
+        "learning_tag": "verbo - interactivo"
     }
 ]

@@ -15,7 +15,7 @@
         "answer": "hurry",
         "goal_words": "hurry",
         "audio_filename": "line_en_1496.mp3",
-        "audio_dir": "hurry"
+        "learning_tag": "noun -  actions"
     },
     {
         "level": 9.0,
@@ -33,7 +33,7 @@
         "answer": "sickness",
         "goal_words": "sickness",
         "audio_filename": "line3_en_732.mp3",
-        "audio_dir": "sickness"
+        "learning_tag": "noun -  feelings & emotions"
     },
     {
         "level": 9.0,
@@ -51,7 +51,7 @@
         "answer": "chaos",
         "goal_words": "chaos",
         "audio_filename": "line_en_467.mp3",
-        "audio_dir": "chaos"
+        "learning_tag": "noun -  ideas & concepts"
     },
     {
         "level": 9.0,
@@ -69,7 +69,7 @@
         "answer": "danger",
         "goal_words": "danger",
         "audio_filename": "line_en_607.mp3",
-        "audio_dir": "danger"
+        "learning_tag": "noun -  ideas & concepts"
     },
     {
         "level": 9.0,
@@ -87,7 +87,7 @@
         "answer": "difficulty",
         "goal_words": "difficulty",
         "audio_filename": "line_en_653.mp3",
-        "audio_dir": "difficulty"
+        "learning_tag": "noun -  ideas & concepts"
     },
     {
         "level": 9.0,
@@ -105,7 +105,7 @@
         "answer": "health",
         "goal_words": "health",
         "audio_filename": "line_en_1403.mp3",
-        "audio_dir": "health"
+        "learning_tag": "noun -  ideas & concepts"
     },
     {
         "level": 9.0,
@@ -123,7 +123,7 @@
         "answer": "luck",
         "goal_words": "luck",
         "audio_filename": "line2_en_562.mp3",
-        "audio_dir": "luck"
+        "learning_tag": "noun -  ideas & concepts"
     },
     {
         "level": 9.0,
@@ -141,25 +141,7 @@
         "answer": "cloud",
         "goal_words": "cloud",
         "audio_filename": "line_en_510.mp3",
-        "audio_dir": "cloud"
-    },
-    {
-        "level": 9.0,
-        "image_filename": "hot3.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "german",
-        "learning_language": "english",
-        "native_group": "10 Substantiv - in einem Haus",
-        "native_answer": "Die Hitze",
-        "native_word": "Substantiv - natürliche Elemente",
-        "tag": "Substantiv - natürliche Elemente",
-        "prompt": "______",
-        "answer": "heat",
-        "goal_words": "heat",
-        "audio_filename": "line_en_1407.mp3",
-        "audio_dir": "heat"
+        "learning_tag": "noun -  natural elements"
     },
     {
         "level": 9.0,
@@ -177,7 +159,7 @@
         "answer": "crowd",
         "goal_words": "crowd",
         "audio_filename": "line_en_583.mp3",
-        "audio_dir": "crowd"
+        "learning_tag": "noun -  people & roles"
     },
     {
         "level": 9.0,
@@ -195,7 +177,7 @@
         "answer": "manners",
         "goal_words": "manners",
         "audio_filename": "line2_en_582.mp3",
-        "audio_dir": "manners"
+        "learning_tag": "noun -  skills & abilities"
     },
     {
         "level": 9.0,
@@ -213,7 +195,7 @@
         "answer": "quiet",
         "goal_words": "quiet",
         "audio_filename": "line3_en_217.mp3",
-        "audio_dir": "quiet"
+        "learning_tag": "noun -  sound & music"
     },
     {
         "level": 9.0,
@@ -231,7 +213,7 @@
         "answer": "fog",
         "goal_words": "fog",
         "audio_filename": "line_en_902.mp3",
-        "audio_dir": "fog"
+        "learning_tag": "noun -  weather & climate"
     },
     {
         "level": 9.0,
@@ -249,7 +231,7 @@
         "answer": "humidity",
         "goal_words": "humidity",
         "audio_filename": "line_en_1489.mp3",
-        "audio_dir": "humidity"
+        "learning_tag": "noun -  weather & climate"
     },
     {
         "level": 9.0,
@@ -267,7 +249,7 @@
         "answer": "rain",
         "goal_words": "rain",
         "audio_filename": "line3_en_224.mp3",
-        "audio_dir": "rain"
+        "learning_tag": "noun -  weather & climate"
     },
     {
         "level": 9.0,
@@ -285,7 +267,7 @@
         "answer": "snow",
         "goal_words": "snow",
         "audio_filename": "line3_en_782.mp3",
-        "audio_dir": "snow"
+        "learning_tag": "noun -  weather & climate"
     },
     {
         "level": 9.0,
@@ -303,7 +285,7 @@
         "answer": "storm",
         "goal_words": "storm",
         "audio_filename": "line3_en_871.mp3",
-        "audio_dir": "storm"
+        "learning_tag": "noun -  weather & climate"
     },
     {
         "level": 9.0,
@@ -321,7 +303,7 @@
         "answer": "space",
         "goal_words": "space",
         "audio_filename": "line3_en_815.mp3",
-        "audio_dir": "space"
+        "learning_tag": "noun - actions"
     },
     {
         "level": 9.0,
@@ -339,7 +321,7 @@
         "answer": "ambition",
         "goal_words": "ambition",
         "audio_filename": "line_en_147.mp3",
-        "audio_dir": "ambition"
+        "learning_tag": "noun - behavior"
     },
     {
         "level": 9.0,
@@ -357,7 +339,7 @@
         "answer": "bravery",
         "goal_words": "bravery",
         "audio_filename": "line_en_342.mp3",
-        "audio_dir": "bravery"
+        "learning_tag": "noun - behavior"
     },
     {
         "level": 9.0,
@@ -375,7 +357,7 @@
         "answer": "caution",
         "goal_words": "caution",
         "audio_filename": "line_en_451.mp3",
-        "audio_dir": "caution"
+        "learning_tag": "noun - behavior"
     },
     {
         "level": 9.0,
@@ -393,7 +375,7 @@
         "answer": "curiosity",
         "goal_words": "curiosity",
         "audio_filename": "line_en_594.mp3",
-        "audio_dir": "curiosity"
+        "learning_tag": "noun - behavior"
     },
     {
         "level": 9.0,
@@ -411,7 +393,7 @@
         "answer": "patience",
         "goal_words": "patience",
         "audio_filename": "line3_en_85.mp3",
-        "audio_dir": "patience"
+        "learning_tag": "noun - behavior"
     },
     {
         "level": 9.0,
@@ -429,7 +411,7 @@
         "answer": "responsibility",
         "goal_words": "responsibility",
         "audio_filename": "line3_en_275.mp3",
-        "audio_dir": "responsibility"
+        "learning_tag": "noun - behavior"
     },
     {
         "level": 9.0,
@@ -447,7 +429,7 @@
         "answer": "success",
         "goal_words": "success",
         "audio_filename": "line3_en_892.mp3",
-        "audio_dir": "success"
+        "learning_tag": "noun - behavior"
     },
     {
         "level": 9.0,
@@ -465,7 +447,7 @@
         "answer": "anger",
         "goal_words": "anger",
         "audio_filename": "line_en_160.mp3",
-        "audio_dir": "anger"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -483,7 +465,7 @@
         "answer": "boredom",
         "goal_words": "boredom",
         "audio_filename": "line_en_323.mp3",
-        "audio_dir": "boredom"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -501,7 +483,7 @@
         "answer": "anger",
         "goal_words": "anger",
         "audio_filename": "line_en_160.mp3",
-        "audio_dir": "anger"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -519,7 +501,7 @@
         "answer": "boredom",
         "goal_words": "boredom",
         "audio_filename": "line_en_323.mp3",
-        "audio_dir": "boredom"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -537,7 +519,7 @@
         "answer": "certainty",
         "goal_words": "certainty",
         "audio_filename": "line_en_462.mp3",
-        "audio_dir": "certainty"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -555,7 +537,7 @@
         "answer": "confidence",
         "goal_words": "confidence",
         "audio_filename": "line_en_538.mp3",
-        "audio_dir": "confidence"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -573,7 +555,7 @@
         "answer": "confusion",
         "goal_words": "confusion",
         "audio_filename": "line_en_543.mp3",
-        "audio_dir": "confusion"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -591,7 +573,7 @@
         "answer": "disappointment",
         "goal_words": "disappointment",
         "audio_filename": "line_en_664.mp3",
-        "audio_dir": "disappointment"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -609,7 +591,7 @@
         "answer": "discomfort",
         "goal_words": "discomfort",
         "audio_filename": "line_en_665.mp3",
-        "audio_dir": "discomfort"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -627,7 +609,7 @@
         "answer": "doubt",
         "goal_words": "doubt",
         "audio_filename": "line_en_722.mp3",
-        "audio_dir": "doubt"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -645,7 +627,7 @@
         "answer": "ease",
         "goal_words": "ease",
         "audio_filename": "line_en_762.mp3",
-        "audio_dir": "ease"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -663,7 +645,7 @@
         "answer": "embarrassment",
         "goal_words": "embarrassment",
         "audio_filename": "line_en_788.mp3",
-        "audio_dir": "embarrassment"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -681,7 +663,7 @@
         "answer": "excitement",
         "goal_words": "excitement",
         "audio_filename": "line_en_820.mp3",
-        "audio_dir": "excitement"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -699,7 +681,7 @@
         "answer": "happiness",
         "goal_words": "happiness",
         "audio_filename": "line_en_1043.mp3",
-        "audio_dir": "happiness"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -717,7 +699,7 @@
         "answer": "hope",
         "goal_words": "hope",
         "audio_filename": "line_en_1454.mp3",
-        "audio_dir": "hope"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -735,11 +717,11 @@
         "answer": "hunger",
         "goal_words": "hunger",
         "audio_filename": "line_en_1490.mp3",
-        "audio_dir": "hunger"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
-        "image_filename": "jeaslous2.jpg",
+        "image_filename": "jealous2.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -753,7 +735,7 @@
         "answer": "jealousy",
         "goal_words": "jealousy",
         "audio_filename": "line2_en_423.mp3",
-        "audio_dir": "jealousy"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -771,7 +753,7 @@
         "answer": "nervousness",
         "goal_words": "nervousness",
         "audio_filename": "line2_en_682.mp3",
-        "audio_dir": "nervousness"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -789,7 +771,7 @@
         "answer": "peace",
         "goal_words": "peace",
         "audio_filename": "line3_en_96.mp3",
-        "audio_dir": "peace"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -807,7 +789,7 @@
         "answer": "pride",
         "goal_words": "pride",
         "audio_filename": "line3_en_172.mp3",
-        "audio_dir": "pride"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -825,7 +807,7 @@
         "answer": "sadness",
         "goal_words": "sadness",
         "audio_filename": "line3_en_314.mp3",
-        "audio_dir": "sadness"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 9.0,
@@ -843,7 +825,7 @@
         "answer": "dirt",
         "goal_words": "dirt",
         "audio_filename": "line_en_659.mp3",
-        "audio_dir": "dirt"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 9.0,
@@ -861,6 +843,6 @@
         "answer": "wind",
         "goal_words": "wind",
         "audio_filename": "line5_en_114.mp3",
-        "audio_dir": "wind"
+        "learning_tag": "noun - weather & Climate"
     }
 ]

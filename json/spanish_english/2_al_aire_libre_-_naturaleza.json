@@ -15,7 +15,7 @@
         "answer": "sun",
         "goal_words": "sun",
         "audio_filename": "line3_en_902.mp3",
-        "audio_dir": "sun"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -33,7 +33,7 @@
         "answer": "moon",
         "goal_words": "moon",
         "audio_filename": "line2_en_642.mp3",
-        "audio_dir": "moon"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -51,7 +51,7 @@
         "answer": "grass",
         "goal_words": "grass",
         "audio_filename": "line_en_1008.mp3",
-        "audio_dir": "grass"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -69,7 +69,7 @@
         "answer": "flower",
         "goal_words": "flower",
         "audio_filename": "line_en_896.mp3",
-        "audio_dir": "flower"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -87,7 +87,7 @@
         "answer": "Tree",
         "goal_words": "Tree",
         "audio_filename": "line4_en_587.mp3",
-        "audio_dir": "Tree"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -105,7 +105,7 @@
         "answer": "Bush",
         "goal_words": "Bush",
         "audio_filename": "line_en_364.mp3",
-        "audio_dir": "Bush"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -123,7 +123,7 @@
         "answer": "Leaf",
         "goal_words": "Leaf",
         "audio_filename": "line2_en_493.mp3",
-        "audio_dir": "Leaf"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -141,7 +141,7 @@
         "answer": "Rock",
         "goal_words": "Rock",
         "audio_filename": "line3_en_302.mp3",
-        "audio_dir": "Rock"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -159,7 +159,7 @@
         "answer": "Hill",
         "goal_words": "Hill",
         "audio_filename": "line_en_1437.mp3",
-        "audio_dir": "Hill"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -177,7 +177,7 @@
         "answer": "Mountain",
         "goal_words": "Mountain",
         "audio_filename": "line2_en_650.mp3",
-        "audio_dir": "Mountain"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -195,7 +195,7 @@
         "answer": "River",
         "goal_words": "River",
         "audio_filename": "line3_en_299.mp3",
-        "audio_dir": "River"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -213,7 +213,7 @@
         "answer": "Lake",
         "goal_words": "Lake",
         "audio_filename": "line2_en_475.mp3",
-        "audio_dir": "Lake"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -231,7 +231,7 @@
         "answer": "Pond",
         "goal_words": "Pond",
         "audio_filename": "line3_en_152.mp3",
-        "audio_dir": "Pond"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -249,7 +249,7 @@
         "answer": "Ocean",
         "goal_words": "Ocean",
         "audio_filename": "line2_en_741.mp3",
-        "audio_dir": "Ocean"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -267,7 +267,7 @@
         "answer": "Beach",
         "goal_words": "Beach",
         "audio_filename": "line_en_258.mp3",
-        "audio_dir": "Beach"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -285,7 +285,7 @@
         "answer": "Cloud",
         "goal_words": "Cloud",
         "audio_filename": "line_en_510.mp3",
-        "audio_dir": "Cloud"
+        "learning_tag": "noun - nature"
     },
     {
         "level": 2.0,
@@ -303,6 +303,6 @@
         "answer": "Star",
         "goal_words": "Star",
         "audio_filename": "line3_en_845.mp3",
-        "audio_dir": "Star"
+        "learning_tag": "noun - nature"
     }
 ]

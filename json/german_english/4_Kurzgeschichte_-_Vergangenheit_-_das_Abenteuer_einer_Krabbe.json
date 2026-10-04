@@ -1,24 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "little.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "german",
-        "learning_language": "english",
-        "native_group": "4 Kurzgeschichte - Vergangenheit - das Abenteuer einer Krabbe",
-        "native_answer": "großes und kleines Kind",
-        "native_word": "Adjektiv - Größe",
-        "tag": "Adjektiv - Größe",
-        "prompt": "big and ______ kid",
-        "answer": "big and little kid",
-        "goal_words": "little",
-        "audio_filename": "line_en_294.mp3",
-        "audio_dir": "big and little kid"
-    },
-    {
-        "level": 4.0,
         "image_filename": "sandy.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -33,7 +15,7 @@
         "answer": "sandy feet",
         "goal_words": "sandy",
         "audio_filename": "line3_en_364.mp3",
-        "audio_dir": "sandy feet"
+        "learning_tag": "adjective -  Texture"
     },
     {
         "level": 4.0,
@@ -51,7 +33,7 @@
         "answer": "powerful thunderstorm",
         "goal_words": "powerful",
         "audio_filename": "line3_en_162.mp3",
-        "audio_dir": "powerful thunderstorm"
+        "learning_tag": "adjective - quality"
     },
     {
         "level": 4.0,
@@ -69,7 +51,7 @@
         "answer": "swirling",
         "goal_words": "swirling",
         "audio_filename": "line3_en_933.mp3",
-        "audio_dir": "swirling"
+        "learning_tag": "adjective - movement"
     },
     {
         "level": 4.0,
@@ -87,7 +69,7 @@
         "answer": "colorful pattern",
         "goal_words": "colorful",
         "audio_filename": "line_en_518.mp3",
-        "audio_dir": "colorful pattern"
+        "learning_tag": "adjective -  appearance"
     },
     {
         "level": 4.0,
@@ -98,14 +80,14 @@
         "native_language": "german",
         "learning_language": "english",
         "native_group": "4 Kurzgeschichte - Vergangenheit - das Abenteuer einer Krabbe",
-        "native_answer": "ängstlich: ängstlich oder verängstigt",
+        "native_answer": "ängstlich​: ängstlich oder verängstigt",
         "native_word": "Adjektiv – Emotion empfinden",
         "tag": "Adjektiv – Emotion empfinden",
         "prompt": "______: scared or afraid",
         "answer": "frightened: scared or afraid",
         "goal_words": "frightened",
         "audio_filename": "line_en_933.mp3",
-        "audio_dir": "frightened: scared or afraid"
+        "learning_tag": "adjective -  Feeling emotion"
     },
     {
         "level": 4.0,
@@ -116,14 +98,14 @@
         "native_language": "german",
         "learning_language": "english",
         "native_group": "4 Kurzgeschichte - Vergangenheit - das Abenteuer einer Krabbe",
-        "native_answer": "begeistert: sehr glücklich, animiert oder begeistert.",
+        "native_answer": "begeistert​: sehr glücklich, animiert oder begeistert.",
         "native_word": "Adjektiv – Emotion empfinden",
         "tag": "Adjektiv – Emotion empfinden",
         "prompt": "______: very happy, animated, or elated.",
         "answer": "exhilarated: very happy, animated, or elated.",
         "goal_words": "exhilarated",
         "audio_filename": "line_en_825.mp3",
-        "audio_dir": "exhilarated: very happy, animated, or elated."
+        "learning_tag": "adjective -  Feeling emotion"
     },
     {
         "level": 4.0,
@@ -141,7 +123,7 @@
         "answer": "thrilling rollercoaster ride",
         "goal_words": "thrilling",
         "audio_filename": "line4_en_431.mp3",
-        "audio_dir": "thrilling rollercoaster ride"
+        "learning_tag": "adjective -  Creating emotion"
     },
     {
         "level": 4.0,
@@ -159,7 +141,7 @@
         "answer": "daring, dangerous jump",
         "goal_words": "daring",
         "audio_filename": "line_en_610.mp3",
-        "audio_dir": "daring, dangerous jump"
+        "learning_tag": "adjective - Behavior"
     },
     {
         "level": 4.0,
@@ -173,11 +155,11 @@
         "native_answer": "einmal: zu einer Gelegenheit oder nur einmal.",
         "native_word": "Adverb – Häufigkeit",
         "tag": "Adverb – Häufigkeit",
-        "prompt": "______: on one occasion or for one time only.",
+        "prompt": "once: on one occasion or for one time only.",
         "answer": "once: on one occasion or for one time only.",
         "goal_words": "once",
         "audio_filename": "line3_en_27.mp3",
-        "audio_dir": "once: on one occasion or for one time only."
+        "learning_tag": "adverb -  Frequency"
     },
     {
         "level": 4.0,
@@ -195,7 +177,7 @@
         "answer": "to fall suddenly; quickly and unexpectedly.",
         "goal_words": "suddenly",
         "audio_filename": "line4_en_482.mp3",
-        "audio_dir": "to fall suddenly; quickly and unexpectedly."
+        "learning_tag": "adverb -  Time"
     },
     {
         "level": 4.0,
@@ -209,11 +191,11 @@
         "native_answer": "schließlich",
         "native_word": "Adverb – Zeit",
         "tag": "Adverb – Zeit",
-        "prompt": "______",
+        "prompt": "eventually",
         "answer": "eventually",
         "goal_words": "eventually",
         "audio_filename": "line_en_811.mp3",
-        "audio_dir": "eventually"
+        "learning_tag": "adverb -  Time"
     },
     {
         "level": 4.0,
@@ -231,7 +213,7 @@
         "answer": "both players want the ball",
         "goal_words": "both",
         "audio_filename": "line_en_327.mp3",
-        "audio_dir": "both players want the ball"
+        "learning_tag": "adverb -  Conjunctional Adverb"
     },
     {
         "level": 4.0,
@@ -245,65 +227,11 @@
         "native_answer": "Sie können jederzeit um Hilfe bitten, wenn Sie sie benötigen",
         "native_word": "Adverb – Konjunktionsadverb",
         "tag": "Adverb – Konjunktionsadverb",
-        "prompt": "you can ask for help ______ you need it",
+        "prompt": "you can ask for help whenever you need it",
         "answer": "you can ask for help whenever you need it",
         "goal_words": "whenever",
         "audio_filename": "line5_en_315.mp3",
-        "audio_dir": "you can ask for help whenever you need it"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "fish.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "german",
-        "learning_language": "english",
-        "native_group": "4 Kurzgeschichte - Vergangenheit - das Abenteuer einer Krabbe",
-        "native_answer": "Fisch",
-        "native_word": "Ding",
-        "tag": "Ding",
-        "prompt": "______",
-        "answer": "fish",
-        "goal_words": "fish",
-        "audio_filename": "line_en_884.mp3",
-        "audio_dir": "fish"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "tired.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "german",
-        "learning_language": "english",
-        "native_group": "4 Kurzgeschichte - Vergangenheit - das Abenteuer einer Krabbe",
-        "native_answer": "müde",
-        "native_word": "Emotionen",
-        "tag": "Emotionen",
-        "prompt": "______",
-        "answer": "tired",
-        "goal_words": "tired",
-        "audio_filename": "line4_en_445.mp3",
-        "audio_dir": "tired"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "happy_kid.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "german",
-        "learning_language": "english",
-        "native_group": "4 Kurzgeschichte - Vergangenheit - das Abenteuer einer Krabbe",
-        "native_answer": "glückliches Kind",
-        "native_word": "Emotionen",
-        "tag": "Emotionen",
-        "prompt": "______ kid",
-        "answer": "happy kid",
-        "goal_words": "happy",
-        "audio_filename": "line_en_1045.mp3",
-        "audio_dir": "happy kid"
+        "learning_tag": "adverb -  Conjunctional Adverb"
     },
     {
         "level": 4.0,
@@ -321,7 +249,7 @@
         "answer": "crab",
         "goal_words": "crab",
         "audio_filename": "line_en_573.mp3",
-        "audio_dir": "crab"
+        "learning_tag": "noun - Animals"
     },
     {
         "level": 4.0,
@@ -339,7 +267,7 @@
         "answer": "sand",
         "goal_words": "sand",
         "audio_filename": "line3_en_360.mp3",
-        "audio_dir": "sand"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -357,7 +285,7 @@
         "answer": "rabbit burrow",
         "goal_words": "burrow",
         "audio_filename": "line3_en_222.mp3",
-        "audio_dir": "rabbit burrow"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -375,7 +303,7 @@
         "answer": "Beach",
         "goal_words": "Beach",
         "audio_filename": "line_en_258.mp3",
-        "audio_dir": "Beach"
+        "learning_tag": "noun - Landscapes & Terrain"
     },
     {
         "level": 4.0,
@@ -393,7 +321,7 @@
         "answer": "shoreline: where the land and ocean meet",
         "goal_words": "shoreline",
         "audio_filename": "line3_en_715.mp3",
-        "audio_dir": "shoreline: where the land and ocean meet"
+        "learning_tag": "noun - Landscapes & Terrain"
     },
     {
         "level": 4.0,
@@ -411,7 +339,7 @@
         "answer": "tide pools still underwater",
         "goal_words": "tide pool",
         "audio_filename": "line4_en_441.mp3",
-        "audio_dir": "tide pools still underwater"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -429,7 +357,7 @@
         "answer": "seagull",
         "goal_words": "seagull",
         "audio_filename": "line3_en_392.mp3",
-        "audio_dir": "seagull"
+        "learning_tag": "noun - Animals"
     },
     {
         "level": 4.0,
@@ -447,7 +375,7 @@
         "answer": "wave",
         "goal_words": "wave",
         "audio_filename": "line4_en_692.mp3",
-        "audio_dir": "wave"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -465,7 +393,7 @@
         "answer": "ocean: a very large expanse of sea",
         "goal_words": "ocean",
         "audio_filename": "line2_en_742.mp3",
-        "audio_dir": "ocean: a very large expanse of sea"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -483,7 +411,7 @@
         "answer": "fast river current",
         "goal_words": "current",
         "audio_filename": "line_en_846.mp3",
-        "audio_dir": "fast river current"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -494,14 +422,14 @@
         "native_language": "german",
         "learning_language": "english",
         "native_group": "4 Kurzgeschichte - Vergangenheit - das Abenteuer einer Krabbe",
-        "native_answer": "Die Reise: irgendwohin reisen.",
+        "native_answer": "Die Reise​: irgendwohin reisen.",
         "native_word": "Substantiv - Ereignisse",
         "tag": "Substantiv - Ereignisse",
         "prompt": "______: travel somewhere.",
         "answer": "journey: travel somewhere.",
         "goal_words": "journey",
         "audio_filename": "line2_en_429.mp3",
-        "audio_dir": "journey: travel somewhere."
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
@@ -515,11 +443,11 @@
         "native_answer": "Das Abenteuer: eine ungewöhnliche und aufregende, typischerweise gefährliche Erfahrung",
         "native_word": "Substantiv - Ereignisse",
         "tag": "Substantiv - Ereignisse",
-        "prompt": "______: an unusual and exciting, typically hazardous, experience",
+        "prompt": "adventure: an unusual and exciting, typically hazardous, experience",
         "answer": "adventure: an unusual and exciting, typically hazardous, experience",
         "goal_words": "adventure",
         "audio_filename": "line_en_107.mp3",
-        "audio_dir": "adventure: an unusual and exciting, typically hazardous, experience"
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
@@ -537,7 +465,7 @@
         "answer": "lion's roar",
         "goal_words": "roar",
         "audio_filename": "line2_en_526.mp3",
-        "audio_dir": "lion's roar"
+        "learning_tag": "noun - Sound & Music"
     },
     {
         "level": 4.0,
@@ -555,7 +483,7 @@
         "answer": "mix of berries",
         "goal_words": "mix",
         "audio_filename": "line2_en_632.mp3",
-        "audio_dir": "mix of berries"
+        "learning_tag": "noun - Actions"
     },
     {
         "level": 4.0,
@@ -569,11 +497,11 @@
         "native_answer": "Wagnis: sich trauen, etwas zu tun oder irgendwohin zu gehen, was gefährlich sein könnte",
         "native_word": "Verb - Bewegung",
         "tag": "Verb - Bewegung",
-        "prompt": "______: dare to do something or go somewhere that may be dangerous",
+        "prompt": "venture: dare to do something or go somewhere that may be dangerous",
         "answer": "venture: dare to do something or go somewhere that may be dangerous",
         "goal_words": "venture",
         "audio_filename": "line4_en_651.mp3",
-        "audio_dir": "venture: dare to do something or go somewhere that may be dangerous"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -587,11 +515,11 @@
         "native_answer": "huschen: schnell oder heimlich mit kurzen, schnellen Schritten laufen.",
         "native_word": "Verb - Bewegung",
         "tag": "Verb - Bewegung",
-        "prompt": "______: run hurriedly or furtively with short quick steps.",
+        "prompt": "scuttle: run hurriedly or furtively with short quick steps.",
         "answer": "scuttle: run hurriedly or furtively with short quick steps.",
         "goal_words": "scuttle",
         "audio_filename": "line3_en_391.mp3",
-        "audio_dir": "scuttle: run hurriedly or furtively with short quick steps."
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -605,11 +533,11 @@
         "native_answer": "eine neue Welt erkunden",
         "native_word": "Verb - Bewegung",
         "tag": "Verb - Bewegung",
-        "prompt": "______ a new world",
+        "prompt": "explore a new world",
         "answer": "explore a new world",
         "goal_words": "explore",
         "audio_filename": "line_en_832.mp3",
-        "audio_dir": "explore a new world"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -627,7 +555,7 @@
         "answer": "chase by a dinosaur",
         "goal_words": "chase",
         "audio_filename": "line_en_472.mp3",
-        "audio_dir": "chase by a dinosaur"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -645,7 +573,7 @@
         "answer": "sweep",
         "goal_words": "sweep",
         "audio_filename": "line3_en_926.mp3",
-        "audio_dir": "sweep"
+        "learning_tag": "verb - object"
     },
     {
         "level": 4.0,
@@ -663,7 +591,7 @@
         "answer": "find a clue",
         "goal_words": "find",
         "audio_filename": "line_en_872.mp3",
-        "audio_dir": "find a clue"
+        "learning_tag": "verb - object"
     },
     {
         "level": 4.0,
@@ -681,7 +609,7 @@
         "answer": "city surround",
         "goal_words": "surround",
         "audio_filename": "line_en_496.mp3",
-        "audio_dir": "city surround"
+        "learning_tag": "verb - position"
     },
     {
         "level": 4.0,
@@ -699,25 +627,7 @@
         "answer": "ride a horse",
         "goal_words": "ride",
         "audio_filename": "line3_en_288.mp3",
-        "audio_dir": "ride a horse"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "german",
-        "learning_language": "english",
-        "native_group": "4 Kurzgeschichte - Vergangenheit - das Abenteuer einer Krabbe",
-        "native_answer": "das Wasser fühlen",
-        "native_word": "Verb - Wahrnehmung",
-        "tag": "Verb - Wahrnehmung",
-        "prompt": "______ the water",
-        "answer": "feel the water",
-        "goal_words": "feel",
-        "audio_filename": "line_en_857.mp3",
-        "audio_dir": "feel the water"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -735,7 +645,7 @@
         "answer": "return home",
         "goal_words": "return",
         "audio_filename": "line3_en_280.mp3",
-        "audio_dir": "return home"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -753,7 +663,7 @@
         "answer": "crawl: move on hands and knees",
         "goal_words": "crawl",
         "audio_filename": "line_en_575.mp3",
-        "audio_dir": "crawl: move on hands and knees"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -771,7 +681,7 @@
         "answer": "experience virtual reality",
         "goal_words": "experience",
         "audio_filename": "line_en_829.mp3",
-        "audio_dir": "experience virtual reality"
+        "learning_tag": "verb - perception"
     },
     {
         "level": 4.0,
@@ -789,6 +699,6 @@
         "answer": "Remember",
         "goal_words": "Remember",
         "audio_filename": "line3_en_263.mp3",
-        "audio_dir": "Remember"
+        "learning_tag": "verb - mental"
     }
 ]

@@ -15,7 +15,7 @@
         "answer": "putt cerrado",
         "goal_words": "cerrado",
         "audio_filename": "line4_es_658.mp3",
-        "audio_dir": "putt cerrado"
+        "learning_tag": "adjetivo - espacio"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "niño grande y pequeño",
         "goal_words": "pequeño",
         "audio_filename": "line4_es_92.mp3",
-        "audio_dir": "niño grande y pequeño"
+        "learning_tag": "adjetivo - tamaño"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "más ancho: más amplio",
         "goal_words": "más amplio",
         "audio_filename": "line3_es_965.mp3",
-        "audio_dir": "más ancho: más amplio"
+        "learning_tag": "adjetivo - tamaño"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "sólido, líquido, gas",
         "goal_words": "sólido",
         "audio_filename": "line4_es_955.mp3",
-        "audio_dir": "sólido, líquido, gas"
+        "learning_tag": "adjetivo - textura"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "barco al otro lado del río",
         "goal_words": "otro",
         "audio_filename": "line_es_443.mp3",
-        "audio_dir": "barco al otro lado del río"
+        "learning_tag": "adjetivo - Adjetivo (general, no encaja en una categoría específica)"
     },
     {
         "level": 4.0,
@@ -101,11 +101,11 @@
         "native_answer": "should i go left or right?",
         "native_word": "adverb -  judgement",
         "tag": "adverb -  judgement",
-        "prompt": "¿______ ir a la izquierda o a la derecha?",
+        "prompt": "¿debería ir a la izquierda o a la derecha?",
         "answer": "¿debería ir a la izquierda o a la derecha?",
         "goal_words": "debería",
         "audio_filename": "line_es_31.mp3",
-        "audio_dir": "¿debería ir a la izquierda o a la derecha?"
+        "learning_tag": "adverbio - juicio"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "más lejos",
         "goal_words": "más lejos",
         "audio_filename": "line3_es_966.mp3",
-        "audio_dir": "más lejos"
+        "learning_tag": "adverbio - Grado"
     },
     {
         "level": 4.0,
@@ -141,12 +141,12 @@
         "answer": "El jefe: Supervisor o gerente.",
         "goal_words": "jefe",
         "audio_filename": "line2_es_147.mp3",
-        "audio_dir": "El jefe: Supervisor o gerente."
+        "learning_tag": "sustantivo - Personas y roles"
     },
     {
         "level": 4.0,
         "image_filename": "employee.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -155,11 +155,11 @@
         "native_answer": "Employee: Worker or staff member.",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
-        "prompt": "El ______: Trabajador o miembro del personal.",
+        "prompt": "El empleado: Trabajador o miembro del personal.",
         "answer": "El empleado: Trabajador o miembro del personal.",
         "goal_words": "empleado",
         "audio_filename": "line2_es_32.mp3",
-        "audio_dir": "El empleado: Trabajador o miembro del personal."
+        "learning_tag": "sustantivo - Personas y roles"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "La vía del ferrocarril",
         "goal_words": "vía",
         "audio_filename": "line3_es_788.mp3",
-        "audio_dir": "La vía del ferrocarril"
+        "learning_tag": "sustantivo - Objetos cotidianos"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "El fin del camino",
         "goal_words": "fin",
         "audio_filename": "line2_es_90.mp3",
-        "audio_dir": "El fin del camino"
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "Un cuarto de hora",
         "goal_words": "cuarto",
         "audio_filename": "line5_es_458.mp3",
-        "audio_dir": "Un cuarto de hora"
+        "learning_tag": "sustantivo - Medición"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "El ajedrez: un juego que utiliza estrategia",
         "goal_words": "estrategia",
         "audio_filename": "line_es_877.mp3",
-        "audio_dir": "El ajedrez: un juego que utiliza estrategia"
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
         "level": 4.0,
@@ -249,7 +249,7 @@
         "answer": "La venta de tomates",
         "goal_words": "venta",
         "audio_filename": "line3_es_785.mp3",
-        "audio_dir": "La venta de tomates"
+        "learning_tag": "sustantivo - Eventos"
     },
     {
         "level": 4.0,
@@ -267,7 +267,7 @@
         "answer": "Una idea",
         "goal_words": "idea",
         "audio_filename": "line5_es_536.mp3",
-        "audio_dir": "Una idea"
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
         "level": 4.0,
@@ -285,7 +285,7 @@
         "answer": "El esfuerzo: aplicación de energía hacia un objetivo",
         "goal_words": "esfuerzo",
         "audio_filename": "line2_es_54.mp3",
-        "audio_dir": "El esfuerzo: aplicación de energía hacia un objetivo"
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
         "level": 4.0,
@@ -303,7 +303,7 @@
         "answer": "El marketing en redes sociales",
         "goal_words": "marketing",
         "audio_filename": "line2_es_184.mp3",
-        "audio_dir": "El marketing en redes sociales"
+        "learning_tag": "sustantivo - actividades"
     },
     {
         "level": 4.0,
@@ -321,7 +321,7 @@
         "answer": "La publicidad: mensajes promocionales",
         "goal_words": "publicidad",
         "audio_filename": "line3_es_734.mp3",
-        "audio_dir": "La publicidad: mensajes promocionales"
+        "learning_tag": "sustantivo - actividades"
     },
     {
         "level": 4.0,
@@ -339,7 +339,7 @@
         "answer": "Un influenciador",
         "goal_words": "influenciador",
         "audio_filename": "line5_es_477.mp3",
-        "audio_dir": "Un influenciador"
+        "learning_tag": "sustantivo - Personas y roles"
     },
     {
         "level": 4.0,
@@ -357,7 +357,7 @@
         "answer": "La audiencia",
         "goal_words": "audiencia",
         "audio_filename": "line3_es_525.mp3",
-        "audio_dir": "La audiencia"
+        "learning_tag": "sustantivo - Personas y roles"
     },
     {
         "level": 4.0,
@@ -375,7 +375,7 @@
         "answer": "Una reunión de negocios",
         "goal_words": "reunión",
         "audio_filename": "line5_es_557.mp3",
-        "audio_dir": "Una reunión de negocios"
+        "learning_tag": "sustantivo - Eventos"
     },
     {
         "level": 4.0,
@@ -393,7 +393,7 @@
         "answer": "Una discusión",
         "goal_words": "discusión",
         "audio_filename": "line5_es_527.mp3",
-        "audio_dir": "Una discusión"
+        "learning_tag": "sustantivo - actividades"
     },
     {
         "level": 4.0,
@@ -407,11 +407,11 @@
         "native_answer": "A session is a period of time devoted to a particular activity, discussion, or event.",
         "native_word": "noun - Events",
         "tag": "noun - Events",
-        "prompt": "Una ______ es un período de tiempo dedicado a una actividad, discusión o evento en particular.",
+        "prompt": "Una sesión es un período de tiempo dedicado a una actividad, discusión o evento en particular.",
         "answer": "Una sesión es un período de tiempo dedicado a una actividad, discusión o evento en particular.",
         "goal_words": "sesión",
         "audio_filename": "line5_es_561.mp3",
-        "audio_dir": "Una sesión es un período de tiempo dedicado a una actividad, discusión o evento en particular."
+        "learning_tag": "sustantivo - Eventos"
     },
     {
         "level": 4.0,
@@ -429,7 +429,7 @@
         "answer": "Plan",
         "goal_words": "Plan",
         "audio_filename": "line4_es_576.mp3",
-        "audio_dir": "Plan"
+        "learning_tag": "verbo - mental"
     },
     {
         "level": 4.0,
@@ -447,25 +447,7 @@
         "answer": "comenzar de carrera",
         "goal_words": "comenzar",
         "audio_filename": "line_es_583.mp3",
-        "audio_dir": "comenzar de carrera"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - typical work meeting",
-        "native_answer": "go with her",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______ con ella",
-        "answer": "ir con ella",
-        "goal_words": "ir",
-        "audio_filename": "line3_es_445.mp3",
-        "audio_dir": "ir con ella"
+        "learning_tag": "verbo - cambiar"
     },
     {
         "level": 4.0,
@@ -483,25 +465,7 @@
         "answer": "reunirse por negocios",
         "goal_words": "reunirse",
         "audio_filename": "line4_es_761.mp3",
-        "audio_dir": "reunirse por negocios"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "4 dialogue - typical work meeting",
-        "native_answer": "push",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "empujar",
-        "goal_words": "empujar",
-        "audio_filename": "line2_es_937.mp3",
-        "audio_dir": "empujar"
+        "learning_tag": "verbo - interactivo"
     },
     {
         "level": 4.0,
@@ -519,7 +483,7 @@
         "answer": "tormenta de ideas: proceso creativo de generar ideas",
         "goal_words": "tormenta de ideas",
         "audio_filename": "line5_es_81.mp3",
-        "audio_dir": "tormenta de ideas: proceso creativo de generar ideas"
+        "learning_tag": "verbo - mental"
     },
     {
         "level": 4.0,
@@ -537,7 +501,7 @@
         "answer": "impulso",
         "goal_words": "impulso",
         "audio_filename": "line3_es_418.mp3",
-        "audio_dir": "impulso"
+        "learning_tag": "verbo - efecto"
     },
     {
         "level": 4.0,
@@ -555,7 +519,7 @@
         "answer": "expandir",
         "goal_words": "expandir",
         "audio_filename": "line3_es_192.mp3",
-        "audio_dir": "expandir"
+        "learning_tag": "verbo - cambiar"
     },
     {
         "level": 4.0,
@@ -573,12 +537,12 @@
         "answer": "invertir",
         "goal_words": "invertir",
         "audio_filename": "line3_es_439.mp3",
-        "audio_dir": "invertir"
+        "learning_tag": "verbo - cambiar"
     },
     {
         "level": 4.0,
         "image_filename": "collaborate.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -587,11 +551,11 @@
         "native_answer": "collaborate: work together, cooperate",
         "native_word": "verb - communication",
         "tag": "verb - communication",
-        "prompt": "______: trabajar juntos, cooperar",
+        "prompt": "colaborar: trabajar juntos, cooperar",
         "answer": "colaborar: trabajar juntos, cooperar",
         "goal_words": "colaborar",
         "audio_filename": "line_es_574.mp3",
-        "audio_dir": "colaborar: trabajar juntos, cooperar"
+        "learning_tag": "verbo - comunicación"
     },
     {
         "level": 4.0,
@@ -609,7 +573,7 @@
         "answer": "alcanzar la luna",
         "goal_words": "alcanzar",
         "audio_filename": "line_es_323.mp3",
-        "audio_dir": "alcanzar la luna"
+        "learning_tag": "verbo - movimiento"
     },
     {
         "level": 4.0,
@@ -627,7 +591,7 @@
         "answer": "oír",
         "goal_words": "oír",
         "audio_filename": "line4_es_407.mp3",
-        "audio_dir": "oír"
+        "learning_tag": "verbo - percepción"
     },
     {
         "level": 4.0,
@@ -645,7 +609,7 @@
         "answer": "explorar un nuevo mundo",
         "goal_words": "explorar",
         "audio_filename": "line3_es_197.mp3",
-        "audio_dir": "explorar un nuevo mundo"
+        "learning_tag": "verbo - movimiento"
     },
     {
         "level": 4.0,
@@ -663,7 +627,7 @@
         "answer": "fin del juego, ¿te gustaría continuar?",
         "goal_words": "continuar",
         "audio_filename": "line3_es_221.mp3",
-        "audio_dir": "fin del juego, ¿te gustaría continuar?"
+        "learning_tag": "verbo - cambiar"
     },
     {
         "level": 4.0,
@@ -681,7 +645,7 @@
         "answer": "discutir",
         "goal_words": "discutir",
         "audio_filename": "line_es_822.mp3",
-        "audio_dir": "discutir"
+        "learning_tag": "verbo - comunicación"
     },
     {
         "level": 4.0,
@@ -699,6 +663,6 @@
         "answer": "tormenta de ideas: proceso creativo de generar ideas",
         "goal_words": "tormenta de ideas",
         "audio_filename": "line5_es_81.mp3",
-        "audio_dir": "tormenta de ideas: proceso creativo de generar ideas"
+        "learning_tag": "verbo - mental"
     }
 ]

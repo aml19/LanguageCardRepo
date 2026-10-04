@@ -15,7 +15,7 @@
         "answer": "日曜日",
         "goal_words": "日曜日",
         "audio_filename": "line3_ja_559.mp3",
-        "audio_dir": "日曜日"
+        "learning_tag": "曜日 - 1"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "月曜日",
         "goal_words": "月曜日",
         "audio_filename": "line3_ja_626.mp3",
-        "audio_dir": "月曜日"
+        "learning_tag": "曜日 - 2"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "火曜日",
         "goal_words": "火曜日",
         "audio_filename": "line3_ja_813.mp3",
-        "audio_dir": "火曜日"
+        "learning_tag": "曜日 - 3"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "水曜日",
         "goal_words": "水曜日",
         "audio_filename": "line3_ja_739.mp3",
-        "audio_dir": "水曜日"
+        "learning_tag": "曜日 - 4"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "木曜日",
         "goal_words": "木曜日",
         "audio_filename": "line3_ja_638.mp3",
-        "audio_dir": "木曜日"
+        "learning_tag": "曜日 - 5"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "金曜日",
         "goal_words": "金曜日",
         "audio_filename": "line4_ja_743.mp3",
-        "audio_dir": "金曜日"
+        "learning_tag": "曜日 - 6"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "土曜日",
         "goal_words": "土曜日",
         "audio_filename": "line2_ja_665.mp3",
-        "audio_dir": "土曜日"
+        "learning_tag": "曜日 - 7"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "一月",
         "goal_words": "一月",
         "audio_filename": "line2_ja_208.mp3",
-        "audio_dir": "一月"
+        "learning_tag": "月 - 1"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "二月",
         "goal_words": "二月",
         "audio_filename": "line2_ja_275.mp3",
-        "audio_dir": "二月"
+        "learning_tag": "月 - 2"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "三月",
         "goal_words": "三月",
         "audio_filename": "line2_ja_228.mp3",
-        "audio_dir": "三月"
+        "learning_tag": "月 - 3"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "四月",
         "goal_words": "四月",
         "audio_filename": "line2_ja_653.mp3",
-        "audio_dir": "四月"
+        "learning_tag": "月 - 4"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "五月",
         "goal_words": "五月",
         "audio_filename": "line2_ja_277.mp3",
-        "audio_dir": "五月"
+        "learning_tag": "月 - 5"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "六月",
         "goal_words": "六月",
         "audio_filename": "line2_ja_375.mp3",
-        "audio_dir": "六月"
+        "learning_tag": "月 - 6"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "七月",
         "goal_words": "七月",
         "audio_filename": "line2_ja_223.mp3",
-        "audio_dir": "七月"
+        "learning_tag": "月 - 7"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "八月",
         "goal_words": "八月",
         "audio_filename": "line2_ja_369.mp3",
-        "audio_dir": "八月"
+        "learning_tag": "月 - 8"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "九月",
         "goal_words": "九月",
         "audio_filename": "line2_ja_270.mp3",
-        "audio_dir": "九月"
+        "learning_tag": "月 - 9"
     },
     {
         "level": 3.0,
@@ -303,7 +303,7 @@
         "answer": "十月",
         "goal_words": "十月",
         "audio_filename": "line2_ja_460.mp3",
-        "audio_dir": "十月"
+        "learning_tag": "月 - 10"
     },
     {
         "level": 3.0,
@@ -321,7 +321,7 @@
         "answer": "十一月",
         "goal_words": "十一月",
         "audio_filename": "line2_ja_454.mp3",
-        "audio_dir": "十一月"
+        "learning_tag": "月 - 11"
     },
     {
         "level": 3.0,
@@ -339,7 +339,7 @@
         "answer": "十二月",
         "goal_words": "十二月",
         "audio_filename": "line2_ja_455.mp3",
-        "audio_dir": "十二月"
+        "learning_tag": "月 - 12"
     },
     {
         "level": 3.0,
@@ -357,7 +357,7 @@
         "answer": "カレンダー",
         "goal_words": "カレンダー",
         "audio_filename": "line_ja_550.mp3",
-        "audio_dir": "カレンダー"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -375,7 +375,7 @@
         "answer": "スケジュール",
         "goal_words": "スケジュール",
         "audio_filename": "line_ja_707.mp3",
-        "audio_dir": "スケジュール"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -393,7 +393,7 @@
         "answer": "時",
         "goal_words": "時",
         "audio_filename": "line3_ja_589.mp3",
-        "audio_dir": "時"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -411,7 +411,7 @@
         "answer": "分",
         "goal_words": "分",
         "audio_filename": "line2_ja_409.mp3",
-        "audio_dir": "分"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -429,7 +429,7 @@
         "answer": "秒",
         "goal_words": "秒",
         "audio_filename": "line4_ja_275.mp3",
-        "audio_dir": "秒"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -447,7 +447,7 @@
         "answer": "朝",
         "goal_words": "朝",
         "audio_filename": "line3_ja_631.mp3",
-        "audio_dir": "朝"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -465,7 +465,7 @@
         "answer": "夜",
         "goal_words": "夜",
         "audio_filename": "line2_ja_704.mp3",
-        "audio_dir": "夜"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -483,7 +483,7 @@
         "answer": "日",
         "goal_words": "日",
         "audio_filename": "line3_ja_558.mp3",
-        "audio_dir": "日"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -501,7 +501,7 @@
         "answer": "早い",
         "goal_words": "早い",
         "audio_filename": "line3_ja_561.mp3",
-        "audio_dir": "早い"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -519,7 +519,7 @@
         "answer": "遅い",
         "goal_words": "遅い",
         "audio_filename": "line4_ja_677.mp3",
-        "audio_dir": "遅い"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -537,7 +537,7 @@
         "answer": "夕方",
         "goal_words": "夕方",
         "audio_filename": "line2_ja_691.mp3",
-        "audio_dir": "夕方"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -555,7 +555,7 @@
         "answer": "月",
         "goal_words": "月",
         "audio_filename": "line3_ja_621.mp3",
-        "audio_dir": "月"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -573,7 +573,7 @@
         "answer": "秋",
         "goal_words": "秋",
         "audio_filename": "line4_ja_272.mp3",
-        "audio_dir": "秋"
+        "learning_tag": "名詞 - 時間"
     },
     {
         "level": 3.0,
@@ -591,7 +591,7 @@
         "answer": "季節",
         "goal_words": "季節",
         "audio_filename": "line2_ja_767.mp3",
-        "audio_dir": "季節"
+        "learning_tag": "名詞 - 時間と測定"
     },
     {
         "level": 3.0,
@@ -609,7 +609,7 @@
         "answer": "春",
         "goal_words": "春",
         "audio_filename": "line3_ja_583.mp3",
-        "audio_dir": "春"
+        "learning_tag": "名詞 - 時間"
     },
     {
         "level": 3.0,
@@ -627,7 +627,7 @@
         "answer": "夏",
         "goal_words": "夏",
         "audio_filename": "line2_ja_690.mp3",
-        "audio_dir": "夏"
+        "learning_tag": "名詞 - 時間"
     },
     {
         "level": 3.0,
@@ -645,7 +645,7 @@
         "answer": "冬",
         "goal_words": "冬",
         "audio_filename": "line2_ja_393.mp3",
-        "audio_dir": "冬"
+        "learning_tag": "名詞 - 時間"
     },
     {
         "level": 3.0,
@@ -663,7 +663,7 @@
         "answer": "過去 現在 未来",
         "goal_words": "過去",
         "audio_filename": "line4_ja_693.mp3",
-        "audio_dir": "過去 現在 未来"
+        "learning_tag": "対立するもの - 名詞"
     },
     {
         "level": 3.0,
@@ -681,7 +681,7 @@
         "answer": "過去 現在 未来",
         "goal_words": "未来",
         "audio_filename": "line4_ja_693.mp3",
-        "audio_dir": "過去 現在 未来"
+        "learning_tag": "対立するもの - 名詞"
     },
     {
         "level": 3.0,
@@ -699,7 +699,7 @@
         "answer": "真夜中",
         "goal_words": "真夜中",
         "audio_filename": "line3_ja_918.mp3",
-        "audio_dir": "真夜中"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -717,7 +717,7 @@
         "answer": "夕方に太陽が沈む",
         "goal_words": "夕方",
         "audio_filename": "line2_ja_692.mp3",
-        "audio_dir": "夕方に太陽が沈む"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -735,7 +735,7 @@
         "answer": "朝に起きる",
         "goal_words": "朝",
         "audio_filename": "line3_ja_633.mp3",
-        "audio_dir": "朝に起きる"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -749,10 +749,10 @@
         "native_answer": "every year",
         "native_word": "noun - time",
         "tag": "noun - time",
-        "prompt": "毎______",
+        "prompt": "毎年",
         "answer": "毎年",
         "goal_words": "年",
         "audio_filename": "line3_ja_725.mp3",
-        "audio_dir": "毎年"
+        "learning_tag": "名詞"
     }
 ]

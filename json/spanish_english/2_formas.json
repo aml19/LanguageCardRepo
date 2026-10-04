@@ -15,7 +15,7 @@
         "answer": "Circle",
         "goal_words": "Circle",
         "audio_filename": "line_en_493.mp3",
-        "audio_dir": "Circle"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -33,7 +33,7 @@
         "answer": "Oval",
         "goal_words": "Oval",
         "audio_filename": "line3_en_60.mp3",
-        "audio_dir": "Oval"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -51,7 +51,7 @@
         "answer": "Triangle",
         "goal_words": "Triangle",
         "audio_filename": "line4_en_588.mp3",
-        "audio_dir": "Triangle"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -69,7 +69,7 @@
         "answer": "Square",
         "goal_words": "Square",
         "audio_filename": "line3_en_837.mp3",
-        "audio_dir": "Square"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -87,7 +87,7 @@
         "answer": "Rectangle",
         "goal_words": "Rectangle",
         "audio_filename": "line3_en_247.mp3",
-        "audio_dir": "Rectangle"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -105,7 +105,7 @@
         "answer": "Diamond",
         "goal_words": "Diamond",
         "audio_filename": "line_en_646.mp3",
-        "audio_dir": "Diamond"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -123,7 +123,7 @@
         "answer": "Star",
         "goal_words": "Star",
         "audio_filename": "line3_en_845.mp3",
-        "audio_dir": "Star"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -141,7 +141,7 @@
         "answer": "Crescent",
         "goal_words": "Crescent",
         "audio_filename": "line_en_579.mp3",
-        "audio_dir": "Crescent"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -159,7 +159,7 @@
         "answer": "Heart",
         "goal_words": "Heart",
         "audio_filename": "line_en_1406.mp3",
-        "audio_dir": "Heart"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -177,7 +177,7 @@
         "answer": "Arrow",
         "goal_words": "Arrow",
         "audio_filename": "line_en_190.mp3",
-        "audio_dir": "Arrow"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -195,7 +195,7 @@
         "answer": "Cross",
         "goal_words": "Cross",
         "audio_filename": "line_en_581.mp3",
-        "audio_dir": "Cross"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -213,7 +213,7 @@
         "answer": "Sphere",
         "goal_words": "Sphere",
         "audio_filename": "line3_en_826.mp3",
-        "audio_dir": "Sphere"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -231,7 +231,7 @@
         "answer": "Cube",
         "goal_words": "Cube",
         "audio_filename": "line_en_590.mp3",
-        "audio_dir": "Cube"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -249,7 +249,7 @@
         "answer": "Cylinder",
         "goal_words": "Cylinder",
         "audio_filename": "line_en_600.mp3",
-        "audio_dir": "Cylinder"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -267,7 +267,7 @@
         "answer": "Cone",
         "goal_words": "Cone",
         "audio_filename": "line_en_537.mp3",
-        "audio_dir": "Cone"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -285,7 +285,7 @@
         "answer": "Pyramid",
         "goal_words": "Pyramid",
         "audio_filename": "line3_en_212.mp3",
-        "audio_dir": "Pyramid"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -303,7 +303,7 @@
         "answer": "Disk",
         "goal_words": "Disk",
         "audio_filename": "line_en_668.mp3",
-        "audio_dir": "Disk"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -321,7 +321,7 @@
         "answer": "Line",
         "goal_words": "Line",
         "audio_filename": "line2_en_524.mp3",
-        "audio_dir": "Line"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -339,7 +339,7 @@
         "answer": "Curve",
         "goal_words": "Curve",
         "audio_filename": "line_en_596.mp3",
-        "audio_dir": "Curve"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -357,7 +357,7 @@
         "answer": "Angle",
         "goal_words": "Angle",
         "audio_filename": "line_en_161.mp3",
-        "audio_dir": "Angle"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -375,7 +375,7 @@
         "answer": "Wave",
         "goal_words": "Wave",
         "audio_filename": "line4_en_692.mp3",
-        "audio_dir": "Wave"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -393,7 +393,7 @@
         "answer": "Spiral",
         "goal_words": "Spiral",
         "audio_filename": "line3_en_830.mp3",
-        "audio_dir": "Spiral"
+        "learning_tag": "shape"
     },
     {
         "level": 2.0,
@@ -411,6 +411,222 @@
         "answer": "Zigzag",
         "goal_words": "Zigzag",
         "audio_filename": "line5_en_605.mp3",
-        "audio_dir": "Zigzag"
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "circle11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "un círculo alrededor...",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "a circle around...",
+        "answer": "a circle around...",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_2.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "square11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "ventana cuadrada",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "square window",
+        "answer": "square window",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_365.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "star11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "estrella en el cielo",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "star in the sky",
+        "answer": "star in the sky",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_366.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "crescent11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "luna creciente",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "crecent moon",
+        "answer": "crecent moon",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_77.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "cube11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "cubo de hielo",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "cube of ice",
+        "answer": "cube of ice",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_78.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "cone11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "cono de helado",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "ice cream cone",
+        "answer": "ice cream cone",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_224.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "pyramid11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "esquema piramidal",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "pyramid scheme",
+        "answer": "pyramid scheme",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_319.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "line11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "trazar una línea recta",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "to draw a straight line",
+        "answer": "to draw a straight line",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_400.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "curve5.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "curva en la carretera",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "curve in the road",
+        "answer": "curve in the road",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_81.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "angle11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "Ángulo de techo pronunciado",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "steep roof angle",
+        "answer": "steep roof angle",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_368.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "wave11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "ola del océano",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "ocean wave",
+        "answer": "ocean wave",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_298.mp3",
+        "learning_tag": "shape"
+    },
+    {
+        "level": 2.0,
+        "image_filename": "spiral11.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "spanish",
+        "learning_language": "english",
+        "native_group": "2 formas",
+        "native_answer": "escalera de caracol",
+        "native_word": "forma",
+        "tag": "forma",
+        "prompt": "spiral staircase",
+        "answer": "spiral staircase",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_362.mp3",
+        "learning_tag": "shape"
     }
 ]

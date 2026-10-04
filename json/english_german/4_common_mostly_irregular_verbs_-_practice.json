@@ -15,7 +15,7 @@
         "answer": "Ich bin jetzt zu Hause.",
         "goal_words": "bin",
         "audio_filename": "line3_de_448.mp3",
-        "audio_dir": "Ich bin jetzt zu Hause."
+        "learning_tag": "sein)"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "Du bist nach dem Laufen müde.",
         "goal_words": "bist",
         "audio_filename": "line2_de_279.mp3",
-        "audio_dir": "Du bist nach dem Laufen müde."
+        "learning_tag": "sein)"
     },
     {
         "level": 4.0,
@@ -44,14 +44,14 @@
         "native_language": "english",
         "learning_language": "german",
         "native_group": "4 common, mostly irregular verbs - practice",
-        "native_answer": "She is at the office this morning.",
+        "native_answer": "She is​ at the office this morning.",
         "native_word": "be (Present)",
         "tag": "be (Present)",
         "prompt": "Sie ______ heute Morgen im Büro.",
         "answer": "Sie ist heute Morgen im Büro.",
         "goal_words": "ist",
         "audio_filename": "line4_de_828.mp3",
-        "audio_dir": "Sie ist heute Morgen im Büro."
+        "learning_tag": "sein)"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "Wir sind glücklich, dich zu sehen.",
         "goal_words": "sind",
         "audio_filename": "line5_de_776.mp3",
-        "audio_dir": "Wir sind glücklich, dich zu sehen."
+        "learning_tag": "sein)"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "Ihr seid bereit für die Klasse.",
         "goal_words": "seid",
         "audio_filename": "line3_de_826.mp3",
-        "audio_dir": "Ihr seid bereit für die Klasse."
+        "learning_tag": "sein)"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "Sie sind im Park und spielen Fußball.",
         "goal_words": "sind",
         "audio_filename": "line4_de_944.mp3",
-        "audio_dir": "Sie sind im Park und spielen Fußball."
+        "learning_tag": "sein)"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "Ich werde morgen Nachmittag zu Hause sein.",
         "goal_words": "werde",
         "audio_filename": "line3_de_698.mp3",
-        "audio_dir": "Ich werde morgen Nachmittag zu Hause sein."
+        "learning_tag": "sein (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "Du wirst um zehn Uhr in der Besprechung sein.",
         "goal_words": "wirst",
         "audio_filename": "line2_de_515.mp3",
-        "audio_dir": "Du wirst um zehn Uhr in der Besprechung sein."
+        "learning_tag": "sein (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "Er wird mit einem neuen Projekt beschäftigt sein.",
         "goal_words": "wird",
         "audio_filename": "line2_de_860.mp3",
-        "audio_dir": "Er wird mit einem neuen Projekt beschäftigt sein."
+        "learning_tag": "sein (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "Wir werden um sechs Uhr im Hotel sein.",
         "goal_words": "werden",
         "audio_filename": "line5_de_848.mp3",
-        "audio_dir": "Wir werden um sechs Uhr im Hotel sein."
+        "learning_tag": "sein (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "Ihr werdet die ganze Woche in der Klasse sein.",
         "goal_words": "werdet",
         "audio_filename": "line3_de_846.mp3",
-        "audio_dir": "Ihr werdet die ganze Woche in der Klasse sein."
+        "learning_tag": "sein (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "Sie werden nächste Woche auf Reisen sein.",
         "goal_words": "werden",
         "audio_filename": "line5_de_51.mp3",
-        "audio_dir": "Sie werden nächste Woche auf Reisen sein."
+        "learning_tag": "sein (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "Ich war in der Schule, als du mich angerufen hast.",
         "goal_words": "war",
         "audio_filename": "line3_de_678.mp3",
-        "audio_dir": "Ich war in der Schule, als du mich angerufen hast."
+        "learning_tag": "estar (Unvollkommenheit – Vergangenheitsunvollkommenheit)"
     },
     {
         "level": 4.0,
@@ -249,7 +249,7 @@
         "answer": "Du warst glücklich mit deinem neuen Job.",
         "goal_words": "warst",
         "audio_filename": "line2_de_470.mp3",
-        "audio_dir": "Du warst glücklich mit deinem neuen Job."
+        "learning_tag": "estar (Unvollkommenheit – Vergangenheitsunvollkommenheit)"
     },
     {
         "level": 4.0,
@@ -267,7 +267,7 @@
         "answer": "Sie war traurig, weil ihr Hund verschwunden ist.",
         "goal_words": "war",
         "audio_filename": "line5_de_2.mp3",
-        "audio_dir": "Sie war traurig, weil ihr Hund verschwunden ist."
+        "learning_tag": "estar (Unvollkommenheit – Vergangenheitsunvollkommenheit)"
     },
     {
         "level": 4.0,
@@ -285,7 +285,7 @@
         "answer": "Wir waren jeden Sommer am Strand.",
         "goal_words": "waren",
         "audio_filename": "line5_de_805.mp3",
-        "audio_dir": "Wir waren jeden Sommer am Strand."
+        "learning_tag": "estar (Unvollkommenheit – Vergangenheitsunvollkommenheit)"
     },
     {
         "level": 4.0,
@@ -303,7 +303,7 @@
         "answer": "Ihr wart in der Bibliothek am Lernen.",
         "goal_words": "wart",
         "audio_filename": "line3_de_844.mp3",
-        "audio_dir": "Ihr wart in der Bibliothek am Lernen."
+        "learning_tag": "estar (Unvollkommenheit – Vergangenheitsunvollkommenheit)"
     },
     {
         "level": 4.0,
@@ -321,7 +321,7 @@
         "answer": "Sie waren besorgt über die Prüfung.",
         "goal_words": "waren",
         "audio_filename": "line5_de_4.mp3",
-        "audio_dir": "Sie waren besorgt über die Prüfung."
+        "learning_tag": "estar (Unvollkommenheit – Vergangenheitsunvollkommenheit)"
     },
     {
         "level": 4.0,
@@ -339,7 +339,7 @@
         "answer": "Ich war letzte Woche in Madrid.",
         "goal_words": "war",
         "audio_filename": "line3_de_679.mp3",
-        "audio_dir": "Ich war letzte Woche in Madrid."
+        "learning_tag": "estar (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -357,7 +357,7 @@
         "answer": "Du warst gestern krank.",
         "goal_words": "warst",
         "audio_filename": "line2_de_469.mp3",
-        "audio_dir": "Du warst gestern krank."
+        "learning_tag": "estar (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -375,7 +375,7 @@
         "answer": "Er war sehr beschäftigt mit der Arbeit.",
         "goal_words": "war",
         "audio_filename": "line2_de_848.mp3",
-        "audio_dir": "Er war sehr beschäftigt mit der Arbeit."
+        "learning_tag": "estar (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -393,7 +393,7 @@
         "answer": "Wir waren den ganzen Tag in einer Besprechung.",
         "goal_words": "waren",
         "audio_filename": "line5_de_802.mp3",
-        "audio_dir": "Wir waren den ganzen Tag in einer Besprechung."
+        "learning_tag": "estar (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -411,7 +411,7 @@
         "answer": "Ihr wart bis spät zur Feier.",
         "goal_words": "wart",
         "audio_filename": "line3_de_843.mp3",
-        "audio_dir": "Ihr wart bis spät zur Feier."
+        "learning_tag": "estar (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -429,7 +429,7 @@
         "answer": "Sie waren im Urlaub in Italien.",
         "goal_words": "waren",
         "audio_filename": "line5_de_6.mp3",
-        "audio_dir": "Sie waren im Urlaub in Italien."
+        "learning_tag": "estar (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -447,7 +447,7 @@
         "answer": "Ich gab jeden Tag Mathematikunterricht.",
         "goal_words": "gab",
         "audio_filename": "line3_de_480.mp3",
-        "audio_dir": "Ich gab jeden Tag Mathematikunterricht."
+        "learning_tag": "geben (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -465,7 +465,7 @@
         "answer": "Du hast jeden Morgen Spaziergänge im Park gemacht.",
         "goal_words": "hast",
         "audio_filename": "line2_de_376.mp3",
-        "audio_dir": "Du hast jeden Morgen Spaziergänge im Park gemacht."
+        "learning_tag": "geben (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -483,7 +483,7 @@
         "answer": "Er gab seinen Freunden Ratschläge.",
         "goal_words": "gab",
         "audio_filename": "line2_de_689.mp3",
-        "audio_dir": "Er gab seinen Freunden Ratschläge."
+        "learning_tag": "geben (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -501,7 +501,7 @@
         "answer": "Wir gaben regelmäßig Geld für die Wohltätigkeit.",
         "goal_words": "gaben",
         "audio_filename": "line5_de_634.mp3",
-        "audio_dir": "Wir gaben regelmäßig Geld für die Wohltätigkeit."
+        "learning_tag": "geben (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -519,7 +519,7 @@
         "answer": "Ihr gabt der Gemeinschaft Unterstützung.",
         "goal_words": "gabt",
         "audio_filename": "line3_de_752.mp3",
-        "audio_dir": "Ihr gabt der Gemeinschaft Unterstützung."
+        "learning_tag": "geben (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -537,7 +537,7 @@
         "answer": "Sie gaben an der Universität Unterricht.",
         "goal_words": "gaben",
         "audio_filename": "line4_de_599.mp3",
-        "audio_dir": "Sie gaben an der Universität Unterricht."
+        "learning_tag": "geben (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -555,7 +555,7 @@
         "answer": "Ich gebe Geld für die Wohltätigkeit.",
         "goal_words": "gebe",
         "audio_filename": "line3_de_481.mp3",
-        "audio_dir": "Ich gebe Geld für die Wohltätigkeit."
+        "learning_tag": "geben (präsentieren)"
     },
     {
         "level": 4.0,
@@ -573,7 +573,7 @@
         "answer": "Du gibst gute Ratschläge.",
         "goal_words": "gibst",
         "audio_filename": "line2_de_299.mp3",
-        "audio_dir": "Du gibst gute Ratschläge."
+        "learning_tag": "geben (präsentieren)"
     },
     {
         "level": 4.0,
@@ -591,7 +591,7 @@
         "answer": "Er gibt eine Feier bei sich zu Hause.",
         "goal_words": "gibt",
         "audio_filename": "line2_de_691.mp3",
-        "audio_dir": "Er gibt eine Feier bei sich zu Hause."
+        "learning_tag": "geben (präsentieren)"
     },
     {
         "level": 4.0,
@@ -609,7 +609,7 @@
         "answer": "Wir geben Spanischunterricht.",
         "goal_words": "geben",
         "audio_filename": "line5_de_635.mp3",
-        "audio_dir": "Wir geben Spanischunterricht."
+        "learning_tag": "geben (präsentieren)"
     },
     {
         "level": 4.0,
@@ -627,7 +627,7 @@
         "answer": "Ihr gebt Geschenke zu Weihnachten.",
         "goal_words": "gebt",
         "audio_filename": "line3_de_753.mp3",
-        "audio_dir": "Ihr gebt Geschenke zu Weihnachten."
+        "learning_tag": "geben (präsentieren)"
     },
     {
         "level": 4.0,
@@ -645,7 +645,7 @@
         "answer": "Sie danken für die Hilfe.",
         "goal_words": "danken",
         "audio_filename": "line4_de_580.mp3",
-        "audio_dir": "Sie danken für die Hilfe."
+        "learning_tag": "geben (präsentieren)"
     },
     {
         "level": 4.0,
@@ -663,7 +663,7 @@
         "answer": "Ich habe meine Meinung in der Sitzung geäußert.",
         "goal_words": "habe",
         "audio_filename": "line3_de_563.mp3",
-        "audio_dir": "Ich habe meine Meinung in der Sitzung geäußert."
+        "learning_tag": "geben (Präteritum – Präteritum Indefinit)"
     },
     {
         "level": 4.0,
@@ -681,7 +681,7 @@
         "answer": "Du hast ein gutes Beispiel gegeben.",
         "goal_words": "hast",
         "audio_filename": "line2_de_321.mp3",
-        "audio_dir": "Du hast ein gutes Beispiel gegeben."
+        "learning_tag": "geben (Präteritum – Präteritum Indefinit)"
     },
     {
         "level": 4.0,
@@ -699,7 +699,7 @@
         "answer": "Sie hat eine interessante Rede gehalten.",
         "goal_words": "hat",
         "audio_filename": "line4_de_744.mp3",
-        "audio_dir": "Sie hat eine interessante Rede gehalten."
+        "learning_tag": "geben (Präteritum – Präteritum Indefinit)"
     },
     {
         "level": 4.0,
@@ -717,7 +717,7 @@
         "answer": "Wir haben gestern eine Präsentation gehalten.",
         "goal_words": "haben",
         "audio_filename": "line5_de_686.mp3",
-        "audio_dir": "Wir haben gestern eine Präsentation gehalten."
+        "learning_tag": "geben (Präteritum – Präteritum Indefinit)"
     },
     {
         "level": 4.0,
@@ -735,7 +735,7 @@
         "answer": "Ihr habt eine große Überraschung gemacht.",
         "goal_words": "habt",
         "audio_filename": "line3_de_762.mp3",
-        "audio_dir": "Ihr habt eine große Überraschung gemacht."
+        "learning_tag": "geben (Präteritum – Präteritum Indefinit)"
     },
     {
         "level": 4.0,
@@ -753,7 +753,7 @@
         "answer": "Sie haben den Bedürftigen Essen gegeben.",
         "goal_words": "haben",
         "audio_filename": "line4_de_621.mp3",
-        "audio_dir": "Sie haben den Bedürftigen Essen gegeben."
+        "learning_tag": "geben (Präteritum – Präteritum Indefinit)"
     },
     {
         "level": 4.0,
@@ -771,7 +771,7 @@
         "answer": "Ich werde morgen eine Konferenz halten.",
         "goal_words": "werde",
         "audio_filename": "line3_de_696.mp3",
-        "audio_dir": "Ich werde morgen eine Konferenz halten."
+        "learning_tag": "geben (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -789,7 +789,7 @@
         "answer": "Du wirst deine Meinung in der Sitzung äußern.",
         "goal_words": "wirst",
         "audio_filename": "line2_de_479.mp3",
-        "audio_dir": "Du wirst deine Meinung in der Sitzung äußern."
+        "learning_tag": "geben (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -807,7 +807,7 @@
         "answer": "Sie wird dieses Wochenende eine Feier geben.",
         "goal_words": "wird",
         "audio_filename": "line5_de_88.mp3",
-        "audio_dir": "Sie wird dieses Wochenende eine Feier geben."
+        "learning_tag": "geben (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -825,7 +825,7 @@
         "answer": "Wir werden einen Spaziergang im Park machen.",
         "goal_words": "werden",
         "audio_filename": "line5_de_816.mp3",
-        "audio_dir": "Wir werden einen Spaziergang im Park machen."
+        "learning_tag": "geben (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -843,7 +843,7 @@
         "answer": "Ihr werdet einem Freund ein Geschenk geben.",
         "goal_words": "werdet",
         "audio_filename": "line3_de_847.mp3",
-        "audio_dir": "Ihr werdet einem Freund ein Geschenk geben."
+        "learning_tag": "geben (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -861,7 +861,7 @@
         "answer": "Sie werden ihr Unterstützung für das Projekt geben.",
         "goal_words": "werden",
         "audio_filename": "line5_de_30.mp3",
-        "audio_dir": "Sie werden ihr Unterstützung für das Projekt geben."
+        "learning_tag": "geben (einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -879,7 +879,7 @@
         "answer": "Ich gehe jeden Tag ins Fitnessstudio.",
         "goal_words": "gehe",
         "audio_filename": "line3_de_482.mp3",
-        "audio_dir": "Ich gehe jeden Tag ins Fitnessstudio."
+        "learning_tag": "gehen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -897,7 +897,7 @@
         "answer": "Du gehst früh zur Schule.",
         "goal_words": "gehst",
         "audio_filename": "line2_de_294.mp3",
-        "audio_dir": "Du gehst früh zur Schule."
+        "learning_tag": "gehen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -915,7 +915,7 @@
         "answer": "Er fährt mit dem Fahrrad zur Arbeit.",
         "goal_words": "fährt",
         "audio_filename": "line2_de_684.mp3",
-        "audio_dir": "Er fährt mit dem Fahrrad zur Arbeit."
+        "learning_tag": "gehen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -933,7 +933,7 @@
         "answer": "Wir gehen freitags ins Kino.",
         "goal_words": "gehen",
         "audio_filename": "line5_de_638.mp3",
-        "audio_dir": "Wir gehen freitags ins Kino."
+        "learning_tag": "gehen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -951,7 +951,7 @@
         "answer": "Ihr geht zum Einkaufen ins Einkaufszentrum.",
         "goal_words": "geht",
         "audio_filename": "line3_de_755.mp3",
-        "audio_dir": "Ihr geht zum Einkaufen ins Einkaufszentrum."
+        "learning_tag": "gehen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -969,7 +969,7 @@
         "answer": "Sie gehen im Sommer an den Strand.",
         "goal_words": "gehen",
         "audio_filename": "line4_de_600.mp3",
-        "audio_dir": "Sie gehen im Sommer an den Strand."
+        "learning_tag": "gehen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -987,7 +987,7 @@
         "answer": "Ich werde nächstes Jahr zur Universität gehen.",
         "goal_words": "werde",
         "audio_filename": "line3_de_705.mp3",
-        "audio_dir": "Ich werde nächstes Jahr zur Universität gehen."
+        "learning_tag": "go (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1005,7 +1005,7 @@
         "answer": "Du wirst zur Hochzeit deiner Cousine gehen.",
         "goal_words": "wirst",
         "audio_filename": "line2_de_517.mp3",
-        "audio_dir": "Du wirst zur Hochzeit deiner Cousine gehen."
+        "learning_tag": "go (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1023,7 +1023,7 @@
         "answer": "Er wird in einem neuen Unternehmen arbeiten.",
         "goal_words": "wird",
         "audio_filename": "line2_de_857.mp3",
-        "audio_dir": "Er wird in einem neuen Unternehmen arbeiten."
+        "learning_tag": "go (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1041,7 +1041,7 @@
         "answer": "Wir werden nach Spanien in den Urlaub fahren.",
         "goal_words": "werden",
         "audio_filename": "line5_de_833.mp3",
-        "audio_dir": "Wir werden nach Spanien in den Urlaub fahren."
+        "learning_tag": "go (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1059,7 +1059,7 @@
         "answer": "Ihr werdet morgen in den Park gehen.",
         "goal_words": "werdet",
         "audio_filename": "line3_de_859.mp3",
-        "audio_dir": "Ihr werdet morgen in den Park gehen."
+        "learning_tag": "go (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1077,7 +1077,7 @@
         "answer": "Sie werden nächste Woche zu einer Konferenz gehen.",
         "goal_words": "werden",
         "audio_filename": "line5_de_54.mp3",
-        "audio_dir": "Sie werden nächste Woche zu einer Konferenz gehen."
+        "learning_tag": "go (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1095,7 +1095,7 @@
         "answer": "Ich ging jeden Tag in den Park, als ich ein Kind war.",
         "goal_words": "ging",
         "audio_filename": "line3_de_487.mp3",
-        "audio_dir": "Ich ging jeden Tag in den Park, als ich ein Kind war."
+        "learning_tag": "ir (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1113,7 +1113,7 @@
         "answer": "Du gingst jeden Morgen mit dem Bus zur Schule.",
         "goal_words": "gingst",
         "audio_filename": "line2_de_301.mp3",
-        "audio_dir": "Du gingst jeden Morgen mit dem Bus zur Schule."
+        "learning_tag": "ir (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1131,7 +1131,7 @@
         "answer": "Sie ging in die Bibliothek, um zu lernen.",
         "goal_words": "ging",
         "audio_filename": "line4_de_606.mp3",
-        "audio_dir": "Sie ging in die Bibliothek, um zu lernen."
+        "learning_tag": "ir (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1149,7 +1149,7 @@
         "answer": "Wir gingen jeden Sommer an den Strand.",
         "goal_words": "gingen",
         "audio_filename": "line5_de_643.mp3",
-        "audio_dir": "Wir gingen jeden Sommer an den Strand."
+        "learning_tag": "ir (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1167,7 +1167,7 @@
         "answer": "Ihr gingt jedes Wochenende in dieses Restaurant.",
         "goal_words": "gingt",
         "audio_filename": "line3_de_756.mp3",
-        "audio_dir": "Ihr gingt jedes Wochenende in dieses Restaurant."
+        "learning_tag": "ir (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1185,7 +1185,7 @@
         "answer": "Sie gingen jeden Freitag ins Kino.",
         "goal_words": "gingen",
         "audio_filename": "line4_de_610.mp3",
-        "audio_dir": "Sie gingen jeden Freitag ins Kino."
+        "learning_tag": "ir (Imperfekt – Präteritum Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1203,7 +1203,7 @@
         "answer": "Ich bin letztes Jahr nach Mexiko gegangen.",
         "goal_words": "bin",
         "audio_filename": "line3_de_449.mp3",
-        "audio_dir": "Ich bin letztes Jahr nach Mexiko gegangen."
+        "learning_tag": "ir (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1221,7 +1221,7 @@
         "answer": "Du bist gestern zur Feier gegangen.",
         "goal_words": "bist",
         "audio_filename": "line2_de_269.mp3",
-        "audio_dir": "Du bist gestern zur Feier gegangen."
+        "learning_tag": "ir (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1239,7 +1239,7 @@
         "answer": "Sie ist gestern zum Arzt gegangen.",
         "goal_words": "ist",
         "audio_filename": "line4_de_825.mp3",
-        "audio_dir": "Sie ist gestern zum Arzt gegangen."
+        "learning_tag": "ir (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1257,7 +1257,7 @@
         "answer": "Wir sind am letzten Wochenende zu einem Konzert gegangen.",
         "goal_words": "sind",
         "audio_filename": "line5_de_763.mp3",
-        "audio_dir": "Wir sind am letzten Wochenende zu einem Konzert gegangen."
+        "learning_tag": "ir (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1275,7 +1275,7 @@
         "answer": "Ihr seid eurem Großmutter besuchen gegangen.",
         "goal_words": "seid",
         "audio_filename": "line3_de_827.mp3",
-        "audio_dir": "Ihr seid eurem Großmutter besuchen gegangen."
+        "learning_tag": "ir (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1293,7 +1293,7 @@
         "answer": "Sie sind letzte Woche ins Museum gegangen.",
         "goal_words": "sind",
         "audio_filename": "line4_de_950.mp3",
-        "audio_dir": "Sie sind letzte Woche ins Museum gegangen."
+        "learning_tag": "ir (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1311,7 +1311,7 @@
         "answer": "Ich sagte, dass ich Arzt werden wollte, als ich ein Kind war.",
         "goal_words": "sagte",
         "audio_filename": "line3_de_654.mp3",
-        "audio_dir": "Ich sagte, dass ich Arzt werden wollte, als ich ein Kind war."
+        "learning_tag": "sagen (Imperfekt - Vergangenheit Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1329,7 +1329,7 @@
         "answer": "Du hast immer das Gleiche gesagt.",
         "goal_words": "hast",
         "audio_filename": "line2_de_374.mp3",
-        "audio_dir": "Du hast immer das Gleiche gesagt."
+        "learning_tag": "sagen (Imperfekt - Vergangenheit Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1347,7 +1347,7 @@
         "answer": "Er sagte, dass er um die Welt reisen wollte.",
         "goal_words": "sagte",
         "audio_filename": "line2_de_825.mp3",
-        "audio_dir": "Er sagte, dass er um die Welt reisen wollte."
+        "learning_tag": "sagen (Imperfekt - Vergangenheit Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1365,7 +1365,7 @@
         "answer": "Wir erzählten lustige Geschichten.",
         "goal_words": "erzählten",
         "audio_filename": "line5_de_628.mp3",
-        "audio_dir": "Wir erzählten lustige Geschichten."
+        "learning_tag": "sagen (Imperfekt - Vergangenheit Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1383,7 +1383,7 @@
         "answer": "Ihr habt gesagt, dass ihr nie umziehen würdet.",
         "goal_words": "habt",
         "audio_filename": "line3_de_788.mp3",
-        "audio_dir": "Ihr habt gesagt, dass ihr nie umziehen würdet."
+        "learning_tag": "sagen (Imperfekt - Vergangenheit Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1401,7 +1401,7 @@
         "answer": "Sie sagten, dass sie den Sport nicht mochten.",
         "goal_words": "sagten",
         "audio_filename": "line4_de_914.mp3",
-        "audio_dir": "Sie sagten, dass sie den Sport nicht mochten."
+        "learning_tag": "sagen (Imperfekt - Vergangenheit Imperfekt)"
     },
     {
         "level": 4.0,
@@ -1419,7 +1419,7 @@
         "answer": "Ich sage die Wahrheit.",
         "goal_words": "sage",
         "audio_filename": "line3_de_652.mp3",
-        "audio_dir": "Ich sage die Wahrheit."
+        "learning_tag": "sagen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -1437,7 +1437,7 @@
         "answer": "Du sagst viele interessante Dinge.",
         "goal_words": "sagst",
         "audio_filename": "line2_de_445.mp3",
-        "audio_dir": "Du sagst viele interessante Dinge."
+        "learning_tag": "sagen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -1455,7 +1455,7 @@
         "answer": "Er sagt, dass er spät kommen wird.",
         "goal_words": "sagt",
         "audio_filename": "line2_de_824.mp3",
-        "audio_dir": "Er sagt, dass er spät kommen wird."
+        "learning_tag": "sagen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -1473,7 +1473,7 @@
         "answer": "Wir sagen, dass es eine gute Idee ist.",
         "goal_words": "sagen",
         "audio_filename": "line5_de_759.mp3",
-        "audio_dir": "Wir sagen, dass es eine gute Idee ist."
+        "learning_tag": "sagen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -1491,7 +1491,7 @@
         "answer": "Ihr sagt, dass es euch nicht gefällt.",
         "goal_words": "sagt",
         "audio_filename": "line3_de_822.mp3",
-        "audio_dir": "Ihr sagt, dass es euch nicht gefällt."
+        "learning_tag": "sagen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -1509,7 +1509,7 @@
         "answer": "Sie sagen, dass sie kommen werden.",
         "goal_words": "sagen",
         "audio_filename": "line4_de_911.mp3",
-        "audio_dir": "Sie sagen, dass sie kommen werden."
+        "learning_tag": "sagen (Gegenwart)"
     },
     {
         "level": 4.0,
@@ -1527,7 +1527,7 @@
         "answer": "Ich sagte, was ich dachte.",
         "goal_words": "sagte",
         "audio_filename": "line3_de_655.mp3",
-        "audio_dir": "Ich sagte, was ich dachte."
+        "learning_tag": "sagen (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1545,7 +1545,7 @@
         "answer": "Du hast gestern die Wahrheit gesagt.",
         "goal_words": "hast",
         "audio_filename": "line2_de_362.mp3",
-        "audio_dir": "Du hast gestern die Wahrheit gesagt."
+        "learning_tag": "sagen (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1563,7 +1563,7 @@
         "answer": "Sie sagte, dass sie müde war.",
         "goal_words": "sagte",
         "audio_filename": "line4_de_913.mp3",
-        "audio_dir": "Sie sagte, dass sie müde war."
+        "learning_tag": "sagen (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1581,7 +1581,7 @@
         "answer": "Wir haben uns verabschiedet, bevor wir gegangen sind.",
         "goal_words": "haben",
         "audio_filename": "line5_de_705.mp3",
-        "audio_dir": "Wir haben uns verabschiedet, bevor wir gegangen sind."
+        "learning_tag": "sagen (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1599,7 +1599,7 @@
         "answer": "Ihr habt alles gesagt, was ihr wusstet.",
         "goal_words": "habt",
         "audio_filename": "line3_de_758.mp3",
-        "audio_dir": "Ihr habt alles gesagt, was ihr wusstet."
+        "learning_tag": "sagen (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1617,7 +1617,7 @@
         "answer": "Sie haben gesagt, dass sie nicht kommen konnten.",
         "goal_words": "haben",
         "audio_filename": "line4_de_679.mp3",
-        "audio_dir": "Sie haben gesagt, dass sie nicht kommen konnten."
+        "learning_tag": "sagen (Präteritum – Präteritum Indefinite)"
     },
     {
         "level": 4.0,
@@ -1635,7 +1635,7 @@
         "answer": "Ich werde meine Meinung in der Sitzung äußern.",
         "goal_words": "werde",
         "audio_filename": "line3_de_694.mp3",
-        "audio_dir": "Ich werde meine Meinung in der Sitzung äußern."
+        "learning_tag": "sagen (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1653,7 +1653,7 @@
         "answer": "Du wirst alles sagen, was du weißt.",
         "goal_words": "wirst",
         "audio_filename": "line2_de_475.mp3",
-        "audio_dir": "Du wirst alles sagen, was du weißt."
+        "learning_tag": "sagen (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1671,7 +1671,7 @@
         "answer": "Sie wird morgen etwas Interessantes sagen.",
         "goal_words": "wird",
         "audio_filename": "line5_de_98.mp3",
-        "audio_dir": "Sie wird morgen etwas Interessantes sagen."
+        "learning_tag": "sagen (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1689,7 +1689,7 @@
         "answer": "Wir werden die Wahrheit über den Vorfall sagen.",
         "goal_words": "werden",
         "audio_filename": "line5_de_813.mp3",
-        "audio_dir": "Wir werden die Wahrheit über den Vorfall sagen."
+        "learning_tag": "sagen (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1707,7 +1707,7 @@
         "answer": "Ihr werdet in der Klasse sagen, was ihr denkt.",
         "goal_words": "werdet",
         "audio_filename": "line3_de_854.mp3",
-        "audio_dir": "Ihr werdet in der Klasse sagen, was ihr denkt."
+        "learning_tag": "sagen (Einfache Zukunft)"
     },
     {
         "level": 4.0,
@@ -1725,6 +1725,6 @@
         "answer": "Sie werden bald ihre Entscheidung mitteilen.",
         "goal_words": "werden",
         "audio_filename": "line5_de_15.mp3",
-        "audio_dir": "Sie werden bald ihre Entscheidung mitteilen."
+        "learning_tag": "sagen (Einfache Zukunft)"
     }
 ]

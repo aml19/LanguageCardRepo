@@ -1,114 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "hair.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "pelo",
-        "native_word": "partes del cuerpo",
-        "tag": "partes del cuerpo",
-        "prompt": "______",
-        "answer": "hair",
-        "goal_words": "hair",
-        "audio_filename": "line_en_1030.mp3",
-        "audio_dir": "hair"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "face.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "cara",
-        "native_word": "partes del cuerpo",
-        "tag": "partes del cuerpo",
-        "prompt": "______",
-        "answer": "face",
-        "goal_words": "face",
-        "audio_filename": "line_en_836.mp3",
-        "audio_dir": "face"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "heart.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "corazón",
-        "native_word": "partes del cuerpo",
-        "tag": "partes del cuerpo",
-        "prompt": "______",
-        "answer": "heart",
-        "goal_words": "heart",
-        "audio_filename": "line_en_1406.mp3",
-        "audio_dir": "heart"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "face.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "cara",
-        "native_word": "partes del cuerpo",
-        "tag": "partes del cuerpo",
-        "prompt": "______",
-        "answer": "face",
-        "goal_words": "face",
-        "audio_filename": "line_en_836.mp3",
-        "audio_dir": "face"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "gray_rocks.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "rocas grises",
-        "native_word": "colores",
-        "tag": "colores",
-        "prompt": "______ rocks",
-        "answer": "gray rocks",
-        "goal_words": "gray",
-        "audio_filename": "line_en_1010.mp3",
-        "audio_dir": "gray rocks"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "bread.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "Pan",
-        "native_word": "comida",
-        "tag": "comida",
-        "prompt": "______",
-        "answer": "Bread",
-        "goal_words": "Bread",
-        "audio_filename": "line_en_344.mp3",
-        "audio_dir": "Bread"
-    },
-    {
-        "level": 4.0,
         "image_filename": "grandmother.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -123,7 +15,7 @@
         "answer": "grandmother and granddaughter",
         "goal_words": "grandmother",
         "audio_filename": "line_en_1005.mp3",
-        "audio_dir": "grandmother and granddaughter"
+        "learning_tag": "noun - People & Roles"
     },
     {
         "level": 4.0,
@@ -141,7 +33,7 @@
         "answer": "Fireplace",
         "goal_words": "Fireplace",
         "audio_filename": "line_en_879.mp3",
-        "audio_dir": "Fireplace"
+        "learning_tag": "noun - Everyday Objects"
     },
     {
         "level": 4.0,
@@ -159,7 +51,7 @@
         "answer": "memory",
         "goal_words": "memory",
         "audio_filename": "line2_en_616.mp3",
-        "audio_dir": "memory"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -177,7 +69,7 @@
         "answer": "youth",
         "goal_words": "youth",
         "audio_filename": "line5_en_600.mp3",
-        "audio_dir": "youth"
+        "learning_tag": "noun - Time & Measurement"
     },
     {
         "level": 4.0,
@@ -195,7 +87,7 @@
         "answer": "a single flame",
         "goal_words": "flame",
         "audio_filename": "line_en_85.mp3",
-        "audio_dir": "a single flame"
+        "learning_tag": "noun - Natural Elements"
     },
     {
         "level": 4.0,
@@ -213,7 +105,7 @@
         "answer": "Time",
         "goal_words": "Time",
         "audio_filename": "line4_en_444.mp3",
-        "audio_dir": "Time"
+        "learning_tag": "noun - Time & Measurement"
     },
     {
         "level": 4.0,
@@ -231,7 +123,7 @@
         "answer": "Life",
         "goal_words": "Life",
         "audio_filename": "line2_en_515.mp3",
-        "audio_dir": "Life"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -249,7 +141,7 @@
         "answer": "field of flowers",
         "goal_words": "field",
         "audio_filename": "line_en_865.mp3",
-        "audio_dir": "field of flowers"
+        "learning_tag": "noun - Landscapes & Terrain"
     },
     {
         "level": 4.0,
@@ -267,25 +159,7 @@
         "answer": "wildflowers",
         "goal_words": "wildflowers",
         "audio_filename": "line5_en_111.mp3",
-        "audio_dir": "wildflowers"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "Un amigo",
-        "native_word": "sustantivo - Personas y roles",
-        "tag": "sustantivo - Personas y roles",
-        "prompt": "______",
-        "answer": "friend",
-        "goal_words": "friend",
-        "audio_filename": "line_en_931.mp3",
-        "audio_dir": "friend"
+        "learning_tag": "noun - Plants & Vegetation"
     },
     {
         "level": 4.0,
@@ -303,7 +177,7 @@
         "answer": "laughter",
         "goal_words": "laughter",
         "audio_filename": "line2_en_487.mp3",
-        "audio_dir": "laughter"
+        "learning_tag": "noun - Sound"
     },
     {
         "level": 4.0,
@@ -321,7 +195,7 @@
         "answer": "farm in the countryside",
         "goal_words": "countryside",
         "audio_filename": "line_en_843.mp3",
-        "audio_dir": "farm in the countryside"
+        "learning_tag": "noun - Landscapes & Terrain"
     },
     {
         "level": 4.0,
@@ -339,7 +213,7 @@
         "answer": "warmth of the fireplace",
         "goal_words": "warmth",
         "audio_filename": "line4_en_684.mp3",
-        "audio_dir": "warmth of the fireplace"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 4.0,
@@ -357,25 +231,7 @@
         "answer": "embrace",
         "goal_words": "embrace",
         "audio_filename": "line_en_789.mp3",
-        "audio_dir": "embrace"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "kitchen.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "La cocina",
-        "native_word": "sustantivo - Edificios y lugares",
-        "tag": "sustantivo - Edificios y lugares",
-        "prompt": "______",
-        "answer": "Kitchen",
-        "goal_words": "Kitchen",
-        "audio_filename": "line2_en_466.mp3",
-        "audio_dir": "Kitchen"
+        "learning_tag": "noun - Behavior"
     },
     {
         "level": 4.0,
@@ -389,11 +245,11 @@
         "native_answer": "Un desafío: una prueba de habilidad o capacidad.",
         "native_word": "sustantivo - Ideas y conceptos",
         "tag": "sustantivo - Ideas y conceptos",
-        "prompt": "______: A test of skill or ability.",
+        "prompt": "challenge: A test of skill or ability.",
         "answer": "challenge: A test of skill or ability.",
         "goal_words": "challenge",
         "audio_filename": "line_en_465.mp3",
-        "audio_dir": "challenge: A test of skill or ability."
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -407,11 +263,11 @@
         "native_answer": "La adversidad: causando sufrimiento o lucha",
         "native_word": "sustantivo - Ideas y conceptos",
         "tag": "sustantivo - Ideas y conceptos",
-        "prompt": "______: causing suffering or struggle",
+        "prompt": "hardship: causing suffering or struggle",
         "answer": "hardship: causing suffering or struggle",
         "goal_words": "hardship",
         "audio_filename": "line_en_1051.mp3",
-        "audio_dir": "hardship: causing suffering or struggle"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -429,7 +285,7 @@
         "answer": "hope",
         "goal_words": "hope",
         "audio_filename": "line_en_1454.mp3",
-        "audio_dir": "hope"
+        "learning_tag": "noun - Feelings & Emotions"
     },
     {
         "level": 4.0,
@@ -447,7 +303,7 @@
         "answer": "strong -- strength",
         "goal_words": "strength",
         "audio_filename": "line3_en_879.mp3",
-        "audio_dir": "strong -- strength"
+        "learning_tag": "noun - Skills & Abilities"
     },
     {
         "level": 4.0,
@@ -465,7 +321,7 @@
         "answer": "armchair",
         "goal_words": "armchair",
         "audio_filename": "line_en_187.mp3",
-        "audio_dir": "armchair"
+        "learning_tag": "noun - Everyday Objects"
     },
     {
         "level": 4.0,
@@ -483,7 +339,7 @@
         "answer": "spirit",
         "goal_words": "spirit",
         "audio_filename": "line3_en_831.mp3",
-        "audio_dir": "spirit"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -501,7 +357,7 @@
         "answer": "old face, full of wrinkles",
         "goal_words": "wrinkles",
         "audio_filename": "line3_en_14.mp3",
-        "audio_dir": "old face, full of wrinkles"
+        "learning_tag": "noun - Body Parts"
     },
     {
         "level": 4.0,
@@ -519,7 +375,7 @@
         "answer": "smile",
         "goal_words": "smile",
         "audio_filename": "line3_en_779.mp3",
-        "audio_dir": "smile"
+        "learning_tag": "noun - Behavior"
     },
     {
         "level": 4.0,
@@ -537,12 +393,12 @@
         "answer": "journey: travel somewhere.",
         "goal_words": "journey",
         "audio_filename": "line2_en_429.mp3",
-        "audio_dir": "journey: travel somewhere."
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
         "image_filename": "vigor.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -551,11 +407,11 @@
         "native_answer": "El vigor: fuerza física o mental, energía o vitalidad.",
         "native_word": "sustantivo - Habilidades y Habilidades",
         "tag": "sustantivo - Habilidades y Habilidades",
-        "prompt": "______: physical or mental strength, energy, or vitality.",
+        "prompt": "vigor: physical or mental strength, energy, or vitality.",
         "answer": "vigor: physical or mental strength, energy, or vitality.",
         "goal_words": "vigor",
         "audio_filename": "line4_en_656.mp3",
-        "audio_dir": "vigor: physical or mental strength, energy, or vitality."
+        "learning_tag": "noun - Skills & Abilities"
     },
     {
         "level": 4.0,
@@ -573,61 +429,7 @@
         "answer": "echo",
         "goal_words": "echo",
         "audio_filename": "line_en_770.mp3",
-        "audio_dir": "echo"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "día",
-        "native_word": "tiempo",
-        "tag": "tiempo",
-        "prompt": "______",
-        "answer": "day",
-        "goal_words": "day",
-        "audio_filename": "line_en_615.mp3",
-        "audio_dir": "day"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "love_music_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "amar la música",
-        "native_word": "verbo - sentimiento",
-        "tag": "verbo - sentimiento",
-        "prompt": "______ music",
-        "answer": "love music",
-        "goal_words": "love",
-        "audio_filename": "line2_en_557.mp3",
-        "audio_dir": "love music"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "sit.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "sentarse en las escaleras",
-        "native_word": "verbo - movimiento",
-        "tag": "verbo - movimiento",
-        "prompt": "______ on the stairs",
-        "answer": "sit on the stairs",
-        "goal_words": "sit",
-        "audio_filename": "line3_en_751.mp3",
-        "audio_dir": "sit on the stairs"
+        "learning_tag": "noun - Sound & Music"
     },
     {
         "level": 4.0,
@@ -645,11 +447,11 @@
         "answer": "lose weight",
         "goal_words": "lose",
         "audio_filename": "line2_en_552.mp3",
-        "audio_dir": "lose weight"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
-        "image_filename": "close door.jpg",
+        "image_filename": "closedoor.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -663,7 +465,7 @@
         "answer": "close door",
         "goal_words": "close",
         "audio_filename": "line_en_505.mp3",
-        "audio_dir": "close door"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
@@ -681,7 +483,7 @@
         "answer": "travel",
         "goal_words": "travel",
         "audio_filename": "line4_en_586.mp3",
-        "audio_dir": "travel"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -699,61 +501,7 @@
         "answer": "Remember",
         "goal_words": "Remember",
         "audio_filename": "line3_en_263.mp3",
-        "audio_dir": "Remember"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "run_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "correr",
-        "native_word": "verbo - movimiento",
-        "tag": "verbo - movimiento",
-        "prompt": "______",
-        "answer": "run",
-        "goal_words": "run",
-        "audio_filename": "line3_en_310.mp3",
-        "audio_dir": "run"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "reír",
-        "native_word": "verbo - yo",
-        "tag": "verbo - yo",
-        "prompt": "______",
-        "answer": "laugh",
-        "goal_words": "laugh",
-        "audio_filename": "line2_en_484.mp3",
-        "audio_dir": "laugh"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Historia corta - pasado - vieja reminiscencia",
-        "native_answer": "tocar el piano",
-        "native_word": "verbo - interactivo",
-        "tag": "verbo - interactivo",
-        "prompt": "______ piano",
-        "answer": "play piano",
-        "goal_words": "play",
-        "audio_filename": "line3_en_137.mp3",
-        "audio_dir": "play piano"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -771,7 +519,7 @@
         "answer": "recall",
         "goal_words": "recall",
         "audio_filename": "line3_en_241.mp3",
-        "audio_dir": "recall"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -789,7 +537,7 @@
         "answer": "smell",
         "goal_words": "smell",
         "audio_filename": "line3_en_778.mp3",
-        "audio_dir": "smell"
+        "learning_tag": "verb - perception"
     },
     {
         "level": 4.0,
@@ -803,11 +551,11 @@
         "native_answer": "flotar: flotar o deslizarse suavemente por el aire, a menudo describiendo el movimiento de olores o sonidos.",
         "native_word": "verbo - movimiento",
         "tag": "verbo - movimiento",
-        "prompt": "______: to float or drift gently through the air, often describing the movement of scents or sounds.",
+        "prompt": "waft: to float or drift gently through the air, often describing the movement of scents or sounds.",
         "answer": "waft: to float or drift gently through the air, often describing the movement of scents or sounds.",
         "goal_words": "waft",
         "audio_filename": "line4_en_661.mp3",
-        "audio_dir": "waft: to float or drift gently through the air, often describing the movement of scents or sounds."
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -825,7 +573,7 @@
         "answer": "fill the tank",
         "goal_words": "fill",
         "audio_filename": "line_en_870.mp3",
-        "audio_dir": "fill the tank"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
@@ -843,7 +591,7 @@
         "answer": "to grow",
         "goal_words": "grow",
         "audio_filename": "line4_en_492.mp3",
-        "audio_dir": "to grow"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
@@ -861,7 +609,7 @@
         "answer": "to become a flower",
         "goal_words": "become",
         "audio_filename": "line4_en_452.mp3",
-        "audio_dir": "to become a flower"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
@@ -879,7 +627,7 @@
         "answer": "to remain green",
         "goal_words": "remain",
         "audio_filename": "line4_en_529.mp3",
-        "audio_dir": "to remain green"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -897,7 +645,7 @@
         "answer": "draw",
         "goal_words": "draw",
         "audio_filename": "line_en_728.mp3",
-        "audio_dir": "draw"
+        "learning_tag": "verb - object"
     },
     {
         "level": 4.0,
@@ -915,7 +663,7 @@
         "answer": "pass through security",
         "goal_words": "pass",
         "audio_filename": "line3_en_79.mp3",
-        "audio_dir": "pass through security"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -933,7 +681,7 @@
         "answer": "beat a drum",
         "goal_words": "beat",
         "audio_filename": "line_en_261.mp3",
-        "audio_dir": "beat a drum"
+        "learning_tag": "verb - object"
     },
     {
         "level": 4.0,
@@ -951,6 +699,6 @@
         "answer": "whisper a secret",
         "goal_words": "whisper",
         "audio_filename": "line5_en_92.mp3",
-        "audio_dir": "whisper a secret"
+        "learning_tag": "verb - communication"
     }
 ]

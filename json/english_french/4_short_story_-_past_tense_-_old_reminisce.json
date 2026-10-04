@@ -1,24 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "old_car.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "old car",
-        "native_word": "adjective - age",
-        "tag": "adjective - age",
-        "prompt": "______ voiture",
-        "answer": "vieille voiture",
-        "goal_words": "vieille",
-        "audio_filename": "line5_fr_712.mp3",
-        "audio_dir": "vieille voiture"
-    },
-    {
-        "level": 4.0,
         "image_filename": "full.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -33,7 +15,7 @@
         "answer": "pot rempli de myrtilles",
         "goal_words": "rempli",
         "audio_filename": "line4_fr_684.mp3",
-        "audio_dir": "pot rempli de myrtilles"
+        "learning_tag": "adjectif - taille"
     },
     {
         "level": 4.0,
@@ -51,7 +33,7 @@
         "answer": "jeune fille",
         "goal_words": "jeune",
         "audio_filename": "line3_fr_248.mp3",
-        "audio_dir": "jeune fille"
+        "learning_tag": "adjectif - âge"
     },
     {
         "level": 4.0,
@@ -69,7 +51,7 @@
         "answer": "simple -- plus simple",
         "goal_words": "plus simple",
         "audio_filename": "line5_fr_64.mp3",
-        "audio_dir": "simple -- plus simple"
+        "learning_tag": "adjectif - Qualité"
     },
     {
         "level": 4.0,
@@ -87,7 +69,7 @@
         "answer": "mathématiques compliquées",
         "goal_words": "compliqué",
         "audio_filename": "line4_fr_21.mp3",
-        "audio_dir": "mathématiques compliquées"
+        "learning_tag": "adjectif - Condition"
     },
     {
         "level": 4.0,
@@ -105,7 +87,7 @@
         "answer": "résistant au vent",
         "goal_words": "résistant",
         "audio_filename": "line4_fr_848.mp3",
-        "audio_dir": "résistant au vent"
+        "learning_tag": "adjectif - qualité"
     },
     {
         "level": 4.0,
@@ -123,7 +105,7 @@
         "answer": "collation chaude et confortable",
         "goal_words": "confortable",
         "audio_filename": "line_fr_608.mp3",
-        "audio_dir": "collation chaude et confortable"
+        "learning_tag": "adjectif - Créer de l'émotion"
     },
     {
         "level": 4.0,
@@ -141,7 +123,7 @@
         "answer": "belle femme",
         "goal_words": "belle",
         "audio_filename": "line_fr_407.mp3",
-        "audio_dir": "belle femme"
+        "learning_tag": "adjectif - Créer de l'émotion"
     },
     {
         "level": 4.0,
@@ -159,7 +141,7 @@
         "answer": "jeune",
         "goal_words": "jeune",
         "audio_filename": "line3_fr_246.mp3",
-        "audio_dir": "jeune"
+        "learning_tag": "adjectif - âge"
     },
     {
         "level": 4.0,
@@ -177,43 +159,7 @@
         "answer": "une fois : en une seule occasion ou pour une seule fois.",
         "goal_words": "une fois",
         "audio_filename": "line5_fr_639.mp3",
-        "audio_dir": "une fois : en une seule occasion ou pour une seule fois."
-    },
-    {
-        "level": 4.0,
-        "image_filename": "before.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "before and after",
-        "native_word": "adverb -  Time",
-        "tag": "adverb -  Time",
-        "prompt": "______ et après",
-        "answer": "avant et après",
-        "goal_words": "avant",
-        "audio_filename": "line_fr_354.mp3",
-        "audio_dir": "avant et après"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "now.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "right now",
-        "native_word": "adverb -  Time",
-        "tag": "adverb -  Time",
-        "prompt": "______ même",
-        "answer": "maintenant même",
-        "goal_words": "maintenant",
-        "audio_filename": "line3_fr_984.mp3",
-        "audio_dir": "maintenant même"
+        "learning_tag": "adverbe - Fréquence"
     },
     {
         "level": 4.0,
@@ -231,7 +177,7 @@
         "answer": "déplacer la corde rapidement",
         "goal_words": "rapidement",
         "audio_filename": "line_fr_774.mp3",
-        "audio_dir": "déplacer la corde rapidement"
+        "learning_tag": "adverbe - Manière"
     },
     {
         "level": 4.0,
@@ -245,119 +191,11 @@
         "native_answer": "countless stars - beyond counting",
         "native_word": "adverb -  amount",
         "tag": "adverb -  amount",
-        "prompt": "des étoiles ______s - au-delà du comptage",
+        "prompt": "des étoiles innombrables - au-delà du comptage",
         "answer": "des étoiles innombrables - au-delà du comptage",
         "goal_words": "innombrable",
         "audio_filename": "line_fr_784.mp3",
-        "audio_dir": "des étoiles innombrables - au-delà du comptage"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "hair.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "hair",
-        "native_word": "body parts",
-        "tag": "body parts",
-        "prompt": "______",
-        "answer": "cheveux",
-        "goal_words": "cheveux",
-        "audio_filename": "line_fr_578.mp3",
-        "audio_dir": "cheveux"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "face.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "face",
-        "native_word": "body parts",
-        "tag": "body parts",
-        "prompt": "______",
-        "answer": "visage",
-        "goal_words": "visage",
-        "audio_filename": "line5_fr_719.mp3",
-        "audio_dir": "visage"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "heart.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "heart",
-        "native_word": "body parts",
-        "tag": "body parts",
-        "prompt": "______",
-        "answer": "cœur",
-        "goal_words": "cœur",
-        "audio_filename": "line_fr_604.mp3",
-        "audio_dir": "cœur"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "face.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "face",
-        "native_word": "body parts",
-        "tag": "body parts",
-        "prompt": "______",
-        "answer": "visage",
-        "goal_words": "visage",
-        "audio_filename": "line5_fr_719.mp3",
-        "audio_dir": "visage"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "gray_rocks.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "gray rocks",
-        "native_word": "colors",
-        "tag": "colors",
-        "prompt": "rochers ______",
-        "answer": "rochers gris",
-        "goal_words": "gris",
-        "audio_filename": "line4_fr_882.mp3",
-        "audio_dir": "rochers gris"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "bread.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "Bread",
-        "native_word": "food",
-        "tag": "food",
-        "prompt": "______",
-        "answer": "Pain",
-        "goal_words": "Pain",
-        "audio_filename": "line4_fr_519.mp3",
-        "audio_dir": "Pain"
+        "learning_tag": "adverbe - montant"
     },
     {
         "level": 4.0,
@@ -375,7 +213,7 @@
         "answer": "la grand-mère et petite-fille",
         "goal_words": "grand-mère",
         "audio_filename": "line3_fr_443.mp3",
-        "audio_dir": "la grand-mère et petite-fille"
+        "learning_tag": "nom - Personnes et rôles"
     },
     {
         "level": 4.0,
@@ -393,7 +231,7 @@
         "answer": "Une cheminée",
         "goal_words": "cheminée",
         "audio_filename": "line5_fr_623.mp3",
-        "audio_dir": "Une cheminée"
+        "learning_tag": "nom - Objets du quotidien"
     },
     {
         "level": 4.0,
@@ -411,7 +249,7 @@
         "answer": "Une mémoire",
         "goal_words": "mémoire",
         "audio_filename": "line5_fr_653.mp3",
-        "audio_dir": "Une mémoire"
+        "learning_tag": "nom - Idées et concepts"
     },
     {
         "level": 4.0,
@@ -429,7 +267,7 @@
         "answer": "La jeunesse",
         "goal_words": "jeunesse",
         "audio_filename": "line3_fr_447.mp3",
-        "audio_dir": "La jeunesse"
+        "learning_tag": "nom - Temps et mesure"
     },
     {
         "level": 4.0,
@@ -447,7 +285,7 @@
         "answer": "Une seule flamme",
         "goal_words": "flamme",
         "audio_filename": "line5_fr_670.mp3",
-        "audio_dir": "Une seule flamme"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -465,7 +303,7 @@
         "answer": "Le temps",
         "goal_words": "temps",
         "audio_filename": "line3_fr_840.mp3",
-        "audio_dir": "Le temps"
+        "learning_tag": "nom - Temps et mesure"
     },
     {
         "level": 4.0,
@@ -483,7 +321,7 @@
         "answer": "La vie",
         "goal_words": "vie",
         "audio_filename": "line3_fr_570.mp3",
-        "audio_dir": "La vie"
+        "learning_tag": "nom - Idées et concepts"
     },
     {
         "level": 4.0,
@@ -501,7 +339,7 @@
         "answer": "Un champ de fleurs",
         "goal_words": "champ",
         "audio_filename": "line5_fr_543.mp3",
-        "audio_dir": "Un champ de fleurs"
+        "learning_tag": "nom - Paysages et terrains"
     },
     {
         "level": 4.0,
@@ -519,7 +357,7 @@
         "answer": "Des fleurs sauvages",
         "goal_words": "fleurs sauvages",
         "audio_filename": "line_fr_785.mp3",
-        "audio_dir": "Des fleurs sauvages"
+        "learning_tag": "nom - Plantes et végétation"
     },
     {
         "level": 4.0,
@@ -537,7 +375,7 @@
         "answer": "Un rire",
         "goal_words": "rire",
         "audio_filename": "line5_fr_597.mp3",
-        "audio_dir": "Un rire"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -555,7 +393,7 @@
         "answer": "Une ferme à la campagne",
         "goal_words": "campagne",
         "audio_filename": "line5_fr_638.mp3",
-        "audio_dir": "Une ferme à la campagne"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -573,7 +411,7 @@
         "answer": "La chaleur de la cheminée",
         "goal_words": "chaleur",
         "audio_filename": "line3_fr_391.mp3",
-        "audio_dir": "La chaleur de la cheminée"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -591,25 +429,7 @@
         "answer": "Une étreinte",
         "goal_words": "étreinte",
         "audio_filename": "line5_fr_636.mp3",
-        "audio_dir": "Une étreinte"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "kitchen.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "Kitchen",
-        "native_word": "noun - Buildings & Places",
-        "tag": "noun - Buildings & Places",
-        "prompt": "Une ______",
-        "answer": "Une cuisine",
-        "goal_words": "cuisine",
-        "audio_filename": "line5_fr_628.mp3",
-        "audio_dir": "Une cuisine"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -623,11 +443,11 @@
         "native_answer": "challenge: A test of skill or ability.",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
-        "prompt": "un ______ : Un test de compétence ou d'aptitude.",
+        "prompt": "un défi : Un test de compétence ou d'aptitude.",
         "answer": "un défi : Un test de compétence ou d'aptitude.",
         "goal_words": "défi",
         "audio_filename": "line5_fr_552.mp3",
-        "audio_dir": "un défi : Un test de compétence ou d'aptitude."
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -641,11 +461,11 @@
         "native_answer": "hardship: causing suffering or struggle",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
-        "prompt": "Une ______ : causant de la souffrance ou de la lutte",
+        "prompt": "Une difficulté : causant de la souffrance ou de la lutte",
         "answer": "Une difficulté : causant de la souffrance ou de la lutte",
         "goal_words": "difficulté",
         "audio_filename": "line5_fr_631.mp3",
-        "audio_dir": "Une difficulté : causant de la souffrance ou de la lutte"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -663,7 +483,7 @@
         "answer": "Un espoir",
         "goal_words": "espoir",
         "audio_filename": "line5_fr_560.mp3",
-        "audio_dir": "Un espoir"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -681,7 +501,7 @@
         "answer": "Un fort -- une force",
         "goal_words": "force",
         "audio_filename": "line5_fr_563.mp3",
-        "audio_dir": "Un fort -- une force"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -699,7 +519,7 @@
         "answer": "Un fauteuil",
         "goal_words": "fauteuil",
         "audio_filename": "line5_fr_562.mp3",
-        "audio_dir": "Un fauteuil"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -717,7 +537,7 @@
         "answer": "Un esprit",
         "goal_words": "esprit",
         "audio_filename": "line5_fr_561.mp3",
-        "audio_dir": "Un esprit"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -735,7 +555,7 @@
         "answer": "Un visage vieux, plein de rides",
         "goal_words": "rides",
         "audio_filename": "line5_fr_610.mp3",
-        "audio_dir": "Un visage vieux, plein de rides"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -753,12 +573,12 @@
         "answer": "un voyage : se déplacer quelque part.",
         "goal_words": "voyage",
         "audio_filename": "line5_fr_613.mp3",
-        "audio_dir": "un voyage : se déplacer quelque part."
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
         "image_filename": "vigor.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -767,11 +587,11 @@
         "native_answer": "vigor: physical or mental strength, energy, or vitality.",
         "native_word": "noun - Skills & Abilities",
         "tag": "noun - Skills & Abilities",
-        "prompt": "la ______ : force physique ou mentale, énergie ou vitalité.",
+        "prompt": "la vigueur : force physique ou mentale, énergie ou vitalité.",
         "answer": "la vigueur : force physique ou mentale, énergie ou vitalité.",
         "goal_words": "vigueur",
         "audio_filename": "line3_fr_571.mp3",
-        "audio_dir": "la vigueur : force physique ou mentale, énergie ou vitalité."
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -789,61 +609,7 @@
         "answer": "Un écho",
         "goal_words": "écho",
         "audio_filename": "line5_fr_556.mp3",
-        "audio_dir": "Un écho"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "day",
-        "native_word": "time",
-        "tag": "time",
-        "prompt": "______",
-        "answer": "jour",
-        "goal_words": "jour",
-        "audio_filename": "line3_fr_259.mp3",
-        "audio_dir": "jour"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "love_music_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "love music",
-        "native_word": "verb - feeling",
-        "tag": "verb - feeling",
-        "prompt": "______ la musique",
-        "answer": "aimer la musique",
-        "goal_words": "aimer",
-        "audio_filename": "line_fr_241.mp3",
-        "audio_dir": "aimer la musique"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "sit.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "sit on the stairs",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______ sur les escaliers",
-        "answer": "s'asseoir sur les escaliers",
-        "goal_words": "s'asseoir",
-        "audio_filename": "line4_fr_892.mp3",
-        "audio_dir": "s'asseoir sur les escaliers"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -861,11 +627,11 @@
         "answer": "perdre du poids",
         "goal_words": "perdre",
         "audio_filename": "line4_fr_600.mp3",
-        "audio_dir": "perdre du poids"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 4.0,
-        "image_filename": "close door.jpg",
+        "image_filename": "closedoor.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -879,7 +645,7 @@
         "answer": "fermer la porte",
         "goal_words": "fermer",
         "audio_filename": "line2_fr_220.mp3",
-        "audio_dir": "fermer la porte"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 4.0,
@@ -897,7 +663,7 @@
         "answer": "voyager",
         "goal_words": "voyager",
         "audio_filename": "line5_fr_876.mp3",
-        "audio_dir": "voyager"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -915,61 +681,7 @@
         "answer": "Se souvenir",
         "goal_words": "Se souvenir",
         "audio_filename": "line4_fr_994.mp3",
-        "audio_dir": "Se souvenir"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "run_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "run",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______",
-        "answer": "courir",
-        "goal_words": "courir",
-        "audio_filename": "line_fr_675.mp3",
-        "audio_dir": "courir"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "laugh",
-        "native_word": "verb - self",
-        "tag": "verb - self",
-        "prompt": "______",
-        "answer": "rire",
-        "goal_words": "rire",
-        "audio_filename": "line4_fr_877.mp3",
-        "audio_dir": "rire"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - old reminisce",
-        "native_answer": "play piano",
-        "native_word": "verb - interactive",
-        "tag": "verb - interactive",
-        "prompt": "______ du piano",
-        "answer": "jouer du piano",
-        "goal_words": "jouer",
-        "audio_filename": "line3_fr_258.mp3",
-        "audio_dir": "jouer du piano"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -987,7 +699,7 @@
         "answer": "rappeler",
         "goal_words": "rappeler",
         "audio_filename": "line4_fr_802.mp3",
-        "audio_dir": "rappeler"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -1005,7 +717,7 @@
         "answer": "odeur",
         "goal_words": "odeur",
         "audio_filename": "line4_fr_398.mp3",
-        "audio_dir": "odeur"
+        "learning_tag": "verbe - perception"
     },
     {
         "level": 4.0,
@@ -1019,11 +731,11 @@
         "native_answer": "waft: to float or drift gently through the air, often describing the movement of scents or sounds.",
         "native_word": "verb - movement",
         "tag": "verb - movement",
-        "prompt": "______ : ______ ou dériver doucement dans l'air, décrivant souvent le mouvement des parfums ou des sons.",
+        "prompt": "flotter : flotter ou dériver doucement dans l'air, décrivant souvent le mouvement des parfums ou des sons.",
         "answer": "flotter : flotter ou dériver doucement dans l'air, décrivant souvent le mouvement des parfums ou des sons.",
         "goal_words": "flotter",
         "audio_filename": "line2_fr_242.mp3",
-        "audio_dir": "flotter : flotter ou dériver doucement dans l'air, décrivant souvent le mouvement des parfums ou des sons."
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -1041,7 +753,7 @@
         "answer": "remplir le réservoir",
         "goal_words": "remplir",
         "audio_filename": "line4_fr_836.mp3",
-        "audio_dir": "remplir le réservoir"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 4.0,
@@ -1059,7 +771,7 @@
         "answer": "grandir",
         "goal_words": "grandir",
         "audio_filename": "line2_fr_282.mp3",
-        "audio_dir": "grandir"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 4.0,
@@ -1077,7 +789,7 @@
         "answer": "devenir une fleur",
         "goal_words": "devenir",
         "audio_filename": "line_fr_805.mp3",
-        "audio_dir": "devenir une fleur"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 4.0,
@@ -1095,7 +807,7 @@
         "answer": "rester vert",
         "goal_words": "rester",
         "audio_filename": "line4_fr_856.mp3",
-        "audio_dir": "rester vert"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -1113,7 +825,7 @@
         "answer": "dessiner",
         "goal_words": "dessiner",
         "audio_filename": "line_fr_797.mp3",
-        "audio_dir": "dessiner"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -1131,7 +843,7 @@
         "answer": "passer par la sécurité",
         "goal_words": "passer",
         "audio_filename": "line4_fr_573.mp3",
-        "audio_dir": "passer par la sécurité"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -1149,7 +861,7 @@
         "answer": "battre un tambour",
         "goal_words": "battre",
         "audio_filename": "line_fr_391.mp3",
-        "audio_dir": "battre un tambour"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -1167,6 +879,6 @@
         "answer": "chuchoter un secret",
         "goal_words": "chuchoter",
         "audio_filename": "line_fr_591.mp3",
-        "audio_dir": "chuchoter un secret"
+        "learning_tag": "verbe - communication"
     }
 ]

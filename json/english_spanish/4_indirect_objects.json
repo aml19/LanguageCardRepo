@@ -15,7 +15,7 @@
         "answer": "Comando - Siéntate en el banco",
         "goal_words": "Siéntate en el banco",
         "audio_filename": "line_es_579.mp3",
-        "audio_dir": "Comando - Siéntate en el banco"
+        "learning_tag": "imperativo - objeto directo"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "Comando - Siéntate en él",
         "goal_words": "Siéntate en él",
         "audio_filename": "line_es_578.mp3",
-        "audio_dir": "Comando - Siéntate en él"
+        "learning_tag": "imperativo - pronombre"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "(Yo) tú vas conmigo",
         "goal_words": "conmigo",
         "audio_filename": "line_es_175.mp3",
-        "audio_dir": "(Yo) tú vas conmigo"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "(Tú) yo voy contigo",
         "goal_words": "contigo",
         "audio_filename": "line_es_134.mp3",
-        "audio_dir": "(Tú) yo voy contigo"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "(Ustedes) yo voy con ustedes",
         "goal_words": "con ustedes",
         "audio_filename": "line_es_161.mp3",
-        "audio_dir": "(Ustedes) yo voy con ustedes"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "(Él) yo voy con él",
         "goal_words": "con él",
         "audio_filename": "line_es_82.mp3",
-        "audio_dir": "(Él) yo voy con él"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "(Ella) yo voy con ella",
         "goal_words": "con ella",
         "audio_filename": "line_es_94.mp3",
-        "audio_dir": "(Ella) yo voy con ella"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "(Nosotros) ellos van con nosotros",
         "goal_words": "con nosotros",
         "audio_filename": "line_es_118.mp3",
-        "audio_dir": "(Nosotros) ellos van con nosotros"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "(Ellos) nosotros vamos con ellos",
         "goal_words": "con ellos",
         "audio_filename": "line_es_104.mp3",
-        "audio_dir": "(Ellos) nosotros vamos con ellos"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "(Yo) el regalo es para mí",
         "goal_words": "para mí",
         "audio_filename": "line_es_165.mp3",
-        "audio_dir": "(Yo) el regalo es para mí"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "(Tú) el regalo es para ti",
         "goal_words": "para ti",
         "audio_filename": "line_es_125.mp3",
-        "audio_dir": "(Tú) el regalo es para ti"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "(Ustedes) el regalo es para ustedes",
         "goal_words": "para ustedes",
         "audio_filename": "line_es_147.mp3",
-        "audio_dir": "(Ustedes) el regalo es para ustedes"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "(Él) el regalo es para él",
         "goal_words": "para él",
         "audio_filename": "line_es_73.mp3",
-        "audio_dir": "(Él) el regalo es para él"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -249,7 +249,7 @@
         "answer": "(Ella) el regalo es para ella",
         "goal_words": "para ella",
         "audio_filename": "line_es_85.mp3",
-        "audio_dir": "(Ella) el regalo es para ella"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -267,7 +267,7 @@
         "answer": "(Nosotros) el regalo es para nosotros",
         "goal_words": "para nosotros",
         "audio_filename": "line_es_109.mp3",
-        "audio_dir": "(Nosotros) el regalo es para nosotros"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -285,7 +285,7 @@
         "answer": "(Ellos) el regalo es para ellos",
         "goal_words": "para ellos",
         "audio_filename": "line_es_95.mp3",
-        "audio_dir": "(Ellos) el regalo es para ellos"
+        "learning_tag": "objeto indirecto - frase preposicional"
     },
     {
         "level": 4.0,
@@ -303,7 +303,7 @@
         "answer": "yo -> me",
         "goal_words": "me",
         "audio_filename": "line5_es_912.mp3",
-        "audio_dir": "yo -> me"
+        "learning_tag": "objeto indirecto - pronombre"
     },
     {
         "level": 4.0,
@@ -321,7 +321,7 @@
         "answer": "tú -> te",
         "goal_words": "te",
         "audio_filename": "line5_es_105.mp3",
-        "audio_dir": "tú -> te"
+        "learning_tag": "objeto indirecto - pronombre"
     },
     {
         "level": 4.0,
@@ -339,7 +339,7 @@
         "answer": "ustedes -> les",
         "goal_words": "les",
         "audio_filename": "line5_es_694.mp3",
-        "audio_dir": "ustedes -> les"
+        "learning_tag": "objeto indirecto - pronombre"
     },
     {
         "level": 4.0,
@@ -357,7 +357,7 @@
         "answer": "él -> lo",
         "goal_words": "lo",
         "audio_filename": "line_es_865.mp3",
-        "audio_dir": "él -> lo"
+        "learning_tag": "objeto indirecto - pronombre"
     },
     {
         "level": 4.0,
@@ -375,7 +375,7 @@
         "answer": "ella -> la",
         "goal_words": "la",
         "audio_filename": "line2_es_456.mp3",
-        "audio_dir": "ella -> la"
+        "learning_tag": "objeto indirecto - pronombre"
     },
     {
         "level": 4.0,
@@ -393,7 +393,7 @@
         "answer": "ellos -> los",
         "goal_words": "los",
         "audio_filename": "line2_es_672.mp3",
-        "audio_dir": "ellos -> los"
+        "learning_tag": "objeto indirecto - pronombre"
     },
     {
         "level": 4.0,
@@ -411,7 +411,7 @@
         "answer": "nosotros/nosotras -> nos",
         "goal_words": "nos",
         "audio_filename": "line4_es_371.mp3",
-        "audio_dir": "nosotros/nosotras -> nos"
+        "learning_tag": "objeto indirecto - pronombre"
     },
     {
         "level": 4.0,
@@ -429,7 +429,7 @@
         "answer": "Sam va a sentarse en el banco",
         "goal_words": "sentarse en el banco",
         "audio_filename": "line4_es_835.mp3",
-        "audio_dir": "Sam va a sentarse en el banco"
+        "learning_tag": "verbo, futuro - objeto directo"
     },
     {
         "level": 4.0,
@@ -447,7 +447,7 @@
         "answer": "Sam se sentará en el banco",
         "goal_words": "se sentará en el banco",
         "audio_filename": "line4_es_827.mp3",
-        "audio_dir": "Sam se sentará en el banco"
+        "learning_tag": "verbo, futuro - objeto directo"
     },
     {
         "level": 4.0,
@@ -465,7 +465,7 @@
         "answer": "Sam va a sentarse en él",
         "goal_words": "sentarse en él",
         "audio_filename": "line4_es_834.mp3",
-        "audio_dir": "Sam va a sentarse en él"
+        "learning_tag": "verbo, futuro - pronombre"
     },
     {
         "level": 4.0,
@@ -483,7 +483,7 @@
         "answer": "Sam se sentará en él",
         "goal_words": "se sentará en él",
         "audio_filename": "line4_es_826.mp3",
-        "audio_dir": "Sam se sentará en él"
+        "learning_tag": "verbo, futuro - pronombre"
     },
     {
         "level": 4.0,
@@ -501,7 +501,7 @@
         "answer": "Sam no va a sentarse en el banco",
         "goal_words": "sentarse en el banco",
         "audio_filename": "line4_es_821.mp3",
-        "audio_dir": "Sam no va a sentarse en el banco"
+        "learning_tag": "verbo, futuro, negativo - objeto directo"
     },
     {
         "level": 4.0,
@@ -519,7 +519,7 @@
         "answer": "Sam no va a sentarse en él",
         "goal_words": "sentarse en él",
         "audio_filename": "line4_es_820.mp3",
-        "audio_dir": "Sam no va a sentarse en él"
+        "learning_tag": "verbo, futuro, negativo - pronombre"
     },
     {
         "level": 4.0,
@@ -537,7 +537,7 @@
         "answer": "(Yo) tú me diste dinero",
         "goal_words": "me diste dinero",
         "audio_filename": "line_es_172.mp3",
-        "audio_dir": "(Yo) tú me diste dinero"
+        "learning_tag": "verbo, pasado - objeto directo"
     },
     {
         "level": 4.0,
@@ -555,7 +555,7 @@
         "answer": "(tú) yo te di dinero",
         "goal_words": "te di dinero",
         "audio_filename": "line_es_130.mp3",
-        "audio_dir": "(tú) yo te di dinero"
+        "learning_tag": "verbo, pasado - objeto directo"
     },
     {
         "level": 4.0,
@@ -573,7 +573,7 @@
         "answer": "(ustedes) yo les di dinero",
         "goal_words": "les di dinero",
         "audio_filename": "line_es_157.mp3",
-        "audio_dir": "(ustedes) yo les di dinero"
+        "learning_tag": "verbo, pasado - objeto directo"
     },
     {
         "level": 4.0,
@@ -591,7 +591,7 @@
         "answer": "(él) yo le di dinero",
         "goal_words": "le di dinero",
         "audio_filename": "line_es_74.mp3",
-        "audio_dir": "(él) yo le di dinero"
+        "learning_tag": "verbo, pasado - objeto directo"
     },
     {
         "level": 4.0,
@@ -609,7 +609,7 @@
         "answer": "(ella) yo le di dinero",
         "goal_words": "le di dinero",
         "audio_filename": "line_es_90.mp3",
-        "audio_dir": "(ella) yo le di dinero"
+        "learning_tag": "verbo, pasado - objeto directo"
     },
     {
         "level": 4.0,
@@ -627,7 +627,7 @@
         "answer": "(nosotros) ellos nos dieron dinero",
         "goal_words": "nos dieron dinero",
         "audio_filename": "line_es_115.mp3",
-        "audio_dir": "(nosotros) ellos nos dieron dinero"
+        "learning_tag": "verbo, pasado - objeto directo"
     },
     {
         "level": 4.0,
@@ -645,7 +645,7 @@
         "answer": "(ellos) nosotros les dimos dinero",
         "goal_words": "les dimos dinero",
         "audio_filename": "line_es_99.mp3",
-        "audio_dir": "(ellos) nosotros les dimos dinero"
+        "learning_tag": "verbo, pasado - objeto directo"
     },
     {
         "level": 4.0,
@@ -663,7 +663,7 @@
         "answer": "Sam se sentó en el banco",
         "goal_words": "se sentó en el banco",
         "audio_filename": "line4_es_829.mp3",
-        "audio_dir": "Sam se sentó en el banco"
+        "learning_tag": "verbo, pasado - objeto directo"
     },
     {
         "level": 4.0,
@@ -681,7 +681,7 @@
         "answer": "Sam se sentó en él",
         "goal_words": "se sentó en él",
         "audio_filename": "line4_es_828.mp3",
-        "audio_dir": "Sam se sentó en él"
+        "learning_tag": "verbo, pasado - pronombre"
     },
     {
         "level": 4.0,
@@ -699,7 +699,7 @@
         "answer": "(Yo) tú me das dinero",
         "goal_words": "me das dinero",
         "audio_filename": "line_es_171.mp3",
-        "audio_dir": "(Yo) tú me das dinero"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -717,7 +717,7 @@
         "answer": "(tú) yo te doy dinero",
         "goal_words": "te doy dinero",
         "audio_filename": "line_es_131.mp3",
-        "audio_dir": "(tú) yo te doy dinero"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -735,7 +735,7 @@
         "answer": "(ustedes) yo les doy dinero",
         "goal_words": "les doy dinero",
         "audio_filename": "line_es_158.mp3",
-        "audio_dir": "(ustedes) yo les doy dinero"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -753,7 +753,7 @@
         "answer": "(él) yo le doy dinero",
         "goal_words": "le doy dinero",
         "audio_filename": "line_es_75.mp3",
-        "audio_dir": "(él) yo le doy dinero"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -771,7 +771,7 @@
         "answer": "(ella) yo le doy dinero",
         "goal_words": "le doy dinero",
         "audio_filename": "line_es_91.mp3",
-        "audio_dir": "(ella) yo le doy dinero"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -789,7 +789,7 @@
         "answer": "(nosotros) ellos nos dan dinero",
         "goal_words": "nos dan dinero",
         "audio_filename": "line_es_114.mp3",
-        "audio_dir": "(nosotros) ellos nos dan dinero"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -807,7 +807,7 @@
         "answer": "(ellos) nosotros les damos dinero",
         "goal_words": "les damos dinero",
         "audio_filename": "line_es_98.mp3",
-        "audio_dir": "(ellos) nosotros les damos dinero"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -825,7 +825,7 @@
         "answer": "Sam se sienta en el banco",
         "goal_words": "se sienta en el banco",
         "audio_filename": "line4_es_831.mp3",
-        "audio_dir": "Sam se sienta en el banco"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -843,7 +843,7 @@
         "answer": "Sam quiere sentarse en el banco",
         "goal_words": "sentarse en el banco",
         "audio_filename": "line4_es_825.mp3",
-        "audio_dir": "Sam quiere sentarse en el banco"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -861,7 +861,7 @@
         "answer": "Sam está sentado en el banco",
         "goal_words": "sentado en el banco",
         "audio_filename": "line4_es_809.mp3",
-        "audio_dir": "Sam está sentado en el banco"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -879,7 +879,7 @@
         "answer": "Sam no se sienta en él",
         "goal_words": "se sienta en él",
         "audio_filename": "line4_es_817.mp3",
-        "audio_dir": "Sam no se sienta en él"
+        "learning_tag": "verbo, presente - objeto directo"
     },
     {
         "level": 4.0,
@@ -897,7 +897,7 @@
         "answer": "Sam se sienta en él",
         "goal_words": "se sienta en él",
         "audio_filename": "line4_es_830.mp3",
-        "audio_dir": "Sam se sienta en él"
+        "learning_tag": "verbo, presente - pronombre"
     },
     {
         "level": 4.0,
@@ -915,7 +915,7 @@
         "answer": "Sam quiere sentarse en él",
         "goal_words": "sentarse en él",
         "audio_filename": "line4_es_824.mp3",
-        "audio_dir": "Sam quiere sentarse en él"
+        "learning_tag": "verbo, presente - pronombre"
     },
     {
         "level": 4.0,
@@ -933,7 +933,7 @@
         "answer": "Sam está sentado en él",
         "goal_words": "sentado en él",
         "audio_filename": "line4_es_808.mp3",
-        "audio_dir": "Sam está sentado en él"
+        "learning_tag": "verbo, presente - pronombre"
     },
     {
         "level": 4.0,
@@ -951,6 +951,6 @@
         "answer": "Sam no se sienta en el banco",
         "goal_words": "sienta en el banco",
         "audio_filename": "line4_es_818.mp3",
-        "audio_dir": "Sam no se sienta en el banco"
+        "learning_tag": "verbo, presente, negativo - objeto directo"
     }
 ]

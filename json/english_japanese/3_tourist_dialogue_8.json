@@ -15,7 +15,7 @@
         "answer": "受付係",
         "goal_words": "受付係",
         "audio_filename": "line2_ja_506.mp3",
-        "audio_dir": "受付係"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "今何時ですか？午後",
         "goal_words": "午後",
         "audio_filename": "line2_ja_294.mp3",
-        "audio_dir": "今何時ですか？午後"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "予約",
         "goal_words": "予約",
         "audio_filename": "line2_ja_273.mp3",
-        "audio_dir": "予約"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "名前",
         "goal_words": "名前",
         "audio_filename": "line2_ja_536.mp3",
-        "audio_dir": "名前"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "空の部屋",
         "goal_words": "部屋",
         "audio_filename": "line4_ja_284.mp3",
-        "audio_dir": "空の部屋"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "夜",
         "goal_words": "夜",
         "audio_filename": "line2_ja_704.mp3",
-        "audio_dir": "夜"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "身分証明書",
         "goal_words": "身分証明書",
         "audio_filename": "line4_ja_641.mp3",
-        "audio_dir": "身分証明書"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "クレジットカード",
         "goal_words": "クレジットカード",
         "audio_filename": "line_ja_581.mp3",
-        "audio_dir": "クレジットカード"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "床",
         "goal_words": "床",
         "audio_filename": "line2_ja_885.mp3",
-        "audio_dir": "床"
+        "learning_tag": "名詞 - 家の中で"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "キー・カード",
         "goal_words": "キー・カード",
         "audio_filename": "line_ja_557.mp3",
-        "audio_dir": "キー・カード"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "朝食",
         "goal_words": "朝食",
         "audio_filename": "line3_ja_634.mp3",
-        "audio_dir": "朝食"
+        "learning_tag": "台所"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "ダイニングルーム",
         "goal_words": "ダイニングルーム",
         "audio_filename": "line_ja_810.mp3",
-        "audio_dir": "ダイニングルーム"
+        "learning_tag": "名詞 - 家の中で"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "Wi-Fi",
         "goal_words": "Wi-Fi",
         "audio_filename": "line_ja_245.mp3",
-        "audio_dir": "Wi-Fi"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "ネットワーク",
         "goal_words": "ネットワーク",
         "audio_filename": "line_ja_907.mp3",
-        "audio_dir": "ネットワーク"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "パスワード",
         "goal_words": "パスワード",
         "audio_filename": "line_ja_932.mp3",
-        "audio_dir": "パスワード"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "残る",
         "goal_words": "残る",
         "audio_filename": "line3_ja_717.mp3",
-        "audio_dir": "残る"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 3.0,
@@ -303,6 +303,6 @@
         "answer": "秒",
         "goal_words": "秒",
         "audio_filename": "line4_ja_275.mp3",
-        "audio_dir": "秒"
+        "learning_tag": "時間 (jikan)"
     }
 ]

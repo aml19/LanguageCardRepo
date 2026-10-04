@@ -15,7 +15,7 @@
         "answer": "Terreno de camping",
         "goal_words": "Terreno de camping",
         "audio_filename": "lineoct_es_1311.mp3",
-        "audio_dir": "Terreno de camping"
+        "learning_tag": "Lugar - Alojamiento"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "Albergue",
         "goal_words": "Albergue",
         "audio_filename": "lineoct_es_113.mp3",
-        "audio_dir": "Albergue"
+        "learning_tag": "Lugar - Alojamiento"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "Hotel",
         "goal_words": "Hotel",
         "audio_filename": "lineoct_es_805.mp3",
-        "audio_dir": "Hotel"
+        "learning_tag": "Lugar - Alojamiento"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "Complejo",
         "goal_words": "Complejo",
         "audio_filename": "lineoct_es_246.mp3",
-        "audio_dir": "Complejo"
+        "learning_tag": "Lugar - Alojamiento"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "Acuario",
         "goal_words": "Acuario",
         "audio_filename": "lineoct_es_94.mp3",
-        "audio_dir": "Acuario"
+        "learning_tag": "Lugar - Cultura y entretenimiento"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "Galería de arte",
         "goal_words": "Galería de arte",
         "audio_filename": "lineoct_es_721.mp3",
-        "audio_dir": "Galería de arte"
+        "learning_tag": "Lugar - Cultura y entretenimiento"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "Cine / sala de cine",
         "goal_words": "Cine / sala de cine",
         "audio_filename": "lineoct_es_234.mp3",
-        "audio_dir": "Cine / sala de cine"
+        "learning_tag": "Lugar - Cultura y entretenimiento"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "Sala de conciertos",
         "goal_words": "Sala de conciertos",
         "audio_filename": "lineoct_es_1201.mp3",
-        "audio_dir": "Sala de conciertos"
+        "learning_tag": "Lugar - Cultura y entretenimiento"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "Museo",
         "goal_words": "Museo",
         "audio_filename": "lineoct_es_993.mp3",
-        "audio_dir": "Museo"
+        "learning_tag": "Lugar - Cultura y entretenimiento"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "Estadio",
         "goal_words": "Estadio",
         "audio_filename": "lineoct_es_642.mp3",
-        "audio_dir": "Estadio"
+        "learning_tag": "Lugar - Cultura y entretenimiento"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "Teatro",
         "goal_words": "Teatro",
         "audio_filename": "lineoct_es_1297.mp3",
-        "audio_dir": "Teatro"
+        "learning_tag": "Lugar - Cultura y entretenimiento"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "Zoo",
         "goal_words": "Zoo",
         "audio_filename": "lineoct_es_1443.mp3",
-        "audio_dir": "Zoo"
+        "learning_tag": "Lugar - Cultura y entretenimiento"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "Restaurante",
         "goal_words": "Restaurante",
         "audio_filename": "lineoct_es_1180.mp3",
-        "audio_dir": "Restaurante"
+        "learning_tag": "Lugar - Comida y restaurantes"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "Panadería",
         "goal_words": "Panadería",
         "audio_filename": "lineoct_es_1050.mp3",
-        "audio_dir": "Panadería"
+        "learning_tag": "Lugar - Comida y restaurantes"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "Bar",
         "goal_words": "Bar",
         "audio_filename": "lineoct_es_174.mp3",
-        "audio_dir": "Bar"
+        "learning_tag": "Lugar - Comida y restaurantes"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "Cafetería",
         "goal_words": "Cafetería",
         "audio_filename": "lineoct_es_202.mp3",
-        "audio_dir": "Cafetería"
+        "learning_tag": "Lugar - Comida y restaurantes"
     },
     {
         "level": 3.0,
@@ -303,7 +303,7 @@
         "answer": "Restaurante de comida rápida",
         "goal_words": "Restaurante de comida rápida",
         "audio_filename": "lineoct_es_1181.mp3",
-        "audio_dir": "Restaurante de comida rápida"
+        "learning_tag": "Lugar - Comida y restaurantes"
     },
     {
         "level": 3.0,
@@ -321,7 +321,7 @@
         "answer": "carrito de comida",
         "goal_words": "carrito de comida",
         "audio_filename": "lineoct_es_218.mp3",
-        "audio_dir": "carrito de comida"
+        "learning_tag": "Lugar - Comida y restaurantes"
     },
     {
         "level": 3.0,
@@ -339,7 +339,7 @@
         "answer": "Heladería",
         "goal_words": "Heladería",
         "audio_filename": "lineoct_es_784.mp3",
-        "audio_dir": "Heladería"
+        "learning_tag": "Lugar - Comida y restaurantes"
     },
     {
         "level": 3.0,
@@ -357,7 +357,7 @@
         "answer": "Pizzería",
         "goal_words": "Pizzería",
         "audio_filename": "lineoct_es_1101.mp3",
-        "audio_dir": "Pizzería"
+        "learning_tag": "Lugar - Comida y restaurantes"
     },
     {
         "level": 3.0,
@@ -375,7 +375,7 @@
         "answer": "Departamento",
         "goal_words": "Departamento",
         "audio_filename": "lineoct_es_320.mp3",
-        "audio_dir": "Departamento"
+        "learning_tag": "Lugar - Vivienda"
     },
     {
         "level": 3.0,
@@ -393,7 +393,7 @@
         "answer": "Casa",
         "goal_words": "Casa",
         "audio_filename": "lineoct_es_219.mp3",
-        "audio_dir": "Casa"
+        "learning_tag": "Lugar - Vivienda"
     },
     {
         "level": 3.0,
@@ -411,7 +411,7 @@
         "answer": "Vecindario",
         "goal_words": "Vecindario",
         "audio_filename": "lineoct_es_1388.mp3",
-        "audio_dir": "Vecindario"
+        "learning_tag": "Lugar - Vivienda"
     },
     {
         "level": 3.0,
@@ -429,7 +429,7 @@
         "answer": "Playa",
         "goal_words": "Playa",
         "audio_filename": "lineoct_es_1102.mp3",
-        "audio_dir": "Playa"
+        "learning_tag": "Lugar - Lugares al aire libre"
     },
     {
         "level": 3.0,
@@ -447,7 +447,7 @@
         "answer": "Bosque",
         "goal_words": "Bosque",
         "audio_filename": "lineoct_es_186.mp3",
-        "audio_dir": "Bosque"
+        "learning_tag": "Lugar - Lugares al aire libre"
     },
     {
         "level": 3.0,
@@ -465,7 +465,7 @@
         "answer": "Jardín",
         "goal_words": "Jardín",
         "audio_filename": "lineoct_es_838.mp3",
-        "audio_dir": "Jardín"
+        "learning_tag": "Lugar - Lugares al aire libre"
     },
     {
         "level": 3.0,
@@ -483,7 +483,7 @@
         "answer": "Montaña",
         "goal_words": "Montaña",
         "audio_filename": "lineoct_es_983.mp3",
-        "audio_dir": "Montaña"
+        "learning_tag": "Lugar - Lugares al aire libre"
     },
     {
         "level": 3.0,
@@ -501,7 +501,7 @@
         "answer": "Parque",
         "goal_words": "Parque",
         "audio_filename": "lineoct_es_1077.mp3",
-        "audio_dir": "Parque"
+        "learning_tag": "Lugar - Lugares al aire libre"
     },
     {
         "level": 3.0,
@@ -519,7 +519,7 @@
         "answer": "Patio de juegos",
         "goal_words": "Patio de juegos",
         "audio_filename": "lineoct_es_1082.mp3",
-        "audio_dir": "Patio de juegos"
+        "learning_tag": "Lugar - Lugares al aire libre"
     },
     {
         "level": 3.0,
@@ -537,7 +537,7 @@
         "answer": "Plaza",
         "goal_words": "Plaza",
         "audio_filename": "lineoct_es_1103.mp3",
-        "audio_dir": "Plaza"
+        "learning_tag": "Lugar - Lugares al aire libre"
     },
     {
         "level": 3.0,
@@ -555,7 +555,7 @@
         "answer": "Banco",
         "goal_words": "Banco",
         "audio_filename": "lineoct_es_173.mp3",
-        "audio_dir": "Banco"
+        "learning_tag": "Lugar - Edificios públicos/ciudad"
     },
     {
         "level": 3.0,
@@ -573,7 +573,7 @@
         "answer": "Clínica",
         "goal_words": "Clínica",
         "audio_filename": "lineoct_es_237.mp3",
-        "audio_dir": "Clínica"
+        "learning_tag": "Lugar - Edificios públicos/ciudad"
     },
     {
         "level": 3.0,
@@ -591,7 +591,7 @@
         "answer": "Palacio de justicia",
         "goal_words": "Palacio de justicia",
         "audio_filename": "lineoct_es_1048.mp3",
-        "audio_dir": "Palacio de justicia"
+        "learning_tag": "Lugar - Edificios públicos/ciudad"
     },
     {
         "level": 3.0,
@@ -609,7 +609,7 @@
         "answer": "Estación de bomberos",
         "goal_words": "Estación de bomberos",
         "audio_filename": "lineoct_es_637.mp3",
-        "audio_dir": "Estación de bomberos"
+        "learning_tag": "Lugar - Edificios públicos/ciudad"
     },
     {
         "level": 3.0,
@@ -627,7 +627,7 @@
         "answer": "Hospital",
         "goal_words": "Hospital",
         "audio_filename": "lineoct_es_804.mp3",
-        "audio_dir": "Hospital"
+        "learning_tag": "Lugar - Edificios públicos/ciudad"
     },
     {
         "level": 3.0,
@@ -645,7 +645,7 @@
         "answer": "Biblioteca",
         "goal_words": "Biblioteca",
         "audio_filename": "lineoct_es_178.mp3",
-        "audio_dir": "Biblioteca"
+        "learning_tag": "Lugar - Edificios públicos/ciudad"
     },
     {
         "level": 3.0,
@@ -663,7 +663,7 @@
         "answer": "Estación de policía",
         "goal_words": "Estación de policía",
         "audio_filename": "lineoct_es_639.mp3",
-        "audio_dir": "Estación de policía"
+        "learning_tag": "Lugar - Edificios públicos/ciudad"
     },
     {
         "level": 3.0,
@@ -681,7 +681,7 @@
         "answer": "Oficina de correos",
         "goal_words": "Oficina de correos",
         "audio_filename": "lineoct_es_1031.mp3",
-        "audio_dir": "Oficina de correos"
+        "learning_tag": "Lugar - Edificios públicos/ciudad"
     },
     {
         "level": 3.0,
@@ -699,7 +699,7 @@
         "answer": "Escuela",
         "goal_words": "Escuela",
         "audio_filename": "lineoct_es_593.mp3",
-        "audio_dir": "Escuela"
+        "learning_tag": "Lugar - Edificios públicos/ciudad"
     },
     {
         "level": 3.0,
@@ -717,7 +717,7 @@
         "answer": "Universidad",
         "goal_words": "Universidad",
         "audio_filename": "lineoct_es_1381.mp3",
-        "audio_dir": "Universidad"
+        "learning_tag": "Lugar - Edificios públicos/ciudad"
     },
     {
         "level": 3.0,
@@ -735,7 +735,7 @@
         "answer": "Castillo",
         "goal_words": "Castillo",
         "audio_filename": "lineoct_es_220.mp3",
-        "audio_dir": "Castillo"
+        "learning_tag": "Lugar - Religioso / Histórico"
     },
     {
         "level": 3.0,
@@ -753,7 +753,7 @@
         "answer": "Catedral",
         "goal_words": "Catedral",
         "audio_filename": "lineoct_es_221.mp3",
-        "audio_dir": "Catedral"
+        "learning_tag": "Lugar - Religioso / Histórico"
     },
     {
         "level": 3.0,
@@ -771,7 +771,7 @@
         "answer": "Iglesia",
         "goal_words": "Iglesia",
         "audio_filename": "lineoct_es_810.mp3",
-        "audio_dir": "Iglesia"
+        "learning_tag": "Lugar - Religioso / Histórico"
     },
     {
         "level": 3.0,
@@ -789,7 +789,7 @@
         "answer": "Monasterio",
         "goal_words": "Monasterio",
         "audio_filename": "lineoct_es_981.mp3",
-        "audio_dir": "Monasterio"
+        "learning_tag": "Lugar - Religioso / Histórico"
     },
     {
         "level": 3.0,
@@ -807,7 +807,7 @@
         "answer": "Mezquita",
         "goal_words": "Mezquita",
         "audio_filename": "lineoct_es_967.mp3",
-        "audio_dir": "Mezquita"
+        "learning_tag": "Lugar - Religioso / Histórico"
     },
     {
         "level": 3.0,
@@ -825,7 +825,7 @@
         "answer": "Palacio",
         "goal_words": "Palacio",
         "audio_filename": "lineoct_es_1047.mp3",
-        "audio_dir": "Palacio"
+        "learning_tag": "Lugar - Religioso / Histórico"
     },
     {
         "level": 3.0,
@@ -843,7 +843,7 @@
         "answer": "Restos",
         "goal_words": "Restos",
         "audio_filename": "lineoct_es_1182.mp3",
-        "audio_dir": "Restos"
+        "learning_tag": "Lugar - Religioso / Histórico"
     },
     {
         "level": 3.0,
@@ -861,7 +861,7 @@
         "answer": "Sinagoga",
         "goal_words": "Sinagoga",
         "audio_filename": "lineoct_es_1244.mp3",
-        "audio_dir": "Sinagoga"
+        "learning_tag": "Lugar - Religioso / Histórico"
     },
     {
         "level": 3.0,
@@ -879,7 +879,7 @@
         "answer": "Templo",
         "goal_words": "Templo",
         "audio_filename": "lineoct_es_1299.mp3",
-        "audio_dir": "Templo"
+        "learning_tag": "Lugar - Religioso / Histórico"
     },
     {
         "level": 3.0,
@@ -897,7 +897,7 @@
         "answer": "Librería",
         "goal_words": "Librería",
         "audio_filename": "lineoct_es_894.mp3",
-        "audio_dir": "Librería"
+        "learning_tag": "Lugar - Tiendas y compras"
     },
     {
         "level": 3.0,
@@ -915,7 +915,7 @@
         "answer": "Carnicería",
         "goal_words": "Carnicería",
         "audio_filename": "lineoct_es_217.mp3",
-        "audio_dir": "Carnicería"
+        "learning_tag": "Lugar - Tiendas y compras"
     },
     {
         "level": 3.0,
@@ -933,7 +933,7 @@
         "answer": "Tienda de ropa",
         "goal_words": "Tienda de ropa",
         "audio_filename": "lineoct_es_1319.mp3",
-        "audio_dir": "Tienda de ropa"
+        "learning_tag": "Lugar - Tiendas y compras"
     },
     {
         "level": 3.0,
@@ -951,7 +951,7 @@
         "answer": "Tienda de conveniencia",
         "goal_words": "Tienda de conveniencia",
         "audio_filename": "lineoct_es_1317.mp3",
-        "audio_dir": "Tienda de conveniencia"
+        "learning_tag": "Lugar - Tiendas y compras"
     },
     {
         "level": 3.0,
@@ -969,7 +969,7 @@
         "answer": "Tienda de electrónica",
         "goal_words": "Tienda de electrónica",
         "audio_filename": "lineoct_es_1318.mp3",
-        "audio_dir": "Tienda de electrónica"
+        "learning_tag": "Lugar - Tiendas y compras"
     },
     {
         "level": 3.0,
@@ -987,7 +987,7 @@
         "answer": "Tienda de comestibles / supermercado",
         "goal_words": "Tienda de comestibles / supermercado",
         "audio_filename": "lineoct_es_1316.mp3",
-        "audio_dir": "Tienda de comestibles / supermercado"
+        "learning_tag": "Lugar - Tiendas y compras"
     },
     {
         "level": 3.0,
@@ -1005,7 +1005,7 @@
         "answer": "Centro comercial",
         "goal_words": "Centro comercial",
         "audio_filename": "lineoct_es_223.mp3",
-        "audio_dir": "Centro comercial"
+        "learning_tag": "Lugar - Tiendas y compras"
     },
     {
         "level": 3.0,
@@ -1023,7 +1023,7 @@
         "answer": "Mercado",
         "goal_words": "Mercado",
         "audio_filename": "lineoct_es_966.mp3",
-        "audio_dir": "Mercado"
+        "learning_tag": "Lugar - Tiendas y compras"
     },
     {
         "level": 3.0,
@@ -1041,7 +1041,7 @@
         "answer": "Farmacia / droguería",
         "goal_words": "Farmacia / droguería",
         "audio_filename": "lineoct_es_692.mp3",
-        "audio_dir": "Farmacia / droguería"
+        "learning_tag": "Lugar - Tiendas y compras"
     },
     {
         "level": 3.0,
@@ -1059,7 +1059,7 @@
         "answer": "Zapatería",
         "goal_words": "Zapatería",
         "audio_filename": "lineoct_es_1441.mp3",
-        "audio_dir": "Zapatería"
+        "learning_tag": "Lugar - Tiendas y compras"
     },
     {
         "level": 3.0,
@@ -1077,7 +1077,7 @@
         "answer": "Aeropuerto",
         "goal_words": "Aeropuerto",
         "audio_filename": "lineoct_es_99.mp3",
-        "audio_dir": "Aeropuerto"
+        "learning_tag": "Lugar - Transporte"
     },
     {
         "level": 3.0,
@@ -1095,7 +1095,7 @@
         "answer": "Estación de autobuses",
         "goal_words": "Estación de autobuses",
         "audio_filename": "lineoct_es_636.mp3",
-        "audio_dir": "Estación de autobuses"
+        "learning_tag": "Lugar - Transporte"
     },
     {
         "level": 3.0,
@@ -1113,7 +1113,7 @@
         "answer": "parada de autobús",
         "goal_words": "parada de autobús",
         "audio_filename": "lineoct_es_1054.mp3",
-        "audio_dir": "parada de autobús"
+        "learning_tag": "Lugar - Transporte"
     },
     {
         "level": 3.0,
@@ -1131,7 +1131,7 @@
         "answer": "Estacionamiento",
         "goal_words": "Estacionamiento",
         "audio_filename": "lineoct_es_641.mp3",
-        "audio_dir": "Estacionamiento"
+        "learning_tag": "Lugar - Transporte"
     },
     {
         "level": 3.0,
@@ -1149,7 +1149,7 @@
         "answer": "Garaje de Estacionamiento",
         "goal_words": "Garaje de Estacionamiento",
         "audio_filename": "lineoct_es_724.mp3",
-        "audio_dir": "Garaje de Estacionamiento"
+        "learning_tag": "Lugar - Transporte"
     },
     {
         "level": 3.0,
@@ -1167,7 +1167,7 @@
         "answer": "Puerto",
         "goal_words": "Puerto",
         "audio_filename": "lineoct_es_1139.mp3",
-        "audio_dir": "Puerto"
+        "learning_tag": "Lugar - Transporte"
     },
     {
         "level": 3.0,
@@ -1185,7 +1185,7 @@
         "answer": "Estación de metro",
         "goal_words": "Estación de metro",
         "audio_filename": "lineoct_es_638.mp3",
-        "audio_dir": "Estación de metro"
+        "learning_tag": "Lugar - Transporte"
     },
     {
         "level": 3.0,
@@ -1203,6 +1203,6 @@
         "answer": "Estación de tren",
         "goal_words": "Estación de tren",
         "audio_filename": "lineoct_es_640.mp3",
-        "audio_dir": "Estación de tren"
+        "learning_tag": "Lugar - Transporte"
     }
 ]

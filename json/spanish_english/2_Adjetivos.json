@@ -15,7 +15,7 @@
         "answer": "How do you feel? sad",
         "goal_words": "sad",
         "audio_filename": "line5jan26_en_191.mp3",
-        "audio_dir": "How do you feel? sad"
+        "learning_tag": "emotions"
     },
     {
         "level": 2.0,
@@ -33,7 +33,7 @@
         "answer": "What kind of cat is it? angry",
         "goal_words": "angry",
         "audio_filename": "line5jan26_en_617.mp3",
-        "audio_dir": "What kind of cat is it? angry"
+        "learning_tag": "emotions"
     },
     {
         "level": 2.0,
@@ -51,7 +51,7 @@
         "answer": "What kind of cat is it? hungry",
         "goal_words": "hungry",
         "audio_filename": "line5jan26_en_618.mp3",
-        "audio_dir": "What kind of cat is it? hungry"
+        "learning_tag": "feeling"
     },
     {
         "level": 2.0,
@@ -69,7 +69,7 @@
         "answer": "How does the biker feel? thirsty",
         "goal_words": "thirsty",
         "audio_filename": "line5jan26_en_199.mp3",
-        "audio_dir": "How does the biker feel? thirsty"
+        "learning_tag": "feeling"
     },
     {
         "level": 2.0,
@@ -87,6 +87,6 @@
         "answer": "How do you feel? tired",
         "goal_words": "tired",
         "audio_filename": "line5jan26_en_192.mp3",
-        "audio_dir": "How do you feel? tired"
+        "learning_tag": "feeling"
     }
 ]

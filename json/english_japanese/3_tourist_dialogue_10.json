@@ -15,7 +15,7 @@
         "answer": "場所",
         "goal_words": "場所",
         "audio_filename": "line2_ja_680.mp3",
-        "audio_dir": "場所"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "リストは完成しました",
         "goal_words": "リスト",
         "audio_filename": "line2_ja_167.mp3",
-        "audio_dir": "リストは完成しました"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "ガイド付きツアー",
         "goal_words": "ツアー",
         "audio_filename": "line_ja_533.mp3",
-        "audio_dir": "ガイド付きツアー"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "大聖堂",
         "goal_words": "大聖堂",
         "audio_filename": "line2_ja_716.mp3",
-        "audio_dir": "大聖堂"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "川沿い",
         "goal_words": "川沿い",
         "audio_filename": "line2_ja_856.mp3",
-        "audio_dir": "川沿い"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "時",
         "goal_words": "時",
         "audio_filename": "line3_ja_589.mp3",
-        "audio_dir": "時"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "靴 - くつ",
         "goal_words": "靴",
         "audio_filename": "line4_ja_834.mp3",
-        "audio_dir": "靴 - くつ"
+        "learning_tag": "衣類"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "ボトル",
         "goal_words": "ボトル",
         "audio_filename": "line2_ja_63.mp3",
-        "audio_dir": "ボトル"
+        "learning_tag": "食べ物"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "壊す",
         "goal_words": "壊す",
         "audio_filename": "line2_ja_687.mp3",
-        "audio_dir": "壊す"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "新しいアプリに登録する",
         "goal_words": "登録",
         "audio_filename": "line3_ja_542.mp3",
-        "audio_dir": "新しいアプリに登録する"
+        "learning_tag": "動詞"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "手がかりを見つける",
         "goal_words": "見つける",
         "audio_filename": "line3_ja_479.mp3",
-        "audio_dir": "手がかりを見つける"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "レースを開始する",
         "goal_words": "開始",
         "audio_filename": "line2_ja_178.mp3",
-        "audio_dir": "レースを開始する"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "興奮した",
         "goal_words": "興奮した",
         "audio_filename": "line4_ja_416.mp3",
-        "audio_dir": "興奮した"
+        "learning_tag": "形容詞 - 感情を感じる"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "古い車",
         "goal_words": "古い",
         "audio_filename": "line2_ja_517.mp3",
-        "audio_dir": "古い車"
+        "learning_tag": "形容詞 - 時間"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "快適な",
         "goal_words": "快適な",
         "audio_filename": "line3_ja_419.mp3",
-        "audio_dir": "快適な"
+        "learning_tag": "形容詞"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "短い鉛筆",
         "goal_words": "短い",
         "audio_filename": "line3_ja_935.mp3",
-        "audio_dir": "短い鉛筆"
+        "learning_tag": "形容詞 - サイズ"
     },
     {
         "level": 3.0,
@@ -303,6 +303,6 @@
         "answer": "何かがすごいときのあなたの顔",
         "goal_words": "すごい",
         "audio_filename": "line2_ja_317.mp3",
-        "audio_dir": "何かがすごいときのあなたの顔"
+        "learning_tag": "形容詞"
     }
 ]

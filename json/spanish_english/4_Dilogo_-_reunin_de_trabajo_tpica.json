@@ -15,7 +15,7 @@
         "answer": "close putt",
         "goal_words": "close",
         "audio_filename": "line_en_506.mp3",
-        "audio_dir": "close putt"
+        "learning_tag": "adjective - space"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "big and little kid",
         "goal_words": "little",
         "audio_filename": "line_en_294.mp3",
-        "audio_dir": "big and little kid"
+        "learning_tag": "adjective - size"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "wider: more wide",
         "goal_words": "wider",
         "audio_filename": "line5_en_108.mp3",
-        "audio_dir": "wider: more wide"
+        "learning_tag": "adjective - size"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "solid, liquid, gas",
         "goal_words": "solid",
         "audio_filename": "line3_en_798.mp3",
-        "audio_dir": "solid, liquid, gas"
+        "learning_tag": "adjective -  Texture"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "boat on the other side of the river",
         "goal_words": "other",
         "audio_filename": "line_en_314.mp3",
-        "audio_dir": "boat on the other side of the river"
+        "learning_tag": "adjective -  Adjective"
     },
     {
         "level": 4.0,
@@ -101,11 +101,11 @@
         "native_answer": "¿debería ir a la izquierda o a la derecha?",
         "native_word": "adverbio - juicio",
         "tag": "adverbio - juicio",
-        "prompt": "______ i go left or right?",
+        "prompt": "should i go left or right?",
         "answer": "should i go left or right?",
         "goal_words": "should",
         "audio_filename": "line3_en_720.mp3",
-        "audio_dir": "should i go left or right?"
+        "learning_tag": "adverb -  judgement"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "further: more far",
         "goal_words": "further",
         "audio_filename": "line_en_945.mp3",
-        "audio_dir": "further: more far"
+        "learning_tag": "adverb -  Degree"
     },
     {
         "level": 4.0,
@@ -141,12 +141,12 @@
         "answer": "boss: Supervisor or manager.",
         "goal_words": "boss",
         "audio_filename": "line_en_325.mp3",
-        "audio_dir": "boss: Supervisor or manager."
+        "learning_tag": "noun - People & Roles"
     },
     {
         "level": 4.0,
         "image_filename": "employee.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -155,11 +155,11 @@
         "native_answer": "El empleado: Trabajador o miembro del personal.",
         "native_word": "sustantivo - Personas y roles",
         "tag": "sustantivo - Personas y roles",
-        "prompt": "______: Worker or staff member.",
+        "prompt": "Employee: Worker or staff member.",
         "answer": "Employee: Worker or staff member.",
         "goal_words": "Employee",
         "audio_filename": "line_en_790.mp3",
-        "audio_dir": "Employee: Worker or staff member."
+        "learning_tag": "noun - People & Roles"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "railroad track",
         "goal_words": "track",
         "audio_filename": "line3_en_223.mp3",
-        "audio_dir": "railroad track"
+        "learning_tag": "noun - Everyday Objects"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "end of the road",
         "goal_words": "end",
         "audio_filename": "line_en_796.mp3",
-        "audio_dir": "end of the road"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "quarter hour",
         "goal_words": "quarter",
         "audio_filename": "line3_en_215.mp3",
-        "audio_dir": "quarter hour"
+        "learning_tag": "noun - Measurement"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "chess: a game using strategy",
         "goal_words": "strategy",
         "audio_filename": "line_en_479.mp3",
-        "audio_dir": "chess: a game using strategy"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -249,7 +249,7 @@
         "answer": "tomato sale",
         "goal_words": "sale",
         "audio_filename": "line4_en_560.mp3",
-        "audio_dir": "tomato sale"
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
@@ -267,7 +267,7 @@
         "answer": "idea",
         "goal_words": "idea",
         "audio_filename": "line2_en_182.mp3",
-        "audio_dir": "idea"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -285,7 +285,7 @@
         "answer": "effort: application of energy towards a goal",
         "goal_words": "effort",
         "audio_filename": "line_en_773.mp3",
-        "audio_dir": "effort: application of energy towards a goal"
+        "learning_tag": "noun - Ideas & Concepts"
     },
     {
         "level": 4.0,
@@ -303,7 +303,7 @@
         "answer": "marketing on social media",
         "goal_words": "marketing",
         "audio_filename": "line2_en_594.mp3",
-        "audio_dir": "marketing on social media"
+        "learning_tag": "noun - Activities"
     },
     {
         "level": 4.0,
@@ -321,7 +321,7 @@
         "answer": "Advertising: Promotional messaging",
         "goal_words": "Advertising",
         "audio_filename": "line_en_109.mp3",
-        "audio_dir": "Advertising: Promotional messaging"
+        "learning_tag": "noun - Activities"
     },
     {
         "level": 4.0,
@@ -339,7 +339,7 @@
         "answer": "influencer",
         "goal_words": "influencer",
         "audio_filename": "line2_en_238.mp3",
-        "audio_dir": "influencer"
+        "learning_tag": "noun - People & Roles"
     },
     {
         "level": 4.0,
@@ -357,7 +357,7 @@
         "answer": "audience",
         "goal_words": "audience",
         "audio_filename": "line_en_217.mp3",
-        "audio_dir": "audience"
+        "learning_tag": "noun - People & Roles"
     },
     {
         "level": 4.0,
@@ -375,7 +375,7 @@
         "answer": "business meeting",
         "goal_words": "meeting",
         "audio_filename": "line_en_365.mp3",
-        "audio_dir": "business meeting"
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
@@ -393,7 +393,7 @@
         "answer": "discussion",
         "goal_words": "discussion",
         "audio_filename": "line_en_667.mp3",
-        "audio_dir": "discussion"
+        "learning_tag": "noun - Activities"
     },
     {
         "level": 4.0,
@@ -407,11 +407,11 @@
         "native_answer": "Una sesión es un período de tiempo dedicado a una actividad, discusión o evento en particular.",
         "native_word": "sustantivo - Eventos",
         "tag": "sustantivo - Eventos",
-        "prompt": "A ______ is a period of time devoted to a particular activity, discussion, or event.",
+        "prompt": "A session is a period of time devoted to a particular activity, discussion, or event.",
         "answer": "A session is a period of time devoted to a particular activity, discussion, or event.",
         "goal_words": "session",
         "audio_filename": "line_en_84.mp3",
-        "audio_dir": "A session is a period of time devoted to a particular activity, discussion, or event."
+        "learning_tag": "noun - Events"
     },
     {
         "level": 4.0,
@@ -429,7 +429,7 @@
         "answer": "Plan",
         "goal_words": "Plan",
         "audio_filename": "line3_en_129.mp3",
-        "audio_dir": "Plan"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -447,25 +447,7 @@
         "answer": "start race",
         "goal_words": "start",
         "audio_filename": "line3_en_848.mp3",
-        "audio_dir": "start race"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Diálogo - reunión de trabajo típica",
-        "native_answer": "ir con ella",
-        "native_word": "verbo - movimiento",
-        "tag": "verbo - movimiento",
-        "prompt": "______ with her",
-        "answer": "go with her",
-        "goal_words": "go",
-        "audio_filename": "line_en_985.mp3",
-        "audio_dir": "go with her"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
@@ -483,25 +465,7 @@
         "answer": "meet for business",
         "goal_words": "meet",
         "audio_filename": "line2_en_615.mp3",
-        "audio_dir": "meet for business"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "push_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "spanish",
-        "learning_language": "english",
-        "native_group": "4 Diálogo - reunión de trabajo típica",
-        "native_answer": "empujar",
-        "native_word": "verbo - objeto",
-        "tag": "verbo - objeto",
-        "prompt": "______",
-        "answer": "push",
-        "goal_words": "push",
-        "audio_filename": "line3_en_205.mp3",
-        "audio_dir": "push"
+        "learning_tag": "verb - interactive"
     },
     {
         "level": 4.0,
@@ -519,7 +483,7 @@
         "answer": "brainstorm: creative process of generating ideas",
         "goal_words": "brainstorm",
         "audio_filename": "line_en_340.mp3",
-        "audio_dir": "brainstorm: creative process of generating ideas"
+        "learning_tag": "verb - mental"
     },
     {
         "level": 4.0,
@@ -537,7 +501,7 @@
         "answer": "boost",
         "goal_words": "boost",
         "audio_filename": "line_en_320.mp3",
-        "audio_dir": "boost"
+        "learning_tag": "verb - effect"
     },
     {
         "level": 4.0,
@@ -555,7 +519,7 @@
         "answer": "expand",
         "goal_words": "expand",
         "audio_filename": "line_en_826.mp3",
-        "audio_dir": "expand"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
@@ -573,12 +537,12 @@
         "answer": "invest",
         "goal_words": "invest",
         "audio_filename": "line2_en_248.mp3",
-        "audio_dir": "invest"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
         "image_filename": "collaborate.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "spanish",
@@ -587,11 +551,11 @@
         "native_answer": "colaborar: trabajar juntos, cooperar",
         "native_word": "verbo - comunicación",
         "tag": "verbo - comunicación",
-        "prompt": "______: work together, cooperate",
+        "prompt": "collaborate: work together, cooperate",
         "answer": "collaborate: work together, cooperate",
         "goal_words": "collaborate",
         "audio_filename": "line_en_517.mp3",
-        "audio_dir": "collaborate: work together, cooperate"
+        "learning_tag": "verb - communication"
     },
     {
         "level": 4.0,
@@ -609,7 +573,7 @@
         "answer": "reach for the moon",
         "goal_words": "reach",
         "audio_filename": "line3_en_231.mp3",
-        "audio_dir": "reach for the moon"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -627,7 +591,7 @@
         "answer": "hear",
         "goal_words": "hear",
         "audio_filename": "line_en_1405.mp3",
-        "audio_dir": "hear"
+        "learning_tag": "verb - perception"
     },
     {
         "level": 4.0,
@@ -645,7 +609,7 @@
         "answer": "explore a new world",
         "goal_words": "explore",
         "audio_filename": "line_en_832.mp3",
-        "audio_dir": "explore a new world"
+        "learning_tag": "verb - movement"
     },
     {
         "level": 4.0,
@@ -663,7 +627,7 @@
         "answer": "game over, would you like to continue?",
         "goal_words": "continue",
         "audio_filename": "line_en_948.mp3",
-        "audio_dir": "game over, would you like to continue?"
+        "learning_tag": "verb - change"
     },
     {
         "level": 4.0,
@@ -681,7 +645,7 @@
         "answer": "discuss",
         "goal_words": "discuss",
         "audio_filename": "line_en_666.mp3",
-        "audio_dir": "discuss"
+        "learning_tag": "verb - communication"
     },
     {
         "level": 4.0,
@@ -699,6 +663,6 @@
         "answer": "brainstorm: creative process of generating ideas",
         "goal_words": "brainstorm",
         "audio_filename": "line_en_340.mp3",
-        "audio_dir": "brainstorm: creative process of generating ideas"
+        "learning_tag": "verb - mental"
     }
 ]

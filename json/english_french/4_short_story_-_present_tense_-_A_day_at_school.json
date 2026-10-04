@@ -1,42 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "fun_party.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "fun party",
-        "native_word": "adjective -  Creating emotion",
-        "tag": "adjective -  Creating emotion",
-        "prompt": "fête ______",
-        "answer": "fête amusante",
-        "goal_words": "amusante",
-        "audio_filename": "line2_fr_222.mp3",
-        "audio_dir": "fête amusante"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "hard_cheese.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "hard cheese",
-        "native_word": "adjective - quality",
-        "tag": "adjective - quality",
-        "prompt": "fromage ______",
-        "answer": "fromage dur",
-        "goal_words": "dur",
-        "audio_filename": "line2_fr_257.mp3",
-        "audio_dir": "fromage dur"
-    },
-    {
-        "level": 4.0,
         "image_filename": "favorite.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -51,7 +15,7 @@
         "answer": "les beignets sont ma nourriture préférée",
         "goal_words": "préférée",
         "audio_filename": "line3_fr_868.mp3",
-        "audio_dir": "les beignets sont ma nourriture préférée"
+        "learning_tag": "adjectif - jugement"
     },
     {
         "level": 4.0,
@@ -69,7 +33,7 @@
         "answer": "six tranches dans une pizza entière",
         "goal_words": "entière",
         "audio_filename": "line5_fr_67.mp3",
-        "audio_dir": "six tranches dans une pizza entière"
+        "learning_tag": "adjectif - taille"
     },
     {
         "level": 4.0,
@@ -87,7 +51,7 @@
         "answer": "il y a plus d'argent sur la droite",
         "goal_words": "plus",
         "audio_filename": "line2_fr_573.mp3",
-        "audio_dir": "il y a plus d'argent sur la droite"
+        "learning_tag": "adjectif - montant"
     },
     {
         "level": 4.0,
@@ -105,25 +69,7 @@
         "answer": "marcher prudemment lorsque vous êtes vieux",
         "goal_words": "prudemment",
         "audio_filename": "line4_fr_13.mp3",
-        "audio_dir": "marcher prudemment lorsque vous êtes vieux"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "about.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "books about many things",
-        "native_word": "adverb -  Conjunctional Adverb",
-        "tag": "adverb -  Conjunctional Adverb",
-        "prompt": "livres ______ beaucoup de choses",
-        "answer": "livres sur beaucoup de choses",
-        "goal_words": "sur",
-        "audio_filename": "line3_fr_949.mp3",
-        "audio_dir": "livres sur beaucoup de choses"
+        "learning_tag": "adverbe - Manière"
     },
     {
         "level": 4.0,
@@ -141,7 +87,7 @@
         "answer": "mettre les pièces ensemble",
         "goal_words": "ensemble",
         "audio_filename": "line4_fr_43.mp3",
-        "audio_dir": "mettre les pièces ensemble"
+        "learning_tag": "adverbe - Lieu"
     },
     {
         "level": 4.0,
@@ -159,25 +105,7 @@
         "answer": "épaule",
         "goal_words": "épaule",
         "audio_filename": "line2_fr_140.mp3",
-        "audio_dir": "épaule"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "white_clouds.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "white clouds",
-        "native_word": "color",
-        "tag": "color",
-        "prompt": "nuages ______",
-        "answer": "nuages blancs",
-        "goal_words": "blancs",
-        "audio_filename": "line4_fr_386.mp3",
-        "audio_dir": "nuages blancs"
+        "learning_tag": "parties du corps"
     },
     {
         "level": 4.0,
@@ -195,61 +123,7 @@
         "answer": "bague",
         "goal_words": "bague",
         "audio_filename": "line_fr_381.mp3",
-        "audio_dir": "bague"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "sun.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "sun",
-        "native_word": "everyday things",
-        "tag": "everyday things",
-        "prompt": "______",
-        "answer": "soleil",
-        "goal_words": "soleil",
-        "audio_filename": "line5_fr_73.mp3",
-        "audio_dir": "soleil"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "animals.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "Animal",
-        "native_word": "noun - Animals",
-        "tag": "noun - Animals",
-        "prompt": "Un ______",
-        "answer": "Un animal",
-        "goal_words": "animal",
-        "audio_filename": "line5_fr_538.mp3",
-        "audio_dir": "Un animal"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "doctor.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "doctor",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Un ______",
-        "answer": "Un docteur",
-        "goal_words": "docteur",
-        "audio_filename": "line5_fr_554.mp3",
-        "audio_dir": "Un docteur"
+        "learning_tag": "choses quotidiennes"
     },
     {
         "level": 4.0,
@@ -267,7 +141,7 @@
         "answer": "Se dépêcher",
         "goal_words": "Se dépêcher",
         "audio_filename": "line4_fr_982.mp3",
-        "audio_dir": "Se dépêcher"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -285,25 +159,7 @@
         "answer": "Une note",
         "goal_words": "note",
         "audio_filename": "line5_fr_654.mp3",
-        "audio_dir": "Une note"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "school.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "school",
-        "native_word": "noun - Buildings & Places",
-        "tag": "noun - Buildings & Places",
-        "prompt": "Une ______",
-        "answer": "Une école",
-        "goal_words": "école",
-        "audio_filename": "line5_fr_633.mp3",
-        "audio_dir": "Une école"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -321,25 +177,7 @@
         "answer": "Un sac à dos",
         "goal_words": "sac à dos",
         "audio_filename": "line5_fr_599.mp3",
-        "audio_dir": "Un sac à dos"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "friend",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Un ______",
-        "answer": "Un ami",
-        "goal_words": "ami",
-        "audio_filename": "line5_fr_537.mp3",
-        "audio_dir": "Un ami"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -357,7 +195,7 @@
         "answer": "Une entrée",
         "goal_words": "entrée",
         "audio_filename": "line5_fr_634.mp3",
-        "audio_dir": "Une entrée"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -375,7 +213,7 @@
         "answer": "Une cloche",
         "goal_words": "cloche",
         "audio_filename": "line5_fr_624.mp3",
-        "audio_dir": "Une cloche"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -393,7 +231,7 @@
         "answer": "Une salle de classe",
         "goal_words": "salle de classe",
         "audio_filename": "line5_fr_666.mp3",
-        "audio_dir": "Une salle de classe"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -411,7 +249,7 @@
         "answer": "Un professeur",
         "goal_words": "professeur",
         "audio_filename": "line5_fr_592.mp3",
-        "audio_dir": "Un professeur"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -429,7 +267,7 @@
         "answer": "Un tableau blanc",
         "goal_words": "tableau blanc",
         "audio_filename": "line5_fr_604.mp3",
-        "audio_dir": "Un tableau blanc"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -447,7 +285,7 @@
         "answer": "Un cahier",
         "goal_words": "cahier",
         "audio_filename": "line5_fr_542.mp3",
-        "audio_dir": "Un cahier"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -465,7 +303,7 @@
         "answer": "Enseigner une leçon",
         "goal_words": "leçon",
         "audio_filename": "line2_fr_129.mp3",
-        "audio_dir": "Enseigner une leçon"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -483,7 +321,7 @@
         "answer": "Le chien est son animal de compagnie",
         "goal_words": "animal de compagnie",
         "audio_filename": "line3_fr_642.mp3",
-        "audio_dir": "Le chien est son animal de compagnie"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -501,7 +339,7 @@
         "answer": "La récréation",
         "goal_words": "récréation",
         "audio_filename": "line3_fr_521.mp3",
-        "audio_dir": "La récréation"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -519,7 +357,7 @@
         "answer": "Une balançoire",
         "goal_words": "balançoire",
         "audio_filename": "line5_fr_621.mp3",
-        "audio_dir": "Une balançoire"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -537,7 +375,7 @@
         "answer": "Une collation",
         "goal_words": "collation",
         "audio_filename": "line5_fr_625.mp3",
-        "audio_dir": "Une collation"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -555,7 +393,7 @@
         "answer": "quelle heure est-il ? l'après-midi",
         "goal_words": "l'après-midi",
         "audio_filename": "line4_fr_773.mp3",
-        "audio_dir": "quelle heure est-il ? l'après-midi"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -573,7 +411,7 @@
         "answer": "Les maths",
         "goal_words": "math",
         "audio_filename": "line3_fr_912.mp3",
-        "audio_dir": "Les maths"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -591,7 +429,7 @@
         "answer": "Essayer de résoudre un problème",
         "goal_words": "problème",
         "audio_filename": "line2_fr_150.mp3",
-        "audio_dir": "Essayer de résoudre un problème"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -609,7 +447,7 @@
         "answer": "Un tableau noir",
         "goal_words": "tableau noir",
         "audio_filename": "line5_fr_605.mp3",
-        "audio_dir": "Un tableau noir"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -627,7 +465,7 @@
         "answer": "ils sont dans la même classe. Ils sont camarades de classe",
         "goal_words": "camarades de classe",
         "audio_filename": "line2_fr_803.mp3",
-        "audio_dir": "ils sont dans la même classe. Ils sont camarades de classe"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -645,12 +483,12 @@
         "answer": "Faire une acclamation",
         "goal_words": "acclamation",
         "audio_filename": "line2_fr_201.mp3",
-        "audio_dir": "Faire une acclamation"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
         "image_filename": "home.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -659,29 +497,11 @@
         "native_answer": "not just a house, but a home",
         "native_word": "noun - Buildings & Places",
         "tag": "noun - Buildings & Places",
-        "prompt": "Pas juste une maison, mais un ______",
+        "prompt": "Pas juste une maison, mais un foyer",
         "answer": "Pas juste une maison, mais un foyer",
         "goal_words": "foyer",
         "audio_filename": "line4_fr_568.mp3",
-        "audio_dir": "Pas juste une maison, mais un foyer"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "day",
-        "native_word": "time",
-        "tag": "time",
-        "prompt": "______",
-        "answer": "jour",
-        "goal_words": "jour",
-        "audio_filename": "line3_fr_259.mp3",
-        "audio_dir": "jour"
+        "learning_tag": "Nom"
     },
     {
         "level": 4.0,
@@ -699,43 +519,7 @@
         "answer": "Rêver",
         "goal_words": "Rêver",
         "audio_filename": "line4_fr_872.mp3",
-        "audio_dir": "Rêver"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "laugh",
-        "native_word": "verb - self",
-        "tag": "verb - self",
-        "prompt": "______",
-        "answer": "rire",
-        "goal_words": "rire",
-        "audio_filename": "line4_fr_877.mp3",
-        "audio_dir": "rire"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "listen_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "Listen",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "______",
-        "answer": "Écouter",
-        "goal_words": "Écouter",
-        "audio_filename": "line_fr_851.mp3",
-        "audio_dir": "Écouter"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -753,7 +537,7 @@
         "answer": "Stationner",
         "goal_words": "Stationner",
         "audio_filename": "line5_fr_95.mp3",
-        "audio_dir": "Stationner"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -771,205 +555,7 @@
         "answer": "Plan",
         "goal_words": "Plan",
         "audio_filename": "line4_fr_650.mp3",
-        "audio_dir": "Plan"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "play piano",
-        "native_word": "verb - interactive",
-        "tag": "verb - interactive",
-        "prompt": "______ du piano",
-        "answer": "jouer du piano",
-        "goal_words": "jouer",
-        "audio_filename": "line3_fr_258.mp3",
-        "audio_dir": "jouer du piano"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "see.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "See",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "______",
-        "answer": "Voir",
-        "goal_words": "Voir",
-        "audio_filename": "line5_fr_727.mp3",
-        "audio_dir": "Voir"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "take a treat",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______ une friandise",
-        "answer": "prendre une friandise",
-        "goal_words": "prendre",
-        "audio_filename": "line4_fr_710.mp3",
-        "audio_dir": "prendre une friandise"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "talk",
-        "native_word": "verb - communication",
-        "tag": "verb - communication",
-        "prompt": "______",
-        "answer": "parler",
-        "goal_words": "parler",
-        "audio_filename": "line4_fr_541.mp3",
-        "audio_dir": "parler"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "walk",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______",
-        "answer": "marcher",
-        "goal_words": "marcher",
-        "audio_filename": "line4_fr_8.mp3",
-        "audio_dir": "marcher"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "want_dog_food.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "want",
-        "native_word": "verb - feeling",
-        "tag": "verb - feeling",
-        "prompt": "______",
-        "answer": "vouloir",
-        "goal_words": "vouloir",
-        "audio_filename": "line5_fr_731.mp3",
-        "audio_dir": "vouloir"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "write_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "write",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "écrire",
-        "goal_words": "écrire",
-        "audio_filename": "line_fr_856.mp3",
-        "audio_dir": "écrire"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "take a treat",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______ une friandise",
-        "answer": "prendre une friandise",
-        "goal_words": "prendre",
-        "audio_filename": "line4_fr_710.mp3",
-        "audio_dir": "prendre une friandise"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "play piano",
-        "native_word": "verb - interactive",
-        "tag": "verb - interactive",
-        "prompt": "______ du piano",
-        "answer": "jouer du piano",
-        "goal_words": "jouer",
-        "audio_filename": "line3_fr_258.mp3",
-        "audio_dir": "jouer du piano"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "feel the water",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "______ l'eau",
-        "answer": "sentir l'eau",
-        "goal_words": "sentir",
-        "audio_filename": "line5_fr_8.mp3",
-        "audio_dir": "sentir l'eau"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "walk.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "walk",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______",
-        "answer": "marcher",
-        "goal_words": "marcher",
-        "audio_filename": "line4_fr_8.mp3",
-        "audio_dir": "marcher"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -987,7 +573,7 @@
         "answer": "porter un sac à dos sur votre épaule",
         "goal_words": "porter",
         "audio_filename": "line4_fr_681.mp3",
-        "audio_dir": "porter un sac à dos sur votre épaule"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -1005,7 +591,7 @@
         "answer": "sourire",
         "goal_words": "sourire",
         "audio_filename": "line5_fr_85.mp3",
-        "audio_dir": "sourire"
+        "learning_tag": "verbe - soi"
     },
     {
         "level": 4.0,
@@ -1023,7 +609,7 @@
         "answer": "parler en ligne : discuter",
         "goal_words": "discuter",
         "audio_filename": "line4_fr_549.mp3",
-        "audio_dir": "parler en ligne : discuter"
+        "learning_tag": "verbe - communication"
     },
     {
         "level": 4.0,
@@ -1041,7 +627,7 @@
         "answer": "sonner la cloche",
         "goal_words": "sonner",
         "audio_filename": "line5_fr_78.mp3",
-        "audio_dir": "sonner la cloche"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -1059,25 +645,7 @@
         "answer": "il doit se dépêcher",
         "goal_words": "se dépêcher",
         "audio_filename": "line2_fr_412.mp3",
-        "audio_dir": "il doit se dépêcher"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "write.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "write",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "écrire",
-        "goal_words": "écrire",
-        "audio_filename": "line_fr_856.mp3",
-        "audio_dir": "écrire"
+        "learning_tag": "verbe - soi"
     },
     {
         "level": 4.0,
@@ -1095,7 +663,7 @@
         "answer": "note : enregistrement de faits, de sujets ou de pensées",
         "goal_words": "note",
         "audio_filename": "line4_fr_128.mp3",
-        "audio_dir": "note : enregistrement de faits, de sujets ou de pensées"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -1113,7 +681,7 @@
         "answer": "rire",
         "goal_words": "rire",
         "audio_filename": "line4_fr_877.mp3",
-        "audio_dir": "rire"
+        "learning_tag": "verbe - soi"
     },
     {
         "level": 4.0,
@@ -1131,7 +699,7 @@
         "answer": "partager des informations",
         "goal_words": "partager",
         "audio_filename": "line4_fr_554.mp3",
-        "audio_dir": "partager des informations"
+        "learning_tag": "verbe - interactif"
     },
     {
         "level": 4.0,
@@ -1149,7 +717,7 @@
         "answer": "une petite plante poussera",
         "goal_words": "pousser",
         "audio_filename": "line5_fr_658.mp3",
-        "audio_dir": "une petite plante poussera"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 4.0,
@@ -1167,7 +735,7 @@
         "answer": "rêver pendant le sommeil",
         "goal_words": "rêve",
         "audio_filename": "line4_fr_873.mp3",
-        "audio_dir": "rêver pendant le sommeil"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -1185,7 +753,7 @@
         "answer": "une petite plante poussera et deviendra un arbre",
         "goal_words": "deviendra",
         "audio_filename": "line5_fr_659.mp3",
-        "audio_dir": "une petite plante poussera et deviendra un arbre"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 4.0,
@@ -1203,7 +771,7 @@
         "answer": "résoudre un problème",
         "goal_words": "résoudre",
         "audio_filename": "line4_fr_849.mp3",
-        "audio_dir": "résoudre un problème"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -1221,7 +789,7 @@
         "answer": "acclamation",
         "goal_words": "acclamation",
         "audio_filename": "line_fr_216.mp3",
-        "audio_dir": "acclamation"
+        "learning_tag": "verbe - communication"
     },
     {
         "level": 4.0,
@@ -1239,25 +807,7 @@
         "answer": "louange : exprimer l'admiration",
         "goal_words": "louange",
         "audio_filename": "line3_fr_961.mp3",
-        "audio_dir": "louange : exprimer l'admiration"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "make",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "faire",
-        "goal_words": "faire",
-        "audio_filename": "line2_fr_195.mp3",
-        "audio_dir": "faire"
+        "learning_tag": "verbe - communication"
     },
     {
         "level": 4.0,
@@ -1275,6 +825,6 @@
         "answer": "attendre avec impatience",
         "goal_words": "attendre avec impatience",
         "audio_filename": "line_fr_326.mp3",
-        "audio_dir": "attendre avec impatience"
+        "learning_tag": "verbe - sentiment"
     }
 ]

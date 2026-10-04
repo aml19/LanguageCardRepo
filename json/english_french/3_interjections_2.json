@@ -9,13 +9,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Oh là là ! – ______,______,______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Oh là là ! – Used to express surprise, dismay, or admiration, similar to \"Wow!\" or \"Oh dear!\"",
         "answer": "Oh là là ! – Used to express surprise, dismay, or admiration, similar to \"Wow!\" or \"Oh dear!\"",
         "goal_words": "Used to express surprise,  dismay,  or admiration,  similar to \"Wow!\" or \"Oh dear!\"",
         "audio_filename": "line4_fr_402.mp3",
-        "audio_dir": "Oh là là !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -27,13 +27,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Zut alors ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Zut alors ! – A mild exclamation of frustration or surprise, like \"Darn it!\"",
         "answer": "Zut alors ! – A mild exclamation of frustration or surprise, like \"Darn it!\"",
         "goal_words": "A mild exclamation of frustration or surprise,  like \"Darn it!\"",
         "audio_filename": "line5_fr_894.mp3",
-        "audio_dir": "Zut alors !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -45,13 +45,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Ouf ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Ouf ! – A sigh of relief, like \"Phew!\"",
         "answer": "Ouf ! – A sigh of relief, like \"Phew!\"",
         "goal_words": "A sigh of relief,  like \"Phew!\"",
         "audio_filename": "line4_fr_512.mp3",
-        "audio_dir": "Ouf !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -63,13 +63,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Ça alors ! – ______,______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Ça alors ! – Expressing surprise or disbelief, like \"Well, I never!\" or \"No way!\"",
         "answer": "Ça alors ! – Expressing surprise or disbelief, like \"Well, I never!\" or \"No way!\"",
         "goal_words": "Expressing surprise or disbelief,  like \"Well,  I never!\" or \"No way!\"",
         "audio_filename": "line_fr_497.mp3",
-        "audio_dir": "Ça alors !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -81,13 +81,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Tant mieux ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Tant mieux ! – Expressing relief or satisfaction, like \"That's good!\"",
         "answer": "Tant mieux ! – Expressing relief or satisfaction, like \"That's good!\"",
         "goal_words": "Expressing relief or satisfaction,  like \"That's good!\"",
         "audio_filename": "line5_fr_119.mp3",
-        "audio_dir": "Tant mieux !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -99,13 +99,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Mince ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Mince ! – A mild exclamation of disappointment or surprise, like \"Darn!\"",
         "answer": "Mince ! – A mild exclamation of disappointment or surprise, like \"Darn!\"",
         "goal_words": "A mild exclamation of disappointment or surprise,  like \"Darn!\"",
         "audio_filename": "line4_fr_47.mp3",
-        "audio_dir": "Mince !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -117,13 +117,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Bof ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Bof ! – Expressing indifference or dissatisfaction, like \"Meh!\"",
         "answer": "Bof ! – Expressing indifference or dissatisfaction, like \"Meh!\"",
         "goal_words": "Expressing indifference or dissatisfaction,  like \"Meh!\"",
         "audio_filename": "line_fr_428.mp3",
-        "audio_dir": "Bof !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -135,13 +135,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Oups ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Oups ! – Used for a small mistake, like \"Oops!\"",
         "answer": "Oups ! – Used for a small mistake, like \"Oops!\"",
         "goal_words": "Used for a small mistake,  like \"Oops!\"",
         "audio_filename": "line4_fr_513.mp3",
-        "audio_dir": "Oups !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -153,13 +153,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "C'est pas vrai ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "C'est pas vrai ! – Used when something is hard to believe, like \"No way!\" or \"You're kidding!\"",
         "answer": "C'est pas vrai ! – Used when something is hard to believe, like \"No way!\" or \"You're kidding!\"",
         "goal_words": "Used when something is hard to believe,  like \"No way!\" or \"You're kidding!\"",
         "audio_filename": "line_fr_488.mp3",
-        "audio_dir": "C'est pas vrai !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -171,13 +171,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Trop bien ! – ______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Trop bien ! – Similar to \"That's great!\" or \"Awesome!\"",
         "answer": "Trop bien ! – Similar to \"That's great!\" or \"Awesome!\"",
         "goal_words": "Similar to \"That's great!\" or \"Awesome!\"",
         "audio_filename": "line5_fr_241.mp3",
-        "audio_dir": "Trop bien !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -189,13 +189,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Pff ! – ______,______,______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Pff ! – Expressing frustration, annoyance, or exasperation, like \"Ugh!\"",
         "answer": "Pff ! – Expressing frustration, annoyance, or exasperation, like \"Ugh!\"",
         "goal_words": "Expressing frustration,  annoyance,  or exasperation,  like \"Ugh!\"",
         "audio_filename": "line4_fr_639.mp3",
-        "audio_dir": "Pff !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -207,13 +207,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Chouette ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Chouette ! – Used to express happiness or excitement, like \"Great!\" or \"Cool!\"",
         "answer": "Chouette ! – Used to express happiness or excitement, like \"Great!\" or \"Cool!\"",
         "goal_words": "Used to express happiness or excitement,  like \"Great!\" or \"Cool!\"",
         "audio_filename": "line_fr_590.mp3",
-        "audio_dir": "Chouette !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -225,13 +225,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Hé bien ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Hé bien ! – Used to express surprise or to get attention, like \"Well!\"",
         "answer": "Hé bien ! – Used to express surprise or to get attention, like \"Well!\"",
         "goal_words": "Used to express surprise or to get attention,  like \"Well!\"",
         "audio_filename": "line2_fr_304.mp3",
-        "audio_dir": "Hé bien !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -243,13 +243,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "C'est pas possible ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "C'est pas possible ! – A stronger expression of disbelief, like \"It can't be!\"",
         "answer": "C'est pas possible ! – A stronger expression of disbelief, like \"It can't be!\"",
         "goal_words": "A stronger expression of disbelief,  like \"It can't be!\"",
         "audio_filename": "line_fr_487.mp3",
-        "audio_dir": "C'est pas possible !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -261,13 +261,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Eh ben ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Eh ben ! – An informal way of expressing surprise or exasperation, like \"Well then!\"",
         "answer": "Eh ben ! – An informal way of expressing surprise or exasperation, like \"Well then!\"",
         "goal_words": "An informal way of expressing surprise or exasperation,  like \"Well then!\"",
         "audio_filename": "line_fr_866.mp3",
-        "audio_dir": "Eh ben !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -279,13 +279,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Vraiment !? – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Vraiment !? – To express disbelief, similar to \"Really!?\"",
         "answer": "Vraiment !? – To express disbelief, similar to \"Really!?\"",
         "goal_words": "To express disbelief,  similar to \"Really!?\"",
         "audio_filename": "line5_fr_879.mp3",
-        "audio_dir": "Vraiment !?"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -297,13 +297,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Allez ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Allez ! – Used to encourage or push someone, like \"Come on!\" or \"Go ahead!\"",
         "answer": "Allez ! – Used to encourage or push someone, like \"Come on!\" or \"Go ahead!\"",
         "goal_words": "Used to encourage or push someone,  like \"Come on!\" or \"Go ahead!\"",
         "audio_filename": "line_fr_251.mp3",
-        "audio_dir": "Allez !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -315,13 +315,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Zut ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Zut ! – A common exclamation of frustration or disappointment, like \"Darn!\"",
         "answer": "Zut ! – A common exclamation of frustration or disappointment, like \"Darn!\"",
         "goal_words": "A common exclamation of frustration or disappointment,  like \"Darn!\"",
         "audio_filename": "line5_fr_893.mp3",
-        "audio_dir": "Zut !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -333,13 +333,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Super ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Super ! – Used to express excitement or approval, like \"Great!\"",
         "answer": "Super ! – Used to express excitement or approval, like \"Great!\"",
         "goal_words": "Used to express excitement or approval,  like \"Great!\"",
         "audio_filename": "line5_fr_102.mp3",
-        "audio_dir": "Super !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -351,13 +351,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Ouais ! – ______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Ouais ! – Informal way of saying \"Yes!\" or \"Yeah!\"",
         "answer": "Ouais ! – Informal way of saying \"Yes!\" or \"Yeah!\"",
         "goal_words": "Informal way of saying \"Yes!\" or \"Yeah!\"",
         "audio_filename": "line4_fr_509.mp3",
-        "audio_dir": "Ouais !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -369,13 +369,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Grave ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Grave ! – Used to strongly agree with something, like \"Totally!\" or \"For sure!\"",
         "answer": "Grave ! – Used to strongly agree with something, like \"Totally!\" or \"For sure!\"",
         "goal_words": "Used to strongly agree with something,  like \"Totally!\" or \"For sure!\"",
         "audio_filename": "line2_fr_285.mp3",
-        "audio_dir": "Grave !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -387,13 +387,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Eh bien ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Eh bien ! – A way to express surprise, similar to \"Well then!\"",
         "answer": "Eh bien ! – A way to express surprise, similar to \"Well then!\"",
         "goal_words": "A way to express surprise,  similar to \"Well then!\"",
         "audio_filename": "line_fr_867.mp3",
-        "audio_dir": "Eh bien !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -405,13 +405,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "C'est ouf ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "C'est ouf ! – Informal slang for something unbelievable or crazy, like \"That's insane!\"",
         "answer": "C'est ouf ! – Informal slang for something unbelievable or crazy, like \"That's insane!\"",
         "goal_words": "Informal slang for something unbelievable or crazy,  like \"That's insane!\"",
         "audio_filename": "line_fr_485.mp3",
-        "audio_dir": "C'est ouf !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -423,13 +423,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Tu parles ! – ______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Tu parles ! – Used sarcastically to say something like \"As if!\"",
         "answer": "Tu parles ! – Used sarcastically to say something like \"As if!\"",
         "goal_words": "Used sarcastically to say something like \"As if!\"",
         "audio_filename": "line5_fr_460.mp3",
-        "audio_dir": "Tu parles !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -441,13 +441,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Merde ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Merde ! – A stronger expletive expressing frustration or shock, similar to \"Shit!\"",
         "answer": "Merde ! – A stronger expletive expressing frustration or shock, similar to \"Shit!\"",
         "goal_words": "A stronger expletive expressing frustration or shock,  similar to \"Shit!\"",
         "audio_filename": "line4_fr_36.mp3",
-        "audio_dir": "Merde !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -459,13 +459,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Oh purée ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Oh purée ! – An expression of surprise, similar to \"Oh my goodness!\"",
         "answer": "Oh purée ! – An expression of surprise, similar to \"Oh my goodness!\"",
         "goal_words": "An expression of surprise,  similar to \"Oh my goodness!\"",
         "audio_filename": "line4_fr_403.mp3",
-        "audio_dir": "Oh purée !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -477,13 +477,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Fais gaffe ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Fais gaffe ! – Informally used to warn someone, like \"Watch out!\" or \"Be careful!\"",
         "answer": "Fais gaffe ! – Informally used to warn someone, like \"Watch out!\" or \"Be careful!\"",
         "goal_words": "Informally used to warn someone,  like \"Watch out!\" or \"Be careful!\"",
         "audio_filename": "line2_fr_204.mp3",
-        "audio_dir": "Fais gaffe !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -495,13 +495,13 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Tant pis ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Tant pis ! – Expressing resignation or indifference, like \"Never mind!\" or \"Oh well!\"",
         "answer": "Tant pis ! – Expressing resignation or indifference, like \"Never mind!\" or \"Oh well!\"",
         "goal_words": "Expressing resignation or indifference,  like \"Never mind!\" or \"Oh well!\"",
         "audio_filename": "line5_fr_120.mp3",
-        "audio_dir": "Tant pis !"
+        "learning_tag": "interjection"
     },
     {
         "level": 3.0,
@@ -513,12 +513,12 @@
         "learning_language": "french",
         "native_group": "3 interjections 2",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
-        "prompt": "Eh hop ! – ______,______",
+        "native_word": "interjection",
+        "tag": "interjection",
+        "prompt": "Eh hop ! – Used when performing a small action, like \"There you go!\"",
         "answer": "Eh hop ! – Used when performing a small action, like \"There you go!\"",
         "goal_words": "Used when performing a small action,  like \"There you go!\"",
         "audio_filename": "line_fr_868.mp3",
-        "audio_dir": "Eh hop !"
+        "learning_tag": "interjection"
     }
 ]

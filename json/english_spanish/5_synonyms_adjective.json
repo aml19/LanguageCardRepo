@@ -11,11 +11,11 @@
         "native_answer": "Correct",
         "native_word": null,
         "tag": null,
-        "prompt": "Correcto:\nTu respuesta es correcta.\n______",
+        "prompt": "Correcto:\nTu respuesta es correcta.\nQue está de acuerdo con lo adecuado o aceptado",
         "answer": "Correcto:\nTu respuesta es correcta.\nQue está de acuerdo con lo adecuado o aceptado",
         "goal_words": "Que está de acuerdo con lo adecuado o aceptado",
         "audio_filename": "lineoct_es_275.mp3",
-        "audio_dir": "Correcto:\nTu respuesta es correcta.\n"
+        "learning_tag": "Bien"
     },
     {
         "level": 5.0,
@@ -29,11 +29,11 @@
         "native_answer": "Appropriate",
         "native_word": null,
         "tag": null,
-        "prompt": "Adecuado:\nEse tono de voz no es adecuado en clase.\n______",
+        "prompt": "Adecuado:\nEse tono de voz no es adecuado en clase.\nQue se ajusta a lo necesario o conveniente",
         "answer": "Adecuado:\nEse tono de voz no es adecuado en clase.\nQue se ajusta a lo necesario o conveniente",
         "goal_words": "Que se ajusta a lo necesario o conveniente",
         "audio_filename": "lineoct_es_95.mp3",
-        "audio_dir": "Adecuado:\nEse tono de voz no es adecuado en clase.\n"
+        "learning_tag": "Bien"
     },
     {
         "level": 5.0,
@@ -47,11 +47,11 @@
         "native_answer": "Positive",
         "native_word": null,
         "tag": null,
-        "prompt": "Positivo:\nLa reunión tuvo un resultado positivo.\n______",
+        "prompt": "Positivo:\nLa reunión tuvo un resultado positivo.\nQue produce un efecto favorable",
         "answer": "Positivo:\nLa reunión tuvo un resultado positivo.\nQue produce un efecto favorable",
         "goal_words": "Que produce un efecto favorable",
         "audio_filename": "lineoct_es_1121.mp3",
-        "audio_dir": "Positivo:\nLa reunión tuvo un resultado positivo.\n"
+        "learning_tag": "Bien"
     },
     {
         "level": 5.0,
@@ -65,11 +65,11 @@
         "native_answer": "Excellent",
         "native_word": null,
         "tag": null,
-        "prompt": "Excelente:\nEl servicio en el hotel fue excelente.\n______,______",
+        "prompt": "Excelente:\nEl servicio en el hotel fue excelente.\nMuy bueno, de gran calidad",
         "answer": "Excelente:\nEl servicio en el hotel fue excelente.\nMuy bueno, de gran calidad",
         "goal_words": "Muy bueno,  de gran calidad",
         "audio_filename": "lineoct_es_682.mp3",
-        "audio_dir": "Excelente:\nEl servicio en el hotel fue excelente.\n"
+        "learning_tag": "Bien"
     },
     {
         "level": 5.0,
@@ -83,11 +83,11 @@
         "native_answer": "Negative",
         "native_word": null,
         "tag": null,
-        "prompt": "Negativo:\nTuvo una experiencia negativa en el trabajo.\n______",
+        "prompt": "Negativo:\nTuvo una experiencia negativa en el trabajo.\nQue tiene un efecto desfavorable",
         "answer": "Negativo:\nTuvo una experiencia negativa en el trabajo.\nQue tiene un efecto desfavorable",
         "goal_words": "Que tiene un efecto desfavorable",
         "audio_filename": "lineoct_es_1004.mp3",
-        "audio_dir": "Negativo:\nTuvo una experiencia negativa en el trabajo.\n"
+        "learning_tag": "Malo"
     },
     {
         "level": 5.0,
@@ -101,11 +101,11 @@
         "native_answer": "Harmful",
         "native_word": null,
         "tag": null,
-        "prompt": "Dañino:\nFumar es dañino para la salud.\n______",
+        "prompt": "Dañino:\nFumar es dañino para la salud.\nQue causa daño o perjuicio",
         "answer": "Dañino:\nFumar es dañino para la salud.\nQue causa daño o perjuicio",
         "goal_words": "Que causa daño o perjuicio",
         "audio_filename": "lineoct_es_298.mp3",
-        "audio_dir": "Dañino:\nFumar es dañino para la salud.\n"
+        "learning_tag": "Malo"
     },
     {
         "level": 5.0,
@@ -119,11 +119,11 @@
         "native_answer": "Appalling",
         "native_word": null,
         "tag": null,
-        "prompt": "Pésimo:\nEl servicio en ese restaurante fue pésimo.\n______,______",
+        "prompt": "Pésimo:\nEl servicio en ese restaurante fue pésimo.\nMuy malo, de pésima calidad",
         "answer": "Pésimo:\nEl servicio en ese restaurante fue pésimo.\nMuy malo, de pésima calidad",
         "goal_words": "Muy malo,  de pésima calidad",
         "audio_filename": "lineoct_es_1096.mp3",
-        "audio_dir": "Pésimo:\nEl servicio en ese restaurante fue pésimo.\n"
+        "learning_tag": "Malo"
     },
     {
         "level": 5.0,
@@ -137,11 +137,11 @@
         "native_answer": "Disgusting",
         "native_word": null,
         "tag": null,
-        "prompt": "Desagradable:\nTuvo un encuentro desagradable con su vecino.\n______",
+        "prompt": "Desagradable:\nTuvo un encuentro desagradable con su vecino.\nQue causa molestia o disgusto",
         "answer": "Desagradable:\nTuvo un encuentro desagradable con su vecino.\nQue causa molestia o disgusto",
         "goal_words": "Que causa molestia o disgusto",
         "audio_filename": "lineoct_es_327.mp3",
-        "audio_dir": "Desagradable:\nTuvo un encuentro desagradable con su vecino.\n"
+        "learning_tag": "Malo"
     },
     {
         "level": 5.0,
@@ -155,11 +155,11 @@
         "native_answer": "Enormous",
         "native_word": null,
         "tag": null,
-        "prompt": "Enorme:\nEl estadio es enorme.\n______",
+        "prompt": "Enorme:\nEl estadio es enorme.\nDe tamaño mucho mayor de lo común",
         "answer": "Enorme:\nEl estadio es enorme.\nDe tamaño mucho mayor de lo común",
         "goal_words": "De tamaño mucho mayor de lo común",
         "audio_filename": "lineoct_es_568.mp3",
-        "audio_dir": "Enorme:\nEl estadio es enorme.\n"
+        "learning_tag": "Grande"
     },
     {
         "level": 5.0,
@@ -173,11 +173,11 @@
         "native_answer": "Giant",
         "native_word": null,
         "tag": null,
-        "prompt": "Gigante:\nConstruyeron una estatua gigante.\n______",
+        "prompt": "Gigante:\nConstruyeron una estatua gigante.\nMuy grande en tamaño o proporción",
         "answer": "Gigante:\nConstruyeron una estatua gigante.\nMuy grande en tamaño o proporción",
         "goal_words": "Muy grande en tamaño o proporción",
         "audio_filename": "lineoct_es_731.mp3",
-        "audio_dir": "Gigante:\nConstruyeron una estatua gigante.\n"
+        "learning_tag": "Grande"
     },
     {
         "level": 5.0,
@@ -191,11 +191,11 @@
         "native_answer": "Immense",
         "native_word": null,
         "tag": null,
-        "prompt": "Inmenso:\nSintió un inmenso alivio al terminar.\n______",
+        "prompt": "Inmenso:\nSintió un inmenso alivio al terminar.\nDe gran extensión o magnitud",
         "answer": "Inmenso:\nSintió un inmenso alivio al terminar.\nDe gran extensión o magnitud",
         "goal_words": "De gran extensión o magnitud",
         "audio_filename": "lineoct_es_824.mp3",
-        "audio_dir": "Inmenso:\nSintió un inmenso alivio al terminar.\n"
+        "learning_tag": "Grande"
     },
     {
         "level": 5.0,
@@ -209,11 +209,11 @@
         "native_answer": "Broad",
         "native_word": null,
         "tag": null,
-        "prompt": "Amplio:\nLa sala es amplia y luminosa.\n______",
+        "prompt": "Amplio:\nLa sala es amplia y luminosa.\nEspacioso o extenso",
         "answer": "Amplio:\nLa sala es amplia y luminosa.\nEspacioso o extenso",
         "goal_words": "Espacioso o extenso",
         "audio_filename": "lineoct_es_129.mp3",
-        "audio_dir": "Amplio:\nLa sala es amplia y luminosa.\n"
+        "learning_tag": "Grande"
     },
     {
         "level": 5.0,
@@ -227,11 +227,11 @@
         "native_answer": "Boy",
         "native_word": null,
         "tag": null,
-        "prompt": "Chico:\nEl niño es muy chico.\n______",
+        "prompt": "Chico:\nEl niño es muy chico.\nDe tamaño reducido",
         "answer": "Chico:\nEl niño es muy chico.\nDe tamaño reducido",
         "goal_words": "De tamaño reducido",
         "audio_filename": "lineoct_es_226.mp3",
-        "audio_dir": "Chico:\nEl niño es muy chico.\n"
+        "learning_tag": "Pequeño"
     },
     {
         "level": 5.0,
@@ -245,11 +245,11 @@
         "native_answer": "Tiny",
         "native_word": null,
         "tag": null,
-        "prompt": "Diminuto:\nUn insecto diminuto caminaba por la mesa.\n______",
+        "prompt": "Diminuto:\nUn insecto diminuto caminaba por la mesa.\nExtremadamente pequeño",
         "answer": "Diminuto:\nUn insecto diminuto caminaba por la mesa.\nExtremadamente pequeño",
         "goal_words": "Extremadamente pequeño",
         "audio_filename": "lineoct_es_352.mp3",
-        "audio_dir": "Diminuto:\nUn insecto diminuto caminaba por la mesa.\n"
+        "learning_tag": "Pequeño"
     },
     {
         "level": 5.0,
@@ -263,11 +263,11 @@
         "native_answer": "Reduced",
         "native_word": null,
         "tag": null,
-        "prompt": "Reducido:\nEl grupo era reducido.\n______",
+        "prompt": "Reducido:\nEl grupo era reducido.\nDe menor tamaño o cantidad",
         "answer": "Reducido:\nEl grupo era reducido.\nDe menor tamaño o cantidad",
         "goal_words": "De menor tamaño o cantidad",
         "audio_filename": "lineoct_es_1163.mp3",
-        "audio_dir": "Reducido:\nEl grupo era reducido.\n"
+        "learning_tag": "Pequeño"
     },
     {
         "level": 5.0,
@@ -281,11 +281,11 @@
         "native_answer": "Tiny",
         "native_word": null,
         "tag": null,
-        "prompt": "Minúsculo:\nEncontró un error minúsculo en el texto.\n______,______",
+        "prompt": "Minúsculo:\nEncontró un error minúsculo en el texto.\nMuy pequeño, casi insignificante",
         "answer": "Minúsculo:\nEncontró un error minúsculo en el texto.\nMuy pequeño, casi insignificante",
         "goal_words": "Muy pequeño,  casi insignificante",
         "audio_filename": "lineoct_es_972.mp3",
-        "audio_dir": "Minúsculo:\nEncontró un error minúsculo en el texto.\n"
+        "learning_tag": "Pequeño"
     },
     {
         "level": 5.0,
@@ -299,11 +299,11 @@
         "native_answer": "Glad",
         "native_word": null,
         "tag": null,
-        "prompt": "Contento:\nEstá contento con su nuevo trabajo.\n______",
+        "prompt": "Contento:\nEstá contento con su nuevo trabajo.\nQue siente satisfacción",
         "answer": "Contento:\nEstá contento con su nuevo trabajo.\nQue siente satisfacción",
         "goal_words": "Que siente satisfacción",
         "audio_filename": "lineoct_es_269.mp3",
-        "audio_dir": "Contento:\nEstá contento con su nuevo trabajo.\n"
+        "learning_tag": "Feliz"
     },
     {
         "level": 5.0,
@@ -317,11 +317,11 @@
         "native_answer": "Cheerful",
         "native_word": null,
         "tag": null,
-        "prompt": "Alegre:\nLos niños estaban alegres en la fiesta.\n______",
+        "prompt": "Alegre:\nLos niños estaban alegres en la fiesta.\nQue muestra felicidad y entusiasmo",
         "answer": "Alegre:\nLos niños estaban alegres en la fiesta.\nQue muestra felicidad y entusiasmo",
         "goal_words": "Que muestra felicidad y entusiasmo",
         "audio_filename": "lineoct_es_117.mp3",
-        "audio_dir": "Alegre:\nLos niños estaban alegres en la fiesta.\n"
+        "learning_tag": "Feliz"
     },
     {
         "level": 5.0,
@@ -335,11 +335,11 @@
         "native_answer": "Happy",
         "native_word": null,
         "tag": null,
-        "prompt": "Dichoso:\nSe siente dichoso de tener buenos amigos.\n______",
+        "prompt": "Dichoso:\nSe siente dichoso de tener buenos amigos.\nQue experimenta gran felicidad",
         "answer": "Dichoso:\nSe siente dichoso de tener buenos amigos.\nQue experimenta gran felicidad",
         "goal_words": "Que experimenta gran felicidad",
         "audio_filename": "lineoct_es_347.mp3",
-        "audio_dir": "Dichoso:\nSe siente dichoso de tener buenos amigos.\n"
+        "learning_tag": "Feliz"
     },
     {
         "level": 5.0,
@@ -353,11 +353,11 @@
         "native_answer": "Satisfied",
         "native_word": null,
         "tag": null,
-        "prompt": "Satisfecho:\nQuedó satisfecho con los resultados.\n______",
+        "prompt": "Satisfecho:\nQuedó satisfecho con los resultados.\nQue está conforme con algo",
         "answer": "Satisfecho:\nQuedó satisfecho con los resultados.\nQue está conforme con algo",
         "goal_words": "Que está conforme con algo",
         "audio_filename": "lineoct_es_1208.mp3",
-        "audio_dir": "Satisfecho:\nQuedó satisfecho con los resultados.\n"
+        "learning_tag": "Feliz"
     },
     {
         "level": 5.0,
@@ -371,11 +371,11 @@
         "native_answer": "Sorry",
         "native_word": null,
         "tag": null,
-        "prompt": "Apenado:\nEstaba apenado por la noticia.\n______",
+        "prompt": "Apenado:\nEstaba apenado por la noticia.\nQue siente pena o dolor",
         "answer": "Apenado:\nEstaba apenado por la noticia.\nQue siente pena o dolor",
         "goal_words": "Que siente pena o dolor",
         "audio_filename": "lineoct_es_142.mp3",
-        "audio_dir": "Apenado:\nEstaba apenado por la noticia.\n"
+        "learning_tag": "Triste"
     },
     {
         "level": 5.0,
@@ -389,11 +389,11 @@
         "native_answer": "Melancholic",
         "native_word": null,
         "tag": null,
-        "prompt": "Melancólico:\nEl paisaje otoñal tenía un aire melancólico.\n______",
+        "prompt": "Melancólico:\nEl paisaje otoñal tenía un aire melancólico.\nQue muestra una tristeza suave y reflexiva",
         "answer": "Melancólico:\nEl paisaje otoñal tenía un aire melancólico.\nQue muestra una tristeza suave y reflexiva",
         "goal_words": "Que muestra una tristeza suave y reflexiva",
         "audio_filename": "lineoct_es_965.mp3",
-        "audio_dir": "Melancólico:\nEl paisaje otoñal tenía un aire melancólico.\n"
+        "learning_tag": "Triste"
     },
     {
         "level": 5.0,
@@ -407,11 +407,11 @@
         "native_answer": "Depressed",
         "native_word": null,
         "tag": null,
-        "prompt": "Deprimido:\nSe sentía deprimido por los problemas.\n______",
+        "prompt": "Deprimido:\nSe sentía deprimido por los problemas.\nCon gran abatimiento y tristeza",
         "answer": "Deprimido:\nSe sentía deprimido por los problemas.\nCon gran abatimiento y tristeza",
         "goal_words": "Con gran abatimiento y tristeza",
         "audio_filename": "lineoct_es_321.mp3",
-        "audio_dir": "Deprimido:\nSe sentía deprimido por los problemas.\n"
+        "learning_tag": "Triste"
     },
     {
         "level": 5.0,
@@ -425,11 +425,11 @@
         "native_answer": "Regrettable",
         "native_word": null,
         "tag": null,
-        "prompt": "Lamentable:\nLa pérdida fue lamentable.\n______",
+        "prompt": "Lamentable:\nLa pérdida fue lamentable.\nQue causa o expresa tristeza",
         "answer": "Lamentable:\nLa pérdida fue lamentable.\nQue causa o expresa tristeza",
         "goal_words": "Que causa o expresa tristeza",
         "audio_filename": "lineoct_es_883.mp3",
-        "audio_dir": "Lamentable:\nLa pérdida fue lamentable.\n"
+        "learning_tag": "Triste"
     },
     {
         "level": 5.0,
@@ -443,11 +443,11 @@
         "native_answer": "Annoying",
         "native_word": null,
         "tag": null,
-        "prompt": "Molesto:\nEstaba molesto con la demora.\n______",
+        "prompt": "Molesto:\nEstaba molesto con la demora.\nQue siente fastidio o disgusto",
         "answer": "Molesto:\nEstaba molesto con la demora.\nQue siente fastidio o disgusto",
         "goal_words": "Que siente fastidio o disgusto",
         "audio_filename": "lineoct_es_980.mp3",
-        "audio_dir": "Molesto:\nEstaba molesto con la demora.\n"
+        "learning_tag": "Enojado"
     },
     {
         "level": 5.0,
@@ -461,11 +461,11 @@
         "native_answer": "Irritated",
         "native_word": null,
         "tag": null,
-        "prompt": "Irritado:\nSe mostró irritado por la interrupción.\n______",
+        "prompt": "Irritado:\nSe mostró irritado por la interrupción.\nCon enfado leve o impaciencia",
         "answer": "Irritado:\nSe mostró irritado por la interrupción.\nCon enfado leve o impaciencia",
         "goal_words": "Con enfado leve o impaciencia",
         "audio_filename": "lineoct_es_836.mp3",
-        "audio_dir": "Irritado:\nSe mostró irritado por la interrupción.\n"
+        "learning_tag": "Enojado"
     },
     {
         "level": 5.0,
@@ -479,11 +479,11 @@
         "native_answer": "Furious",
         "native_word": null,
         "tag": null,
-        "prompt": "Furioso:\nSe puso furioso al escuchar la noticia.\n______",
+        "prompt": "Furioso:\nSe puso furioso al escuchar la noticia.\nQue siente enojo muy intenso",
         "answer": "Furioso:\nSe puso furioso al escuchar la noticia.\nQue siente enojo muy intenso",
         "goal_words": "Que siente enojo muy intenso",
         "audio_filename": "lineoct_es_719.mp3",
-        "audio_dir": "Furioso:\nSe puso furioso al escuchar la noticia.\n"
+        "learning_tag": "Enojado"
     },
     {
         "level": 5.0,
@@ -497,11 +497,11 @@
         "native_answer": "Indignant",
         "native_word": null,
         "tag": null,
-        "prompt": "Indignado:\nEl público estaba indignado por el fraude.\n______",
+        "prompt": "Indignado:\nEl público estaba indignado por el fraude.\nQue siente enojo por algo injusto",
         "answer": "Indignado:\nEl público estaba indignado por el fraude.\nQue siente enojo por algo injusto",
         "goal_words": "Que siente enojo por algo injusto",
         "audio_filename": "lineoct_es_821.mp3",
-        "audio_dir": "Indignado:\nEl público estaba indignado por el fraude.\n"
+        "learning_tag": "Enojado"
     },
     {
         "level": 5.0,
@@ -515,11 +515,11 @@
         "native_answer": "Beautiful",
         "native_word": null,
         "tag": null,
-        "prompt": "Bello:\nEl paisaje era bello.\n______",
+        "prompt": "Bello:\nEl paisaje era bello.\nQue resulta muy atractivo a la vista",
         "answer": "Bello:\nEl paisaje era bello.\nQue resulta muy atractivo a la vista",
         "goal_words": "Que resulta muy atractivo a la vista",
         "audio_filename": "lineoct_es_176.mp3",
-        "audio_dir": "Bello:\nEl paisaje era bello.\n"
+        "learning_tag": "Hermoso"
     },
     {
         "level": 5.0,
@@ -533,11 +533,11 @@
         "native_answer": "Pretty",
         "native_word": null,
         "tag": null,
-        "prompt": "Bonito:\nEl vestido es bonito.\n______",
+        "prompt": "Bonito:\nEl vestido es bonito.\nQue tiene atractivo sencillo",
         "answer": "Bonito:\nEl vestido es bonito.\nQue tiene atractivo sencillo",
         "goal_words": "Que tiene atractivo sencillo",
         "audio_filename": "lineoct_es_183.mp3",
-        "audio_dir": "Bonito:\nEl vestido es bonito.\n"
+        "learning_tag": "Hermoso"
     },
     {
         "level": 5.0,
@@ -551,11 +551,11 @@
         "native_answer": "Precious",
         "native_word": null,
         "tag": null,
-        "prompt": "Precioso:\nLa joya es preciosa.\n______",
+        "prompt": "Precioso:\nLa joya es preciosa.\nDe gran belleza o valor",
         "answer": "Precioso:\nLa joya es preciosa.\nDe gran belleza o valor",
         "goal_words": "De gran belleza o valor",
         "audio_filename": "lineoct_es_1126.mp3",
-        "audio_dir": "Precioso:\nLa joya es preciosa.\n"
+        "learning_tag": "Hermoso"
     },
     {
         "level": 5.0,
@@ -569,11 +569,11 @@
         "native_answer": "Attractive",
         "native_word": null,
         "tag": null,
-        "prompt": "Atractivo:\nEl proyecto resulta atractivo para inversionistas.\n______",
+        "prompt": "Atractivo:\nEl proyecto resulta atractivo para inversionistas.\nQue despierta interés o agrado",
         "answer": "Atractivo:\nEl proyecto resulta atractivo para inversionistas.\nQue despierta interés o agrado",
         "goal_words": "Que despierta interés o agrado",
         "audio_filename": "lineoct_es_159.mp3",
-        "audio_dir": "Atractivo:\nEl proyecto resulta atractivo para inversionistas.\n"
+        "learning_tag": "Hermoso"
     },
     {
         "level": 5.0,
@@ -587,11 +587,11 @@
         "native_answer": "Awful",
         "native_word": null,
         "tag": null,
-        "prompt": "Horrible:\nEl olor era horrible.\n______",
+        "prompt": "Horrible:\nEl olor era horrible.\nQue causa rechazo por su aspecto",
         "answer": "Horrible:\nEl olor era horrible.\nQue causa rechazo por su aspecto",
         "goal_words": "Que causa rechazo por su aspecto",
         "audio_filename": "lineoct_es_800.mp3",
-        "audio_dir": "Horrible:\nEl olor era horrible.\n"
+        "learning_tag": "Feo"
     },
     {
         "level": 5.0,
@@ -605,11 +605,11 @@
         "native_answer": "Frightening",
         "native_word": null,
         "tag": null,
-        "prompt": "Espantoso:\nEl monstruo era espantoso.\n______",
+        "prompt": "Espantoso:\nEl monstruo era espantoso.\nMuy feo o desagradable",
         "answer": "Espantoso:\nEl monstruo era espantoso.\nMuy feo o desagradable",
         "goal_words": "Muy feo o desagradable",
         "audio_filename": "lineoct_es_605.mp3",
-        "audio_dir": "Espantoso:\nEl monstruo era espantoso.\n"
+        "learning_tag": "Feo"
     },
     {
         "level": 5.0,
@@ -623,11 +623,11 @@
         "native_answer": "Disgusting",
         "native_word": null,
         "tag": null,
-        "prompt": "Desagradable:\nSu comentario fue desagradable.\n______",
+        "prompt": "Desagradable:\nSu comentario fue desagradable.\nQue no resulta agradable",
         "answer": "Desagradable:\nSu comentario fue desagradable.\nQue no resulta agradable",
         "goal_words": "Que no resulta agradable",
         "audio_filename": "lineoct_es_326.mp3",
-        "audio_dir": "Desagradable:\nSu comentario fue desagradable.\n"
+        "learning_tag": "Feo"
     },
     {
         "level": 5.0,
@@ -641,11 +641,11 @@
         "native_answer": "Grotesque",
         "native_word": null,
         "tag": null,
-        "prompt": "Grotesco:\nLa máscara era grotesca.\n______",
+        "prompt": "Grotesco:\nLa máscara era grotesca.\nDeforme o extraño en exceso",
         "answer": "Grotesco:\nLa máscara era grotesca.\nDeforme o extraño en exceso",
         "goal_words": "Deforme o extraño en exceso",
         "audio_filename": "lineoct_es_746.mp3",
-        "audio_dir": "Grotesco:\nLa máscara era grotesca.\n"
+        "learning_tag": "Feo"
     },
     {
         "level": 5.0,
@@ -659,11 +659,11 @@
         "native_answer": "Distinguished",
         "native_word": null,
         "tag": null,
-        "prompt": "Distinguido:\nEs un caballero distinguido.\n______",
+        "prompt": "Distinguido:\nEs un caballero distinguido.\nQue destaca por su porte o estilo",
         "answer": "Distinguido:\nEs un caballero distinguido.\nQue destaca por su porte o estilo",
         "goal_words": "Que destaca por su porte o estilo",
         "audio_filename": "lineoct_es_356.mp3",
-        "audio_dir": "Distinguido:\nEs un caballero distinguido.\n"
+        "learning_tag": "Elegante"
     },
     {
         "level": 5.0,
@@ -677,11 +677,11 @@
         "native_answer": "Refined",
         "native_word": null,
         "tag": null,
-        "prompt": "Refinado:\nEl restaurante tiene un ambiente refinado.\n______",
+        "prompt": "Refinado:\nEl restaurante tiene un ambiente refinado.\nCon delicadeza y buen gusto",
         "answer": "Refinado:\nEl restaurante tiene un ambiente refinado.\nCon delicadeza y buen gusto",
         "goal_words": "Con delicadeza y buen gusto",
         "audio_filename": "lineoct_es_1164.mp3",
-        "audio_dir": "Refinado:\nEl restaurante tiene un ambiente refinado.\n"
+        "learning_tag": "Elegante"
     },
     {
         "level": 5.0,
@@ -695,11 +695,11 @@
         "native_answer": "Sophisticated",
         "native_word": null,
         "tag": null,
-        "prompt": "Sofisticado:\nLleva un look sofisticado.\n______",
+        "prompt": "Sofisticado:\nLleva un look sofisticado.\nCon estilo y complejidad",
         "answer": "Sofisticado:\nLleva un look sofisticado.\nCon estilo y complejidad",
         "goal_words": "Con estilo y complejidad",
         "audio_filename": "lineoct_es_1251.mp3",
-        "audio_dir": "Sofisticado:\nLleva un look sofisticado.\n"
+        "learning_tag": "Elegante"
     },
     {
         "level": 5.0,
@@ -713,11 +713,11 @@
         "native_answer": "Fine",
         "native_word": null,
         "tag": null,
-        "prompt": "Fino:\nLa tela es muy fina.\n______",
+        "prompt": "Fino:\nLa tela es muy fina.\nDe gran calidad y elegancia",
         "answer": "Fino:\nLa tela es muy fina.\nDe gran calidad y elegancia",
         "goal_words": "De gran calidad y elegancia",
         "audio_filename": "lineoct_es_698.mp3",
-        "audio_dir": "Fino:\nLa tela es muy fina.\n"
+        "learning_tag": "Elegante"
     },
     {
         "level": 5.0,
@@ -731,11 +731,11 @@
         "native_answer": "Silly",
         "native_word": null,
         "tag": null,
-        "prompt": "Tonto:\nNo seas tonto, piensa bien antes de hablar.\n______",
+        "prompt": "Tonto:\nNo seas tonto, piensa bien antes de hablar.\nQue muestra poca inteligencia",
         "answer": "Tonto:\nNo seas tonto, piensa bien antes de hablar.\nQue muestra poca inteligencia",
         "goal_words": "Que muestra poca inteligencia",
         "audio_filename": "lineoct_es_1331.mp3",
-        "audio_dir": "Tonto:\nNo seas tonto, piensa bien antes de hablar.\n"
+        "learning_tag": "Estúpido"
     },
     {
         "level": 5.0,
@@ -749,11 +749,11 @@
         "native_answer": "Foolish",
         "native_word": null,
         "tag": null,
-        "prompt": "Necio:\nEs necio y nunca escucha consejos.\n______",
+        "prompt": "Necio:\nEs necio y nunca escucha consejos.\nObstinado y falto de razón",
         "answer": "Necio:\nEs necio y nunca escucha consejos.\nObstinado y falto de razón",
         "goal_words": "Obstinado y falto de razón",
         "audio_filename": "lineoct_es_1002.mp3",
-        "audio_dir": "Necio:\nEs necio y nunca escucha consejos.\n"
+        "learning_tag": "Estúpido"
     },
     {
         "level": 5.0,
@@ -767,11 +767,11 @@
         "native_answer": "Fool",
         "native_word": null,
         "tag": null,
-        "prompt": "Bobo:\nParecía bobo en esa situación.\n______",
+        "prompt": "Bobo:\nParecía bobo en esa situación.\nSimple o ingenuo en exceso",
         "answer": "Bobo:\nParecía bobo en esa situación.\nSimple o ingenuo en exceso",
         "goal_words": "Simple o ingenuo en exceso",
         "audio_filename": "lineoct_es_181.mp3",
-        "audio_dir": "Bobo:\nParecía bobo en esa situación.\n"
+        "learning_tag": "Estúpido"
     },
     {
         "level": 5.0,
@@ -785,11 +785,11 @@
         "native_answer": "Idiot",
         "native_word": null,
         "tag": null,
-        "prompt": "Idiota:\nEse plan es idiota.\n______",
+        "prompt": "Idiota:\nEse plan es idiota.\nMuy falto de inteligencia",
         "answer": "Idiota:\nEse plan es idiota.\nMuy falto de inteligencia",
         "goal_words": "Muy falto de inteligencia",
         "audio_filename": "lineoct_es_808.mp3",
-        "audio_dir": "Idiota:\nEse plan es idiota.\n"
+        "learning_tag": "Estúpido"
     },
     {
         "level": 5.0,
@@ -803,11 +803,11 @@
         "native_answer": "Fast",
         "native_word": null,
         "tag": null,
-        "prompt": "Veloz:\nEl tren es muy veloz.\n______",
+        "prompt": "Veloz:\nEl tren es muy veloz.\nQue se mueve con gran rapidez",
         "answer": "Veloz:\nEl tren es muy veloz.\nQue se mueve con gran rapidez",
         "goal_words": "Que se mueve con gran rapidez",
         "audio_filename": "lineoct_es_1390.mp3",
-        "audio_dir": "Veloz:\nEl tren es muy veloz.\n"
+        "learning_tag": "Rápido"
     },
     {
         "level": 5.0,
@@ -821,11 +821,11 @@
         "native_answer": "Agile",
         "native_word": null,
         "tag": null,
-        "prompt": "Ágil:\nEl gato es ágil al saltar.\n______",
+        "prompt": "Ágil:\nEl gato es ágil al saltar.\nQue se mueve con facilidad y rapidez",
         "answer": "Ágil:\nEl gato es ágil al saltar.\nQue se mueve con facilidad y rapidez",
         "goal_words": "Que se mueve con facilidad y rapidez",
         "audio_filename": "lineoct_es_102.mp3",
-        "audio_dir": "Ágil:\nEl gato es ágil al saltar.\n"
+        "learning_tag": "Rápido"
     },
     {
         "level": 5.0,
@@ -839,11 +839,11 @@
         "native_answer": "Presto",
         "native_word": null,
         "tag": null,
-        "prompt": "Presto:\nEstuvo presto a ayudar.\n______",
+        "prompt": "Presto:\nEstuvo presto a ayudar.\nQue actúa con rapidez",
         "answer": "Presto:\nEstuvo presto a ayudar.\nQue actúa con rapidez",
         "goal_words": "Que actúa con rapidez",
         "audio_filename": "lineoct_es_1128.mp3",
-        "audio_dir": "Presto:\nEstuvo presto a ayudar.\n"
+        "learning_tag": "Rápido"
     },
     {
         "level": 5.0,
@@ -857,11 +857,11 @@
         "native_answer": "Slightly",
         "native_word": null,
         "tag": null,
-        "prompt": "Ligeramente:\nResolvió el problema ligeramente.\n______",
+        "prompt": "Ligeramente:\nResolvió el problema ligeramente.\nCon rapidez y sin esfuerzo",
         "answer": "Ligeramente:\nResolvió el problema ligeramente.\nCon rapidez y sin esfuerzo",
         "goal_words": "Con rapidez y sin esfuerzo",
         "audio_filename": "lineoct_es_895.mp3",
-        "audio_dir": "Ligeramente:\nResolvió el problema ligeramente.\n"
+        "learning_tag": "Rápido"
     },
     {
         "level": 5.0,
@@ -875,11 +875,11 @@
         "native_answer": "Slow",
         "native_word": null,
         "tag": null,
-        "prompt": "Pausado:\nHablaba en un tono pausado.\n______",
+        "prompt": "Pausado:\nHablaba en un tono pausado.\nQue se mueve con calma",
         "answer": "Pausado:\nHablaba en un tono pausado.\nQue se mueve con calma",
         "goal_words": "Que se mueve con calma",
         "audio_filename": "lineoct_es_1084.mp3",
-        "audio_dir": "Pausado:\nHablaba en un tono pausado.\n"
+        "learning_tag": "Lento"
     },
     {
         "level": 5.0,
@@ -893,11 +893,11 @@
         "native_answer": "Late",
         "native_word": null,
         "tag": null,
-        "prompt": "Tardado:\nEl trámite fue muy tardado.\n______",
+        "prompt": "Tardado:\nEl trámite fue muy tardado.\nQue se demora más de lo esperado",
         "answer": "Tardado:\nEl trámite fue muy tardado.\nQue se demora más de lo esperado",
         "goal_words": "Que se demora más de lo esperado",
         "audio_filename": "lineoct_es_1292.mp3",
-        "audio_dir": "Tardado:\nEl trámite fue muy tardado.\n"
+        "learning_tag": "Lento"
     },
     {
         "level": 5.0,
@@ -911,11 +911,11 @@
         "native_answer": "Delayed",
         "native_word": null,
         "tag": null,
-        "prompt": "Retardado:\nEl vuelo está retardado.\n______",
+        "prompt": "Retardado:\nEl vuelo está retardado.\nQue se atrasa en el tiempo",
         "answer": "Retardado:\nEl vuelo está retardado.\nQue se atrasa en el tiempo",
         "goal_words": "Que se atrasa en el tiempo",
         "audio_filename": "lineoct_es_1183.mp3",
-        "audio_dir": "Retardado:\nEl vuelo está retardado.\n"
+        "learning_tag": "Lento"
     },
     {
         "level": 5.0,
@@ -929,11 +929,11 @@
         "native_answer": "Defaulter",
         "native_word": null,
         "tag": null,
-        "prompt": "Moroso:\nEl pago fue moroso.\n______",
+        "prompt": "Moroso:\nEl pago fue moroso.\nLento en cumplir obligaciones",
         "answer": "Moroso:\nEl pago fue moroso.\nLento en cumplir obligaciones",
         "goal_words": "Lento en cumplir obligaciones",
         "audio_filename": "lineoct_es_987.mp3",
-        "audio_dir": "Moroso:\nEl pago fue moroso.\n"
+        "learning_tag": "Lento"
     },
     {
         "level": 5.0,
@@ -947,11 +947,11 @@
         "native_answer": "Robust",
         "native_word": null,
         "tag": null,
-        "prompt": "Robusto:\nEs un árbol robusto.\n______",
+        "prompt": "Robusto:\nEs un árbol robusto.\nDe constitución sólida",
         "answer": "Robusto:\nEs un árbol robusto.\nDe constitución sólida",
         "goal_words": "De constitución sólida",
         "audio_filename": "lineoct_es_1190.mp3",
-        "audio_dir": "Robusto:\nEs un árbol robusto.\n"
+        "learning_tag": "Fuerte"
     },
     {
         "level": 5.0,
@@ -965,11 +965,11 @@
         "native_answer": "Powerful",
         "native_word": null,
         "tag": null,
-        "prompt": "Poderoso:\nUn discurso poderoso.\n______",
+        "prompt": "Poderoso:\nUn discurso poderoso.\nQue tiene mucha fuerza o influencia",
         "answer": "Poderoso:\nUn discurso poderoso.\nQue tiene mucha fuerza o influencia",
         "goal_words": "Que tiene mucha fuerza o influencia",
         "audio_filename": "lineoct_es_1108.mp3",
-        "audio_dir": "Poderoso:\nUn discurso poderoso.\n"
+        "learning_tag": "Fuerte"
     },
     {
         "level": 5.0,
@@ -983,11 +983,11 @@
         "native_answer": "Vigorous",
         "native_word": null,
         "tag": null,
-        "prompt": "Vigoroso:\nDio un aplauso vigoroso.\n______",
+        "prompt": "Vigoroso:\nDio un aplauso vigoroso.\nQue muestra energía y vitalidad",
         "answer": "Vigoroso:\nDio un aplauso vigoroso.\nQue muestra energía y vitalidad",
         "goal_words": "Que muestra energía y vitalidad",
         "audio_filename": "lineoct_es_1397.mp3",
-        "audio_dir": "Vigoroso:\nDio un aplauso vigoroso.\n"
+        "learning_tag": "Fuerte"
     },
     {
         "level": 5.0,
@@ -1001,11 +1001,11 @@
         "native_answer": "Solid",
         "native_word": null,
         "tag": null,
-        "prompt": "Sólido:\nNecesitamos una base sólida.\n______",
+        "prompt": "Sólido:\nNecesitamos una base sólida.\nQue tiene firmeza",
         "answer": "Sólido:\nNecesitamos una base sólida.\nQue tiene firmeza",
         "goal_words": "Que tiene firmeza",
         "audio_filename": "lineoct_es_1256.mp3",
-        "audio_dir": "Sólido:\nNecesitamos una base sólida.\n"
+        "learning_tag": "Fuerte"
     },
     {
         "level": 5.0,
@@ -1019,11 +1019,11 @@
         "native_answer": "Fragile",
         "native_word": null,
         "tag": null,
-        "prompt": "Frágil:\nEl vaso es frágil.\n______",
+        "prompt": "Frágil:\nEl vaso es frágil.\nFácil de romper o dañar",
         "answer": "Frágil:\nEl vaso es frágil.\nFácil de romper o dañar",
         "goal_words": "Fácil de romper o dañar",
         "audio_filename": "lineoct_es_709.mp3",
-        "audio_dir": "Frágil:\nEl vaso es frágil.\n"
+        "learning_tag": "Débil"
     },
     {
         "level": 5.0,
@@ -1037,11 +1037,11 @@
         "native_answer": "Flimsy",
         "native_word": null,
         "tag": null,
-        "prompt": "Endeble:\nSu argumento era endeble.\n______",
+        "prompt": "Endeble:\nSu argumento era endeble.\nCon poca resistencia",
         "answer": "Endeble:\nSu argumento era endeble.\nCon poca resistencia",
         "goal_words": "Con poca resistencia",
         "audio_filename": "lineoct_es_560.mp3",
-        "audio_dir": "Endeble:\nSu argumento era endeble.\n"
+        "learning_tag": "Débil"
     },
     {
         "level": 5.0,
@@ -1055,11 +1055,11 @@
         "native_answer": "Brittle",
         "native_word": null,
         "tag": null,
-        "prompt": "Quebradizo:\nEl material es quebradizo.\n______",
+        "prompt": "Quebradizo:\nEl material es quebradizo.\nQue se rompe con facilidad",
         "answer": "Quebradizo:\nEl material es quebradizo.\nQue se rompe con facilidad",
         "goal_words": "Que se rompe con facilidad",
         "audio_filename": "lineoct_es_1144.mp3",
-        "audio_dir": "Quebradizo:\nEl material es quebradizo.\n"
+        "learning_tag": "Débil"
     },
     {
         "level": 5.0,
@@ -1073,11 +1073,11 @@
         "native_answer": "Loose",
         "native_word": null,
         "tag": null,
-        "prompt": "Flojo:\nSe sintió flojo tras la fiebre.\n______",
+        "prompt": "Flojo:\nSe sintió flojo tras la fiebre.\nCon poca fuerza o energía",
         "answer": "Flojo:\nSe sintió flojo tras la fiebre.\nCon poca fuerza o energía",
         "goal_words": "Con poca fuerza o energía",
         "audio_filename": "lineoct_es_702.mp3",
-        "audio_dir": "Flojo:\nSe sintió flojo tras la fiebre.\n"
+        "learning_tag": "Débil"
     },
     {
         "level": 5.0,
@@ -1091,11 +1091,11 @@
         "native_answer": "Burning",
         "native_word": null,
         "tag": null,
-        "prompt": "Ardiente:\nEl sol estaba ardiente.\n______",
+        "prompt": "Ardiente:\nEl sol estaba ardiente.\nQue tiene calor intenso",
         "answer": "Ardiente:\nEl sol estaba ardiente.\nQue tiene calor intenso",
         "goal_words": "Que tiene calor intenso",
         "audio_filename": "lineoct_es_145.mp3",
-        "audio_dir": "Ardiente:\nEl sol estaba ardiente.\n"
+        "learning_tag": "Caliente"
     },
     {
         "level": 5.0,
@@ -1109,11 +1109,11 @@
         "native_answer": "Warm",
         "native_word": null,
         "tag": null,
-        "prompt": "Cálido:\nMe dio un abrazo cálido.\n______",
+        "prompt": "Cálido:\nMe dio un abrazo cálido.\nQue da sensación de calor agradable",
         "answer": "Cálido:\nMe dio un abrazo cálido.\nQue da sensación de calor agradable",
         "goal_words": "Que da sensación de calor agradable",
         "audio_filename": "lineoct_es_204.mp3",
-        "audio_dir": "Cálido:\nMe dio un abrazo cálido.\n"
+        "learning_tag": "Caliente"
     },
     {
         "level": 5.0,
@@ -1127,11 +1127,11 @@
         "native_answer": "Suffocating",
         "native_word": null,
         "tag": null,
-        "prompt": "Sofocante:\nEl clima era sofocante.\n______",
+        "prompt": "Sofocante:\nEl clima era sofocante.\nQue causa mucho calor y molestia",
         "answer": "Sofocante:\nEl clima era sofocante.\nQue causa mucho calor y molestia",
         "goal_words": "Que causa mucho calor y molestia",
         "audio_filename": "lineoct_es_1252.mp3",
-        "audio_dir": "Sofocante:\nEl clima era sofocante.\n"
+        "learning_tag": "Caliente"
     },
     {
         "level": 5.0,
@@ -1145,11 +1145,11 @@
         "native_answer": "Torrid",
         "native_word": null,
         "tag": null,
-        "prompt": "Tórrido:\nLa región tiene un verano tórrido.\n______,______",
+        "prompt": "Tórrido:\nLa región tiene un verano tórrido.\nMuy caluroso, abrasador",
         "answer": "Tórrido:\nLa región tiene un verano tórrido.\nMuy caluroso, abrasador",
         "goal_words": "Muy caluroso,  abrasador",
         "audio_filename": "lineoct_es_1333.mp3",
-        "audio_dir": "Tórrido:\nLa región tiene un verano tórrido.\n"
+        "learning_tag": "Caliente"
     },
     {
         "level": 5.0,
@@ -1163,11 +1163,11 @@
         "native_answer": "Frozen",
         "native_word": null,
         "tag": null,
-        "prompt": "Helado:\nEl agua estaba helada.\n______",
+        "prompt": "Helado:\nEl agua estaba helada.\nExtremadamente frío",
         "answer": "Helado:\nEl agua estaba helada.\nExtremadamente frío",
         "goal_words": "Extremadamente frío",
         "audio_filename": "lineoct_es_785.mp3",
-        "audio_dir": "Helado:\nEl agua estaba helada.\n"
+        "learning_tag": "Frío"
     },
     {
         "level": 5.0,
@@ -1181,11 +1181,11 @@
         "native_answer": "Icy",
         "native_word": null,
         "tag": null,
-        "prompt": "Gélido:\nUn viento gélido soplaba.\n______,______",
+        "prompt": "Gélido:\nUn viento gélido soplaba.\nMuy frío, como el hielo",
         "answer": "Gélido:\nUn viento gélido soplaba.\nMuy frío, como el hielo",
         "goal_words": "Muy frío,  como el hielo",
         "audio_filename": "lineoct_es_727.mp3",
-        "audio_dir": "Gélido:\nUn viento gélido soplaba.\n"
+        "learning_tag": "Frío"
     },
     {
         "level": 5.0,
@@ -1199,11 +1199,11 @@
         "native_answer": "Cool",
         "native_word": null,
         "tag": null,
-        "prompt": "Fresco:\nLa mañana estaba fresca.\n______",
+        "prompt": "Fresco:\nLa mañana estaba fresca.\nCon una temperatura moderadamente baja",
         "answer": "Fresco:\nLa mañana estaba fresca.\nCon una temperatura moderadamente baja",
         "goal_words": "Con una temperatura moderadamente baja",
         "audio_filename": "lineoct_es_711.mp3",
-        "audio_dir": "Fresco:\nLa mañana estaba fresca.\n"
+        "learning_tag": "Frío"
     },
     {
         "level": 5.0,
@@ -1217,11 +1217,11 @@
         "native_answer": "Glacial",
         "native_word": null,
         "tag": null,
-        "prompt": "Glacial:\nEl clima era glacial en la montaña.\n______",
+        "prompt": "Glacial:\nEl clima era glacial en la montaña.\nDe frío extremo",
         "answer": "Glacial:\nEl clima era glacial en la montaña.\nDe frío extremo",
         "goal_words": "De frío extremo",
         "audio_filename": "lineoct_es_733.mp3",
-        "audio_dir": "Glacial:\nEl clima era glacial en la montaña.\n"
+        "learning_tag": "Frío"
     },
     {
         "level": 5.0,
@@ -1235,11 +1235,11 @@
         "native_answer": "Old man",
         "native_word": null,
         "tag": null,
-        "prompt": "Anciano:\nEl anciano caminaba lentamente.\n______",
+        "prompt": "Anciano:\nEl anciano caminaba lentamente.\nDe mucha edad (persona)",
         "answer": "Anciano:\nEl anciano caminaba lentamente.\nDe mucha edad (persona)",
         "goal_words": "De mucha edad (persona)",
         "audio_filename": "lineoct_es_133.mp3",
-        "audio_dir": "Anciano:\nEl anciano caminaba lentamente.\n"
+        "learning_tag": "Viejo"
     },
     {
         "level": 5.0,
@@ -1253,11 +1253,11 @@
         "native_answer": "Ancient",
         "native_word": null,
         "tag": null,
-        "prompt": "Antiguo:\nLe gusta la música antigua.\n______",
+        "prompt": "Antiguo:\nLe gusta la música antigua.\nQue existe desde hace mucho tiempo",
         "answer": "Antiguo:\nLe gusta la música antigua.\nQue existe desde hace mucho tiempo",
         "goal_words": "Que existe desde hace mucho tiempo",
         "audio_filename": "lineoct_es_139.mp3",
-        "audio_dir": "Antiguo:\nLe gusta la música antigua.\n"
+        "learning_tag": "Viejo"
     },
     {
         "level": 5.0,
@@ -1271,11 +1271,11 @@
         "native_answer": "Ancient",
         "native_word": null,
         "tag": null,
-        "prompt": "Vetusto:\nUn edificio vetusto en el centro.\n______",
+        "prompt": "Vetusto:\nUn edificio vetusto en el centro.\nMuy antiguo y deteriorado",
         "answer": "Vetusto:\nUn edificio vetusto en el centro.\nMuy antiguo y deteriorado",
         "goal_words": "Muy antiguo y deteriorado",
         "audio_filename": "lineoct_es_1396.mp3",
-        "audio_dir": "Vetusto:\nUn edificio vetusto en el centro.\n"
+        "learning_tag": "Viejo"
     },
     {
         "level": 5.0,
@@ -1289,11 +1289,11 @@
         "native_answer": "Ripe",
         "native_word": null,
         "tag": null,
-        "prompt": "Maduro:\nEs un hombre maduro.\n______,______",
+        "prompt": "Maduro:\nEs un hombre maduro.\nDe edad avanzada, pero no anciano",
         "answer": "Maduro:\nEs un hombre maduro.\nDe edad avanzada, pero no anciano",
         "goal_words": "De edad avanzada,  pero no anciano",
         "audio_filename": "lineoct_es_947.mp3",
-        "audio_dir": "Maduro:\nEs un hombre maduro.\n"
+        "learning_tag": "Viejo"
     },
     {
         "level": 5.0,
@@ -1307,11 +1307,11 @@
         "native_answer": "Recent",
         "native_word": null,
         "tag": null,
-        "prompt": "Reciente:\nLeí un libro reciente.\n______",
+        "prompt": "Reciente:\nLeí un libro reciente.\nQue acaba de aparecer o suceder",
         "answer": "Reciente:\nLeí un libro reciente.\nQue acaba de aparecer o suceder",
         "goal_words": "Que acaba de aparecer o suceder",
         "audio_filename": "lineoct_es_1161.mp3",
-        "audio_dir": "Reciente:\nLeí un libro reciente.\n"
+        "learning_tag": "Nuevo"
     },
     {
         "level": 5.0,
@@ -1325,11 +1325,11 @@
         "native_answer": "Current",
         "native_word": null,
         "tag": null,
-        "prompt": "Actual:\nEse es un tema actual.\n______,______",
+        "prompt": "Actual:\nEse es un tema actual.\nDel presente, de hoy en día",
         "answer": "Actual:\nEse es un tema actual.\nDel presente, de hoy en día",
         "goal_words": "Del presente,  de hoy en día",
         "audio_filename": "lineoct_es_93.mp3",
-        "audio_dir": "Actual:\nEse es un tema actual.\n"
+        "learning_tag": "Nuevo"
     },
     {
         "level": 5.0,
@@ -1343,11 +1343,11 @@
         "native_answer": "Modern",
         "native_word": null,
         "tag": null,
-        "prompt": "Moderno:\nTienen muebles modernos.\n______",
+        "prompt": "Moderno:\nTienen muebles modernos.\nQue pertenece a la época actual",
         "answer": "Moderno:\nTienen muebles modernos.\nQue pertenece a la época actual",
         "goal_words": "Que pertenece a la época actual",
         "audio_filename": "lineoct_es_976.mp3",
-        "audio_dir": "Moderno:\nTienen muebles modernos.\n"
+        "learning_tag": "Nuevo"
     },
     {
         "level": 5.0,
@@ -1361,11 +1361,11 @@
         "native_answer": "Brand new",
         "native_word": null,
         "tag": null,
-        "prompt": "Flamante:\nCompró un coche flamante.\n______",
+        "prompt": "Flamante:\nCompró un coche flamante.\nTotalmente nuevo y en perfecto estado",
         "answer": "Flamante:\nCompró un coche flamante.\nTotalmente nuevo y en perfecto estado",
         "goal_words": "Totalmente nuevo y en perfecto estado",
         "audio_filename": "lineoct_es_700.mp3",
-        "audio_dir": "Flamante:\nCompró un coche flamante.\n"
+        "learning_tag": "Nuevo"
     },
     {
         "level": 5.0,
@@ -1379,11 +1379,11 @@
         "native_answer": "Synonym",
         "native_word": null,
         "tag": null,
-        "prompt": "Sinónimo:\nEjemplo\n______",
+        "prompt": "Sinónimo:\nEjemplo\nDefinición breve",
         "answer": "Sinónimo:\nEjemplo\nDefinición breve",
         "goal_words": "Definición breve",
         "audio_filename": "lineoct_es_1245.mp3",
-        "audio_dir": "Sinónimo:\nEjemplo\n"
+        "learning_tag": "Palabra base"
     },
     {
         "level": 5.0,
@@ -1397,11 +1397,11 @@
         "native_answer": "Relevant",
         "native_word": null,
         "tag": null,
-        "prompt": "Relevante:\nEs un tema relevante para la sociedad.\n______",
+        "prompt": "Relevante:\nEs un tema relevante para la sociedad.\nQue tiene gran significado o valor",
         "answer": "Relevante:\nEs un tema relevante para la sociedad.\nQue tiene gran significado o valor",
         "goal_words": "Que tiene gran significado o valor",
         "audio_filename": "lineoct_es_1170.mp3",
-        "audio_dir": "Relevante:\nEs un tema relevante para la sociedad.\n"
+        "learning_tag": "Importante"
     },
     {
         "level": 5.0,
@@ -1415,11 +1415,11 @@
         "native_answer": "Significant",
         "native_word": null,
         "tag": null,
-        "prompt": "Significativo:\nHubo un cambio significativo en su vida.\n______",
+        "prompt": "Significativo:\nHubo un cambio significativo en su vida.\nQue expresa algo con gran sentido",
         "answer": "Significativo:\nHubo un cambio significativo en su vida.\nQue expresa algo con gran sentido",
         "goal_words": "Que expresa algo con gran sentido",
         "audio_filename": "lineoct_es_1233.mp3",
-        "audio_dir": "Significativo:\nHubo un cambio significativo en su vida.\n"
+        "learning_tag": "Importante"
     },
     {
         "level": 5.0,
@@ -1433,11 +1433,11 @@
         "native_answer": "Remarkable",
         "native_word": null,
         "tag": null,
-        "prompt": "Notable:\nTuvo una mejoría notable en su salud.\n______",
+        "prompt": "Notable:\nTuvo una mejoría notable en su salud.\nQue merece atención por su importancia",
         "answer": "Notable:\nTuvo una mejoría notable en su salud.\nQue merece atención por su importancia",
         "goal_words": "Que merece atención por su importancia",
         "audio_filename": "lineoct_es_1022.mp3",
-        "audio_dir": "Notable:\nTuvo una mejoría notable en su salud.\n"
+        "learning_tag": "Importante"
     },
     {
         "level": 5.0,
@@ -1451,11 +1451,11 @@
         "native_answer": "Essential",
         "native_word": null,
         "tag": null,
-        "prompt": "Esencial:\nEl agua es esencial para la vida.\n______",
+        "prompt": "Esencial:\nEl agua es esencial para la vida.\nQue es fundamental o necesario",
         "answer": "Esencial:\nEl agua es esencial para la vida.\nQue es fundamental o necesario",
         "goal_words": "Que es fundamental o necesario",
         "audio_filename": "lineoct_es_599.mp3",
-        "audio_dir": "Esencial:\nEl agua es esencial para la vida.\n"
+        "learning_tag": "Importante"
     },
     {
         "level": 5.0,
@@ -1469,11 +1469,11 @@
         "native_answer": "Accommodated",
         "native_word": null,
         "tag": null,
-        "prompt": "Acomodado:\nEs un empresario acomodado.\n______",
+        "prompt": "Acomodado:\nEs un empresario acomodado.\nQue tiene suficiente dinero y bienes",
         "answer": "Acomodado:\nEs un empresario acomodado.\nQue tiene suficiente dinero y bienes",
         "goal_words": "Que tiene suficiente dinero y bienes",
         "audio_filename": "lineoct_es_91.mp3",
-        "audio_dir": "Acomodado:\nEs un empresario acomodado.\n"
+        "learning_tag": "Rico"
     },
     {
         "level": 5.0,
@@ -1487,11 +1487,11 @@
         "native_answer": "Wealthy",
         "native_word": null,
         "tag": null,
-        "prompt": "Adinerado:\nEl barrio está lleno de gente adinerada.\n______",
+        "prompt": "Adinerado:\nEl barrio está lleno de gente adinerada.\nQue posee mucho dinero",
         "answer": "Adinerado:\nEl barrio está lleno de gente adinerada.\nQue posee mucho dinero",
         "goal_words": "Que posee mucho dinero",
         "audio_filename": "lineoct_es_96.mp3",
-        "audio_dir": "Adinerado:\nEl barrio está lleno de gente adinerada.\n"
+        "learning_tag": "Rico"
     },
     {
         "level": 5.0,
@@ -1505,11 +1505,11 @@
         "native_answer": "Wealthy",
         "native_word": null,
         "tag": null,
-        "prompt": "Pudiente:\nEs una familia pudiente.\n______",
+        "prompt": "Pudiente:\nEs una familia pudiente.\nQue dispone de abundantes recursos",
         "answer": "Pudiente:\nEs una familia pudiente.\nQue dispone de abundantes recursos",
         "goal_words": "Que dispone de abundantes recursos",
         "audio_filename": "lineoct_es_1137.mp3",
-        "audio_dir": "Pudiente:\nEs una familia pudiente.\n"
+        "learning_tag": "Rico"
     },
     {
         "level": 5.0,
@@ -1523,11 +1523,11 @@
         "native_answer": "Opulent",
         "native_word": null,
         "tag": null,
-        "prompt": "Opulento:\nVivía en un palacio opulento.\n______",
+        "prompt": "Opulento:\nVivía en un palacio opulento.\nQue muestra gran riqueza",
         "answer": "Opulento:\nVivía en un palacio opulento.\nQue muestra gran riqueza",
         "goal_words": "Que muestra gran riqueza",
         "audio_filename": "lineoct_es_1036.mp3",
-        "audio_dir": "Opulento:\nVivía en un palacio opulento.\n"
+        "learning_tag": "Rico"
     },
     {
         "level": 5.0,
@@ -1541,11 +1541,11 @@
         "native_answer": "Needy",
         "native_word": null,
         "tag": null,
-        "prompt": "Necesitado:\nAyudaron a los más necesitados.\n______",
+        "prompt": "Necesitado:\nAyudaron a los más necesitados.\nQue carece de lo necesario",
         "answer": "Necesitado:\nAyudaron a los más necesitados.\nQue carece de lo necesario",
         "goal_words": "Que carece de lo necesario",
         "audio_filename": "lineoct_es_994.mp3",
-        "audio_dir": "Necesitado:\nAyudaron a los más necesitados.\n"
+        "learning_tag": "Pobre"
     },
     {
         "level": 5.0,
@@ -1559,11 +1559,11 @@
         "native_answer": "Indigent",
         "native_word": null,
         "tag": null,
-        "prompt": "Indigente:\nUn indigente dormía en la calle.\n______",
+        "prompt": "Indigente:\nUn indigente dormía en la calle.\nQue no tiene recursos básicos",
         "answer": "Indigente:\nUn indigente dormía en la calle.\nQue no tiene recursos básicos",
         "goal_words": "Que no tiene recursos básicos",
         "audio_filename": "lineoct_es_820.mp3",
-        "audio_dir": "Indigente:\nUn indigente dormía en la calle.\n"
+        "learning_tag": "Pobre"
     },
     {
         "level": 5.0,
@@ -1577,11 +1577,11 @@
         "native_answer": "Disadvantaged",
         "native_word": null,
         "tag": null,
-        "prompt": "Desfavorecido:\nUn programa para apoyar a los desfavorecidos.\n______",
+        "prompt": "Desfavorecido:\nUn programa para apoyar a los desfavorecidos.\nCon carencias materiales",
         "answer": "Desfavorecido:\nUn programa para apoyar a los desfavorecidos.\nCon carencias materiales",
         "goal_words": "Con carencias materiales",
         "audio_filename": "lineoct_es_338.mp3",
-        "audio_dir": "Desfavorecido:\nUn programa para apoyar a los desfavorecidos.\n"
+        "learning_tag": "Pobre"
     },
     {
         "level": 5.0,
@@ -1595,11 +1595,11 @@
         "native_answer": "Miserable",
         "native_word": null,
         "tag": null,
-        "prompt": "Miserable:\nCreció en condiciones miserables.\n______",
+        "prompt": "Miserable:\nCreció en condiciones miserables.\nQue vive en extrema pobreza",
         "answer": "Miserable:\nCreció en condiciones miserables.\nQue vive en extrema pobreza",
         "goal_words": "Que vive en extrema pobreza",
         "audio_filename": "lineoct_es_974.mp3",
-        "audio_dir": "Miserable:\nCreció en condiciones miserables.\n"
+        "learning_tag": "Pobre"
     },
     {
         "level": 5.0,
@@ -1613,11 +1613,11 @@
         "native_answer": "Simple",
         "native_word": null,
         "tag": null,
-        "prompt": "Sencillo:\nEl problema era sencillo de resolver.\n______",
+        "prompt": "Sencillo:\nEl problema era sencillo de resolver.\nQue no tiene complicación",
         "answer": "Sencillo:\nEl problema era sencillo de resolver.\nQue no tiene complicación",
         "goal_words": "Que no tiene complicación",
         "audio_filename": "lineoct_es_1225.mp3",
-        "audio_dir": "Sencillo:\nEl problema era sencillo de resolver.\n"
+        "learning_tag": "Fácil"
     },
     {
         "level": 5.0,
@@ -1631,11 +1631,11 @@
         "native_answer": "Simple",
         "native_word": null,
         "tag": null,
-        "prompt": "Simple:\nLa receta es simple.\n______",
+        "prompt": "Simple:\nLa receta es simple.\nQue no ofrece dificultad",
         "answer": "Simple:\nLa receta es simple.\nQue no ofrece dificultad",
         "goal_words": "Que no ofrece dificultad",
         "audio_filename": "lineoct_es_1237.mp3",
-        "audio_dir": "Simple:\nLa receta es simple.\n"
+        "learning_tag": "Fácil"
     },
     {
         "level": 5.0,
@@ -1649,11 +1649,11 @@
         "native_answer": "Clear",
         "native_word": null,
         "tag": null,
-        "prompt": "Claro:\nEl texto es claro y directo.\n______",
+        "prompt": "Claro:\nEl texto es claro y directo.\nQue se entiende sin esfuerzo",
         "answer": "Claro:\nEl texto es claro y directo.\nQue se entiende sin esfuerzo",
         "goal_words": "Que se entiende sin esfuerzo",
         "audio_filename": "lineoct_es_236.mp3",
-        "audio_dir": "Claro:\nEl texto es claro y directo.\n"
+        "learning_tag": "Fácil"
     },
     {
         "level": 5.0,
@@ -1667,11 +1667,11 @@
         "native_answer": "Accessible",
         "native_word": null,
         "tag": null,
-        "prompt": "Accesible:\nEl curso es accesible para todos.\n______",
+        "prompt": "Accesible:\nEl curso es accesible para todos.\nQue resulta posible o asequible",
         "answer": "Accesible:\nEl curso es accesible para todos.\nQue resulta posible o asequible",
         "goal_words": "Que resulta posible o asequible",
         "audio_filename": "lineoct_es_89.mp3",
-        "audio_dir": "Accesible:\nEl curso es accesible para todos.\n"
+        "learning_tag": "Fácil"
     },
     {
         "level": 5.0,
@@ -1685,11 +1685,11 @@
         "native_answer": "Complicated",
         "native_word": null,
         "tag": null,
-        "prompt": "Complicado:\nEl examen fue complicado.\n______",
+        "prompt": "Complicado:\nEl examen fue complicado.\nQue presenta obstáculos",
         "answer": "Complicado:\nEl examen fue complicado.\nQue presenta obstáculos",
         "goal_words": "Que presenta obstáculos",
         "audio_filename": "lineoct_es_247.mp3",
-        "audio_dir": "Complicado:\nEl examen fue complicado.\n"
+        "learning_tag": "Difícil"
     },
     {
         "level": 5.0,
@@ -1703,11 +1703,11 @@
         "native_answer": "Hard",
         "native_word": null,
         "tag": null,
-        "prompt": "Duro:\nEl entrenamiento fue muy duro.\n______",
+        "prompt": "Duro:\nEl entrenamiento fue muy duro.\nQue requiere gran esfuerzo",
         "answer": "Duro:\nEl entrenamiento fue muy duro.\nQue requiere gran esfuerzo",
         "goal_words": "Que requiere gran esfuerzo",
         "audio_filename": "lineoct_es_361.mp3",
-        "audio_dir": "Duro:\nEl entrenamiento fue muy duro.\n"
+        "learning_tag": "Difícil"
     },
     {
         "level": 5.0,
@@ -1721,11 +1721,11 @@
         "native_answer": "Laborious",
         "native_word": null,
         "tag": null,
-        "prompt": "Laborioso:\nEl proceso es laborioso.\n______",
+        "prompt": "Laborioso:\nEl proceso es laborioso.\nQue demanda mucho trabajo",
         "answer": "Laborioso:\nEl proceso es laborioso.\nQue demanda mucho trabajo",
         "goal_words": "Que demanda mucho trabajo",
         "audio_filename": "lineoct_es_882.mp3",
-        "audio_dir": "Laborioso:\nEl proceso es laborioso.\n"
+        "learning_tag": "Difícil"
     },
     {
         "level": 5.0,
@@ -1739,11 +1739,11 @@
         "native_answer": "Hard",
         "native_word": null,
         "tag": null,
-        "prompt": "Arduo:\nUn camino arduo hacia el éxito.\n______",
+        "prompt": "Arduo:\nUn camino arduo hacia el éxito.\nQue exige gran esfuerzo físico o mental",
         "answer": "Arduo:\nUn camino arduo hacia el éxito.\nQue exige gran esfuerzo físico o mental",
         "goal_words": "Que exige gran esfuerzo físico o mental",
         "audio_filename": "lineoct_es_149.mp3",
-        "audio_dir": "Arduo:\nUn camino arduo hacia el éxito.\n"
+        "learning_tag": "Difícil"
     },
     {
         "level": 5.0,
@@ -1757,11 +1757,11 @@
         "native_answer": "Refreshing",
         "native_word": null,
         "tag": null,
-        "prompt": "Refrescante:\nTomó una bebida refrescante.\n______",
+        "prompt": "Refrescante:\nTomó una bebida refrescante.\nQue produce sensación de frescura",
         "answer": "Refrescante:\nTomó una bebida refrescante.\nQue produce sensación de frescura",
         "goal_words": "Que produce sensación de frescura",
         "audio_filename": "lineoct_es_1165.mp3",
-        "audio_dir": "Refrescante:\nTomó una bebida refrescante.\n"
+        "learning_tag": "Fresco"
     },
     {
         "level": 5.0,
@@ -1775,11 +1775,11 @@
         "native_answer": "Cold",
         "native_word": null,
         "tag": null,
-        "prompt": "Frío:\nEl aire estaba frío y fresco.\n______",
+        "prompt": "Frío:\nEl aire estaba frío y fresco.\nCon temperatura baja",
         "answer": "Frío:\nEl aire estaba frío y fresco.\nCon temperatura baja",
         "goal_words": "Con temperatura baja",
         "audio_filename": "lineoct_es_715.mp3",
-        "audio_dir": "Frío:\nEl aire estaba frío y fresco.\n"
+        "learning_tag": "Fresco"
     },
     {
         "level": 5.0,
@@ -1793,11 +1793,11 @@
         "native_answer": "Renovated",
         "native_word": null,
         "tag": null,
-        "prompt": "Renovado:\nSe sintió renovado después de dormir.\n______",
+        "prompt": "Renovado:\nSe sintió renovado después de dormir.\nQue se siente como nuevo",
         "answer": "Renovado:\nSe sintió renovado después de dormir.\nQue se siente como nuevo",
         "goal_words": "Que se siente como nuevo",
         "audio_filename": "lineoct_es_1174.mp3",
-        "audio_dir": "Renovado:\nSe sintió renovado después de dormir.\n"
+        "learning_tag": "Fresco"
     },
     {
         "level": 5.0,
@@ -1811,11 +1811,11 @@
         "native_answer": "Clear",
         "native_word": null,
         "tag": null,
-        "prompt": "Despejado:\nEl cielo estaba fresco y despejado.\n______",
+        "prompt": "Despejado:\nEl cielo estaba fresco y despejado.\nQue da sensación de claridad y frescor",
         "answer": "Despejado:\nEl cielo estaba fresco y despejado.\nQue da sensación de claridad y frescor",
         "goal_words": "Que da sensación de claridad y frescor",
         "audio_filename": "lineoct_es_343.mp3",
-        "audio_dir": "Despejado:\nEl cielo estaba fresco y despejado.\n"
+        "learning_tag": "Fresco"
     },
     {
         "level": 5.0,
@@ -1829,11 +1829,11 @@
         "native_answer": "Heavy",
         "native_word": null,
         "tag": null,
-        "prompt": "Pesado:\nLa película fue pesada.\n______",
+        "prompt": "Pesado:\nLa película fue pesada.\nQue cansa o fastidia",
         "answer": "Pesado:\nLa película fue pesada.\nQue cansa o fastidia",
         "goal_words": "Que cansa o fastidia",
         "audio_filename": "lineoct_es_1095.mp3",
-        "audio_dir": "Pesado:\nLa película fue pesada.\n"
+        "learning_tag": "Aburrido"
     },
     {
         "level": 5.0,
@@ -1847,11 +1847,11 @@
         "native_answer": "Monotonous",
         "native_word": null,
         "tag": null,
-        "prompt": "Monótono:\nEl trabajo era monótono.\n______",
+        "prompt": "Monótono:\nEl trabajo era monótono.\nQue resulta repetitivo y sin variedad",
         "answer": "Monótono:\nEl trabajo era monótono.\nQue resulta repetitivo y sin variedad",
         "goal_words": "Que resulta repetitivo y sin variedad",
         "audio_filename": "lineoct_es_982.mp3",
-        "audio_dir": "Monótono:\nEl trabajo era monótono.\n"
+        "learning_tag": "Aburrido"
     },
     {
         "level": 5.0,
@@ -1865,11 +1865,11 @@
         "native_answer": "Tedious",
         "native_word": null,
         "tag": null,
-        "prompt": "Tedioso:\nFue un trámite tedioso.\n______",
+        "prompt": "Tedioso:\nFue un trámite tedioso.\nQue produce cansancio o fastidio",
         "answer": "Tedioso:\nFue un trámite tedioso.\nQue produce cansancio o fastidio",
         "goal_words": "Que produce cansancio o fastidio",
         "audio_filename": "lineoct_es_1298.mp3",
-        "audio_dir": "Tedioso:\nFue un trámite tedioso.\n"
+        "learning_tag": "Aburrido"
     },
     {
         "level": 5.0,
@@ -1883,11 +1883,11 @@
         "native_answer": "Tasteless",
         "native_word": null,
         "tag": null,
-        "prompt": "Insípido:\nLa conversación resultó insípida.\n______",
+        "prompt": "Insípido:\nLa conversación resultó insípida.\nQue carece de interés o sabor",
         "answer": "Insípido:\nLa conversación resultó insípida.\nQue carece de interés o sabor",
         "goal_words": "Que carece de interés o sabor",
         "audio_filename": "lineoct_es_825.mp3",
-        "audio_dir": "Insípido:\nLa conversación resultó insípida.\n"
+        "learning_tag": "Aburrido"
     },
     {
         "level": 5.0,
@@ -1901,11 +1901,11 @@
         "native_answer": "Exhausted",
         "native_word": null,
         "tag": null,
-        "prompt": "Agotado:\nLlegó agotado del trabajo.\n______",
+        "prompt": "Agotado:\nLlegó agotado del trabajo.\nSin energía por esfuerzo excesivo",
         "answer": "Agotado:\nLlegó agotado del trabajo.\nSin energía por esfuerzo excesivo",
         "goal_words": "Sin energía por esfuerzo excesivo",
         "audio_filename": "lineoct_es_104.mp3",
-        "audio_dir": "Agotado:\nLlegó agotado del trabajo.\n"
+        "learning_tag": "Cansado"
     },
     {
         "level": 5.0,
@@ -1919,11 +1919,11 @@
         "native_answer": "Tired",
         "native_word": null,
         "tag": null,
-        "prompt": "Fatigado:\nEstaba fatigado tras correr.\n______",
+        "prompt": "Fatigado:\nEstaba fatigado tras correr.\nQue siente cansancio físico o mental",
         "answer": "Fatigado:\nEstaba fatigado tras correr.\nQue siente cansancio físico o mental",
         "goal_words": "Que siente cansancio físico o mental",
         "audio_filename": "lineoct_es_693.mp3",
-        "audio_dir": "Fatigado:\nEstaba fatigado tras correr.\n"
+        "learning_tag": "Cansado"
     },
     {
         "level": 5.0,
@@ -1937,11 +1937,11 @@
         "native_answer": "Exhausted",
         "native_word": null,
         "tag": null,
-        "prompt": "Extenuado:\nQuedó extenuado después del maratón.\n______,______",
+        "prompt": "Extenuado:\nQuedó extenuado después del maratón.\nMuy cansado, casi sin fuerzas",
         "answer": "Extenuado:\nQuedó extenuado después del maratón.\nMuy cansado, casi sin fuerzas",
         "goal_words": "Muy cansado,  casi sin fuerzas",
         "audio_filename": "lineoct_es_686.mp3",
-        "audio_dir": "Extenuado:\nQuedó extenuado después del maratón.\n"
+        "learning_tag": "Cansado"
     },
     {
         "level": 5.0,
@@ -1955,11 +1955,11 @@
         "native_answer": "Surrendered",
         "native_word": null,
         "tag": null,
-        "prompt": "Rendido:\nSe durmió rendido en el sofá.\n______",
+        "prompt": "Rendido:\nSe durmió rendido en el sofá.\nQue ya no puede más por el cansancio",
         "answer": "Rendido:\nSe durmió rendido en el sofá.\nQue ya no puede más por el cansancio",
         "goal_words": "Que ya no puede más por el cansancio",
         "audio_filename": "lineoct_es_1173.mp3",
-        "audio_dir": "Rendido:\nSe durmió rendido en el sofá.\n"
+        "learning_tag": "Cansado"
     },
     {
         "level": 5.0,
@@ -1973,11 +1973,11 @@
         "native_answer": "Famished",
         "native_word": null,
         "tag": null,
-        "prompt": "Famélico:\nUn perro famélico buscaba comida.\n______",
+        "prompt": "Famélico:\nUn perro famélico buscaba comida.\nQue tiene hambre extrema",
         "answer": "Famélico:\nUn perro famélico buscaba comida.\nQue tiene hambre extrema",
         "goal_words": "Que tiene hambre extrema",
         "audio_filename": "lineoct_es_689.mp3",
-        "audio_dir": "Famélico:\nUn perro famélico buscaba comida.\n"
+        "learning_tag": "Hambriento"
     },
     {
         "level": 5.0,
@@ -1991,11 +1991,11 @@
         "native_answer": "Voracious",
         "native_word": null,
         "tag": null,
-        "prompt": "Voraz:\nTenía un apetito voraz.\n______",
+        "prompt": "Voraz:\nTenía un apetito voraz.\nQue come con ansias",
         "answer": "Voraz:\nTenía un apetito voraz.\nQue come con ansias",
         "goal_words": "Que come con ansias",
         "audio_filename": "lineoct_es_1405.mp3",
-        "audio_dir": "Voraz:\nTenía un apetito voraz.\n"
+        "learning_tag": "Hambriento"
     },
     {
         "level": 5.0,
@@ -2009,11 +2009,11 @@
         "native_answer": "Avid",
         "native_word": null,
         "tag": null,
-        "prompt": "Ávido:\nEstaba ávido de un buen plato de comida.\n______",
+        "prompt": "Ávido:\nEstaba ávido de un buen plato de comida.\nCon gran deseo de comer",
         "answer": "Ávido:\nEstaba ávido de un buen plato de comida.\nCon gran deseo de comer",
         "goal_words": "Con gran deseo de comer",
         "audio_filename": "lineoct_es_163.mp3",
-        "audio_dir": "Ávido:\nEstaba ávido de un buen plato de comida.\n"
+        "learning_tag": "Hambriento"
     },
     {
         "level": 5.0,
@@ -2027,11 +2027,11 @@
         "native_answer": "Malnourished",
         "native_word": null,
         "tag": null,
-        "prompt": "Desnutrido:\nEl niño estaba desnutrido.\n______",
+        "prompt": "Desnutrido:\nEl niño estaba desnutrido.\nQue sufre falta de alimentación",
         "answer": "Desnutrido:\nEl niño estaba desnutrido.\nQue sufre falta de alimentación",
         "goal_words": "Que sufre falta de alimentación",
         "audio_filename": "lineoct_es_341.mp3",
-        "audio_dir": "Desnutrido:\nEl niño estaba desnutrido.\n"
+        "learning_tag": "Hambriento"
     },
     {
         "level": 5.0,
@@ -2045,11 +2045,11 @@
         "native_answer": "Avid",
         "native_word": null,
         "tag": null,
-        "prompt": "Ávido:\nEstaba ávido de agua tras correr.\n______",
+        "prompt": "Ávido:\nEstaba ávido de agua tras correr.\nQue desea con ansias beber",
         "answer": "Ávido:\nEstaba ávido de agua tras correr.\nQue desea con ansias beber",
         "goal_words": "Que desea con ansias beber",
         "audio_filename": "lineoct_es_162.mp3",
-        "audio_dir": "Ávido:\nEstaba ávido de agua tras correr.\n"
+        "learning_tag": "Sediento"
     },
     {
         "level": 5.0,
@@ -2063,11 +2063,11 @@
         "native_answer": "Required",
         "native_word": null,
         "tag": null,
-        "prompt": "Resequido:\nSe sentía resequido después del viaje.\n______",
+        "prompt": "Resequido:\nSe sentía resequido después del viaje.\nCon la boca seca",
         "answer": "Resequido:\nSe sentía resequido después del viaje.\nCon la boca seca",
         "goal_words": "Con la boca seca",
         "audio_filename": "lineoct_es_1178.mp3",
-        "audio_dir": "Resequido:\nSe sentía resequido después del viaje.\n"
+        "learning_tag": "Sediento"
     },
     {
         "level": 5.0,
@@ -2081,11 +2081,11 @@
         "native_answer": "Dehydrated",
         "native_word": null,
         "tag": null,
-        "prompt": "Deshidratado:\nEl atleta estaba deshidratado.\n______",
+        "prompt": "Deshidratado:\nEl atleta estaba deshidratado.\nQue carece de líquidos en el cuerpo",
         "answer": "Deshidratado:\nEl atleta estaba deshidratado.\nQue carece de líquidos en el cuerpo",
         "goal_words": "Que carece de líquidos en el cuerpo",
         "audio_filename": "lineoct_es_339.mp3",
-        "audio_dir": "Deshidratado:\nEl atleta estaba deshidratado.\n"
+        "learning_tag": "Sediento"
     },
     {
         "level": 5.0,
@@ -2099,11 +2099,11 @@
         "native_answer": "Longing",
         "native_word": null,
         "tag": null,
-        "prompt": "Anhelante:\nMiraba el vaso de agua con ojos anhelantes.\n______",
+        "prompt": "Anhelante:\nMiraba el vaso de agua con ojos anhelantes.\nQue desea fuertemente saciar la sed",
         "answer": "Anhelante:\nMiraba el vaso de agua con ojos anhelantes.\nQue desea fuertemente saciar la sed",
         "goal_words": "Que desea fuertemente saciar la sed",
         "audio_filename": "lineoct_es_134.mp3",
-        "audio_dir": "Anhelante:\nMiraba el vaso de agua con ojos anhelantes.\n"
+        "learning_tag": "Sediento"
     },
     {
         "level": 5.0,
@@ -2117,11 +2117,11 @@
         "native_answer": "Neat",
         "native_word": null,
         "tag": null,
-        "prompt": "Aseado:\nSiempre va muy aseado.\n______",
+        "prompt": "Aseado:\nSiempre va muy aseado.\nQue está cuidado e higiénico",
         "answer": "Aseado:\nSiempre va muy aseado.\nQue está cuidado e higiénico",
         "goal_words": "Que está cuidado e higiénico",
         "audio_filename": "lineoct_es_152.mp3",
-        "audio_dir": "Aseado:\nSiempre va muy aseado.\n"
+        "learning_tag": "Limpio"
     },
     {
         "level": 5.0,
@@ -2135,11 +2135,11 @@
         "native_answer": "Pure",
         "native_word": null,
         "tag": null,
-        "prompt": "Puro:\nEl aire era puro en la montaña.\n______",
+        "prompt": "Puro:\nEl aire era puro en la montaña.\nSin mezcla ni suciedad",
         "answer": "Puro:\nEl aire era puro en la montaña.\nSin mezcla ni suciedad",
         "goal_words": "Sin mezcla ni suciedad",
         "audio_filename": "lineoct_es_1142.mp3",
-        "audio_dir": "Puro:\nEl aire era puro en la montaña.\n"
+        "learning_tag": "Limpio"
     },
     {
         "level": 5.0,
@@ -2153,11 +2153,11 @@
         "native_answer": "Shimmering",
         "native_word": null,
         "tag": null,
-        "prompt": "Reluciente:\nEl piso estaba reluciente.\n______",
+        "prompt": "Reluciente:\nEl piso estaba reluciente.\nQue brilla de limpio",
         "answer": "Reluciente:\nEl piso estaba reluciente.\nQue brilla de limpio",
         "goal_words": "Que brilla de limpio",
         "audio_filename": "lineoct_es_1172.mp3",
-        "audio_dir": "Reluciente:\nEl piso estaba reluciente.\n"
+        "learning_tag": "Limpio"
     },
     {
         "level": 5.0,
@@ -2171,11 +2171,11 @@
         "native_answer": "Hygienic",
         "native_word": null,
         "tag": null,
-        "prompt": "Higiénico:\nEs un ambiente higiénico.\n______",
+        "prompt": "Higiénico:\nEs un ambiente higiénico.\nQue cumple con la limpieza y salud",
         "answer": "Higiénico:\nEs un ambiente higiénico.\nQue cumple con la limpieza y salud",
         "goal_words": "Que cumple con la limpieza y salud",
         "audio_filename": "lineoct_es_796.mp3",
-        "audio_dir": "Higiénico:\nEs un ambiente higiénico.\n"
+        "learning_tag": "Limpio"
     },
     {
         "level": 5.0,
@@ -2189,11 +2189,11 @@
         "native_answer": "Stained",
         "native_word": null,
         "tag": null,
-        "prompt": "Manchado:\nLa camisa estaba manchada.\n______",
+        "prompt": "Manchado:\nLa camisa estaba manchada.\nQue tiene marcas de suciedad",
         "answer": "Manchado:\nLa camisa estaba manchada.\nQue tiene marcas de suciedad",
         "goal_words": "Que tiene marcas de suciedad",
         "audio_filename": "lineoct_es_953.mp3",
-        "audio_dir": "Manchado:\nLa camisa estaba manchada.\n"
+        "learning_tag": "Sucio"
     },
     {
         "level": 5.0,
@@ -2207,11 +2207,11 @@
         "native_answer": "Grimy",
         "native_word": null,
         "tag": null,
-        "prompt": "Mugriento:\nEl callejón era mugriento.\n______",
+        "prompt": "Mugriento:\nEl callejón era mugriento.\nLleno de mugre o suciedad",
         "answer": "Mugriento:\nEl callejón era mugriento.\nLleno de mugre o suciedad",
         "goal_words": "Lleno de mugre o suciedad",
         "audio_filename": "lineoct_es_991.mp3",
-        "audio_dir": "Mugriento:\nEl callejón era mugriento.\n"
+        "learning_tag": "Sucio"
     },
     {
         "level": 5.0,
@@ -2225,11 +2225,11 @@
         "native_answer": "Untidy",
         "native_word": null,
         "tag": null,
-        "prompt": "Desaseado:\nVivía en una casa desaseada.\n______",
+        "prompt": "Desaseado:\nVivía en una casa desaseada.\nPoco limpio o descuidado",
         "answer": "Desaseado:\nVivía en una casa desaseada.\nPoco limpio o descuidado",
         "goal_words": "Poco limpio o descuidado",
         "audio_filename": "lineoct_es_333.mp3",
-        "audio_dir": "Desaseado:\nVivía en una casa desaseada.\n"
+        "learning_tag": "Sucio"
     },
     {
         "level": 5.0,
@@ -2243,11 +2243,11 @@
         "native_answer": "Crowded",
         "native_word": null,
         "tag": null,
-        "prompt": "Abarrotado:\nEl cuarto estaba abarrotado de cosas sucias.\n______",
+        "prompt": "Abarrotado:\nEl cuarto estaba abarrotado de cosas sucias.\nLleno de suciedad acumulada",
         "answer": "Abarrotado:\nEl cuarto estaba abarrotado de cosas sucias.\nLleno de suciedad acumulada",
         "goal_words": "Lleno de suciedad acumulada",
         "audio_filename": "lineoct_es_86.mp3",
-        "audio_dir": "Abarrotado:\nEl cuarto estaba abarrotado de cosas sucias.\n"
+        "learning_tag": "Sucio"
     },
     {
         "level": 5.0,
@@ -2261,11 +2261,11 @@
         "native_answer": "Pretty",
         "native_word": null,
         "tag": null,
-        "prompt": "Bonito:\nTu vestido es bonito.\n______",
+        "prompt": "Bonito:\nTu vestido es bonito.\nQue resulta agradable a la vista",
         "answer": "Bonito:\nTu vestido es bonito.\nQue resulta agradable a la vista",
         "goal_words": "Que resulta agradable a la vista",
         "audio_filename": "lineoct_es_184.mp3",
-        "audio_dir": "Bonito:\nTu vestido es bonito.\n"
+        "learning_tag": "Lindo"
     },
     {
         "level": 5.0,
@@ -2279,11 +2279,11 @@
         "native_answer": "Beautiful",
         "native_word": null,
         "tag": null,
-        "prompt": "Hermoso:\nEs un paisaje hermoso.\n______",
+        "prompt": "Hermoso:\nEs un paisaje hermoso.\nDe gran belleza",
         "answer": "Hermoso:\nEs un paisaje hermoso.\nDe gran belleza",
         "goal_words": "De gran belleza",
         "audio_filename": "lineoct_es_794.mp3",
-        "audio_dir": "Hermoso:\nEs un paisaje hermoso.\n"
+        "learning_tag": "Lindo"
     },
     {
         "level": 5.0,
@@ -2297,11 +2297,11 @@
         "native_answer": "Precious",
         "native_word": null,
         "tag": null,
-        "prompt": "Precioso:\nEl collar es precioso.\n______",
+        "prompt": "Precioso:\nEl collar es precioso.\nBello y valioso",
         "answer": "Precioso:\nEl collar es precioso.\nBello y valioso",
         "goal_words": "Bello y valioso",
         "audio_filename": "lineoct_es_1125.mp3",
-        "audio_dir": "Precioso:\nEl collar es precioso.\n"
+        "learning_tag": "Lindo"
     },
     {
         "level": 5.0,
@@ -2315,11 +2315,11 @@
         "native_answer": "Charming",
         "native_word": null,
         "tag": null,
-        "prompt": "Encantador:\nSu sonrisa es encantadora.\n______",
+        "prompt": "Encantador:\nSu sonrisa es encantadora.\nQue causa atracción o simpatía",
         "answer": "Encantador:\nSu sonrisa es encantadora.\nQue causa atracción o simpatía",
         "goal_words": "Que causa atracción o simpatía",
         "audio_filename": "lineoct_es_555.mp3",
-        "audio_dir": "Encantador:\nSu sonrisa es encantadora.\n"
+        "learning_tag": "Lindo"
     },
     {
         "level": 5.0,
@@ -2333,11 +2333,11 @@
         "native_answer": "Represent",
         "native_word": null,
         "tag": null,
-        "prompt": "Representar:\nEl color rojo puede representar peligro.\n______",
+        "prompt": "Representar:\nEl color rojo puede representar peligro.\nSer símbolo o expresión de algo",
         "answer": "Representar:\nEl color rojo puede representar peligro.\nSer símbolo o expresión de algo",
         "goal_words": "Ser símbolo o expresión de algo",
         "audio_filename": "lineoct_es_1177.mp3",
-        "audio_dir": "Representar:\nEl color rojo puede representar peligro.\n"
+        "learning_tag": "Significar"
     },
     {
         "level": 5.0,
@@ -2351,11 +2351,11 @@
         "native_answer": "Express",
         "native_word": null,
         "tag": null,
-        "prompt": "Expresar:\nEse gesto expresa cariño.\n______",
+        "prompt": "Expresar:\nEse gesto expresa cariño.\nComunicar un sentido o idea",
         "answer": "Expresar:\nEse gesto expresa cariño.\nComunicar un sentido o idea",
         "goal_words": "Comunicar un sentido o idea",
         "audio_filename": "lineoct_es_684.mp3",
-        "audio_dir": "Expresar:\nEse gesto expresa cariño.\n"
+        "learning_tag": "Significar"
     },
     {
         "level": 5.0,
@@ -2369,11 +2369,11 @@
         "native_answer": "Denote",
         "native_word": null,
         "tag": null,
-        "prompt": "Denotar:\nSu tono denota enfado.\n______",
+        "prompt": "Denotar:\nSu tono denota enfado.\nIndicar o señalar algo",
         "answer": "Denotar:\nSu tono denota enfado.\nIndicar o señalar algo",
         "goal_words": "Indicar o señalar algo",
         "audio_filename": "lineoct_es_318.mp3",
-        "audio_dir": "Denotar:\nSu tono denota enfado.\n"
+        "learning_tag": "Significar"
     },
     {
         "level": 5.0,
@@ -2387,11 +2387,11 @@
         "native_answer": "Indicate",
         "native_word": null,
         "tag": null,
-        "prompt": "Indicar:\nEsa señal indica precaución.\n______",
+        "prompt": "Indicar:\nEsa señal indica precaución.\nMostrar o señalar un significado",
         "answer": "Indicar:\nEsa señal indica precaución.\nMostrar o señalar un significado",
         "goal_words": "Mostrar o señalar un significado",
         "audio_filename": "lineoct_es_818.mp3",
-        "audio_dir": "Indicar:\nEsa señal indica precaución.\n"
+        "learning_tag": "Significar"
     },
     {
         "level": 5.0,
@@ -2405,11 +2405,11 @@
         "native_answer": "Amusing",
         "native_word": null,
         "tag": null,
-        "prompt": "Entretenido:\nEl juego fue muy entretenido.\n______",
+        "prompt": "Entretenido:\nEl juego fue muy entretenido.\nQue produce diversión",
         "answer": "Entretenido:\nEl juego fue muy entretenido.\nQue produce diversión",
         "goal_words": "Que produce diversión",
         "audio_filename": "lineoct_es_573.mp3",
-        "audio_dir": "Entretenido:\nEl juego fue muy entretenido.\n"
+        "learning_tag": "Divertido"
     },
     {
         "level": 5.0,
@@ -2423,11 +2423,11 @@
         "native_answer": "Cheerful",
         "native_word": null,
         "tag": null,
-        "prompt": "Alegre:\nEs un programa alegre.\n______",
+        "prompt": "Alegre:\nEs un programa alegre.\nQue provoca felicidad y risa",
         "answer": "Alegre:\nEs un programa alegre.\nQue provoca felicidad y risa",
         "goal_words": "Que provoca felicidad y risa",
         "audio_filename": "lineoct_es_116.mp3",
-        "audio_dir": "Alegre:\nEs un programa alegre.\n"
+        "learning_tag": "Divertido"
     },
     {
         "level": 5.0,
@@ -2441,11 +2441,11 @@
         "native_answer": "Jocular",
         "native_word": null,
         "tag": null,
-        "prompt": "Jocoso:\nHizo un comentario jocoso.\n______",
+        "prompt": "Jocoso:\nHizo un comentario jocoso.\nQue resulta gracioso o festivo",
         "answer": "Jocoso:\nHizo un comentario jocoso.\nQue resulta gracioso o festivo",
         "goal_words": "Que resulta gracioso o festivo",
         "audio_filename": "lineoct_es_840.mp3",
-        "audio_dir": "Jocoso:\nHizo un comentario jocoso.\n"
+        "learning_tag": "Divertido"
     },
     {
         "level": 5.0,
@@ -2459,11 +2459,11 @@
         "native_answer": "Funny",
         "native_word": null,
         "tag": null,
-        "prompt": "Gracioso:\nEl niño dijo algo gracioso.\n______",
+        "prompt": "Gracioso:\nEl niño dijo algo gracioso.\nQue causa risa o simpatía",
         "answer": "Gracioso:\nEl niño dijo algo gracioso.\nQue causa risa o simpatía",
         "goal_words": "Que causa risa o simpatía",
         "audio_filename": "lineoct_es_735.mp3",
-        "audio_dir": "Gracioso:\nEl niño dijo algo gracioso.\n"
+        "learning_tag": "Divertido"
     },
     {
         "level": 5.0,
@@ -2477,11 +2477,11 @@
         "native_answer": "Serious",
         "native_word": null,
         "tag": null,
-        "prompt": "Serio:\nEs un problema serio.\n______",
+        "prompt": "Serio:\nEs un problema serio.\nQue implica importancia",
         "answer": "Serio:\nEs un problema serio.\nQue implica importancia",
         "goal_words": "Que implica importancia",
         "audio_filename": "lineoct_es_1229.mp3",
-        "audio_dir": "Serio:\nEs un problema serio.\n"
+        "learning_tag": "Grave"
     },
     {
         "level": 5.0,
@@ -2495,11 +2495,11 @@
         "native_answer": "Worrying",
         "native_word": null,
         "tag": null,
-        "prompt": "Preocupante:\nLa situación económica es preocupante.\n______",
+        "prompt": "Preocupante:\nLa situación económica es preocupante.\nQue causa inquietud",
         "answer": "Preocupante:\nLa situación económica es preocupante.\nQue causa inquietud",
         "goal_words": "Que causa inquietud",
         "audio_filename": "lineoct_es_1127.mp3",
-        "audio_dir": "Preocupante:\nLa situación económica es preocupante.\n"
+        "learning_tag": "Grave"
     },
     {
         "level": 5.0,
@@ -2513,11 +2513,11 @@
         "native_answer": "Dangerous",
         "native_word": null,
         "tag": null,
-        "prompt": "Peligroso:\nUn accidente grave.\n______",
+        "prompt": "Peligroso:\nUn accidente grave.\nQue conlleva riesgo",
         "answer": "Peligroso:\nUn accidente grave.\nQue conlleva riesgo",
         "goal_words": "Que conlleva riesgo",
         "audio_filename": "lineoct_es_1087.mp3",
-        "audio_dir": "Peligroso:\nUn accidente grave.\n"
+        "learning_tag": "Grave"
     },
     {
         "level": 5.0,
@@ -2531,11 +2531,11 @@
         "native_answer": "Urgent",
         "native_word": null,
         "tag": null,
-        "prompt": "Urgente:\nUn asunto grave y urgente.\n______",
+        "prompt": "Urgente:\nUn asunto grave y urgente.\nQue requiere atención inmediata",
         "answer": "Urgente:\nUn asunto grave y urgente.\nQue requiere atención inmediata",
         "goal_words": "Que requiere atención inmediata",
         "audio_filename": "lineoct_es_1383.mp3",
-        "audio_dir": "Urgente:\nUn asunto grave y urgente.\n"
+        "learning_tag": "Grave"
     },
     {
         "level": 5.0,
@@ -2549,11 +2549,11 @@
         "native_answer": "High",
         "native_word": null,
         "tag": null,
-        "prompt": "Elevado:\nUn edificio elevado.\n______",
+        "prompt": "Elevado:\nUn edificio elevado.\nQue está a gran altura",
         "answer": "Elevado:\nUn edificio elevado.\nQue está a gran altura",
         "goal_words": "Que está a gran altura",
         "audio_filename": "lineoct_es_455.mp3",
-        "audio_dir": "Elevado:\nUn edificio elevado.\n"
+        "learning_tag": "Alto"
     },
     {
         "level": 5.0,
@@ -2567,11 +2567,11 @@
         "native_answer": "Big",
         "native_word": null,
         "tag": null,
-        "prompt": "Grande:\nUn alto porcentaje de éxito.\n______",
+        "prompt": "Grande:\nUn alto porcentaje de éxito.\nQue tiene gran tamaño",
         "answer": "Grande:\nUn alto porcentaje de éxito.\nQue tiene gran tamaño",
         "goal_words": "Que tiene gran tamaño",
         "audio_filename": "lineoct_es_739.mp3",
-        "audio_dir": "Grande:\nUn alto porcentaje de éxito.\n"
+        "learning_tag": "Alto"
     },
     {
         "level": 5.0,
@@ -2585,11 +2585,11 @@
         "native_answer": "Outstanding",
         "native_word": null,
         "tag": null,
-        "prompt": "Sobresaliente:\nEs un atleta sobresaliente.\n______",
+        "prompt": "Sobresaliente:\nEs un atleta sobresaliente.\nQue destaca sobre lo común",
         "answer": "Sobresaliente:\nEs un atleta sobresaliente.\nQue destaca sobre lo común",
         "goal_words": "Que destaca sobre lo común",
         "audio_filename": "lineoct_es_1249.mp3",
-        "audio_dir": "Sobresaliente:\nEs un atleta sobresaliente.\n"
+        "learning_tag": "Alto"
     },
     {
         "level": 5.0,
@@ -2603,11 +2603,11 @@
         "native_answer": "Erect",
         "native_word": null,
         "tag": null,
-        "prompt": "Erguido:\nSe quedó erguido frente al público.\n______",
+        "prompt": "Erguido:\nSe quedó erguido frente al público.\nQue se mantiene recto y alto",
         "answer": "Erguido:\nSe quedó erguido frente al público.\nQue se mantiene recto y alto",
         "goal_words": "Que se mantiene recto y alto",
         "audio_filename": "lineoct_es_577.mp3",
-        "audio_dir": "Erguido:\nSe quedó erguido frente al público.\n"
+        "learning_tag": "Alto"
     },
     {
         "level": 5.0,
@@ -2621,11 +2621,11 @@
         "native_answer": "Serene",
         "native_word": null,
         "tag": null,
-        "prompt": "Sereno:\nEl mar estaba sereno.\n______",
+        "prompt": "Sereno:\nEl mar estaba sereno.\nQue mantiene calma y paz",
         "answer": "Sereno:\nEl mar estaba sereno.\nQue mantiene calma y paz",
         "goal_words": "Que mantiene calma y paz",
         "audio_filename": "lineoct_es_1228.mp3",
-        "audio_dir": "Sereno:\nEl mar estaba sereno.\n"
+        "learning_tag": "Tranquilo"
     },
     {
         "level": 5.0,
@@ -2639,11 +2639,11 @@
         "native_answer": "Peaceful",
         "native_word": null,
         "tag": null,
-        "prompt": "Pacífico:\nVivían en un barrio pacífico.\n______",
+        "prompt": "Pacífico:\nVivían en un barrio pacífico.\nQue evita el conflicto",
         "answer": "Pacífico:\nVivían en un barrio pacífico.\nQue evita el conflicto",
         "goal_words": "Que evita el conflicto",
         "audio_filename": "lineoct_es_1043.mp3",
-        "audio_dir": "Pacífico:\nVivían en un barrio pacífico.\n"
+        "learning_tag": "Tranquilo"
     },
     {
         "level": 5.0,
@@ -2657,11 +2657,11 @@
         "native_answer": "Calm",
         "native_word": null,
         "tag": null,
-        "prompt": "Calmado:\nHabló con tono calmado.\n______",
+        "prompt": "Calmado:\nHabló con tono calmado.\nSin agitación ni nerviosismo",
         "answer": "Calmado:\nHabló con tono calmado.\nSin agitación ni nerviosismo",
         "goal_words": "Sin agitación ni nerviosismo",
         "audio_filename": "lineoct_es_206.mp3",
-        "audio_dir": "Calmado:\nHabló con tono calmado.\n"
+        "learning_tag": "Tranquilo"
     },
     {
         "level": 5.0,
@@ -2675,11 +2675,11 @@
         "native_answer": "Restful",
         "native_word": null,
         "tag": null,
-        "prompt": "Reposado:\nEra un hombre reposado.\n______",
+        "prompt": "Reposado:\nEra un hombre reposado.\nQue actúa con sosiego",
         "answer": "Reposado:\nEra un hombre reposado.\nQue actúa con sosiego",
         "goal_words": "Que actúa con sosiego",
         "audio_filename": "lineoct_es_1176.mp3",
-        "audio_dir": "Reposado:\nEra un hombre reposado.\n"
+        "learning_tag": "Tranquilo"
     },
     {
         "level": 5.0,
@@ -2693,11 +2693,11 @@
         "native_answer": "Persevering",
         "native_word": null,
         "tag": null,
-        "prompt": "Perseverante:\nEs un estudiante perseverante.\n______",
+        "prompt": "Perseverante:\nEs un estudiante perseverante.\nQue mantiene firmeza en algo",
         "answer": "Perseverante:\nEs un estudiante perseverante.\nQue mantiene firmeza en algo",
         "goal_words": "Que mantiene firmeza en algo",
         "audio_filename": "lineoct_es_1093.mp3",
-        "audio_dir": "Perseverante:\nEs un estudiante perseverante.\n"
+        "learning_tag": "Tenaz"
     },
     {
         "level": 5.0,
@@ -2711,11 +2711,11 @@
         "native_answer": "Constant",
         "native_word": null,
         "tag": null,
-        "prompt": "Constante:\nHa sido constante en su práctica.\n______",
+        "prompt": "Constante:\nHa sido constante en su práctica.\nQue no abandona su esfuerzo",
         "answer": "Constante:\nHa sido constante en su práctica.\nQue no abandona su esfuerzo",
         "goal_words": "Que no abandona su esfuerzo",
         "audio_filename": "lineoct_es_259.mp3",
-        "audio_dir": "Constante:\nHa sido constante en su práctica.\n"
+        "learning_tag": "Tenaz"
     },
     {
         "level": 5.0,
@@ -2729,11 +2729,11 @@
         "native_answer": "Stubborn",
         "native_word": null,
         "tag": null,
-        "prompt": "Obstinado:\nEs obstinado en sus opiniones.\n______",
+        "prompt": "Obstinado:\nEs obstinado en sus opiniones.\nQue se aferra a su idea",
         "answer": "Obstinado:\nEs obstinado en sus opiniones.\nQue se aferra a su idea",
         "goal_words": "Que se aferra a su idea",
         "audio_filename": "lineoct_es_1028.mp3",
-        "audio_dir": "Obstinado:\nEs obstinado en sus opiniones.\n"
+        "learning_tag": "Tenaz"
     },
     {
         "level": 5.0,
@@ -2747,11 +2747,11 @@
         "native_answer": "Firm",
         "native_word": null,
         "tag": null,
-        "prompt": "Firme:\nTiene una fe firme en su proyecto.\n______",
+        "prompt": "Firme:\nTiene una fe firme en su proyecto.\nQue se mantiene seguro en su postura",
         "answer": "Firme:\nTiene una fe firme en su proyecto.\nQue se mantiene seguro en su postura",
         "goal_words": "Que se mantiene seguro en su postura",
         "audio_filename": "lineoct_es_699.mp3",
-        "audio_dir": "Firme:\nTiene una fe firme en su proyecto.\n"
+        "learning_tag": "Tenaz"
     },
     {
         "level": 5.0,
@@ -2765,11 +2765,11 @@
         "native_answer": "Cordial",
         "native_word": null,
         "tag": null,
-        "prompt": "Cordial:\nFue recibido de manera cordial.\n______",
+        "prompt": "Cordial:\nFue recibido de manera cordial.\nQue muestra amabilidad sincera",
         "answer": "Cordial:\nFue recibido de manera cordial.\nQue muestra amabilidad sincera",
         "goal_words": "Que muestra amabilidad sincera",
         "audio_filename": "lineoct_es_273.mp3",
-        "audio_dir": "Cordial:\nFue recibido de manera cordial.\n"
+        "learning_tag": "Amigable"
     },
     {
         "level": 5.0,
@@ -2783,11 +2783,11 @@
         "native_answer": "Sympathetic",
         "native_word": null,
         "tag": null,
-        "prompt": "Simpático:\nEs un chico simpático.\n______",
+        "prompt": "Simpático:\nEs un chico simpático.\nQue resulta agradable",
         "answer": "Simpático:\nEs un chico simpático.\nQue resulta agradable",
         "goal_words": "Que resulta agradable",
         "audio_filename": "lineoct_es_1236.mp3",
-        "audio_dir": "Simpático:\nEs un chico simpático.\n"
+        "learning_tag": "Amigable"
     },
     {
         "level": 5.0,
@@ -2801,11 +2801,11 @@
         "native_answer": "Pleasant",
         "native_word": null,
         "tag": null,
-        "prompt": "Agradable:\nEl clima era agradable.\n______",
+        "prompt": "Agradable:\nEl clima era agradable.\nQue causa buena impresión",
         "answer": "Agradable:\nEl clima era agradable.\nQue causa buena impresión",
         "goal_words": "Que causa buena impresión",
         "audio_filename": "lineoct_es_106.mp3",
-        "audio_dir": "Agradable:\nEl clima era agradable.\n"
+        "learning_tag": "Amigable"
     },
     {
         "level": 5.0,
@@ -2819,11 +2819,11 @@
         "native_answer": "Affable",
         "native_word": null,
         "tag": null,
-        "prompt": "Afable:\nUn señor afable saludaba a todos.\n______",
+        "prompt": "Afable:\nUn señor afable saludaba a todos.\nAmable en el trato",
         "answer": "Afable:\nUn señor afable saludaba a todos.\nAmable en el trato",
         "goal_words": "Amable en el trato",
         "audio_filename": "lineoct_es_100.mp3",
-        "audio_dir": "Afable:\nUn señor afable saludaba a todos.\n"
+        "learning_tag": "Amigable"
     },
     {
         "level": 5.0,
@@ -2837,11 +2837,11 @@
         "native_answer": "Frightening",
         "native_word": null,
         "tag": null,
-        "prompt": "Espantoso:\nUn ruido espantoso en la noche.\n______",
+        "prompt": "Espantoso:\nUn ruido espantoso en la noche.\nQue causa mucho miedo",
         "answer": "Espantoso:\nUn ruido espantoso en la noche.\nQue causa mucho miedo",
         "goal_words": "Que causa mucho miedo",
         "audio_filename": "lineoct_es_606.mp3",
-        "audio_dir": "Espantoso:\nUn ruido espantoso en la noche.\n"
+        "learning_tag": "Aterrador"
     },
     {
         "level": 5.0,
@@ -2855,11 +2855,11 @@
         "native_answer": "Horrifying",
         "native_word": null,
         "tag": null,
-        "prompt": "Horripilante:\nUna película horripilante.\n______",
+        "prompt": "Horripilante:\nUna película horripilante.\nQue produce horror y miedo",
         "answer": "Horripilante:\nUna película horripilante.\nQue produce horror y miedo",
         "goal_words": "Que produce horror y miedo",
         "audio_filename": "lineoct_es_803.mp3",
-        "audio_dir": "Horripilante:\nUna película horripilante.\n"
+        "learning_tag": "Aterrador"
     },
     {
         "level": 5.0,
@@ -2873,11 +2873,11 @@
         "native_answer": "Terrifying",
         "native_word": null,
         "tag": null,
-        "prompt": "Terrorífico:\nEl monstruo era terrorífico.\n______",
+        "prompt": "Terrorífico:\nEl monstruo era terrorífico.\nQue inspira terror intenso",
         "answer": "Terrorífico:\nEl monstruo era terrorífico.\nQue inspira terror intenso",
         "goal_words": "Que inspira terror intenso",
         "audio_filename": "lineoct_es_1313.mp3",
-        "audio_dir": "Terrorífico:\nEl monstruo era terrorífico.\n"
+        "learning_tag": "Aterrador"
     },
     {
         "level": 5.0,
@@ -2891,10 +2891,10 @@
         "native_answer": "Startling",
         "native_word": null,
         "tag": null,
-        "prompt": "Sobrecogedor:\nUn silencio sobrecogedor llenó la casa.\n______",
+        "prompt": "Sobrecogedor:\nUn silencio sobrecogedor llenó la casa.\nQue causa gran impresión de miedo",
         "answer": "Sobrecogedor:\nUn silencio sobrecogedor llenó la casa.\nQue causa gran impresión de miedo",
         "goal_words": "Que causa gran impresión de miedo",
         "audio_filename": "lineoct_es_1248.mp3",
-        "audio_dir": "Sobrecogedor:\nUn silencio sobrecogedor llenó la casa.\n"
+        "learning_tag": "Aterrador"
     }
 ]

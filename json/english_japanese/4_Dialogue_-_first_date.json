@@ -15,7 +15,7 @@
         "answer": "偉大な業績を称える",
         "goal_words": "偉大な",
         "audio_filename": "line2_ja_340.mp3",
-        "audio_dir": "偉大な業績を称える"
+        "learning_tag": "形容詞 - 判断"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "美しい女性",
         "goal_words": "美しい",
         "audio_filename": "line4_ja_360.mp3",
-        "audio_dir": "美しい女性"
+        "learning_tag": "形容詞 - 感情を生み出す"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "有名な場所",
         "goal_words": "有名",
         "audio_filename": "line3_ja_627.mp3",
-        "audio_dir": "有名な場所"
+        "learning_tag": "形容詞 - 状態"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "緊張",
         "goal_words": "緊張",
         "audio_filename": "line4_ja_345.mp3",
-        "audio_dir": "緊張"
+        "learning_tag": "形容詞 - 感情を感じる"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "素敵な一日を過ごしてください",
         "goal_words": "素敵な",
         "audio_filename": "line4_ja_329.mp3",
-        "audio_dir": "素敵な一日を過ごしてください"
+        "learning_tag": "形容詞 - 判断"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "良い仕事",
         "goal_words": "良い",
         "audio_filename": "line4_ja_428.mp3",
-        "audio_dir": "良い仕事"
+        "learning_tag": "形容詞 - 判断"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "親友 - 最高の友達",
         "goal_words": "最高の",
         "audio_filename": "line4_ja_503.mp3",
-        "audio_dir": "親友 - 最高の友達"
+        "learning_tag": "形容詞 - 判断と意見"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "一位 - 最初の場所",
         "goal_words": "最初の",
         "audio_filename": "line2_ja_201.mp3",
-        "audio_dir": "一位 - 最初の場所"
+        "learning_tag": "形容詞 - 時間"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "最後に長い時間喫煙をやめる",
         "goal_words": "最後に",
         "audio_filename": "line3_ja_616.mp3",
-        "audio_dir": "最後に長い時間喫煙をやめる"
+        "learning_tag": "副詞 - 時間"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "他の山はさらに高い",
         "goal_words": "さらに",
         "audio_filename": "line2_ja_298.mp3",
-        "audio_dir": "他の山はさらに高い"
+        "learning_tag": "副詞 - 接続副詞"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "それほど多くの星 - 星がたくさんあります",
         "goal_words": "それほど",
         "audio_filename": "line_ja_791.mp3",
-        "audio_dir": "それほど多くの星 - 星がたくさんあります"
+        "learning_tag": "副詞 - 接続副詞"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "本当に大きなロボット - 強調用",
         "goal_words": "本当に",
         "audio_filename": "line3_ja_644.mp3",
-        "audio_dir": "本当に大きなロボット - 強調用"
+        "learning_tag": "副詞"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "前後",
         "goal_words": "前",
         "audio_filename": "line2_ja_420.mp3",
-        "audio_dir": "前後"
+        "learning_tag": "副詞 - 時間"
     },
     {
         "level": 4.0,
@@ -249,7 +249,25 @@
         "answer": "本が多すぎて、これ以上入りません - あまり多くの本が収まりません",
         "goal_words": "あまり",
         "audio_filename": "line3_ja_642.mp3",
-        "audio_dir": "本が多すぎて、これ以上入りません - あまり多くの本が収まりません"
+        "learning_tag": "副詞"
+    },
+    {
+        "level": 4.0,
+        "image_filename": "too.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": "To express \"too many books to fit any more\" in a more natural and colloquial way in Japanese, you might say:\n\n本が多すぎて、これ以上入りません (hon ga ōsugite, kore ijō hairimasen)",
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "4 Dialogue - first date",
+        "native_answer": "too many books to fit any more",
+        "native_word": "adverb",
+        "tag": "adverb",
+        "prompt": "本が多すぎて、これ以上入りません - ______多くの本が収まりません",
+        "answer": "本が多すぎて、これ以上入りません - あまり多くの本が収まりません",
+        "goal_words": "あまり",
+        "audio_filename": "line3_ja_642.mp3",
+        "learning_tag": "副詞"
     },
     {
         "level": 4.0,
@@ -267,7 +285,7 @@
         "answer": "少し",
         "goal_words": "少し",
         "audio_filename": "line2_ja_828.mp3",
-        "audio_dir": "少し"
+        "learning_tag": "副詞"
     },
     {
         "level": 4.0,
@@ -285,7 +303,7 @@
         "answer": "絶対に: 完全に、疑いなく。",
         "goal_words": "絶対に",
         "audio_filename": "line4_ja_341.mp3",
-        "audio_dir": "絶対に: 完全に、疑いなく。"
+        "learning_tag": "副詞 - 判断"
     },
     {
         "level": 4.0,
@@ -303,7 +321,7 @@
         "answer": "パスタ",
         "goal_words": "パスタ",
         "audio_filename": "line_ja_928.mp3",
-        "audio_dir": "パスタ"
+        "learning_tag": "食べ物"
     },
     {
         "level": 4.0,
@@ -321,7 +339,7 @@
         "answer": "食事",
         "goal_words": "食事",
         "audio_filename": "line4_ja_863.mp3",
-        "audio_dir": "食事"
+        "learning_tag": "食べ物"
     },
     {
         "level": 4.0,
@@ -339,7 +357,7 @@
         "answer": "写真を撮る",
         "goal_words": "写真",
         "audio_filename": "line2_ja_391.mp3",
-        "audio_dir": "写真を撮る"
+        "learning_tag": "名詞 - 日常の物"
     },
     {
         "level": 4.0,
@@ -357,7 +375,7 @@
         "answer": "テーブルの上の食べ物",
         "goal_words": "食べ物",
         "audio_filename": "line_ja_853.mp3",
-        "audio_dir": "テーブルの上の食べ物"
+        "learning_tag": "名詞 - 食べ物と飲み物"
     },
     {
         "level": 4.0,
@@ -375,7 +393,7 @@
         "answer": "アプリ",
         "goal_words": "アプリ",
         "audio_filename": "line_ja_425.mp3",
-        "audio_dir": "アプリ"
+        "learning_tag": "名詞 - 道具と設備 "
     },
     {
         "level": 4.0,
@@ -393,7 +411,7 @@
         "answer": "会話",
         "goal_words": "会話",
         "audio_filename": "line2_ja_308.mp3",
-        "audio_dir": "会話"
+        "learning_tag": "名詞 - 活動"
     },
     {
         "level": 4.0,
@@ -411,7 +429,7 @@
         "answer": "デート: ロマンチックな婚約",
         "goal_words": "デート",
         "audio_filename": "line_ja_851.mp3",
-        "audio_dir": "デート: ロマンチックな婚約"
+        "learning_tag": "名詞 - イベント"
     },
     {
         "level": 4.0,
@@ -429,7 +447,7 @@
         "answer": "ビジネスのために会う",
         "goal_words": "会う",
         "audio_filename": "line_ja_964.mp3",
-        "audio_dir": "ビジネスのために会う"
+        "learning_tag": "動詞 - インタラクティブ"
     },
     {
         "level": 4.0,
@@ -447,7 +465,7 @@
         "answer": "見る",
         "goal_words": "見る",
         "audio_filename": "line4_ja_495.mp3",
-        "audio_dir": "見る"
+        "learning_tag": "動詞 - 知覚"
     },
     {
         "level": 4.0,
@@ -465,7 +483,7 @@
         "answer": "言う",
         "goal_words": "言う",
         "audio_filename": "line4_ja_573.mp3",
-        "audio_dir": "言う"
+        "learning_tag": "動詞 - コミュニケーション"
     },
     {
         "level": 4.0,
@@ -483,7 +501,7 @@
         "answer": "聞く",
         "goal_words": "聞く",
         "audio_filename": "line4_ja_384.mp3",
-        "audio_dir": "聞く"
+        "learning_tag": "動詞 - 知覚"
     },
     {
         "level": 4.0,
@@ -501,7 +519,7 @@
         "answer": "サーフィンを試す",
         "goal_words": "試す",
         "audio_filename": "line_ja_631.mp3",
-        "audio_dir": "サーフィンを試す"
+        "learning_tag": "動詞 - 自分自身"
     },
     {
         "level": 4.0,
@@ -519,7 +537,7 @@
         "answer": "服装に合わせて",
         "goal_words": "合わせて",
         "audio_filename": "line3_ja_630.mp3",
-        "audio_dir": "服装に合わせて"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 4.0,
@@ -537,7 +555,7 @@
         "answer": "幸せそうに見える - 現れる、見える",
         "goal_words": "見える",
         "audio_filename": "line2_ja_875.mp3",
-        "audio_dir": "幸せそうに見える - 現れる、見える"
+        "learning_tag": "動詞 - 知覚"
     },
     {
         "level": 4.0,
@@ -555,7 +573,7 @@
         "answer": "水を感じる",
         "goal_words": "感じる",
         "audio_filename": "line3_ja_735.mp3",
-        "audio_dir": "水を感じる"
+        "learning_tag": "動詞 - 知覚"
     },
     {
         "level": 4.0,
@@ -573,7 +591,7 @@
         "answer": "願い、祈り、希望",
         "goal_words": "希望",
         "audio_filename": "line4_ja_850.mp3",
-        "audio_dir": "願い、祈り、希望"
+        "learning_tag": "動詞 - 感情"
     },
     {
         "level": 4.0,
@@ -591,6 +609,6 @@
         "answer": "楽しむ",
         "goal_words": "楽しむ",
         "audio_filename": "line3_ja_684.mp3",
-        "audio_dir": "楽しむ"
+        "learning_tag": "動詞 - 感情"
     }
 ]

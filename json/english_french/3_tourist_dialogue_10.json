@@ -15,7 +15,7 @@
         "answer": "Des lieux",
         "goal_words": "lieux",
         "audio_filename": "line_fr_787.mp3",
-        "audio_dir": "Des lieux"
+        "learning_tag": "Nom"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "la liste est complète",
         "goal_words": "liste",
         "audio_filename": "line3_fr_457.mp3",
-        "audio_dir": "la liste est complète"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "visite guidée",
         "goal_words": "visite",
         "audio_filename": "line5_fr_722.mp3",
-        "audio_dir": "visite guidée"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "cathédrale",
         "goal_words": "cathédrale",
         "audio_filename": "line_fr_518.mp3",
-        "audio_dir": "cathédrale"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "bord de rivière",
         "goal_words": "bord de rivière",
         "audio_filename": "line_fr_440.mp3",
-        "audio_dir": "bord de rivière"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "l'heure",
         "goal_words": "l'heure",
         "audio_filename": "line3_fr_332.mp3",
-        "audio_dir": "l'heure"
+        "learning_tag": "temps"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "la chaussure",
         "goal_words": "la chaussure",
         "audio_filename": "line3_fr_398.mp3",
-        "audio_dir": "la chaussure"
+        "learning_tag": "vêtements"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "la Bouteille",
         "goal_words": "la Bouteille",
         "audio_filename": "line3_fr_379.mp3",
-        "audio_dir": "la Bouteille"
+        "learning_tag": "nourriture"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "Casser",
         "goal_words": "Casser",
         "audio_filename": "line_fr_515.mp3",
-        "audio_dir": "Casser"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "s’inscrire à une nouvelle application",
         "goal_words": "s’inscrire",
         "audio_filename": "line4_fr_912.mp3",
-        "audio_dir": "s’inscrire à une nouvelle application"
+        "learning_tag": "verbe"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "Trouver un indice",
         "goal_words": "Trouver",
         "audio_filename": "line5_fr_247.mp3",
-        "audio_dir": "Trouver un indice"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "démarrer la course",
         "goal_words": "démarrer",
         "audio_filename": "line_fr_763.mp3",
-        "audio_dir": "démarrer la course"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "excité",
         "goal_words": "excité",
         "audio_filename": "line2_fr_181.mp3",
-        "audio_dir": "excité"
+        "learning_tag": "adjectif - ressentir une émotion"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "vieille voiture",
         "goal_words": "vieille",
         "audio_filename": "line5_fr_712.mp3",
-        "audio_dir": "vieille voiture"
+        "learning_tag": "adjectif - temps"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "confortable",
         "goal_words": "confortable",
         "audio_filename": "line_fr_650.mp3",
-        "audio_dir": "confortable"
+        "learning_tag": "adjectif"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "crayon court",
         "goal_words": "court",
         "audio_filename": "line_fr_678.mp3",
-        "audio_dir": "crayon court"
+        "learning_tag": "adjectif - taille"
     },
     {
         "level": 3.0,
@@ -303,6 +303,6 @@
         "answer": "ton visage quand quelque chose est génial",
         "goal_words": "génial",
         "audio_filename": "line5_fr_148.mp3",
-        "audio_dir": "ton visage quand quelque chose est génial"
+        "learning_tag": "adjectif"
     }
 ]

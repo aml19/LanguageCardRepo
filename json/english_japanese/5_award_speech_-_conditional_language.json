@@ -7,15 +7,15 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "Incredible means difficult to believe or extraordinary",
         "native_word": "adjective - judgement",
         "tag": "adjective - judgement",
-        "prompt": "______、または並外れたことを意味する -",
+        "prompt": "信じがたい、または並外れたことを意味する -",
         "answer": "信じがたい、または並外れたことを意味する -",
         "goal_words": "信じがたい",
         "audio_filename": "line2_ja_330.mp3",
-        "audio_dir": "信じがたい、または並外れたことを意味する -"
+        "learning_tag": "形容詞 - 判断"
     },
     {
         "level": 5.0,
@@ -25,15 +25,15 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "Crucial means extremely important or essential",
         "native_word": "adjective - judgement",
         "tag": "adjective - judgement",
-        "prompt": "極めて______または不可欠であることを意味する -",
+        "prompt": "極めて重要または不可欠であることを意味する -",
         "answer": "極めて重要または不可欠であることを意味する -",
         "goal_words": "重要",
         "audio_filename": "line3_ja_676.mp3",
-        "audio_dir": "極めて重要または不可欠であることを意味する -"
+        "learning_tag": "形容詞 - 判断"
     },
     {
         "level": 5.0,
@@ -43,7 +43,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "Aspiring. having a strong desire or ambition to achieve something",
         "native_word": "adjective - Behavior",
         "tag": "adjective - Behavior",
@@ -51,7 +51,7 @@
         "answer": "（志望する）は、何かを達成するための強い願望や野心を持っていることを指します。",
         "goal_words": "野心",
         "audio_filename": "line_ja_104.mp3",
-        "audio_dir": "（志望する）は、何かを達成するための強い願望や野心を持っていることを指します。"
+        "learning_tag": "形容詞 - 行動"
     },
     {
         "level": 5.0,
@@ -61,7 +61,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "award for doing well",
         "native_word": "noun - Events",
         "tag": "noun - Events",
@@ -69,7 +69,7 @@
         "answer": "良い結果に対する賞 -",
         "goal_words": "賞",
         "audio_filename": "line4_ja_429.mp3",
-        "audio_dir": "良い結果に対する賞 -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -79,7 +79,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "journey: trip, travel from a to b",
         "native_word": "noun - Events",
         "tag": "noun - Events",
@@ -87,7 +87,7 @@
         "answer": "旅：AからBへの移動 -",
         "goal_words": "旅",
         "audio_filename": "line3_ja_550.mp3",
-        "audio_dir": "旅：AからBへの移動 -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -97,7 +97,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "business team",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
@@ -105,25 +105,25 @@
         "answer": "ビジネスチーム -",
         "goal_words": "チーム",
         "audio_filename": "line_ja_963.mp3",
-        "audio_dir": "ビジネスチーム -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
         "image_filename": "vision_2.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "vision: the ability to see ahead",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
-        "prompt": "______：先を見通す能力 -",
+        "prompt": "視野：先を見通す能力 -",
         "answer": "視野：先を見通す能力 -",
         "goal_words": "視野",
         "audio_filename": "line4_ja_500.mp3",
-        "audio_dir": "視野：先を見通す能力 -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -133,7 +133,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "to job was a success",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
@@ -141,7 +141,7 @@
         "answer": "その仕事は成功した -",
         "goal_words": "成功",
         "audio_filename": "line_ja_743.mp3",
-        "audio_dir": "その仕事は成功した -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -151,7 +151,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "getting to the top is a challenge",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
@@ -159,7 +159,7 @@
         "answer": "頂点に達することは挑戦です -",
         "goal_words": "挑戦",
         "audio_filename": "line4_ja_842.mp3",
-        "audio_dir": "頂点に達することは挑戦です -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -169,7 +169,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "mentor: a guide who offers advice and support",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
@@ -177,7 +177,7 @@
         "answer": "メンター：アドバイスとサポートを提供するガイド -",
         "goal_words": "メンター",
         "audio_filename": "line2_ja_102.mp3",
-        "audio_dir": "メンター：アドバイスとサポートを提供するガイド -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -187,15 +187,15 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "online lesson for learning math",
         "native_word": "noun - Activities",
         "tag": "noun - Activities",
-        "prompt": "数学を学ぶためのオンライン______ -",
+        "prompt": "数学を学ぶためのオンラインレッスン -",
         "answer": "数学を学ぶためのオンラインレッスン -",
         "goal_words": "レッスン",
         "audio_filename": "line3_ja_537.mp3",
-        "audio_dir": "数学を学ぶためのオンラインレッスン -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -205,7 +205,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "audience at a concert",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
@@ -213,7 +213,7 @@
         "answer": "コンサートの観客 -",
         "goal_words": "観客",
         "audio_filename": "line_ja_623.mp3",
-        "audio_dir": "コンサートの観客 -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -223,7 +223,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "milestone",
         "native_word": "noun - Time & Measurement",
         "tag": "noun - Time & Measurement",
@@ -231,7 +231,7 @@
         "answer": "マイルストーン -",
         "goal_words": "マイルストーン",
         "audio_filename": "line2_ja_72.mp3",
-        "audio_dir": "マイルストーン -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -241,7 +241,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "piece of the cake",
         "native_word": "noun - Everyday Objects",
         "tag": "noun - Everyday Objects",
@@ -249,7 +249,7 @@
         "answer": "ケーキの一切れ",
         "goal_words": "一切れ",
         "audio_filename": "line_ja_585.mp3",
-        "audio_dir": "ケーキの一切れ"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -259,7 +259,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "mentors give advice",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
@@ -267,7 +267,7 @@
         "answer": "メンターはアドバイスを与える -",
         "goal_words": "アドバイス",
         "audio_filename": "line2_ja_103.mp3",
-        "audio_dir": "メンターはアドバイスを与える -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -277,7 +277,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "each individual flower is different",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
@@ -285,7 +285,7 @@
         "answer": "各個別の花は異なる -",
         "goal_words": "個別",
         "audio_filename": "line2_ja_525.mp3",
-        "audio_dir": "各個別の花は異なる -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -295,7 +295,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "the path has many obstacles in the way",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
@@ -303,7 +303,7 @@
         "answer": "道には多くの障害がある -",
         "goal_words": "障害",
         "audio_filename": "line4_ja_697.mp3",
-        "audio_dir": "道には多くの障害がある -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -313,7 +313,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "to show honor to the flag",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
@@ -321,7 +321,7 @@
         "answer": "国旗に敬意を示す -",
         "goal_words": "敬意",
         "audio_filename": "line2_ja_661.mp3",
-        "audio_dir": "国旗に敬意を示す -"
+        "learning_tag": "名詞"
     },
     {
         "level": 5.0,
@@ -331,7 +331,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "expect a flower",
         "native_word": "verb - evaluate",
         "tag": "verb - evaluate",
@@ -339,7 +339,7 @@
         "answer": "花を期待する -",
         "goal_words": "期待",
         "audio_filename": "line4_ja_435.mp3",
-        "audio_dir": "花を期待する -"
+        "learning_tag": "動詞 - 評価する"
     },
     {
         "level": 5.0,
@@ -349,7 +349,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "lead a group",
         "native_word": "verb - interactive",
         "tag": "verb - interactive",
@@ -357,7 +357,7 @@
         "answer": "グループをリードする -",
         "goal_words": "リード",
         "audio_filename": "line_ja_580.mp3",
-        "audio_dir": "グループをリードする -"
+        "learning_tag": "動詞 - インタラクティブ"
     },
     {
         "level": 5.0,
@@ -367,7 +367,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "work construction",
         "native_word": "verb - self",
         "tag": "verb - self",
@@ -375,7 +375,7 @@
         "answer": "建設作業 -",
         "goal_words": "作業",
         "audio_filename": "line2_ja_911.mp3",
-        "audio_dir": "建設作業 -"
+        "learning_tag": "動詞 - 自分自身"
     },
     {
         "level": 5.0,
@@ -385,7 +385,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "support: to keep from falling",
         "native_word": "verb - interactive",
         "tag": "verb - interactive",
@@ -393,7 +393,7 @@
         "answer": "支持：落ちないように支える -",
         "goal_words": "支持",
         "audio_filename": "line3_ja_526.mp3",
-        "audio_dir": "支持：落ちないように支える -"
+        "learning_tag": "動詞 - インタラクティブ"
     },
     {
         "level": 5.0,
@@ -403,15 +403,15 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "Struggle is a difficult effort to overcome challenge",
         "native_word": "verb - self",
         "tag": "verb - self",
-        "prompt": "______は挑戦を克服するための難しい努力です -",
+        "prompt": "闘争は挑戦を克服するための難しい努力です -",
         "answer": "闘争は挑戦を克服するための難しい努力です -",
         "goal_words": "闘争",
         "audio_filename": "line4_ja_778.mp3",
-        "audio_dir": "闘争は挑戦を克服するための難しい努力です -"
+        "learning_tag": "動詞 - 自分自身"
     },
     {
         "level": 5.0,
@@ -421,7 +421,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "a mentor guides their mentee",
         "native_word": "verb - communication",
         "tag": "verb - communication",
@@ -429,7 +429,7 @@
         "answer": "メンターはメンティーを導く -",
         "goal_words": "導く",
         "audio_filename": "line2_ja_104.mp3",
-        "audio_dir": "メンターはメンティーを導く -"
+        "learning_tag": "動詞 - コミュニケーション"
     },
     {
         "level": 5.0,
@@ -439,7 +439,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "to miss the target",
         "native_word": "verb - feeling",
         "tag": "verb - feeling",
@@ -447,7 +447,7 @@
         "answer": "的を外す -",
         "goal_words": "外す",
         "audio_filename": "line3_ja_906.mp3",
-        "audio_dir": "的を外す -"
+        "learning_tag": "動詞 - 感情"
     },
     {
         "level": 5.0,
@@ -457,7 +457,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "to reach for the moon",
         "native_word": "verb - movement",
         "tag": "verb - movement",
@@ -465,7 +465,7 @@
         "answer": "月に手を伸ばす -",
         "goal_words": "伸ばす",
         "audio_filename": "line3_ja_624.mp3",
-        "audio_dir": "月に手を伸ばす -"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 5.0,
@@ -475,7 +475,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "To face an opponent means to confront or meet them directly",
         "native_word": "verb - object",
         "tag": "verb - object",
@@ -483,7 +483,7 @@
         "answer": "対戦相手に立ち向かう",
         "goal_words": "立ち向かう",
         "audio_filename": "line2_ja_807.mp3",
-        "audio_dir": "対戦相手に立ち向かう"
+        "learning_tag": "動詞 - 目的語"
     },
     {
         "level": 5.0,
@@ -493,7 +493,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "Doubt is a feeling of uncertainty",
         "native_word": "verb - mental",
         "tag": "verb - mental",
@@ -501,7 +501,7 @@
         "answer": "疑念は不確実性の感情です -",
         "goal_words": "疑念",
         "audio_filename": "line3_ja_897.mp3",
-        "audio_dir": "疑念は不確実性の感情です -"
+        "learning_tag": "動詞 - 精神的"
     },
     {
         "level": 5.0,
@@ -511,7 +511,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "pay off is to yield a beneficial result or reward from an investment",
         "native_word": "verb - evaluate",
         "tag": "verb - evaluate",
@@ -519,7 +519,7 @@
         "answer": "支払うことは投資から利益をもたらす結果または報酬を生むことです -",
         "goal_words": "支払う",
         "audio_filename": "line3_ja_525.mp3",
-        "audio_dir": "支払うことは投資から利益をもたらす結果または報酬を生むことです -"
+        "learning_tag": "動詞 - 評価する"
     },
     {
         "level": 5.0,
@@ -529,7 +529,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "share",
         "native_word": "verb - interactive",
         "tag": "verb - interactive",
@@ -537,7 +537,7 @@
         "answer": "共有 -",
         "goal_words": "共有",
         "audio_filename": "line2_ja_378.mp3",
-        "audio_dir": "共有 -"
+        "learning_tag": "動詞 - インタラクティブ"
     },
     {
         "level": 5.0,
@@ -547,7 +547,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "continue straight",
         "native_word": "verb - change",
         "tag": "verb - change",
@@ -555,7 +555,7 @@
         "answer": "続ける",
         "goal_words": "続ける",
         "audio_filename": "line4_ja_343.mp3",
-        "audio_dir": "続ける"
+        "learning_tag": "動詞 - 変更する"
     },
     {
         "level": 5.0,
@@ -565,7 +565,7 @@
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
-        "native_group": "5 award speech - conditional language",
+        "native_group": "5 Award speech - conditional language",
         "native_answer": "achieve an award",
         "native_word": "verb - self",
         "tag": "verb - self",
@@ -573,6 +573,6 @@
         "answer": "賞を獲得する -",
         "goal_words": "獲得",
         "audio_filename": "line4_ja_622.mp3",
-        "audio_dir": "賞を獲得する -"
+        "learning_tag": "動詞 - 自分自身"
     }
 ]

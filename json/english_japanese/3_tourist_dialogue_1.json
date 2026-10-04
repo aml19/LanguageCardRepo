@@ -8,32 +8,14 @@
         "native_language": "english",
         "learning_language": "japanese",
         "native_group": "3 tourist dialogue 1",
-        "native_answer": "tourist",
-        "native_word": "noun",
-        "tag": "noun",
+        "native_answer": "tourists",
+        "native_word": "the people",
+        "tag": "the people",
         "prompt": "______",
         "answer": "観光客",
         "goal_words": "観光客",
-        "audio_filename": "line4_ja_504.mp3",
-        "audio_dir": "観光客"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "farmersmarket.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "3 tourist dialogue 1",
-        "native_answer": "farmer's market sells local produce",
-        "native_word": "adjective - Physical Traits",
-        "tag": "adjective - Physical Traits",
-        "prompt": "農家の市場では______の農産物を販売している",
-        "answer": "農家の市場では地元の農産物を販売している",
-        "goal_words": "地元",
-        "audio_filename": "line4_ja_649.mp3",
-        "audio_dir": "農家の市場では地元の農産物を販売している"
+        "audio_filename": "line28aug2026_ja_1.mp3",
+        "learning_tag": "人々"
     },
     {
         "level": 3.0,
@@ -44,14 +26,14 @@
         "native_language": "english",
         "learning_language": "japanese",
         "native_group": "3 tourist dialogue 1",
-        "native_answer": "block",
+        "native_answer": "(city) block",
         "native_word": "noun",
         "tag": "noun",
-        "prompt": "______",
-        "answer": "ブロック（街区）",
-        "goal_words": "ブロック（街区）",
-        "audio_filename": "line_ja_1000.mp3",
-        "audio_dir": "ブロック（街区）"
+        "prompt": "______（がいく）",
+        "answer": "街区（がいく）",
+        "goal_words": "街区",
+        "audio_filename": "line28aug2026_ja_2.mp3",
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -69,7 +51,7 @@
         "answer": "信号 (しんごう)",
         "goal_words": "信号 (しんごう)",
         "audio_filename": "line2_ja_332.mp3",
-        "audio_dir": "信号 (しんごう)"
+        "learning_tag": "名詞 - 都市"
     },
     {
         "level": 3.0,
@@ -87,7 +69,7 @@
         "answer": "バス (ばす)",
         "goal_words": "バス (ばす)",
         "audio_filename": "line_ja_927.mp3",
-        "audio_dir": "バス (ばす)"
+        "learning_tag": "名詞 - 都市"
     },
     {
         "level": 3.0,
@@ -105,7 +87,7 @@
         "answer": "バス停",
         "goal_words": "バス停",
         "audio_filename": "line_ja_934.mp3",
-        "audio_dir": "バス停"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -123,7 +105,7 @@
         "answer": "分",
         "goal_words": "分",
         "audio_filename": "line2_ja_409.mp3",
-        "audio_dir": "分"
+        "learning_tag": "時間 (jikan)"
     },
     {
         "level": 3.0,
@@ -134,14 +116,14 @@
         "native_language": "english",
         "learning_language": "japanese",
         "native_group": "3 tourist dialogue 1",
-        "native_answer": "stop",
+        "native_answer": "a stop",
         "native_word": "noun",
         "tag": "noun",
         "prompt": "______",
         "answer": "停留所",
         "goal_words": "停留所",
-        "audio_filename": "line2_ja_343.mp3",
-        "audio_dir": "停留所"
+        "audio_filename": "line28aug2026_ja_3.mp3",
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -159,7 +141,7 @@
         "answer": "通り",
         "goal_words": "通り",
         "audio_filename": "line4_ja_666.mp3",
-        "audio_dir": "通り"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -177,7 +159,7 @@
         "answer": "美術館",
         "goal_words": "美術",
         "audio_filename": "line4_ja_362.mp3",
-        "audio_dir": "美術館"
+        "learning_tag": "名詞"
     },
     {
         "level": 3.0,
@@ -195,61 +177,7 @@
         "answer": "博物館を訪れる",
         "goal_words": "訪れる",
         "audio_filename": "line2_ja_466.mp3",
-        "audio_dir": "博物館を訪れる"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "help_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "3 tourist dialogue 1",
-        "native_answer": "help",
-        "native_word": "verb - interactive",
-        "tag": "verb - interactive",
-        "prompt": "______",
-        "answer": "助ける",
-        "goal_words": "助ける",
-        "audio_filename": "line2_ja_434.mp3",
-        "audio_dir": "助ける"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "try_surf.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "3 tourist dialogue 1",
-        "native_answer": "try surfing",
-        "native_word": "verb - self",
-        "tag": "verb - self",
-        "prompt": "サーフィンを______",
-        "answer": "サーフィンを試す",
-        "goal_words": "試す",
-        "audio_filename": "line_ja_631.mp3",
-        "audio_dir": "サーフィンを試す"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "walk.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "3 tourist dialogue 1",
-        "native_answer": "walk",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______",
-        "answer": "歩く",
-        "goal_words": "歩く",
-        "audio_filename": "line3_ja_708.mp3",
-        "audio_dir": "歩く"
+        "learning_tag": "動詞"
     },
     {
         "level": 3.0,
@@ -267,61 +195,7 @@
         "answer": "回す",
         "goal_words": "回す",
         "audio_filename": "line2_ja_655.mp3",
-        "audio_dir": "回す"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "see.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "3 tourist dialogue 1",
-        "native_answer": "See",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "______",
-        "answer": "見る",
-        "goal_words": "見る",
-        "audio_filename": "line4_ja_495.mp3",
-        "audio_dir": "見る"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "3 tourist dialogue 1",
-        "native_answer": "take a treat",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "おやつを______",
-        "answer": "おやつを取る",
-        "goal_words": "取る",
-        "audio_filename": "line_ja_503.mp3",
-        "audio_dir": "おやつを取る"
-    },
-    {
-        "level": 3.0,
-        "image_filename": "come_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In Japanese, there isn't a concept directly equivalent to the traditional infinitive form found in languages like English, Spanish, or French. Instead, Japanese verbs have a dictionary or base form that serves a similar purpose. This form is often referred to as the \"dictionary form\" or \"plain form.\"\n\nJapanese Dictionary Form (Plain Form):\nFor -る (ru) Verbs:\n\nFor verbs that end in -る, the dictionary form is the same as the stem. For example:\n食べる (taberu) - to eat\n寝る (neru) - to sleep\nFor -う (u) Verbs:\n\nFor verbs that end in -う, the -う is replaced with the -ます form to get the dictionary form. For example:\n見ます (mimasu) - to see\n行きます (ikimasu) - to go\nDrop the -ます ending to get the dictionary form:\n見る (miru) - to see\n行く (iku) - to go\nUses of Dictionary Form:\nCasual Statements:\n\nThe dictionary form is used in casual conversation and statements among friends, family, or peers.\n食べる (taberu) - I eat.\nCasual Commands:\n\nThe dictionary form can be used for informal commands.\n食べて (tabete) - Eat!\nQuoting and Reporting Speech:\n\nWhen quoting or reporting someone's speech, the dictionary form is used.\n彼は「行く」と言いました (Kare wa \"iku\" to iimashita) - He said, \"I will go.\"\nForms the Basis for Verb Conjugations:\n\nOther forms of verbs, including various conjugations and polite forms, are derived from the dictionary form.\nIt's important to note that while the dictionary form is essential in Japanese grammar, the language relies heavily on context, politeness levels, and verb conjugations to convey nuances and formalities in different situations.",
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "3 tourist dialogue 1",
-        "native_answer": "come with someone",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "誰かと______",
-        "answer": "誰かと来なさい",
-        "goal_words": "来なさい",
-        "audio_filename": "lineoct_ja_1245.mp3",
-        "audio_dir": "誰かと来なさい"
+        "learning_tag": "動詞 - 動き"
     },
     {
         "level": 3.0,
@@ -339,7 +213,7 @@
         "answer": "電車を降りる",
         "goal_words": "降りる",
         "audio_filename": "line4_ja_816.mp3",
-        "audio_dir": "電車を降りる"
+        "learning_tag": "動詞"
     },
     {
         "level": 3.0,
@@ -357,7 +231,7 @@
         "answer": "感謝する",
         "goal_words": "感謝する",
         "audio_filename": "line3_ja_459.mp3",
-        "audio_dir": "感謝する"
+        "learning_tag": "動詞 - コミュニケーション"
     },
     {
         "level": 3.0,
@@ -375,7 +249,7 @@
         "answer": "楽しむ",
         "goal_words": "楽しむ",
         "audio_filename": "line3_ja_684.mp3",
-        "audio_dir": "楽しむ"
+        "learning_tag": "動詞 - 感情"
     },
     {
         "level": 3.0,
@@ -393,25 +267,25 @@
         "answer": "近く 遠く",
         "goal_words": "遠く",
         "audio_filename": "line4_ja_651.mp3",
-        "audio_dir": "近く 遠く"
+        "learning_tag": "対立するもの - 形容詞"
     },
     {
         "level": 3.0,
-        "image_filename": "straight.jpg",
+        "image_filename": "gostraight.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
         "learning_language": "japanese",
         "native_group": "3 tourist dialogue 1",
-        "native_answer": "straight - crooked",
-        "native_word": "adjective",
-        "tag": "adjective",
-        "prompt": "______ – 曲がっている",
-        "answer": "まっすぐ – 曲がっている",
-        "goal_words": "まっすぐ",
-        "audio_filename": "line2_ja_85.mp3",
-        "audio_dir": "まっすぐ – 曲がっている"
+        "native_answer": "to go straight",
+        "native_word": "verb - Movement",
+        "tag": "verb - Movement",
+        "prompt": "まっすぐ______",
+        "answer": "まっすぐ行く",
+        "goal_words": "行く",
+        "audio_filename": "line27aug2026_ja_132.mp3",
+        "learning_tag": "動詞 - 移動"
     },
     {
         "level": 3.0,
@@ -429,7 +303,7 @@
         "answer": "左 - 右",
         "goal_words": "左",
         "audio_filename": "line2_ja_857.mp3",
-        "audio_dir": "左 - 右"
+        "learning_tag": "形容詞"
     },
     {
         "level": 3.0,
@@ -447,7 +321,7 @@
         "answer": "中央オフィス",
         "goal_words": "中央",
         "audio_filename": "line2_ja_262.mp3",
-        "audio_dir": "中央オフィス"
+        "learning_tag": "形容詞"
     },
     {
         "level": 3.0,
@@ -465,6 +339,24 @@
         "answer": "正しいと間違って",
         "goal_words": "正しい",
         "audio_filename": "line3_ja_702.mp3",
-        "audio_dir": "正しいと間違って"
+        "learning_tag": "形容詞 - 判断"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "farmersmarket.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "japanese",
+        "native_group": "3 tourist dialogue 1",
+        "native_answer": "farmer's market sells local produce",
+        "native_word": "adjective - Physical Traits",
+        "tag": "adjective - Physical Traits",
+        "prompt": "農家の市場では______の農産物を販売している",
+        "answer": "農家の市場では地元の農産物を販売している",
+        "goal_words": "地元",
+        "audio_filename": "line4_ja_649.mp3",
+        "learning_tag": "形容詞 - 身体的特徴"
     }
 ]

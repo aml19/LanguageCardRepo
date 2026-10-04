@@ -15,7 +15,7 @@
         "answer": "pen",
         "goal_words": "pen",
         "audio_filename": "line3_en_99.mp3",
-        "audio_dir": "pen"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -33,7 +33,7 @@
         "answer": "Paper",
         "goal_words": "Paper",
         "audio_filename": "line3_en_69.mp3",
-        "audio_dir": "Paper"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -51,7 +51,7 @@
         "answer": "Pencil",
         "goal_words": "Pencil",
         "audio_filename": "line3_en_100.mp3",
-        "audio_dir": "Pencil"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -69,7 +69,7 @@
         "answer": "Marker",
         "goal_words": "Marker",
         "audio_filename": "line2_en_592.mp3",
-        "audio_dir": "Marker"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -87,7 +87,7 @@
         "answer": "Eraser",
         "goal_words": "Eraser",
         "audio_filename": "line_en_807.mp3",
-        "audio_dir": "Eraser"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -105,7 +105,7 @@
         "answer": "Scissors",
         "goal_words": "Scissors",
         "audio_filename": "line3_en_387.mp3",
-        "audio_dir": "Scissors"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -123,7 +123,7 @@
         "answer": "Wallet",
         "goal_words": "Wallet",
         "audio_filename": "line4_en_676.mp3",
-        "audio_dir": "Wallet"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -141,7 +141,7 @@
         "answer": "TV",
         "goal_words": "TV",
         "audio_filename": "line4_en_604.mp3",
-        "audio_dir": "TV"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -159,7 +159,7 @@
         "answer": "Remote",
         "goal_words": "Remote",
         "audio_filename": "line3_en_264.mp3",
-        "audio_dir": "Remote"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -177,7 +177,7 @@
         "answer": "Pillow",
         "goal_words": "Pillow",
         "audio_filename": "line3_en_124.mp3",
-        "audio_dir": "Pillow"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -195,7 +195,7 @@
         "answer": "Blanket",
         "goal_words": "Blanket",
         "audio_filename": "line_en_303.mp3",
-        "audio_dir": "Blanket"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -213,7 +213,7 @@
         "answer": "Toothbrush",
         "goal_words": "Toothbrush",
         "audio_filename": "line4_en_570.mp3",
-        "audio_dir": "Toothbrush"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -231,7 +231,7 @@
         "answer": "Soap",
         "goal_words": "Soap",
         "audio_filename": "line3_en_788.mp3",
-        "audio_dir": "Soap"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -249,11 +249,11 @@
         "answer": "Headphones",
         "goal_words": "Headphones",
         "audio_filename": "line_en_1402.mp3",
-        "audio_dir": "Headphones"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
-        "image_filename": "charger2.jpg",
+        "image_filename": "charge.jpg",
         "card_type": "vocab",
         "identifier": "ID",
         "info": null,
@@ -267,7 +267,7 @@
         "answer": "Charger",
         "goal_words": "Charger",
         "audio_filename": "line_en_469.mp3",
-        "audio_dir": "Charger"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -285,7 +285,7 @@
         "answer": "Broom",
         "goal_words": "Broom",
         "audio_filename": "line_en_353.mp3",
-        "audio_dir": "Broom"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -303,7 +303,7 @@
         "answer": "Brush",
         "goal_words": "Brush",
         "audio_filename": "line_en_356.mp3",
-        "audio_dir": "Brush"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -321,7 +321,7 @@
         "answer": "Umbrella",
         "goal_words": "Umbrella",
         "audio_filename": "line4_en_624.mp3",
-        "audio_dir": "Umbrella"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -339,7 +339,7 @@
         "answer": "Fan",
         "goal_words": "Fan",
         "audio_filename": "line_en_841.mp3",
-        "audio_dir": "Fan"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -357,7 +357,7 @@
         "answer": "toy",
         "goal_words": "toy",
         "audio_filename": "line4_en_580.mp3",
-        "audio_dir": "toy"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -375,7 +375,7 @@
         "answer": "water",
         "goal_words": "water",
         "audio_filename": "line4_en_689.mp3",
-        "audio_dir": "water"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -393,7 +393,7 @@
         "answer": "ball",
         "goal_words": "ball",
         "audio_filename": "line_en_244.mp3",
-        "audio_dir": "ball"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -411,7 +411,7 @@
         "answer": "chair",
         "goal_words": "chair",
         "audio_filename": "line_en_463.mp3",
-        "audio_dir": "chair"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -429,7 +429,7 @@
         "answer": "clock",
         "goal_words": "clock",
         "audio_filename": "line_en_504.mp3",
-        "audio_dir": "clock"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -447,7 +447,7 @@
         "answer": "ice",
         "goal_words": "ice",
         "audio_filename": "line2_en_179.mp3",
-        "audio_dir": "ice"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -465,7 +465,7 @@
         "answer": "keys",
         "goal_words": "keys",
         "audio_filename": "line2_en_461.mp3",
-        "audio_dir": "keys"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -483,25 +483,7 @@
         "answer": "cell phone",
         "goal_words": "cell phone",
         "audio_filename": "line_en_455.mp3",
-        "audio_dir": "cell phone"
-    },
-    {
-        "level": 2.0,
-        "image_filename": "pen.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "german",
-        "learning_language": "english",
-        "native_group": "2 Alltagsgegenstände",
-        "native_answer": "der Stift",
-        "native_word": "Alltagsgegenstände",
-        "tag": "Alltagsgegenstände",
-        "prompt": "______",
-        "answer": "pen",
-        "goal_words": "pen",
-        "audio_filename": "line3_en_99.mp3",
-        "audio_dir": "pen"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -519,7 +501,7 @@
         "answer": "plant",
         "goal_words": "plant",
         "audio_filename": "line3_en_130.mp3",
-        "audio_dir": "plant"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -537,7 +519,7 @@
         "answer": "laptop",
         "goal_words": "laptop",
         "audio_filename": "line2_en_479.mp3",
-        "audio_dir": "laptop"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -555,7 +537,7 @@
         "answer": "computer",
         "goal_words": "computer",
         "audio_filename": "line_en_531.mp3",
-        "audio_dir": "computer"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -573,7 +555,7 @@
         "answer": "light",
         "goal_words": "light",
         "audio_filename": "line2_en_517.mp3",
-        "audio_dir": "light"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -591,7 +573,7 @@
         "answer": "money",
         "goal_words": "money",
         "audio_filename": "line2_en_638.mp3",
-        "audio_dir": "money"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -609,7 +591,7 @@
         "answer": "picture",
         "goal_words": "picture",
         "audio_filename": "line3_en_118.mp3",
-        "audio_dir": "picture"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -627,7 +609,7 @@
         "answer": "camera",
         "goal_words": "camera",
         "audio_filename": "line_en_424.mp3",
-        "audio_dir": "camera"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -645,7 +627,7 @@
         "answer": "notebook",
         "goal_words": "notebook",
         "audio_filename": "line2_en_720.mp3",
-        "audio_dir": "notebook"
+        "learning_tag": "everyday items"
     },
     {
         "level": 2.0,
@@ -663,6 +645,600 @@
         "answer": "book",
         "goal_words": "book",
         "audio_filename": "line_en_317.mp3",
-        "audio_dir": "book"
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "pen2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Stift zum Schreiben",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Pen to write with",
+        "answer": "Pen to write with",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_305.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "paper2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Papier zum Schreiben oder Zeichnen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Paper to write or draw on",
+        "answer": "Paper to write or draw on",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_303.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "pencil2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Bleistift zum Schreiben oder Skizzieren",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Pencil to write or sketch with",
+        "answer": "Pencil to write or sketch with",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_306.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "marker2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Marker zum Schreiben mit kräftiger Tinte",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Marker to write with bold ink",
+        "answer": "Marker to write with bold ink",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_266.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "eraser2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Radiergummi zum Entfernen von Fehlern",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Eraser to remove mistakes",
+        "answer": "Eraser to remove mistakes",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_102.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "scissors2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Schere zum Schneiden von Papier oder Gegenständen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Scissors to cut paper or objects",
+        "answer": "Scissors to cut paper or objects",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_334.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "wallet2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Geldbörse zum Aufbewahren von Geld und Karten",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Wallet to carry money and cards",
+        "answer": "Wallet to carry money and cards",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_427.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "tv2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Fernsehen zum Ansehen von Sendungen und Filmen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "TV to watch shows and movies",
+        "answer": "TV to watch shows and movies",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_420.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "remote2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Fernbedienung zur Steuerung von Geräten wie Fernseher",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Remote to control devices like TV",
+        "answer": "Remote to control devices like TV",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_329.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "pillow2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Kissen zum Ablegen des Kopfes",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Pillow to rest your head on",
+        "answer": "Pillow to rest your head on",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_310.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "blanket2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Decke zum Warmhalten",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Blanket to keep warm",
+        "answer": "Blanket to keep warm",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_26.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "toothbrush2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Zahnbürste zum Reinigen der Zähne",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Toothbrush to clean your teeth",
+        "answer": "Toothbrush to clean your teeth",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_413.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "soap2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Seife zum Hände- und Körperwaschen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Soap to wash your hands and body",
+        "answer": "Soap to wash your hands and body",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_357.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "headphones2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Kopfhörer zum privaten Hören von Audioinhalten",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Headphones to listen to audio privately",
+        "answer": "Headphones to listen to audio privately",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_143.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "charge.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Ladegerät zum Stromversorgen elektronischer Geräte",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Charger to power electronic devices",
+        "answer": "Charger to power electronic devices",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_58.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "broom2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Besen zum Fegen der Böden",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Broom to sweep floors",
+        "answer": "Broom to sweep floors",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_42.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "umbrella2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Regenschirm zum Schutz vor Regen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Umbrella to protect you from rain",
+        "answer": "Umbrella to protect you from rain",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_422.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "fan5.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Ventilator zur Kühlung der Luft",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Fan to cool the air",
+        "answer": "Fan to cool the air",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_114.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "toy.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Spielzeug zum Spielen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Toy to play with",
+        "answer": "Toy to play with",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_416.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "water.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Wasser zum Trinken",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Water to drink",
+        "answer": "Water to drink",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_429.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "ball.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Ball zum Werfen oder für Sportarten",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Ball to throw or play sports with",
+        "answer": "Ball to throw or play sports with",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_22.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "chair.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Stuhl zum Sitzen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Chair to sit on",
+        "answer": "Chair to sit on",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_57.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "clock.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Uhr zur Zeitanzeige",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Clock to tell time",
+        "answer": "Clock to tell time",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_63.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "ice.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Eis zum Kühlen von Getränken oder zum Kalthalten von Lebensmitteln",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Ice to cool drinks or keep things cold",
+        "answer": "Ice to cool drinks or keep things cold",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_225.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "keys.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Schlüssel zum Öffnen von Schlössern",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Keys to open locks",
+        "answer": "Keys to open locks",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_243.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "cell_phone.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Handy zum Anrufen und SMS-Schreiben",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Cell phone to call and text people",
+        "answer": "Cell phone to call and text people",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_56.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "plant.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Pflanzen zum Wachsen und Dekorieren von Räumen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Plant to grow and decorate spaces",
+        "answer": "Plant to grow and decorate spaces",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_312.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "laptop.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Laptop zum Arbeiten oder Lernen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Laptop to work or study on",
+        "answer": "Laptop to work or study on",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_245.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "money.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Geld, um Dinge zu kaufen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Money to buy things",
+        "answer": "Money to buy things",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_272.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "picture.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Bild zum Anzeigen oder Darstellen eines Bildes",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Picture to view or display an image",
+        "answer": "Picture to view or display an image",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_308.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "camera.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Kamera zum Aufnehmen von Fotos oder Videos",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Camera to take photos or videos",
+        "answer": "Camera to take photos or videos",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_50.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "notebook.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Notizbuch zum Schreiben von Notizen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Notebook to write notes in",
+        "answer": "Notebook to write notes in",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_296.mp3",
+        "learning_tag": "everyday items"
+    },
+    {
+        "level": 3.0,
+        "image_filename": "book2.jpg",
+        "card_type": "reading",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "german",
+        "learning_language": "english",
+        "native_group": "2 Alltagsgegenstände",
+        "native_answer": "Bücher zum Lesen von Geschichten oder Informationen",
+        "native_word": "Alltagsgegenstände",
+        "tag": "Alltagsgegenstände",
+        "prompt": "Book to read stories or information",
+        "answer": "Book to read stories or information",
+        "goal_words": "",
+        "audio_filename": "line10June26_en_35.mp3",
+        "learning_tag": "everyday items"
     }
 ]

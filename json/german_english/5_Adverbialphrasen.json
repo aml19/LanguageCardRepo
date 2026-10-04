@@ -13,9 +13,9 @@
         "tag": "Geschwindigkeit / Zeit",
         "prompt": "He left in a hurry.",
         "answer": "He left in a hurry.",
-        "goal_words": "",
+        "goal_words": "in a hurry",
         "audio_filename": "lineoct_en_392.mp3",
-        "audio_dir": "He left in a hurry."
+        "learning_tag": "Speed / Time"
     },
     {
         "level": 5.0,
@@ -31,9 +31,9 @@
         "tag": "Geschwindigkeit / Zeit",
         "prompt": "She finished the report at the last minute.",
         "answer": "She finished the report at the last minute.",
-        "goal_words": "",
+        "goal_words": "at the last minute",
         "audio_filename": "lineoct_en_887.mp3",
-        "audio_dir": "She finished the report at the last minute."
+        "learning_tag": "Speed / Time"
     },
     {
         "level": 5.0,
@@ -49,9 +49,9 @@
         "tag": "Geschwindigkeit / Zeit",
         "prompt": "We’ll be there in no time.",
         "answer": "We’ll be there in no time.",
-        "goal_words": "",
+        "goal_words": "in no time",
         "audio_filename": "lineoct_en_1355.mp3",
-        "audio_dir": "We’ll be there in no time."
+        "learning_tag": "Speed / Time"
     },
     {
         "level": 5.0,
@@ -67,9 +67,9 @@
         "tag": "Geschwindigkeit / Zeit",
         "prompt": "It was over in an instant.",
         "answer": "It was over in an instant.",
-        "goal_words": "",
+        "goal_words": "in an instant",
         "audio_filename": "lineoct_en_640.mp3",
-        "audio_dir": "It was over in an instant."
+        "learning_tag": "Speed / Time"
     },
     {
         "level": 5.0,
@@ -85,9 +85,9 @@
         "tag": "Geschwindigkeit / Zeit",
         "prompt": "The train arrived on time.",
         "answer": "The train arrived on time.",
-        "goal_words": "",
+        "goal_words": "on time",
         "audio_filename": "lineoct_en_1141.mp3",
-        "audio_dir": "The train arrived on time."
+        "learning_tag": "Speed / Time"
     },
     {
         "level": 5.0,
@@ -103,9 +103,9 @@
         "tag": "Geschwindigkeit / Zeit",
         "prompt": "They got there ahead of time.",
         "answer": "They got there ahead of time.",
-        "goal_words": "",
+        "goal_words": "ahead of time",
         "audio_filename": "lineoct_en_1183.mp3",
-        "audio_dir": "They got there ahead of time."
+        "learning_tag": "Speed / Time"
     },
     {
         "level": 5.0,
@@ -121,9 +121,9 @@
         "tag": "Geschwindigkeit / Zeit",
         "prompt": "He showed up behind schedule.",
         "answer": "He showed up behind schedule.",
-        "goal_words": "",
+        "goal_words": "behind schedule",
         "audio_filename": "lineoct_en_414.mp3",
-        "audio_dir": "He showed up behind schedule."
+        "learning_tag": "Speed / Time"
     },
     {
         "level": 5.0,
@@ -139,9 +139,9 @@
         "tag": "Art und Weise / Stil",
         "prompt": "They worked in silence.",
         "answer": "They worked in silence.",
-        "goal_words": "",
+        "goal_words": "in silence",
         "audio_filename": "lineoct_en_1224.mp3",
-        "audio_dir": "They worked in silence."
+        "learning_tag": "Manner / Style"
     },
     {
         "level": 5.0,
@@ -157,9 +157,9 @@
         "tag": "Art und Weise / Stil",
         "prompt": "She handled the vase with care.",
         "answer": "She handled the vase with care.",
-        "goal_words": "",
+        "goal_words": "with care",
         "audio_filename": "lineoct_en_892.mp3",
-        "audio_dir": "She handled the vase with care."
+        "learning_tag": "Manner / Style"
     },
     {
         "level": 5.0,
@@ -175,9 +175,9 @@
         "tag": "Art und Weise / Stil",
         "prompt": "He solved the puzzle with ease.",
         "answer": "He solved the puzzle with ease.",
-        "goal_words": "",
+        "goal_words": "with ease",
         "audio_filename": "lineoct_en_415.mp3",
-        "audio_dir": "He solved the puzzle with ease."
+        "learning_tag": "Manner / Style"
     },
     {
         "level": 5.0,
@@ -193,9 +193,9 @@
         "tag": "Art und Weise / Stil",
         "prompt": "They met in secret.",
         "answer": "They met in secret.",
-        "goal_words": "",
+        "goal_words": "in secret",
         "audio_filename": "lineoct_en_1195.mp3",
-        "audio_dir": "They met in secret."
+        "learning_tag": "Manner / Style"
     },
     {
         "level": 5.0,
@@ -211,9 +211,9 @@
         "tag": "Art und Weise / Stil",
         "prompt": "She explained the plan in detail.",
         "answer": "She explained the plan in detail.",
-        "goal_words": "",
+        "goal_words": "in detail",
         "audio_filename": "lineoct_en_884.mp3",
-        "audio_dir": "She explained the plan in detail."
+        "learning_tag": "Manner / Style"
     },
     {
         "level": 5.0,
@@ -229,9 +229,9 @@
         "tag": "Art und Weise / Stil",
         "prompt": "He climbed the hill with difficulty.",
         "answer": "He climbed the hill with difficulty.",
-        "goal_words": "",
+        "goal_words": "with difficulty",
         "audio_filename": "lineoct_en_362.mp3",
-        "audio_dir": "He climbed the hill with difficulty."
+        "learning_tag": "Manner / Style"
     },
     {
         "level": 5.0,
@@ -247,9 +247,9 @@
         "tag": "Art und Weise / Stil",
         "prompt": "She spoke in earnest.",
         "answer": "She spoke in earnest.",
-        "goal_words": "",
+        "goal_words": "in earnest",
         "audio_filename": "lineoct_en_932.mp3",
-        "audio_dir": "She spoke in earnest."
+        "learning_tag": "Manner / Style"
     },
     {
         "level": 5.0,
@@ -265,9 +265,9 @@
         "tag": "Emotion / Einstellung",
         "prompt": "He shouted in anger.",
         "answer": "He shouted in anger.",
-        "goal_words": "",
+        "goal_words": "in anger",
         "audio_filename": "lineoct_en_413.mp3",
-        "audio_dir": "He shouted in anger."
+        "learning_tag": "Emotion / Attitude"
     },
     {
         "level": 5.0,
@@ -283,9 +283,9 @@
         "tag": "Emotion / Einstellung",
         "prompt": "She smiled with joy.",
         "answer": "She smiled with joy.",
-        "goal_words": "",
+        "goal_words": "with joy",
         "audio_filename": "lineoct_en_930.mp3",
-        "audio_dir": "She smiled with joy."
+        "learning_tag": "Emotion / Attitude"
     },
     {
         "level": 5.0,
@@ -301,9 +301,9 @@
         "tag": "Emotion / Einstellung",
         "prompt": "They walked away with pride.",
         "answer": "They walked away with pride.",
-        "goal_words": "",
+        "goal_words": "with pride",
         "audio_filename": "lineoct_en_1203.mp3",
-        "audio_dir": "They walked away with pride."
+        "learning_tag": "Emotion / Attitude"
     },
     {
         "level": 5.0,
@@ -319,9 +319,9 @@
         "tag": "Emotion / Einstellung",
         "prompt": "He spoke with confidence.",
         "answer": "He spoke with confidence.",
-        "goal_words": "",
+        "goal_words": "with confidence",
         "audio_filename": "lineoct_en_417.mp3",
-        "audio_dir": "He spoke with confidence."
+        "learning_tag": "Emotion / Attitude"
     },
     {
         "level": 5.0,
@@ -337,9 +337,9 @@
         "tag": "Emotion / Einstellung",
         "prompt": "She sighed with relief.",
         "answer": "She sighed with relief.",
-        "goal_words": "",
+        "goal_words": "with relief",
         "audio_filename": "lineoct_en_929.mp3",
-        "audio_dir": "She sighed with relief."
+        "learning_tag": "Emotion / Attitude"
     },
     {
         "level": 5.0,
@@ -355,9 +355,9 @@
         "tag": "Emotion / Einstellung",
         "prompt": "He cried in despair.",
         "answer": "He cried in despair.",
-        "goal_words": "",
+        "goal_words": "in despair",
         "audio_filename": "lineoct_en_364.mp3",
-        "audio_dir": "He cried in despair."
+        "learning_tag": "Emotion / Attitude"
     },
     {
         "level": 5.0,
@@ -373,9 +373,9 @@
         "tag": "Emotion / Einstellung",
         "prompt": "They worked with enthusiasm.",
         "answer": "They worked with enthusiasm.",
-        "goal_words": "",
+        "goal_words": "with enthusiasm",
         "audio_filename": "lineoct_en_1225.mp3",
-        "audio_dir": "They worked with enthusiasm."
+        "learning_tag": "Emotion / Attitude"
     },
     {
         "level": 5.0,
@@ -391,9 +391,9 @@
         "tag": "Häufigkeit / Regelmäßigkeit",
         "prompt": "They meet from time to time.",
         "answer": "They meet from time to time.",
-        "goal_words": "",
+        "goal_words": "from time to time",
         "audio_filename": "lineoct_en_1194.mp3",
-        "audio_dir": "They meet from time to time."
+        "learning_tag": "Frequency / Regularity"
     },
     {
         "level": 5.0,
@@ -409,9 +409,9 @@
         "tag": "Häufigkeit / Regelmäßigkeit",
         "prompt": "She calls once in a while.",
         "answer": "She calls once in a while.",
-        "goal_words": "",
+        "goal_words": "once in a while",
         "audio_filename": "lineoct_en_872.mp3",
-        "audio_dir": "She calls once in a while."
+        "learning_tag": "Frequency / Regularity"
     },
     {
         "level": 5.0,
@@ -427,9 +427,9 @@
         "tag": "Häufigkeit / Regelmäßigkeit",
         "prompt": "He visits every now and then.",
         "answer": "He visits every now and then.",
-        "goal_words": "",
+        "goal_words": "every now and then",
         "audio_filename": "lineoct_en_425.mp3",
-        "audio_dir": "He visits every now and then."
+        "learning_tag": "Frequency / Regularity"
     },
     {
         "level": 5.0,
@@ -445,9 +445,9 @@
         "tag": "Häufigkeit / Regelmäßigkeit",
         "prompt": "They jog day after day.",
         "answer": "They jog day after day.",
-        "goal_words": "",
+        "goal_words": "day after day",
         "audio_filename": "lineoct_en_1188.mp3",
-        "audio_dir": "They jog day after day."
+        "learning_tag": "Frequency / Regularity"
     },
     {
         "level": 5.0,
@@ -463,9 +463,9 @@
         "tag": "Häufigkeit / Regelmäßigkeit",
         "prompt": "She tries time and again.",
         "answer": "She tries time and again.",
-        "goal_words": "",
+        "goal_words": "time and again",
         "audio_filename": "lineoct_en_938.mp3",
-        "audio_dir": "She tries time and again."
+        "learning_tag": "Frequency / Regularity"
     },
     {
         "level": 5.0,
@@ -481,9 +481,9 @@
         "tag": "Ort / Richtung",
         "prompt": "A light appeared in the distance.",
         "answer": "A light appeared in the distance.",
-        "goal_words": "",
+        "goal_words": "in the distance",
         "audio_filename": "lineoct_en_2.mp3",
-        "audio_dir": "A light appeared in the distance."
+        "learning_tag": "Place / Direction"
     },
     {
         "level": 5.0,
@@ -499,9 +499,9 @@
         "tag": "Ort / Richtung",
         "prompt": "He stayed at home.",
         "answer": "He stayed at home.",
-        "goal_words": "",
+        "goal_words": "at home",
         "audio_filename": "lineoct_en_418.mp3",
-        "audio_dir": "He stayed at home."
+        "learning_tag": "Place / Direction"
     },
     {
         "level": 5.0,
@@ -517,9 +517,9 @@
         "tag": "Ort / Richtung",
         "prompt": "She worked at sea.",
         "answer": "She worked at sea.",
-        "goal_words": "",
+        "goal_words": "at sea",
         "audio_filename": "lineoct_en_954.mp3",
-        "audio_dir": "She worked at sea."
+        "learning_tag": "Place / Direction"
     },
     {
         "level": 5.0,
@@ -535,9 +535,9 @@
         "tag": "Ort / Richtung",
         "prompt": "They live on the road.",
         "answer": "They live on the road.",
-        "goal_words": "",
+        "goal_words": "on the road",
         "audio_filename": "lineoct_en_1189.mp3",
-        "audio_dir": "They live on the road."
+        "learning_tag": "Place / Direction"
     },
     {
         "level": 5.0,
@@ -553,9 +553,9 @@
         "tag": "Ort / Richtung",
         "prompt": "Birds flew in the air.",
         "answer": "Birds flew in the air.",
-        "goal_words": "",
+        "goal_words": "in the air",
         "audio_filename": "lineoct_en_55.mp3",
-        "audio_dir": "Birds flew in the air."
+        "learning_tag": "Place / Direction"
     },
     {
         "level": 5.0,
@@ -571,8 +571,8 @@
         "tag": "Ort / Richtung",
         "prompt": "The castle disappeared out of sight.",
         "answer": "The castle disappeared out of sight.",
-        "goal_words": "",
+        "goal_words": "out of sight",
         "audio_filename": "lineoct_en_1069.mp3",
-        "audio_dir": "The castle disappeared out of sight."
+        "learning_tag": "Place / Direction"
     }
 ]

@@ -1,42 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "fun_party.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "fun party",
-        "native_word": "adjective -  Creating emotion",
-        "tag": "adjective -  Creating emotion",
-        "prompt": "______ Party",
-        "answer": "lustige Party",
-        "goal_words": "lustige",
-        "audio_filename": "line4_de_135.mp3",
-        "audio_dir": "lustige Party"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "hard_cheese.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "hard cheese",
-        "native_word": "adjective - quality",
-        "tag": "adjective - quality",
-        "prompt": "______ Käse",
-        "answer": "harter Käse",
-        "goal_words": "harter",
-        "audio_filename": "line3_de_362.mp3",
-        "audio_dir": "harter Käse"
-    },
-    {
-        "level": 4.0,
         "image_filename": "favorite.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -51,7 +15,7 @@
         "answer": "Donuts sind mein Lieblingsessen",
         "goal_words": "Lieblingsessen",
         "audio_filename": "line2_de_242.mp3",
-        "audio_dir": "Donuts sind mein Lieblingsessen"
+        "learning_tag": "Adjektiv - Urteil"
     },
     {
         "level": 4.0,
@@ -69,7 +33,7 @@
         "answer": "sechs Scheiben in einer ganzen Pizza",
         "goal_words": "ganz",
         "audio_filename": "line4_de_518.mp3",
-        "audio_dir": "sechs Scheiben in einer ganzen Pizza"
+        "learning_tag": "Adjektiv - Größe"
     },
     {
         "level": 4.0,
@@ -87,7 +51,7 @@
         "answer": "es gibt mehr Geld auf der rechten Seite",
         "goal_words": "mehr",
         "audio_filename": "line2_de_960.mp3",
-        "audio_dir": "es gibt mehr Geld auf der rechten Seite"
+        "learning_tag": "Adjektiv - Menge"
     },
     {
         "level": 4.0,
@@ -105,25 +69,7 @@
         "answer": "vorsichtig gehen, wenn du alt bist",
         "goal_words": "vorsichtig",
         "audio_filename": "line5_de_446.mp3",
-        "audio_dir": "vorsichtig gehen, wenn du alt bist"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "about.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "books about many things",
-        "native_word": "adverb -  Conjunctional Adverb",
-        "tag": "adverb -  Conjunctional Adverb",
-        "prompt": "Bücher ______ viele Dinge",
-        "answer": "Bücher über viele Dinge",
-        "goal_words": "über",
-        "audio_filename": "line_de_410.mp3",
-        "audio_dir": "Bücher über viele Dinge"
+        "learning_tag": "Adverb - Manieren"
     },
     {
         "level": 4.0,
@@ -141,7 +87,7 @@
         "answer": "die Teile zusammenfügen",
         "goal_words": "zusammen",
         "audio_filename": "line2_de_169.mp3",
-        "audio_dir": "die Teile zusammenfügen"
+        "learning_tag": "Adverb – Ort"
     },
     {
         "level": 4.0,
@@ -159,25 +105,7 @@
         "answer": "Schulter",
         "goal_words": "Schulter",
         "audio_filename": "line4_de_503.mp3",
-        "audio_dir": "Schulter"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "white_clouds.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "white clouds",
-        "native_word": "color",
-        "tag": "color",
-        "prompt": "______ Wolken",
-        "answer": "weiße Wolken",
-        "goal_words": "weiße",
-        "audio_filename": "line5_de_516.mp3",
-        "audio_dir": "weiße Wolken"
+        "learning_tag": "Körperteile"
     },
     {
         "level": 4.0,
@@ -195,61 +123,7 @@
         "answer": "Ring",
         "goal_words": "Ring",
         "audio_filename": "line4_de_388.mp3",
-        "audio_dir": "Ring"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "sun.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "sun",
-        "native_word": "everyday things",
-        "tag": "everyday things",
-        "prompt": "______",
-        "answer": "Sonne",
-        "goal_words": "Sonne",
-        "audio_filename": "line5_de_148.mp3",
-        "audio_dir": "Sonne"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "animals.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "Animal",
-        "native_word": "noun - Animals",
-        "tag": "noun - Animals",
-        "prompt": "Das ______",
-        "answer": "Das Tier",
-        "goal_words": "Tier",
-        "audio_filename": "line_de_591.mp3",
-        "audio_dir": "Das Tier"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "doctor.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "doctor",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Der ______",
-        "answer": "Der Arzt",
-        "goal_words": "Arzt",
-        "audio_filename": "line_de_642.mp3",
-        "audio_dir": "Der Arzt"
+        "learning_tag": "alltägliche Dinge"
     },
     {
         "level": 4.0,
@@ -267,7 +141,7 @@
         "answer": "Die Eile",
         "goal_words": "Eile",
         "audio_filename": "line_de_958.mp3",
-        "audio_dir": "Die Eile"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -285,25 +159,7 @@
         "answer": "Die Notiz",
         "goal_words": "Notiz",
         "audio_filename": "line2_de_96.mp3",
-        "audio_dir": "Die Notiz"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "school.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "school",
-        "native_word": "noun - Buildings & Places",
-        "tag": "noun - Buildings & Places",
-        "prompt": "Die ______",
-        "answer": "Die Schule",
-        "goal_words": "Schule",
-        "audio_filename": "line2_de_132.mp3",
-        "audio_dir": "Die Schule"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -321,25 +177,7 @@
         "answer": "Der Rucksack",
         "goal_words": "Rucksack",
         "audio_filename": "line_de_811.mp3",
-        "audio_dir": "Der Rucksack"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "friend",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Der ______",
-        "answer": "Der Freund",
-        "goal_words": "Freund",
-        "audio_filename": "line_de_687.mp3",
-        "audio_dir": "Der Freund"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -357,7 +195,7 @@
         "answer": "Der Eingang",
         "goal_words": "Eingang",
         "audio_filename": "line_de_676.mp3",
-        "audio_dir": "Der Eingang"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -375,7 +213,7 @@
         "answer": "Die Glocke",
         "goal_words": "Glocke",
         "audio_filename": "line_de_995.mp3",
-        "audio_dir": "Die Glocke"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -393,7 +231,7 @@
         "answer": "Das Klassenzimmer",
         "goal_words": "Klassenzimmer",
         "audio_filename": "line_de_522.mp3",
-        "audio_dir": "Das Klassenzimmer"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -411,7 +249,7 @@
         "answer": "Der Lehrer",
         "goal_words": "Lehrer",
         "audio_filename": "line_de_753.mp3",
-        "audio_dir": "Der Lehrer"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -429,7 +267,7 @@
         "answer": "Das Whiteboard",
         "goal_words": "Whiteboard",
         "audio_filename": "line_de_604.mp3",
-        "audio_dir": "Das Whiteboard"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -447,7 +285,7 @@
         "answer": "Das Notizbuch",
         "goal_words": "Notizbuch",
         "audio_filename": "line_de_546.mp3",
-        "audio_dir": "Das Notizbuch"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -465,7 +303,7 @@
         "answer": "Eine Lektion unterrichten",
         "goal_words": "unterricht",
         "audio_filename": "line2_de_605.mp3",
-        "audio_dir": "Eine Lektion unterrichten"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -483,7 +321,7 @@
         "answer": "Der Hund ist ihr Haustier",
         "goal_words": "Haustier",
         "audio_filename": "line_de_713.mp3",
-        "audio_dir": "Der Hund ist ihr Haustier"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -501,7 +339,7 @@
         "answer": "Die Pause",
         "goal_words": "Pause",
         "audio_filename": "line2_de_102.mp3",
-        "audio_dir": "Die Pause"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -519,7 +357,7 @@
         "answer": "Die Schaukel",
         "goal_words": "Schaukel",
         "audio_filename": "line2_de_125.mp3",
-        "audio_dir": "Die Schaukel"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -537,7 +375,7 @@
         "answer": "Der Snack",
         "goal_words": "Snack",
         "audio_filename": "line_de_838.mp3",
-        "audio_dir": "Der Snack"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -555,7 +393,7 @@
         "answer": "Welche Tageszeit ist es? Der Nachmittag",
         "goal_words": "Nachmittag",
         "audio_filename": "line5_de_522.mp3",
-        "audio_dir": "Welche Tageszeit ist es? Der Nachmittag"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -573,7 +411,7 @@
         "answer": "Die Mathematik",
         "goal_words": "Mathematik",
         "audio_filename": "line2_de_74.mp3",
-        "audio_dir": "Die Mathematik"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -591,7 +429,7 @@
         "answer": "Das Versuchen, ein Problem zu lösen",
         "goal_words": "Problem",
         "audio_filename": "line_de_596.mp3",
-        "audio_dir": "Das Versuchen, ein Problem zu lösen"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -609,7 +447,7 @@
         "answer": "Die Tafel",
         "goal_words": "Tafel",
         "audio_filename": "line2_de_160.mp3",
-        "audio_dir": "Die Tafel"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -627,7 +465,7 @@
         "answer": "Sie sind in derselben Klasse. Sie sind Klassenkameraden.",
         "goal_words": "Klassenkamerad",
         "audio_filename": "line4_de_948.mp3",
-        "audio_dir": "Sie sind in derselben Klasse. Sie sind Klassenkameraden."
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -645,12 +483,12 @@
         "answer": "Eine Anfeuerung machen",
         "goal_words": "Anfeuerung",
         "audio_filename": "line2_de_589.mp3",
-        "audio_dir": "Eine Anfeuerung machen"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
         "image_filename": "home.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -659,29 +497,11 @@
         "native_answer": "not just a house, but a home",
         "native_word": "noun - Buildings & Places",
         "tag": "noun - Buildings & Places",
-        "prompt": "Nicht nur ein Haus, sondern ein ______",
+        "prompt": "Nicht nur ein Haus, sondern ein Zuhause",
         "answer": "Nicht nur ein Haus, sondern ein Zuhause",
         "goal_words": "Zuhause",
         "audio_filename": "line4_de_267.mp3",
-        "audio_dir": "Nicht nur ein Haus, sondern ein Zuhause"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "day.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "day",
-        "native_word": "time",
-        "tag": "time",
-        "prompt": "______",
-        "answer": "Tag",
-        "goal_words": "Tag",
-        "audio_filename": "line5_de_218.mp3",
-        "audio_dir": "Tag"
+        "learning_tag": "Ding"
     },
     {
         "level": 4.0,
@@ -699,43 +519,7 @@
         "answer": "Traum",
         "goal_words": "Traum",
         "audio_filename": "line5_de_303.mp3",
-        "audio_dir": "Traum"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "laugh_p.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "laugh",
-        "native_word": "verb - self",
-        "tag": "verb - self",
-        "prompt": "______",
-        "answer": "Lachen",
-        "goal_words": "Lachen",
-        "audio_filename": "line4_de_64.mp3",
-        "audio_dir": "Lachen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "listen_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "Listen",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "______",
-        "answer": "Zuhören",
-        "goal_words": "Zuhören",
-        "audio_filename": "line5_de_918.mp3",
-        "audio_dir": "Zuhören"
+        "learning_tag": "Verb - mental"
     },
     {
         "level": 4.0,
@@ -753,7 +537,7 @@
         "answer": "Park",
         "goal_words": "Park",
         "audio_filename": "line4_de_309.mp3",
-        "audio_dir": "Park"
+        "learning_tag": "Verb - Objekt"
     },
     {
         "level": 4.0,
@@ -771,205 +555,7 @@
         "answer": "Plan",
         "goal_words": "Plan",
         "audio_filename": "line4_de_331.mp3",
-        "audio_dir": "Plan"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "play piano",
-        "native_word": "verb - interactive",
-        "tag": "verb - interactive",
-        "prompt": "Klavier ______",
-        "answer": "Klavier spielen",
-        "goal_words": "spielen",
-        "audio_filename": "line4_de_7.mp3",
-        "audio_dir": "Klavier spielen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "see.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "See",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "______",
-        "answer": "Sehen",
-        "goal_words": "Sehen",
-        "audio_filename": "line4_de_522.mp3",
-        "audio_dir": "Sehen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "take a treat",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "eine Leckerei ______",
-        "answer": "eine Leckerei nehmen",
-        "goal_words": "nehmen",
-        "audio_filename": "line2_de_604.mp3",
-        "audio_dir": "eine Leckerei nehmen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "talk_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "talk",
-        "native_word": "verb - communication",
-        "tag": "verb - communication",
-        "prompt": "______",
-        "answer": "reden",
-        "goal_words": "reden",
-        "audio_filename": "line4_de_353.mp3",
-        "audio_dir": "reden"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "walk_p.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "walk",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______",
-        "answer": "gehen",
-        "goal_words": "gehen",
-        "audio_filename": "line3_de_259.mp3",
-        "audio_dir": "gehen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "want_dog_food.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "want",
-        "native_word": "verb - feeling",
-        "tag": "verb - feeling",
-        "prompt": "______",
-        "answer": "wollen",
-        "goal_words": "wollen",
-        "audio_filename": "line5_de_876.mp3",
-        "audio_dir": "wollen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "write_f.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "write",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "schreiben",
-        "goal_words": "schreiben",
-        "audio_filename": "line4_de_494.mp3",
-        "audio_dir": "schreiben"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "take_treat.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "take a treat",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "eine Leckerei ______",
-        "answer": "eine Leckerei nehmen",
-        "goal_words": "nehmen",
-        "audio_filename": "line2_de_604.mp3",
-        "audio_dir": "eine Leckerei nehmen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "play_piano_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "play piano",
-        "native_word": "verb - interactive",
-        "tag": "verb - interactive",
-        "prompt": "Klavier ______",
-        "answer": "Klavier spielen",
-        "goal_words": "spielen",
-        "audio_filename": "line4_de_7.mp3",
-        "audio_dir": "Klavier spielen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "feel the water",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "das Wasser ______",
-        "answer": "das Wasser fühlen",
-        "goal_words": "fühlen",
-        "audio_filename": "line_de_602.mp3",
-        "audio_dir": "das Wasser fühlen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "walk.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "walk",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______",
-        "answer": "gehen",
-        "goal_words": "gehen",
-        "audio_filename": "line3_de_259.mp3",
-        "audio_dir": "gehen"
+        "learning_tag": "Verb - mental"
     },
     {
         "level": 4.0,
@@ -987,7 +573,7 @@
         "answer": "einen Rucksack über deine Schulter werfen",
         "goal_words": "Rucksack",
         "audio_filename": "line2_de_627.mp3",
-        "audio_dir": "einen Rucksack über deine Schulter werfen"
+        "learning_tag": "Verb - Objekt"
     },
     {
         "level": 4.0,
@@ -1005,7 +591,7 @@
         "answer": "lächeln",
         "goal_words": "lächeln",
         "audio_filename": "line4_de_63.mp3",
-        "audio_dir": "lächeln"
+        "learning_tag": "Verb - selbst"
     },
     {
         "level": 4.0,
@@ -1023,7 +609,7 @@
         "answer": "online sprechen: chatten",
         "goal_words": "chatten",
         "audio_filename": "line4_de_297.mp3",
-        "audio_dir": "online sprechen: chatten"
+        "learning_tag": "Verb - Kommunikation"
     },
     {
         "level": 4.0,
@@ -1041,7 +627,7 @@
         "answer": "die Glocke läuten",
         "goal_words": "läuten",
         "audio_filename": "line_de_996.mp3",
-        "audio_dir": "die Glocke läuten"
+        "learning_tag": "Verb - Objekt"
     },
     {
         "level": 4.0,
@@ -1059,25 +645,7 @@
         "answer": "er muss sich beeilen",
         "goal_words": "sich beeilen",
         "audio_filename": "line2_de_819.mp3",
-        "audio_dir": "er muss sich beeilen"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "write.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "write",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "schreiben",
-        "goal_words": "schreiben",
-        "audio_filename": "line4_de_494.mp3",
-        "audio_dir": "schreiben"
+        "learning_tag": "Verb - selbst"
     },
     {
         "level": 4.0,
@@ -1095,7 +663,7 @@
         "answer": "Notiz: Aufzeichnung von Fakten, Themen oder Gedanken",
         "goal_words": "Notiz",
         "audio_filename": "line4_de_277.mp3",
-        "audio_dir": "Notiz: Aufzeichnung von Fakten, Themen oder Gedanken"
+        "learning_tag": "Verb - mental"
     },
     {
         "level": 4.0,
@@ -1113,7 +681,7 @@
         "answer": "lachen",
         "goal_words": "lachen",
         "audio_filename": "line4_de_64.mp3",
-        "audio_dir": "lachen"
+        "learning_tag": "Verb - selbst"
     },
     {
         "level": 4.0,
@@ -1131,7 +699,7 @@
         "answer": "Informationen teilen",
         "goal_words": "teilen",
         "audio_filename": "line3_de_897.mp3",
-        "audio_dir": "Informationen teilen"
+        "learning_tag": "Verb - interaktiv"
     },
     {
         "level": 4.0,
@@ -1149,7 +717,7 @@
         "answer": "eine kleine Pflanze wird wachsen",
         "goal_words": "wachsen",
         "audio_filename": "line2_de_600.mp3",
-        "audio_dir": "eine kleine Pflanze wird wachsen"
+        "learning_tag": "Verb - ändern"
     },
     {
         "level": 4.0,
@@ -1167,7 +735,7 @@
         "answer": "träume während des Schlafens",
         "goal_words": "träume",
         "audio_filename": "line5_de_306.mp3",
-        "audio_dir": "träume während des Schlafens"
+        "learning_tag": "Verb - mental"
     },
     {
         "level": 4.0,
@@ -1185,7 +753,7 @@
         "answer": "eine kleine Pflanze wird wachsen und zu einem Baum werden",
         "goal_words": "werden",
         "audio_filename": "line2_de_601.mp3",
-        "audio_dir": "eine kleine Pflanze wird wachsen und zu einem Baum werden"
+        "learning_tag": "Verb - ändern"
     },
     {
         "level": 4.0,
@@ -1203,7 +771,7 @@
         "answer": "ein Problem lösen",
         "goal_words": "lösen",
         "audio_filename": "line2_de_576.mp3",
-        "audio_dir": "ein Problem lösen"
+        "learning_tag": "Verb - mental"
     },
     {
         "level": 4.0,
@@ -1221,7 +789,7 @@
         "answer": "jubeln",
         "goal_words": "jubeln",
         "audio_filename": "line3_de_944.mp3",
-        "audio_dir": "jubeln"
+        "learning_tag": "Verb - Kommunikation"
     },
     {
         "level": 4.0,
@@ -1239,25 +807,7 @@
         "answer": "Lob: Bewunderung ausdrücken",
         "goal_words": "Lob",
         "audio_filename": "line4_de_121.mp3",
-        "audio_dir": "Lob: Bewunderung ausdrücken"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "german",
-        "native_group": "4 short story - present tense - A day at school",
-        "native_answer": "make",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "machen",
-        "goal_words": "machen",
-        "audio_filename": "line4_de_136.mp3",
-        "audio_dir": "machen"
+        "learning_tag": "Verb - Kommunikation"
     },
     {
         "level": 4.0,
@@ -1275,6 +825,6 @@
         "answer": "sich freuen",
         "goal_words": "sich freuen",
         "audio_filename": "line4_de_545.mp3",
-        "audio_dir": "sich freuen"
+        "learning_tag": "Verb - Gefühl"
     }
 ]

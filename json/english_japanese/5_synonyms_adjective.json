@@ -11,11 +11,11 @@
         "native_answer": "wonderful",
         "native_word": null,
         "tag": null,
-        "prompt": "素晴らしい:\n素晴らしい映画。\n______",
+        "prompt": "素晴らしい:\n素晴らしい映画。\n品質が高い",
         "answer": "素晴らしい:\n素晴らしい映画。\n品質が高い",
         "goal_words": "品質が高い",
         "audio_filename": "lineoct_ja_1158.mp3",
-        "audio_dir": "素晴らしい:\n素晴らしい映画。\n"
+        "learning_tag": "良い"
     },
     {
         "level": 5.0,
@@ -29,11 +29,11 @@
         "native_answer": "Excellent",
         "native_word": null,
         "tag": null,
-        "prompt": "優れた:\n優れた成績。\n______",
+        "prompt": "優れた:\n優れた成績。\n非常に良い",
         "answer": "優れた:\n優れた成績。\n非常に良い",
         "goal_words": "非常に良い",
         "audio_filename": "lineoct_ja_401.mp3",
-        "audio_dir": "優れた:\n優れた成績。\n"
+        "learning_tag": "良い"
     },
     {
         "level": 5.0,
@@ -47,11 +47,11 @@
         "native_answer": "desirable",
         "native_word": null,
         "tag": null,
-        "prompt": "望ましい:\n望ましい結果。\n______",
+        "prompt": "望ましい:\n望ましい結果。\n望ましく、適している",
         "answer": "望ましい:\n望ましい結果。\n望ましく、適している",
         "goal_words": "望ましく、適している",
         "audio_filename": "lineoct_ja_954.mp3",
-        "audio_dir": "望ましい:\n望ましい結果。\n"
+        "learning_tag": "良い"
     },
     {
         "level": 5.0,
@@ -65,11 +65,11 @@
         "native_answer": "appropriate",
         "native_word": null,
         "tag": null,
-        "prompt": "適切な:\n適切な対応。\n______",
+        "prompt": "適切な:\n適切な対応。\n状況に合っている",
         "answer": "適切な:\n適切な対応。\n状況に合っている",
         "goal_words": "状況に合っている",
         "audio_filename": "lineoct_ja_1275.mp3",
-        "audio_dir": "適切な:\n適切な対応。\n"
+        "learning_tag": "良い"
     },
     {
         "level": 5.0,
@@ -83,11 +83,11 @@
         "native_answer": "malicious",
         "native_word": null,
         "tag": null,
-        "prompt": "悪質な:\n悪質な行為。\n______",
+        "prompt": "悪質な:\n悪質な行為。\n品質が悪い",
         "answer": "悪質な:\n悪質な行為。\n品質が悪い",
         "goal_words": "品質が悪い",
         "audio_filename": "lineoct_ja_880.mp3",
-        "audio_dir": "悪質な:\n悪質な行為。\n"
+        "learning_tag": "悪い"
     },
     {
         "level": 5.0,
@@ -101,11 +101,11 @@
         "native_answer": "terrible",
         "native_word": null,
         "tag": null,
-        "prompt": "ひどい:\nひどい天気。\n______",
+        "prompt": "ひどい:\nひどい天気。\nとても悪い",
         "answer": "ひどい:\nひどい天気。\nとても悪い",
         "goal_words": "とても悪い",
         "audio_filename": "lineoct_ja_276.mp3",
-        "audio_dir": "ひどい:\nひどい天気。\n"
+        "learning_tag": "悪い"
     },
     {
         "level": 5.0,
@@ -119,11 +119,11 @@
         "native_answer": "defective",
         "native_word": null,
         "tag": null,
-        "prompt": "不良:\n不良品。\n______",
+        "prompt": "不良:\n不良品。\n良くない状態",
         "answer": "不良:\n不良品。\n良くない状態",
         "goal_words": "良くない状態",
         "audio_filename": "lineoct_ja_363.mp3",
-        "audio_dir": "不良:\n不良品。\n"
+        "learning_tag": "悪い"
     },
     {
         "level": 5.0,
@@ -137,11 +137,11 @@
         "native_answer": "Harmful",
         "native_word": null,
         "tag": null,
-        "prompt": "有害な:\n有害な習慣。\n______",
+        "prompt": "有害な:\n有害な習慣。\n健康や状況に害を与える",
         "answer": "有害な:\n有害な習慣。\n健康や状況に害を与える",
         "goal_words": "健康や状況に害を与える",
         "audio_filename": "lineoct_ja_953.mp3",
-        "audio_dir": "有害な:\n有害な習慣。\n"
+        "learning_tag": "悪い"
     },
     {
         "level": 5.0,
@@ -155,11 +155,11 @@
         "native_answer": "huge",
         "native_word": null,
         "tag": null,
-        "prompt": "巨大な:\n巨大な建物。\n______",
+        "prompt": "巨大な:\n巨大な建物。\nとても大きい",
         "answer": "巨大な:\n巨大な建物。\nとても大きい",
         "goal_words": "とても大きい",
         "audio_filename": "lineoct_ja_571.mp3",
-        "audio_dir": "巨大な:\n巨大な建物。\n"
+        "learning_tag": "大きい"
     },
     {
         "level": 5.0,
@@ -173,11 +173,11 @@
         "native_answer": "Vast",
         "native_word": null,
         "tag": null,
-        "prompt": "広大な:\n広大な土地。\n______",
+        "prompt": "広大な:\n広大な土地。\n広く大きい",
         "answer": "広大な:\n広大な土地。\n広く大きい",
         "goal_words": "広く大きい",
         "audio_filename": "lineoct_ja_577.mp3",
-        "audio_dir": "広大な:\n広大な土地。\n"
+        "learning_tag": "大きい"
     },
     {
         "level": 5.0,
@@ -191,11 +191,11 @@
         "native_answer": "Large-scale",
         "native_word": null,
         "tag": null,
-        "prompt": "大規模な:\n大規模なイベント。\n______",
+        "prompt": "大規模な:\n大規模なイベント。\n規模が大きい",
         "answer": "大規模な:\n大規模なイベント。\n規模が大きい",
         "goal_words": "規模が大きい",
         "audio_filename": "lineoct_ja_515.mp3",
-        "audio_dir": "大規模な:\n大規模なイベント。\n"
+        "learning_tag": "大きい"
     },
     {
         "level": 5.0,
@@ -209,11 +209,11 @@
         "native_answer": "expensive",
         "native_word": null,
         "tag": null,
-        "prompt": "高い:\n高い塔。\n______",
+        "prompt": "高い:\n高い塔。\n高さがある",
         "answer": "高い:\n高い塔。\n高さがある",
         "goal_words": "高さがある",
         "audio_filename": "lineoct_ja_1345.mp3",
-        "audio_dir": "高い:\n高い塔。\n"
+        "learning_tag": "大きい"
     },
     {
         "level": 5.0,
@@ -227,11 +227,11 @@
         "native_answer": "Small",
         "native_word": null,
         "tag": null,
-        "prompt": "小さな:\n小さな箱。\n______",
+        "prompt": "小さな:\n小さな箱。\n小さい",
         "answer": "小さな:\n小さな箱。\n小さい",
         "goal_words": "小さい",
         "audio_filename": "lineoct_ja_556.mp3",
-        "audio_dir": "小さな:\n小さな箱。\n"
+        "learning_tag": "小さい"
     },
     {
         "level": 5.0,
@@ -245,11 +245,11 @@
         "native_answer": "tiny",
         "native_word": null,
         "tag": null,
-        "prompt": "微小な:\n微小な粒子。\n______",
+        "prompt": "微小な:\n微小な粒子。\n非常に小さい",
         "answer": "微小な:\n微小な粒子。\n非常に小さい",
         "goal_words": "非常に小さい",
         "audio_filename": "lineoct_ja_861.mp3",
-        "audio_dir": "微小な:\n微小な粒子。\n"
+        "learning_tag": "小さい"
     },
     {
         "level": 5.0,
@@ -263,11 +263,11 @@
         "native_answer": "narrow",
         "native_word": null,
         "tag": null,
-        "prompt": "狭い:\n狭い道。\n______",
+        "prompt": "狭い:\n狭い道。\n幅が小さい",
         "answer": "狭い:\n狭い道。\n幅が小さい",
         "goal_words": "幅が小さい",
         "audio_filename": "lineoct_ja_1038.mp3",
-        "audio_dir": "狭い:\n狭い道。\n"
+        "learning_tag": "小さい"
     },
     {
         "level": 5.0,
@@ -281,11 +281,11 @@
         "native_answer": "fine",
         "native_word": null,
         "tag": null,
-        "prompt": "細かい:\n細かい部分。\n______",
+        "prompt": "細かい:\n細かい部分。\n細部が小さい",
         "answer": "細かい:\n細かい部分。\n細部が小さい",
         "goal_words": "細部が小さい",
         "audio_filename": "lineoct_ja_1160.mp3",
-        "audio_dir": "細かい:\n細かい部分。\n"
+        "learning_tag": "小さい"
     },
     {
         "level": 5.0,
@@ -299,11 +299,11 @@
         "native_answer": "Happy",
         "native_word": null,
         "tag": null,
-        "prompt": "幸せな:\n幸せな家族。\n______",
+        "prompt": "幸せな:\n幸せな家族。\n喜びがある",
         "answer": "幸せな:\n幸せな家族。\n喜びがある",
         "goal_words": "喜びがある",
         "audio_filename": "lineoct_ja_576.mp3",
-        "audio_dir": "幸せな:\n幸せな家族。\n"
+        "learning_tag": "ハッピー"
     },
     {
         "level": 5.0,
@@ -317,11 +317,11 @@
         "native_answer": "Delighted",
         "native_word": null,
         "tag": null,
-        "prompt": "喜ばしい:\n喜ばしい知らせ。\n______",
+        "prompt": "喜ばしい:\n喜ばしい知らせ。\n嬉しい気持ち",
         "answer": "喜ばしい:\n喜ばしい知らせ。\n嬉しい気持ち",
         "goal_words": "嬉しい気持ち",
         "audio_filename": "lineoct_ja_483.mp3",
-        "audio_dir": "喜ばしい:\n喜ばしい知らせ。\n"
+        "learning_tag": "ハッピー"
     },
     {
         "level": 5.0,
@@ -335,11 +335,11 @@
         "native_answer": "fun",
         "native_word": null,
         "tag": null,
-        "prompt": "楽しい:\n楽しい時間。\n______",
+        "prompt": "楽しい:\n楽しい時間。\n楽しさがある",
         "answer": "楽しい:\n楽しい時間。\n楽しさがある",
         "goal_words": "楽しさがある",
         "audio_filename": "lineoct_ja_974.mp3",
-        "audio_dir": "楽しい:\n楽しい時間。\n"
+        "learning_tag": "ハッピー"
     },
     {
         "level": 5.0,
@@ -353,11 +353,11 @@
         "native_answer": "happy",
         "native_word": null,
         "tag": null,
-        "prompt": "うれしい:\nうれしい気持ち。\n______",
+        "prompt": "うれしい:\nうれしい気持ち。\n嬉しい気分",
         "answer": "うれしい:\nうれしい気持ち。\n嬉しい気分",
         "goal_words": "嬉しい気分",
         "audio_filename": "lineoct_ja_53.mp3",
-        "audio_dir": "うれしい:\nうれしい気持ち。\n"
+        "learning_tag": "ハッピー"
     },
     {
         "level": 5.0,
@@ -371,11 +371,11 @@
         "native_answer": "sad",
         "native_word": null,
         "tag": null,
-        "prompt": "哀しい:\n哀しい話。\n______",
+        "prompt": "哀しい:\n哀しい話。\n悲しみを感じる",
         "answer": "哀しい:\n哀しい話。\n悲しみを感じる",
         "goal_words": "悲しみを感じる",
         "audio_filename": "lineoct_ja_477.mp3",
-        "audio_dir": "哀しい:\n哀しい話。\n"
+        "learning_tag": "悲しい"
     },
     {
         "level": 5.0,
@@ -389,11 +389,11 @@
         "native_answer": "lonely",
         "native_word": null,
         "tag": null,
-        "prompt": "寂しい:\n寂しい夜。\n______",
+        "prompt": "寂しい:\n寂しい夜。\n物悲しい",
         "answer": "寂しい:\n寂しい夜。\n物悲しい",
         "goal_words": "物悲しい",
         "audio_filename": "lineoct_ja_551.mp3",
-        "audio_dir": "寂しい:\n寂しい夜。\n"
+        "learning_tag": "悲しい"
     },
     {
         "level": 5.0,
@@ -407,11 +407,11 @@
         "native_answer": "painful",
         "native_word": null,
         "tag": null,
-        "prompt": "切ない:\n切ない恋。\n______",
+        "prompt": "切ない:\n切ない恋。\n胸が痛むような悲しさ",
         "answer": "切ない:\n切ない恋。\n胸が痛むような悲しさ",
         "goal_words": "胸が痛むような悲しさ",
         "audio_filename": "lineoct_ja_416.mp3",
-        "audio_dir": "切ない:\n切ない恋。\n"
+        "learning_tag": "悲しい"
     },
     {
         "level": 5.0,
@@ -425,11 +425,11 @@
         "native_answer": "sad",
         "native_word": null,
         "tag": null,
-        "prompt": "悲哀な:\n悲哀な物語。\n______",
+        "prompt": "悲哀な:\n悲哀な物語。\n悲しい気持ち",
         "answer": "悲哀な:\n悲哀な物語。\n悲しい気持ち",
         "goal_words": "悲しい気持ち",
         "audio_filename": "lineoct_ja_881.mp3",
-        "audio_dir": "悲哀な:\n悲哀な物語。\n"
+        "learning_tag": "悲しい"
     },
     {
         "level": 5.0,
@@ -443,11 +443,11 @@
         "native_answer": "irritating",
         "native_word": null,
         "tag": null,
-        "prompt": "腹立たしい:\n腹立たしい出来事。\n______",
+        "prompt": "腹立たしい:\n腹立たしい出来事。\n怒りを感じる",
         "answer": "腹立たしい:\n腹立たしい出来事。\n怒りを感じる",
         "goal_words": "怒りを感じる",
         "audio_filename": "lineoct_ja_1190.mp3",
-        "audio_dir": "腹立たしい:\n腹立たしい出来事。\n"
+        "learning_tag": "怒り"
     },
     {
         "level": 5.0,
@@ -461,11 +461,11 @@
         "native_answer": "be furious",
         "native_word": null,
         "tag": null,
-        "prompt": "激怒する:\n激怒した父。\n______",
+        "prompt": "激怒する:\n激怒した父。\n非常に怒る",
         "answer": "激怒する:\n激怒した父。\n非常に怒る",
         "goal_words": "非常に怒る",
         "audio_filename": "lineoct_ja_1017.mp3",
-        "audio_dir": "激怒する:\n激怒した父。\n"
+        "learning_tag": "怒り"
     },
     {
         "level": 5.0,
@@ -479,11 +479,11 @@
         "native_answer": "Irritated",
         "native_word": null,
         "tag": null,
-        "prompt": "苛立つ:\n苛立つ状況。\n______",
+        "prompt": "苛立つ:\n苛立つ状況。\nイライラする",
         "answer": "苛立つ:\n苛立つ状況。\nイライラする",
         "goal_words": "イライラする",
         "audio_filename": "lineoct_ja_1199.mp3",
-        "audio_dir": "苛立つ:\n苛立つ状況。\n"
+        "learning_tag": "怒り"
     },
     {
         "level": 5.0,
@@ -497,11 +497,11 @@
         "native_answer": "be outraged",
         "native_word": null,
         "tag": null,
-        "prompt": "憤慨する:\n憤慨した市民。\n______",
+        "prompt": "憤慨する:\n憤慨した市民。\n強く怒る",
         "answer": "憤慨する:\n憤慨した市民。\n強く怒る",
         "goal_words": "強く怒る",
         "audio_filename": "lineoct_ja_894.mp3",
-        "audio_dir": "憤慨する:\n憤慨した市民。\n"
+        "learning_tag": "怒り"
     },
     {
         "level": 5.0,
@@ -515,11 +515,11 @@
         "native_answer": "Beautiful",
         "native_word": null,
         "tag": null,
-        "prompt": "綺麗な:\n綺麗な花。\n______",
+        "prompt": "綺麗な:\n綺麗な花。\n見た目が美しい",
         "answer": "綺麗な:\n綺麗な花。\n見た目が美しい",
         "goal_words": "見た目が美しい",
         "audio_filename": "lineoct_ja_1167.mp3",
-        "audio_dir": "綺麗な:\n綺麗な花。\n"
+        "learning_tag": "美しい"
     },
     {
         "level": 5.0,
@@ -533,11 +533,11 @@
         "native_answer": "Vivid",
         "native_word": null,
         "tag": null,
-        "prompt": "鮮やかな:\n鮮やかな景色。\n______",
+        "prompt": "鮮やかな:\n鮮やかな景色。\n見た目が鮮明で美しい",
         "answer": "鮮やかな:\n鮮やかな景色。\n見た目が鮮明で美しい",
         "goal_words": "見た目が鮮明で美しい",
         "audio_filename": "lineoct_ja_1353.mp3",
-        "audio_dir": "鮮やかな:\n鮮やかな景色。\n"
+        "learning_tag": "美しい"
     },
     {
         "level": 5.0,
@@ -551,11 +551,11 @@
         "native_answer": "Nice",
         "native_word": null,
         "tag": null,
-        "prompt": "素敵な:\n素敵な服。\n______",
+        "prompt": "素敵な:\n素敵な服。\n魅力的で美しい",
         "answer": "素敵な:\n素敵な服。\n魅力的で美しい",
         "goal_words": "魅力的で美しい",
         "audio_filename": "lineoct_ja_1152.mp3",
-        "audio_dir": "素敵な:\n素敵な服。\n"
+        "learning_tag": "美しい"
     },
     {
         "level": 5.0,
@@ -569,11 +569,11 @@
         "native_answer": "Beautiful",
         "native_word": null,
         "tag": null,
-        "prompt": "美麗な:\n美麗な絵画。\n______",
+        "prompt": "美麗な:\n美麗な絵画。\n美しさが際立つ",
         "answer": "美麗な:\n美麗な絵画。\n美しさが際立つ",
         "goal_words": "美しさが際立つ",
         "audio_filename": "lineoct_ja_1177.mp3",
-        "audio_dir": "美麗な:\n美麗な絵画。\n"
+        "learning_tag": "美しい"
     },
     {
         "level": 5.0,
@@ -587,11 +587,11 @@
         "native_answer": "Ugly",
         "native_word": null,
         "tag": null,
-        "prompt": "みにくい:\nみにくい形。\n______",
+        "prompt": "みにくい:\nみにくい形。\n見た目が悪い",
         "answer": "みにくい:\nみにくい形。\n見た目が悪い",
         "goal_words": "見た目が悪い",
         "audio_filename": "lineoct_ja_307.mp3",
-        "audio_dir": "みにくい:\nみにくい形。\n"
+        "learning_tag": "醜い"
     },
     {
         "level": 5.0,
@@ -605,11 +605,11 @@
         "native_answer": "Ugly",
         "native_word": null,
         "tag": null,
-        "prompt": "不細工な:\n不細工な人形。\n______",
+        "prompt": "不細工な:\n不細工な人形。\n醜い",
         "answer": "不細工な:\n不細工な人形。\n醜い",
         "goal_words": "醜い",
         "audio_filename": "lineoct_ja_362.mp3",
-        "audio_dir": "不細工な:\n不細工な人形。\n"
+        "learning_tag": "醜い"
     },
     {
         "level": 5.0,
@@ -623,11 +623,11 @@
         "native_answer": "ugly",
         "native_word": null,
         "tag": null,
-        "prompt": "醜悪な:\n醜悪な行為。\n______",
+        "prompt": "醜悪な:\n醜悪な行為。\n非常に悪い見た目",
         "answer": "醜悪な:\n醜悪な行為。\n非常に悪い見た目",
         "goal_words": "非常に悪い見た目",
         "audio_filename": "lineoct_ja_1281.mp3",
-        "audio_dir": "醜悪な:\n醜悪な行為。\n"
+        "learning_tag": "醜い"
     },
     {
         "level": 5.0,
@@ -641,11 +641,11 @@
         "native_answer": "unsightly",
         "native_word": null,
         "tag": null,
-        "prompt": "見苦しい:\n見苦しい態度。\n______",
+        "prompt": "見苦しい:\n見苦しい態度。\n見ていて不快",
         "answer": "見苦しい:\n見苦しい態度。\n見ていて不快",
         "goal_words": "見ていて不快",
         "audio_filename": "lineoct_ja_1230.mp3",
-        "audio_dir": "見苦しい:\n見苦しい態度。\n"
+        "learning_tag": "醜い"
     },
     {
         "level": 5.0,
@@ -659,11 +659,11 @@
         "native_answer": "wise",
         "native_word": null,
         "tag": null,
-        "prompt": "賢い:\n賢い学生。\n______",
+        "prompt": "賢い:\n賢い学生。\n知識や理解がある",
         "answer": "賢い:\n賢い学生。\n知識や理解がある",
         "goal_words": "知識や理解がある",
         "audio_filename": "lineoct_ja_1259.mp3",
-        "audio_dir": "賢い:\n賢い学生。\n"
+        "learning_tag": "頭いい"
     },
     {
         "level": 5.0,
@@ -677,11 +677,11 @@
         "native_answer": "clever",
         "native_word": null,
         "tag": null,
-        "prompt": "利口な:\n利口な子供。\n______",
+        "prompt": "利口な:\n利口な子供。\n判断力がある",
         "answer": "利口な:\n利口な子供。\n判断力がある",
         "goal_words": "判断力がある",
         "audio_filename": "lineoct_ja_419.mp3",
-        "audio_dir": "利口な:\n利口な子供。\n"
+        "learning_tag": "頭いい"
     },
     {
         "level": 5.0,
@@ -695,11 +695,11 @@
         "native_answer": "intelligent",
         "native_word": null,
         "tag": null,
-        "prompt": "聡明な:\n聡明な女性。\n______",
+        "prompt": "聡明な:\n聡明な女性。\n理解力が高い",
         "answer": "聡明な:\n聡明な女性。\n理解力が高い",
         "goal_words": "理解力が高い",
         "audio_filename": "lineoct_ja_1182.mp3",
-        "audio_dir": "聡明な:\n聡明な女性。\n"
+        "learning_tag": "頭いい"
     },
     {
         "level": 5.0,
@@ -713,11 +713,11 @@
         "native_answer": "Talented",
         "native_word": null,
         "tag": null,
-        "prompt": "才能ある:\n才能ある青年。\n______",
+        "prompt": "才能ある:\n才能ある青年。\n能力がある",
         "answer": "才能ある:\n才能ある青年。\n能力がある",
         "goal_words": "能力がある",
         "audio_filename": "lineoct_ja_898.mp3",
-        "audio_dir": "才能ある:\n才能ある青年。\n"
+        "learning_tag": "頭いい"
     },
     {
         "level": 5.0,
@@ -731,11 +731,11 @@
         "native_answer": "stupid",
         "native_word": null,
         "tag": null,
-        "prompt": "愚かな:\n愚かな行動。\n______",
+        "prompt": "愚かな:\n愚かな行動。\n知恵がない",
         "answer": "愚かな:\n愚かな行動。\n知恵がない",
         "goal_words": "知恵がない",
         "audio_filename": "lineoct_ja_889.mp3",
-        "audio_dir": "愚かな:\n愚かな行動。\n"
+        "learning_tag": "バカ"
     },
     {
         "level": 5.0,
@@ -749,11 +749,11 @@
         "native_answer": "Stupid",
         "native_word": null,
         "tag": null,
-        "prompt": "まぬけな:\nまぬけな発言。\n______",
+        "prompt": "まぬけな:\nまぬけな発言。\n馬鹿げた",
         "answer": "まぬけな:\nまぬけな発言。\n馬鹿げた",
         "goal_words": "馬鹿げた",
         "audio_filename": "lineoct_ja_306.mp3",
-        "audio_dir": "まぬけな:\nまぬけな発言。\n"
+        "learning_tag": "バカ"
     },
     {
         "level": 5.0,
@@ -767,11 +767,11 @@
         "native_answer": "ignorant",
         "native_word": null,
         "tag": null,
-        "prompt": "無知な:\n無知な判断。\n______",
+        "prompt": "無知な:\n無知な判断。\n知識が不足",
         "answer": "無知な:\n無知な判断。\n知識が不足",
         "goal_words": "知識が不足",
         "audio_filename": "lineoct_ja_1023.mp3",
-        "audio_dir": "無知な:\n無知な判断。\n"
+        "learning_tag": "バカ"
     },
     {
         "level": 5.0,
@@ -785,11 +785,11 @@
         "native_answer": "Ridiculous",
         "native_word": null,
         "tag": null,
-        "prompt": "ばかげた:\nばかげた冗談。\n______",
+        "prompt": "ばかげた:\nばかげた冗談。\nとても馬鹿らしい",
         "answer": "ばかげた:\nばかげた冗談。\nとても馬鹿らしい",
         "goal_words": "とても馬鹿らしい",
         "audio_filename": "lineoct_ja_258.mp3",
-        "audio_dir": "ばかげた:\nばかげた冗談。\n"
+        "learning_tag": "バカ"
     },
     {
         "level": 5.0,
@@ -803,11 +803,11 @@
         "native_answer": "Rapid",
         "native_word": null,
         "tag": null,
-        "prompt": "迅速な:\n迅速な対応。\n______",
+        "prompt": "迅速な:\n迅速な対応。\n素早い",
         "answer": "迅速な:\n迅速な対応。\n素早い",
         "goal_words": "素早い",
         "audio_filename": "lineoct_ja_1267.mp3",
-        "audio_dir": "迅速な:\n迅速な対応。\n"
+        "learning_tag": "速い"
     },
     {
         "level": 5.0,
@@ -821,11 +821,11 @@
         "native_answer": "High speed",
         "native_word": null,
         "tag": null,
-        "prompt": "高速の:\n高速列車。\n______",
+        "prompt": "高速の:\n高速列車。\n高速で動く",
         "answer": "高速の:\n高速列車。\n高速で動く",
         "goal_words": "高速で動く",
         "audio_filename": "lineoct_ja_1346.mp3",
-        "audio_dir": "高速の:\n高速列車。\n"
+        "learning_tag": "速い"
     },
     {
         "level": 5.0,
@@ -839,11 +839,11 @@
         "native_answer": "quick",
         "native_word": null,
         "tag": null,
-        "prompt": "素早い:\n素早い反応。\n______",
+        "prompt": "素早い:\n素早い反応。\n行動が速い",
         "answer": "素早い:\n素早い反応。\n行動が速い",
         "goal_words": "行動が速い",
         "audio_filename": "lineoct_ja_1153.mp3",
-        "audio_dir": "素早い:\n素早い反応。\n"
+        "learning_tag": "速い"
     },
     {
         "level": 5.0,
@@ -857,11 +857,11 @@
         "native_answer": "early",
         "native_word": null,
         "tag": null,
-        "prompt": "早い:\n早い到着。\n______",
+        "prompt": "早い:\n早い到着。\n時間的に速い",
         "answer": "早い:\n早い到着。\n時間的に速い",
         "goal_words": "時間的に速い",
         "audio_filename": "lineoct_ja_920.mp3",
-        "audio_dir": "早い:\n早い到着。\n"
+        "learning_tag": "速い"
     },
     {
         "level": 5.0,
@@ -875,11 +875,11 @@
         "native_answer": "slowly",
         "native_word": null,
         "tag": null,
-        "prompt": "ゆっくり:\nゆっくり歩く。\n______",
+        "prompt": "ゆっくり:\nゆっくり歩く。\n動作や速度が遅い",
         "answer": "ゆっくり:\nゆっくり歩く。\n動作や速度が遅い",
         "goal_words": "動作や速度が遅い",
         "audio_filename": "lineoct_ja_336.mp3",
-        "audio_dir": "ゆっくり:\nゆっくり歩く。\n"
+        "learning_tag": "遅い"
     },
     {
         "level": 5.0,
@@ -893,11 +893,11 @@
         "native_answer": "Delayed",
         "native_word": null,
         "tag": null,
-        "prompt": "遅延した:\n遅延した電車。\n______",
+        "prompt": "遅延した:\n遅延した電車。\n予定より遅い",
         "answer": "遅延した:\n遅延した電車。\n予定より遅い",
         "goal_words": "予定より遅い",
         "audio_filename": "lineoct_ja_1271.mp3",
-        "audio_dir": "遅延した:\n遅延した電車。\n"
+        "learning_tag": "遅い"
     },
     {
         "level": 5.0,
@@ -911,11 +911,11 @@
         "native_answer": "Slow",
         "native_word": null,
         "tag": null,
-        "prompt": "緩慢な:\n緩慢な動き。\n______",
+        "prompt": "緩慢な:\n緩慢な動き。\n緩やかで遅い",
         "answer": "緩慢な:\n緩慢な動き。\n緩やかで遅い",
         "goal_words": "緩やかで遅い",
         "audio_filename": "lineoct_ja_1168.mp3",
-        "audio_dir": "緩慢な:\n緩慢な動き。\n"
+        "learning_tag": "遅い"
     },
     {
         "level": 5.0,
@@ -929,11 +929,11 @@
         "native_answer": "Curse",
         "native_word": null,
         "tag": null,
-        "prompt": "のろい:\nのろい車。\n______",
+        "prompt": "のろい:\nのろい車。\n遅く感じる",
         "answer": "のろい:\nのろい車。\n遅く感じる",
         "goal_words": "遅く感じる",
         "audio_filename": "lineoct_ja_251.mp3",
-        "audio_dir": "のろい:\nのろい車。\n"
+        "learning_tag": "遅い"
     },
     {
         "level": 5.0,
@@ -947,11 +947,11 @@
         "native_answer": "powerful",
         "native_word": null,
         "tag": null,
-        "prompt": "力強い:\n力強い腕。\n______",
+        "prompt": "力強い:\n力強い腕。\n力がある",
         "answer": "力強い:\n力強い腕。\n力がある",
         "goal_words": "力がある",
         "audio_filename": "lineoct_ja_425.mp3",
-        "audio_dir": "力強い:\n力強い腕。\n"
+        "learning_tag": "強い"
     },
     {
         "level": 5.0,
@@ -965,11 +965,11 @@
         "native_answer": "Robust",
         "native_word": null,
         "tag": null,
-        "prompt": "頑強な:\n頑強な建物。\n______",
+        "prompt": "頑強な:\n頑強な建物。\n体力や耐久力がある",
         "answer": "頑強な:\n頑強な建物。\n体力や耐久力がある",
         "goal_words": "体力や耐久力がある",
         "audio_filename": "lineoct_ja_1323.mp3",
-        "audio_dir": "頑強な:\n頑強な建物。\n"
+        "learning_tag": "強い"
     },
     {
         "level": 5.0,
@@ -983,11 +983,11 @@
         "native_answer": "Brave",
         "native_word": null,
         "tag": null,
-        "prompt": "勇敢な:\n勇敢な兵士。\n______",
+        "prompt": "勇敢な:\n勇敢な兵士。\n精神的に強い",
         "answer": "勇敢な:\n勇敢な兵士。\n精神的に強い",
         "goal_words": "精神的に強い",
         "audio_filename": "lineoct_ja_432.mp3",
-        "audio_dir": "勇敢な:\n勇敢な兵士。\n"
+        "learning_tag": "強い"
     },
     {
         "level": 5.0,
@@ -1001,11 +1001,11 @@
         "native_answer": "Durable",
         "native_word": null,
         "tag": null,
-        "prompt": "丈夫な:\n丈夫な家具。\n______",
+        "prompt": "丈夫な:\n丈夫な家具。\nしっかりして壊れにくい",
         "answer": "丈夫な:\n丈夫な家具。\nしっかりして壊れにくい",
         "goal_words": "しっかりして壊れにくい",
         "audio_filename": "lineoct_ja_355.mp3",
-        "audio_dir": "丈夫な:\n丈夫な家具。\n"
+        "learning_tag": "強い"
     },
     {
         "level": 5.0,
@@ -1019,11 +1019,11 @@
         "native_answer": "Weak",
         "native_word": null,
         "tag": null,
-        "prompt": "弱小な:\n弱小なチーム。\n______",
+        "prompt": "弱小な:\n弱小なチーム。\n力がない",
         "answer": "弱小な:\n弱小なチーム。\n力がない",
         "goal_words": "力がない",
         "audio_filename": "lineoct_ja_582.mp3",
-        "audio_dir": "弱小な:\n弱小なチーム。\n"
+        "learning_tag": "弱い"
     },
     {
         "level": 5.0,
@@ -1037,11 +1037,11 @@
         "native_answer": "brittle",
         "native_word": null,
         "tag": null,
-        "prompt": "脆い:\n脆いガラス。\n______",
+        "prompt": "脆い:\n脆いガラス。\n壊れやすい",
         "answer": "脆い:\n脆いガラス。\n壊れやすい",
         "goal_words": "壊れやすい",
         "audio_filename": "lineoct_ja_1187.mp3",
-        "audio_dir": "脆い:\n脆いガラス。\n"
+        "learning_tag": "弱い"
     },
     {
         "level": 5.0,
@@ -1055,11 +1055,11 @@
         "native_answer": "Insufficient",
         "native_word": null,
         "tag": null,
-        "prompt": "力不足の:\n力不足の選手。\n______",
+        "prompt": "力不足の:\n力不足の選手。\n力が足りない",
         "answer": "力不足の:\n力不足の選手。\n力が足りない",
         "goal_words": "力が足りない",
         "audio_filename": "lineoct_ja_424.mp3",
-        "audio_dir": "力不足の:\n力不足の選手。\n"
+        "learning_tag": "弱い"
     },
     {
         "level": 5.0,
@@ -1073,11 +1073,11 @@
         "native_answer": "flimsy",
         "native_word": null,
         "tag": null,
-        "prompt": "薄弱な:\n薄弱な主張。\n______",
+        "prompt": "薄弱な:\n薄弱な主張。\n弱く頼りない",
         "answer": "薄弱な:\n薄弱な主張。\n弱く頼りない",
         "goal_words": "弱く頼りない",
         "audio_filename": "lineoct_ja_1209.mp3",
-        "audio_dir": "薄弱な:\n薄弱な主張。\n"
+        "learning_tag": "弱い"
     },
     {
         "level": 5.0,
@@ -1091,11 +1091,11 @@
         "native_answer": "hot",
         "native_word": null,
         "tag": null,
-        "prompt": "暑い:\n暑い夏の日。\n______",
+        "prompt": "暑い:\n暑い夏の日。\n高温",
         "answer": "暑い:\n暑い夏の日。\n高温",
         "goal_words": "高温",
         "audio_filename": "lineoct_ja_942.mp3",
-        "audio_dir": "暑い:\n暑い夏の日。\n"
+        "learning_tag": "熱い"
     },
     {
         "level": 5.0,
@@ -1109,11 +1109,11 @@
         "native_answer": "Scorching hot",
         "native_word": null,
         "tag": null,
-        "prompt": "灼熱の:\n灼熱の太陽。\n______",
+        "prompt": "灼熱の:\n灼熱の太陽。\n非常に熱い",
         "answer": "灼熱の:\n灼熱の太陽。\n非常に熱い",
         "goal_words": "非常に熱い",
         "audio_filename": "lineoct_ja_1019.mp3",
-        "audio_dir": "灼熱の:\n灼熱の太陽。\n"
+        "learning_tag": "熱い"
     },
     {
         "level": 5.0,
@@ -1127,11 +1127,11 @@
         "native_answer": "ardent",
         "native_word": null,
         "tag": null,
-        "prompt": "熱烈な:\n熱烈な歓迎。\n______",
+        "prompt": "熱烈な:\n熱烈な歓迎。\n熱を帯びた情熱的",
         "answer": "熱烈な:\n熱烈な歓迎。\n熱を帯びた情熱的",
         "goal_words": "熱を帯びた情熱的",
         "audio_filename": "lineoct_ja_1025.mp3",
-        "audio_dir": "熱烈な:\n熱烈な歓迎。\n"
+        "learning_tag": "熱い"
     },
     {
         "level": 5.0,
@@ -1145,11 +1145,11 @@
         "native_answer": "scorching",
         "native_word": null,
         "tag": null,
-        "prompt": "焼けるような:\n焼けるような砂浜。\n______",
+        "prompt": "焼けるような:\n焼けるような砂浜。\n焼けそうなほど熱い",
         "answer": "焼けるような:\n焼けるような砂浜。\n焼けそうなほど熱い",
         "goal_words": "焼けそうなほど熱い",
         "audio_filename": "lineoct_ja_1024.mp3",
-        "audio_dir": "焼けるような:\n焼けるような砂浜。\n"
+        "learning_tag": "熱い"
     },
     {
         "level": 5.0,
@@ -1163,11 +1163,11 @@
         "native_answer": "cold",
         "native_word": null,
         "tag": null,
-        "prompt": "冷たい:\n冷たい水。\n______",
+        "prompt": "冷たい:\n冷たい水。\n低温",
         "answer": "冷たい:\n冷たい水。\n低温",
         "goal_words": "低温",
         "audio_filename": "lineoct_ja_407.mp3",
-        "audio_dir": "冷たい:\n冷たい水。\n"
+        "learning_tag": "寒い"
     },
     {
         "level": 5.0,
@@ -1181,11 +1181,11 @@
         "native_answer": "Freezing",
         "native_word": null,
         "tag": null,
-        "prompt": "凍える:\n凍える夜。\n______",
+        "prompt": "凍える:\n凍える夜。\nとても寒い",
         "answer": "凍える:\n凍える夜。\nとても寒い",
         "goal_words": "とても寒い",
         "audio_filename": "lineoct_ja_409.mp3",
-        "audio_dir": "凍える:\n凍える夜。\n"
+        "learning_tag": "寒い"
     },
     {
         "level": 5.0,
@@ -1199,11 +1199,11 @@
         "native_answer": "Chills",
         "native_word": null,
         "tag": null,
-        "prompt": "寒気のする:\n寒気のする風。\n______",
+        "prompt": "寒気のする:\n寒気のする風。\n身体が寒く感じる",
         "answer": "寒気のする:\n寒気のする風。\n身体が寒く感じる",
         "goal_words": "身体が寒く感じる",
         "audio_filename": "lineoct_ja_552.mp3",
-        "audio_dir": "寒気のする:\n寒気のする風。\n"
+        "learning_tag": "寒い"
     },
     {
         "level": 5.0,
@@ -1217,11 +1217,11 @@
         "native_answer": "Freezing",
         "native_word": null,
         "tag": null,
-        "prompt": "凍てつく:\n凍てつく朝。\n______",
+        "prompt": "凍てつく:\n凍てつく朝。\n凍るほど寒い",
         "answer": "凍てつく:\n凍てつく朝。\n凍るほど寒い",
         "goal_words": "凍るほど寒い",
         "audio_filename": "lineoct_ja_411.mp3",
-        "audio_dir": "凍てつく:\n凍てつく朝。\n"
+        "learning_tag": "寒い"
     },
     {
         "level": 5.0,
@@ -1235,11 +1235,11 @@
         "native_answer": "Old",
         "native_word": null,
         "tag": null,
-        "prompt": "昔の:\n昔の建物。\n______",
+        "prompt": "昔の:\n昔の建物。\n時間が経っている",
         "answer": "昔の:\n昔の建物。\n時間が経っている",
         "goal_words": "時間が経っている",
         "audio_filename": "lineoct_ja_930.mp3",
-        "audio_dir": "昔の:\n昔の建物。\n"
+        "learning_tag": "古い"
     },
     {
         "level": 5.0,
@@ -1253,11 +1253,11 @@
         "native_answer": "dilapidated",
         "native_word": null,
         "tag": null,
-        "prompt": "老朽化した:\n老朽化した家屋。\n______",
+        "prompt": "老朽化した:\n老朽化した家屋。\n老いて壊れやすい",
         "answer": "老朽化した:\n老朽化した家屋。\n老いて壊れやすい",
         "goal_words": "老いて壊れやすい",
         "audio_filename": "lineoct_ja_1179.mp3",
-        "audio_dir": "老朽化した:\n老朽化した家屋。\n"
+        "learning_tag": "古い"
     },
     {
         "level": 5.0,
@@ -1271,11 +1271,11 @@
         "native_answer": "Old-fashioned",
         "native_word": null,
         "tag": null,
-        "prompt": "旧式の:\n旧式の機械。\n______",
+        "prompt": "旧式の:\n旧式の機械。\n古い形式",
         "answer": "旧式の:\n旧式の機械。\n古い形式",
         "goal_words": "古い形式",
         "audio_filename": "lineoct_ja_919.mp3",
-        "audio_dir": "旧式の:\n旧式の機械。\n"
+        "learning_tag": "古い"
     },
     {
         "level": 5.0,
@@ -1289,11 +1289,11 @@
         "native_answer": "Historic",
         "native_word": null,
         "tag": null,
-        "prompt": "歴史的な:\n歴史的な遺産。\n______",
+        "prompt": "歴史的な:\n歴史的な遺産。\n長い歴史がある",
         "answer": "歴史的な:\n歴史的な遺産。\n長い歴史がある",
         "goal_words": "長い歴史がある",
         "audio_filename": "lineoct_ja_983.mp3",
-        "audio_dir": "歴史的な:\n歴史的な遺産。\n"
+        "learning_tag": "古い"
     },
     {
         "level": 5.0,
@@ -1307,11 +1307,11 @@
         "native_answer": "New type",
         "native_word": null,
         "tag": null,
-        "prompt": "新型の:\n新型スマホ。\n______",
+        "prompt": "新型の:\n新型スマホ。\n最新の形式",
         "answer": "新型の:\n新型スマホ。\n最新の形式",
         "goal_words": "最新の形式",
         "audio_filename": "lineoct_ja_913.mp3",
-        "audio_dir": "新型の:\n新型スマホ。\n"
+        "learning_tag": "新しい"
     },
     {
         "level": 5.0,
@@ -1325,11 +1325,11 @@
         "native_answer": "Recent",
         "native_word": null,
         "tag": null,
-        "prompt": "最近の:\n最近の映画。\n______",
+        "prompt": "最近の:\n最近の映画。\n最近作られた",
         "answer": "最近の:\n最近の映画。\n最近作られた",
         "goal_words": "最近作られた",
         "audio_filename": "lineoct_ja_948.mp3",
-        "audio_dir": "最近の:\n最近の映画。\n"
+        "learning_tag": "新しい"
     },
     {
         "level": 5.0,
@@ -1343,11 +1343,11 @@
         "native_answer": "innovative",
         "native_word": null,
         "tag": null,
-        "prompt": "斬新な:\n斬新なデザイン。\n______",
+        "prompt": "斬新な:\n斬新なデザイン。\n目新しい",
         "answer": "斬新な:\n斬新なデザイン。\n目新しい",
         "goal_words": "目新しい",
         "audio_filename": "lineoct_ja_910.mp3",
-        "audio_dir": "斬新な:\n斬新なデザイン。\n"
+        "learning_tag": "新しい"
     },
     {
         "level": 5.0,
@@ -1361,11 +1361,11 @@
         "native_answer": "fresh",
         "native_word": null,
         "tag": null,
-        "prompt": "新鮮な:\n新鮮な野菜。\n______",
+        "prompt": "新鮮な:\n新鮮な野菜。\n新しい、フレッシュ",
         "answer": "新鮮な:\n新鮮な野菜。\n新しい、フレッシュ",
         "goal_words": "新しい、フレッシュ",
         "audio_filename": "lineoct_ja_916.mp3",
-        "audio_dir": "新鮮な:\n新鮮な野菜。\n"
+        "learning_tag": "新しい"
     },
     {
         "level": 5.0,
@@ -1379,11 +1379,11 @@
         "native_answer": "Synonyms",
         "native_word": null,
         "tag": null,
-        "prompt": "類義語:\n例文\n______",
+        "prompt": "類義語:\n例文\n定義",
         "answer": "類義語:\n例文\n定義",
         "goal_words": "定義",
         "audio_filename": "lineoct_ja_1325.mp3",
-        "audio_dir": "類義語:\n例文\n"
+        "learning_tag": "基本形容詞"
     },
     {
         "level": 5.0,
@@ -1397,11 +1397,11 @@
         "native_answer": "Important",
         "native_word": null,
         "tag": null,
-        "prompt": "大切な:\n大切な会議。\n______",
+        "prompt": "大切な:\n大切な会議。\n非常に価値や影響がある",
         "answer": "大切な:\n大切な会議。\n非常に価値や影響がある",
         "goal_words": "非常に価値や影響がある",
         "audio_filename": "lineoct_ja_511.mp3",
-        "audio_dir": "大切な:\n大切な会議。\n"
+        "learning_tag": "重要"
     },
     {
         "level": 5.0,
@@ -1415,11 +1415,11 @@
         "native_answer": "Serious",
         "native_word": null,
         "tag": null,
-        "prompt": "重大な:\n重大な決定。\n______",
+        "prompt": "重大な:\n重大な決定。\n重要度が高い",
         "answer": "重大な:\n重大な決定。\n重要度が高い",
         "goal_words": "重要度が高い",
         "audio_filename": "lineoct_ja_1285.mp3",
-        "audio_dir": "重大な:\n重大な決定。\n"
+        "learning_tag": "重要"
     },
     {
         "level": 5.0,
@@ -1433,11 +1433,11 @@
         "native_answer": "necessary",
         "native_word": null,
         "tag": null,
-        "prompt": "必要な:\n必要な情報。\n______",
+        "prompt": "必要な:\n必要な情報。\n必須で欠かせない",
         "answer": "必要な:\n必要な情報。\n必須で欠かせない",
         "goal_words": "必須で欠かせない",
         "audio_filename": "lineoct_ja_864.mp3",
-        "audio_dir": "必要な:\n必要な情報。\n"
+        "learning_tag": "重要"
     },
     {
         "level": 5.0,
@@ -1451,11 +1451,11 @@
         "native_answer": "meaningful",
         "native_word": null,
         "tag": null,
-        "prompt": "意義深い:\n意義深い経験。\n______",
+        "prompt": "意義深い:\n意義深い経験。\n意味や価値がある",
         "answer": "意義深い:\n意義深い経験。\n意味や価値がある",
         "goal_words": "意味や価値がある",
         "audio_filename": "lineoct_ja_888.mp3",
-        "audio_dir": "意義深い:\n意義深い経験。\n"
+        "learning_tag": "重要"
     },
     {
         "level": 5.0,
@@ -1469,11 +1469,11 @@
         "native_answer": "wealthy",
         "native_word": null,
         "tag": null,
-        "prompt": "裕福な:\n裕福な家族。\n______",
+        "prompt": "裕福な:\n裕福な家族。\nお金や資産が多い",
         "answer": "裕福な:\n裕福な家族。\nお金や資産が多い",
         "goal_words": "お金や資産が多い",
         "audio_filename": "lineoct_ja_1226.mp3",
-        "audio_dir": "裕福な:\n裕福な家族。\n"
+        "learning_tag": "リッチ"
     },
     {
         "level": 5.0,
@@ -1487,11 +1487,11 @@
         "native_answer": "rich",
         "native_word": null,
         "tag": null,
-        "prompt": "金持ちの:\n金持ちの友人。\n______",
+        "prompt": "金持ちの:\n金持ちの友人。\nお金をたくさん持つ",
         "answer": "金持ちの:\n金持ちの友人。\nお金をたくさん持つ",
         "goal_words": "お金をたくさん持つ",
         "audio_filename": "lineoct_ja_1289.mp3",
-        "audio_dir": "金持ちの:\n金持ちの友人。\n"
+        "learning_tag": "リッチ"
     },
     {
         "level": 5.0,
@@ -1505,11 +1505,11 @@
         "native_answer": "Rich",
         "native_word": null,
         "tag": null,
-        "prompt": "豊かな:\n豊かな生活。\n______",
+        "prompt": "豊かな:\n豊かな生活。\n財産や資源が豊富",
         "answer": "豊かな:\n豊かな生活。\n財産や資源が豊富",
         "goal_words": "財産や資源が豊富",
         "audio_filename": "lineoct_ja_1251.mp3",
-        "audio_dir": "豊かな:\n豊かな生活。\n"
+        "learning_tag": "リッチ"
     },
     {
         "level": 5.0,
@@ -1523,11 +1523,11 @@
         "native_answer": "luxurious",
         "native_word": null,
         "tag": null,
-        "prompt": "豪華な:\n豪華な家。\n______",
+        "prompt": "豪華な:\n豪華な家。\n贅沢で豊か",
         "answer": "豪華な:\n豪華な家。\n贅沢で豊か",
         "goal_words": "贅沢で豊か",
         "audio_filename": "lineoct_ja_1253.mp3",
-        "audio_dir": "豪華な:\n豪華な家。\n"
+        "learning_tag": "リッチ"
     },
     {
         "level": 5.0,
@@ -1541,11 +1541,11 @@
         "native_answer": "poor",
         "native_word": null,
         "tag": null,
-        "prompt": "乏しい:\n乏しい生活。\n______",
+        "prompt": "乏しい:\n乏しい生活。\n資源や財産が少ない",
         "answer": "乏しい:\n乏しい生活。\n資源や財産が少ない",
         "goal_words": "資源や財産が少ない",
         "audio_filename": "lineoct_ja_368.mp3",
-        "audio_dir": "乏しい:\n乏しい生活。\n"
+        "learning_tag": "貧しい"
     },
     {
         "level": 5.0,
@@ -1559,11 +1559,11 @@
         "native_answer": "inferior",
         "native_word": null,
         "tag": null,
-        "prompt": "劣しい:\n劣しい条件。\n______",
+        "prompt": "劣しい:\n劣しい条件。\n不十分、価値が低い",
         "answer": "劣しい:\n劣しい条件。\n不十分、価値が低い",
         "goal_words": "不十分、価値が低い",
         "audio_filename": "lineoct_ja_427.mp3",
-        "audio_dir": "劣しい:\n劣しい条件。\n"
+        "learning_tag": "貧しい"
     },
     {
         "level": 5.0,
@@ -1577,11 +1577,11 @@
         "native_answer": "poor",
         "native_word": null,
         "tag": null,
-        "prompt": "貧困な:\n貧困な地域。\n______",
+        "prompt": "貧困な:\n貧困な地域。\n金銭的に困窮",
         "answer": "貧困な:\n貧困な地域。\n金銭的に困窮",
         "goal_words": "金銭的に困窮",
         "audio_filename": "lineoct_ja_1256.mp3",
-        "audio_dir": "貧困な:\n貧困な地域。\n"
+        "learning_tag": "貧しい"
     },
     {
         "level": 5.0,
@@ -1595,11 +1595,11 @@
         "native_answer": "vulnerable",
         "native_word": null,
         "tag": null,
-        "prompt": "脆弱な:\n脆弱な経済。\n______",
+        "prompt": "脆弱な:\n脆弱な経済。\n力や影響が弱い",
         "answer": "脆弱な:\n脆弱な経済。\n力や影響が弱い",
         "goal_words": "力や影響が弱い",
         "audio_filename": "lineoct_ja_1188.mp3",
-        "audio_dir": "脆弱な:\n脆弱な経済。\n"
+        "learning_tag": "貧しい"
     },
     {
         "level": 5.0,
@@ -1613,11 +1613,11 @@
         "native_answer": "Easy",
         "native_word": null,
         "tag": null,
-        "prompt": "容易な:\n容易な課題。\n______",
+        "prompt": "容易な:\n容易な課題。\nやさしくできる",
         "answer": "容易な:\n容易な課題。\nやさしくできる",
         "goal_words": "やさしくできる",
         "audio_filename": "lineoct_ja_550.mp3",
-        "audio_dir": "容易な:\n容易な課題。\n"
+        "learning_tag": "簡単"
     },
     {
         "level": 5.0,
@@ -1631,11 +1631,11 @@
         "native_answer": "simple",
         "native_word": null,
         "tag": null,
-        "prompt": "単純な:\n単純な仕組み。\n______",
+        "prompt": "単純な:\n単純な仕組み。\n複雑でない",
         "answer": "単純な:\n単純な仕組み。\n複雑でない",
         "goal_words": "複雑でない",
         "audio_filename": "lineoct_ja_438.mp3",
-        "audio_dir": "単純な:\n単純な仕組み。\n"
+        "learning_tag": "簡単"
     },
     {
         "level": 5.0,
@@ -1649,11 +1649,11 @@
         "native_answer": "Easy to understand",
         "native_word": null,
         "tag": null,
-        "prompt": "分かりやすい:\n分かりやすい説明。\n______",
+        "prompt": "分かりやすい:\n分かりやすい説明。\n理解しやすい",
         "answer": "分かりやすい:\n分かりやすい説明。\n理解しやすい",
         "goal_words": "理解しやすい",
         "audio_filename": "lineoct_ja_414.mp3",
-        "audio_dir": "分かりやすい:\n分かりやすい説明。\n"
+        "learning_tag": "簡単"
     },
     {
         "level": 5.0,
@@ -1667,11 +1667,11 @@
         "native_answer": "Casual",
         "native_word": null,
         "tag": null,
-        "prompt": "気軽な:\n気軽な作業。\n______",
+        "prompt": "気軽な:\n気軽な作業。\n手軽にできる",
         "answer": "気軽な:\n気軽な作業。\n手軽にできる",
         "goal_words": "手軽にできる",
         "audio_filename": "lineoct_ja_992.mp3",
-        "audio_dir": "気軽な:\n気軽な作業。\n"
+        "learning_tag": "簡単"
     },
     {
         "level": 5.0,
@@ -1685,11 +1685,11 @@
         "native_answer": "Complex",
         "native_word": null,
         "tag": null,
-        "prompt": "複雑な:\n複雑な問題。\n______",
+        "prompt": "複雑な:\n複雑な問題。\n考えるのが大変",
         "answer": "複雑な:\n複雑な問題。\n考えるのが大変",
         "goal_words": "考えるのが大変",
         "audio_filename": "lineoct_ja_1229.mp3",
-        "audio_dir": "複雑な:\n複雑な問題。\n"
+        "learning_tag": "難しい"
     },
     {
         "level": 5.0,
@@ -1703,11 +1703,11 @@
         "native_answer": "difficult",
         "native_word": null,
         "tag": null,
-        "prompt": "困難な:\n困難な課題。\n______",
+        "prompt": "困難な:\n困難な課題。\n成し遂げるのが難しい",
         "answer": "困難な:\n困難な課題。\n成し遂げるのが難しい",
         "goal_words": "成し遂げるのが難しい",
         "audio_filename": "lineoct_ja_491.mp3",
-        "audio_dir": "困難な:\n困難な課題。\n"
+        "learning_tag": "難しい"
     },
     {
         "level": 5.0,
@@ -1721,11 +1721,11 @@
         "native_answer": "tough to beat",
         "native_word": null,
         "tag": null,
-        "prompt": "手強い:\n手強い相手。\n______",
+        "prompt": "手強い:\n手強い相手。\n強くて簡単に勝てない",
         "answer": "手強い:\n手強い相手。\n強くて簡単に勝てない",
         "goal_words": "強くて簡単に勝てない",
         "audio_filename": "lineoct_ja_897.mp3",
-        "audio_dir": "手強い:\n手強い相手。\n"
+        "learning_tag": "難しい"
     },
     {
         "level": 5.0,
@@ -1739,11 +1739,11 @@
         "native_answer": "esoteric",
         "native_word": null,
         "tag": null,
-        "prompt": "難解な:\n難解な文章。\n______",
+        "prompt": "難解な:\n難解な文章。\n理解しにくい",
         "answer": "難解な:\n難解な文章。\n理解しにくい",
         "goal_words": "理解しにくい",
         "audio_filename": "lineoct_ja_1300.mp3",
-        "audio_dir": "難解な:\n難解な文章。\n"
+        "learning_tag": "難しい"
     },
     {
         "level": 5.0,
@@ -1757,11 +1757,11 @@
         "native_answer": "Nice",
         "native_word": null,
         "tag": null,
-        "prompt": "素敵な:\n素敵な場所。\n______",
+        "prompt": "素敵な:\n素敵な場所。\n良くて魅力的",
         "answer": "素敵な:\n素敵な場所。\n良くて魅力的",
         "goal_words": "良くて魅力的",
         "audio_filename": "lineoct_ja_1151.mp3",
-        "audio_dir": "素敵な:\n素敵な場所。\n"
+        "learning_tag": "いいね"
     },
     {
         "level": 5.0,
@@ -1775,11 +1775,11 @@
         "native_answer": "Stylish",
         "native_word": null,
         "tag": null,
-        "prompt": "おしゃれな:\nおしゃれな服。\n______",
+        "prompt": "おしゃれな:\nおしゃれな服。\nセンスが良い",
         "answer": "おしゃれな:\nおしゃれな服。\nセンスが良い",
         "goal_words": "センスが良い",
         "audio_filename": "lineoct_ja_57.mp3",
-        "audio_dir": "おしゃれな:\nおしゃれな服。\n"
+        "learning_tag": "いいね"
     },
     {
         "level": 5.0,
@@ -1793,11 +1793,11 @@
         "native_answer": "Comfortable",
         "native_word": null,
         "tag": null,
-        "prompt": "快適な:\n快適な空間。\n______",
+        "prompt": "快適な:\n快適な空間。\n快適で心地よい",
         "answer": "快適な:\n快適な空間。\n快適で心地よい",
         "goal_words": "快適で心地よい",
         "audio_filename": "lineoct_ja_870.mp3",
-        "audio_dir": "快適な:\n快適な空間。\n"
+        "learning_tag": "いいね"
     },
     {
         "level": 5.0,
@@ -1811,11 +1811,11 @@
         "native_answer": "fun",
         "native_word": null,
         "tag": null,
-        "prompt": "楽しい:\n楽しい時間。\n______",
+        "prompt": "楽しい:\n楽しい時間。\n楽しさがある",
         "answer": "楽しい:\n楽しい時間。\n楽しさがある",
         "goal_words": "楽しさがある",
         "audio_filename": "lineoct_ja_975.mp3",
-        "audio_dir": "楽しい:\n楽しい時間。\n"
+        "learning_tag": "いいね"
     },
     {
         "level": 5.0,
@@ -1829,11 +1829,11 @@
         "native_answer": "Plain",
         "native_word": null,
         "tag": null,
-        "prompt": "地味な:\n地味な服。\n______",
+        "prompt": "地味な:\n地味な服。\n目立たない",
         "answer": "地味な:\n地味な服。\n目立たない",
         "goal_words": "目立たない",
         "audio_filename": "lineoct_ja_495.mp3",
-        "audio_dir": "地味な:\n地味な服。\n"
+        "learning_tag": "ラメ"
     },
     {
         "level": 5.0,
@@ -1847,11 +1847,11 @@
         "native_answer": "ordinary",
         "native_word": null,
         "tag": null,
-        "prompt": "平凡な:\n平凡な日常。\n______",
+        "prompt": "平凡な:\n平凡な日常。\n普通で特別でない",
         "answer": "平凡な:\n平凡な日常。\n普通で特別でない",
         "goal_words": "普通で特別でない",
         "audio_filename": "lineoct_ja_574.mp3",
-        "audio_dir": "平凡な:\n平凡な日常。\n"
+        "learning_tag": "ラメ"
     },
     {
         "level": 5.0,
@@ -1865,11 +1865,11 @@
         "native_answer": "Boring",
         "native_word": null,
         "tag": null,
-        "prompt": "退屈な:\n退屈な映画。\n______",
+        "prompt": "退屈な:\n退屈な映画。\n面白くない",
         "answer": "退屈な:\n退屈な映画。\n面白くない",
         "goal_words": "面白くない",
         "audio_filename": "lineoct_ja_1269.mp3",
-        "audio_dir": "退屈な:\n退屈な映画。\n"
+        "learning_tag": "ラメ"
     },
     {
         "level": 5.0,
@@ -1883,11 +1883,11 @@
         "native_answer": "Not funny",
         "native_word": null,
         "tag": null,
-        "prompt": "面白くない:\n面白くない話。\n______",
+        "prompt": "面白くない:\n面白くない話。\n楽しくない",
         "answer": "面白くない:\n面白くない話。\n楽しくない",
         "goal_words": "楽しくない",
         "audio_filename": "lineoct_ja_1315.mp3",
-        "audio_dir": "面白くない:\n面白くない話。\n"
+        "learning_tag": "ラメ"
     },
     {
         "level": 5.0,
@@ -1901,11 +1901,11 @@
         "native_answer": "exhausted",
         "native_word": null,
         "tag": null,
-        "prompt": "ぐったり:\n運動でぐったり。\n______",
+        "prompt": "ぐったり:\n運動でぐったり。\n非常に疲れている",
         "answer": "ぐったり:\n運動でぐったり。\n非常に疲れている",
         "goal_words": "非常に疲れている",
         "audio_filename": "lineoct_ja_95.mp3",
-        "audio_dir": "ぐったり:\n運動でぐったり。\n"
+        "learning_tag": "疲れた"
     },
     {
         "level": 5.0,
@@ -1919,11 +1919,11 @@
         "native_answer": "tired",
         "native_word": null,
         "tag": null,
-        "prompt": "へとへと:\n仕事でへとへと。\n______",
+        "prompt": "へとへと:\n仕事でへとへと。\n力が尽きている",
         "answer": "へとへと:\n仕事でへとへと。\n力が尽きている",
         "goal_words": "力が尽きている",
         "audio_filename": "lineoct_ja_300.mp3",
-        "audio_dir": "へとへと:\n仕事でへとへと。\n"
+        "learning_tag": "疲れた"
     },
     {
         "level": 5.0,
@@ -1937,11 +1937,11 @@
         "native_answer": "exhausted",
         "native_word": null,
         "tag": null,
-        "prompt": "消耗した:\n消耗した体。\n______",
+        "prompt": "消耗した:\n消耗した体。\nエネルギーを使い果たした",
         "answer": "消耗した:\n消耗した体。\nエネルギーを使い果たした",
         "goal_words": "エネルギーを使い果たした",
         "audio_filename": "lineoct_ja_1003.mp3",
-        "audio_dir": "消耗した:\n消耗した体。\n"
+        "learning_tag": "疲れた"
     },
     {
         "level": 5.0,
@@ -1955,11 +1955,11 @@
         "native_answer": "exhausted",
         "native_word": null,
         "tag": null,
-        "prompt": "疲弊した:\n疲弊した社員。\n______",
+        "prompt": "疲弊した:\n疲弊した社員。\n精神的・肉体的に疲れた",
         "answer": "疲弊した:\n疲弊した社員。\n精神的・肉体的に疲れた",
         "goal_words": "精神的・肉体的に疲れた",
         "audio_filename": "lineoct_ja_1049.mp3",
-        "audio_dir": "疲弊した:\n疲弊した社員。\n"
+        "learning_tag": "疲れた"
     },
     {
         "level": 5.0,
@@ -1973,11 +1973,11 @@
         "native_answer": "hungry",
         "native_word": null,
         "tag": null,
-        "prompt": "空腹の:\n空腹の子ども。\n______",
+        "prompt": "空腹の:\n空腹の子ども。\n食べ物が欲しい",
         "answer": "空腹の:\n空腹の子ども。\n食べ物が欲しい",
         "goal_words": "食べ物が欲しい",
         "audio_filename": "lineoct_ja_1144.mp3",
-        "audio_dir": "空腹の:\n空腹の子ども。\n"
+        "learning_tag": "お腹がすいた"
     },
     {
         "level": 5.0,
@@ -1991,11 +1991,11 @@
         "native_answer": "hungry",
         "native_word": null,
         "tag": null,
-        "prompt": "飢えた:\n飢えた旅人。\n______",
+        "prompt": "飢えた:\n飢えた旅人。\n強く食欲を感じる",
         "answer": "飢えた:\n飢えた旅人。\n強く食欲を感じる",
         "goal_words": "強く食欲を感じる",
         "audio_filename": "lineoct_ja_1334.mp3",
-        "audio_dir": "飢えた:\n飢えた旅人。\n"
+        "learning_tag": "お腹がすいた"
     },
     {
         "level": 5.0,
@@ -2009,11 +2009,11 @@
         "native_answer": "Voracious appetite",
         "native_word": null,
         "tag": null,
-        "prompt": "食欲旺盛な:\n食欲旺盛な犬。\n______",
+        "prompt": "食欲旺盛な:\n食欲旺盛な犬。\n食べたい気持ちが強い",
         "answer": "食欲旺盛な:\n食欲旺盛な犬。\n食べたい気持ちが強い",
         "goal_words": "食べたい気持ちが強い",
         "audio_filename": "lineoct_ja_1332.mp3",
-        "audio_dir": "食欲旺盛な:\n食欲旺盛な犬。\n"
+        "learning_tag": "お腹がすいた"
     },
     {
         "level": 5.0,
@@ -2027,11 +2027,11 @@
         "native_answer": "Craving",
         "native_word": null,
         "tag": null,
-        "prompt": "渇望している:\n渇望している食事。\n______",
+        "prompt": "渇望している:\n渇望している食事。\n何かを強く求める",
         "answer": "渇望している:\n渇望している食事。\n何かを強く求める",
         "goal_words": "何かを強く求める",
         "audio_filename": "lineoct_ja_1008.mp3",
-        "audio_dir": "渇望している:\n渇望している食事。\n"
+        "learning_tag": "お腹がすいた"
     },
     {
         "level": 5.0,
@@ -2045,11 +2045,11 @@
         "native_answer": "My throat is dry",
         "native_word": null,
         "tag": null,
-        "prompt": "のどが乾いた:\nのどが乾いたので水を飲む。\n______",
+        "prompt": "のどが乾いた:\nのどが乾いたので水を飲む。\n水分を欲している",
         "answer": "のどが乾いた:\nのどが乾いたので水を飲む。\n水分を欲している",
         "goal_words": "水分を欲している",
         "audio_filename": "lineoct_ja_249.mp3",
-        "audio_dir": "のどが乾いた:\nのどが乾いたので水を飲む。\n"
+        "learning_tag": "喉が渇いた"
     },
     {
         "level": 5.0,
@@ -2063,11 +2063,11 @@
         "native_answer": "Dehydrated",
         "native_word": null,
         "tag": null,
-        "prompt": "水分不足の:\n水分不足の体。\n______",
+        "prompt": "水分不足の:\n水分不足の体。\n水分が足りない",
         "answer": "水分不足の:\n水分不足の体。\n水分が足りない",
         "goal_words": "水分が足りない",
         "audio_filename": "lineoct_ja_994.mp3",
-        "audio_dir": "水分不足の:\n水分不足の体。\n"
+        "learning_tag": "喉が渇いた"
     },
     {
         "level": 5.0,
@@ -2081,11 +2081,11 @@
         "native_answer": "Craving",
         "native_word": null,
         "tag": null,
-        "prompt": "渇望する:\n水を渇望する。\n______",
+        "prompt": "渇望する:\n水を渇望する。\n強く欲する",
         "answer": "渇望する:\n水を渇望する。\n強く欲する",
         "goal_words": "強く欲する",
         "audio_filename": "lineoct_ja_1009.mp3",
-        "audio_dir": "渇望する:\n水を渇望する。\n"
+        "learning_tag": "喉が渇いた"
     },
     {
         "level": 5.0,
@@ -2099,11 +2099,11 @@
         "native_answer": "dry",
         "native_word": null,
         "tag": null,
-        "prompt": "乾いた:\n乾いた喉。\n______",
+        "prompt": "乾いた:\n乾いた喉。\n水分がない",
         "answer": "乾いた:\n乾いた喉。\n水分がない",
         "goal_words": "水分がない",
         "audio_filename": "lineoct_ja_371.mp3",
-        "audio_dir": "乾いた:\n乾いた喉。\n"
+        "learning_tag": "喉が渇いた"
     },
     {
         "level": 5.0,
@@ -2117,11 +2117,11 @@
         "native_answer": "clean",
         "native_word": null,
         "tag": null,
-        "prompt": "清潔な:\n清潔な部屋。\n______",
+        "prompt": "清潔な:\n清潔な部屋。\n汚れがない",
         "answer": "清潔な:\n清潔な部屋。\n汚れがない",
         "goal_words": "汚れがない",
         "audio_filename": "lineoct_ja_1006.mp3",
-        "audio_dir": "清潔な:\n清潔な部屋。\n"
+        "learning_tag": "クリーン"
     },
     {
         "level": 5.0,
@@ -2135,11 +2135,11 @@
         "native_answer": "Beautiful",
         "native_word": null,
         "tag": null,
-        "prompt": "きれいな:\nきれいな服。\n______",
+        "prompt": "きれいな:\nきれいな服。\n見た目が整っている",
         "answer": "きれいな:\nきれいな服。\n見た目が整っている",
         "goal_words": "見た目が整っている",
         "audio_filename": "lineoct_ja_91.mp3",
-        "audio_dir": "きれいな:\nきれいな服。\n"
+        "learning_tag": "クリーン"
     },
     {
         "level": 5.0,
@@ -2153,11 +2153,11 @@
         "native_answer": "hygienic",
         "native_word": null,
         "tag": null,
-        "prompt": "衛生的な:\n衛生的なキッチン。\n______",
+        "prompt": "衛生的な:\n衛生的なキッチン。\n健康面で問題ない",
         "answer": "衛生的な:\n衛生的なキッチン。\n健康面で問題ない",
         "goal_words": "健康面で問題ない",
         "audio_filename": "lineoct_ja_1219.mp3",
-        "audio_dir": "衛生的な:\n衛生的なキッチン。\n"
+        "learning_tag": "クリーン"
     },
     {
         "level": 5.0,
@@ -2171,11 +2171,11 @@
         "native_answer": "Innocent",
         "native_word": null,
         "tag": null,
-        "prompt": "無垢な:\n無垢な心。\n______",
+        "prompt": "無垢な:\n無垢な心。\n汚れていない",
         "answer": "無垢な:\n無垢な心。\n汚れていない",
         "goal_words": "汚れていない",
         "audio_filename": "lineoct_ja_1022.mp3",
-        "audio_dir": "無垢な:\n無垢な心。\n"
+        "learning_tag": "クリーン"
     },
     {
         "level": 5.0,
@@ -2189,11 +2189,11 @@
         "native_answer": "filthy",
         "native_word": null,
         "tag": null,
-        "prompt": "不潔な:\n不潔な手。\n______",
+        "prompt": "不潔な:\n不潔な手。\n衛生的でない",
         "answer": "不潔な:\n不潔な手。\n衛生的でない",
         "goal_words": "衛生的でない",
         "audio_filename": "lineoct_ja_361.mp3",
-        "audio_dir": "不潔な:\n不潔な手。\n"
+        "learning_tag": "汚い"
     },
     {
         "level": 5.0,
@@ -2207,11 +2207,11 @@
         "native_answer": "dirty",
         "native_word": null,
         "tag": null,
-        "prompt": "汚れた:\n汚れた服。\n______",
+        "prompt": "汚れた:\n汚れた服。\n汚れがついている",
         "answer": "汚れた:\n汚れた服。\n汚れがついている",
         "goal_words": "汚れがついている",
         "audio_filename": "lineoct_ja_997.mp3",
-        "audio_dir": "汚れた:\n汚れた服。\n"
+        "learning_tag": "汚い"
     },
     {
         "level": 5.0,
@@ -2225,11 +2225,11 @@
         "native_answer": "messy",
         "native_word": null,
         "tag": null,
-        "prompt": "乱雑な:\n乱雑な部屋。\n______",
+        "prompt": "乱雑な:\n乱雑な部屋。\n散らかっている",
         "answer": "乱雑な:\n乱雑な部屋。\n散らかっている",
         "goal_words": "散らかっている",
         "audio_filename": "lineoct_ja_369.mp3",
-        "audio_dir": "乱雑な:\n乱雑な部屋。\n"
+        "learning_tag": "汚い"
     },
     {
         "level": 5.0,
@@ -2243,11 +2243,11 @@
         "native_answer": "sloppy",
         "native_word": null,
         "tag": null,
-        "prompt": "だらしない:\nだらしない生活。\n______",
+        "prompt": "だらしない:\nだらしない生活。\n整理されていない",
         "answer": "だらしない:\nだらしない生活。\n整理されていない",
         "goal_words": "整理されていない",
         "audio_filename": "lineoct_ja_213.mp3",
-        "audio_dir": "だらしない:\nだらしない生活。\n"
+        "learning_tag": "汚い"
     },
     {
         "level": 5.0,
@@ -2261,11 +2261,11 @@
         "native_answer": "kind",
         "native_word": null,
         "tag": null,
-        "prompt": "優しい:\n優しい友達。\n______",
+        "prompt": "優しい:\n優しい友達。\n他人に親切",
         "answer": "優しい:\n優しい友達。\n他人に親切",
         "goal_words": "他人に親切",
         "audio_filename": "lineoct_ja_400.mp3",
-        "audio_dir": "優しい:\n優しい友達。\n"
+        "learning_tag": "ニース"
     },
     {
         "level": 5.0,
@@ -2279,11 +2279,11 @@
         "native_answer": "Kind",
         "native_word": null,
         "tag": null,
-        "prompt": "親切な:\n親切な人。\n______",
+        "prompt": "親切な:\n親切な人。\n助けたり思いやりがある",
         "answer": "親切な:\n親切な人。\n助けたり思いやりがある",
         "goal_words": "助けたり思いやりがある",
         "audio_filename": "lineoct_ja_1234.mp3",
-        "audio_dir": "親切な:\n親切な人。\n"
+        "learning_tag": "ニース"
     },
     {
         "level": 5.0,
@@ -2297,11 +2297,11 @@
         "native_answer": "favorable",
         "native_word": null,
         "tag": null,
-        "prompt": "好意的な:\n好意的な対応。\n______",
+        "prompt": "好意的な:\n好意的な対応。\n態度が良い",
         "answer": "好意的な:\n好意的な対応。\n態度が良い",
         "goal_words": "態度が良い",
         "audio_filename": "lineoct_ja_524.mp3",
-        "audio_dir": "好意的な:\n好意的な対応。\n"
+        "learning_tag": "ニース"
     },
     {
         "level": 5.0,
@@ -2315,11 +2315,11 @@
         "native_answer": "Polite",
         "native_word": null,
         "tag": null,
-        "prompt": "礼儀正しい:\n礼儀正しい学生。\n______",
+        "prompt": "礼儀正しい:\n礼儀正しい学生。\nマナーがある",
         "answer": "礼儀正しい:\n礼儀正しい学生。\nマナーがある",
         "goal_words": "マナーがある",
         "audio_filename": "lineoct_ja_1060.mp3",
-        "audio_dir": "礼儀正しい:\n礼儀正しい学生。\n"
+        "learning_tag": "ニース"
     },
     {
         "level": 5.0,
@@ -2333,11 +2333,11 @@
         "native_answer": "Normal",
         "native_word": null,
         "tag": null,
-        "prompt": "普通の:\n普通の一日。\n______",
+        "prompt": "普通の:\n普通の一日。\n特別でない",
         "answer": "普通の:\n普通の一日。\n特別でない",
         "goal_words": "特別でない",
         "audio_filename": "lineoct_ja_941.mp3",
-        "audio_dir": "普通の:\n普通の一日。\n"
+        "learning_tag": "平均"
     },
     {
         "level": 5.0,
@@ -2351,11 +2351,11 @@
         "native_answer": "Medium",
         "native_word": null,
         "tag": null,
-        "prompt": "中くらいの:\n中くらいの背丈。\n______",
+        "prompt": "中くらいの:\n中くらいの背丈。\n中程度",
         "answer": "中くらいの:\n中くらいの背丈。\n中程度",
         "goal_words": "中程度",
         "audio_filename": "lineoct_ja_367.mp3",
-        "audio_dir": "中くらいの:\n中くらいの背丈。\n"
+        "learning_tag": "平均"
     },
     {
         "level": 5.0,
@@ -2369,11 +2369,11 @@
         "native_answer": "Standard",
         "native_word": null,
         "tag": null,
-        "prompt": "標準的な:\n標準的な方法。\n______",
+        "prompt": "標準的な:\n標準的な方法。\n基準に沿った",
         "answer": "標準的な:\n標準的な方法。\n基準に沿った",
         "goal_words": "基準に沿った",
         "audio_filename": "lineoct_ja_978.mp3",
-        "audio_dir": "標準的な:\n標準的な方法。\n"
+        "learning_tag": "平均"
     },
     {
         "level": 5.0,
@@ -2387,11 +2387,11 @@
         "native_answer": "General",
         "native_word": null,
         "tag": null,
-        "prompt": "一般的な:\n一般的な考え方。\n______",
+        "prompt": "一般的な:\n一般的な考え方。\n多くの人に共通",
         "answer": "一般的な:\n一般的な考え方。\n多くの人に共通",
         "goal_words": "多くの人に共通",
         "audio_filename": "lineoct_ja_352.mp3",
-        "audio_dir": "一般的な:\n一般的な考え方。\n"
+        "learning_tag": "平均"
     },
     {
         "level": 5.0,
@@ -2405,11 +2405,11 @@
         "native_answer": "fun",
         "native_word": null,
         "tag": null,
-        "prompt": "楽しい:\n楽しい映画。\n______",
+        "prompt": "楽しい:\n楽しい映画。\n楽しさがある",
         "answer": "楽しい:\n楽しい映画。\n楽しさがある",
         "goal_words": "楽しさがある",
         "audio_filename": "lineoct_ja_973.mp3",
-        "audio_dir": "楽しい:\n楽しい映画。\n"
+        "learning_tag": "面白い"
     },
     {
         "level": 5.0,
@@ -2423,11 +2423,11 @@
         "native_answer": "Interesting",
         "native_word": null,
         "tag": null,
-        "prompt": "興味深い:\n興味深い話。\n______",
+        "prompt": "興味深い:\n興味深い話。\n注意を引く",
         "answer": "興味深い:\n興味深い話。\n注意を引く",
         "goal_words": "注意を引く",
         "audio_filename": "lineoct_ja_1194.mp3",
-        "audio_dir": "興味深い:\n興味深い話。\n"
+        "learning_tag": "面白い"
     },
     {
         "level": 5.0,
@@ -2441,11 +2441,11 @@
         "native_answer": "Fun",
         "native_word": null,
         "tag": null,
-        "prompt": "愉快な:\n愉快なジョーク。\n______",
+        "prompt": "愉快な:\n愉快なジョーク。\n笑いや楽しみがある",
         "answer": "愉快な:\n愉快なジョーク。\n笑いや楽しみがある",
         "goal_words": "笑いや楽しみがある",
         "audio_filename": "lineoct_ja_884.mp3",
-        "audio_dir": "愉快な:\n愉快なジョーク。\n"
+        "learning_tag": "面白い"
     },
     {
         "level": 5.0,
@@ -2459,11 +2459,11 @@
         "native_answer": "Unique",
         "native_word": null,
         "tag": null,
-        "prompt": "ユニークな:\nユニークなデザイン。\n______",
+        "prompt": "ユニークな:\nユニークなデザイン。\n独特で面白い",
         "answer": "ユニークな:\nユニークなデザイン。\n独特で面白い",
         "goal_words": "独特で面白い",
         "audio_filename": "lineoct_ja_338.mp3",
-        "audio_dir": "ユニークな:\nユニークなデザイン。\n"
+        "learning_tag": "面白い"
     },
     {
         "level": 5.0,
@@ -2477,11 +2477,11 @@
         "native_answer": "Serious",
         "native_word": null,
         "tag": null,
-        "prompt": "重大な:\n重大な問題。\n______",
+        "prompt": "重大な:\n重大な問題。\n重要で注意が必要",
         "answer": "重大な:\n重大な問題。\n重要で注意が必要",
         "goal_words": "重要で注意が必要",
         "audio_filename": "lineoct_ja_1284.mp3",
-        "audio_dir": "重大な:\n重大な問題。\n"
+        "learning_tag": "深刻な"
     },
     {
         "level": 5.0,
@@ -2495,11 +2495,11 @@
         "native_answer": "strict",
         "native_word": null,
         "tag": null,
-        "prompt": "厳しい:\n厳しい試験。\n______",
+        "prompt": "厳しい:\n厳しい試験。\n厳格で重要",
         "answer": "厳しい:\n厳しい試験。\n厳格で重要",
         "goal_words": "厳格で重要",
         "audio_filename": "lineoct_ja_441.mp3",
-        "audio_dir": "厳しい:\n厳しい試験。\n"
+        "learning_tag": "深刻な"
     },
     {
         "level": 5.0,
@@ -2513,11 +2513,11 @@
         "native_answer": "Serious",
         "native_word": null,
         "tag": null,
-        "prompt": "真剣な:\n真剣な議論。\n______",
+        "prompt": "真剣な:\n真剣な議論。\n真面目で本気",
         "answer": "真剣な:\n真剣な議論。\n真面目で本気",
         "goal_words": "真面目で本気",
         "audio_filename": "lineoct_ja_1055.mp3",
-        "audio_dir": "真剣な:\n真剣な議論。\n"
+        "learning_tag": "深刻な"
     },
     {
         "level": 5.0,
@@ -2531,11 +2531,11 @@
         "native_answer": "heavy",
         "native_word": null,
         "tag": null,
-        "prompt": "重い:\n重い責任。\n______",
+        "prompt": "重い:\n重い責任。\n重要度が高い",
         "answer": "重い:\n重い責任。\n重要度が高い",
         "goal_words": "重要度が高い",
         "audio_filename": "lineoct_ja_1282.mp3",
-        "audio_dir": "重い:\n重い責任。\n"
+        "learning_tag": "深刻な"
     },
     {
         "level": 5.0,
@@ -2549,11 +2549,11 @@
         "native_answer": "noisy",
         "native_word": null,
         "tag": null,
-        "prompt": "騒がしい:\n騒がしい街。\n______",
+        "prompt": "騒がしい:\n騒がしい街。\n音や声が大きい",
         "answer": "騒がしい:\n騒がしい街。\n音や声が大きい",
         "goal_words": "音や声が大きい",
         "audio_filename": "lineoct_ja_1343.mp3",
-        "audio_dir": "騒がしい:\n騒がしい街。\n"
+        "learning_tag": "うるさい"
     },
     {
         "level": 5.0,
@@ -2567,11 +2567,11 @@
         "native_answer": "noisy",
         "native_word": null,
         "tag": null,
-        "prompt": "喧しい:\n喧しい子ども。\n______",
+        "prompt": "喧しい:\n喧しい子ども。\n注意を引くほど騒がしい",
         "answer": "喧しい:\n喧しい子ども。\n注意を引くほど騒がしい",
         "goal_words": "注意を引くほど騒がしい",
         "audio_filename": "lineoct_ja_486.mp3",
-        "audio_dir": "喧しい:\n喧しい子ども。\n"
+        "learning_tag": "うるさい"
     },
     {
         "level": 5.0,
@@ -2585,11 +2585,11 @@
         "native_answer": "Noisy",
         "native_word": null,
         "tag": null,
-        "prompt": "やかましい:\nやかましい音楽。\n______",
+        "prompt": "やかましい:\nやかましい音楽。\nとても大きい音",
         "answer": "やかましい:\nやかましい音楽。\nとても大きい音",
         "goal_words": "とても大きい音",
         "audio_filename": "lineoct_ja_328.mp3",
-        "audio_dir": "やかましい:\nやかましい音楽。\n"
+        "learning_tag": "うるさい"
     },
     {
         "level": 5.0,
@@ -2603,11 +2603,11 @@
         "native_answer": "buzzing",
         "native_word": null,
         "tag": null,
-        "prompt": "ざわざわする:\nざわざわする教室。\n______",
+        "prompt": "ざわざわする:\nざわざわする教室。\n小さい音で騒がしい",
         "answer": "ざわざわする:\nざわざわする教室。\n小さい音で騒がしい",
         "goal_words": "小さい音で騒がしい",
         "audio_filename": "lineoct_ja_145.mp3",
-        "audio_dir": "ざわざわする:\nざわざわする教室。\n"
+        "learning_tag": "うるさい"
     },
     {
         "level": 5.0,
@@ -2621,11 +2621,11 @@
         "native_answer": "calm",
         "native_word": null,
         "tag": null,
-        "prompt": "穏やかな:\n穏やかな海。\n______",
+        "prompt": "穏やかな:\n穏やかな海。\n落ち着いた状態",
         "answer": "穏やかな:\n穏やかな海。\n落ち着いた状態",
         "goal_words": "落ち着いた状態",
         "audio_filename": "lineoct_ja_1139.mp3",
-        "audio_dir": "穏やかな:\n穏やかな海。\n"
+        "learning_tag": "静かな"
     },
     {
         "level": 5.0,
@@ -2639,11 +2639,11 @@
         "native_answer": "Quiet",
         "native_word": null,
         "tag": null,
-        "prompt": "静寂な:\n静寂な夜。\n______",
+        "prompt": "静寂な:\n静寂な夜。\n静まり返った",
         "answer": "静寂な:\n静寂な夜。\n静まり返った",
         "goal_words": "静まり返った",
         "audio_filename": "lineoct_ja_1312.mp3",
-        "audio_dir": "静寂な:\n静寂な夜。\n"
+        "learning_tag": "静かな"
     },
     {
         "level": 5.0,
@@ -2657,11 +2657,11 @@
         "native_answer": "Calm",
         "native_word": null,
         "tag": null,
-        "prompt": "落ち着いた:\n落ち着いた部屋。\n______",
+        "prompt": "落ち着いた:\n落ち着いた部屋。\n安定して静か",
         "answer": "落ち着いた:\n落ち着いた部屋。\n安定して静か",
         "goal_words": "安定して静か",
         "audio_filename": "lineoct_ja_1207.mp3",
-        "audio_dir": "落ち着いた:\n落ち着いた部屋。\n"
+        "learning_tag": "静かな"
     },
     {
         "level": 5.0,
@@ -2675,11 +2675,11 @@
         "native_answer": "peaceful",
         "native_word": null,
         "tag": null,
-        "prompt": "平穏な:\n平穏な生活。\n______",
+        "prompt": "平穏な:\n平穏な生活。\n平和で静か",
         "answer": "平穏な:\n平穏な生活。\n平和で静か",
         "goal_words": "平和で静か",
         "audio_filename": "lineoct_ja_575.mp3",
-        "audio_dir": "平穏な:\n平穏な生活。\n"
+        "learning_tag": "静かな"
     },
     {
         "level": 5.0,
@@ -2693,11 +2693,11 @@
         "native_answer": "stubborn",
         "native_word": null,
         "tag": null,
-        "prompt": "意固地な:\n意固地な人。\n______",
+        "prompt": "意固地な:\n意固地な人。\n自分の考えを変えない",
         "answer": "意固地な:\n意固地な人。\n自分の考えを変えない",
         "goal_words": "自分の考えを変えない",
         "audio_filename": "lineoct_ja_885.mp3",
-        "audio_dir": "意固地な:\n意固地な人。\n"
+        "learning_tag": "頑固"
     },
     {
         "level": 5.0,
@@ -2711,11 +2711,11 @@
         "native_answer": "Stubborn",
         "native_word": null,
         "tag": null,
-        "prompt": "頑なな:\n頑なな態度。\n______",
+        "prompt": "頑なな:\n頑なな態度。\n強く拒む",
         "answer": "頑なな:\n頑なな態度。\n強く拒む",
         "goal_words": "強く拒む",
         "audio_filename": "lineoct_ja_1319.mp3",
-        "audio_dir": "頑なな:\n頑なな態度。\n"
+        "learning_tag": "頑固"
     },
     {
         "level": 5.0,
@@ -2729,11 +2729,11 @@
         "native_answer": "persist",
         "native_word": null,
         "tag": null,
-        "prompt": "固執する:\n信念に固執する。\n______",
+        "prompt": "固執する:\n信念に固執する。\n思いを貫く",
         "answer": "固執する:\n信念に固執する。\n思いを貫く",
         "goal_words": "思いを貫く",
         "audio_filename": "lineoct_ja_493.mp3",
-        "audio_dir": "固執する:\n信念に固執する。\n"
+        "learning_tag": "頑固"
     },
     {
         "level": 5.0,
@@ -2747,11 +2747,11 @@
         "native_answer": "Persistent",
         "native_word": null,
         "tag": null,
-        "prompt": "しつこい:\nしつこい交渉。\n______",
+        "prompt": "しつこい:\nしつこい交渉。\nしつこく変わらない",
         "answer": "しつこい:\nしつこい交渉。\nしつこく変わらない",
         "goal_words": "しつこく変わらない",
         "audio_filename": "lineoct_ja_147.mp3",
-        "audio_dir": "しつこい:\nしつこい交渉。\n"
+        "learning_tag": "頑固"
     },
     {
         "level": 5.0,
@@ -2765,11 +2765,11 @@
         "native_answer": "Friendly",
         "native_word": null,
         "tag": null,
-        "prompt": "親しみやすい:\n親しみやすい先生。\n______",
+        "prompt": "親しみやすい:\n親しみやすい先生。\n接しやすい",
         "answer": "親しみやすい:\n親しみやすい先生。\n接しやすい",
         "goal_words": "接しやすい",
         "audio_filename": "lineoct_ja_1231.mp3",
-        "audio_dir": "親しみやすい:\n親しみやすい先生。\n"
+        "learning_tag": "フレンドリー"
     },
     {
         "level": 5.0,
@@ -2783,11 +2783,11 @@
         "native_answer": "kind",
         "native_word": null,
         "tag": null,
-        "prompt": "優しい:\n優しい先輩。\n______",
+        "prompt": "優しい:\n優しい先輩。\n他人に対して思いやり",
         "answer": "優しい:\n優しい先輩。\n他人に対して思いやり",
         "goal_words": "他人に対して思いやり",
         "audio_filename": "lineoct_ja_399.mp3",
-        "audio_dir": "優しい:\n優しい先輩。\n"
+        "learning_tag": "フレンドリー"
     },
     {
         "level": 5.0,
@@ -2801,11 +2801,11 @@
         "native_answer": "Sociable",
         "native_word": null,
         "tag": null,
-        "prompt": "社交的な:\n社交的な人。\n______",
+        "prompt": "社交的な:\n社交的な人。\n人付き合いが上手",
         "answer": "社交的な:\n社交的な人。\n人付き合いが上手",
         "goal_words": "人付き合いが上手",
         "audio_filename": "lineoct_ja_1062.mp3",
-        "audio_dir": "社交的な:\n社交的な人。\n"
+        "learning_tag": "フレンドリー"
     },
     {
         "level": 5.0,
@@ -2819,11 +2819,11 @@
         "native_answer": "friendly",
         "native_word": null,
         "tag": null,
-        "prompt": "人懐っこい:\n人懐っこい犬。\n______",
+        "prompt": "人懐っこい:\n人懐っこい犬。\n誰にでもすぐ懐く",
         "answer": "人懐っこい:\n人懐っこい犬。\n誰にでもすぐ懐く",
         "goal_words": "誰にでもすぐ懐く",
         "audio_filename": "lineoct_ja_376.mp3",
-        "audio_dir": "人懐っこい:\n人懐っこい犬。\n"
+        "learning_tag": "フレンドリー"
     },
     {
         "level": 5.0,
@@ -2837,11 +2837,11 @@
         "native_answer": "terrible",
         "native_word": null,
         "tag": null,
-        "prompt": "恐ろしい:\n恐ろしい怪談。\n______",
+        "prompt": "恐ろしい:\n恐ろしい怪談。\n恐怖を感じる",
         "answer": "恐ろしい:\n恐ろしい怪談。\n恐怖を感じる",
         "goal_words": "恐怖を感じる",
         "audio_filename": "lineoct_ja_876.mp3",
-        "audio_dir": "恐ろしい:\n恐ろしい怪談。\n"
+        "learning_tag": "怖い"
     },
     {
         "level": 5.0,
@@ -2855,11 +2855,11 @@
         "native_answer": "horrible",
         "native_word": null,
         "tag": null,
-        "prompt": "おぞましい:\nおぞましい事件。\n______",
+        "prompt": "おぞましい:\nおぞましい事件。\n見るに耐えない恐怖",
         "answer": "おぞましい:\nおぞましい事件。\n見るに耐えない恐怖",
         "goal_words": "見るに耐えない恐怖",
         "audio_filename": "lineoct_ja_58.mp3",
-        "audio_dir": "おぞましい:\nおぞましい事件。\n"
+        "learning_tag": "怖い"
     },
     {
         "level": 5.0,
@@ -2873,11 +2873,11 @@
         "native_answer": "I'm nervous",
         "native_word": null,
         "tag": null,
-        "prompt": "びくびくする:\nびくびくする子ども。\n______",
+        "prompt": "びくびくする:\nびくびくする子ども。\n不安や恐怖で震える",
         "answer": "びくびくする:\nびくびくする子ども。\n不安や恐怖で震える",
         "goal_words": "不安や恐怖で震える",
         "audio_filename": "lineoct_ja_273.mp3",
-        "audio_dir": "びくびくする:\nびくびくする子ども。\n"
+        "learning_tag": "怖い"
     },
     {
         "level": 5.0,
@@ -2891,10 +2891,10 @@
         "native_answer": "threatening",
         "native_word": null,
         "tag": null,
-        "prompt": "脅威的な:\n脅威的な状況。\n______",
+        "prompt": "脅威的な:\n脅威的な状況。\n危険や恐怖を伴う",
         "answer": "脅威的な:\n脅威的な状況。\n危険や恐怖を伴う",
         "goal_words": "危険や恐怖を伴う",
         "audio_filename": "lineoct_ja_1186.mp3",
-        "audio_dir": "脅威的な:\n脅威的な状況。\n"
+        "learning_tag": "怖い"
     }
 ]

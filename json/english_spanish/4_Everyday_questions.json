@@ -8,14 +8,14 @@
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "4 Everyday questions",
-        "native_answer": "Do you speak english? yes, i speak english",
+        "native_answer": "Do you speak english? yes, I speak english",
         "native_word": "question",
         "tag": "question",
         "prompt": "¿Hablas inglés? ______,______",
         "answer": "¿Hablas inglés? Sí, hablo inglés",
         "goal_words": "Sí,  hablo inglés",
         "audio_filename": "line5jan26_es_128.mp3",
-        "audio_dir": "¿Hablas inglés? Sí, hablo inglés"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "¿Me puedes ayudar? Sí, puedo ayudarte.",
         "goal_words": "Sí,  puedo ayudarte.",
         "audio_filename": "line5jan26_es_140.mp3",
-        "audio_dir": "¿Me puedes ayudar? Sí, puedo ayudarte."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "¿Dónde está el baño? Sigue la señal",
         "goal_words": "Sigue la señal",
         "audio_filename": "line5jan26_es_100.mp3",
-        "audio_dir": "¿Dónde está el baño? Sigue la señal"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "¿Qué hora es? las dos y media",
         "goal_words": "las dos y media",
         "audio_filename": "line5jan26_es_185.mp3",
-        "audio_dir": "¿Qué hora es? las dos y media"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "¿Cuánto cuesta? un euro cada uno",
         "goal_words": "un euro cada uno",
         "audio_filename": "line5jan26_es_78.mp3",
-        "audio_dir": "¿Cuánto cuesta? un euro cada uno"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -105,7 +105,7 @@
         "answer": "¿Puedes repetir eso? Sí, lo repetiré.",
         "goal_words": "Sí,  lo repetiré.",
         "audio_filename": "line5jan26_es_161.mp3",
-        "audio_dir": "¿Puedes repetir eso? Sí, lo repetiré."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "¿Qué quiere decir esto? detener",
         "goal_words": "detener",
         "audio_filename": "line5jan26_es_189.mp3",
-        "audio_dir": "¿Qué quiere decir esto? detener"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "¿Puedes hablar más lento, por favor? ok, hablaré más lento",
         "goal_words": "ok,  hablaré más lento",
         "audio_filename": "line5jan26_es_157.mp3",
-        "audio_dir": "¿Puedes hablar más lento, por favor? ok, hablaré más lento"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "¿Puedo tomar una foto? Sí, puedes tomar una foto.",
         "goal_words": "Sí,  puedes tomar una foto.",
         "audio_filename": "line5jan26_es_176.mp3",
-        "audio_dir": "¿Puedo tomar una foto? Sí, puedes tomar una foto."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -177,7 +177,7 @@
         "answer": "¿Me puede dar el menú por favor? Sí, aquí está el menú.",
         "goal_words": "Sí,  aquí está el menú.",
         "audio_filename": "line5jan26_es_138.mp3",
-        "audio_dir": "¿Me puede dar el menú por favor? Sí, aquí está el menú."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -195,7 +195,7 @@
         "answer": "¿Cuanto tiempo se tarda en llegar? quince minutos",
         "goal_words": "quince minutos",
         "audio_filename": "line5jan26_es_79.mp3",
-        "audio_dir": "¿Cuanto tiempo se tarda en llegar? quince minutos"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -213,7 +213,7 @@
         "answer": "¿Está lejos? Sí, el barco está lejos.",
         "goal_words": "Sí,  el barco está lejos.",
         "audio_filename": "line5jan26_es_116.mp3",
-        "audio_dir": "¿Está lejos? Sí, el barco está lejos."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -231,7 +231,7 @@
         "answer": "¿Me puede mostrar en el mapa? OK",
         "goal_words": "OK",
         "audio_filename": "line5jan26_es_139.mp3",
-        "audio_dir": "¿Me puede mostrar en el mapa? OK"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -249,7 +249,7 @@
         "answer": "¿A qué hora salimos? las dos y media",
         "goal_words": "las dos y media",
         "audio_filename": "line5jan26_es_7.mp3",
-        "audio_dir": "¿A qué hora salimos? las dos y media"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -267,7 +267,7 @@
         "answer": "¿Cuando llegaremos? doce cuarenta",
         "goal_words": "doce cuarenta",
         "audio_filename": "line5jan26_es_76.mp3",
-        "audio_dir": "¿Cuando llegaremos? doce cuarenta"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -285,7 +285,7 @@
         "answer": "¿Cuál es el próximo tren? doce cuarenta",
         "goal_words": "doce cuarenta",
         "audio_filename": "line5jan26_es_53.mp3",
-        "audio_dir": "¿Cuál es el próximo tren? doce cuarenta"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -303,7 +303,7 @@
         "answer": "¿Puedo obtener una entrada para el museo? OK",
         "goal_words": "OK",
         "audio_filename": "line5jan26_es_164.mp3",
-        "audio_dir": "¿Puedo obtener una entrada para el museo? OK"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -321,7 +321,7 @@
         "answer": "¿Cómo llego al parque? el parque esta ahí",
         "goal_words": "el parque esta ahí",
         "audio_filename": "line5jan26_es_28.mp3",
-        "audio_dir": "¿Cómo llego al parque? el parque esta ahí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -339,7 +339,7 @@
         "answer": "¿Está libre este asiento? No",
         "goal_words": "No",
         "audio_filename": "line5jan26_es_118.mp3",
-        "audio_dir": "¿Está libre este asiento? No"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -357,7 +357,7 @@
         "answer": "¿Puedo probar esto? OK",
         "goal_words": "OK",
         "audio_filename": "line5jan26_es_169.mp3",
-        "audio_dir": "¿Puedo probar esto? OK"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -375,7 +375,7 @@
         "answer": "¿Puedo pagar con tarjeta de crédito? Sí, puedes pagar con tarjeta de crédito.",
         "goal_words": "Sí,  puedes pagar con tarjeta de crédito.",
         "audio_filename": "line5jan26_es_167.mp3",
-        "audio_dir": "¿Puedo pagar con tarjeta de crédito? Sí, puedes pagar con tarjeta de crédito."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -386,14 +386,14 @@
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "4 Everyday questions",
-        "native_answer": "Is it open or closed? closed",
+        "native_answer": "Is it open or closed? closed​",
         "native_word": "question",
         "tag": "question",
-        "prompt": "¿Está abierto o ______? ______",
-        "answer": "¿Está abierto o cerrado? cerrado",
-        "goal_words": "cerrado",
+        "prompt": "¿Está abierto o cerrado? ______",
+        "answer": "¿Está abierto o cerrado? cerrado​",
+        "goal_words": "cerrado​",
         "audio_filename": "line5jan26_es_114.mp3",
-        "audio_dir": "¿Está abierto o cerrado? cerrado"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -411,7 +411,7 @@
         "answer": "¿Dónde puedo comprar un billete? en el quiosco",
         "goal_words": "en el quiosco",
         "audio_filename": "line5jan26_es_106.mp3",
-        "audio_dir": "¿Dónde puedo comprar un billete? en el quiosco"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -429,7 +429,7 @@
         "answer": "¿Puedo beber el agua de aquí? Sí, el agua está filtrada.",
         "goal_words": "Sí,  el agua está filtrada.",
         "audio_filename": "line5jan26_es_163.mp3",
-        "audio_dir": "¿Puedo beber el agua de aquí? Sí, el agua está filtrada."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -447,7 +447,7 @@
         "answer": "¿A qué hora es la cena? cinco cuarenta y cinco",
         "goal_words": "cinco cuarenta y cinco",
         "audio_filename": "line5jan26_es_6.mp3",
-        "audio_dir": "¿A qué hora es la cena? cinco cuarenta y cinco"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -465,7 +465,7 @@
         "answer": "¿Hay un mercado cerca? Hay un mercado al aire libre",
         "goal_words": "Hay un mercado al aire libre",
         "audio_filename": "line5jan26_es_135.mp3",
-        "audio_dir": "¿Hay un mercado cerca? Hay un mercado al aire libre"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -483,7 +483,7 @@
         "answer": "¿Cuando abre? cinco cuarenta y cinco",
         "goal_words": "cinco cuarenta y cinco",
         "audio_filename": "line5jan26_es_74.mp3",
-        "audio_dir": "¿Cuando abre? cinco cuarenta y cinco"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -501,7 +501,7 @@
         "answer": "¿Necesito una reserva? Sí, las mesas están reservadas.",
         "goal_words": "Sí,  las mesas están reservadas.",
         "audio_filename": "line5jan26_es_145.mp3",
-        "audio_dir": "¿Necesito una reserva? Sí, las mesas están reservadas."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -519,7 +519,7 @@
         "answer": "¿Es esto correcto? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_110.mp3",
-        "audio_dir": "¿Es esto correcto? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -537,7 +537,7 @@
         "answer": "¿A qué hora cierra? las dos y media",
         "goal_words": "las dos y media",
         "audio_filename": "line5jan26_es_5.mp3",
-        "audio_dir": "¿A qué hora cierra? las dos y media"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -555,7 +555,7 @@
         "answer": "¿Puedo tener una bolsa? aquí tienes",
         "goal_words": "aquí tienes",
         "audio_filename": "line5jan26_es_174.mp3",
-        "audio_dir": "¿Puedo tener una bolsa? aquí tienes"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -573,7 +573,7 @@
         "answer": "¿Puedo pagar con efectivo? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_166.mp3",
-        "audio_dir": "¿Puedo pagar con efectivo? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -591,7 +591,7 @@
         "answer": "¿Cómo está el tiempo hoy? soleado",
         "goal_words": "soleado",
         "audio_filename": "line5jan26_es_25.mp3",
-        "audio_dir": "¿Cómo está el tiempo hoy? soleado"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -609,7 +609,7 @@
         "answer": "¿Tienes wifi? Hay wifi",
         "goal_words": "Hay wifi",
         "audio_filename": "line5jan26_es_245.mp3",
-        "audio_dir": "¿Tienes wifi? Hay wifi"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -627,7 +627,7 @@
         "answer": "¿A dónde vamos? al parque",
         "goal_words": "al parque",
         "audio_filename": "line5jan26_es_2.mp3",
-        "audio_dir": "¿A dónde vamos? al parque"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -645,7 +645,7 @@
         "answer": "¿Estás de vacaciones? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_120.mp3",
-        "audio_dir": "¿Estás de vacaciones? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -663,7 +663,7 @@
         "answer": "¿Por cuánto tiempo se hospeda? una semana",
         "goal_words": "una semana",
         "audio_filename": "line5jan26_es_152.mp3",
-        "audio_dir": "¿Por cuánto tiempo se hospeda? una semana"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -681,7 +681,7 @@
         "answer": "¿Tenéis opciones veganas? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_232.mp3",
-        "audio_dir": "¿Tenéis opciones veganas? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -699,7 +699,7 @@
         "answer": "¿Quieres una bolsa? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_219.mp3",
-        "audio_dir": "¿Quieres una bolsa? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -710,14 +710,14 @@
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "4 Everyday questions",
-        "native_answer": "Paper or plastic? paper",
+        "native_answer": "Paper or plastic? paper​",
         "native_word": "question",
         "tag": "question",
         "prompt": "¿Papel o plástico? ______",
-        "answer": "¿Papel o plástico? papel",
-        "goal_words": "papel",
+        "answer": "¿Papel o plástico? papel​",
+        "goal_words": "papel​",
         "audio_filename": "line5jan26_es_147.mp3",
-        "audio_dir": "¿Papel o plástico? papel"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -728,14 +728,14 @@
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "4 Everyday questions",
-        "native_answer": "Cash or card? cash",
+        "native_answer": "Cash or card? cash​",
         "native_word": "question",
         "tag": "question",
         "prompt": "¿Efectivo o tarjeta? ______",
         "answer": "¿Efectivo o tarjeta? dinero",
         "goal_words": "dinero",
         "audio_filename": "line5jan26_es_109.mp3",
-        "audio_dir": "¿Efectivo o tarjeta? dinero"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -753,7 +753,7 @@
         "answer": "¿Necesitas ayuda para encontrar algo? Estoy buscando pendientes",
         "goal_words": "Estoy buscando pendientes",
         "audio_filename": "line5jan26_es_142.mp3",
-        "audio_dir": "¿Necesitas ayuda para encontrar algo? Estoy buscando pendientes"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -764,14 +764,14 @@
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "4 Everyday questions",
-        "native_answer": "Is this for here or to go? to go",
+        "native_answer": "Is this for here or to go? to go​",
         "native_word": "question",
         "tag": "question",
         "prompt": "¿Esto es para aquí o para llevar? ______",
         "answer": "¿Esto es para aquí o para llevar? ir",
         "goal_words": "ir",
         "audio_filename": "line5jan26_es_125.mp3",
-        "audio_dir": "¿Esto es para aquí o para llevar? ir"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -789,7 +789,7 @@
         "answer": "¿Cuántos billetes necesitas? dos entradas",
         "goal_words": "dos entradas",
         "audio_filename": "line5jan26_es_83.mp3",
-        "audio_dir": "¿Cuántos billetes necesitas? dos entradas"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -807,7 +807,7 @@
         "answer": "¿Tienes una tarjeta de fidelización? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_243.mp3",
-        "audio_dir": "¿Tienes una tarjeta de fidelización? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -825,7 +825,7 @@
         "answer": "¿Puedo ver tu identificación? aquí",
         "goal_words": "aquí",
         "audio_filename": "line5jan26_es_180.mp3",
-        "audio_dir": "¿Puedo ver tu identificación? aquí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -843,7 +843,7 @@
         "answer": "¿Quieres un recibo? sí, por favor",
         "goal_words": "sí,  por favor",
         "audio_filename": "line5jan26_es_217.mp3",
-        "audio_dir": "¿Quieres un recibo? sí, por favor"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -861,7 +861,7 @@
         "answer": "¿Necesitas indicaciones? No sé a dónde ir",
         "goal_words": "No sé a dónde ir",
         "audio_filename": "line5jan26_es_144.mp3",
-        "audio_dir": "¿Necesitas indicaciones? No sé a dónde ir"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -879,7 +879,7 @@
         "answer": "¿Desea pedir? Voy a ordenar",
         "goal_words": "Voy a ordenar",
         "audio_filename": "line5jan26_es_98.mp3",
-        "audio_dir": "¿Desea pedir? Voy a ordenar"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -897,7 +897,7 @@
         "answer": "¿Eso será todo? He terminado",
         "goal_words": "He terminado",
         "audio_filename": "line5jan26_es_113.mp3",
-        "audio_dir": "¿Eso será todo? He terminado"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -915,7 +915,7 @@
         "answer": "¿Tienes otra talla? Tenemos muchos tamaños",
         "goal_words": "Tenemos muchos tamaños",
         "audio_filename": "line5jan26_es_242.mp3",
-        "audio_dir": "¿Tienes otra talla? Tenemos muchos tamaños"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -933,7 +933,7 @@
         "answer": "¿Cómo se dice esto en inglés? hamburguesa",
         "goal_words": "hamburguesa",
         "audio_filename": "line5jan26_es_33.mp3",
-        "audio_dir": "¿Cómo se dice esto en inglés? hamburguesa"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -951,7 +951,7 @@
         "answer": "¿Cómo se llama este lugar? McDonald's",
         "goal_words": "McDonald's",
         "audio_filename": "line5jan26_es_35.mp3",
-        "audio_dir": "¿Cómo se llama este lugar? McDonald's"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -969,7 +969,7 @@
         "answer": "¿Qué te trae por aquí? trabajar",
         "goal_words": "trabajar",
         "audio_filename": "line5jan26_es_203.mp3",
-        "audio_dir": "¿Qué te trae por aquí? trabajar"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -987,7 +987,7 @@
         "answer": "¿Con quién estás aquí? mi cónyuge",
         "goal_words": "mi cónyuge",
         "audio_filename": "line5jan26_es_49.mp3",
-        "audio_dir": "¿Con quién estás aquí? mi cónyuge"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1005,7 +1005,7 @@
         "answer": "¿Cómo te llamas? John Smith",
         "goal_words": "John Smith",
         "audio_filename": "line5jan26_es_39.mp3",
-        "audio_dir": "¿Cómo te llamas? John Smith"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1023,7 +1023,7 @@
         "answer": "¿De dónde eres? Estados Unidos",
         "goal_words": "Estados Unidos",
         "audio_filename": "line5jan26_es_85.mp3",
-        "audio_dir": "¿De dónde eres? Estados Unidos"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1041,7 +1041,7 @@
         "answer": "¿Cuántos años tiene? tres años",
         "goal_words": "tres años",
         "audio_filename": "line5jan26_es_81.mp3",
-        "audio_dir": "¿Cuántos años tiene? tres años"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1059,7 +1059,7 @@
         "answer": "¿Cómo estás? cansado",
         "goal_words": "cansado",
         "audio_filename": "line5jan26_es_26.mp3",
-        "audio_dir": "¿Cómo estás? cansado"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1077,7 +1077,7 @@
         "answer": "¿Me entiendes? Sí, te entiendo",
         "goal_words": "Sí,  te entiendo",
         "audio_filename": "line5jan26_es_137.mp3",
-        "audio_dir": "¿Me entiendes? Sí, te entiendo"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1095,7 +1095,7 @@
         "answer": "¿Dónde vive? en una casa",
         "goal_words": "en una casa",
         "audio_filename": "line5jan26_es_107.mp3",
-        "audio_dir": "¿Dónde vive? en una casa"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1113,7 +1113,7 @@
         "answer": "¿A qué te dedicas? construcción",
         "goal_words": "construcción",
         "audio_filename": "line5jan26_es_9.mp3",
-        "audio_dir": "¿A qué te dedicas? construcción"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1131,7 +1131,7 @@
         "answer": "¿Está casado? Sí, estoy casada",
         "goal_words": "Sí,  estoy casada",
         "audio_filename": "line5jan26_es_115.mp3",
-        "audio_dir": "¿Está casado? Sí, estoy casada"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1149,7 +1149,7 @@
         "answer": "¿Tienes hijos? Sí, tengo un hijo",
         "goal_words": "Sí,  tengo un hijo",
         "audio_filename": "line5jan26_es_239.mp3",
-        "audio_dir": "¿Tienes hijos? Sí, tengo un hijo"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1167,7 +1167,7 @@
         "answer": "¿Cuál es tu número de teléfono? nueve uno uno",
         "goal_words": "nueve uno uno",
         "audio_filename": "line5jan26_es_67.mp3",
-        "audio_dir": "¿Cuál es tu número de teléfono? nueve uno uno"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1185,7 +1185,7 @@
         "answer": "¿Dónde está la estación de tren? Sigue la señal",
         "goal_words": "Sigue la señal",
         "audio_filename": "line5jan26_es_103.mp3",
-        "audio_dir": "¿Dónde está la estación de tren? Sigue la señal"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1203,7 +1203,7 @@
         "answer": "¿Hay una parada de autobús cerca? Sí, la parada del autobús está allí.",
         "goal_words": "Sí,  la parada del autobús está allí.",
         "audio_filename": "line5jan26_es_136.mp3",
-        "audio_dir": "¿Hay una parada de autobús cerca? Sí, la parada del autobús está allí."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1221,7 +1221,7 @@
         "answer": "¿Podría recomendarme un buen restaurante? ¿Te gustan los tacos?",
         "goal_words": "¿Te gustan los tacos?",
         "audio_filename": "line5jan26_es_148.mp3",
-        "audio_dir": "¿Podría recomendarme un buen restaurante? ¿Te gustan los tacos?"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1239,7 +1239,7 @@
         "answer": "¿Cuál es tu comida favorita? pizza",
         "goal_words": "pizza",
         "audio_filename": "line5jan26_es_61.mp3",
-        "audio_dir": "¿Cuál es tu comida favorita? pizza"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1257,7 +1257,7 @@
         "answer": "¿Cuál es tu color favorito? verde",
         "goal_words": "verde",
         "audio_filename": "line5jan26_es_60.mp3",
-        "audio_dir": "¿Cuál es tu color favorito? verde"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1275,7 +1275,7 @@
         "answer": "¿Tienes hermanos? Sí, tengo una hermana.",
         "goal_words": "Sí,  tengo una hermana.",
         "audio_filename": "line5jan26_es_238.mp3",
-        "audio_dir": "¿Tienes hermanos? Sí, tengo una hermana."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1293,7 +1293,7 @@
         "answer": "¿Cuales son tus aficiones? Yo toco el violín",
         "goal_words": "Yo toco el violín",
         "audio_filename": "line5jan26_es_73.mp3",
-        "audio_dir": "¿Cuales son tus aficiones? Yo toco el violín"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1311,7 +1311,7 @@
         "answer": "¿Cuándo es tu cumpleaños? primero de abril",
         "goal_words": "primero de abril",
         "audio_filename": "line5jan26_es_75.mp3",
-        "audio_dir": "¿Cuándo es tu cumpleaños? primero de abril"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1329,7 +1329,7 @@
         "answer": "¿Podrías escribirlo, por favor? Sí, puedo escribirlo",
         "goal_words": "Sí,  puedo escribirlo",
         "audio_filename": "line5jan26_es_150.mp3",
-        "audio_dir": "¿Podrías escribirlo, por favor? Sí, puedo escribirlo"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1347,7 +1347,7 @@
         "answer": "¿Cuál es tu película favorita? la matriz",
         "goal_words": "la matriz",
         "audio_filename": "line5jan26_es_68.mp3",
-        "audio_dir": "¿Cuál es tu película favorita? la matriz"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1365,7 +1365,7 @@
         "answer": "¿Cuál es tu libro favorito? la Ilíada",
         "goal_words": "la Ilíada",
         "audio_filename": "line5jan26_es_65.mp3",
-        "audio_dir": "¿Cuál es tu libro favorito? la Ilíada"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1383,7 +1383,7 @@
         "answer": "¿Qué tipo de música te gusta? jazz",
         "goal_words": "jazz",
         "audio_filename": "line5jan26_es_209.mp3",
-        "audio_dir": "¿Qué tipo de música te gusta? jazz"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1401,7 +1401,7 @@
         "answer": "¿Es usted un estudiante? Sí, soy estudiante",
         "goal_words": "Sí,  soy estudiante",
         "audio_filename": "line5jan26_es_111.mp3",
-        "audio_dir": "¿Es usted un estudiante? Sí, soy estudiante"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1419,7 +1419,7 @@
         "answer": "¿Tienes mascotas? un perro",
         "goal_words": "un perro",
         "audio_filename": "line5jan26_es_240.mp3",
-        "audio_dir": "¿Tienes mascotas? un perro"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1437,7 +1437,7 @@
         "answer": "¿Te gusta el fútbol? Sí, soy fan",
         "goal_words": "Sí,  soy fan",
         "audio_filename": "line5jan26_es_224.mp3",
-        "audio_dir": "¿Te gusta el fútbol? Sí, soy fan"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1455,7 +1455,7 @@
         "answer": "¿Hay algún descuento? Sí, cincuenta por ciento",
         "goal_words": "Sí,  cincuenta por ciento",
         "audio_filename": "line5jan26_es_133.mp3",
-        "audio_dir": "¿Hay algún descuento? Sí, cincuenta por ciento"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1473,7 +1473,7 @@
         "answer": "¿Dónde está el cajero automático más cercano? Hay un cajero automático afuera",
         "goal_words": "Hay un cajero automático afuera",
         "audio_filename": "line5jan26_es_101.mp3",
-        "audio_dir": "¿Dónde está el cajero automático más cercano? Hay un cajero automático afuera"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1491,7 +1491,7 @@
         "answer": "¿Cual es la direccion? cuarenta y cuatro",
         "goal_words": "cuarenta y cuatro",
         "audio_filename": "line5jan26_es_55.mp3",
-        "audio_dir": "¿Cual es la direccion? cuarenta y cuatro"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1509,7 +1509,7 @@
         "answer": "¿Puedo tomar prestado esto? Sí, es gratis",
         "goal_words": "Sí,  es gratis",
         "audio_filename": "line5jan26_es_175.mp3",
-        "audio_dir": "¿Puedo tomar prestado esto? Sí, es gratis"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1527,7 +1527,7 @@
         "answer": "¿Cómo se deletrea eso? W. E. L. D. A.",
         "goal_words": "W. E. L. D. A.",
         "audio_filename": "line5jan26_es_32.mp3",
-        "audio_dir": "¿Cómo se deletrea eso? W. E. L. D. A."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1545,7 +1545,7 @@
         "answer": "¿Qué tengo que hacer? levanta la mano",
         "goal_words": "levanta la mano",
         "audio_filename": "line5jan26_es_204.mp3",
-        "audio_dir": "¿Qué tengo que hacer? levanta la mano"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1563,7 +1563,7 @@
         "answer": "¿Puedes llamarme un taxi? No, mi teléfono está roto.",
         "goal_words": "No,  mi teléfono está roto.",
         "audio_filename": "line5jan26_es_158.mp3",
-        "audio_dir": "¿Puedes llamarme un taxi? No, mi teléfono está roto."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1581,7 +1581,7 @@
         "answer": "¿Cuál es el número de emergencia? nueve uno uno",
         "goal_words": "nueve uno uno",
         "audio_filename": "line5jan26_es_52.mp3",
-        "audio_dir": "¿Cuál es el número de emergencia? nueve uno uno"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1599,7 +1599,7 @@
         "answer": "¿Esto es picante? Sí, tiene pimientos picantes.",
         "goal_words": "Sí,  tiene pimientos picantes.",
         "audio_filename": "line5jan26_es_126.mp3",
-        "audio_dir": "¿Esto es picante? Sí, tiene pimientos picantes."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1617,7 +1617,7 @@
         "answer": "¿Estás listo? No, me estoy preparando",
         "goal_words": "No,  me estoy preparando",
         "audio_filename": "line5jan26_es_122.mp3",
-        "audio_dir": "¿Estás listo? No, me estoy preparando"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1635,7 +1635,7 @@
         "answer": "¿Cómo pronuncio esto? No sé",
         "goal_words": "No sé",
         "audio_filename": "line5jan26_es_30.mp3",
-        "audio_dir": "¿Cómo pronuncio esto? No sé"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1653,7 +1653,7 @@
         "answer": "¿Te gusta vivir aquí? Sí, es pacífico",
         "goal_words": "Sí,  es pacífico",
         "audio_filename": "line5jan26_es_229.mp3",
-        "audio_dir": "¿Te gusta vivir aquí? Sí, es pacífico"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1671,7 +1671,7 @@
         "answer": "¿Cuál es tu fiesta favorita? Navidad",
         "goal_words": "Navidad",
         "audio_filename": "line5jan26_es_64.mp3",
-        "audio_dir": "¿Cuál es tu fiesta favorita? Navidad"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1689,7 +1689,7 @@
         "answer": "¿Puedo sentarme aquí? No, el asiento está ocupado.",
         "goal_words": "No,  el asiento está ocupado.",
         "audio_filename": "line5jan26_es_171.mp3",
-        "audio_dir": "¿Puedo sentarme aquí? No, el asiento está ocupado."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1707,7 +1707,7 @@
         "answer": "¿Cuál es tu deporte favorito? fútbol",
         "goal_words": "fútbol",
         "audio_filename": "line5jan26_es_62.mp3",
-        "audio_dir": "¿Cuál es tu deporte favorito? fútbol"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1725,7 +1725,7 @@
         "answer": "¿Existen reglas que deba conocer? No fumar",
         "goal_words": "No fumar",
         "audio_filename": "line5jan26_es_127.mp3",
-        "audio_dir": "¿Existen reglas que deba conocer? No fumar"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1743,7 +1743,7 @@
         "answer": "¿Cuál es tu bebida favorita? zumo de naranja",
         "goal_words": "zumo de naranja",
         "audio_filename": "line5jan26_es_58.mp3",
-        "audio_dir": "¿Cuál es tu bebida favorita? zumo de naranja"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1761,7 +1761,7 @@
         "answer": "¿Cómo se llama esto? un caballero",
         "goal_words": "un caballero",
         "audio_filename": "line5jan26_es_36.mp3",
-        "audio_dir": "¿Cómo se llama esto? un caballero"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1779,7 +1779,7 @@
         "answer": "¿Tienes hambre? Sí, tengo hambre",
         "goal_words": "Sí,  tengo hambre",
         "audio_filename": "line5jan26_es_237.mp3",
-        "audio_dir": "¿Tienes hambre? Sí, tengo hambre"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1797,7 +1797,7 @@
         "answer": "¿Cuál es tu lugar favorito de la ciudad? el acuario",
         "goal_words": "el acuario",
         "audio_filename": "line5jan26_es_66.mp3",
-        "audio_dir": "¿Cuál es tu lugar favorito de la ciudad? el acuario"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1815,7 +1815,7 @@
         "answer": "¿Qué opinas del presidente? Él es corrupto",
         "goal_words": "Él es corrupto",
         "audio_filename": "line5jan26_es_186.mp3",
-        "audio_dir": "¿Qué opinas del presidente? Él es corrupto"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1833,7 +1833,7 @@
         "answer": "¿Puedes recomendarme un buen hotel? Este hotel es agradable",
         "goal_words": "Este hotel es agradable",
         "audio_filename": "line5jan26_es_159.mp3",
-        "audio_dir": "¿Puedes recomendarme un buen hotel? Este hotel es agradable"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1851,7 +1851,7 @@
         "answer": "¿Puedo ayudarte con algo? más agua, por favor",
         "goal_words": "más agua,  por favor",
         "audio_filename": "line5jan26_es_162.mp3",
-        "audio_dir": "¿Puedo ayudarte con algo? más agua, por favor"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1869,7 +1869,7 @@
         "answer": "¿Qué harás mañana? ir de excursión",
         "goal_words": "ir de excursión",
         "audio_filename": "line5jan26_es_183.mp3",
-        "audio_dir": "¿Qué harás mañana? ir de excursión"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1887,7 +1887,7 @@
         "answer": "¿Te gusta viajar? Es agotador",
         "goal_words": "Es agotador",
         "audio_filename": "line5jan26_es_228.mp3",
-        "audio_dir": "¿Te gusta viajar? Es agotador"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1905,7 +1905,7 @@
         "answer": "¿Has estado en el restaurante antes? No, es mi primera vez.",
         "goal_words": "No,  es mi primera vez.",
         "audio_filename": "line5jan26_es_129.mp3",
-        "audio_dir": "¿Has estado en el restaurante antes? No, es mi primera vez."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1923,7 +1923,7 @@
         "answer": "¿Qué suele comer la gente aquí? pizza",
         "goal_words": "pizza",
         "audio_filename": "line5jan26_es_190.mp3",
-        "audio_dir": "¿Qué suele comer la gente aquí? pizza"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1941,7 +1941,7 @@
         "answer": "¿Hay algún festival en marcha ahora? Oktoberfest",
         "goal_words": "Oktoberfest",
         "audio_filename": "line5jan26_es_134.mp3",
-        "audio_dir": "¿Hay algún festival en marcha ahora? Oktoberfest"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1959,7 +1959,7 @@
         "answer": "¿Cuál es tu estación favorita? verano",
         "goal_words": "verano",
         "audio_filename": "line5jan26_es_63.mp3",
-        "audio_dir": "¿Cuál es tu estación favorita? verano"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1977,7 +1977,7 @@
         "answer": "¿Cuál es la moneda aquí? dólares",
         "goal_words": "dólares",
         "audio_filename": "line5jan26_es_57.mp3",
-        "audio_dir": "¿Cuál es la moneda aquí? dólares"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -1995,7 +1995,7 @@
         "answer": "¿Cómo uso el autobús? encontrar una parada de autobús",
         "goal_words": "encontrar una parada de autobús",
         "audio_filename": "line5jan26_es_45.mp3",
-        "audio_dir": "¿Cómo uso el autobús? encontrar una parada de autobús"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2013,7 +2013,7 @@
         "answer": "¿Puedes recomendarme un buen sendero? monte Olimpo",
         "goal_words": "monte Olimpo",
         "audio_filename": "line5jan26_es_160.mp3",
-        "audio_dir": "¿Puedes recomendarme un buen sendero? monte Olimpo"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2031,7 +2031,7 @@
         "answer": "¿Qué sueles hacer los fines de semana? ir a esquiar",
         "goal_words": "ir a esquiar",
         "audio_filename": "line5jan26_es_193.mp3",
-        "audio_dir": "¿Qué sueles hacer los fines de semana? ir a esquiar"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2049,7 +2049,7 @@
         "answer": "¿Cuál es el monumento más famoso aquí? Torre Eiffel",
         "goal_words": "Torre Eiffel",
         "audio_filename": "line5jan26_es_51.mp3",
-        "audio_dir": "¿Cuál es el monumento más famoso aquí? Torre Eiffel"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2067,7 +2067,7 @@
         "answer": "¿Tienes algún consejo para aprender el idioma? música",
         "goal_words": "música",
         "audio_filename": "line5jan26_es_236.mp3",
-        "audio_dir": "¿Tienes algún consejo para aprender el idioma? música"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2085,7 +2085,7 @@
         "answer": "¿Cuál es la mejor manera de llegar a la tienda? tomar el autobús",
         "goal_words": "tomar el autobús",
         "audio_filename": "line5jan26_es_56.mp3",
-        "audio_dir": "¿Cuál es la mejor manera de llegar a la tienda? tomar el autobús"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2103,7 +2103,7 @@
         "answer": "¿Cómo va tu día? es bueno",
         "goal_words": "es bueno",
         "audio_filename": "line5jan26_es_46.mp3",
-        "audio_dir": "¿Cómo va tu día? es bueno"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2121,7 +2121,7 @@
         "answer": "¿Qué hay de nuevo contigo? Compré una casa nueva",
         "goal_words": "Compré una casa nueva",
         "audio_filename": "line5jan26_es_184.mp3",
-        "audio_dir": "¿Qué hay de nuevo contigo? Compré una casa nueva"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2139,7 +2139,7 @@
         "answer": "¿De donde eres originalmente? Texas",
         "goal_words": "Texas",
         "audio_filename": "line5jan26_es_84.mp3",
-        "audio_dir": "¿De donde eres originalmente? Texas"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2157,7 +2157,7 @@
         "answer": "¿Te gusta aquí? Está lleno de gente",
         "goal_words": "Está lleno de gente",
         "audio_filename": "line5jan26_es_222.mp3",
-        "audio_dir": "¿Te gusta aquí? Está lleno de gente"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2175,7 +2175,7 @@
         "answer": "¿Qué te gusta hacer los fines de semana? ir a esquiar",
         "goal_words": "ir a esquiar",
         "audio_filename": "line5jan26_es_199.mp3",
-        "audio_dir": "¿Qué te gusta hacer los fines de semana? ir a esquiar"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2193,7 +2193,7 @@
         "answer": "¿Cómo se escribe tu apellido? S.M.I.T.H.",
         "goal_words": "S.M.I.T.H.",
         "audio_filename": "line5jan26_es_34.mp3",
-        "audio_dir": "¿Cómo se escribe tu apellido? S.M.I.T.H."
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2211,7 +2211,7 @@
         "answer": "¿Cuál es tu trabajo? doctor",
         "goal_words": "doctor",
         "audio_filename": "line5jan26_es_71.mp3",
-        "audio_dir": "¿Cuál es tu trabajo? doctor"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2229,7 +2229,7 @@
         "answer": "¿Te gusta tu trabajo? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_227.mp3",
-        "audio_dir": "¿Te gusta tu trabajo? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2247,7 +2247,7 @@
         "answer": "¿Qué estudiaste? ley",
         "goal_words": "ley",
         "audio_filename": "line5jan26_es_181.mp3",
-        "audio_dir": "¿Qué estudiaste? ley"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2265,7 +2265,7 @@
         "answer": "¿A qué escuela fuiste? París",
         "goal_words": "París",
         "audio_filename": "line5jan26_es_3.mp3",
-        "audio_dir": "¿A qué escuela fuiste? París"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2276,14 +2276,14 @@
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "4 Everyday questions",
-        "native_answer": "Are you studying now? no",
+        "native_answer": "Are you studying now? no​",
         "native_word": "question",
         "tag": "question",
         "prompt": "¿Estas estudiando ahora? ______",
         "answer": "¿Estas estudiando ahora? No",
         "goal_words": "No",
         "audio_filename": "line5jan26_es_121.mp3",
-        "audio_dir": "¿Estas estudiando ahora? No"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2301,7 +2301,7 @@
         "answer": "¿Cuál es el trabajo de tus sueños? astronauta",
         "goal_words": "astronauta",
         "audio_filename": "line5jan26_es_54.mp3",
-        "audio_dir": "¿Cuál es el trabajo de tus sueños? astronauta"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2319,7 +2319,7 @@
         "answer": "¿Donde naciste? Canadá",
         "goal_words": "Canadá",
         "audio_filename": "line5jan26_es_105.mp3",
-        "audio_dir": "¿Donde naciste? Canadá"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2337,7 +2337,7 @@
         "answer": "¿A qué hora te despiertas habitualmente? antes de las 6:00",
         "goal_words": "antes de las 6:00",
         "audio_filename": "line5jan26_es_8.mp3",
-        "audio_dir": "¿A qué hora te despiertas habitualmente? antes de las 6:00"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2355,7 +2355,7 @@
         "answer": "¿Cómo llegas al trabajo? en bicicleta",
         "goal_words": "en bicicleta",
         "audio_filename": "line5jan26_es_27.mp3",
-        "audio_dir": "¿Cómo llegas al trabajo? en bicicleta"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2373,7 +2373,7 @@
         "answer": "¿Qué sueles comer en el desayuno? cereal",
         "goal_words": "cereal",
         "audio_filename": "line5jan26_es_192.mp3",
-        "audio_dir": "¿Qué sueles comer en el desayuno? cereal"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2391,7 +2391,7 @@
         "answer": "¿Cocinas en casa? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_12.mp3",
-        "audio_dir": "¿Cocinas en casa? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2409,7 +2409,7 @@
         "answer": "¿Con qué frecuencia haces ejercicio? entre semana",
         "goal_words": "entre semana",
         "audio_filename": "line5jan26_es_48.mp3",
-        "audio_dir": "¿Con qué frecuencia haces ejercicio? entre semana"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2427,7 +2427,7 @@
         "answer": "¿Qué te gusta leer? fantasía",
         "goal_words": "fantasía",
         "audio_filename": "line5jan26_es_200.mp3",
-        "audio_dir": "¿Qué te gusta leer? fantasía"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2445,7 +2445,7 @@
         "answer": "¿Qué haces en tu tiempo libre? ver la televisión",
         "goal_words": "ver la televisión",
         "audio_filename": "line5jan26_es_182.mp3",
-        "audio_dir": "¿Qué haces en tu tiempo libre? ver la televisión"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2463,7 +2463,7 @@
         "answer": "¿Qué ves en la televisión? las noticias",
         "goal_words": "las noticias",
         "audio_filename": "line5jan26_es_215.mp3",
-        "audio_dir": "¿Qué ves en la televisión? las noticias"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2481,7 +2481,7 @@
         "answer": "¿Cómo pasas tus fines de semana? trabajo",
         "goal_words": "trabajo",
         "audio_filename": "line5jan26_es_29.mp3",
-        "audio_dir": "¿Cómo pasas tus fines de semana? trabajo"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2499,7 +2499,7 @@
         "answer": "¿Sales a menudo? el fin de semana",
         "goal_words": "el fin de semana",
         "audio_filename": "line5jan26_es_221.mp3",
-        "audio_dir": "¿Sales a menudo? el fin de semana"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2517,7 +2517,7 @@
         "answer": "¿Has viajado al extranjero? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_131.mp3",
-        "audio_dir": "¿Has viajado al extranjero? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2535,7 +2535,7 @@
         "answer": "¿Qué países has visitado? España y Portugal",
         "goal_words": "España y Portugal",
         "audio_filename": "line5jan26_es_188.mp3",
-        "audio_dir": "¿Qué países has visitado? España y Portugal"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2553,7 +2553,7 @@
         "answer": "¿A dónde te gustaría ir después? Irlanda",
         "goal_words": "Irlanda",
         "audio_filename": "line5jan26_es_1.mp3",
-        "audio_dir": "¿A dónde te gustaría ir después? Irlanda"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2571,7 +2571,7 @@
         "answer": "¿Cual es tu ciudad favorita? París",
         "goal_words": "París",
         "audio_filename": "line5jan26_es_59.mp3",
-        "audio_dir": "¿Cual es tu ciudad favorita? París"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2589,7 +2589,7 @@
         "answer": "¿Te gusta la playa o la montaña? Me gusta la playa",
         "goal_words": "Me gusta la playa",
         "audio_filename": "line5jan26_es_226.mp3",
-        "audio_dir": "¿Te gusta la playa o la montaña? Me gusta la playa"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2603,11 +2603,11 @@
         "native_answer": "How do you usually travel — by plane, car, or train? by car",
         "native_word": "question",
         "tag": "question",
-        "prompt": "¿Cómo viajas habitualmente: en avión, ______ o en tren? ______",
-        "answer": "¿Cómo viajas habitualmente: en avión, en coche o en tren? en coche",
-        "goal_words": "en coche",
+        "prompt": "¿Cómo viajas habitualmente: en avión, en coche o en tren? ______",
+        "answer": "¿Cómo viajas habitualmente: en avión, en coche o en tren? en coche​",
+        "goal_words": "en coche​",
         "audio_filename": "line5jan26_es_47.mp3",
-        "audio_dir": "¿Cómo viajas habitualmente: en avión, en coche o en tren? en coche"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2625,7 +2625,7 @@
         "answer": "¿Estas perdido? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_123.mp3",
-        "audio_dir": "¿Estas perdido? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2643,7 +2643,7 @@
         "answer": "¿Cuáles fueron tus mejores vacaciones? Australia",
         "goal_words": "Australia",
         "audio_filename": "line5jan26_es_72.mp3",
-        "audio_dir": "¿Cuáles fueron tus mejores vacaciones? Australia"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2661,7 +2661,7 @@
         "answer": "¿Te gustan los viajes por carretera? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_230.mp3",
-        "audio_dir": "¿Te gustan los viajes por carretera? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2679,7 +2679,7 @@
         "answer": "¿Cuál es el lugar más bonito que has visto? Alaska",
         "goal_words": "Alaska",
         "audio_filename": "line5jan26_es_50.mp3",
-        "audio_dir": "¿Cuál es el lugar más bonito que has visto? Alaska"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2697,7 +2697,7 @@
         "answer": "¿Te gusta la comida picante? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_225.mp3",
-        "audio_dir": "¿Te gusta la comida picante? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2715,7 +2715,7 @@
         "answer": "¿Cuál es tu restaurante favorito? Se llama la baraja",
         "goal_words": "Se llama la baraja",
         "audio_filename": "line5jan26_es_70.mp3",
-        "audio_dir": "¿Cuál es tu restaurante favorito? Se llama la baraja"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2726,14 +2726,14 @@
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "4 Everyday questions",
-        "native_answer": "Do you prefer coffee or tea? coffee",
+        "native_answer": "Do you prefer coffee or tea? coffee​",
         "native_word": "question",
         "tag": "question",
-        "prompt": "¿Prefieres ______ o té? ______",
-        "answer": "¿Prefieres café o té? café",
-        "goal_words": "café",
+        "prompt": "¿Prefieres café o té? ______",
+        "answer": "¿Prefieres café o té? café​",
+        "goal_words": "café​",
         "audio_filename": "line5jan26_es_153.mp3",
-        "audio_dir": "¿Prefieres café o té? café"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2751,7 +2751,7 @@
         "answer": "¿Sabes cocinar? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_220.mp3",
-        "audio_dir": "¿Sabes cocinar? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2769,7 +2769,7 @@
         "answer": "¿Cuál es tu plato favorito? Parilla",
         "goal_words": "Parilla",
         "audio_filename": "line5jan26_es_69.mp3",
-        "audio_dir": "¿Cuál es tu plato favorito? Parilla"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2787,7 +2787,7 @@
         "answer": "¿Qué te gustaría de postre? helado",
         "goal_words": "helado",
         "audio_filename": "line5jan26_es_201.mp3",
-        "audio_dir": "¿Qué te gustaría de postre? helado"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2805,7 +2805,7 @@
         "answer": "¿Qué sueles comer en el almuerzo? ensalada",
         "goal_words": "ensalada",
         "audio_filename": "line5jan26_es_191.mp3",
-        "audio_dir": "¿Qué sueles comer en el almuerzo? ensalada"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2823,7 +2823,7 @@
         "answer": "¿Qué opinas? No sé",
         "goal_words": "No sé",
         "audio_filename": "line5jan26_es_187.mp3",
-        "audio_dir": "¿Qué opinas? No sé"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2841,7 +2841,7 @@
         "answer": "¿Estás de acuerdo conmigo? No",
         "goal_words": "No",
         "audio_filename": "line5jan26_es_119.mp3",
-        "audio_dir": "¿Estás de acuerdo conmigo? No"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2859,7 +2859,7 @@
         "answer": "¿Puedes explicarlo otra vez? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_155.mp3",
-        "audio_dir": "¿Puedes explicarlo otra vez? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2877,7 +2877,7 @@
         "answer": "¿Te gusta conocer gente nueva? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_223.mp3",
-        "audio_dir": "¿Te gusta conocer gente nueva? Sí"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2895,7 +2895,7 @@
         "answer": "¿Qué te hace reír? payasos",
         "goal_words": "payasos",
         "audio_filename": "line5jan26_es_202.mp3",
-        "audio_dir": "¿Qué te hace reír? payasos"
+        "learning_tag": "pregunta"
     },
     {
         "level": 4.0,
@@ -2913,6 +2913,6 @@
         "answer": "¿Puedes guardar un secreto? Sí",
         "goal_words": "Sí",
         "audio_filename": "line5jan26_es_156.mp3",
-        "audio_dir": "¿Puedes guardar un secreto? Sí"
+        "learning_tag": "pregunta"
     }
 ]

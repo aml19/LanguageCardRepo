@@ -1,24 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "little.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - a crab's adventure",
-        "native_answer": "big and little kid",
-        "native_word": "adjective - size",
-        "tag": "adjective - size",
-        "prompt": "grand et ______ enfant",
-        "answer": "grand et petit enfant",
-        "goal_words": "petit",
-        "audio_filename": "line2_fr_280.mp3",
-        "audio_dir": "grand et petit enfant"
-    },
-    {
-        "level": 4.0,
         "image_filename": "sandy.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -33,7 +15,7 @@
         "answer": "pieds sablonneux",
         "goal_words": "sablonneux",
         "audio_filename": "line4_fr_645.mp3",
-        "audio_dir": "pieds sablonneux"
+        "learning_tag": "adjectif - Texture"
     },
     {
         "level": 4.0,
@@ -51,7 +33,7 @@
         "answer": "puissante tempête",
         "goal_words": "puissant",
         "audio_filename": "line4_fr_737.mp3",
-        "audio_dir": "puissante tempête"
+        "learning_tag": "adjectif - qualité"
     },
     {
         "level": 4.0,
@@ -69,7 +51,7 @@
         "answer": "tourbillonnant",
         "goal_words": "tourbillonnant",
         "audio_filename": "line5_fr_156.mp3",
-        "audio_dir": "tourbillonnant"
+        "learning_tag": "adjectif - mouvement"
     },
     {
         "level": 4.0,
@@ -87,7 +69,7 @@
         "answer": "motif coloré",
         "goal_words": "coloré",
         "audio_filename": "line4_fr_69.mp3",
-        "audio_dir": "motif coloré"
+        "learning_tag": "adjectif - Couleur"
     },
     {
         "level": 4.0,
@@ -101,11 +83,11 @@
         "native_answer": "frightened: scared or afraid",
         "native_word": "adjective -  Feeling emotion",
         "tag": "adjective -  Feeling emotion",
-        "prompt": "______ : ______ ou ayant peur",
-        "answer": "effrayé : effrayé ou ayant peur",
-        "goal_words": "effrayé",
+        "prompt": "effrayé : ______ ou ayant peur",
+        "answer": "effrayé : effrayé​ ou ayant peur",
+        "goal_words": "effrayé​",
         "audio_filename": "line_fr_864.mp3",
-        "audio_dir": "effrayé : effrayé ou ayant peur"
+        "learning_tag": "adjectif - Ressentir une émotion"
     },
     {
         "level": 4.0,
@@ -123,7 +105,7 @@
         "answer": "exalté : très heureux, animé ou euphorique.",
         "goal_words": "exalté",
         "audio_filename": "line2_fr_177.mp3",
-        "audio_dir": "exalté : très heureux, animé ou euphorique."
+        "learning_tag": "adjectif - Ressentir une émotion"
     },
     {
         "level": 4.0,
@@ -141,7 +123,7 @@
         "answer": "excitante montagne russe",
         "goal_words": "excitante",
         "audio_filename": "line2_fr_179.mp3",
-        "audio_dir": "excitante montagne russe"
+        "learning_tag": "adjectif - Créer de l'émotion"
     },
     {
         "level": 4.0,
@@ -159,7 +141,7 @@
         "answer": "saut audacieux et dangereux",
         "goal_words": "audacieux",
         "audio_filename": "line4_fr_966.mp3",
-        "audio_dir": "saut audacieux et dangereux"
+        "learning_tag": "adjectif - Comportement"
     },
     {
         "level": 4.0,
@@ -173,11 +155,11 @@
         "native_answer": "once: on one occasion or for one time only.",
         "native_word": "adverb -  Frequency",
         "tag": "adverb -  Frequency",
-        "prompt": "______ : en une seule occasion ou pour une seule fois.",
+        "prompt": "une fois : en une seule occasion ou pour une seule fois.",
         "answer": "une fois : en une seule occasion ou pour une seule fois.",
         "goal_words": "une fois",
         "audio_filename": "line5_fr_639.mp3",
-        "audio_dir": "une fois : en une seule occasion ou pour une seule fois."
+        "learning_tag": "adverbe - Fréquence"
     },
     {
         "level": 4.0,
@@ -195,7 +177,7 @@
         "answer": "tomber soudainement ; rapidement et inattendu.",
         "goal_words": "soudainement",
         "audio_filename": "line5_fr_147.mp3",
-        "audio_dir": "tomber soudainement ; rapidement et inattendu."
+        "learning_tag": "adverbe - Temps"
     },
     {
         "level": 4.0,
@@ -209,11 +191,11 @@
         "native_answer": "eventually",
         "native_word": "adverb -  Time",
         "tag": "adverb -  Time",
-        "prompt": "______: en fin de compte",
+        "prompt": "finalement: en fin de compte",
         "answer": "finalement: en fin de compte",
         "goal_words": "finalement",
         "audio_filename": "line2_fr_237.mp3",
-        "audio_dir": "finalement: en fin de compte"
+        "learning_tag": "adverbe - Temps"
     },
     {
         "level": 4.0,
@@ -231,7 +213,7 @@
         "answer": "les deux joueurs veulent la balle",
         "goal_words": "les deux",
         "audio_filename": "line3_fr_885.mp3",
-        "audio_dir": "les deux joueurs veulent la balle"
+        "learning_tag": "adverbe - Adverbe conjonctionnel"
     },
     {
         "level": 4.0,
@@ -245,65 +227,11 @@
         "native_answer": "you can ask for help whenever you need it",
         "native_word": "adverb -  Conjunctional Adverb",
         "tag": "adverb -  Conjunctional Adverb",
-        "prompt": "vous pouvez demander de l'aide ______ vous en avez besoin",
+        "prompt": "vous pouvez demander de l'aide chaque fois que vous en avez besoin",
         "answer": "vous pouvez demander de l'aide chaque fois que vous en avez besoin",
         "goal_words": "chaque fois que",
         "audio_filename": "line5_fr_853.mp3",
-        "audio_dir": "vous pouvez demander de l'aide chaque fois que vous en avez besoin"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "fish.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - a crab's adventure",
-        "native_answer": "fish",
-        "native_word": "animal",
-        "tag": "animal",
-        "prompt": "______",
-        "answer": "poisson",
-        "goal_words": "poisson",
-        "audio_filename": "line4_fr_667.mp3",
-        "audio_dir": "poisson"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "tired.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - a crab's adventure",
-        "native_answer": "tired",
-        "native_word": "emotions",
-        "tag": "emotions",
-        "prompt": "______",
-        "answer": "fatigué",
-        "goal_words": "fatigué",
-        "audio_filename": "line2_fr_212.mp3",
-        "audio_dir": "fatigué"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "happy_kid.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - a crab's adventure",
-        "native_answer": "happy kid",
-        "native_word": "emotions",
-        "tag": "emotions",
-        "prompt": "enfant ______",
-        "answer": "enfant heureux",
-        "goal_words": "heureux",
-        "audio_filename": "line2_fr_117.mp3",
-        "audio_dir": "enfant heureux"
+        "learning_tag": "adverbe - Adverbe conjonctionnel"
     },
     {
         "level": 4.0,
@@ -321,7 +249,7 @@
         "answer": "Un crabe",
         "goal_words": "crabe",
         "audio_filename": "line5_fr_551.mp3",
-        "audio_dir": "Un crabe"
+        "learning_tag": "nom - Animaux"
     },
     {
         "level": 4.0,
@@ -339,7 +267,7 @@
         "answer": "Le sable",
         "goal_words": "sable",
         "audio_filename": "line3_fr_803.mp3",
-        "audio_dir": "Le sable"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -357,7 +285,7 @@
         "answer": "Un terrier de lapin",
         "goal_words": "terrier",
         "audio_filename": "line5_fr_607.mp3",
-        "audio_dir": "Un terrier de lapin"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -375,7 +303,7 @@
         "answer": "Une plage",
         "goal_words": "plage",
         "audio_filename": "line5_fr_660.mp3",
-        "audio_dir": "Une plage"
+        "learning_tag": "nom - Paysages et terrains"
     },
     {
         "level": 4.0,
@@ -393,7 +321,7 @@
         "answer": "La ligne de rivage : là où la terre et l'océan se rencontrent",
         "goal_words": "ligne de rivage",
         "audio_filename": "line3_fr_455.mp3",
-        "audio_dir": "La ligne de rivage : là où la terre et l'océan se rencontrent"
+        "learning_tag": "nom - Paysages et terrains"
     },
     {
         "level": 4.0,
@@ -411,7 +339,7 @@
         "answer": "Les piscines de marée sont encore sous l'eau",
         "goal_words": "Les piscines de marée",
         "audio_filename": "line3_fr_925.mp3",
-        "audio_dir": "Les piscines de marée sont encore sous l'eau"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -429,7 +357,7 @@
         "answer": "Un goéland",
         "goal_words": "goéland",
         "audio_filename": "line5_fr_566.mp3",
-        "audio_dir": "Un goéland"
+        "learning_tag": "nom - Animaux"
     },
     {
         "level": 4.0,
@@ -447,7 +375,7 @@
         "answer": "Une vague",
         "goal_words": "vague",
         "audio_filename": "line5_fr_671.mp3",
-        "audio_dir": "Une vague"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -465,7 +393,7 @@
         "answer": "L’océan : une très grande étendue de mer",
         "goal_words": "océan",
         "audio_filename": "line3_fr_348.mp3",
-        "audio_dir": "L’océan : une très grande étendue de mer"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -483,7 +411,7 @@
         "answer": "Un courant rapide de la rivière",
         "goal_words": "courant",
         "audio_filename": "line5_fr_550.mp3",
-        "audio_dir": "Un courant rapide de la rivière"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -501,7 +429,7 @@
         "answer": "un voyage : se déplacer quelque part.",
         "goal_words": "voyage",
         "audio_filename": "line5_fr_613.mp3",
-        "audio_dir": "un voyage : se déplacer quelque part."
+        "learning_tag": "nom - Événements"
     },
     {
         "level": 4.0,
@@ -515,11 +443,11 @@
         "native_answer": "adventure: an unusual and exciting, typically hazardous, experience",
         "native_word": "noun - Events",
         "tag": "noun - Events",
-        "prompt": "Une ______ : une expérience inhabituelle et excitante, généralement dangereuse",
+        "prompt": "Une aventure : une expérience inhabituelle et excitante, généralement dangereuse",
         "answer": "Une aventure : une expérience inhabituelle et excitante, généralement dangereuse",
         "goal_words": "aventure",
         "audio_filename": "line5_fr_620.mp3",
-        "audio_dir": "Une aventure : une expérience inhabituelle et excitante, généralement dangereuse"
+        "learning_tag": "nom - Événements"
     },
     {
         "level": 4.0,
@@ -537,7 +465,7 @@
         "answer": "Le rugissement du lion",
         "goal_words": "rugissement",
         "audio_filename": "line3_fr_802.mp3",
-        "audio_dir": "Le rugissement du lion"
+        "learning_tag": "nom - Son et musique"
     },
     {
         "level": 4.0,
@@ -555,7 +483,7 @@
         "answer": "Un mélange de baies",
         "goal_words": "mélange",
         "audio_filename": "line5_fr_576.mp3",
-        "audio_dir": "Un mélange de baies"
+        "learning_tag": "nom - Actions"
     },
     {
         "level": 4.0,
@@ -569,11 +497,11 @@
         "native_answer": "venture: dare to do something or go somewhere that may be dangerous",
         "native_word": "verb - movement",
         "tag": "verb - movement",
-        "prompt": "______ : oser faire quelque chose ou aller quelque part qui peut être dangereux",
+        "prompt": "aventure : oser faire quelque chose ou aller quelque part qui peut être dangereux",
         "answer": "aventure : oser faire quelque chose ou aller quelque part qui peut être dangereux",
         "goal_words": "aventure",
         "audio_filename": "line_fr_361.mp3",
-        "audio_dir": "aventure : oser faire quelque chose ou aller quelque part qui peut être dangereux"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -587,11 +515,11 @@
         "native_answer": "scuttle: run hurriedly or furtively with short quick steps.",
         "native_word": "verb - movement",
         "tag": "verb - movement",
-        "prompt": "______ : courir précipitamment ou furtivement avec des pas courts et rapides.",
+        "prompt": "se précipiter : courir précipitamment ou furtivement avec des pas courts et rapides.",
         "answer": "se précipiter : courir précipitamment ou furtivement avec des pas courts et rapides.",
         "goal_words": "se précipiter",
         "audio_filename": "line4_fr_988.mp3",
-        "audio_dir": "se précipiter : courir précipitamment ou furtivement avec des pas courts et rapides."
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -605,11 +533,11 @@
         "native_answer": "explore a new world",
         "native_word": "verb - movement",
         "tag": "verb - movement",
-        "prompt": "______ un nouveau monde",
+        "prompt": "explorer un nouveau monde",
         "answer": "explorer un nouveau monde",
         "goal_words": "explorer",
         "audio_filename": "line2_fr_189.mp3",
-        "audio_dir": "explorer un nouveau monde"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -627,7 +555,7 @@
         "answer": "chasse par un dinosaure",
         "goal_words": "chasse",
         "audio_filename": "line_fr_560.mp3",
-        "audio_dir": "chasse par un dinosaure"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -645,7 +573,7 @@
         "answer": "balayer",
         "goal_words": "balayer",
         "audio_filename": "line_fr_383.mp3",
-        "audio_dir": "balayer"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -663,7 +591,7 @@
         "answer": "Trouver un indice",
         "goal_words": "Trouver",
         "audio_filename": "line5_fr_247.mp3",
-        "audio_dir": "Trouver un indice"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -675,13 +603,13 @@
         "learning_language": "french",
         "native_group": "4 short story - past tense - a crab's adventure",
         "native_answer": "city surround",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
+        "native_word": "verb - position",
+        "tag": "verb - position",
         "prompt": "______ la ville",
         "answer": "entourer la ville",
         "goal_words": "entourer",
         "audio_filename": "line2_fr_134.mp3",
-        "audio_dir": "entourer la ville"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -699,25 +627,7 @@
         "answer": "monter à cheval",
         "goal_words": "monter",
         "audio_filename": "line4_fr_60.mp3",
-        "audio_dir": "monter à cheval"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "feel_water.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - past tense - a crab's adventure",
-        "native_answer": "feel the water",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "______ l'eau",
-        "answer": "sentir l'eau",
-        "goal_words": "sentir",
-        "audio_filename": "line5_fr_8.mp3",
-        "audio_dir": "sentir l'eau"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -735,7 +645,7 @@
         "answer": "retour à la maison",
         "goal_words": "retour",
         "audio_filename": "line4_fr_862.mp3",
-        "audio_dir": "retour à la maison"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -753,7 +663,7 @@
         "answer": "ramper : se déplacer à genoux et à mains",
         "goal_words": "ramper",
         "audio_filename": "line4_fr_798.mp3",
-        "audio_dir": "ramper : se déplacer à genoux et à mains"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -771,7 +681,7 @@
         "answer": "expérience de réalité virtuelle",
         "goal_words": "expérience",
         "audio_filename": "line2_fr_184.mp3",
-        "audio_dir": "expérience de réalité virtuelle"
+        "learning_tag": "verbe - perception"
     },
     {
         "level": 4.0,
@@ -789,6 +699,6 @@
         "answer": "Se souvenir",
         "goal_words": "Se souvenir",
         "audio_filename": "line4_fr_994.mp3",
-        "audio_dir": "Se souvenir"
+        "learning_tag": "verbe - mental"
     }
 ]

@@ -15,7 +15,7 @@
         "answer": "私は妹の誕生日にプレゼントをもらいました。",
         "goal_words": "もらいました",
         "audio_filename": "line4_ja_182.mp3",
-        "audio_dir": "私は妹の誕生日にプレゼントをもらいました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -33,7 +33,7 @@
         "answer": "あなたはヨーロッパへの旅行に出発しました。",
         "goal_words": "出発しました",
         "audio_filename": "line_ja_342.mp3",
-        "audio_dir": "あなたはヨーロッパへの旅行に出発しました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -51,7 +51,7 @@
         "answer": "彼はクッキージャーからお菓子を取ったことがあります。",
         "goal_words": "取ったことがあります",
         "audio_filename": "line2_ja_995.mp3",
-        "audio_dir": "彼はクッキージャーからお菓子を取ったことがあります。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -69,7 +69,7 @@
         "answer": "彼女は電話でチェックインしました。",
         "goal_words": "チェックインしました",
         "audio_filename": "line3_ja_360.mp3",
-        "audio_dir": "彼女は電話でチェックインしました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -87,7 +87,7 @@
         "answer": "私たちはビーチで水を感じました。",
         "goal_words": "感じました",
         "audio_filename": "line4_ja_5.mp3",
-        "audio_dir": "私たちはビーチで水を感じました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -105,7 +105,7 @@
         "answer": "それは冷蔵庫に入れられました。",
         "goal_words": "入れられました",
         "audio_filename": "line_ja_776.mp3",
-        "audio_dir": "それは冷蔵庫に入れられました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -123,7 +123,7 @@
         "answer": "あなたたちは壊れた椅子を修理するために道具を使いました。",
         "goal_words": "使いました",
         "audio_filename": "line_ja_313.mp3",
-        "audio_dir": "あなたたちは壊れた椅子を修理するために道具を使いました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -141,7 +141,7 @@
         "answer": "私は少なくとも一度はサーフィンを試みました。",
         "goal_words": "試みました",
         "audio_filename": "line4_ja_198.mp3",
-        "audio_dir": "私は少なくとも一度はサーフィンを試みました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -159,11 +159,11 @@
         "answer": "あなたはこの標識を見たことがあります。それは止まるという意味です。",
         "goal_words": "見たことがあります",
         "audio_filename": "line_ja_333.mp3",
-        "audio_dir": "あなたはこの標識を見たことがあります。それは止まるという意味です。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
-        "image_filename": "love_music_f.jpg",
+        "image_filename": "love_music_m.jpg",
         "card_type": "conjugation",
         "identifier": "ID",
         "info": "Japanese does not have a direct equivalent of the present perfect tense. Instead, aspects are often conveyed through context, the use of certain verb forms, and particles.\n\nFormation: The past tense of the verb often suffices.\nExample: \"食べた\" (Tabeta, meaning \"I have eaten\" or \"I ate\").\nUsage: Contextual indicators and additional expressions provide the sense of completeness or relevance to the present.",
@@ -174,10 +174,10 @@
         "native_word": "verb - present perfect",
         "tag": "verb - present perfect",
         "prompt": "彼は子供の頃から音楽が______。",
-        "answer": "彼は子供の頃から音楽が好きでした。",
-        "goal_words": "好きでした",
-        "audio_filename": "line3_ja_29.mp3",
-        "audio_dir": "彼は子供の頃から音楽が好きでした。"
+        "answer": "彼は子供の頃から音楽が大好きです。",
+        "goal_words": "大好きです",
+        "audio_filename": "line27aug2026_ja_230.mp3",
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -195,7 +195,7 @@
         "answer": "彼女は何年もピアノを弾いています。",
         "goal_words": "弾いています",
         "audio_filename": "line3_ja_283.mp3",
-        "audio_dir": "彼女は何年もピアノを弾いています。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -213,7 +213,7 @@
         "answer": "彼らは遠くから私たちを訪ねてきました。",
         "goal_words": "訪ねてきました",
         "audio_filename": "line3_ja_224.mp3",
-        "audio_dir": "彼らは遠くから私たちを訪ねてきました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -231,7 +231,7 @@
         "answer": "私たちは幼稚園以来お互いを知っています。",
         "goal_words": "知っています",
         "audio_filename": "line4_ja_55.mp3",
-        "audio_dir": "私たちは幼稚園以来お互いを知っています。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -249,7 +249,7 @@
         "answer": "あなたたちは指示を明確に理解しました。",
         "goal_words": "理解しました",
         "audio_filename": "line_ja_316.mp3",
-        "audio_dir": "あなたたちは指示を明確に理解しました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -267,7 +267,7 @@
         "answer": "私はあなたの提案について慎重に考えました。",
         "goal_words": "考えました",
         "audio_filename": "line4_ja_134.mp3",
-        "audio_dir": "私はあなたの提案について慎重に考えました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -285,7 +285,7 @@
         "answer": "彼はまた家に鍵を忘れました。",
         "goal_words": "忘れました",
         "audio_filename": "line3_ja_6.mp3",
-        "audio_dir": "彼はまた家に鍵を忘れました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -303,7 +303,7 @@
         "answer": "彼女は先生に追加の助けを求めました。",
         "goal_words": "求めました",
         "audio_filename": "line3_ja_287.mp3",
-        "audio_dir": "彼女は先生に追加の助けを求めました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -321,7 +321,7 @@
         "answer": "私たちは一緒に世界を旅したいと思っていました。",
         "goal_words": "思っていました",
         "audio_filename": "line4_ja_24.mp3",
-        "audio_dir": "私たちは一緒に世界を旅したいと思っていました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -339,7 +339,7 @@
         "answer": "彼らは隣人の庭仕事を手伝いました。",
         "goal_words": "手伝いました",
         "audio_filename": "line3_ja_228.mp3",
-        "audio_dir": "彼らは隣人の庭仕事を手伝いました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -357,7 +357,7 @@
         "answer": "それは彼女が行くところどこにでもついていきました。",
         "goal_words": "ついていきました",
         "audio_filename": "line_ja_779.mp3",
-        "audio_dir": "それは彼女が行くところどこにでもついていきました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -375,7 +375,7 @@
         "answer": "あなたはソーシャルメディアで投稿に「いいね」をしました。",
         "goal_words": "「いいね」をしました",
         "audio_filename": "line_ja_335.mp3",
-        "audio_dir": "あなたはソーシャルメディアで投稿に「いいね」をしました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -393,7 +393,7 @@
         "answer": "私は私たちが出会った日から彼を愛しています。",
         "goal_words": "愛しています",
         "audio_filename": "line4_ja_244.mp3",
-        "audio_dir": "私は私たちが出会った日から彼を愛しています。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -411,7 +411,7 @@
         "answer": "あなたたちは宿題の手伝いが必要でした。",
         "goal_words": "必要でした",
         "audio_filename": "line_ja_314.mp3",
-        "audio_dir": "あなたたちは宿題の手伝いが必要でした。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -429,7 +429,7 @@
         "answer": "彼は子供の頃からブロッコリーが嫌いでした。",
         "goal_words": "嫌いでした",
         "audio_filename": "line3_ja_28.mp3",
-        "audio_dir": "彼は子供の頃からブロッコリーが嫌いでした。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -447,25 +447,7 @@
         "answer": "彼女は覚えている限り辛い食べ物が嫌いでした。",
         "goal_words": "嫌いでした",
         "audio_filename": "line3_ja_356.mp3",
-        "audio_dir": "彼女は覚えている限り辛い食べ物が嫌いでした。"
-    },
-    {
-        "level": 5.0,
-        "image_filename": "teach_code_m.jpg",
-        "card_type": "conjugation",
-        "identifier": "ID",
-        "info": "Japanese does not have a direct equivalent of the present perfect tense. Instead, aspects are often conveyed through context, the use of certain verb forms, and particles.\n\nFormation: The past tense of the verb often suffices.\nExample: \"食べた\" (Tabeta, meaning \"I have eaten\" or \"I ate\").\nUsage: Contextual indicators and additional expressions provide the sense of completeness or relevance to the present.",
-        "native_language": "english",
-        "learning_language": "japanese",
-        "native_group": "5 verb - present perfect",
-        "native_answer": "They have taught coding to beginners.",
-        "native_word": "verb - present perfect",
-        "tag": "verb - present perfect",
-        "prompt": "彼らは初心者にコーディングを______。",
-        "answer": "彼らは初心者にコーディングを教えました。",
-        "goal_words": "教えました",
-        "audio_filename": "line3_ja_159.mp3",
-        "audio_dir": "彼らは初心者にコーディングを教えました。"
+        "learning_tag": "動詞 - 現在完了形"
     },
     {
         "level": 5.0,
@@ -483,6 +465,6 @@
         "answer": "私たちは自分たちの過ちから多くを学びました。",
         "goal_words": "学びました",
         "audio_filename": "line4_ja_90.mp3",
-        "audio_dir": "私たちは自分たちの過ちから多くを学びました。"
+        "learning_tag": "動詞 - 現在完了形"
     }
 ]

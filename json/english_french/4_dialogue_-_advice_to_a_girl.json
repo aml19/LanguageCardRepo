@@ -2,7 +2,7 @@
     {
         "level": 4.0,
         "image_filename": "sure.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -11,11 +11,11 @@
         "native_answer": "sure: confident in what one thinks or knows",
         "native_word": "adjective -  Judgment",
         "tag": "adjective -  Judgment",
-        "prompt": "______ : confiant dans ce que l'on pense ou sait",
+        "prompt": "sûr : confiant dans ce que l'on pense ou sait",
         "answer": "sûr : confiant dans ce que l'on pense ou sait",
         "goal_words": "sûr",
         "audio_filename": "line5_fr_107.mp3",
-        "audio_dir": "sûr : confiant dans ce que l'on pense ou sait"
+        "learning_tag": "adjectif - Jugement"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "prêt, feu, partez",
         "goal_words": "prêt",
         "audio_filename": "line4_fr_716.mp3",
-        "audio_dir": "prêt, feu, partez"
+        "learning_tag": "adjectif - Condition"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "Nerveux",
         "goal_words": "Nerveux",
         "audio_filename": "line4_fr_113.mp3",
-        "audio_dir": "Nerveux"
+        "learning_tag": "adjectif - Ressentir une émotion"
     },
     {
         "level": 4.0,
@@ -65,11 +65,11 @@
         "native_answer": "capable: having the ability",
         "native_word": "adjective -  Judgment",
         "tag": "adjective -  Judgment",
-        "prompt": "______ : ayant la capacité",
+        "prompt": "capable : ayant la capacité",
         "answer": "capable : ayant la capacité",
         "goal_words": "capable",
         "audio_filename": "line_fr_506.mp3",
-        "audio_dir": "capable : ayant la capacité"
+        "learning_tag": "adjectif - Jugement"
     },
     {
         "level": 4.0,
@@ -83,11 +83,11 @@
         "native_answer": "really big robot - used for emphasis",
         "native_word": "adverb",
         "tag": "adverb",
-        "prompt": "______ gros robot - utilisé pour l'accentuation",
+        "prompt": "vraiment gros robot - utilisé pour l'accentuation",
         "answer": "vraiment gros robot - utilisé pour l'accentuation",
         "goal_words": "vraiment",
         "audio_filename": "line5_fr_880.mp3",
-        "audio_dir": "vraiment gros robot - utilisé pour l'accentuation"
+        "learning_tag": "adverbe"
     },
     {
         "level": 4.0,
@@ -101,11 +101,11 @@
         "native_answer": "Just",
         "native_word": "adverb",
         "tag": "adverb",
-        "prompt": "______",
+        "prompt": "juste",
         "answer": "juste",
         "goal_words": "juste",
         "audio_filename": "line3_fr_268.mp3",
-        "audio_dir": "juste"
+        "learning_tag": "adverbe"
     },
     {
         "level": 4.0,
@@ -119,11 +119,11 @@
         "native_answer": "Well",
         "native_word": "adverb -  Manner",
         "tag": "adverb -  Manner",
-        "prompt": "______",
+        "prompt": "bien",
         "answer": "bien",
         "goal_words": "bien",
         "audio_filename": "line_fr_415.mp3",
-        "audio_dir": "bien"
+        "learning_tag": "adverbe - Manière"
     },
     {
         "level": 4.0,
@@ -137,11 +137,11 @@
         "native_answer": "Okay",
         "native_word": "adverb -  Manner",
         "tag": "adverb -  Manner",
-        "prompt": "______",
+        "prompt": "d'accord",
         "answer": "d'accord",
         "goal_words": "d'accord",
         "audio_filename": "line_fr_695.mp3",
-        "audio_dir": "d'accord"
+        "learning_tag": "adverbe - Manière"
     },
     {
         "level": 4.0,
@@ -155,47 +155,11 @@
         "native_answer": "Whatever",
         "native_word": "adverb -  judgement",
         "tag": "adverb -  judgement",
-        "prompt": "______",
+        "prompt": "peu importe",
         "answer": "peu importe",
         "goal_words": "peu importe",
         "audio_filename": "line4_fr_631.mp3",
-        "audio_dir": "peu importe"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "mom.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "Mom",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "______",
-        "answer": "Maman",
-        "goal_words": "Maman",
-        "audio_filename": "line3_fr_991.mp3",
-        "audio_dir": "Maman"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "dad.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "Dad",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "______",
-        "answer": "Papa",
-        "goal_words": "Papa",
-        "audio_filename": "line4_fr_524.mp3",
-        "audio_dir": "Papa"
+        "learning_tag": "adverbe - jugement"
     },
     {
         "level": 4.0,
@@ -213,7 +177,7 @@
         "answer": "Quelque chose dans la boîte",
         "goal_words": "Quelque chose",
         "audio_filename": "line4_fr_778.mp3",
-        "audio_dir": "Quelque chose dans la boîte"
+        "learning_tag": "nom - Idées et concepts"
     },
     {
         "level": 4.0,
@@ -231,7 +195,7 @@
         "answer": "L’esprit : l'élément d'une personne qui lui permet d'être conscient du monde et de ses expériences",
         "goal_words": "esprit",
         "audio_filename": "line3_fr_324.mp3",
-        "audio_dir": "L’esprit : l'élément d'une personne qui lui permet d'être conscient du monde et de ses expériences"
+        "learning_tag": "nom - Parties du corps"
     },
     {
         "level": 4.0,
@@ -249,7 +213,7 @@
         "answer": "le conseil : orientation ou recommandations offertes en ce qui concerne une action future prudente.",
         "goal_words": "conseil",
         "audio_filename": "line3_fr_657.mp3",
-        "audio_dir": "le conseil : orientation ou recommandations offertes en ce qui concerne une action future prudente."
+        "learning_tag": "nom - Idées et concepts"
     },
     {
         "level": 4.0,
@@ -267,7 +231,7 @@
         "answer": "Le stage : la position d'un étudiant ou d'un stagiaire qui travaille dans une organisation",
         "goal_words": "stage",
         "audio_filename": "line3_fr_828.mp3",
-        "audio_dir": "Le stage : la position d'un étudiant ou d'un stagiaire qui travaille dans une organisation"
+        "learning_tag": "nom - Activités"
     },
     {
         "level": 4.0,
@@ -285,7 +249,7 @@
         "answer": "une opportunité: un ensemble de circonstances qui rendent possible de faire quelque chose.",
         "goal_words": "opportunité",
         "audio_filename": "line5_fr_655.mp3",
-        "audio_dir": "une opportunité: un ensemble de circonstances qui rendent possible de faire quelque chose."
+        "learning_tag": "nom - Idées et concepts"
     },
     {
         "level": 4.0,
@@ -303,7 +267,7 @@
         "answer": "la charge de travail : la quantité de travail à accomplir par quelqu'un ou quelque chose.",
         "goal_words": "charge de travail",
         "audio_filename": "line3_fr_394.mp3",
-        "audio_dir": "la charge de travail : la quantité de travail à accomplir par quelqu'un ou quelque chose."
+        "learning_tag": "nom - Temps et mesure"
     },
     {
         "level": 4.0,
@@ -321,7 +285,7 @@
         "answer": "Une décision : choix",
         "goal_words": "décision",
         "audio_filename": "line5_fr_629.mp3",
-        "audio_dir": "Une décision : choix"
+        "learning_tag": "nom - Idées et concepts"
     },
     {
         "level": 4.0,
@@ -339,7 +303,7 @@
         "answer": "avoir besoin d'aide",
         "goal_words": "avoir",
         "audio_filename": "line_fr_364.mp3",
-        "audio_dir": "avoir besoin d'aide"
+        "learning_tag": "verbe - évaluer"
     },
     {
         "level": 4.0,
@@ -357,7 +321,7 @@
         "answer": "troubler ses pensées",
         "goal_words": "troubler",
         "audio_filename": "line5_fr_246.mp3",
-        "audio_dir": "troubler ses pensées"
+        "learning_tag": "verbe - effet"
     },
     {
         "level": 4.0,
@@ -375,7 +339,7 @@
         "answer": "penser",
         "goal_words": "penser",
         "audio_filename": "line4_fr_592.mp3",
-        "audio_dir": "penser"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -393,7 +357,7 @@
         "answer": "appliquer du maquillage",
         "goal_words": "appliquer",
         "audio_filename": "line_fr_282.mp3",
-        "audio_dir": "appliquer du maquillage"
+        "learning_tag": "verbe - effet"
     },
     {
         "level": 4.0,
@@ -411,7 +375,7 @@
         "answer": "aller avec elle",
         "goal_words": "aller",
         "audio_filename": "line_fr_249.mp3",
-        "audio_dir": "aller avec elle"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -429,7 +393,7 @@
         "answer": "tenir",
         "goal_words": "tenir",
         "audio_filename": "line5_fr_130.mp3",
-        "audio_dir": "tenir"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -443,11 +407,11 @@
         "native_answer": "handle: manage (a situation or problem).",
         "native_word": "verb - object",
         "tag": "verb - object",
-        "prompt": "______ : ______ une situation ou un problème.",
-        "answer": "gérer : gérer une situation ou un problème.",
-        "goal_words": "gérer",
+        "prompt": "______ : gérer une situation ou un problème.",
+        "answer": "gérer​ : gérer une situation ou un problème.",
+        "goal_words": "gérer​",
         "audio_filename": "line2_fr_272.mp3",
-        "audio_dir": "gérer : gérer une situation ou un problème."
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -465,7 +429,7 @@
         "answer": "Se souvenir",
         "goal_words": "Se souvenir",
         "audio_filename": "line4_fr_994.mp3",
-        "audio_dir": "Se souvenir"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -483,12 +447,12 @@
         "answer": "sentir l'eau",
         "goal_words": "sentir",
         "audio_filename": "line5_fr_8.mp3",
-        "audio_dir": "sentir l'eau"
+        "learning_tag": "verbe - perception"
     },
     {
         "level": 4.0,
         "image_filename": "underestimate.jpg",
-        "card_type": "vocab",
+        "card_type": "reading",
         "identifier": "ID",
         "info": null,
         "native_language": "english",
@@ -497,11 +461,11 @@
         "native_answer": "underestimate: to place too low a value on : underrate",
         "native_word": "verb - mental",
         "tag": "verb - mental",
-        "prompt": "______ : attribuer une valeur trop basse à : ______",
-        "answer": "sous-estimer : attribuer une valeur trop basse à : sous-estimer",
-        "goal_words": "sous-estimer",
+        "prompt": "sous-estimer​ : attribuer une valeur trop basse à : sous-estimer",
+        "answer": "sous-estimer​ : attribuer une valeur trop basse à : sous-estimer",
+        "goal_words": "sous-estimer​",
         "audio_filename": "line5_fr_89.mp3",
-        "audio_dir": "sous-estimer : attribuer une valeur trop basse à : sous-estimer"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -519,7 +483,7 @@
         "answer": "croire : accepter (quelque chose) comme vrai ; être sûr de la vérité de cela.",
         "goal_words": "croire",
         "audio_filename": "line_fr_684.mp3",
-        "audio_dir": "croire : accepter (quelque chose) comme vrai ; être sûr de la vérité de cela."
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -537,24 +501,6 @@
         "answer": "support : supporter tout ou partie du poids de ; soutenir.",
         "goal_words": "soutenir",
         "audio_filename": "line5_fr_104.mp3",
-        "audio_dir": "support : supporter tout ou partie du poids de ; soutenir."
-    },
-    {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 dialogue - advice to a girl",
-        "native_answer": "make",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "faire",
-        "goal_words": "faire",
-        "audio_filename": "line2_fr_195.mp3",
-        "audio_dir": "faire"
+        "learning_tag": "verbe - interactif"
     }
 ]

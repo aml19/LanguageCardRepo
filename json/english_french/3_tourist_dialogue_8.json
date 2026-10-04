@@ -15,7 +15,7 @@
         "answer": "réceptionniste",
         "goal_words": "réceptionniste",
         "audio_filename": "line4_fr_806.mp3",
-        "audio_dir": "réceptionniste"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "quelle heure est-il ? l'après-midi",
         "goal_words": "l'après-midi",
         "audio_filename": "line4_fr_773.mp3",
-        "audio_dir": "quelle heure est-il ? l'après-midi"
+        "learning_tag": "Nom"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "réservation",
         "goal_words": "réservation",
         "audio_filename": "line4_fr_847.mp3",
-        "audio_dir": "réservation"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "nom",
         "goal_words": "nom",
         "audio_filename": "line4_fr_122.mp3",
-        "audio_dir": "nom"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "La pièce vide",
         "goal_words": "pièce",
         "audio_filename": "line3_fr_493.mp3",
-        "audio_dir": "La pièce vide"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "la nuit",
         "goal_words": "la nuit",
         "audio_filename": "line3_fr_484.mp3",
-        "audio_dir": "la nuit"
+        "learning_tag": "temps"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "carte d’identité",
         "goal_words": "carte d’identité",
         "audio_filename": "line_fr_510.mp3",
-        "audio_dir": "carte d’identité"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "carte de crédit",
         "goal_words": "carte de crédit",
         "audio_filename": "line_fr_511.mp3",
-        "audio_dir": "carte de crédit"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "L'étage",
         "goal_words": "L'étage",
         "audio_filename": "line3_fr_326.mp3",
-        "audio_dir": "L'étage"
+        "learning_tag": "nom - dans une maison"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "carte-clé",
         "goal_words": "carte-clé",
         "audio_filename": "line_fr_513.mp3",
-        "audio_dir": "carte-clé"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "le petit-déjeuner",
         "goal_words": "le petit-déjeuner",
         "audio_filename": "line3_fr_761.mp3",
-        "audio_dir": "le petit-déjeuner"
+        "learning_tag": "cuisine"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "La salle à manger",
         "goal_words": "La salle à manger",
         "audio_filename": "line3_fr_532.mp3",
-        "audio_dir": "La salle à manger"
+        "learning_tag": "nom - dans une maison"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "Wi-Fi",
         "goal_words": "Wi-Fi",
         "audio_filename": "line5_fr_885.mp3",
-        "audio_dir": "Wi-Fi"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "réseau",
         "goal_words": "réseau",
         "audio_filename": "line4_fr_846.mp3",
-        "audio_dir": "réseau"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "mot de passe",
         "goal_words": "mot de passe",
         "audio_filename": "line4_fr_68.mp3",
-        "audio_dir": "mot de passe"
+        "learning_tag": "nom"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "Rester",
         "goal_words": "Rester",
         "audio_filename": "line4_fr_854.mp3",
-        "audio_dir": "Rester"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 3.0,
@@ -303,6 +303,6 @@
         "answer": "la seconde",
         "goal_words": "la seconde",
         "audio_filename": "line3_fr_539.mp3",
-        "audio_dir": "la seconde"
+        "learning_tag": "temps"
     }
 ]

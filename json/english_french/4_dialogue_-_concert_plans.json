@@ -15,7 +15,7 @@
         "answer": "incroyable",
         "goal_words": "incroyable",
         "audio_filename": "line2_fr_881.mp3",
-        "audio_dir": "incroyable"
+        "learning_tag": "adjectif - Jugement"
     },
     {
         "level": 4.0,
@@ -33,7 +33,7 @@
         "answer": "épique : transmet un sens de grandeur, de majesté ou d'impact extraordinaire.",
         "goal_words": "épique",
         "audio_filename": "line2_fr_141.mp3",
-        "audio_dir": "épique : transmet un sens de grandeur, de majesté ou d'impact extraordinaire."
+        "learning_tag": "adjectif - Jugement"
     },
     {
         "level": 4.0,
@@ -51,7 +51,7 @@
         "answer": "bon travail",
         "goal_words": "bon",
         "audio_filename": "line_fr_436.mp3",
-        "audio_dir": "bon travail"
+        "learning_tag": "adjectif - Jugement"
     },
     {
         "level": 4.0,
@@ -69,7 +69,7 @@
         "answer": "dernière part de pizza",
         "goal_words": "dernière",
         "audio_filename": "line_fr_779.mp3",
-        "audio_dir": "dernière part de pizza"
+        "learning_tag": "adjectif - temps"
     },
     {
         "level": 4.0,
@@ -87,7 +87,7 @@
         "answer": "aujourd'hui",
         "goal_words": "aujourd'hui",
         "audio_filename": "line_fr_343.mp3",
-        "audio_dir": "aujourd'hui"
+        "learning_tag": "adjectif - temps"
     },
     {
         "level": 4.0,
@@ -101,11 +101,11 @@
         "native_answer": "already",
         "native_word": "adverb -  Time",
         "tag": "adverb -  Time",
-        "prompt": "______",
+        "prompt": "déjà",
         "answer": "déjà",
         "goal_words": "déjà",
         "audio_filename": "line_fr_757.mp3",
-        "audio_dir": "déjà"
+        "learning_tag": "adverbe - Temps"
     },
     {
         "level": 4.0,
@@ -123,7 +123,7 @@
         "answer": "définitivement : sans aucun doute",
         "goal_words": "définitivement",
         "audio_filename": "line_fr_756.mp3",
-        "audio_dir": "définitivement : sans aucun doute"
+        "learning_tag": "adverbe - jugement"
     },
     {
         "level": 4.0,
@@ -141,7 +141,7 @@
         "answer": "La tête",
         "goal_words": "La tête",
         "audio_filename": "line3_fr_559.mp3",
-        "audio_dir": "La tête"
+        "learning_tag": "parties du corps"
     },
     {
         "level": 4.0,
@@ -159,7 +159,7 @@
         "answer": "l'addition",
         "goal_words": "l'addition",
         "audio_filename": "line3_fr_291.mp3",
-        "audio_dir": "l'addition"
+        "learning_tag": "nourriture"
     },
     {
         "level": 4.0,
@@ -177,25 +177,7 @@
         "answer": "Une entrée",
         "goal_words": "entrée",
         "audio_filename": "line5_fr_634.mp3",
-        "audio_dir": "Une entrée"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "friend.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "friend",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Un ______",
-        "answer": "Un ami",
-        "goal_words": "ami",
-        "audio_filename": "line5_fr_537.mp3",
-        "audio_dir": "Un ami"
+        "learning_tag": "nom - Bâtiments et lieux"
     },
     {
         "level": 4.0,
@@ -213,7 +195,7 @@
         "answer": "La composition de l'équipe",
         "goal_words": "composition",
         "audio_filename": "line3_fr_408.mp3",
-        "audio_dir": "La composition de l'équipe"
+        "learning_tag": "nom - Événements"
     },
     {
         "level": 4.0,
@@ -231,7 +213,7 @@
         "answer": "Un endroit",
         "goal_words": "endroit",
         "audio_filename": "line5_fr_559.mp3",
-        "audio_dir": "Un endroit"
+        "learning_tag": "nom - lieu"
     },
     {
         "level": 4.0,
@@ -249,25 +231,7 @@
         "answer": "Un billet",
         "goal_words": "billet",
         "audio_filename": "line5_fr_540.mp3",
-        "audio_dir": "Un billet"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "time.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "Time",
-        "native_word": "noun - Time",
-        "tag": "noun - Time",
-        "prompt": "Le ______",
-        "answer": "Le temps",
-        "goal_words": "temps",
-        "audio_filename": "line3_fr_840.mp3",
-        "audio_dir": "Le temps"
+        "learning_tag": "nom - Objets du quotidien"
     },
     {
         "level": 4.0,
@@ -285,7 +249,7 @@
         "answer": "Une semaine",
         "goal_words": "semaine",
         "audio_filename": "line5_fr_668.mp3",
-        "audio_dir": "Une semaine"
+        "learning_tag": "nom - Temps"
     },
     {
         "level": 4.0,
@@ -303,7 +267,7 @@
         "answer": "Un week-end",
         "goal_words": "week-end",
         "audio_filename": "line5_fr_614.mp3",
-        "audio_dir": "Un week-end"
+        "learning_tag": "nom - Temps"
     },
     {
         "level": 4.0,
@@ -321,25 +285,7 @@
         "answer": "Un concert",
         "goal_words": "concert",
         "audio_filename": "line5_fr_547.mp3",
-        "audio_dir": "Un concert"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "door.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "door",
-        "native_word": "noun - Everyday Objects",
-        "tag": "noun - Everyday Objects",
-        "prompt": "______",
-        "answer": "La porte",
-        "goal_words": "La porte",
-        "audio_filename": "line3_fr_503.mp3",
-        "audio_dir": "La porte"
+        "learning_tag": "nom - Événements"
     },
     {
         "level": 4.0,
@@ -357,43 +303,7 @@
         "answer": "Acheter",
         "goal_words": "Acheter",
         "audio_filename": "line_fr_218.mp3",
-        "audio_dir": "Acheter"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "get_gift_m.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "get a gift",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______ un cadeau",
-        "answer": "obtenir un cadeau",
-        "goal_words": "obtenir",
-        "audio_filename": "line4_fr_394.mp3",
-        "audio_dir": "obtenir un cadeau"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "go with her",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______ avec elle",
-        "answer": "aller avec elle",
-        "goal_words": "aller",
-        "audio_filename": "line_fr_249.mp3",
-        "audio_dir": "aller avec elle"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -411,7 +321,7 @@
         "answer": "attraper",
         "goal_words": "attraper",
         "audio_filename": "line_fr_331.mp3",
-        "audio_dir": "attraper"
+        "learning_tag": "verbe - objet"
     },
     {
         "level": 4.0,
@@ -429,7 +339,7 @@
         "answer": "aider",
         "goal_words": "aider",
         "audio_filename": "line_fr_235.mp3",
-        "audio_dir": "aider"
+        "learning_tag": "verbe - interactif"
     },
     {
         "level": 4.0,
@@ -447,7 +357,7 @@
         "answer": "se rencontrer pour affaires",
         "goal_words": "rencontrer",
         "audio_filename": "line4_fr_989.mp3",
-        "audio_dir": "se rencontrer pour affaires"
+        "learning_tag": "verbe - interactif"
     },
     {
         "level": 4.0,
@@ -465,7 +375,7 @@
         "answer": "manquer",
         "goal_words": "manquer",
         "audio_filename": "line4_fr_7.mp3",
-        "audio_dir": "manquer"
+        "learning_tag": "verbe - sentiment"
     },
     {
         "level": 4.0,
@@ -483,7 +393,7 @@
         "answer": "ouvrir",
         "goal_words": "ouvrir",
         "audio_filename": "line4_fr_516.mp3",
-        "audio_dir": "ouvrir"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 4.0,
@@ -501,7 +411,7 @@
         "answer": "Montrer de l'argent",
         "goal_words": "Montrer",
         "audio_filename": "line4_fr_65.mp3",
-        "audio_dir": "Montrer de l'argent"
+        "learning_tag": "verbe - interactif"
     },
     {
         "level": 4.0,
@@ -519,7 +429,7 @@
         "answer": "Commencer",
         "goal_words": "Commencer",
         "audio_filename": "line_fr_615.mp3",
-        "audio_dir": "Commencer"
+        "learning_tag": "verbe - changer"
     },
     {
         "level": 4.0,
@@ -537,24 +447,6 @@
         "answer": "attendre",
         "goal_words": "attendre",
         "audio_filename": "line_fr_323.mp3",
-        "audio_dir": "attendre"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "want_dog_food.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 dialogue - concert plans",
-        "native_answer": "want",
-        "native_word": "verb - feeling",
-        "tag": "verb - feeling",
-        "prompt": "______",
-        "answer": "vouloir",
-        "goal_words": "vouloir",
-        "audio_filename": "line5_fr_731.mp3",
-        "audio_dir": "vouloir"
+        "learning_tag": "verbe - soi"
     }
 ]

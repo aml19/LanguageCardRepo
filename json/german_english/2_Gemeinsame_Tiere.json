@@ -11,11 +11,11 @@
         "native_answer": "die Ameise",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "ant",
+        "prompt": "______",
         "answer": "ant",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7219, \"\"[A-Za-z]+\"\")\"), \"ant\")",
+        "goal_words": "ant",
         "audio_filename": "line_en_166.mp3",
-        "audio_dir": "ant"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -29,11 +29,11 @@
         "native_answer": "die Biene",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "bee",
+        "prompt": "______",
         "answer": "bee",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7220, \"\"[A-Za-z]+\"\")\"), \"bee\")",
+        "goal_words": "bee",
         "audio_filename": "line_en_270.mp3",
-        "audio_dir": "bee"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -47,11 +47,11 @@
         "native_answer": "der Vogel",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "bird",
+        "prompt": "______",
         "answer": "bird",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7221, \"\"[A-Za-z]+\"\")\"), \"bird\")",
+        "goal_words": "bird",
         "audio_filename": "line_en_298.mp3",
-        "audio_dir": "bird"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -65,11 +65,11 @@
         "native_answer": "der Bulle",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "bull",
+        "prompt": "______",
         "answer": "bull",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7222, \"\"[A-Za-z]+\"\")\"), \"bull\")",
+        "goal_words": "bull",
         "audio_filename": "line_en_360.mp3",
-        "audio_dir": "bull"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -83,11 +83,11 @@
         "native_answer": "der Schmetterling",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "butterfly",
+        "prompt": "______",
         "answer": "butterfly",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7223, \"\"[A-Za-z]+\"\")\"), \"butterfly\")",
+        "goal_words": "butterfly",
         "audio_filename": "line_en_373.mp3",
-        "audio_dir": "butterfly"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -101,11 +101,11 @@
         "native_answer": "die Katze",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "cat",
+        "prompt": "______",
         "answer": "cat",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7224, \"\"[A-Za-z]+\"\")\"), \"cat\")",
+        "goal_words": "cat",
         "audio_filename": "line_en_447.mp3",
-        "audio_dir": "cat"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -119,11 +119,11 @@
         "native_answer": "das Huhn",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "chicken",
+        "prompt": "______",
         "answer": "chicken",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7225, \"\"[A-Za-z]+\"\")\"), \"chicken\")",
+        "goal_words": "chicken",
         "audio_filename": "line_en_481.mp3",
-        "audio_dir": "chicken"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -137,11 +137,11 @@
         "native_answer": "der Hund",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "dog",
+        "prompt": "______",
         "answer": "dog",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7226, \"\"[A-Za-z]+\"\")\"), \"dog\")",
+        "goal_words": "dog",
         "audio_filename": "line_en_684.mp3",
-        "audio_dir": "dog"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -155,11 +155,11 @@
         "native_answer": "der Fisch",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "fish",
+        "prompt": "______",
         "answer": "fish",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7227, \"\"[A-Za-z]+\"\")\"), \"fish\")",
+        "goal_words": "fish",
         "audio_filename": "line_en_884.mp3",
-        "audio_dir": "fish"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -173,11 +173,11 @@
         "native_answer": "die Fliege",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "fly",
+        "prompt": "______",
         "answer": "fly",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7228, \"\"[A-Za-z]+\"\")\"), \"fly\")",
+        "goal_words": "fly",
         "audio_filename": "line_en_898.mp3",
-        "audio_dir": "fly"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -191,11 +191,11 @@
         "native_answer": "das Pferd",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "horse",
+        "prompt": "______",
         "answer": "horse",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7229, \"\"[A-Za-z]+\"\")\"), \"horse\")",
+        "goal_words": "horse",
         "audio_filename": "line_en_1456.mp3",
-        "audio_dir": "horse"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -209,11 +209,11 @@
         "native_answer": "die Eidechse",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "lizard",
+        "prompt": "______",
         "answer": "lizard",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7230, \"\"[A-Za-z]+\"\")\"), \"lizard\")",
+        "goal_words": "lizard",
         "audio_filename": "line2_en_538.mp3",
-        "audio_dir": "lizard"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -227,11 +227,11 @@
         "native_answer": "der Moskito",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "mosquito",
+        "prompt": "______",
         "answer": "mosquito",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7231, \"\"[A-Za-z]+\"\")\"), \"mosquito\")",
+        "goal_words": "mosquito",
         "audio_filename": "line2_en_646.mp3",
-        "audio_dir": "mosquito"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -245,11 +245,11 @@
         "native_answer": "das Schwein",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "pig",
+        "prompt": "______",
         "answer": "pig",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7232, \"\"[A-Za-z]+\"\")\"), \"pig\")",
+        "goal_words": "pig",
         "audio_filename": "line3_en_123.mp3",
-        "audio_dir": "pig"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -263,11 +263,11 @@
         "native_answer": "die Ratte",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "rat",
+        "prompt": "______",
         "answer": "rat",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7233, \"\"[A-Za-z]+\"\")\"), \"rat\")",
+        "goal_words": "rat",
         "audio_filename": "line3_en_229.mp3",
-        "audio_dir": "rat"
+        "learning_tag": "animal"
     },
     {
         "level": 2.0,
@@ -281,10 +281,10 @@
         "native_answer": "die Spinne",
         "native_word": "Tier",
         "tag": "Tier",
-        "prompt": "spider",
+        "prompt": "______",
         "answer": "spider",
-        "goal_words": "=IFERROR(__xludf.DUMMYFUNCTION(\"REGEXEXTRACT(J7234, \"\"[A-Za-z]+\"\")\"), \"spider\")",
+        "goal_words": "spider",
         "audio_filename": "line3_en_827.mp3",
-        "audio_dir": "spider"
+        "learning_tag": "animal"
     }
 ]

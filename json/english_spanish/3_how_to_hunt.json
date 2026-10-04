@@ -1,6 +1,6 @@
 [
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "activity.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -11,14 +11,14 @@
         "native_answer": "activity.  something that a person does, often involving movement or action",
         "native_word": "noun - Activities",
         "tag": "noun - Activities",
-        "prompt": "Una ______: algo que una persona hace, a menudo implica movimiento o acción",
+        "prompt": "Una actividad: algo que una persona hace, a menudo implica movimiento o acción",
         "answer": "Una actividad: algo que una persona hace, a menudo implica movimiento o acción",
         "goal_words": "actividad",
         "audio_filename": "line5_es_514.mp3",
-        "audio_dir": "Una actividad: algo que una persona hace, a menudo implica movimiento o acción"
+        "learning_tag": "sustantivo - actividades"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "ammo.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -33,28 +33,10 @@
         "answer": "la munición",
         "goal_words": "munición",
         "audio_filename": "line3_es_684.mp3",
-        "audio_dir": "la munición"
+        "learning_tag": "sustantivo - Materiales"
     },
     {
-        "level": 3.0,
-        "image_filename": "animals.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: hunt",
-        "native_answer": "Animal",
-        "native_word": "noun - Animals",
-        "tag": "noun - Animals",
-        "prompt": "Un ______",
-        "answer": "Un animal",
-        "goal_words": "animal",
-        "audio_filename": "line5_es_444.mp3",
-        "audio_dir": "Un animal"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "area.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -69,10 +51,10 @@
         "answer": "Área: Una región o espacio específico.\nEjemplo: El área del picnic estaba sombreada por árboles altos.",
         "goal_words": "área",
         "audio_filename": "line_es_395.mp3",
-        "audio_dir": "Área: Una región o espacio específico.\nEjemplo: El área del picnic estaba sombreada por árboles altos."
+        "learning_tag": "sustantivo - Lugares"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "bowarrow.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -87,10 +69,10 @@
         "answer": "el arco",
         "goal_words": "arco",
         "audio_filename": "line_es_898.mp3",
-        "audio_dir": "el arco"
+        "learning_tag": "sustantivo - Herramientas y equipo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "camo.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -105,10 +87,10 @@
         "answer": "el camuflaje",
         "goal_words": "camuflaje",
         "audio_filename": "line_es_951.mp3",
-        "audio_dir": "el camuflaje"
+        "learning_tag": "sustantivo - Herramientas y equipo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "clothing.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -123,10 +105,10 @@
         "answer": "la ropa",
         "goal_words": "ropa",
         "audio_filename": "line3_es_746.mp3",
-        "audio_dir": "la ropa"
+        "learning_tag": "sustantivo - Ropa y accesorios"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "compliance.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -137,14 +119,14 @@
         "native_answer": "Compliance: The act of following rules or standards.\nExample: The company ensured compliance with safety regulations.\n\n",
         "native_word": "noun - behavior",
         "tag": "noun - behavior",
-        "prompt": "Cumplimiento: El acto de seguir reglas o normas.\nEjemplo: La empresa aseguró el ______ de las normativas de seguridad.",
+        "prompt": "Cumplimiento: El acto de seguir reglas o normas.\nEjemplo: La empresa aseguró el cumplimiento de las normativas de seguridad.",
         "answer": "Cumplimiento: El acto de seguir reglas o normas.\nEjemplo: La empresa aseguró el cumplimiento de las normativas de seguridad.",
         "goal_words": "cumplimiento",
         "audio_filename": "line_es_705.mp3",
-        "audio_dir": "Cumplimiento: El acto de seguir reglas o normas.\nEjemplo: La empresa aseguró el cumplimiento de las normativas de seguridad."
+        "learning_tag": "sustantivo - comportamiento"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "connection.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -159,10 +141,10 @@
         "answer": "Conexión: Un enlace o relación entre personas o cosas.\nEjemplo: Sintieron una fuerte conexión a pesar de vivir lejos.",
         "goal_words": "conexión",
         "audio_filename": "line_es_641.mp3",
-        "audio_dir": "Conexión: Un enlace o relación entre personas o cosas.\nEjemplo: Sintieron una fuerte conexión a pesar de vivir lejos."
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "deer.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -177,10 +159,10 @@
         "answer": "Ciervo",
         "goal_words": "Ciervo",
         "audio_filename": "line_es_561.mp3",
-        "audio_dir": "Ciervo"
+        "learning_tag": "animal"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "dropping.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -195,10 +177,10 @@
         "answer": "Excremento: Material desechado excretado por los animales.\nEjemplo: El granjero usó los excrementos de los animales como fertilizante.",
         "goal_words": "excremento",
         "audio_filename": "line3_es_188.mp3",
-        "audio_dir": "Excremento: Material desechado excretado por los animales.\nEjemplo: El granjero usó los excrementos de los animales como fertilizante."
+        "learning_tag": "sustantivo - animales"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "equipment.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -209,14 +191,14 @@
         "native_answer": "Equipment: Tools or supplies needed for a task.\nExample: The hikers packed their camping equipment.\n\n",
         "native_word": "noun - Tools & Equipment",
         "tag": "noun - Tools & Equipment",
-        "prompt": "Equipo: Herramientas o suministros necesarios para una tarea.\nEjemplo: Los excursionistas empacaron su ______ de camping.",
+        "prompt": "Equipo: Herramientas o suministros necesarios para una tarea.\nEjemplo: Los excursionistas empacaron su equipo de camping.",
         "answer": "Equipo: Herramientas o suministros necesarios para una tarea.\nEjemplo: Los excursionistas empacaron su equipo de camping.",
         "goal_words": "equipo",
         "audio_filename": "line2_es_988.mp3",
-        "audio_dir": "Equipo: Herramientas o suministros necesarios para una tarea.\nEjemplo: Los excursionistas empacaron su equipo de camping."
+        "learning_tag": "sustantivo - Herramientas y equipo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "firearm.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -231,10 +213,10 @@
         "answer": "Arma de fuego: Un arma diseñada para ser cargada y utilizada por una persona.\nEjemplo: El oficial guardó su arma de fuego en su funda.",
         "goal_words": "arma de fuego",
         "audio_filename": "line_es_397.mp3",
-        "audio_dir": "Arma de fuego: Un arma diseñada para ser cargada y utilizada por una persona.\nEjemplo: El oficial guardó su arma de fuego en su funda."
+        "learning_tag": "sustantivo - Herramientas y equipo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "food.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -249,10 +231,10 @@
         "answer": "La comida en la mesa",
         "goal_words": "comida",
         "audio_filename": "line3_es_576.mp3",
-        "audio_dir": "La comida en la mesa"
+        "learning_tag": "sustantivo - comida y bebida"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "videogame.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -267,10 +249,10 @@
         "answer": "videojuego",
         "goal_words": "juego",
         "audio_filename": "line5_es_858.mp3",
-        "audio_dir": "videojuego"
+        "learning_tag": "sustantivo - animales"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "harvest.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -285,10 +267,10 @@
         "answer": "la cosecha",
         "goal_words": "cosecha",
         "audio_filename": "line3_es_585.mp3",
-        "audio_dir": "la cosecha"
+        "learning_tag": "sustantivo - acción"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "hunt.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -303,10 +285,10 @@
         "answer": "la caza",
         "goal_words": "caza",
         "audio_filename": "line3_es_559.mp3",
-        "audio_dir": "la caza"
+        "learning_tag": "sustantivo - acción"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "hunt.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -321,10 +303,10 @@
         "answer": "la caza",
         "goal_words": "caza",
         "audio_filename": "line3_es_559.mp3",
-        "audio_dir": "la caza"
+        "learning_tag": "sustantivo - Actividad"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "license.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -339,28 +321,10 @@
         "answer": "la licencia",
         "goal_words": "licencia",
         "audio_filename": "line3_es_650.mp3",
-        "audio_dir": "la licencia"
+        "learning_tag": "sustantivo - Objetos cotidianos"
     },
     {
-        "level": 3.0,
-        "image_filename": "meat.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": "In Spanish, nouns are words used to name people, places, things, or ideas. Here's an overview of how nouns work in the language:\n\nGender: Spanish nouns have a gender, either masculine or feminine. The gender often doesn't correspond to the physical gender of the object; it's just a grammatical classification.\n\nMasculine nouns often end in -o (e.g., \"el libro\" - the book), and feminine nouns often end in -a (e.g., \"la mesa\" - the table). However, there are exceptions.\nSome nouns ending in -e, -ista, -ma, -ción, -sión, -dad, -tad, -umbre, -ión can be of either gender, and you determine their gender based on the article used (\"el\" for masculine, \"la\" for feminine).\nNumber: Nouns in Spanish can be singular or plural.\n\nTo make a noun plural, typically add -s to words ending in a vowel and -es to words ending in a consonant. For example, \"el libro\" (the book) becomes \"los libros\" (the books), and \"la mesa\" (the table) becomes \"las mesas\" (the tables).\nArticles: Articles in Spanish (definite and indefinite) also have gender and number agreement with nouns.\n\nDefinite Articles: \"el\" for masculine singular, \"la\" for feminine singular, \"los\" for masculine plural, \"las\" for feminine plural (e.g., \"el libro\" - the book, \"las mesas\" - the tables).\nIndefinite Articles: \"un\" for masculine singular, \"una\" for feminine singular, \"unos\" for masculine plural, \"unas\" for feminine plural (e.g., \"un libro\" - a book, \"unas mesas\" - some tables).\nProper Nouns: These are specific names for people, places, or things and are typically capitalized (e.g., \"María\" - Mary, \"España\" - Spain).\n\nCollective Nouns: These nouns refer to a group or collection of things or people (e.g., \"familia\" - family, \"equipo\" - team).\n\nDiminutives and Augmentatives: Spanish often uses suffixes to convey size or endearment. For instance, \"casita\" (little house) is a diminutive form of \"casa\" (house), and \"librazo\" (big book) is an augmentative form of \"libro\" (book).\n\nUnderstanding how nouns work in Spanish involves recognizing their gender, number, and how they interact with articles and adjectives. Regular exposure to nouns in different contexts and practice in forming plurals and using appropriate articles will aid in mastering Spanish nouns.",
-        "native_language": "english",
-        "learning_language": "spanish",
-        "native_group": "3 how to: hunt",
-        "native_answer": "meat",
-        "native_word": "food",
-        "tag": "food",
-        "prompt": "______",
-        "answer": "la carne",
-        "goal_words": "la carne",
-        "audio_filename": "line3_es_553.mp3",
-        "audio_dir": "la carne"
-    },
-    {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "nature.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -375,10 +339,10 @@
         "answer": "Naturaleza: El mundo físico, incluyendo plantas, animales y paisajes.\nEjemplo: Fueron de excursión para disfrutar de la belleza de la naturaleza.",
         "goal_words": "naturaleza",
         "audio_filename": "line4_es_71.mp3",
-        "audio_dir": "Naturaleza: El mundo físico, incluyendo plantas, animales y paisajes.\nEjemplo: Fueron de excursión para disfrutar de la belleza de la naturaleza."
+        "learning_tag": "sustantivo - Elementos naturales"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "patience.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -393,10 +357,10 @@
         "answer": "la paciencia",
         "goal_words": "paciencia",
         "audio_filename": "line3_es_699.mp3",
-        "audio_dir": "la paciencia"
+        "learning_tag": "sustantivo - comportamiento"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "permit.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -407,14 +371,14 @@
         "native_answer": "Permit: An official document allowing someone to do something.\nExample: He needed a permit to build a fence around his house.\n\n\n\n\n\n\n",
         "native_word": "noun - Everyday Objects",
         "tag": "noun - Everyday Objects",
-        "prompt": "Permiso: Un documento oficial que permite a alguien hacer algo.\nEjemplo: Necesitaba un ______ para construir una cerca alrededor de su casa.",
+        "prompt": "Permiso: Un documento oficial que permite a alguien hacer algo.\nEjemplo: Necesitaba un permiso para construir una cerca alrededor de su casa.",
         "answer": "Permiso: Un documento oficial que permite a alguien hacer algo.\nEjemplo: Necesitaba un permiso para construir una cerca alrededor de su casa.",
         "goal_words": "permiso",
         "audio_filename": "line4_es_533.mp3",
-        "audio_dir": "Permiso: Un documento oficial que permite a alguien hacer algo.\nEjemplo: Necesitaba un permiso para construir una cerca alrededor de su casa."
+        "learning_tag": "sustantivo - Objetos cotidianos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "practice.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -425,14 +389,14 @@
         "native_answer": "Practice: A repeated action or habit to improve a skill.\nExample: Daily practice helped her become a great pianist.\n\n",
         "native_word": "noun - Activity",
         "tag": "noun - Activity",
-        "prompt": "Práctica: Una acción repetida o hábito para mejorar una habilidad.\nEjemplo: La ______ diaria la ayudó a convertirse en una gran pianista.",
+        "prompt": "Práctica: Una acción repetida o hábito para mejorar una habilidad.\nEjemplo: La práctica diaria la ayudó a convertirse en una gran pianista.",
         "answer": "Práctica: Una acción repetida o hábito para mejorar una habilidad.\nEjemplo: La práctica diaria la ayudó a convertirse en una gran pianista.",
         "goal_words": "práctica",
         "audio_filename": "line4_es_616.mp3",
-        "audio_dir": "Práctica: Una acción repetida o hábito para mejorar una habilidad.\nEjemplo: La práctica diaria la ayudó a convertirse en una gran pianista."
+        "learning_tag": "sustantivo - Actividad"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "prepare.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -447,10 +411,10 @@
         "answer": "la preparación",
         "goal_words": "preparación",
         "audio_filename": "line3_es_725.mp3",
-        "audio_dir": "la preparación"
+        "learning_tag": "sustantivo - Habilidades y Habilidades"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "protection.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -465,10 +429,10 @@
         "answer": "la protección",
         "goal_words": "protección",
         "audio_filename": "line3_es_732.mp3",
-        "audio_dir": "la protección"
+        "learning_tag": "sustantivo - Habilidades y Habilidades"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "rabbit.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -483,10 +447,10 @@
         "answer": "el conejo",
         "goal_words": "conejo",
         "audio_filename": "line_es_994.mp3",
-        "audio_dir": "el conejo"
+        "learning_tag": "sustantivo - animales"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "range.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -501,10 +465,10 @@
         "answer": "el rango",
         "goal_words": "rango",
         "audio_filename": "line2_es_283.mp3",
-        "audio_dir": "el rango"
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "regulation.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -515,14 +479,14 @@
         "native_answer": "Regulation: A rule or law that controls how something is done.\nExample: The new regulation requires all workers to wear safety gear.",
         "native_word": "noun - Ideas & Concepts",
         "tag": "noun - Ideas & Concepts",
-        "prompt": "Reglamento: Una regla o ley que controla cómo se hace algo.\nEjemplo: El nuevo ______ requiere que todos los trabajadores usen equipo de seguridad.",
+        "prompt": "Reglamento: Una regla o ley que controla cómo se hace algo.\nEjemplo: El nuevo reglamento requiere que todos los trabajadores usen equipo de seguridad.",
         "answer": "Reglamento: Una regla o ley que controla cómo se hace algo.\nEjemplo: El nuevo reglamento requiere que todos los trabajadores usen equipo de seguridad.",
         "goal_words": "reglamento",
         "audio_filename": "line4_es_736.mp3",
-        "audio_dir": "Reglamento: Una regla o ley que controla cómo se hace algo.\nEjemplo: El nuevo reglamento requiere que todos los trabajadores usen equipo de seguridad."
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "respect.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -537,10 +501,10 @@
         "answer": "el respeto",
         "goal_words": "respeto",
         "audio_filename": "line2_es_292.mp3",
-        "audio_dir": "el respeto"
+        "learning_tag": "sustantivo -comportamiento"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "season.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -555,10 +519,10 @@
         "answer": "la temporada",
         "goal_words": "temporada",
         "audio_filename": "line3_es_770.mp3",
-        "audio_dir": "la temporada"
+        "learning_tag": "sustantivo - Tiempo y medida"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "shoot.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -573,10 +537,10 @@
         "answer": "el disparo",
         "goal_words": "disparo",
         "audio_filename": "line2_es_24.mp3",
-        "audio_dir": "el disparo"
+        "learning_tag": "sustantivo - acción"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "sign_wood.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -591,10 +555,10 @@
         "answer": "Firmar",
         "goal_words": "Firmar",
         "audio_filename": "line3_es_226.mp3",
-        "audio_dir": "Firmar"
+        "learning_tag": "sustantivo - Objetos cotidianos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "skill_cooking.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -609,10 +573,10 @@
         "answer": "La destreza",
         "goal_words": "destreza",
         "audio_filename": "line3_es_595.mp3",
-        "audio_dir": "La destreza"
+        "learning_tag": "sustantivo - Habilidades y Habilidades"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "track.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -627,10 +591,10 @@
         "answer": "La vía del ferrocarril",
         "goal_words": "vía",
         "audio_filename": "line3_es_788.mp3",
-        "audio_dir": "La vía del ferrocarril"
+        "learning_tag": "sustantivo - Objetos cotidianos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "turkey.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -645,10 +609,10 @@
         "answer": "el pavo",
         "goal_words": "pavo",
         "audio_filename": "line2_es_235.mp3",
-        "audio_dir": "el pavo"
+        "learning_tag": "sustantivo - animales"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "types.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -663,10 +627,10 @@
         "answer": "muchos tipos de camiones",
         "goal_words": "tipos",
         "audio_filename": "line4_es_53.mp3",
-        "audio_dir": "muchos tipos de camiones"
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "way.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -681,10 +645,10 @@
         "answer": "Manera: Un método o forma de hacer algo.\nEjemplo: Jugar juegos es una forma divertida de aprender.",
         "goal_words": "Manera",
         "audio_filename": "line3_es_947.mp3",
-        "audio_dir": "Manera: Un método o forma de hacer algo.\nEjemplo: Jugar juegos es una forma divertida de aprender."
+        "learning_tag": "sustantivo - Ideas y conceptos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "aim.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -699,10 +663,10 @@
         "answer": "apuntar",
         "goal_words": "apuntar",
         "audio_filename": "line_es_388.mp3",
-        "audio_dir": "apuntar"
+        "learning_tag": "verbo - efecto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "avoid.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -713,14 +677,14 @@
         "native_answer": "Avoid – To keep away from something or someone. Example: She avoided eating too much sugar.",
         "native_word": "verb - Object",
         "tag": "verb - Object",
-        "prompt": "______ – Mantenerse alejado de algo o alguien. Ejemplo: Ella evitó comer demasiada azúcar.",
+        "prompt": "Evitar – Mantenerse alejado de algo o alguien. Ejemplo: Ella evitó comer demasiada azúcar.",
         "answer": "Evitar – Mantenerse alejado de algo o alguien. Ejemplo: Ella evitó comer demasiada azúcar.",
         "goal_words": "Evitar",
         "audio_filename": "line3_es_185.mp3",
-        "audio_dir": "Evitar – Mantenerse alejado de algo o alguien. Ejemplo: Ella evitó comer demasiada azúcar."
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "choose.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -735,10 +699,10 @@
         "answer": "elegir",
         "goal_words": "elegir",
         "audio_filename": "line2_es_448.mp3",
-        "audio_dir": "elegir"
+        "learning_tag": "verbo - mental"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "dressverb.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -753,10 +717,10 @@
         "answer": "vestir",
         "goal_words": "vestir",
         "audio_filename": "line5_es_853.mp3",
-        "audio_dir": "vestir"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "certain.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -771,10 +735,10 @@
         "answer": "asegurar",
         "goal_words": "asegurar",
         "audio_filename": "line_es_407.mp3",
-        "audio_dir": "asegurar"
+        "learning_tag": "verbo - efecto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "certain.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -789,10 +753,10 @@
         "answer": "asegurar",
         "goal_words": "asegurar",
         "audio_filename": "line_es_407.mp3",
-        "audio_dir": "asegurar"
+        "learning_tag": "verbo - efecto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "follow2.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -807,10 +771,10 @@
         "answer": "(los gansos) seguir",
         "goal_words": "seguir",
         "audio_filename": "line_es_105.mp3",
-        "audio_dir": "(los gansos) seguir"
+        "learning_tag": "verbo - movimiento"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "harvest.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -825,10 +789,10 @@
         "answer": "cosechar",
         "goal_words": "cosechar",
         "audio_filename": "line_es_676.mp3",
-        "audio_dir": "cosechar"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "hunt.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -843,10 +807,10 @@
         "answer": "cazar",
         "goal_words": "cazar",
         "audio_filename": "line_es_538.mp3",
-        "audio_dir": "cazar"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "include.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -861,10 +825,10 @@
         "answer": "incluir a todos",
         "goal_words": "incluir",
         "audio_filename": "line3_es_419.mp3",
-        "audio_dir": "incluir a todos"
+        "learning_tag": "verbo - evaluar"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "look_up.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -879,10 +843,10 @@
         "answer": "mirar",
         "goal_words": "mirar",
         "audio_filename": "line4_es_22.mp3",
-        "audio_dir": "mirar"
+        "learning_tag": "verbo - percepción"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "move_couch.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -897,10 +861,10 @@
         "answer": "mover un sofá",
         "goal_words": "mover",
         "audio_filename": "line4_es_42.mp3",
-        "audio_dir": "mover un sofá"
+        "learning_tag": "verbo - movimiento"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "obtain.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -911,14 +875,14 @@
         "native_answer": "Obtain – To acquire something through effort. Example: He obtained a visa to travel abroad.",
         "native_word": "verb - Object",
         "tag": "verb - Object",
-        "prompt": "______ – Adquirir algo mediante esfuerzo. Ejemplo: Él obtuvo una visa para viajar al extranjero.",
+        "prompt": "Obtener – Adquirir algo mediante esfuerzo. Ejemplo: Él obtuvo una visa para viajar al extranjero.",
         "answer": "Obtener – Adquirir algo mediante esfuerzo. Ejemplo: Él obtuvo una visa para viajar al extranjero.",
         "goal_words": "Obtener",
         "audio_filename": "line4_es_400.mp3",
-        "audio_dir": "Obtener – Adquirir algo mediante esfuerzo. Ejemplo: Él obtuvo una visa para viajar al extranjero."
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "preserve.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -933,10 +897,10 @@
         "answer": "preservar",
         "goal_words": "preservar",
         "audio_filename": "line4_es_628.mp3",
-        "audio_dir": "preservar"
+        "learning_tag": "verbo - efecto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "charity.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -947,14 +911,14 @@
         "native_answer": "Provide – To give something needed or wanted. Example: The teacher provided the students with study materials.",
         "native_word": "verb - Interactive",
         "tag": "verb - Interactive",
-        "prompt": "______ – Dar algo necesario o deseado. Ejemplo: El maestro proveyó a los estudiantes con materiales de estudio.",
+        "prompt": "Proveer – Dar algo necesario o deseado. Ejemplo: El maestro proveyó a los estudiantes con materiales de estudio.",
         "answer": "Proveer – Dar algo necesario o deseado. Ejemplo: El maestro proveyó a los estudiantes con materiales de estudio.",
         "goal_words": "Proveer",
         "audio_filename": "line4_es_646.mp3",
-        "audio_dir": "Proveer – Dar algo necesario o deseado. Ejemplo: El maestro proveyó a los estudiantes con materiales de estudio."
+        "learning_tag": "verbo - interactivo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "require.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -969,10 +933,10 @@
         "answer": "requerir",
         "goal_words": "requerir",
         "audio_filename": "line4_es_749.mp3",
-        "audio_dir": "requerir"
+        "learning_tag": "verbo - efecto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "research.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -987,10 +951,10 @@
         "answer": "investigar",
         "goal_words": "investigar",
         "audio_filename": "line3_es_440.mp3",
-        "audio_dir": "investigar"
+        "learning_tag": "verbo - mental"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "respect.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1005,10 +969,10 @@
         "answer": "Respeto",
         "goal_words": "Respeto",
         "audio_filename": "line4_es_754.mp3",
-        "audio_dir": "Respeto"
+        "learning_tag": "verbo - evaluar"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "scout.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1023,10 +987,10 @@
         "answer": "explorar",
         "goal_words": "explorar",
         "audio_filename": "line3_es_196.mp3",
-        "audio_dir": "explorar"
+        "learning_tag": "verbo - interactivo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "select.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1041,10 +1005,10 @@
         "answer": "seleccionar",
         "goal_words": "seleccionar",
         "audio_filename": "line4_es_878.mp3",
-        "audio_dir": "seleccionar"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "dog_stay.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1059,14 +1023,14 @@
         "answer": "Quede",
         "goal_words": "Quede",
         "audio_filename": "line4_es_673.mp3",
-        "audio_dir": "Quede"
+        "learning_tag": "verbo - movimiento"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "take_treat.jpg",
         "card_type": "vocab",
         "identifier": "ID",
-        "info": "In Spanish, the infinitive is the base form of a verb. It is the unconjugated form that you would find in the dictionary. Infinitive verbs in Spanish end in -ar, -er, or -ir, which helps classify them into three main verb groups.\n\n-ar Verbs:\n\nExamples: hablar (to speak), estudiar (to study), bailar (to dance)\nThe majority of Spanish verbs belong to this group.\n-er Verbs:\n\nExamples: comer (to eat), beber (to drink), aprender (to learn)\nThis group includes verbs that end in -er.\n-ir Verbs:\n\nExamples: vivir (to live), escribir (to write), abrir (to open)\nThis group includes verbs that end in -ir.\nInfinitive verbs in Spanish serve as a base for conjugation. Conjugation is the process of changing the verb form to match the subject of a sentence, as well as the tense, mood, and aspect. Unlike English, where the infinitive form is often preceded by \"to,\" in Spanish, the infinitive itself is used and may be the form found in a dictionary.",
+        "info": null,
         "native_language": "english",
         "learning_language": "spanish",
         "native_group": "3 how to: hunt",
@@ -1077,10 +1041,10 @@
         "answer": "tomar una golosina",
         "goal_words": "tomar",
         "audio_filename": "line5_es_78.mp3",
-        "audio_dir": "tomar una golosina"
+        "learning_tag": "verbo - objeto"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "skill_cooking.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1095,10 +1059,10 @@
         "answer": "cocina hábil",
         "goal_words": "hábil",
         "audio_filename": "line_es_570.mp3",
-        "audio_dir": "cocina hábil"
+        "learning_tag": "adjetivo - juicio"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "regulation.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -1109,14 +1073,14 @@
         "native_answer": "Regulated – Controlled or governed by rules. Example: The pharmaceutical industry is highly regulated for safety.",
         "native_word": "adjective - Condition",
         "tag": "adjective - Condition",
-        "prompt": "______ – Controlado o gobernado por normas. Ejemplo: La industria farmacéutica está altamente regulada por seguridad.",
+        "prompt": "Regulado – Controlado o gobernado por normas. Ejemplo: La industria farmacéutica está altamente regulada por seguridad.",
         "answer": "Regulado – Controlado o gobernado por normas. Ejemplo: La industria farmacéutica está altamente regulada por seguridad.",
         "goal_words": "Regulado",
         "audio_filename": "line4_es_738.mp3",
-        "audio_dir": "Regulado – Controlado o gobernado por normas. Ejemplo: La industria farmacéutica está altamente regulada por seguridad."
+        "learning_tag": "adjetivo - Condición"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "necessary.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -1127,14 +1091,14 @@
         "native_answer": "Necessary.  something that is needed or required.",
         "native_word": "adjective - judgement",
         "tag": "adjective - judgement",
-        "prompt": "______. algo que se necesita o se requiere.",
+        "prompt": "Necesario. algo que se necesita o se requiere.",
         "answer": "Necesario. algo que se necesita o se requiere.",
         "goal_words": "Necesario",
         "audio_filename": "line4_es_76.mp3",
-        "audio_dir": "Necesario. algo que se necesita o se requiere."
+        "learning_tag": "adjetivo - juicio"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "farmersmarket.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1149,10 +1113,10 @@
         "answer": "el mercado del agricultor vende productos locales",
         "goal_words": "local",
         "audio_filename": "line2_es_185.mp3",
-        "audio_dir": "el mercado del agricultor vende productos locales"
+        "learning_tag": "adjetivo - rasgos físicos"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "appropriate.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -1163,14 +1127,14 @@
         "native_answer": "Appropriate – Proper or acceptable in a given situation. Example: It’s not appropriate to wear shorts to a business meeting.",
         "native_word": "adjective - Judgment",
         "tag": "adjective - Judgment",
-        "prompt": "Apropiado – Correcto o aceptable en una situación dada. Ejemplo: No es ______ usar pantalones cortos en una reunión de negocios.",
+        "prompt": "Apropiado – Correcto o aceptable en una situación dada. Ejemplo: No es apropiado usar pantalones cortos en una reunión de negocios.",
         "answer": "Apropiado – Correcto o aceptable en una situación dada. Ejemplo: No es apropiado usar pantalones cortos en una reunión de negocios.",
         "goal_words": "apropiado",
         "audio_filename": "line_es_384.mp3",
-        "audio_dir": "Apropiado – Correcto o aceptable en una situación dada. Ejemplo: No es apropiado usar pantalones cortos en una reunión de negocios."
+        "learning_tag": "adjetivo - juicio"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "quietloud.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1185,10 +1149,10 @@
         "answer": "silencioso ruidoso",
         "goal_words": "silencioso",
         "audio_filename": "line4_es_944.mp3",
-        "audio_dir": "silencioso ruidoso"
+        "learning_tag": "opuestos - adjevtivo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "responsible.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1203,10 +1167,10 @@
         "answer": "responsable",
         "goal_words": "responsable",
         "audio_filename": "line4_es_759.mp3",
-        "audio_dir": "responsable"
+        "learning_tag": "adjetivo - comportamiento"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "successful.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1221,10 +1185,10 @@
         "answer": "exitoso",
         "goal_words": "exitoso",
         "audio_filename": "line3_es_191.mp3",
-        "audio_dir": "exitoso"
+        "learning_tag": "adjetivo - condición y calidad"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "quick.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -1235,14 +1199,14 @@
         "native_answer": "Quick – Fast in movement or response. Example: She gave a quick answer to the question.",
         "native_word": "adjective - Speed & Movement",
         "tag": "adjective - Speed & Movement",
-        "prompt": "______ – Veloz en movimiento o respuesta. Ejemplo: Ella dio una respuesta rápida a la pregunta.",
+        "prompt": "Rápido – Veloz en movimiento o respuesta. Ejemplo: Ella dio una respuesta rápida a la pregunta.",
         "answer": "Rápido – Veloz en movimiento o respuesta. Ejemplo: Ella dio una respuesta rápida a la pregunta.",
         "goal_words": "Rápido",
         "audio_filename": "line4_es_706.mp3",
-        "audio_dir": "Rápido – Veloz en movimiento o respuesta. Ejemplo: Ella dio una respuesta rápida a la pregunta."
+        "learning_tag": "adjetivo - Velocidad y movimiento"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "humane.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -1253,14 +1217,14 @@
         "native_answer": "Humane – Showing kindness and compassion. Example: The shelter takes a humane approach to caring for stray animals.",
         "native_word": "adjective - Judgment",
         "tag": "adjective - Judgment",
-        "prompt": "Humano – Que muestra amabilidad y compasión. Ejemplo: El refugio adopta un enfoque ______ para cuidar a los animales callejeros.",
+        "prompt": "Humano – Que muestra amabilidad y compasión. Ejemplo: El refugio adopta un enfoque humano para cuidar a los animales callejeros.",
         "answer": "Humano – Que muestra amabilidad y compasión. Ejemplo: El refugio adopta un enfoque humano para cuidar a los animales callejeros.",
         "goal_words": "humano",
         "audio_filename": "line3_es_401.mp3",
-        "audio_dir": "Humano – Que muestra amabilidad y compasión. Ejemplo: El refugio adopta un enfoque humano para cuidar a los animales callejeros."
+        "learning_tag": "adjetivo - juicio"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "ethical.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -1271,14 +1235,14 @@
         "native_answer": "Ethical – Morally right or following accepted principles. Example: The scientist followed ethical guidelines in her research.",
         "native_word": "adjective - Judgment",
         "tag": "adjective - Judgment",
-        "prompt": "______ – Moralmente correcto o que sigue principios aceptados. Ejemplo: La científica siguió pautas éticas en su investigación.",
+        "prompt": "Ético – Moralmente correcto o que sigue principios aceptados. Ejemplo: La científica siguió pautas éticas en su investigación.",
         "answer": "Ético – Moralmente correcto o que sigue principios aceptados. Ejemplo: La científica siguió pautas éticas en su investigación.",
         "goal_words": "Ético",
         "audio_filename": "line3_es_184.mp3",
-        "audio_dir": "Ético – Moralmente correcto o que sigue principios aceptados. Ejemplo: La científica siguió pautas éticas en su investigación."
+        "learning_tag": "adjetivo - juicio"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "reward.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -1289,14 +1253,14 @@
         "native_answer": "Rewarding – Providing satisfaction or benefit. Example: Teaching can be a rewarding career when students succeed.",
         "native_word": "adjective - Creating Emotion",
         "tag": "adjective - Creating Emotion",
-        "prompt": "Gratificante – Que proporciona satisfacción o beneficio. Ejemplo: Enseñar puede ser una carrera ______ cuando los estudiantes tienen éxito.",
+        "prompt": "Gratificante – Que proporciona satisfacción o beneficio. Ejemplo: Enseñar puede ser una carrera gratificante cuando los estudiantes tienen éxito.",
         "answer": "Gratificante – Que proporciona satisfacción o beneficio. Ejemplo: Enseñar puede ser una carrera gratificante cuando los estudiantes tienen éxito.",
         "goal_words": "gratificante",
         "audio_filename": "line3_es_284.mp3",
-        "audio_dir": "Gratificante – Que proporciona satisfacción o beneficio. Ejemplo: Enseñar puede ser una carrera gratificante cuando los estudiantes tienen éxito."
+        "learning_tag": "adjetivo - creando emoción"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "sustainable.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -1307,14 +1271,14 @@
         "native_answer": "Sustainable – Able to continue without causing harm or depletion. Example: Solar energy is a sustainable source of power.",
         "native_word": "adjective - Condition & Quality",
         "tag": "adjective - Condition & Quality",
-        "prompt": "Sostenible – Que puede continuar sin causar daño o agotamiento. Ejemplo: La energía solar es una fuente de energía ______.",
+        "prompt": "Sostenible – Que puede continuar sin causar daño o agotamiento. Ejemplo: La energía solar es una fuente de energía sostenible.",
         "answer": "Sostenible – Que puede continuar sin causar daño o agotamiento. Ejemplo: La energía solar es una fuente de energía sostenible.",
         "goal_words": "sostenible",
         "audio_filename": "line4_es_971.mp3",
-        "audio_dir": "Sostenible – Que puede continuar sin causar daño o agotamiento. Ejemplo: La energía solar es una fuente de energía sostenible."
+        "learning_tag": "adjetivo - Condición y calidad"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "ontime.jpg",
         "card_type": "reading",
         "identifier": "ID",
@@ -1325,14 +1289,14 @@
         "native_answer": "Promptly – Without delay; quickly and on time. Example: The doctor saw the patient promptly at 10 a.m.",
         "native_word": "adverb - Time",
         "tag": "adverb - Time",
-        "prompt": "Rápidamente – Sin demora; de manera rápida y a tiempo. Ejemplo: El doctor atendió al paciente ______ a las 10 a.m.",
+        "prompt": "Rápidamente – Sin demora; de manera rápida y a tiempo. Ejemplo: El doctor atendió al paciente rápidamente a las 10 a.m.",
         "answer": "Rápidamente – Sin demora; de manera rápida y a tiempo. Ejemplo: El doctor atendió al paciente rápidamente a las 10 a.m.",
         "goal_words": "rápidamente",
         "audio_filename": "line4_es_705.mp3",
-        "audio_dir": "Rápidamente – Sin demora; de manera rápida y a tiempo. Ejemplo: El doctor atendió al paciente rápidamente a las 10 a.m."
+        "learning_tag": "adverbio - tiempo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "quiet.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -1347,10 +1311,10 @@
         "answer": "Silenciosamente",
         "goal_words": "Silenciosamente",
         "audio_filename": "line4_es_942.mp3",
-        "audio_dir": "Silenciosamente"
+        "learning_tag": "adverbio - manera"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1365,10 +1329,10 @@
         "answer": "Cómo cazar",
         "goal_words": "",
         "audio_filename": "line_es_597.mp3",
-        "audio_dir": "Cómo cazar"
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1383,10 +1347,10 @@
         "answer": "La caza es una actividad hábil y reglada que requiere preparación, paciencia y respeto por la naturaleza.",
         "goal_words": "",
         "audio_filename": "line3_es_560.mp3",
-        "audio_dir": "La caza es una actividad hábil y reglada que requiere preparación, paciencia y respeto por la naturaleza."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1401,10 +1365,10 @@
         "answer": "Para empezar, elige el tipo de caza que quieres cazar, como ciervos, pavos o conejos, y obtén las licencias y permisos necesarios.",
         "goal_words": "",
         "audio_filename": "line4_es_476.mp3",
-        "audio_dir": "Para empezar, elige el tipo de caza que quieres cazar, como ciervos, pavos o conejos, y obtén las licencias y permisos necesarios."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1419,10 +1383,10 @@
         "answer": "Investigue las temporadas y las regulaciones de caza locales para garantizar su cumplimiento.",
         "goal_words": "",
         "audio_filename": "line3_es_441.mp3",
-        "audio_dir": "Investigue las temporadas y las regulaciones de caza locales para garantizar su cumplimiento."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1437,10 +1401,10 @@
         "answer": "Seleccione el equipo adecuado, incluido un arma de fuego o arco, municiones y ropa adecuada para camuflarse y protegerse.",
         "goal_words": "",
         "audio_filename": "line4_es_879.mp3",
-        "audio_dir": "Seleccione el equipo adecuado, incluido un arma de fuego o arco, municiones y ropa adecuada para camuflarse y protegerse."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1455,10 +1419,10 @@
         "answer": "Antes de salir, explore la zona de caza en busca de signos de actividad animal, como huellas o excrementos.",
         "goal_words": "",
         "audio_filename": "line_es_368.mp3",
-        "audio_dir": "Antes de salir, explore la zona de caza en busca de signos de actividad animal, como huellas o excrementos."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1473,10 +1437,10 @@
         "answer": "Muévase en silencio y manténgase a favor del viento para evitar ser detectado.",
         "goal_words": "",
         "audio_filename": "line4_es_55.mp3",
-        "audio_dir": "Muévase en silencio y manténgase a favor del viento para evitar ser detectado."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1491,10 +1455,10 @@
         "answer": "Cuando un animal esté dentro del alcance, apunte con cuidado y dispare de manera responsable para garantizar una captura rápida y humana.",
         "goal_words": "",
         "audio_filename": "line_es_698.mp3",
-        "audio_dir": "Cuando un animal esté dentro del alcance, apunte con cuidado y dispare de manera responsable para garantizar una captura rápida y humana."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1509,10 +1473,10 @@
         "answer": "Después de una caza exitosa, prepare al animal lo antes posible para conservar la carne.",
         "goal_words": "",
         "audio_filename": "line_es_795.mp3",
-        "audio_dir": "Después de una caza exitosa, prepare al animal lo antes posible para conservar la carne."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1527,10 +1491,10 @@
         "answer": "Siga siempre prácticas de caza éticas y respete las leyes de conservación de la vida silvestre.",
         "goal_words": "",
         "audio_filename": "line4_es_941.mp3",
-        "audio_dir": "Siga siempre prácticas de caza éticas y respete las leyes de conservación de la vida silvestre."
+        "learning_tag": "tiempo presente e imperativo"
     },
     {
-        "level": 3.0,
+        "level": 5.0,
         "image_filename": "",
         "card_type": "story",
         "identifier": "ID",
@@ -1545,6 +1509,6 @@
         "answer": "Con práctica y paciencia, la caza puede ser una forma gratificante de conectarse con la naturaleza y proporcionar alimentos de forma sostenible.",
         "goal_words": "",
         "audio_filename": "line_es_625.mp3",
-        "audio_dir": "Con práctica y paciencia, la caza puede ser una forma gratificante de conectarse con la naturaleza y proporcionar alimentos de forma sostenible."
+        "learning_tag": "tiempo presente e imperativo"
     }
 ]

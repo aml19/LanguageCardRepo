@@ -9,13 +9,13 @@
         "learning_language": "german",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "Silent \"h\" in \"th\":",
+        "tag": "Silent \"h\" in \"th\":",
         "prompt": "Theater ______,______",
         "answer": "Theater (pronounced /teˈaːtɐ/), the \"h\" is silent.",
         "goal_words": "(pronounced /teˈaːtɐ/),  the \"h\" is silent.",
         "audio_filename": "line5_de_228.mp3",
-        "audio_dir": "Theater"
+        "learning_tag": "Silent \"h\" in \"th\":"
     },
     {
         "level": 1.0,
@@ -27,13 +27,13 @@
         "learning_language": "german",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "Silent \"e\" in unstressed syllables:",
+        "tag": "Silent \"e\" in unstressed syllables:",
         "prompt": "haben ______,______",
         "answer": "haben (pronounced /ˈhaːbn̩/), the final \"e\" is often dropped in casual speech.",
         "goal_words": "(pronounced /ˈhaːbn̩/),  the final \"e\" is often dropped in casual speech.",
         "audio_filename": "line3_de_338.mp3",
-        "audio_dir": "haben"
+        "learning_tag": "Silent \"e\" in unstressed syllables:"
     },
     {
         "level": 1.0,
@@ -45,13 +45,13 @@
         "learning_language": "german",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "h as a length marker for vowels (not pronounced):",
+        "tag": "h as a length marker for vowels (not pronounced):",
         "prompt": "fahren ______,______",
         "answer": "fahren (pronounced /ˈfaːʁən/), the \"h\" is silent but lengthens the \"a\".",
         "goal_words": "(pronounced /ˈfaːʁən/),  the \"h\" is silent but lengthens the \"a\".",
         "audio_filename": "line3_de_151.mp3",
-        "audio_dir": "fahren"
+        "learning_tag": "h as a length marker for vowels (not pronounced):"
     },
     {
         "level": 1.0,
@@ -63,12 +63,12 @@
         "learning_language": "german",
         "native_group": "1 pronunciation - silent letters",
         "native_answer": "NA",
-        "native_word": null,
-        "tag": null,
+        "native_word": "Silent \"r\" in unstressed syllables (often becomes a schwa sound):",
+        "tag": "Silent \"r\" in unstressed syllables (often becomes a schwa sound):",
         "prompt": "Mutter ______,______",
         "answer": "Mutter (pronounced /ˈmʊtɐ/), the final \"r\" is a soft schwa-like sound.",
         "goal_words": "(pronounced /ˈmʊtɐ/),  the final \"r\" is a soft schwa-like sound.",
         "audio_filename": "line4_de_232.mp3",
-        "audio_dir": "Mutter"
+        "learning_tag": "Silent \"r\" in unstressed syllables (often becomes a schwa sound):"
     }
 ]

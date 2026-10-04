@@ -1,78 +1,6 @@
 [
     {
         "level": 4.0,
-        "image_filename": "alone.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "alone",
-        "native_word": "adjective -  Condition",
-        "tag": "adjective -  Condition",
-        "prompt": "______",
-        "answer": "Seul / Seule",
-        "goal_words": "Seul / Seule",
-        "audio_filename": "line5_fr_28.mp3",
-        "audio_dir": "Seul / Seule"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "stand_here.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "Here",
-        "native_word": "adverb -  Place",
-        "tag": "adverb -  Place",
-        "prompt": "______",
-        "answer": "Ici",
-        "goal_words": "Ici",
-        "audio_filename": "line2_fr_318.mp3",
-        "audio_dir": "Ici"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "moon.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "moon",
-        "native_word": "everyday things",
-        "tag": "everyday things",
-        "prompt": "______",
-        "answer": "lune",
-        "goal_words": "lune",
-        "audio_filename": "line3_fr_968.mp3",
-        "audio_dir": "lune"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "person.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "Person",
-        "native_word": "noun - People & Roles",
-        "tag": "noun - People & Roles",
-        "prompt": "Une ______",
-        "answer": "Une personne",
-        "goal_words": "personne",
-        "audio_filename": "line5_fr_656.mp3",
-        "audio_dir": "Une personne"
-    },
-    {
-        "level": 4.0,
         "image_filename": "road_trip.jpg",
         "card_type": "vocab",
         "identifier": "ID",
@@ -87,7 +15,7 @@
         "answer": "Un voyage",
         "goal_words": "voyage",
         "audio_filename": "line5_fr_611.mp3",
-        "audio_dir": "Un voyage"
+        "learning_tag": "nom - Événements"
     },
     {
         "level": 4.0,
@@ -105,7 +33,7 @@
         "answer": "La gravité : la force qui attire un corps vers le centre de la Terre",
         "goal_words": "gravité",
         "audio_filename": "line3_fr_444.mp3",
-        "audio_dir": "La gravité : la force qui attire un corps vers le centre de la Terre"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -123,7 +51,7 @@
         "answer": "La Terre",
         "goal_words": "Terre",
         "audio_filename": "line3_fr_558.mp3",
-        "audio_dir": "La Terre"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -141,7 +69,7 @@
         "answer": "Il y a beaucoup de choses dans l'espace",
         "goal_words": "espace",
         "audio_filename": "line2_fr_570.mp3",
-        "audio_dir": "Il y a beaucoup de choses dans l'espace"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -159,43 +87,7 @@
         "answer": "Monter pour une montée d'adrénaline",
         "goal_words": "d'adrénaline",
         "audio_filename": "line4_fr_62.mp3",
-        "audio_dir": "Monter pour une montée d'adrénaline"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "foot.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "Foot",
-        "native_word": "noun - Body Parts",
-        "tag": "noun - Body Parts",
-        "prompt": "Un ______",
-        "answer": "Un pied",
-        "goal_words": "pied",
-        "audio_filename": "line5_fr_587.mp3",
-        "audio_dir": "Un pied"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "body.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "Body",
-        "native_word": "noun - Body Parts",
-        "tag": "noun - Body Parts",
-        "prompt": "Un ______",
-        "answer": "Un corps",
-        "goal_words": "corps",
-        "audio_filename": "line5_fr_548.mp3",
-        "audio_dir": "Un corps"
+        "learning_tag": "nom - Sentiments et émotions"
     },
     {
         "level": 4.0,
@@ -213,7 +105,7 @@
         "answer": "Une histoire",
         "goal_words": "histoire",
         "audio_filename": "line5_fr_646.mp3",
-        "audio_dir": "Une histoire"
+        "learning_tag": "nom - Idées et concepts"
     },
     {
         "level": 4.0,
@@ -231,7 +123,7 @@
         "answer": "La surface de la lune",
         "goal_words": "surface",
         "audio_filename": "line3_fr_548.mp3",
-        "audio_dir": "La surface de la lune"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -249,7 +141,7 @@
         "answer": "Faire une expérience",
         "goal_words": "expérience",
         "audio_filename": "line2_fr_202.mp3",
-        "audio_dir": "Faire une expérience"
+        "learning_tag": "nom - Activités"
     },
     {
         "level": 4.0,
@@ -267,7 +159,7 @@
         "answer": "Chaque animal dans son habitat",
         "goal_words": "habitat",
         "audio_filename": "line_fr_557.mp3",
-        "audio_dir": "Chaque animal dans son habitat"
+        "learning_tag": "nom - Éléments naturels"
     },
     {
         "level": 4.0,
@@ -285,7 +177,7 @@
         "answer": "en aventure",
         "goal_words": "aventure",
         "audio_filename": "line2_fr_106.mp3",
-        "audio_dir": "en aventure"
+        "learning_tag": "nom - Événements"
     },
     {
         "level": 4.0,
@@ -303,7 +195,7 @@
         "answer": "toute une vie: une vie allant de jeune à vieux",
         "goal_words": "toute une vie",
         "audio_filename": "line5_fr_226.mp3",
-        "audio_dir": "toute une vie: une vie allant de jeune à vieux"
+        "learning_tag": "nom - Temps et mesure"
     },
     {
         "level": 4.0,
@@ -317,11 +209,11 @@
         "native_answer": "american pioneer going west",
         "native_word": "noun - People & Roles",
         "tag": "noun - People & Roles",
-        "prompt": "Un ______ américain allant vers l'ouest",
+        "prompt": "Un pionnier américain allant vers l'ouest",
         "answer": "Un pionnier américain allant vers l'ouest",
         "goal_words": "pionnier",
         "audio_filename": "line5_fr_588.mp3",
-        "audio_dir": "Un pionnier américain allant vers l'ouest"
+        "learning_tag": "nom - Personnes et rôles"
     },
     {
         "level": 4.0,
@@ -339,7 +231,7 @@
         "answer": "exploration : l'action de voyager dans ou à travers une région inconnue afin d'en apprendre davantage sur elle.",
         "goal_words": "exploration",
         "audio_filename": "line2_fr_187.mp3",
-        "audio_dir": "exploration : l'action de voyager dans ou à travers une région inconnue afin d'en apprendre davantage sur elle."
+        "learning_tag": "nom - Activités"
     },
     {
         "level": 4.0,
@@ -357,7 +249,7 @@
         "answer": "Un long voyage à venir",
         "goal_words": "voyage",
         "audio_filename": "line5_fr_574.mp3",
-        "audio_dir": "Un long voyage à venir"
+        "learning_tag": "nom - Événements"
     },
     {
         "level": 4.0,
@@ -375,7 +267,7 @@
         "answer": "Un pas",
         "goal_words": "pas",
         "audio_filename": "line5_fr_581.mp3",
-        "audio_dir": "Un pas"
+        "learning_tag": "nom - Actions"
     },
     {
         "level": 4.0,
@@ -393,25 +285,7 @@
         "answer": "croire : accepter (quelque chose) comme vrai ; être sûr de la vérité de cela.",
         "goal_words": "croire",
         "audio_filename": "line_fr_684.mp3",
-        "audio_dir": "croire : accepter (quelque chose) comme vrai ; être sûr de la vérité de cela."
-    },
-    {
-        "level": 4.0,
-        "image_filename": "go_with_her.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "to go with her",
-        "native_word": "verb - movement",
-        "tag": "verb - movement",
-        "prompt": "______ avec elle",
-        "answer": "aller avec elle",
-        "goal_words": "aller",
-        "audio_filename": "line_fr_249.mp3",
-        "audio_dir": "aller avec elle"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -429,7 +303,7 @@
         "answer": "Rêver",
         "goal_words": "Rêver",
         "audio_filename": "line4_fr_872.mp3",
-        "audio_dir": "Rêver"
+        "learning_tag": "verbe - mental"
     },
     {
         "level": 4.0,
@@ -447,43 +321,7 @@
         "answer": "expérimenter la réalité virtuelle",
         "goal_words": "expérimenter",
         "audio_filename": "line2_fr_185.mp3",
-        "audio_dir": "expérimenter la réalité virtuelle"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "see.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "See",
-        "native_word": "verb - perception",
-        "tag": "verb - perception",
-        "prompt": "______",
-        "answer": "Voir",
-        "goal_words": "Voir",
-        "audio_filename": "line5_fr_727.mp3",
-        "audio_dir": "Voir"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "wait.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "wait",
-        "native_word": "verb - self",
-        "tag": "verb - self",
-        "prompt": "______",
-        "answer": "attendre",
-        "goal_words": "attendre",
-        "audio_filename": "line_fr_323.mp3",
-        "audio_dir": "attendre"
+        "learning_tag": "verbe - perception"
     },
     {
         "level": 4.0,
@@ -501,7 +339,7 @@
         "answer": "explorer un nouveau monde",
         "goal_words": "explorer",
         "audio_filename": "line2_fr_189.mp3",
-        "audio_dir": "explorer un nouveau monde"
+        "learning_tag": "verbe - mouvement"
     },
     {
         "level": 4.0,
@@ -519,24 +357,6 @@
         "answer": "diriger un groupe",
         "goal_words": "diriger",
         "audio_filename": "line_fr_814.mp3",
-        "audio_dir": "diriger un groupe"
-    },
-    {
-        "level": 4.0,
-        "image_filename": "make.jpg",
-        "card_type": "vocab",
-        "identifier": "ID",
-        "info": null,
-        "native_language": "english",
-        "learning_language": "french",
-        "native_group": "4 short story - future tense - moon trip",
-        "native_answer": "make",
-        "native_word": "verb - object",
-        "tag": "verb - object",
-        "prompt": "______",
-        "answer": "faire",
-        "goal_words": "faire",
-        "audio_filename": "line2_fr_195.mp3",
-        "audio_dir": "faire"
+        "learning_tag": "verbe - effet"
     }
 ]

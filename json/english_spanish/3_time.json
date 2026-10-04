@@ -15,7 +15,7 @@
         "answer": "domingo",
         "goal_words": "domingo",
         "audio_filename": "line_es_831.mp3",
-        "audio_dir": "domingo"
+        "learning_tag": "día de la semana - 1"
     },
     {
         "level": 3.0,
@@ -33,7 +33,7 @@
         "answer": "lunes",
         "goal_words": "lunes",
         "audio_filename": "line3_es_930.mp3",
-        "audio_dir": "lunes"
+        "learning_tag": "día de la semana - 2"
     },
     {
         "level": 3.0,
@@ -51,7 +51,7 @@
         "answer": "martes",
         "goal_words": "martes",
         "audio_filename": "line3_es_961.mp3",
-        "audio_dir": "martes"
+        "learning_tag": "día de la semana - 3"
     },
     {
         "level": 3.0,
@@ -69,7 +69,7 @@
         "answer": "miércoles",
         "goal_words": "miércoles",
         "audio_filename": "line4_es_19.mp3",
-        "audio_dir": "miércoles"
+        "learning_tag": "día de la semana - 4"
     },
     {
         "level": 3.0,
@@ -87,7 +87,7 @@
         "answer": "jueves",
         "goal_words": "jueves",
         "audio_filename": "line3_es_472.mp3",
-        "audio_dir": "jueves"
+        "learning_tag": "día de la semana - 5"
     },
     {
         "level": 3.0,
@@ -105,7 +105,7 @@
         "answer": "viernes",
         "goal_words": "viernes",
         "audio_filename": "line5_es_864.mp3",
-        "audio_dir": "viernes"
+        "learning_tag": "día de la semana - 6"
     },
     {
         "level": 3.0,
@@ -123,7 +123,7 @@
         "answer": "sábado",
         "goal_words": "sábado",
         "audio_filename": "line4_es_788.mp3",
-        "audio_dir": "sábado"
+        "learning_tag": "día de la semana - 7"
     },
     {
         "level": 3.0,
@@ -141,7 +141,7 @@
         "answer": "enero",
         "goal_words": "enero",
         "audio_filename": "line2_es_960.mp3",
-        "audio_dir": "enero"
+        "learning_tag": "mes - 1"
     },
     {
         "level": 3.0,
@@ -159,7 +159,7 @@
         "answer": "febrero",
         "goal_words": "febrero",
         "audio_filename": "line3_es_212.mp3",
-        "audio_dir": "febrero"
+        "learning_tag": "mes - 2"
     },
     {
         "level": 3.0,
@@ -177,7 +177,7 @@
         "answer": "marzo",
         "goal_words": "marzo",
         "audio_filename": "line3_es_964.mp3",
-        "audio_dir": "marzo"
+        "learning_tag": "mes - 3"
     },
     {
         "level": 3.0,
@@ -195,7 +195,7 @@
         "answer": "abril",
         "goal_words": "abril",
         "audio_filename": "line_es_261.mp3",
-        "audio_dir": "abril"
+        "learning_tag": "mes - 4"
     },
     {
         "level": 3.0,
@@ -213,7 +213,7 @@
         "answer": "mayo",
         "goal_words": "mayo",
         "audio_filename": "line3_es_976.mp3",
-        "audio_dir": "mayo"
+        "learning_tag": "mes - 5"
     },
     {
         "level": 3.0,
@@ -231,7 +231,7 @@
         "answer": "junio",
         "goal_words": "junio",
         "audio_filename": "line3_es_483.mp3",
-        "audio_dir": "junio"
+        "learning_tag": "mes - 6"
     },
     {
         "level": 3.0,
@@ -249,7 +249,7 @@
         "answer": "julio",
         "goal_words": "julio",
         "audio_filename": "line3_es_482.mp3",
-        "audio_dir": "julio"
+        "learning_tag": "mes - 7"
     },
     {
         "level": 3.0,
@@ -267,7 +267,7 @@
         "answer": "agosto",
         "goal_words": "agosto",
         "audio_filename": "line_es_298.mp3",
-        "audio_dir": "agosto"
+        "learning_tag": "mes - 8"
     },
     {
         "level": 3.0,
@@ -285,7 +285,7 @@
         "answer": "septiembre",
         "goal_words": "septiembre",
         "audio_filename": "line4_es_893.mp3",
-        "audio_dir": "septiembre"
+        "learning_tag": "mes - 9"
     },
     {
         "level": 3.0,
@@ -303,7 +303,7 @@
         "answer": "octubre",
         "goal_words": "octubre",
         "audio_filename": "line4_es_401.mp3",
-        "audio_dir": "octubre"
+        "learning_tag": "mes - 10"
     },
     {
         "level": 3.0,
@@ -321,7 +321,7 @@
         "answer": "noviembre",
         "goal_words": "noviembre",
         "audio_filename": "line4_es_388.mp3",
-        "audio_dir": "noviembre"
+        "learning_tag": "mes - 11"
     },
     {
         "level": 3.0,
@@ -339,7 +339,7 @@
         "answer": "diciembre",
         "goal_words": "diciembre",
         "audio_filename": "line_es_806.mp3",
-        "audio_dir": "diciembre"
+        "learning_tag": "mes - 12"
     },
     {
         "level": 3.0,
@@ -357,7 +357,7 @@
         "answer": "el calendario",
         "goal_words": "el calendario",
         "audio_filename": "line_es_940.mp3",
-        "audio_dir": "el calendario"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -375,7 +375,7 @@
         "answer": "el horario",
         "goal_words": "el horario",
         "audio_filename": "line2_es_134.mp3",
-        "audio_dir": "el horario"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -393,7 +393,7 @@
         "answer": "la hora",
         "goal_words": "la hora",
         "audio_filename": "line3_es_632.mp3",
-        "audio_dir": "la hora"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -411,7 +411,7 @@
         "answer": "el minuto",
         "goal_words": "el minuto",
         "audio_filename": "line2_es_189.mp3",
-        "audio_dir": "el minuto"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -429,7 +429,7 @@
         "answer": "el segundo",
         "goal_words": "el segundo",
         "audio_filename": "line2_es_308.mp3",
-        "audio_dir": "el segundo"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -447,7 +447,7 @@
         "answer": "la mañana",
         "goal_words": "la mañana",
         "audio_filename": "line3_es_664.mp3",
-        "audio_dir": "la mañana"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -465,7 +465,7 @@
         "answer": "la noche",
         "goal_words": "la noche",
         "audio_filename": "line3_es_692.mp3",
-        "audio_dir": "la noche"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -483,7 +483,7 @@
         "answer": "el día",
         "goal_words": "el día",
         "audio_filename": "line2_es_17.mp3",
-        "audio_dir": "el día"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -501,7 +501,7 @@
         "answer": "temprano",
         "goal_words": "temprano",
         "audio_filename": "line5_es_23.mp3",
-        "audio_dir": "temprano"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -519,7 +519,7 @@
         "answer": "tarde",
         "goal_words": "tarde",
         "audio_filename": "line5_es_15.mp3",
-        "audio_dir": "tarde"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -537,7 +537,7 @@
         "answer": "tarde",
         "goal_words": "tarde",
         "audio_filename": "line5_es_15.mp3",
-        "audio_dir": "tarde"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -555,7 +555,7 @@
         "answer": "el mes",
         "goal_words": "el mes",
         "audio_filename": "line2_es_186.mp3",
-        "audio_dir": "el mes"
+        "learning_tag": "tiempo"
     },
     {
         "level": 3.0,
@@ -573,7 +573,7 @@
         "answer": "el otoño",
         "goal_words": "otoño",
         "audio_filename": "line2_es_221.mp3",
-        "audio_dir": "el otoño"
+        "learning_tag": "sustantivo - tiempo"
     },
     {
         "level": 3.0,
@@ -591,7 +591,7 @@
         "answer": "la temporada",
         "goal_words": "temporada",
         "audio_filename": "line3_es_770.mp3",
-        "audio_dir": "la temporada"
+        "learning_tag": "sustantivo - tiempo"
     },
     {
         "level": 3.0,
@@ -609,7 +609,7 @@
         "answer": "la primavera",
         "goal_words": "primavera",
         "audio_filename": "line3_es_727.mp3",
-        "audio_dir": "la primavera"
+        "learning_tag": "sustantivo - tiempo"
     },
     {
         "level": 3.0,
@@ -627,7 +627,7 @@
         "answer": "el verano",
         "goal_words": "verano",
         "audio_filename": "line2_es_374.mp3",
-        "audio_dir": "el verano"
+        "learning_tag": "sustantivo - tiempo"
     },
     {
         "level": 3.0,
@@ -645,7 +645,7 @@
         "answer": "el invierno",
         "goal_words": "invierno",
         "audio_filename": "line2_es_143.mp3",
-        "audio_dir": "el invierno"
+        "learning_tag": "sustantivo - tiempo"
     },
     {
         "level": 3.0,
@@ -659,11 +659,11 @@
         "native_answer": "past present future",
         "native_word": "opposites - noun",
         "tag": "opposites - noun",
-        "prompt": "______",
+        "prompt": "______ presente futuro",
         "answer": "pasado presente futuro",
-        "goal_words": "pasado presente futuro",
+        "goal_words": "pasado",
         "audio_filename": "line4_es_500.mp3",
-        "audio_dir": "pasado presente futuro"
+        "learning_tag": "opuestos - cosa"
     },
     {
         "level": 3.0,
@@ -677,11 +677,11 @@
         "native_answer": "past present future",
         "native_word": "opposites - noun",
         "tag": "opposites - noun",
-        "prompt": "______",
+        "prompt": "pasado presente ______",
         "answer": "pasado presente futuro",
-        "goal_words": "pasado presente futuro",
+        "goal_words": "futuro",
         "audio_filename": "line4_es_500.mp3",
-        "audio_dir": "pasado presente futuro"
+        "learning_tag": "opuestos - cosa"
     },
     {
         "level": 3.0,
@@ -699,7 +699,7 @@
         "answer": "medianoche.  mitad de la noche",
         "goal_words": "medianoche",
         "audio_filename": "line4_es_7.mp3",
-        "audio_dir": "medianoche.  mitad de la noche"
+        "learning_tag": "cosa"
     },
     {
         "level": 3.0,
@@ -717,7 +717,7 @@
         "answer": "el sol se pone por la tarde",
         "goal_words": "tarde",
         "audio_filename": "line2_es_319.mp3",
-        "audio_dir": "el sol se pone por la tarde"
+        "learning_tag": "cosa"
     },
     {
         "level": 3.0,
@@ -735,7 +735,7 @@
         "answer": "despertarse por la mañana",
         "goal_words": "mañana",
         "audio_filename": "line_es_790.mp3",
-        "audio_dir": "despertarse por la mañana"
+        "learning_tag": "cosa"
     },
     {
         "level": 3.0,
@@ -749,10 +749,10 @@
         "native_answer": "every year",
         "native_word": "noun - time",
         "tag": "noun - time",
-        "prompt": "cada ______",
+        "prompt": "cada año",
         "answer": "cada año",
         "goal_words": "año",
         "audio_filename": "line_es_473.mp3",
-        "audio_dir": "cada año"
+        "learning_tag": "cosa"
     }
 ]
