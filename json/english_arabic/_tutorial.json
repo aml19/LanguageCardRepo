@@ -1,0 +1,38 @@
+[
+    {
+        "level": 1.0,
+        "image_filename": "tutorial1.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": "Extra help can be given here to help you learn a card better",
+        "native_language": "english",
+        "learning_language": "arabic",
+        "native_group": "! tutorial",
+        "native_answer": "NA",
+        "native_word": null,
+        "tag": null,
+        "prompt": "Welcome to the language app. Swipe right ______ ______",
+        "answer": "Welcome to the language app. Swipe right Each card has a second part.  Swipe right Each card has a second part.  Swipe right",
+        "goal_words": "Each card has a second part.  Swipe right",
+        "audio_filename": "line3sep2026_ar_2.mp3",
+        "learning_tag": "Welcome"
+    },
+    {
+        "level": 1.0,
+        "image_filename": "download.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": "Download and practice any list you like.  The levels are there as a rough guide to help you decide.\nLevel 1 - letters and sounds\nLevel 2 - simple words and phrases\nLevel 3 - sentences in various tenses\nLevel 4 - long form and reading\nLevel 5 - advanced grammar",
+        "native_language": "english",
+        "learning_language": "arabic",
+        "native_group": "! tutorial",
+        "native_answer": "NA",
+        "native_word": null,
+        "tag": null,
+        "prompt": "Lists are catagorized into 5 levels. ______ ______",
+        "answer": "Lists are catagorized into 5 levels. Tap the info button to learn more Tap the info button to learn more",
+        "goal_words": "Tap the info button to learn more",
+        "audio_filename": "line3sep2026_ar_1.mp3",
+        "learning_tag": "Tips"
+    }
+]
