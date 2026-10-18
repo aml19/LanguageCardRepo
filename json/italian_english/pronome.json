@@ -1,0 +1,38 @@
+[
+    {
+        "level": 4.0,
+        "image_filename": "hairbrush.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "italian",
+        "learning_language": "english",
+        "native_group": "pronome",
+        "native_answer": "spazzola per capelli",
+        "native_word": "capelli",
+        "tag": "capelli",
+        "prompt": "______",
+        "answer": "hairbrush",
+        "goal_words": "hairbrush",
+        "audio_filename": "line10June26_en_134.mp3",
+        "learning_tag": "hair"
+    },
+    {
+        "level": 4.0,
+        "image_filename": "comb.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "italian",
+        "learning_language": "english",
+        "native_group": "pronome",
+        "native_answer": "un pettine",
+        "native_word": "capelli",
+        "tag": "capelli",
+        "prompt": "______",
+        "answer": "a comb",
+        "goal_words": "a comb",
+        "audio_filename": "line10June26_en_3.mp3",
+        "learning_tag": "hair"
+    }
+]

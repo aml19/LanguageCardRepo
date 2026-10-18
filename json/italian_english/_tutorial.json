@@ -1,0 +1,38 @@
+[
+    {
+        "level": 1.0,
+        "image_filename": "tutorial1.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "italian",
+        "learning_language": "english",
+        "native_group": "! tutorial",
+        "native_answer": "NA",
+        "native_word": null,
+        "tag": null,
+        "prompt": "Benvenuto nell'app per le lingue. Scorri verso destra. ______",
+        "answer": "Benvenuto nell'app per le lingue. Scorri verso destra. Ogni carta ha una seconda parte. Scorri verso destra",
+        "goal_words": "Ogni carta ha una seconda parte. Scorri verso destra",
+        "audio_filename": "line3sep2026_en_3.mp3",
+        "learning_tag": "Benvenuto"
+    },
+    {
+        "level": 1.0,
+        "image_filename": "download.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "italian",
+        "learning_language": "english",
+        "native_group": "! tutorial",
+        "native_answer": "NA",
+        "native_word": null,
+        "tag": null,
+        "prompt": "Gli elenchi sono suddivisi in 5 livelli. ______",
+        "answer": "Gli elenchi sono suddivisi in 5 livelli. Tocca il pulsante informazioni per saperne di più",
+        "goal_words": "Tocca il pulsante informazioni per saperne di più",
+        "audio_filename": "line3sep2026_en_8.mp3",
+        "learning_tag": "Suggerimenti"
+    }
+]
