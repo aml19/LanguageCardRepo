@@ -1,0 +1,38 @@
+[
+    {
+        "level": 1.0,
+        "image_filename": "breadandbutter.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "portuguese",
+        "native_group": "1 Basic grammar",
+        "native_answer": "bread and butter",
+        "native_word": "and / or",
+        "tag": "and / or",
+        "prompt": "pão ______ manteiga",
+        "answer": "pão e​ manteiga",
+        "goal_words": "e​",
+        "audio_filename": "line10June26_pt_315.mp3",
+        "learning_tag": "e/ou"
+    },
+    {
+        "level": 1.0,
+        "image_filename": "coffeeortea.jpg",
+        "card_type": "vocab",
+        "identifier": "ID",
+        "info": null,
+        "native_language": "english",
+        "learning_language": "portuguese",
+        "native_group": "1 Basic grammar",
+        "native_answer": "coffee or tea",
+        "native_word": "and / or",
+        "tag": "and / or",
+        "prompt": "café ______ chá",
+        "answer": "café ou chá",
+        "goal_words": "ou",
+        "audio_filename": "line10June26_pt_49.mp3",
+        "learning_tag": "e/ou"
+    }
+]
