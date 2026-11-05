@@ -4851,6 +4851,744 @@
       "updatedUtc": "2026-10-18T02:07:29.775448Z"
     }
   ],
+  "english_portuguese": [
+    {
+      "file": "english_portuguese/1_alphabet.json",
+      "label": "Alphabet (1)",
+      "level": 1,
+      "cards": 53,
+      "sizeBytes": 38501,
+      "updatedUtc": "2026-11-01T19:12:31.869357Z"
+    },
+    {
+      "file": "english_portuguese/1_Basic_grammar.json",
+      "label": "Basic grammar (1)",
+      "level": 1,
+      "cards": 2,
+      "sizeBytes": 1202,
+      "updatedUtc": "2026-11-01T19:12:32.578976Z"
+    },
+    {
+      "file": "english_portuguese/1_pronunciation_practice.json",
+      "label": "Pronunciation practice (1)",
+      "level": 1,
+      "cards": 35,
+      "sizeBytes": 42960,
+      "updatedUtc": "2026-11-01T19:12:32.572985Z"
+    },
+    {
+      "file": "english_portuguese/2_accents.json",
+      "label": "Accents (2)",
+      "level": 2,
+      "cards": 19,
+      "sizeBytes": 26040,
+      "updatedUtc": "2026-11-01T19:12:33.415876Z"
+    },
+    {
+      "file": "english_portuguese/2_around_the_house.json",
+      "label": "Around the house (2)",
+      "level": 2,
+      "cards": 47,
+      "sizeBytes": 41053,
+      "updatedUtc": "2026-11-01T19:12:35.072131Z"
+    },
+    {
+      "file": "english_portuguese/2_body_parts.json",
+      "label": "Body parts (2)",
+      "level": 2,
+      "cards": 28,
+      "sizeBytes": 24263,
+      "updatedUtc": "2026-11-01T19:12:35.129924Z"
+    },
+    {
+      "file": "english_portuguese/2_clothing_and_wearable_items.json",
+      "label": "Clothing and wearable items (2)",
+      "level": 2,
+      "cards": 36,
+      "sizeBytes": 32302,
+      "updatedUtc": "2026-11-01T19:12:35.180727Z"
+    },
+    {
+      "file": "english_portuguese/2_common_adjectives.json",
+      "label": "Common adjectives (2)",
+      "level": 2,
+      "cards": 138,
+      "sizeBytes": 141606,
+      "updatedUtc": "2026-11-01T19:12:35.414346Z"
+    },
+    {
+      "file": "english_portuguese/2_common_animals.json",
+      "label": "Common animals (2)",
+      "level": 2,
+      "cards": 16,
+      "sizeBytes": 13652,
+      "updatedUtc": "2026-11-01T19:12:35.448188Z"
+    },
+    {
+      "file": "english_portuguese/2_everyday_items.json",
+      "label": "Everyday items (2)",
+      "level": 2,
+      "cards": 33,
+      "sizeBytes": 31884,
+      "updatedUtc": "2026-11-01T19:12:38.183346Z"
+    },
+    {
+      "file": "english_portuguese/2_food.json",
+      "label": "Food (2)",
+      "level": 2,
+      "cards": 81,
+      "sizeBytes": 68968,
+      "updatedUtc": "2026-11-01T19:12:35.672346Z"
+    },
+    {
+      "file": "english_portuguese/2_interjections.json",
+      "label": "Interjections (2)",
+      "level": 2,
+      "cards": 48,
+      "sizeBytes": 28168,
+      "updatedUtc": "2026-11-01T19:12:35.731548Z"
+    },
+    {
+      "file": "english_portuguese/2_numbers.json",
+      "label": "Numbers (2)",
+      "level": 2,
+      "cards": 72,
+      "sizeBytes": 43344,
+      "updatedUtc": "2026-11-01T19:12:36.222497Z"
+    },
+    {
+      "file": "english_portuguese/2_outdoors.json",
+      "label": "Outdoors (2)",
+      "level": 2,
+      "cards": 41,
+      "sizeBytes": 23986,
+      "updatedUtc": "2026-11-01T19:12:36.289326Z"
+    },
+    {
+      "file": "english_portuguese/2_people.json",
+      "label": "People (2)",
+      "level": 2,
+      "cards": 27,
+      "sizeBytes": 23366,
+      "updatedUtc": "2026-11-01T19:12:36.329796Z"
+    },
+    {
+      "file": "english_portuguese/2_shapes.json",
+      "label": "Shapes (2)",
+      "level": 2,
+      "cards": 35,
+      "sizeBytes": 19690,
+      "updatedUtc": "2026-11-01T19:12:36.379088Z"
+    },
+    {
+      "file": "english_portuguese/2_verbs_1_-_simple_actions.json",
+      "label": "Verbs 1   simple actions (2)",
+      "level": 2,
+      "cards": 35,
+      "sizeBytes": 30050,
+      "updatedUtc": "2026-11-01T19:12:34.975222Z"
+    },
+    {
+      "file": "english_portuguese/2_verbs_2_-_abstract_verbs.json",
+      "label": "Verbs 2   abstract verbs (2)",
+      "level": 2,
+      "cards": 39,
+      "sizeBytes": 35225,
+      "updatedUtc": "2026-11-01T19:12:34.685042Z"
+    },
+    {
+      "file": "english_portuguese/2_verbs_3_-_simple_sentences.json",
+      "label": "Verbs 3   simple sentences (2)",
+      "level": 2,
+      "cards": 246,
+      "sizeBytes": 227720,
+      "updatedUtc": "2026-11-01T19:12:34.243418Z"
+    },
+    {
+      "file": "english_portuguese/2_verbs_4_-_important_and_irregular.json",
+      "label": "Verbs 4   important and irregular (2)",
+      "level": 2,
+      "cards": 219,
+      "sizeBytes": 183621,
+      "updatedUtc": "2026-11-01T19:12:36.085198Z"
+    },
+    {
+      "file": "english_portuguese/2_verbs_5_-_abstract_verb_phrases.json",
+      "label": "Verbs 5   abstract verb phrases (2)",
+      "level": 2,
+      "cards": 125,
+      "sizeBytes": 245681,
+      "updatedUtc": "2026-11-01T19:12:34.908966Z"
+    },
+    {
+      "file": "english_portuguese/2_verbs_6_-_present_continuous.json",
+      "label": "Verbs 6   present continuous (2)",
+      "level": 2,
+      "cards": 27,
+      "sizeBytes": 24929,
+      "updatedUtc": "2026-11-01T19:12:34.435921Z"
+    },
+    {
+      "file": "english_portuguese/3_action_verbs_-_commands.json",
+      "label": "Action verbs   commands (3)",
+      "level": 3,
+      "cards": 62,
+      "sizeBytes": 123549,
+      "updatedUtc": "2026-11-01T19:12:38.287634Z"
+    },
+    {
+      "file": "english_portuguese/3_Ad_UNRWA.json",
+      "label": "Ad UNRWA (3)",
+      "level": 3,
+      "cards": 12,
+      "sizeBytes": 7442,
+      "updatedUtc": "2026-11-01T19:12:38.310497Z"
+    },
+    {
+      "file": "english_portuguese/3_future_tense_phrases.json",
+      "label": "Future tense phrases (3)",
+      "level": 3,
+      "cards": 18,
+      "sizeBytes": 11804,
+      "updatedUtc": "2026-11-01T19:12:37.167137Z"
+    },
+    {
+      "file": "english_portuguese/3_future_tense_phrases_2.json",
+      "label": "Future tense phrases 2 (3)",
+      "level": 3,
+      "cards": 56,
+      "sizeBytes": 46928,
+      "updatedUtc": "2026-11-01T19:12:36.464663Z"
+    },
+    {
+      "file": "english_portuguese/3_how_are_things.json",
+      "label": "How are things (3)",
+      "level": 3,
+      "cards": 94,
+      "sizeBytes": 116549,
+      "updatedUtc": "2026-11-01T19:12:38.505919Z"
+    },
+    {
+      "file": "english_portuguese/3_interjections_2.json",
+      "label": "Interjections 2 (3)",
+      "level": 3,
+      "cards": 25,
+      "sizeBytes": 16290,
+      "updatedUtc": "2026-11-01T19:12:37.279291Z"
+    },
+    {
+      "file": "english_portuguese/3_opposites.json",
+      "label": "Opposites (3)",
+      "level": 3,
+      "cards": 66,
+      "sizeBytes": 41040,
+      "updatedUtc": "2026-11-01T19:12:38.621508Z"
+    },
+    {
+      "file": "english_portuguese/3_past_tense_1_-_simple_phrases.json",
+      "label": "Past tense 1   simple phrases (3)",
+      "level": 3,
+      "cards": 166,
+      "sizeBytes": 179589,
+      "updatedUtc": "2026-11-01T19:12:37.788294Z"
+    },
+    {
+      "file": "english_portuguese/3_past_tense_2_-_other_forms.json",
+      "label": "Past tense 2   other forms (3)",
+      "level": 3,
+      "cards": 4,
+      "sizeBytes": 3653,
+      "updatedUtc": "2026-11-01T19:12:49.795093Z"
+    },
+    {
+      "file": "english_portuguese/3_past_tense_3_-_important_and_irregular_verbs.json",
+      "label": "Past tense 3   important and irregular verbs (3)",
+      "level": 3,
+      "cards": 37,
+      "sizeBytes": 26407,
+      "updatedUtc": "2026-11-01T19:12:38.709456Z"
+    },
+    {
+      "file": "english_portuguese/3_preposition.json",
+      "label": "Preposition (3)",
+      "level": 3,
+      "cards": 34,
+      "sizeBytes": 88163,
+      "updatedUtc": "2026-11-01T19:12:38.784401Z"
+    },
+    {
+      "file": "english_portuguese/3_pronoun_cases.json",
+      "label": "Pronoun cases (3)",
+      "level": 3,
+      "cards": 91,
+      "sizeBytes": 63512,
+      "updatedUtc": "2026-11-01T19:12:38.129804Z"
+    },
+    {
+      "file": "english_portuguese/3_question_words.json",
+      "label": "Question words (3)",
+      "level": 3,
+      "cards": 84,
+      "sizeBytes": 104615,
+      "updatedUtc": "2026-11-01T19:12:38.885413Z"
+    },
+    {
+      "file": "english_portuguese/3_time.json",
+      "label": "Time (3)",
+      "level": 3,
+      "cards": 42,
+      "sizeBytes": 24631,
+      "updatedUtc": "2026-11-01T19:12:38.947472Z"
+    },
+    {
+      "file": "english_portuguese/3_tourist_dialogue_1.json",
+      "label": "Tourist dialogue 1 (3)",
+      "level": 3,
+      "cards": 20,
+      "sizeBytes": 12045,
+      "updatedUtc": "2026-11-01T19:12:38.974170Z"
+    },
+    {
+      "file": "english_portuguese/3_tourist_dialogue_10.json",
+      "label": "Tourist dialogue 10 (3)",
+      "level": 3,
+      "cards": 17,
+      "sizeBytes": 10167,
+      "updatedUtc": "2026-11-01T19:12:39.002419Z"
+    },
+    {
+      "file": "english_portuguese/3_tourist_dialogue_2.json",
+      "label": "Tourist dialogue 2 (3)",
+      "level": 3,
+      "cards": 21,
+      "sizeBytes": 13602,
+      "updatedUtc": "2026-11-01T19:12:39.034586Z"
+    },
+    {
+      "file": "english_portuguese/3_tourist_dialogue_3.json",
+      "label": "Tourist dialogue 3 (3)",
+      "level": 3,
+      "cards": 21,
+      "sizeBytes": 12885,
+      "updatedUtc": "2026-11-01T19:12:39.075267Z"
+    },
+    {
+      "file": "english_portuguese/3_tourist_dialogue_4.json",
+      "label": "Tourist dialogue 4 (3)",
+      "level": 3,
+      "cards": 15,
+      "sizeBytes": 8864,
+      "updatedUtc": "2026-11-01T19:12:39.098196Z"
+    },
+    {
+      "file": "english_portuguese/3_tourist_dialogue_5.json",
+      "label": "Tourist dialogue 5 (3)",
+      "level": 3,
+      "cards": 17,
+      "sizeBytes": 9969,
+      "updatedUtc": "2026-11-01T19:12:39.132474Z"
+    },
+    {
+      "file": "english_portuguese/3_tourist_dialogue_6.json",
+      "label": "Tourist dialogue 6 (3)",
+      "level": 3,
+      "cards": 7,
+      "sizeBytes": 4586,
+      "updatedUtc": "2026-11-01T19:12:39.152148Z"
+    },
+    {
+      "file": "english_portuguese/3_tourist_dialogue_7.json",
+      "label": "Tourist dialogue 7 (3)",
+      "level": 3,
+      "cards": 8,
+      "sizeBytes": 4849,
+      "updatedUtc": "2026-11-01T19:12:39.176635Z"
+    },
+    {
+      "file": "english_portuguese/3_tourist_dialogue_8.json",
+      "label": "Tourist dialogue 8 (3)",
+      "level": 3,
+      "cards": 17,
+      "sizeBytes": 10001,
+      "updatedUtc": "2026-11-01T19:12:39.209454Z"
+    },
+    {
+      "file": "english_portuguese/3_tourist_dialogue_9.json",
+      "label": "Tourist dialogue 9 (3)",
+      "level": 3,
+      "cards": 20,
+      "sizeBytes": 13166,
+      "updatedUtc": "2026-11-01T19:12:39.245528Z"
+    },
+    {
+      "file": "english_portuguese/3_travel_vocab.json",
+      "label": "Travel vocab (3)",
+      "level": 3,
+      "cards": 189,
+      "sizeBytes": 121315,
+      "updatedUtc": "2026-11-01T19:12:39.586529Z"
+    },
+    {
+      "file": "english_portuguese/4_Ad_GiveWell.json",
+      "label": "Ad GiveWell (4)",
+      "level": 4,
+      "cards": 21,
+      "sizeBytes": 12925,
+      "updatedUtc": "2026-11-01T19:12:40.305970Z"
+    },
+    {
+      "file": "english_portuguese/4_common_mostly_irregular_verbs_-_practice.json",
+      "label": "Common mostly irregular verbs   practice (4)",
+      "level": 4,
+      "cards": 96,
+      "sizeBytes": 69893,
+      "updatedUtc": "2026-11-01T19:12:40.479054Z"
+    },
+    {
+      "file": "english_portuguese/4_conjunctions.json",
+      "label": "Conjunctions (4)",
+      "level": 4,
+      "cards": 44,
+      "sizeBytes": 63619,
+      "updatedUtc": "2026-11-01T19:12:40.555475Z"
+    },
+    {
+      "file": "english_portuguese/4_contractions.json",
+      "label": "Contractions (4)",
+      "level": 4,
+      "cards": 20,
+      "sizeBytes": 15055,
+      "updatedUtc": "2026-11-01T19:12:39.725880Z"
+    },
+    {
+      "file": "english_portuguese/4_demonstratives_-_this_that_etc.json",
+      "label": "Demonstratives   this that etc (4)",
+      "level": 4,
+      "cards": 44,
+      "sizeBytes": 32349,
+      "updatedUtc": "2026-11-01T19:12:40.615681Z"
+    },
+    {
+      "file": "english_portuguese/4_dialogue_-_advice_to_a_boy.json",
+      "label": "Dialogue   advice to a boy (4)",
+      "level": 4,
+      "cards": 15,
+      "sizeBytes": 9776,
+      "updatedUtc": "2026-11-01T19:12:40.655510Z"
+    },
+    {
+      "file": "english_portuguese/4_dialogue_-_advice_to_a_girl.json",
+      "label": "Dialogue   advice to a girl (4)",
+      "level": 4,
+      "cards": 28,
+      "sizeBytes": 19273,
+      "updatedUtc": "2026-11-01T19:12:40.712580Z"
+    },
+    {
+      "file": "english_portuguese/4_dialogue_-_concert_plans.json",
+      "label": "Dialogue   concert plans (4)",
+      "level": 4,
+      "cards": 25,
+      "sizeBytes": 15416,
+      "updatedUtc": "2026-11-01T19:12:40.776199Z"
+    },
+    {
+      "file": "english_portuguese/4_Dialogue_-_first_date.json",
+      "label": "Dialogue   first date (4)",
+      "level": 4,
+      "cards": 34,
+      "sizeBytes": 21626,
+      "updatedUtc": "2026-11-01T19:12:40.852865Z"
+    },
+    {
+      "file": "english_portuguese/4_dialogue_-_typical_work_meeting.json",
+      "label": "Dialogue   typical work meeting (4)",
+      "level": 4,
+      "cards": 37,
+      "sizeBytes": 24775,
+      "updatedUtc": "2026-11-01T19:12:40.944930Z"
+    },
+    {
+      "file": "english_portuguese/4_Everyday_questions.json",
+      "label": "Everyday questions (4)",
+      "level": 4,
+      "cards": 162,
+      "sizeBytes": 110209,
+      "updatedUtc": "2026-11-01T19:12:41.398212Z"
+    },
+    {
+      "file": "english_portuguese/4_irregular_plurals.json",
+      "label": "Irregular plurals (4)",
+      "level": 4,
+      "cards": 12,
+      "sizeBytes": 7050,
+      "updatedUtc": "2026-11-01T19:12:39.765822Z"
+    },
+    {
+      "file": "english_portuguese/4_more_animals.json",
+      "label": "More animals (4)",
+      "level": 4,
+      "cards": 99,
+      "sizeBytes": 58953,
+      "updatedUtc": "2026-11-01T19:12:41.630466Z"
+    },
+    {
+      "file": "english_portuguese/4_offensive_cuss_words.json",
+      "label": "Offensive cuss words (4)",
+      "level": 4,
+      "cards": 6,
+      "sizeBytes": 3758,
+      "updatedUtc": "2026-11-01T19:12:40.258684Z"
+    },
+    {
+      "file": "english_portuguese/4_past_tense_to_be_-_practice.json",
+      "label": "Past tense to be   practice (4)",
+      "level": 4,
+      "cards": 45,
+      "sizeBytes": 48706,
+      "updatedUtc": "2026-11-01T19:12:41.761506Z"
+    },
+    {
+      "file": "english_portuguese/4_professions.json",
+      "label": "Professions (4)",
+      "level": 4,
+      "cards": 40,
+      "sizeBytes": 25390,
+      "updatedUtc": "2026-11-01T19:12:42.059572Z"
+    },
+    {
+      "file": "english_portuguese/4_quantifiers.json",
+      "label": "Quantifiers (4)",
+      "level": 4,
+      "cards": 80,
+      "sizeBytes": 59552,
+      "updatedUtc": "2026-11-01T19:12:42.228473Z"
+    },
+    {
+      "file": "english_portuguese/4_short_story_-_future_tense_-_moon_trip.json",
+      "label": "Short story   future tense   moon trip (4)",
+      "level": 4,
+      "cards": 20,
+      "sizeBytes": 13851,
+      "updatedUtc": "2026-11-01T19:12:42.271010Z"
+    },
+    {
+      "file": "english_portuguese/4_short_story_-_past_tense_-_a_crabs_adventure.json",
+      "label": "Short story   past tense   a crabs adventure (4)",
+      "level": 4,
+      "cards": 39,
+      "sizeBytes": 26919,
+      "updatedUtc": "2026-11-01T19:12:42.355747Z"
+    },
+    {
+      "file": "english_portuguese/4_short_story_-_past_tense_-_old_reminisce.json",
+      "label": "Short story   past tense   old reminisce (4)",
+      "level": 4,
+      "cards": 49,
+      "sizeBytes": 32390,
+      "updatedUtc": "2026-11-01T19:12:42.520937Z"
+    },
+    {
+      "file": "english_portuguese/4_short_story_-_present_tense_-_A_day_at_school.json",
+      "label": "Short story   present tense   A day at school (4)",
+      "level": 4,
+      "cards": 46,
+      "sizeBytes": 30155,
+      "updatedUtc": "2026-11-01T19:12:42.647666Z"
+    },
+    {
+      "file": "english_portuguese/4_style_and_fashion.json",
+      "label": "Style and fashion (4)",
+      "level": 4,
+      "cards": 125,
+      "sizeBytes": 73133,
+      "updatedUtc": "2026-11-01T19:12:42.952076Z"
+    },
+    {
+      "file": "english_portuguese/4_tools.json",
+      "label": "Tools (4)",
+      "level": 4,
+      "cards": 48,
+      "sizeBytes": 33760,
+      "updatedUtc": "2026-11-01T19:12:43.076634Z"
+    },
+    {
+      "file": "english_portuguese/4_verb_-_preposition_pairs.json",
+      "label": "Verb   preposition pairs (4)",
+      "level": 4,
+      "cards": 50,
+      "sizeBytes": 37169,
+      "updatedUtc": "2026-11-01T19:12:43.210553Z"
+    },
+    {
+      "file": "english_portuguese/4_zoo_(QA).json",
+      "label": "Zoo (QA) (4)",
+      "level": 4,
+      "cards": 40,
+      "sizeBytes": 25119,
+      "updatedUtc": "2026-11-01T19:12:43.860487Z"
+    },
+    {
+      "file": "english_portuguese/5_adverbial_phrases.json",
+      "label": "Adverbial phrases (5)",
+      "level": 5,
+      "cards": 32,
+      "sizeBytes": 26102,
+      "updatedUtc": "2026-11-01T19:12:45.910429Z"
+    },
+    {
+      "file": "english_portuguese/5_Award_speech_-_conditional_language.json",
+      "label": "Award speech   conditional language (5)",
+      "level": 5,
+      "cards": 32,
+      "sizeBytes": 22030,
+      "updatedUtc": "2026-11-01T19:12:45.998945Z"
+    },
+    {
+      "file": "english_portuguese/5_Conditional_Grammar.json",
+      "label": "Conditional Grammar (5)",
+      "level": 5,
+      "cards": 50,
+      "sizeBytes": 196401,
+      "updatedUtc": "2026-11-01T19:12:46.114899Z"
+    },
+    {
+      "file": "english_portuguese/5_describe_the_picture.json",
+      "label": "Describe the picture (5)",
+      "level": 5,
+      "cards": 11,
+      "sizeBytes": 8066,
+      "updatedUtc": "2026-11-01T19:12:46.143340Z"
+    },
+    {
+      "file": "english_portuguese/5_experessions_of_belief_or_certainty.json",
+      "label": "Experessions of belief or certainty (5)",
+      "level": 5,
+      "cards": 16,
+      "sizeBytes": 11684,
+      "updatedUtc": "2026-11-01T19:12:44.275688Z"
+    },
+    {
+      "file": "english_portuguese/5_how_to_fish.json",
+      "label": "How to fish (5)",
+      "level": 5,
+      "cards": 56,
+      "sizeBytes": 39276,
+      "updatedUtc": "2026-11-01T19:12:46.290175Z"
+    },
+    {
+      "file": "english_portuguese/5_how_to_garden.json",
+      "label": "How to garden (5)",
+      "level": 5,
+      "cards": 67,
+      "sizeBytes": 46883,
+      "updatedUtc": "2026-11-01T19:12:46.483112Z"
+    },
+    {
+      "file": "english_portuguese/5_how_to_hunt.json",
+      "label": "How to hunt (5)",
+      "level": 5,
+      "cards": 84,
+      "sizeBytes": 61920,
+      "updatedUtc": "2026-11-01T19:12:46.757744Z"
+    },
+    {
+      "file": "english_portuguese/5_how_to_ride_horseback.json",
+      "label": "How to ride horseback (5)",
+      "level": 5,
+      "cards": 75,
+      "sizeBytes": 53279,
+      "updatedUtc": "2026-11-01T19:12:47.142213Z"
+    },
+    {
+      "file": "english_portuguese/5_how_to_sail.json",
+      "label": "How to sail (5)",
+      "level": 5,
+      "cards": 79,
+      "sizeBytes": 57735,
+      "updatedUtc": "2026-11-01T19:12:47.414679Z"
+    },
+    {
+      "file": "english_portuguese/5_idioms.json",
+      "label": "Idioms (5)",
+      "level": 5,
+      "cards": 50,
+      "sizeBytes": 31004,
+      "updatedUtc": "2026-11-01T19:12:44.847908Z"
+    },
+    {
+      "file": "english_portuguese/5_slang_adjectives.json",
+      "label": "Slang adjectives (5)",
+      "level": 5,
+      "cards": 40,
+      "sizeBytes": 27930,
+      "updatedUtc": "2026-11-01T19:12:45.262856Z"
+    },
+    {
+      "file": "english_portuguese/5_subjunctive.json",
+      "label": "Subjunctive (5)",
+      "level": 5,
+      "cards": 30,
+      "sizeBytes": 27197,
+      "updatedUtc": "2026-11-01T19:12:47.574083Z"
+    },
+    {
+      "file": "english_portuguese/5_synonyms_-_nouns.json",
+      "label": "Synonyms   nouns (5)",
+      "level": 5,
+      "cards": 193,
+      "sizeBytes": 146330,
+      "updatedUtc": "2026-11-01T19:12:48.450561Z"
+    },
+    {
+      "file": "english_portuguese/5_synonyms_-_verbs.json",
+      "label": "Synonyms   verbs (5)",
+      "level": 5,
+      "cards": 358,
+      "sizeBytes": 233863,
+      "updatedUtc": "2026-11-01T19:12:49.529108Z"
+    },
+    {
+      "file": "english_portuguese/5_synonyms_adjective.json",
+      "label": "Synonyms adjective (5)",
+      "level": 5,
+      "cards": 161,
+      "sizeBytes": 107941,
+      "updatedUtc": "2026-11-01T19:12:45.852964Z"
+    },
+    {
+      "file": "english_portuguese/5_verb_-_future_perfect.json",
+      "label": "Verb   future perfect (5)",
+      "level": 5,
+      "cards": 29,
+      "sizeBytes": 30556,
+      "updatedUtc": "2026-11-01T19:12:49.601844Z"
+    },
+    {
+      "file": "english_portuguese/5_verb_-_past_perfect.json",
+      "label": "Verb   past perfect (5)",
+      "level": 5,
+      "cards": 28,
+      "sizeBytes": 29100,
+      "updatedUtc": "2026-11-01T19:12:49.707994Z"
+    },
+    {
+      "file": "english_portuguese/5_verb_-_present_perfect.json",
+      "label": "Verb   present perfect (5)",
+      "level": 5,
+      "cards": 26,
+      "sizeBytes": 28324,
+      "updatedUtc": "2026-11-01T19:12:49.778684Z"
+    },
+    {
+      "file": "english_portuguese/_tutorial.json",
+      "label": "Tutorial",
+      "level": 9,
+      "cards": 2,
+      "sizeBytes": 1788,
+      "updatedUtc": "2026-11-01T19:12:31.623778Z"
+    }
+  ],
   "english_russian": [
     {
       "file": "english_russian/1_Basic_grammar.json",
