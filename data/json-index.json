@@ -9,7 +9,7 @@
       "updatedUtc": "2026-10-18T02:08:08.212079Z"
     },
     {
-      "file": "english_arabic/1_Basic_grammar.json",
+      "file": "english_arabic/1_basic_grammar.json",
       "label": "Basic grammar (1)",
       "level": 1,
       "cards": 21,
@@ -177,8 +177,8 @@
       "updatedUtc": "2026-10-18T02:08:12.613971Z"
     },
     {
-      "file": "english_arabic/3_Ad_UNRWA.json",
-      "label": "Ad UNRWA (3)",
+      "file": "english_arabic/3_ad_unrwa.json",
+      "label": "Ad unrwa (3)",
       "level": 3,
       "cards": 16,
       "sizeBytes": 10410,
@@ -369,8 +369,8 @@
       "updatedUtc": "2026-10-18T02:08:14.335369Z"
     },
     {
-      "file": "english_arabic/4_Ad_GiveWell.json",
-      "label": "Ad GiveWell (4)",
+      "file": "english_arabic/4_ad_givewell.json",
+      "label": "Ad givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 13185,
@@ -425,7 +425,7 @@
       "updatedUtc": "2026-10-18T02:08:14.754244Z"
     },
     {
-      "file": "english_arabic/4_Dialogue_-_first_date.json",
+      "file": "english_arabic/4_dialogue_-_first_date.json",
       "label": "Dialogue   first date (4)",
       "level": 4,
       "cards": 34,
@@ -459,7 +459,7 @@
       "updatedUtc": "2026-10-04T01:20:06.731235Z"
     },
     {
-      "file": "english_french/1_Basic_grammar.json",
+      "file": "english_french/1_basic_grammar.json",
       "label": "Basic grammar (1)",
       "level": 1,
       "cards": 26,
@@ -491,44 +491,12 @@
       "updatedUtc": "2026-10-04T01:20:08.235424Z"
     },
     {
-      "file": "english_french/2_abstract_verb_phrases_1.json",
-      "label": "Abstract verb phrases 1 (2)",
-      "level": 2,
-      "cards": 36,
-      "sizeBytes": 63546,
-      "updatedUtc": "2026-04-13T02:52:40.906787Z"
-    },
-    {
-      "file": "english_french/2_abstract_verb_phrases_2_-_present_tense.json",
-      "label": "Abstract verb phrases 2   present tense (2)",
-      "level": 2,
-      "cards": 129,
-      "sizeBytes": 113589,
-      "updatedUtc": "2026-04-13T02:52:40.985034Z"
-    },
-    {
       "file": "english_french/2_accents.json",
       "label": "Accents (2)",
       "level": 2,
       "cards": 18,
       "sizeBytes": 27559,
       "updatedUtc": "2026-10-04T01:20:08.352427Z"
-    },
-    {
-      "file": "english_french/2_action_verbs.json",
-      "label": "Action verbs (2)",
-      "level": 2,
-      "cards": 35,
-      "sizeBytes": 59333,
-      "updatedUtc": "2026-04-13T02:52:41.037686Z"
-    },
-    {
-      "file": "english_french/2_action_verbs_2.1_-_present_tense_phrases.json",
-      "label": "Action verbs 2.1   present tense phrases (2)",
-      "level": 2,
-      "cards": 233,
-      "sizeBytes": 202896,
-      "updatedUtc": "2026-04-13T02:52:41.841543Z"
     },
     {
       "file": "english_french/2_around_the_house.json",
@@ -579,14 +547,6 @@
       "updatedUtc": "2026-10-04T01:20:09.328312Z"
     },
     {
-      "file": "english_french/2_family.json",
-      "label": "Family (2)",
-      "level": 2,
-      "cards": 27,
-      "sizeBytes": 23797,
-      "updatedUtc": "2026-04-13T02:52:42.057396Z"
-    },
-    {
       "file": "english_french/2_food.json",
       "label": "Food (2)",
       "level": 2,
@@ -603,44 +563,12 @@
       "updatedUtc": "2026-10-04T01:20:09.503028Z"
     },
     {
-      "file": "english_french/2_kitchenrestaurant.json",
-      "label": "Kitchenrestaurant (2)",
-      "level": 2,
-      "cards": 26,
-      "sizeBytes": 15475,
-      "updatedUtc": "2026-04-13T02:52:42.123631Z"
-    },
-    {
-      "file": "english_french/2_most_important_verbs.json",
-      "label": "Most important verbs (2)",
-      "level": 2,
-      "cards": 219,
-      "sizeBytes": 185224,
-      "updatedUtc": "2026-04-13T02:52:42.282917Z"
-    },
-    {
       "file": "english_french/2_numbers.json",
       "label": "Numbers (2)",
       "level": 2,
       "cards": 76,
       "sizeBytes": 44458,
       "updatedUtc": "2026-10-04T01:20:09.693621Z"
-    },
-    {
-      "file": "english_french/2_outdoor_-_city.json",
-      "label": "Outdoor   city (2)",
-      "level": 2,
-      "cards": 24,
-      "sizeBytes": 13996,
-      "updatedUtc": "2026-04-13T02:52:42.425599Z"
-    },
-    {
-      "file": "english_french/2_outdoor_-_nature.json",
-      "label": "Outdoor   nature (2)",
-      "level": 2,
-      "cards": 17,
-      "sizeBytes": 9802,
-      "updatedUtc": "2026-04-13T02:52:42.457289Z"
     },
     {
       "file": "english_french/2_outdoors.json",
@@ -707,14 +635,6 @@
       "updatedUtc": "2026-10-04T01:20:08.331142Z"
     },
     {
-      "file": "english_french/3_abstract_verb_phrases_3_-_past_tense.json",
-      "label": "Abstract verb phrases 3   past tense (3)",
-      "level": 3,
-      "cards": 114,
-      "sizeBytes": 112383,
-      "updatedUtc": "2026-04-13T02:52:42.705132Z"
-    },
-    {
       "file": "english_french/3_action_verbs_-_commands.json",
       "label": "Action verbs   commands (3)",
       "level": 3,
@@ -723,32 +643,8 @@
       "updatedUtc": "2026-10-04T01:20:09.975215Z"
     },
     {
-      "file": "english_french/3_action_verbs_3.1_-_past_tense_phrases.json",
-      "label": "Action verbs 3.1   past tense phrases (3)",
-      "level": 3,
-      "cards": 232,
-      "sizeBytes": 218662,
-      "updatedUtc": "2026-04-13T02:52:43.785973Z"
-    },
-    {
-      "file": "english_french/3_action_verbs_3.2_-_imperfect_past_tense_phrases.json",
-      "label": "Action verbs 3.2   imperfect past tense phrases (3)",
-      "level": 3,
-      "cards": 232,
-      "sizeBytes": 307414,
-      "updatedUtc": "2026-04-13T02:52:44.415326Z"
-    },
-    {
-      "file": "english_french/3_action_verbs_4.1_-_future_tense_phrases.json",
-      "label": "Action verbs 4.1   future tense phrases (3)",
-      "level": 3,
-      "cards": 232,
-      "sizeBytes": 191883,
-      "updatedUtc": "2026-04-13T02:52:44.976345Z"
-    },
-    {
-      "file": "english_french/3_Ad_UNRWA.json",
-      "label": "Ad UNRWA (3)",
+      "file": "english_french/3_ad_unrwa.json",
+      "label": "Ad unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7393,
@@ -779,60 +675,12 @@
       "updatedUtc": "2026-10-04T01:20:10.295396Z"
     },
     {
-      "file": "english_french/3_how_to_fish.json",
-      "label": "How to fish (3)",
-      "level": 3,
-      "cards": 71,
-      "sizeBytes": 51757,
-      "updatedUtc": "2026-04-13T02:52:45.122529Z"
-    },
-    {
-      "file": "english_french/3_how_to_garden.json",
-      "label": "How to garden (3)",
-      "level": 3,
-      "cards": 74,
-      "sizeBytes": 53693,
-      "updatedUtc": "2026-04-13T02:52:45.170950Z"
-    },
-    {
-      "file": "english_french/3_how_to_hunt.json",
-      "label": "How to hunt (3)",
-      "level": 3,
-      "cards": 86,
-      "sizeBytes": 67700,
-      "updatedUtc": "2026-04-13T02:52:45.236359Z"
-    },
-    {
-      "file": "english_french/3_how_to_ride_horseback.json",
-      "label": "How to ride horseback (3)",
-      "level": 3,
-      "cards": 76,
-      "sizeBytes": 57226,
-      "updatedUtc": "2026-04-13T02:52:45.275384Z"
-    },
-    {
-      "file": "english_french/3_how_to_sail.json",
-      "label": "How to sail (3)",
-      "level": 3,
-      "cards": 79,
-      "sizeBytes": 62935,
-      "updatedUtc": "2026-04-13T02:52:45.386634Z"
-    },
-    {
       "file": "english_french/3_interjections_2.json",
       "label": "Interjections 2 (3)",
       "level": 3,
       "cards": 29,
       "sizeBytes": 21967,
       "updatedUtc": "2026-10-04T01:20:10.309191Z"
-    },
-    {
-      "file": "english_french/3_most_important_verbs_-_past_tense.json",
-      "label": "Most important verbs   past tense (3)",
-      "level": 3,
-      "cards": 98,
-      "sizeBytes": 63297,
-      "updatedUtc": "2026-04-13T02:52:45.466043Z"
     },
     {
       "file": "english_french/3_opposites.json",
@@ -865,14 +713,6 @@
       "cards": 37,
       "sizeBytes": 25828,
       "updatedUtc": "2026-10-04T01:20:10.808487Z"
-    },
-    {
-      "file": "english_french/3_possessive.json",
-      "label": "Possessive (3)",
-      "level": 3,
-      "cards": 27,
-      "sizeBytes": 77955,
-      "updatedUtc": "2026-04-13T02:52:45.529112Z"
     },
     {
       "file": "english_french/3_preposition.json",
@@ -987,22 +827,6 @@
       "updatedUtc": "2026-10-04T01:20:11.173904Z"
     },
     {
-      "file": "english_french/3_travel_places.json",
-      "label": "Travel places (3)",
-      "level": 3,
-      "cards": 67,
-      "sizeBytes": 40994,
-      "updatedUtc": "2026-04-13T02:52:45.808670Z"
-    },
-    {
-      "file": "english_french/3_travel_questions.json",
-      "label": "Travel questions (3)",
-      "level": 3,
-      "cards": 37,
-      "sizeBytes": 23852,
-      "updatedUtc": "2026-04-13T02:52:45.824786Z"
-    },
-    {
       "file": "english_french/3_travel_vocab.json",
       "label": "Travel vocab (3)",
       "level": 3,
@@ -1011,8 +835,8 @@
       "updatedUtc": "2026-10-04T01:20:11.275075Z"
     },
     {
-      "file": "english_french/4_Ad_GiveWell.json",
-      "label": "Ad GiveWell (4)",
+      "file": "english_french/4_ad_givewell.json",
+      "label": "Ad givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 12859,
@@ -1075,7 +899,7 @@
       "updatedUtc": "2026-10-04T01:20:11.514728Z"
     },
     {
-      "file": "english_french/4_Dialogue_-_first_date.json",
+      "file": "english_french/4_dialogue_-_first_date.json",
       "label": "Dialogue   first date (4)",
       "level": 4,
       "cards": 34,
@@ -1091,36 +915,12 @@
       "updatedUtc": "2026-10-04T01:20:11.572641Z"
     },
     {
-      "file": "english_french/4_direct_objects.json",
-      "label": "Direct objects (4)",
-      "level": 4,
-      "cards": 97,
-      "sizeBytes": 238935,
-      "updatedUtc": "2026-04-13T02:52:46.222120Z"
-    },
-    {
-      "file": "english_french/4_Everyday_questions.json",
+      "file": "english_french/4_everyday_questions.json",
       "label": "Everyday questions (4)",
       "level": 4,
       "cards": 162,
       "sizeBytes": 110691,
       "updatedUtc": "2026-10-04T01:20:11.707507Z"
-    },
-    {
-      "file": "english_french/4_gerund_(ing).json",
-      "label": "Gerund (ing) (4)",
-      "level": 4,
-      "cards": 39,
-      "sizeBytes": 93023,
-      "updatedUtc": "2026-04-13T02:52:45.008020Z"
-    },
-    {
-      "file": "english_french/4_indirect_objects.json",
-      "label": "Indirect objects (4)",
-      "level": 4,
-      "cards": 53,
-      "sizeBytes": 130648,
-      "updatedUtc": "2026-04-13T02:52:46.269129Z"
     },
     {
       "file": "english_french/4_irregular_plurals.json",
@@ -1137,14 +937,6 @@
       "cards": 99,
       "sizeBytes": 59269,
       "updatedUtc": "2026-10-04T01:20:11.785914Z"
-    },
-    {
-      "file": "english_french/4_movement_verb_practice_-_come_go_stay_etc.json",
-      "label": "Movement verb practice   come go stay etc (4)",
-      "level": 4,
-      "cards": 31,
-      "sizeBytes": 21464,
-      "updatedUtc": "2026-04-13T02:52:46.453199Z"
     },
     {
       "file": "english_french/4_offensive_cuss_words.json",
@@ -1203,8 +995,8 @@
       "updatedUtc": "2026-10-04T01:20:11.968103Z"
     },
     {
-      "file": "english_french/4_short_story_-_present_tense_-_A_day_at_school.json",
-      "label": "Short story   present tense   A day at school (4)",
+      "file": "english_french/4_short_story_-_present_tense_-_a_day_at_school.json",
+      "label": "Short story   present tense   a day at school (4)",
       "level": 4,
       "cards": 46,
       "sizeBytes": 30094,
@@ -1243,8 +1035,8 @@
       "updatedUtc": "2026-10-04T01:20:12.343425Z"
     },
     {
-      "file": "english_french/4_zoo_(QA).json",
-      "label": "Zoo (QA) (4)",
+      "file": "english_french/4_zoo_(qa).json",
+      "label": "Zoo (qa) (4)",
       "level": 4,
       "cards": 40,
       "sizeBytes": 24757,
@@ -1267,8 +1059,8 @@
       "updatedUtc": "2026-10-04T01:20:12.454257Z"
     },
     {
-      "file": "english_french/5_Conditional_Grammar.json",
-      "label": "Conditional Grammar (5)",
+      "file": "english_french/5_conditional_grammar.json",
+      "label": "Conditional grammar (5)",
       "level": 5,
       "cards": 50,
       "sizeBytes": 135946,
@@ -1289,14 +1081,6 @@
       "cards": 16,
       "sizeBytes": 11784,
       "updatedUtc": "2026-10-04T01:20:12.533375Z"
-    },
-    {
-      "file": "english_french/5_gerund_(ing)_2.json",
-      "label": "Gerund (ing) 2 (5)",
-      "level": 5,
-      "cards": 22,
-      "sizeBytes": 65802,
-      "updatedUtc": "2026-04-13T02:52:45.008020Z"
     },
     {
       "file": "english_french/5_how_to_fish.json",
@@ -1345,14 +1129,6 @@
       "cards": 50,
       "sizeBytes": 30602,
       "updatedUtc": "2026-10-04T01:20:12.988870Z"
-    },
-    {
-      "file": "english_french/5_offensive_cuss_words.json",
-      "label": "Offensive cuss words (5)",
-      "level": 5,
-      "cards": 16,
-      "sizeBytes": 14496,
-      "updatedUtc": "2026-04-13T02:52:47.288538Z"
     },
     {
       "file": "english_french/5_slang_adjectives.json",
@@ -1419,14 +1195,6 @@
       "updatedUtc": "2026-10-04T01:20:13.669562Z"
     },
     {
-      "file": "english_french/IFERROR(__xludf.DUMMYFUNCTION(COMPUTED_VALUE)time).json",
-      "label": "IFERROR(  xludf.DUMMYFUNCTION(COMPUTED VALUE)time)",
-      "level": 9,
-      "cards": 1,
-      "sizeBytes": 1314,
-      "updatedUtc": "2026-04-13T02:52:48.495028Z"
-    },
-    {
       "file": "english_french/9_random.json",
       "label": "Random (9)",
       "level": 9,
@@ -1453,15 +1221,7 @@
       "updatedUtc": "2026-10-04T01:20:20.544108Z"
     },
     {
-      "file": "english_german/1_articles_and_pronouns.json",
-      "label": "Articles and pronouns (1)",
-      "level": 1,
-      "cards": 16,
-      "sizeBytes": 15284,
-      "updatedUtc": "2026-04-13T02:52:55.702333Z"
-    },
-    {
-      "file": "english_german/1_Basic_grammar.json",
+      "file": "english_german/1_basic_grammar.json",
       "label": "Basic grammar (1)",
       "level": 1,
       "cards": 24,
@@ -1499,38 +1259,6 @@
       "cards": 47,
       "sizeBytes": 32711,
       "updatedUtc": "2026-10-04T01:20:22.023600Z"
-    },
-    {
-      "file": "english_german/2_abstract_verb_phrases_1.json",
-      "label": "Abstract verb phrases 1 (2)",
-      "level": 2,
-      "cards": 36,
-      "sizeBytes": 53898,
-      "updatedUtc": "2026-04-13T02:52:56.915952Z"
-    },
-    {
-      "file": "english_german/2_abstract_verb_phrases_2_-_present_tense.json",
-      "label": "Abstract verb phrases 2   present tense (2)",
-      "level": 2,
-      "cards": 129,
-      "sizeBytes": 115115,
-      "updatedUtc": "2026-04-13T02:52:57.001515Z"
-    },
-    {
-      "file": "english_german/2_action_verbs.json",
-      "label": "Action verbs (2)",
-      "level": 2,
-      "cards": 35,
-      "sizeBytes": 50062,
-      "updatedUtc": "2026-04-13T02:52:57.017437Z"
-    },
-    {
-      "file": "english_german/2_action_verbs_2.1_-_present_tense_phrases.json",
-      "label": "Action verbs 2.1   present tense phrases (2)",
-      "level": 2,
-      "cards": 262,
-      "sizeBytes": 226025,
-      "updatedUtc": "2026-04-13T02:52:57.794592Z"
     },
     {
       "file": "english_german/2_around_the_house.json",
@@ -1581,14 +1309,6 @@
       "updatedUtc": "2026-10-04T01:20:23.089386Z"
     },
     {
-      "file": "english_german/2_family.json",
-      "label": "Family (2)",
-      "level": 2,
-      "cards": 27,
-      "sizeBytes": 25208,
-      "updatedUtc": "2026-04-13T02:52:58.003826Z"
-    },
-    {
       "file": "english_german/2_food.json",
       "label": "Food (2)",
       "level": 2,
@@ -1605,44 +1325,12 @@
       "updatedUtc": "2026-10-04T01:20:23.268484Z"
     },
     {
-      "file": "english_german/2_kitchenrestaurant.json",
-      "label": "Kitchenrestaurant (2)",
-      "level": 2,
-      "cards": 26,
-      "sizeBytes": 15442,
-      "updatedUtc": "2026-04-13T02:52:58.067747Z"
-    },
-    {
-      "file": "english_german/2_most_important_verbs.json",
-      "label": "Most important verbs (2)",
-      "level": 2,
-      "cards": 219,
-      "sizeBytes": 181909,
-      "updatedUtc": "2026-04-13T02:52:58.228976Z"
-    },
-    {
       "file": "english_german/2_numbers.json",
       "label": "Numbers (2)",
       "level": 2,
       "cards": 76,
       "sizeBytes": 45313,
       "updatedUtc": "2026-10-04T01:20:23.456332Z"
-    },
-    {
-      "file": "english_german/2_outdoor_-_city.json",
-      "label": "Outdoor   city (2)",
-      "level": 2,
-      "cards": 24,
-      "sizeBytes": 13885,
-      "updatedUtc": "2026-04-13T02:52:58.382560Z"
-    },
-    {
-      "file": "english_german/2_outdoor_-_nature.json",
-      "label": "Outdoor   nature (2)",
-      "level": 2,
-      "cards": 17,
-      "sizeBytes": 9772,
-      "updatedUtc": "2026-04-13T02:52:58.417559Z"
     },
     {
       "file": "english_german/2_outdoors.json",
@@ -1709,28 +1397,12 @@
       "updatedUtc": "2026-10-04T01:20:22.129118Z"
     },
     {
-      "file": "english_german/3_abstract_verb_phrases_3_-_past_tense.json",
-      "label": "Abstract verb phrases 3   past tense (3)",
-      "level": 3,
-      "cards": 114,
-      "sizeBytes": 138939,
-      "updatedUtc": "2026-04-13T02:52:58.648404Z"
-    },
-    {
       "file": "english_german/3_action_verbs_-_commands.json",
       "label": "Action verbs   commands (3)",
       "level": 3,
       "cards": 62,
       "sizeBytes": 89828,
       "updatedUtc": "2026-10-04T01:20:23.727022Z"
-    },
-    {
-      "file": "english_german/3_action_verbs_3.1_-_past_tense_phrases.json",
-      "label": "Action verbs 3.1   past tense phrases (3)",
-      "level": 3,
-      "cards": 261,
-      "sizeBytes": 218139,
-      "updatedUtc": "2026-04-13T02:53:00.167598Z"
     },
     {
       "file": "english_german/3_action_verbs_3.2_-_past_tense_phrases.json",
@@ -1741,16 +1413,8 @@
       "updatedUtc": "2026-04-13T02:53:00.586052Z"
     },
     {
-      "file": "english_german/3_action_verbs_4.1_-_future_tense_phrases.json",
-      "label": "Action verbs 4.1   future tense phrases (3)",
-      "level": 3,
-      "cards": 261,
-      "sizeBytes": 308689,
-      "updatedUtc": "2026-04-13T02:53:01.067070Z"
-    },
-    {
-      "file": "english_german/3_Ad_UNRWA.json",
-      "label": "Ad UNRWA (3)",
+      "file": "english_german/3_ad_unrwa.json",
+      "label": "Ad unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7424,
@@ -1781,60 +1445,12 @@
       "updatedUtc": "2026-10-04T01:20:24.030950Z"
     },
     {
-      "file": "english_german/3_how_to_fish.json",
-      "label": "How to fish (3)",
-      "level": 3,
-      "cards": 71,
-      "sizeBytes": 51271,
-      "updatedUtc": "2026-04-13T02:53:01.233146Z"
-    },
-    {
-      "file": "english_german/3_how_to_garden.json",
-      "label": "How to garden (3)",
-      "level": 3,
-      "cards": 74,
-      "sizeBytes": 53476,
-      "updatedUtc": "2026-04-13T02:53:01.280613Z"
-    },
-    {
-      "file": "english_german/3_how_to_hunt.json",
-      "label": "How to hunt (3)",
-      "level": 3,
-      "cards": 86,
-      "sizeBytes": 67318,
-      "updatedUtc": "2026-04-13T02:53:01.344086Z"
-    },
-    {
-      "file": "english_german/3_how_to_ride_horseback.json",
-      "label": "How to ride horseback (3)",
-      "level": 3,
-      "cards": 76,
-      "sizeBytes": 56558,
-      "updatedUtc": "2026-04-13T02:53:01.391820Z"
-    },
-    {
-      "file": "english_german/3_how_to_sail.json",
-      "label": "How to sail (3)",
-      "level": 3,
-      "cards": 79,
-      "sizeBytes": 62024,
-      "updatedUtc": "2026-04-13T02:53:01.487616Z"
-    },
-    {
       "file": "english_german/3_interjections_2.json",
       "label": "Interjections 2 (3)",
       "level": 3,
       "cards": 27,
       "sizeBytes": 20112,
       "updatedUtc": "2026-10-04T01:20:24.069580Z"
-    },
-    {
-      "file": "english_german/3_most_important_verbs_-_past_tense.json",
-      "label": "Most important verbs   past tense (3)",
-      "level": 3,
-      "cards": 98,
-      "sizeBytes": 62979,
-      "updatedUtc": "2026-04-13T02:53:01.590511Z"
     },
     {
       "file": "english_german/3_opposites.json",
@@ -1867,14 +1483,6 @@
       "cards": 37,
       "sizeBytes": 26050,
       "updatedUtc": "2026-10-04T01:20:24.572412Z"
-    },
-    {
-      "file": "english_german/3_possessive.json",
-      "label": "Possessive (3)",
-      "level": 3,
-      "cards": 27,
-      "sizeBytes": 74398,
-      "updatedUtc": "2026-04-13T02:53:01.633712Z"
     },
     {
       "file": "english_german/3_preposition.json",
@@ -1989,22 +1597,6 @@
       "updatedUtc": "2026-10-04T01:20:24.937270Z"
     },
     {
-      "file": "english_german/3_travel_places.json",
-      "label": "Travel places (3)",
-      "level": 3,
-      "cards": 67,
-      "sizeBytes": 40730,
-      "updatedUtc": "2026-04-13T02:53:01.912107Z"
-    },
-    {
-      "file": "english_german/3_travel_questions.json",
-      "label": "Travel questions (3)",
-      "level": 3,
-      "cards": 37,
-      "sizeBytes": 23698,
-      "updatedUtc": "2026-04-13T02:53:01.925760Z"
-    },
-    {
       "file": "english_german/3_travel_vocab.json",
       "label": "Travel vocab (3)",
       "level": 3,
@@ -2013,8 +1605,8 @@
       "updatedUtc": "2026-10-04T01:20:25.035634Z"
     },
     {
-      "file": "english_german/4_Ad_GiveWell.json",
-      "label": "Ad GiveWell (4)",
+      "file": "english_german/4_ad_givewell.json",
+      "label": "Ad givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 12889,
@@ -2077,7 +1669,7 @@
       "updatedUtc": "2026-10-04T01:20:25.280825Z"
     },
     {
-      "file": "english_german/4_Dialogue_-_first_date.json",
+      "file": "english_german/4_dialogue_-_first_date.json",
       "label": "Dialogue   first date (4)",
       "level": 4,
       "cards": 34,
@@ -2093,36 +1685,12 @@
       "updatedUtc": "2026-10-04T01:20:25.337802Z"
     },
     {
-      "file": "english_german/4_direct_objects.json",
-      "label": "Direct objects (4)",
-      "level": 4,
-      "cards": 97,
-      "sizeBytes": 211804,
-      "updatedUtc": "2026-04-13T02:53:02.341101Z"
-    },
-    {
-      "file": "english_german/4_Everyday_questions.json",
+      "file": "english_german/4_everyday_questions.json",
       "label": "Everyday questions (4)",
       "level": 4,
       "cards": 162,
       "sizeBytes": 109434,
       "updatedUtc": "2026-10-04T01:20:25.449275Z"
-    },
-    {
-      "file": "english_german/4_gerund_(ing).json",
-      "label": "Gerund (ing) (4)",
-      "level": 4,
-      "cards": 39,
-      "sizeBytes": 90491,
-      "updatedUtc": "2026-04-13T02:53:01.098955Z"
-    },
-    {
-      "file": "english_german/4_indirect_objects.json",
-      "label": "Indirect objects (4)",
-      "level": 4,
-      "cards": 53,
-      "sizeBytes": 137950,
-      "updatedUtc": "2026-04-13T02:53:02.384428Z"
     },
     {
       "file": "english_german/4_irregular_plurals.json",
@@ -2139,14 +1707,6 @@
       "cards": 99,
       "sizeBytes": 58400,
       "updatedUtc": "2026-10-04T01:20:25.529451Z"
-    },
-    {
-      "file": "english_german/4_movement_verb_practice_-_come_go_stay_etc.json",
-      "label": "Movement verb practice   come go stay etc (4)",
-      "level": 4,
-      "cards": 250,
-      "sizeBytes": 177179,
-      "updatedUtc": "2026-04-13T02:53:02.583576Z"
     },
     {
       "file": "english_german/4_offensive_cuss_words.json",
@@ -2205,8 +1765,8 @@
       "updatedUtc": "2026-10-04T01:20:25.732856Z"
     },
     {
-      "file": "english_german/4_short_story_-_present_tense_-_A_day_at_school.json",
-      "label": "Short story   present tense   A day at school (4)",
+      "file": "english_german/4_short_story_-_present_tense_-_a_day_at_school.json",
+      "label": "Short story   present tense   a day at school (4)",
       "level": 4,
       "cards": 46,
       "sizeBytes": 29987,
@@ -2237,8 +1797,8 @@
       "updatedUtc": "2026-10-04T01:20:26.132308Z"
     },
     {
-      "file": "english_german/4_zoo_(QA).json",
-      "label": "Zoo (QA) (4)",
+      "file": "english_german/4_zoo_(qa).json",
+      "label": "Zoo (qa) (4)",
       "level": 4,
       "cards": 40,
       "sizeBytes": 24604,
@@ -2261,8 +1821,8 @@
       "updatedUtc": "2026-10-04T01:20:26.203990Z"
     },
     {
-      "file": "english_german/5_Conditional_Grammar.json",
-      "label": "Conditional Grammar (5)",
+      "file": "english_german/5_conditional_grammar.json",
+      "label": "Conditional grammar (5)",
       "level": 5,
       "cards": 50,
       "sizeBytes": 130669,
@@ -2283,14 +1843,6 @@
       "cards": 16,
       "sizeBytes": 12250,
       "updatedUtc": "2026-10-04T01:20:26.278994Z"
-    },
-    {
-      "file": "english_german/5_gerund_(ing)_2.json",
-      "label": "Gerund (ing) 2 (5)",
-      "level": 5,
-      "cards": 22,
-      "sizeBytes": 70649,
-      "updatedUtc": "2026-04-13T02:53:01.114902Z"
     },
     {
       "file": "english_german/5_how_to_fish.json",
@@ -2339,14 +1891,6 @@
       "cards": 50,
       "sizeBytes": 31311,
       "updatedUtc": "2026-10-04T01:20:26.735345Z"
-    },
-    {
-      "file": "english_german/5_offensive_cuss_words.json",
-      "label": "Offensive cuss words (5)",
-      "level": 5,
-      "cards": 16,
-      "sizeBytes": 14464,
-      "updatedUtc": "2026-04-13T02:53:03.461017Z"
     },
     {
       "file": "english_german/5_slang_adjectives.json",
@@ -2405,14 +1949,6 @@
       "updatedUtc": "2026-10-04T01:20:27.380324Z"
     },
     {
-      "file": "english_german/IFERROR(__xludf.DUMMYFUNCTION(COMPUTED_VALUE)time).json",
-      "label": "IFERROR(  xludf.DUMMYFUNCTION(COMPUTED VALUE)time)",
-      "level": 9,
-      "cards": 1,
-      "sizeBytes": 1319,
-      "updatedUtc": "2026-04-13T02:53:04.662615Z"
-    },
-    {
       "file": "english_german/9_random.json",
       "label": "Random (9)",
       "level": 9,
@@ -2439,7 +1975,7 @@
       "updatedUtc": "2026-10-18T02:07:11.148518Z"
     },
     {
-      "file": "english_italian/1_Basic_grammar.json",
+      "file": "english_italian/1_basic_grammar.json",
       "label": "Basic grammar (1)",
       "level": 1,
       "cards": 28,
@@ -2599,8 +2135,8 @@
       "updatedUtc": "2026-10-18T02:07:15.871696Z"
     },
     {
-      "file": "english_italian/3_Ad_UNRWA.json",
-      "label": "Ad UNRWA (3)",
+      "file": "english_italian/3_ad_unrwa.json",
+      "label": "Ad unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7398,
@@ -2791,8 +2327,8 @@
       "updatedUtc": "2026-10-18T02:07:17.882033Z"
     },
     {
-      "file": "english_italian/4_Ad_GiveWell.json",
-      "label": "Ad GiveWell (4)",
+      "file": "english_italian/4_ad_givewell.json",
+      "label": "Ad givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 12875,
@@ -2855,7 +2391,7 @@
       "updatedUtc": "2026-10-18T02:07:18.242918Z"
     },
     {
-      "file": "english_italian/4_Dialogue_-_first_date.json",
+      "file": "english_italian/4_dialogue_-_first_date.json",
       "label": "Dialogue   first date (4)",
       "level": 4,
       "cards": 34,
@@ -2871,7 +2407,7 @@
       "updatedUtc": "2026-10-18T02:07:18.319611Z"
     },
     {
-      "file": "english_italian/4_Everyday_questions.json",
+      "file": "english_italian/4_everyday_questions.json",
       "label": "Everyday questions (4)",
       "level": 4,
       "cards": 162,
@@ -2951,8 +2487,8 @@
       "updatedUtc": "2026-10-18T02:07:18.876098Z"
     },
     {
-      "file": "english_italian/4_short_story_-_present_tense_-_A_day_at_school.json",
-      "label": "Short story   present tense   A day at school (4)",
+      "file": "english_italian/4_short_story_-_present_tense_-_a_day_at_school.json",
+      "label": "Short story   present tense   a day at school (4)",
       "level": 4,
       "cards": 46,
       "sizeBytes": 29929,
@@ -2983,8 +2519,8 @@
       "updatedUtc": "2026-10-18T02:07:19.324217Z"
     },
     {
-      "file": "english_italian/4_zoo_(QA).json",
-      "label": "Zoo (QA) (4)",
+      "file": "english_italian/4_zoo_(qa).json",
+      "label": "Zoo (qa) (4)",
       "level": 4,
       "cards": 40,
       "sizeBytes": 24844,
@@ -2999,7 +2535,7 @@
       "updatedUtc": "2026-10-18T02:07:19.374165Z"
     },
     {
-      "file": "english_italian/5_Award_speech_-_conditional_language.json",
+      "file": "english_italian/5_award_speech_-_conditional_language.json",
       "label": "Award speech   conditional language (5)",
       "level": 5,
       "cards": 32,
@@ -3007,8 +2543,8 @@
       "updatedUtc": "2026-10-18T02:07:19.406004Z"
     },
     {
-      "file": "english_italian/5_Conditional_Grammar.json",
-      "label": "Conditional Grammar (5)",
+      "file": "english_italian/5_conditional_grammar.json",
+      "label": "Conditional grammar (5)",
       "level": 5,
       "cards": 50,
       "sizeBytes": 195652,
@@ -3177,15 +2713,7 @@
       "updatedUtc": "2026-10-04T01:20:34.542296Z"
     },
     {
-      "file": "english_japanese/1_articles_and_pronouns.json",
-      "label": "Articles and pronouns (1)",
-      "level": 1,
-      "cards": 12,
-      "sizeBytes": 15585,
-      "updatedUtc": "2026-04-13T02:53:11.621371Z"
-    },
-    {
-      "file": "english_japanese/1_Basic_grammar.json",
+      "file": "english_japanese/1_basic_grammar.json",
       "label": "Basic grammar (1)",
       "level": 1,
       "cards": 16,
@@ -3199,38 +2727,6 @@
       "cards": 44,
       "sizeBytes": 40278,
       "updatedUtc": "2026-04-13T01:31:00.391350Z"
-    },
-    {
-      "file": "english_japanese/2_abstract_verb_phrases_1.json",
-      "label": "Abstract verb phrases 1 (2)",
-      "level": 2,
-      "cards": 36,
-      "sizeBytes": 83258,
-      "updatedUtc": "2026-04-13T02:53:13.108384Z"
-    },
-    {
-      "file": "english_japanese/2_abstract_verb_phrases_2_-_present_tense.json",
-      "label": "Abstract verb phrases 2   present tense (2)",
-      "level": 2,
-      "cards": 129,
-      "sizeBytes": 254717,
-      "updatedUtc": "2026-04-13T02:53:13.180637Z"
-    },
-    {
-      "file": "english_japanese/2_action_verbs.json",
-      "label": "Action verbs (2)",
-      "level": 2,
-      "cards": 35,
-      "sizeBytes": 78475,
-      "updatedUtc": "2026-04-13T02:53:13.750854Z"
-    },
-    {
-      "file": "english_japanese/2_action_verbs_2.1_-_present_tense_phrases.json",
-      "label": "Action verbs 2.1   present tense phrases (2)",
-      "level": 2,
-      "cards": 53,
-      "sizeBytes": 123563,
-      "updatedUtc": "2026-04-13T02:53:14.105202Z"
     },
     {
       "file": "english_japanese/2_around_the_house.json",
@@ -3281,14 +2777,6 @@
       "updatedUtc": "2026-10-04T01:20:37.217576Z"
     },
     {
-      "file": "english_japanese/2_family.json",
-      "label": "Family (2)",
-      "level": 2,
-      "cards": 27,
-      "sizeBytes": 40065,
-      "updatedUtc": "2026-04-13T02:53:14.317601Z"
-    },
-    {
       "file": "english_japanese/2_food.json",
       "label": "Food (2)",
       "level": 2,
@@ -3305,44 +2793,12 @@
       "updatedUtc": "2026-10-04T01:20:37.285153Z"
     },
     {
-      "file": "english_japanese/2_kitchenrestaurant.json",
-      "label": "Kitchenrestaurant (2)",
-      "level": 2,
-      "cards": 26,
-      "sizeBytes": 15611,
-      "updatedUtc": "2026-04-13T02:53:14.393364Z"
-    },
-    {
-      "file": "english_japanese/2_most_important_verbs.json",
-      "label": "Most important verbs (2)",
-      "level": 2,
-      "cards": 66,
-      "sizeBytes": 73555,
-      "updatedUtc": "2026-04-13T02:53:14.576527Z"
-    },
-    {
       "file": "english_japanese/2_numbers.json",
       "label": "Numbers (2)",
       "level": 2,
       "cards": 80,
       "sizeBytes": 46459,
       "updatedUtc": "2026-10-04T01:20:37.595840Z"
-    },
-    {
-      "file": "english_japanese/2_outdoor_-_city.json",
-      "label": "Outdoor   city (2)",
-      "level": 2,
-      "cards": 24,
-      "sizeBytes": 15144,
-      "updatedUtc": "2026-04-13T02:53:14.703332Z"
-    },
-    {
-      "file": "english_japanese/2_outdoor_-_nature.json",
-      "label": "Outdoor   nature (2)",
-      "level": 2,
-      "cards": 17,
-      "sizeBytes": 10279,
-      "updatedUtc": "2026-04-13T02:53:14.782721Z"
     },
     {
       "file": "english_japanese/2_outdoors.json",
@@ -3417,14 +2873,6 @@
       "updatedUtc": "2026-10-04T01:20:37.868625Z"
     },
     {
-      "file": "english_japanese/3_abstract_verb_phrases_3_-_past_tense.json",
-      "label": "Abstract verb phrases 3   past tense (3)",
-      "level": 3,
-      "cards": 114,
-      "sizeBytes": 274301,
-      "updatedUtc": "2026-04-13T02:53:14.982048Z"
-    },
-    {
       "file": "english_japanese/3_action_verbs_-_commands.json",
       "label": "Action verbs   commands (3)",
       "level": 3,
@@ -3433,24 +2881,8 @@
       "updatedUtc": "2026-10-04T01:20:37.903454Z"
     },
     {
-      "file": "english_japanese/3_action_verbs_3.1_-_past_tense_phrases.json",
-      "label": "Action verbs 3.1   past tense phrases (3)",
-      "level": 3,
-      "cards": 106,
-      "sizeBytes": 255123,
-      "updatedUtc": "2026-04-13T02:53:16.933628Z"
-    },
-    {
-      "file": "english_japanese/3_action_verbs_4.1_-_future_tense_phrases.json",
-      "label": "Action verbs 4.1   future tense phrases (3)",
-      "level": 3,
-      "cards": 53,
-      "sizeBytes": 138500,
-      "updatedUtc": "2026-04-13T02:53:17.252270Z"
-    },
-    {
-      "file": "english_japanese/3_Ad_UNRWA.json",
-      "label": "Ad UNRWA (3)",
+      "file": "english_japanese/3_ad_unrwa.json",
+      "label": "Ad unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7395,
@@ -3481,60 +2913,12 @@
       "updatedUtc": "2026-10-04T01:20:38.197536Z"
     },
     {
-      "file": "english_japanese/3_how_to_fish.json",
-      "label": "How to fish (3)",
-      "level": 3,
-      "cards": 71,
-      "sizeBytes": 52320,
-      "updatedUtc": "2026-04-13T02:53:17.401350Z"
-    },
-    {
-      "file": "english_japanese/3_how_to_garden.json",
-      "label": "How to garden (3)",
-      "level": 3,
-      "cards": 74,
-      "sizeBytes": 53853,
-      "updatedUtc": "2026-04-13T02:53:17.448928Z"
-    },
-    {
-      "file": "english_japanese/3_how_to_hunt.json",
-      "label": "How to hunt (3)",
-      "level": 3,
-      "cards": 86,
-      "sizeBytes": 67891,
-      "updatedUtc": "2026-04-13T02:53:17.513272Z"
-    },
-    {
-      "file": "english_japanese/3_how_to_ride_horseback.json",
-      "label": "How to ride horseback (3)",
-      "level": 3,
-      "cards": 76,
-      "sizeBytes": 57225,
-      "updatedUtc": "2026-04-13T02:53:17.576500Z"
-    },
-    {
-      "file": "english_japanese/3_how_to_sail.json",
-      "label": "How to sail (3)",
-      "level": 3,
-      "cards": 79,
-      "sizeBytes": 64112,
-      "updatedUtc": "2026-04-13T02:53:17.632785Z"
-    },
-    {
       "file": "english_japanese/3_interjections_2.json",
       "label": "Interjections 2 (3)",
       "level": 3,
       "cards": 20,
       "sizeBytes": 15073,
       "updatedUtc": "2026-10-04T01:20:38.276250Z"
-    },
-    {
-      "file": "english_japanese/3_most_important_verbs_-_past_tense.json",
-      "label": "Most important verbs   past tense (3)",
-      "level": 3,
-      "cards": 98,
-      "sizeBytes": 67645,
-      "updatedUtc": "2026-04-13T02:53:17.759896Z"
     },
     {
       "file": "english_japanese/3_opposites.json",
@@ -3567,14 +2951,6 @@
       "cards": 37,
       "sizeBytes": 25704,
       "updatedUtc": "2026-10-04T01:20:38.727555Z"
-    },
-    {
-      "file": "english_japanese/3_possessive.json",
-      "label": "Possessive (3)",
-      "level": 3,
-      "cards": 27,
-      "sizeBytes": 65864,
-      "updatedUtc": "2026-04-13T02:53:17.823891Z"
     },
     {
       "file": "english_japanese/3_preposition.json",
@@ -3689,22 +3065,6 @@
       "updatedUtc": "2026-10-04T01:20:39.082137Z"
     },
     {
-      "file": "english_japanese/3_travel_places.json",
-      "label": "Travel places (3)",
-      "level": 3,
-      "cards": 67,
-      "sizeBytes": 41202,
-      "updatedUtc": "2026-04-13T02:53:18.153013Z"
-    },
-    {
-      "file": "english_japanese/3_travel_questions.json",
-      "label": "Travel questions (3)",
-      "level": 3,
-      "cards": 37,
-      "sizeBytes": 24886,
-      "updatedUtc": "2026-04-13T02:53:18.173676Z"
-    },
-    {
       "file": "english_japanese/3_travel_vocab.json",
       "label": "Travel vocab (3)",
       "level": 3,
@@ -3713,8 +3073,8 @@
       "updatedUtc": "2026-10-04T01:20:39.181058Z"
     },
     {
-      "file": "english_japanese/4_Ad_GiveWell.json",
-      "label": "Ad GiveWell (4)",
+      "file": "english_japanese/4_ad_givewell.json",
+      "label": "Ad givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 12952,
@@ -3777,7 +3137,7 @@
       "updatedUtc": "2026-10-04T01:20:39.421660Z"
     },
     {
-      "file": "english_japanese/4_Dialogue_-_first_date.json",
+      "file": "english_japanese/4_dialogue_-_first_date.json",
       "label": "Dialogue   first date (4)",
       "level": 4,
       "cards": 34,
@@ -3793,36 +3153,12 @@
       "updatedUtc": "2026-10-04T01:20:39.488775Z"
     },
     {
-      "file": "english_japanese/4_direct_objects.json",
-      "label": "Direct objects (4)",
-      "level": 4,
-      "cards": 97,
-      "sizeBytes": 261895,
-      "updatedUtc": "2026-04-13T02:53:18.594347Z"
-    },
-    {
-      "file": "english_japanese/4_Everyday_questions.json",
+      "file": "english_japanese/4_everyday_questions.json",
       "label": "Everyday questions (4)",
       "level": 4,
       "cards": 162,
       "sizeBytes": 114556,
       "updatedUtc": "2026-10-04T01:20:39.632093Z"
-    },
-    {
-      "file": "english_japanese/4_gerund_(ing).json",
-      "label": "Gerund (ing) (4)",
-      "level": 4,
-      "cards": 39,
-      "sizeBytes": 102265,
-      "updatedUtc": "2026-04-13T02:53:17.282044Z"
-    },
-    {
-      "file": "english_japanese/4_indirect_objects.json",
-      "label": "Indirect objects (4)",
-      "level": 4,
-      "cards": 53,
-      "sizeBytes": 149804,
-      "updatedUtc": "2026-04-13T02:53:18.698681Z"
     },
     {
       "file": "english_japanese/4_more_animals.json",
@@ -3831,14 +3167,6 @@
       "cards": 99,
       "sizeBytes": 60291,
       "updatedUtc": "2026-10-04T01:20:39.687562Z"
-    },
-    {
-      "file": "english_japanese/4_movement_verb_practice_-_come_go_stay_etc.json",
-      "label": "Movement verb practice   come go stay etc (4)",
-      "level": 4,
-      "cards": 250,
-      "sizeBytes": 187628,
-      "updatedUtc": "2026-04-13T02:53:18.873213Z"
     },
     {
       "file": "english_japanese/4_offensive_cuss_words.json",
@@ -3897,8 +3225,8 @@
       "updatedUtc": "2026-10-04T01:20:39.929832Z"
     },
     {
-      "file": "english_japanese/4_short_story_-_present_tense_-_A_day_at_school.json",
-      "label": "Short story   present tense   A day at school (4)",
+      "file": "english_japanese/4_short_story_-_present_tense_-_a_day_at_school.json",
+      "label": "Short story   present tense   a day at school (4)",
       "level": 4,
       "cards": 46,
       "sizeBytes": 30971,
@@ -3929,8 +3257,8 @@
       "updatedUtc": "2026-10-04T01:20:40.328605Z"
     },
     {
-      "file": "english_japanese/4_zoo_(QA).json",
-      "label": "Zoo (QA) (4)",
+      "file": "english_japanese/4_zoo_(qa).json",
+      "label": "Zoo (qa) (4)",
       "level": 4,
       "cards": 40,
       "sizeBytes": 25656,
@@ -3953,8 +3281,8 @@
       "updatedUtc": "2026-10-04T01:20:40.400235Z"
     },
     {
-      "file": "english_japanese/5_Conditional_Grammar.json",
-      "label": "Conditional Grammar (5)",
+      "file": "english_japanese/5_conditional_grammar.json",
+      "label": "Conditional grammar (5)",
       "level": 5,
       "cards": 50,
       "sizeBytes": 241907,
@@ -3975,14 +3303,6 @@
       "cards": 15,
       "sizeBytes": 10878,
       "updatedUtc": "2026-10-04T01:20:40.470004Z"
-    },
-    {
-      "file": "english_japanese/5_gerund_(ing)_2.json",
-      "label": "Gerund (ing) 2 (5)",
-      "level": 5,
-      "cards": 22,
-      "sizeBytes": 65047,
-      "updatedUtc": "2026-04-13T02:53:17.289792Z"
     },
     {
       "file": "english_japanese/5_how_to_fish.json",
@@ -4031,14 +3351,6 @@
       "cards": 45,
       "sizeBytes": 31209,
       "updatedUtc": "2026-10-04T01:20:41.018470Z"
-    },
-    {
-      "file": "english_japanese/5_offensive_cuss_words.json",
-      "label": "Offensive cuss words (5)",
-      "level": 5,
-      "cards": 16,
-      "sizeBytes": 13348,
-      "updatedUtc": "2026-04-13T02:53:19.704880Z"
     },
     {
       "file": "english_japanese/5_slang_adjectives.json",
@@ -4105,14 +3417,6 @@
       "updatedUtc": "2026-10-04T01:20:41.774904Z"
     },
     {
-      "file": "english_japanese/IFERROR(__xludf.DUMMYFUNCTION(COMPUTED_VALUE)time).json",
-      "label": "IFERROR(  xludf.DUMMYFUNCTION(COMPUTED VALUE)time)",
-      "level": 9,
-      "cards": 1,
-      "sizeBytes": 1324,
-      "updatedUtc": "2026-04-13T02:53:21.002733Z"
-    },
-    {
       "file": "english_japanese/9_random.json",
       "label": "Random (9)",
       "level": 9,
@@ -4139,7 +3443,7 @@
       "updatedUtc": "2026-10-18T02:07:30.001722Z"
     },
     {
-      "file": "english_korean/1_Basic_grammar.json",
+      "file": "english_korean/1_basic_grammar.json",
       "label": "Basic grammar (1)",
       "level": 1,
       "cards": 15,
@@ -4315,8 +3619,8 @@
       "updatedUtc": "2026-10-18T02:07:35.071727Z"
     },
     {
-      "file": "english_korean/3_Ad_UNRWA.json",
-      "label": "Ad UNRWA (3)",
+      "file": "english_korean/3_ad_unrwa.json",
+      "label": "Ad unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7313,
@@ -4507,8 +3811,8 @@
       "updatedUtc": "2026-10-18T02:07:36.932986Z"
     },
     {
-      "file": "english_korean/4_Ad_GiveWell.json",
-      "label": "Ad GiveWell (4)",
+      "file": "english_korean/4_ad_givewell.json",
+      "label": "Ad givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 12905,
@@ -4563,7 +3867,7 @@
       "updatedUtc": "2026-10-18T02:07:37.282702Z"
     },
     {
-      "file": "english_korean/4_Dialogue_-_first_date.json",
+      "file": "english_korean/4_dialogue_-_first_date.json",
       "label": "Dialogue   first date (4)",
       "level": 4,
       "cards": 47,
@@ -4579,7 +3883,7 @@
       "updatedUtc": "2026-10-18T02:07:37.372951Z"
     },
     {
-      "file": "english_korean/4_Everyday_questions.json",
+      "file": "english_korean/4_everyday_questions.json",
       "label": "Everyday questions (4)",
       "level": 4,
       "cards": 162,
@@ -4651,8 +3955,8 @@
       "updatedUtc": "2026-10-18T02:07:37.932683Z"
     },
     {
-      "file": "english_korean/4_short_story_-_present_tense_-_A_day_at_school.json",
-      "label": "Short story   present tense   A day at school (4)",
+      "file": "english_korean/4_short_story_-_present_tense_-_a_day_at_school.json",
+      "label": "Short story   present tense   a day at school (4)",
       "level": 4,
       "cards": 41,
       "sizeBytes": 26898,
@@ -4683,8 +3987,8 @@
       "updatedUtc": "2026-10-18T02:07:38.504155Z"
     },
     {
-      "file": "english_korean/4_zoo_(QA).json",
-      "label": "Zoo (QA) (4)",
+      "file": "english_korean/4_zoo_(qa).json",
+      "label": "Zoo (qa) (4)",
       "level": 4,
       "cards": 40,
       "sizeBytes": 26608,
@@ -4699,7 +4003,7 @@
       "updatedUtc": "2026-10-18T02:07:38.555633Z"
     },
     {
-      "file": "english_korean/5_Award_speech_-_conditional_language.json",
+      "file": "english_korean/5_award_speech_-_conditional_language.json",
       "label": "Award speech   conditional language (5)",
       "level": 5,
       "cards": 32,
@@ -4707,8 +4011,8 @@
       "updatedUtc": "2026-10-18T02:07:38.592127Z"
     },
     {
-      "file": "english_korean/5_Conditional_Grammar.json",
-      "label": "Conditional Grammar (5)",
+      "file": "english_korean/5_conditional_grammar.json",
+      "label": "Conditional grammar (5)",
       "level": 5,
       "cards": 50,
       "sizeBytes": 269733,
@@ -4861,7 +4165,7 @@
       "updatedUtc": "2026-11-01T19:12:31.869357Z"
     },
     {
-      "file": "english_portuguese/1_Basic_grammar.json",
+      "file": "english_portuguese/1_basic_grammar.json",
       "label": "Basic grammar (1)",
       "level": 1,
       "cards": 2,
@@ -5037,8 +4341,8 @@
       "updatedUtc": "2026-11-01T19:12:38.287634Z"
     },
     {
-      "file": "english_portuguese/3_Ad_UNRWA.json",
-      "label": "Ad UNRWA (3)",
+      "file": "english_portuguese/3_ad_unrwa.json",
+      "label": "Ad unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7442,
@@ -5229,8 +4533,8 @@
       "updatedUtc": "2026-11-01T19:12:39.586529Z"
     },
     {
-      "file": "english_portuguese/4_Ad_GiveWell.json",
-      "label": "Ad GiveWell (4)",
+      "file": "english_portuguese/4_ad_givewell.json",
+      "label": "Ad givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 12925,
@@ -5293,7 +4597,7 @@
       "updatedUtc": "2026-11-01T19:12:40.776199Z"
     },
     {
-      "file": "english_portuguese/4_Dialogue_-_first_date.json",
+      "file": "english_portuguese/4_dialogue_-_first_date.json",
       "label": "Dialogue   first date (4)",
       "level": 4,
       "cards": 34,
@@ -5309,7 +4613,7 @@
       "updatedUtc": "2026-11-01T19:12:40.944930Z"
     },
     {
-      "file": "english_portuguese/4_Everyday_questions.json",
+      "file": "english_portuguese/4_everyday_questions.json",
       "label": "Everyday questions (4)",
       "level": 4,
       "cards": 162,
@@ -5389,8 +4693,8 @@
       "updatedUtc": "2026-11-01T19:12:42.520937Z"
     },
     {
-      "file": "english_portuguese/4_short_story_-_present_tense_-_A_day_at_school.json",
-      "label": "Short story   present tense   A day at school (4)",
+      "file": "english_portuguese/4_short_story_-_present_tense_-_a_day_at_school.json",
+      "label": "Short story   present tense   a day at school (4)",
       "level": 4,
       "cards": 46,
       "sizeBytes": 30155,
@@ -5421,8 +4725,8 @@
       "updatedUtc": "2026-11-01T19:12:43.210553Z"
     },
     {
-      "file": "english_portuguese/4_zoo_(QA).json",
-      "label": "Zoo (QA) (4)",
+      "file": "english_portuguese/4_zoo_(qa).json",
+      "label": "Zoo (qa) (4)",
       "level": 4,
       "cards": 40,
       "sizeBytes": 25119,
@@ -5437,7 +4741,7 @@
       "updatedUtc": "2026-11-01T19:12:45.910429Z"
     },
     {
-      "file": "english_portuguese/5_Award_speech_-_conditional_language.json",
+      "file": "english_portuguese/5_award_speech_-_conditional_language.json",
       "label": "Award speech   conditional language (5)",
       "level": 5,
       "cards": 32,
@@ -5445,8 +4749,8 @@
       "updatedUtc": "2026-11-01T19:12:45.998945Z"
     },
     {
-      "file": "english_portuguese/5_Conditional_Grammar.json",
-      "label": "Conditional Grammar (5)",
+      "file": "english_portuguese/5_conditional_grammar.json",
+      "label": "Conditional grammar (5)",
       "level": 5,
       "cards": 50,
       "sizeBytes": 196401,
@@ -5591,7 +4895,7 @@
   ],
   "english_russian": [
     {
-      "file": "english_russian/1_Basic_grammar.json",
+      "file": "english_russian/1_basic_grammar.json",
       "label": "Basic grammar (1)",
       "level": 1,
       "cards": 13,
@@ -5751,8 +5055,8 @@
       "updatedUtc": "2026-10-18T02:07:54.422374Z"
     },
     {
-      "file": "english_russian/3_Ad_UNRWA.json",
-      "label": "Ad UNRWA (3)",
+      "file": "english_russian/3_ad_unrwa.json",
+      "label": "Ad unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 8009,
@@ -5943,8 +5247,8 @@
       "updatedUtc": "2026-10-18T02:07:56.179860Z"
     },
     {
-      "file": "english_russian/4_Ad_GiveWell.json",
-      "label": "Ad GiveWell (4)",
+      "file": "english_russian/4_ad_givewell.json",
+      "label": "Ad givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 13951,
@@ -5999,7 +5303,7 @@
       "updatedUtc": "2026-10-18T02:07:56.520923Z"
     },
     {
-      "file": "english_russian/4_Dialogue_-_first_date.json",
+      "file": "english_russian/4_dialogue_-_first_date.json",
       "label": "Dialogue   first date (4)",
       "level": 4,
       "cards": 34,
@@ -6015,7 +5319,7 @@
       "updatedUtc": "2026-10-18T02:07:56.597809Z"
     },
     {
-      "file": "english_russian/4_Everyday_questions.json",
+      "file": "english_russian/4_everyday_questions.json",
       "label": "Everyday questions (4)",
       "level": 4,
       "cards": 162,
@@ -6095,8 +5399,8 @@
       "updatedUtc": "2026-10-18T02:07:57.153813Z"
     },
     {
-      "file": "english_russian/4_short_story_-_present_tense_-_A_day_at_school.json",
-      "label": "Short story   present tense   A day at school (4)",
+      "file": "english_russian/4_short_story_-_present_tense_-_a_day_at_school.json",
+      "label": "Short story   present tense   a day at school (4)",
       "level": 4,
       "cards": 46,
       "sizeBytes": 31317,
@@ -6127,8 +5431,8 @@
       "updatedUtc": "2026-10-18T02:07:57.666126Z"
     },
     {
-      "file": "english_russian/4_zoo_(QA).json",
-      "label": "Zoo (QA) (4)",
+      "file": "english_russian/4_zoo_(qa).json",
+      "label": "Zoo (qa) (4)",
       "level": 4,
       "cards": 40,
       "sizeBytes": 26123,
@@ -6143,7 +5447,7 @@
       "updatedUtc": "2026-10-18T02:07:57.805249Z"
     },
     {
-      "file": "english_russian/5_Award_speech_-_conditional_language.json",
+      "file": "english_russian/5_award_speech_-_conditional_language.json",
       "label": "Award speech   conditional language (5)",
       "level": 5,
       "cards": 32,
@@ -6151,8 +5455,8 @@
       "updatedUtc": "2026-10-18T02:07:57.857454Z"
     },
     {
-      "file": "english_russian/5_Conditional_Grammar.json",
-      "label": "Conditional Grammar (5)",
+      "file": "english_russian/5_conditional_grammar.json",
+      "label": "Conditional grammar (5)",
       "level": 5,
       "cards": 50,
       "sizeBytes": 227059,
@@ -6305,36 +5609,12 @@
       "updatedUtc": "2026-10-04T01:19:52.648321Z"
     },
     {
-      "file": "english_spanish/1_articles_and_pronouns.json",
-      "label": "Articles and pronouns (1)",
-      "level": 1,
-      "cards": 17,
-      "sizeBytes": 15057,
-      "updatedUtc": "2026-04-13T02:52:24.602174Z"
-    },
-    {
-      "file": "english_spanish/1_Basic_grammar.json",
+      "file": "english_spanish/1_basic_grammar.json",
       "label": "Basic grammar (1)",
       "level": 1,
       "cards": 27,
       "sizeBytes": 25370,
       "updatedUtc": "2026-10-04T01:19:54.439042Z"
-    },
-    {
-      "file": "english_spanish/2_abstract_verb_phrases_1.json",
-      "label": "Abstract verb phrases 1 (2)",
-      "level": 2,
-      "cards": 36,
-      "sizeBytes": 57280,
-      "updatedUtc": "2026-08-02T18:45:00.934306Z"
-    },
-    {
-      "file": "english_spanish/2_abstract_verb_phrases_2_-_present_tense.json",
-      "label": "Abstract verb phrases 2   present tense (2)",
-      "level": 2,
-      "cards": 129,
-      "sizeBytes": 297548,
-      "updatedUtc": "2026-08-02T18:45:01.167303Z"
     },
     {
       "file": "english_spanish/2_accents.json",
@@ -6343,22 +5623,6 @@
       "cards": 24,
       "sizeBytes": 14150,
       "updatedUtc": "2026-10-04T01:19:54.542081Z"
-    },
-    {
-      "file": "english_spanish/2_action_verbs.json",
-      "label": "Action verbs (2)",
-      "level": 2,
-      "cards": 35,
-      "sizeBytes": 33649,
-      "updatedUtc": "2026-08-02T18:45:03.476970Z"
-    },
-    {
-      "file": "english_spanish/2_action_verbs_2.1_-_present_tense_phrases.json",
-      "label": "Action verbs 2.1   present tense phrases (2)",
-      "level": 2,
-      "cards": 246,
-      "sizeBytes": 252494,
-      "updatedUtc": "2026-08-02T18:45:03.866580Z"
     },
     {
       "file": "english_spanish/2_around_the_house.json",
@@ -6409,14 +5673,6 @@
       "updatedUtc": "2026-10-04T01:19:55.504548Z"
     },
     {
-      "file": "english_spanish/2_family.json",
-      "label": "Family (2)",
-      "level": 2,
-      "cards": 27,
-      "sizeBytes": 77813,
-      "updatedUtc": "2026-04-13T02:52:25.708513Z"
-    },
-    {
       "file": "english_spanish/2_food.json",
       "label": "Food (2)",
       "level": 2,
@@ -6433,44 +5689,12 @@
       "updatedUtc": "2026-10-04T01:19:55.690961Z"
     },
     {
-      "file": "english_spanish/2_kitchenrestaurant.json",
-      "label": "Kitchenrestaurant (2)",
-      "level": 2,
-      "cards": 26,
-      "sizeBytes": 75479,
-      "updatedUtc": "2026-04-13T02:52:25.788051Z"
-    },
-    {
-      "file": "english_spanish/2_most_important_verbs.json",
-      "label": "Most important verbs (2)",
-      "level": 2,
-      "cards": 223,
-      "sizeBytes": 187543,
-      "updatedUtc": "2026-08-02T18:45:05.683640Z"
-    },
-    {
       "file": "english_spanish/2_numbers.json",
       "label": "Numbers (2)",
       "level": 2,
       "cards": 76,
       "sizeBytes": 45164,
       "updatedUtc": "2026-10-04T01:19:55.876668Z"
-    },
-    {
-      "file": "english_spanish/2_outdoor_-_city.json",
-      "label": "Outdoor   city (2)",
-      "level": 2,
-      "cards": 24,
-      "sizeBytes": 69729,
-      "updatedUtc": "2026-08-02T18:45:05.861439Z"
-    },
-    {
-      "file": "english_spanish/2_outdoor_-_nature.json",
-      "label": "Outdoor   nature (2)",
-      "level": 2,
-      "cards": 17,
-      "sizeBytes": 49354,
-      "updatedUtc": "2026-08-02T18:45:06.329199Z"
     },
     {
       "file": "english_spanish/2_outdoors.json",
@@ -6545,14 +5769,6 @@
       "updatedUtc": "2026-10-04T01:19:56.115450Z"
     },
     {
-      "file": "english_spanish/3_abstract_verb_phrases_3_-_past_tense.json",
-      "label": "Abstract verb phrases 3   past tense (3)",
-      "level": 3,
-      "cards": 114,
-      "sizeBytes": 183946,
-      "updatedUtc": "2026-08-02T18:45:06.675048Z"
-    },
-    {
       "file": "english_spanish/3_action_verbs_-_commands.json",
       "label": "Action verbs   commands (3)",
       "level": 3,
@@ -6561,32 +5777,8 @@
       "updatedUtc": "2026-10-04T01:19:56.166268Z"
     },
     {
-      "file": "english_spanish/3_action_verbs_3.1_-_past_tense_phrases.json",
-      "label": "Action verbs 3.1   past tense phrases (3)",
-      "level": 3,
-      "cards": 232,
-      "sizeBytes": 239168,
-      "updatedUtc": "2026-08-02T18:45:11.369389Z"
-    },
-    {
-      "file": "english_spanish/3_action_verbs_3.2_-_imperfect_past_tense_phrases.json",
-      "label": "Action verbs 3.2   imperfect past tense phrases (3)",
-      "level": 3,
-      "cards": 232,
-      "sizeBytes": 258541,
-      "updatedUtc": "2026-08-02T18:45:14.498935Z"
-    },
-    {
-      "file": "english_spanish/3_action_verbs_4.1_-_future_tense_phrases.json",
-      "label": "Action verbs 4.1   future tense phrases (3)",
-      "level": 3,
-      "cards": 232,
-      "sizeBytes": 205703,
-      "updatedUtc": "2026-08-02T18:45:14.931759Z"
-    },
-    {
-      "file": "english_spanish/3_Ad_UNRWA.json",
-      "label": "Ad UNRWA (3)",
+      "file": "english_spanish/3_ad_unrwa.json",
+      "label": "Ad unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7392,
@@ -6617,60 +5809,12 @@
       "updatedUtc": "2026-10-04T01:19:56.492717Z"
     },
     {
-      "file": "english_spanish/3_how_to_fish.json",
-      "label": "How to fish (3)",
-      "level": 3,
-      "cards": 56,
-      "sizeBytes": 39368,
-      "updatedUtc": "2026-08-02T18:45:15.460840Z"
-    },
-    {
-      "file": "english_spanish/3_how_to_garden.json",
-      "label": "How to garden (3)",
-      "level": 3,
-      "cards": 67,
-      "sizeBytes": 46836,
-      "updatedUtc": "2026-08-02T18:45:15.611889Z"
-    },
-    {
-      "file": "english_spanish/3_how_to_hunt.json",
-      "label": "How to hunt (3)",
-      "level": 3,
-      "cards": 84,
-      "sizeBytes": 61819,
-      "updatedUtc": "2026-08-02T18:45:15.838589Z"
-    },
-    {
-      "file": "english_spanish/3_how_to_ride_horseback.json",
-      "label": "How to ride horseback (3)",
-      "level": 3,
-      "cards": 76,
-      "sizeBytes": 53942,
-      "updatedUtc": "2026-08-02T18:45:16.010121Z"
-    },
-    {
-      "file": "english_spanish/3_how_to_sail.json",
-      "label": "How to sail (3)",
-      "level": 3,
-      "cards": 79,
-      "sizeBytes": 57799,
-      "updatedUtc": "2026-08-02T18:45:16.341985Z"
-    },
-    {
       "file": "english_spanish/3_interjections_2.json",
       "label": "Interjections 2 (3)",
       "level": 3,
       "cards": 20,
       "sizeBytes": 16190,
       "updatedUtc": "2026-10-04T01:19:56.524634Z"
-    },
-    {
-      "file": "english_spanish/3_most_important_verbs_-_past_tense.json",
-      "label": "Most important verbs   past tense (3)",
-      "level": 3,
-      "cards": 98,
-      "sizeBytes": 63778,
-      "updatedUtc": "2026-08-02T18:45:16.639363Z"
     },
     {
       "file": "english_spanish/3_opposites.json",
@@ -6703,14 +5847,6 @@
       "cards": 37,
       "sizeBytes": 25512,
       "updatedUtc": "2026-10-04T01:19:56.976167Z"
-    },
-    {
-      "file": "english_spanish/3_possessive.json",
-      "label": "Possessive (3)",
-      "level": 3,
-      "cards": 27,
-      "sizeBytes": 51963,
-      "updatedUtc": "2026-08-02T18:45:16.831128Z"
     },
     {
       "file": "english_spanish/3_preposition.json",
@@ -6825,22 +5961,6 @@
       "updatedUtc": "2026-10-04T01:19:57.330606Z"
     },
     {
-      "file": "english_spanish/3_travel_places.json",
-      "label": "Travel places (3)",
-      "level": 3,
-      "cards": 67,
-      "sizeBytes": 42541,
-      "updatedUtc": "2026-08-02T18:45:17.764342Z"
-    },
-    {
-      "file": "english_spanish/3_travel_questions.json",
-      "label": "Travel questions (3)",
-      "level": 3,
-      "cards": 37,
-      "sizeBytes": 22999,
-      "updatedUtc": "2026-08-02T18:45:17.861907Z"
-    },
-    {
       "file": "english_spanish/3_travel_vocab.json",
       "label": "Travel vocab (3)",
       "level": 3,
@@ -6849,8 +5969,8 @@
       "updatedUtc": "2026-10-04T01:19:57.429720Z"
     },
     {
-      "file": "english_spanish/4_Ad_GiveWell.json",
-      "label": "Ad GiveWell (4)",
+      "file": "english_spanish/4_ad_givewell.json",
+      "label": "Ad givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 12895,
@@ -6913,7 +6033,7 @@
       "updatedUtc": "2026-10-04T01:19:57.671218Z"
     },
     {
-      "file": "english_spanish/4_Dialogue_-_first_date.json",
+      "file": "english_spanish/4_dialogue_-_first_date.json",
       "label": "Dialogue   first date (4)",
       "level": 4,
       "cards": 34,
@@ -6929,15 +6049,7 @@
       "updatedUtc": "2026-10-04T01:19:57.737048Z"
     },
     {
-      "file": "english_spanish/4_direct_objects.json",
-      "label": "Direct objects (4)",
-      "level": 4,
-      "cards": 97,
-      "sizeBytes": 237240,
-      "updatedUtc": "2026-08-02T18:45:19.116164Z"
-    },
-    {
-      "file": "english_spanish/4_Everyday_questions.json",
+      "file": "english_spanish/4_everyday_questions.json",
       "label": "Everyday questions (4)",
       "level": 4,
       "cards": 162,
@@ -6953,36 +6065,12 @@
       "updatedUtc": "2026-10-04T01:19:57.855947Z"
     },
     {
-      "file": "english_spanish/4_gerund_(ing).json",
-      "label": "Gerund (ing) (4)",
-      "level": 4,
-      "cards": 39,
-      "sizeBytes": 91254,
-      "updatedUtc": "2026-08-02T18:45:15.054431Z"
-    },
-    {
-      "file": "english_spanish/4_indirect_objects.json",
-      "label": "Indirect objects (4)",
-      "level": 4,
-      "cards": 53,
-      "sizeBytes": 124198,
-      "updatedUtc": "2026-08-02T18:45:19.313538Z"
-    },
-    {
       "file": "english_spanish/4_irregular_plurals.json",
       "label": "Irregular plurals (4)",
       "level": 4,
       "cards": 24,
       "sizeBytes": 14017,
       "updatedUtc": "2026-10-04T01:19:57.891838Z"
-    },
-    {
-      "file": "english_spanish/4_mismo_-_igual.json",
-      "label": "Mismo   igual (4)",
-      "level": 4,
-      "cards": 25,
-      "sizeBytes": 57376,
-      "updatedUtc": "2026-04-13T02:12:20.389151Z"
     },
     {
       "file": "english_spanish/4_more_animals.json",
@@ -6993,28 +6081,12 @@
       "updatedUtc": "2026-10-04T01:19:57.941011Z"
     },
     {
-      "file": "english_spanish/4_movement_verb_practice_-_come_go_stay_etc.json",
-      "label": "Movement verb practice   come go stay etc (4)",
-      "level": 4,
-      "cards": 250,
-      "sizeBytes": 168255,
-      "updatedUtc": "2026-08-02T18:45:20.015490Z"
-    },
-    {
       "file": "english_spanish/4_offensive_cuss_words.json",
       "label": "Offensive cuss words (4)",
       "level": 4,
       "cards": 6,
       "sizeBytes": 3858,
       "updatedUtc": "2026-10-04T01:19:57.962829Z"
-    },
-    {
-      "file": "english_spanish/4_past_tense_serestar_-_practice.json",
-      "label": "Past tense serestar   practice (4)",
-      "level": 4,
-      "cards": 45,
-      "sizeBytes": 31960,
-      "updatedUtc": "2026-08-02T18:45:20.183235Z"
     },
     {
       "file": "english_spanish/4_past_tense_to_be_-_practice.json",
@@ -7065,8 +6137,8 @@
       "updatedUtc": "2026-10-04T01:19:58.139818Z"
     },
     {
-      "file": "english_spanish/4_short_story_-_present_tense_-_A_day_at_school.json",
-      "label": "Short story   present tense   A day at school (4)",
+      "file": "english_spanish/4_short_story_-_present_tense_-_a_day_at_school.json",
+      "label": "Short story   present tense   a day at school (4)",
       "level": 4,
       "cards": 46,
       "sizeBytes": 35277,
@@ -7121,8 +6193,8 @@
       "updatedUtc": "2026-10-04T01:19:58.500661Z"
     },
     {
-      "file": "english_spanish/4_zoo_(QA).json",
-      "label": "Zoo (QA) (4)",
+      "file": "english_spanish/4_zoo_(qa).json",
+      "label": "Zoo (qa) (4)",
       "level": 4,
       "cards": 40,
       "sizeBytes": 25167,
@@ -7145,8 +6217,8 @@
       "updatedUtc": "2026-10-04T01:19:58.561815Z"
     },
     {
-      "file": "english_spanish/5_Conditional_Grammar.json",
-      "label": "Conditional Grammar (5)",
+      "file": "english_spanish/5_conditional_grammar.json",
+      "label": "Conditional grammar (5)",
       "level": 5,
       "cards": 50,
       "sizeBytes": 260989,
@@ -7169,20 +6241,12 @@
       "updatedUtc": "2026-10-04T01:19:58.641173Z"
     },
     {
-      "file": "english_spanish/5_Experiencer_Constructions.json",
-      "label": "Experiencer Constructions (5)",
+      "file": "english_spanish/5_experiencer_constructions.json",
+      "label": "Experiencer constructions (5)",
       "level": 5,
       "cards": 28,
       "sizeBytes": 41937,
       "updatedUtc": "2026-10-04T01:19:59.090072Z"
-    },
-    {
-      "file": "english_spanish/5_gerund_(ing)_2.json",
-      "label": "Gerund (ing) 2 (5)",
-      "level": 5,
-      "cards": 22,
-      "sizeBytes": 72585,
-      "updatedUtc": "2026-08-02T18:45:15.098492Z"
     },
     {
       "file": "english_spanish/5_how_to_fish.json",
@@ -7233,52 +6297,12 @@
       "updatedUtc": "2026-10-04T01:19:59.066254Z"
     },
     {
-      "file": "english_spanish/5_more_pronoun_uses.json",
-      "label": "More pronoun uses (5)",
-      "level": 5,
-      "cards": 28,
-      "sizeBytes": 41708,
-      "updatedUtc": "2026-08-02T18:45:22.742930Z"
-    },
-    {
-      "file": "english_spanish/5_offensive_cuss_words.json",
-      "label": "Offensive cuss words (5)",
-      "level": 5,
-      "cards": 16,
-      "sizeBytes": 14236,
-      "updatedUtc": "2026-04-13T02:52:31.209488Z"
-    },
-    {
-      "file": "english_spanish/5_que__de_que.json",
-      "label": "Que  de que (5)",
-      "level": 5,
-      "cards": 44,
-      "sizeBytes": 28709,
-      "updatedUtc": "2026-04-13T02:12:21.278814Z"
-    },
-    {
       "file": "english_spanish/5_real_-_hypothetical.json",
       "label": "Real   hypothetical (5)",
       "level": 5,
       "cards": 46,
       "sizeBytes": 43996,
       "updatedUtc": "2026-10-04T01:19:59.111532Z"
-    },
-    {
-      "file": "english_spanish/5_se_accidental.json",
-      "label": "Se accidental (5)",
-      "level": 5,
-      "cards": 20,
-      "sizeBytes": 13224,
-      "updatedUtc": "2026-08-02T18:45:22.889774Z"
-    },
-    {
-      "file": "english_spanish/5_similar_word_uses.json",
-      "label": "Similar word uses (5)",
-      "level": 5,
-      "cards": 218,
-      "sizeBytes": 206635,
-      "updatedUtc": "2026-08-02T18:45:27.062928Z"
     },
     {
       "file": "english_spanish/5_slang_adjectives.json",
@@ -7321,8 +6345,8 @@
       "updatedUtc": "2026-10-04T01:19:59.707752Z"
     },
     {
-      "file": "english_spanish/5_Things_That_Happened_to_Me_(Se_Me__Se_Te__Se_Le).json",
-      "label": "Things That Happened to Me (Se Me  Se Te  Se Le) (5)",
+      "file": "english_spanish/5_things_that_happened_to_me_(se_me__se_te__se_le).json",
+      "label": "Things that happened to me (se me  se te  se le) (5)",
       "level": 5,
       "cards": 20,
       "sizeBytes": 19824,
@@ -7351,14 +6375,6 @@
       "cards": 26,
       "sizeBytes": 28357,
       "updatedUtc": "2026-10-04T01:19:59.771329Z"
-    },
-    {
-      "file": "english_spanish/IFERROR(__xludf.DUMMYFUNCTION(COMPUTED_VALUE)time).json",
-      "label": "IFERROR(  xludf.DUMMYFUNCTION(COMPUTED VALUE)time)",
-      "level": 9,
-      "cards": 1,
-      "sizeBytes": 1333,
-      "updatedUtc": "2026-04-13T02:52:32.488401Z"
     },
     {
       "file": "english_spanish/9_random.json",
@@ -7395,7 +6411,7 @@
       "updatedUtc": "2026-04-13T01:01:28.778386Z"
     },
     {
-      "file": "french_english/1_Grammaire_de_base.json",
+      "file": "french_english/1_grammaire_de_base.json",
       "label": "Grammaire de base (1)",
       "level": 1,
       "cards": 16,
@@ -7427,7 +6443,7 @@
       "updatedUtc": "2026-10-04T01:28:46.789586Z"
     },
     {
-      "file": "french_english/2_Adjectifs.json",
+      "file": "french_english/2_adjectifs.json",
       "label": "Adjectifs (2)",
       "level": 2,
       "cards": 5,
@@ -7443,7 +6459,7 @@
       "updatedUtc": "2026-10-04T01:28:47.786050Z"
     },
     {
-      "file": "french_english/2_Animaux_courants.json",
+      "file": "french_english/2_animaux_courants.json",
       "label": "Animaux courants (2)",
       "level": 2,
       "cards": 16,
@@ -7555,7 +6571,7 @@
       "updatedUtc": "2026-10-04T01:28:47.690581Z"
     },
     {
-      "file": "french_english/2_Phrases_de_verbes_abstraites_au_prsent.json",
+      "file": "french_english/2_phrases_de_verbes_abstraites_au_prsent.json",
       "label": "Phrases de verbes abstraites au prsent (2)",
       "level": 2,
       "cards": 129,
@@ -7563,7 +6579,7 @@
       "updatedUtc": "2026-04-13T01:01:30.689304Z"
     },
     {
-      "file": "french_english/2_Phrases_verbales_abstraites_1..json",
+      "file": "french_english/2_phrases_verbales_abstraites_1..json",
       "label": "Phrases verbales abstraites 1. (2)",
       "level": 2,
       "cards": 2,
@@ -7635,8 +6651,8 @@
       "updatedUtc": "2026-04-13T01:01:30.705433Z"
     },
     {
-      "file": "french_english/2_Verbes_daction_2.1_-_Phrases_au_prsent.json",
-      "label": "Verbes daction 2.1   Phrases au prsent (2)",
+      "file": "french_english/2_verbes_daction_2.1_-_phrases_au_prsent.json",
+      "label": "Verbes daction 2.1   phrases au prsent (2)",
       "level": 2,
       "cards": 174,
       "sizeBytes": 110833,
@@ -7835,7 +6851,7 @@
       "updatedUtc": "2026-10-04T01:28:48.788246Z"
     },
     {
-      "file": "french_english/3_Phrases_de_verbes_abstraites_au_pass.json",
+      "file": "french_english/3_phrases_de_verbes_abstraites_au_pass.json",
       "label": "Phrases de verbes abstraites au pass (3)",
       "level": 3,
       "cards": 114,
@@ -7859,8 +6875,8 @@
       "updatedUtc": "2026-10-04T01:28:49.400234Z"
     },
     {
-      "file": "french_english/3_Publicit__UNRWA.json",
-      "label": "Publicit  UNRWA (3)",
+      "file": "french_english/3_publicit__unrwa.json",
+      "label": "Publicit  unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7478,
@@ -7907,16 +6923,16 @@
       "updatedUtc": "2026-10-04T01:28:48.581919Z"
     },
     {
-      "file": "french_english/3_Verbes_daction_3.1_-_Phrases_au_pass.json",
-      "label": "Verbes daction 3.1   Phrases au pass (3)",
+      "file": "french_english/3_verbes_daction_3.1_-_phrases_au_pass.json",
+      "label": "Verbes daction 3.1   phrases au pass (3)",
       "level": 3,
       "cards": 412,
       "sizeBytes": 265789,
       "updatedUtc": "2026-04-13T01:01:33.989919Z"
     },
     {
-      "file": "french_english/3_Verbes_daction_4.1_-_Phrases_au_futur.json",
-      "label": "Verbes daction 4.1   Phrases au futur (3)",
+      "file": "french_english/3_verbes_daction_4.1_-_phrases_au_futur.json",
+      "label": "Verbes daction 4.1   phrases au futur (3)",
       "level": 3,
       "cards": 90,
       "sizeBytes": 60571,
@@ -7939,8 +6955,8 @@
       "updatedUtc": "2026-10-04T01:28:49.896800Z"
     },
     {
-      "file": "french_english/4_Annonce_GiveWell.json",
-      "label": "Annonce GiveWell (4)",
+      "file": "french_english/4_annonce_givewell.json",
+      "label": "Annonce givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 12925,
@@ -7971,7 +6987,7 @@
       "updatedUtc": "2026-10-04T01:28:50.070302Z"
     },
     {
-      "file": "french_english/4_Courte_histoire_-_pass_-_vieux_souvenir.json",
+      "file": "french_english/4_courte_histoire_-_pass_-_vieux_souvenir.json",
       "label": "Courte histoire   pass   vieux souvenir (4)",
       "level": 4,
       "cards": 50,
@@ -8003,7 +7019,7 @@
       "updatedUtc": "2026-10-04T01:28:50.150606Z"
     },
     {
-      "file": "french_english/4_Dialogue_-_premier_rendez-vous.json",
+      "file": "french_english/4_dialogue_-_premier_rendez-vous.json",
       "label": "Dialogue   premier rendez vous (4)",
       "level": 4,
       "cards": 34,
@@ -8011,7 +7027,7 @@
       "updatedUtc": "2026-10-04T01:28:50.164690Z"
     },
     {
-      "file": "french_english/4_Dialogue_-_runion_de_travail_typique.json",
+      "file": "french_english/4_dialogue_-_runion_de_travail_typique.json",
       "label": "Dialogue   runion de travail typique (4)",
       "level": 4,
       "cards": 37,
@@ -8051,8 +7067,8 @@
       "updatedUtc": "2026-10-04T01:28:50.561404Z"
     },
     {
-      "file": "french_english/4_Histoire_courte_-_prsent_-_Une_journe__lcole.json",
-      "label": "Histoire courte   prsent   Une journe  lcole (4)",
+      "file": "french_english/4_histoire_courte_-_prsent_-_une_journe__lcole.json",
+      "label": "Histoire courte   prsent   une journe  lcole (4)",
       "level": 4,
       "cards": 46,
       "sizeBytes": 29804,
@@ -8115,7 +7131,7 @@
       "updatedUtc": "2026-04-13T01:01:36.239980Z"
     },
     {
-      "file": "french_english/4_Professions.json",
+      "file": "french_english/4_professions.json",
       "label": "Professions (4)",
       "level": 4,
       "cards": 40,
@@ -8163,7 +7179,7 @@
       "updatedUtc": "2026-10-04T01:28:51.659697Z"
     },
     {
-      "file": "french_english/5_Comment__jardiner.json",
+      "file": "french_english/5_comment__jardiner.json",
       "label": "Comment  jardiner (5)",
       "level": 5,
       "cards": 67,
@@ -8187,7 +7203,7 @@
       "updatedUtc": "2026-10-04T01:28:51.564557Z"
     },
     {
-      "file": "french_english/5_Comment__pcher.json",
+      "file": "french_english/5_comment__pcher.json",
       "label": "Comment  pcher (5)",
       "level": 5,
       "cards": 56,
@@ -8203,7 +7219,7 @@
       "updatedUtc": "2026-10-04T01:28:51.232386Z"
     },
     {
-      "file": "french_english/5_Dcris_limage..json",
+      "file": "french_english/5_dcris_limage..json",
       "label": "Dcris limage. (5)",
       "level": 5,
       "cards": 11,
@@ -8219,7 +7235,7 @@
       "updatedUtc": "2026-04-13T01:01:36.624863Z"
     },
     {
-      "file": "french_english/5_Discours_de_remise_de_prix_-_langage_conditionnel.json",
+      "file": "french_english/5_discours_de_remise_de_prix_-_langage_conditionnel.json",
       "label": "Discours de remise de prix   langage conditionnel (5)",
       "level": 5,
       "cards": 32,
@@ -8323,7 +7339,7 @@
       "updatedUtc": "2026-10-04T01:28:52.281966Z"
     },
     {
-      "file": "french_english/5_Verbe_-_pass_compos.json",
+      "file": "french_english/5_verbe_-_pass_compos.json",
       "label": "Verbe   pass compos (5)",
       "level": 5,
       "cards": 26,
@@ -8339,31 +7355,31 @@
       "updatedUtc": "2026-10-04T01:28:52.297939Z"
     },
     {
-      "file": "french_english/3._Pass_simple_1_-_phrases_simples.json",
-      "label": "3. Pass simple 1   phrases simples",
+      "file": "french_english/3._pass_simple_1_-_phrases_simples.json",
+      "label": "3. pass simple 1   phrases simples",
       "level": 9,
       "cards": 47,
       "sizeBytes": 30991,
       "updatedUtc": "2026-10-04T01:28:49.352585Z"
     },
     {
-      "file": "french_english/4._Exercices_sur_le_pass_simple__tre_.json",
-      "label": "4. Exercices sur le pass simple  tre",
+      "file": "french_english/4._exercices_sur_le_pass_simple__tre_.json",
+      "label": "4. exercices sur le pass simple  tre",
       "level": 9,
       "cards": 45,
       "sizeBytes": 32718,
       "updatedUtc": "2026-10-04T01:28:50.434918Z"
     },
     {
-      "file": "french_english/4._Style_et_mode.json",
-      "label": "4. Style et mode",
+      "file": "french_english/4._style_et_mode.json",
+      "label": "4. style et mode",
       "level": 9,
       "cards": 103,
       "sizeBytes": 59747,
       "updatedUtc": "2026-10-04T01:28:50.873256Z"
     },
     {
-      "file": "french_english/Adjectifs.json",
+      "file": "french_english/adjectifs.json",
       "label": "Adjectifs",
       "level": 9,
       "cards": 1,
@@ -8389,7 +7405,7 @@
   ],
   "german_english": [
     {
-      "file": "german_english/1_Alphabet.json",
+      "file": "german_english/1_alphabet.json",
       "label": "Alphabet (1)",
       "level": 1,
       "cards": 72,
@@ -8397,63 +7413,63 @@
       "updatedUtc": "2026-10-04T01:28:59.276868Z"
     },
     {
-      "file": "german_english/1_Artikel_und_Pronomen.json",
-      "label": "Artikel und Pronomen (1)",
+      "file": "german_english/1_artikel_und_pronomen.json",
+      "label": "Artikel und pronomen (1)",
       "level": 1,
       "cards": 11,
       "sizeBytes": 7994,
       "updatedUtc": "2026-04-13T01:01:44.854529Z"
     },
     {
-      "file": "german_english/1_Aussprache_-_Konsonanten.json",
-      "label": "Aussprache   Konsonanten (1)",
+      "file": "german_english/1_aussprache_-_konsonanten.json",
+      "label": "Aussprache   konsonanten (1)",
       "level": 1,
       "cards": 48,
       "sizeBytes": 47119,
       "updatedUtc": "2026-10-04T01:28:59.690944Z"
     },
     {
-      "file": "german_english/1_Aussprache_-_stumme_Buchstaben.json",
-      "label": "Aussprache   stumme Buchstaben (1)",
+      "file": "german_english/1_aussprache_-_stumme_buchstaben.json",
+      "label": "Aussprache   stumme buchstaben (1)",
       "level": 1,
       "cards": 46,
       "sizeBytes": 33333,
       "updatedUtc": "2026-10-04T01:28:59.854925Z"
     },
     {
-      "file": "german_english/1_Aussprache_-_Vokale.json",
-      "label": "Aussprache   Vokale (1)",
+      "file": "german_english/1_aussprache_-_vokale.json",
+      "label": "Aussprache   vokale (1)",
       "level": 1,
       "cards": 198,
       "sizeBytes": 153211,
       "updatedUtc": "2026-10-04T01:29:00.800539Z"
     },
     {
-      "file": "german_english/1_Grundlegende_Grammatik.json",
-      "label": "Grundlegende Grammatik (1)",
+      "file": "german_english/1_grundlegende_grammatik.json",
+      "label": "Grundlegende grammatik (1)",
       "level": 1,
       "cards": 16,
       "sizeBytes": 10725,
       "updatedUtc": "2026-10-04T01:28:59.470688Z"
     },
     {
-      "file": "german_english/2_Abstrakte_Verbenphrasen_1..json",
-      "label": "Abstrakte Verbenphrasen 1. (2)",
+      "file": "german_english/2_abstrakte_verbenphrasen_1..json",
+      "label": "Abstrakte verbenphrasen 1. (2)",
       "level": 2,
       "cards": 2,
       "sizeBytes": 1316,
       "updatedUtc": "2026-04-13T01:01:46.712513Z"
     },
     {
-      "file": "german_english/2_Abstrakte_Verbphrasen_in_der_Gegenwart.json",
-      "label": "Abstrakte Verbphrasen in der Gegenwart (2)",
+      "file": "german_english/2_abstrakte_verbphrasen_in_der_gegenwart.json",
+      "label": "Abstrakte verbphrasen in der gegenwart (2)",
       "level": 2,
       "cards": 129,
       "sizeBytes": 85672,
       "updatedUtc": "2026-04-13T01:01:46.791940Z"
     },
     {
-      "file": "german_english/2_Adjektive.json",
+      "file": "german_english/2_adjektive.json",
       "label": "Adjektive (2)",
       "level": 2,
       "cards": 5,
@@ -8461,7 +7477,7 @@
       "updatedUtc": "2026-04-13T01:01:47.762876Z"
     },
     {
-      "file": "german_english/2_Alltagsgegenstnde.json",
+      "file": "german_english/2_alltagsgegenstnde.json",
       "label": "Alltagsgegenstnde (2)",
       "level": 2,
       "cards": 69,
@@ -8469,7 +7485,7 @@
       "updatedUtc": "2026-10-04T01:29:01.939736Z"
     },
     {
-      "file": "german_english/2_Essen.json",
+      "file": "german_english/2_essen.json",
       "label": "Essen (2)",
       "level": 2,
       "cards": 81,
@@ -8477,7 +7493,7 @@
       "updatedUtc": "2026-10-04T01:29:01.989143Z"
     },
     {
-      "file": "german_english/2_Familie.json",
+      "file": "german_english/2_familie.json",
       "label": "Familie (2)",
       "level": 2,
       "cards": 27,
@@ -8485,7 +7501,7 @@
       "updatedUtc": "2026-04-13T01:01:47.810823Z"
     },
     {
-      "file": "german_english/2_Formen.json",
+      "file": "german_english/2_formen.json",
       "label": "Formen (2)",
       "level": 2,
       "cards": 35,
@@ -8493,23 +7509,23 @@
       "updatedUtc": "2026-10-04T01:29:02.519174Z"
     },
     {
-      "file": "german_english/2_gebruchliche_Adjektive.json",
-      "label": "Gebruchliche Adjektive (2)",
+      "file": "german_english/2_gebruchliche_adjektive.json",
+      "label": "Gebruchliche adjektive (2)",
       "level": 2,
       "cards": 138,
       "sizeBytes": 88586,
       "updatedUtc": "2026-10-04T01:29:01.888319Z"
     },
     {
-      "file": "german_english/2_Gemeinsame_Tiere.json",
-      "label": "Gemeinsame Tiere (2)",
+      "file": "german_english/2_gemeinsame_tiere.json",
+      "label": "Gemeinsame tiere (2)",
       "level": 2,
       "cards": 16,
       "sizeBytes": 8823,
       "updatedUtc": "2026-10-04T01:29:01.900381Z"
     },
     {
-      "file": "german_english/2_Handlungsverben.json",
+      "file": "german_english/2_handlungsverben.json",
       "label": "Handlungsverben (2)",
       "level": 2,
       "cards": 35,
@@ -8517,7 +7533,7 @@
       "updatedUtc": "2026-04-13T01:01:46.807841Z"
     },
     {
-      "file": "german_english/2_Interjektionen.json",
+      "file": "german_english/2_interjektionen.json",
       "label": "Interjektionen (2)",
       "level": 2,
       "cards": 48,
@@ -8525,23 +7541,23 @@
       "updatedUtc": "2026-10-04T01:29:02.111737Z"
     },
     {
-      "file": "german_english/2_KcheRestaurant.json",
-      "label": "KcheRestaurant (2)",
+      "file": "german_english/2_kcherestaurant.json",
+      "label": "Kcherestaurant (2)",
       "level": 2,
       "cards": 26,
       "sizeBytes": 15145,
       "updatedUtc": "2026-04-13T01:01:47.890266Z"
     },
     {
-      "file": "german_english/2_Kleidung_und_tragbare_Gegenstnde.json",
-      "label": "Kleidung und tragbare Gegenstnde (2)",
+      "file": "german_english/2_kleidung_und_tragbare_gegenstnde.json",
+      "label": "Kleidung und tragbare gegenstnde (2)",
       "level": 2,
       "cards": 36,
       "sizeBytes": 21999,
       "updatedUtc": "2026-10-04T01:29:01.808642Z"
     },
     {
-      "file": "german_english/2_Krperteile.json",
+      "file": "german_english/2_krperteile.json",
       "label": "Krperteile (2)",
       "level": 2,
       "cards": 28,
@@ -8549,15 +7565,15 @@
       "updatedUtc": "2026-10-04T01:29:01.787095Z"
     },
     {
-      "file": "german_english/2_ktionsverben_2.1_-_Prsensphrasen.json",
-      "label": "Ktionsverben 2.1   Prsensphrasen (2)",
+      "file": "german_english/2_ktionsverben_2.1_-_prsensphrasen.json",
+      "label": "Ktionsverben 2.1   prsensphrasen (2)",
       "level": 2,
       "cards": 174,
       "sizeBytes": 109037,
       "updatedUtc": "2026-04-13T01:01:47.588700Z"
     },
     {
-      "file": "german_english/2_Leute.json",
+      "file": "german_english/2_leute.json",
       "label": "Leute (2)",
       "level": 2,
       "cards": 45,
@@ -8565,23 +7581,23 @@
       "updatedUtc": "2026-10-04T01:29:02.503377Z"
     },
     {
-      "file": "german_english/2_Outdoor_-_Natur.json",
-      "label": "Outdoor   Natur (2)",
+      "file": "german_english/2_outdoor_-_natur.json",
+      "label": "Outdoor   natur (2)",
       "level": 2,
       "cards": 17,
       "sizeBytes": 9768,
       "updatedUtc": "2026-04-13T01:01:48.201983Z"
     },
     {
-      "file": "german_english/2_Outdoor_-_Stadt.json",
-      "label": "Outdoor   Stadt (2)",
+      "file": "german_english/2_outdoor_-_stadt.json",
+      "label": "Outdoor   stadt (2)",
       "level": 2,
       "cards": 24,
       "sizeBytes": 14033,
       "updatedUtc": "2026-04-13T01:01:48.201983Z"
     },
     {
-      "file": "german_english/2_Outdoor.json",
+      "file": "german_english/2_outdoor.json",
       "label": "Outdoor (2)",
       "level": 2,
       "cards": 41,
@@ -8589,7 +7605,7 @@
       "updatedUtc": "2026-10-04T01:29:02.326281Z"
     },
     {
-      "file": "german_english/2_Pronomen.json",
+      "file": "german_english/2_pronomen.json",
       "label": "Pronomen (2)",
       "level": 2,
       "cards": 8,
@@ -8597,71 +7613,71 @@
       "updatedUtc": "2026-04-13T01:01:48.390896Z"
     },
     {
-      "file": "german_english/2_um_das_Haus_herum.json",
-      "label": "Um das Haus herum (2)",
+      "file": "german_english/2_um_das_haus_herum.json",
+      "label": "Um das haus herum (2)",
       "level": 2,
       "cards": 47,
       "sizeBytes": 27257,
       "updatedUtc": "2026-10-04T01:29:01.769936Z"
     },
     {
-      "file": "german_english/2_Verben_1_-_einfache_Handlungen.json",
-      "label": "Verben 1   einfache Handlungen (2)",
+      "file": "german_english/2_verben_1_-_einfache_handlungen.json",
+      "label": "Verben 1   einfache handlungen (2)",
       "level": 2,
       "cards": 35,
       "sizeBytes": 20795,
       "updatedUtc": "2026-10-04T01:29:00.981850Z"
     },
     {
-      "file": "german_english/2_Verben_2_-_abstrakte_Verben.json",
-      "label": "Verben 2   abstrakte Verben (2)",
+      "file": "german_english/2_verben_2_-_abstrakte_verben.json",
+      "label": "Verben 2   abstrakte verben (2)",
       "level": 2,
       "cards": 39,
       "sizeBytes": 24934,
       "updatedUtc": "2026-10-04T01:29:00.826106Z"
     },
     {
-      "file": "german_english/2_Verben_3_-_einfache_Stze.json",
-      "label": "Verben 3   einfache Stze (2)",
+      "file": "german_english/2_verben_3_-_einfache_stze.json",
+      "label": "Verben 3   einfache stze (2)",
       "level": 2,
       "cards": 58,
       "sizeBytes": 36965,
       "updatedUtc": "2026-10-04T01:29:01.738351Z"
     },
     {
-      "file": "german_english/2_Verben_4__wichtige_und_unregelmige_Verben.json",
-      "label": "Verben 4  wichtige und unregelmige Verben (2)",
+      "file": "german_english/2_verben_4__wichtige_und_unregelmige_verben.json",
+      "label": "Verben 4  wichtige und unregelmige verben (2)",
       "level": 2,
       "cards": 219,
       "sizeBytes": 147575,
       "updatedUtc": "2026-10-04T01:29:02.252324Z"
     },
     {
-      "file": "german_english/2_Verben_5_-_abstrakte_Verbphrasen.json",
-      "label": "Verben 5   abstrakte Verbphrasen (2)",
+      "file": "german_english/2_verben_5_-_abstrakte_verbphrasen.json",
+      "label": "Verben 5   abstrakte verbphrasen (2)",
       "level": 2,
       "cards": 125,
       "sizeBytes": 82767,
       "updatedUtc": "2026-10-04T01:29:00.962492Z"
     },
     {
-      "file": "german_english/2_Verben_6_-_Prsens_(Verlaufsform).json",
-      "label": "Verben 6   Prsens (Verlaufsform) (2)",
+      "file": "german_english/2_verben_6_-_prsens_(verlaufsform).json",
+      "label": "Verben 6   prsens (verlaufsform) (2)",
       "level": 2,
       "cards": 27,
       "sizeBytes": 18510,
       "updatedUtc": "2026-10-04T01:29:02.535333Z"
     },
     {
-      "file": "german_english/2_wichtigste_Verben.json",
-      "label": "Wichtigste Verben (2)",
+      "file": "german_english/2_wichtigste_verben.json",
+      "label": "Wichtigste verben (2)",
       "level": 2,
       "cards": 237,
       "sizeBytes": 147793,
       "updatedUtc": "2026-04-13T01:01:48.037639Z"
     },
     {
-      "file": "german_english/2_Zahlen.json",
+      "file": "german_english/2_zahlen.json",
       "label": "Zahlen (2)",
       "level": 2,
       "cards": 76,
@@ -8669,63 +7685,63 @@
       "updatedUtc": "2026-10-04T01:29:02.298739Z"
     },
     {
-      "file": "german_english/3_Abstrakte_Verbphrasen_in_der_Vergangenheit.json",
-      "label": "Abstrakte Verbphrasen in der Vergangenheit (3)",
+      "file": "german_english/3_abstrakte_verbphrasen_in_der_vergangenheit.json",
+      "label": "Abstrakte verbphrasen in der vergangenheit (3)",
       "level": 3,
       "cards": 114,
       "sizeBytes": 77161,
       "updatedUtc": "2026-04-13T01:01:48.472633Z"
     },
     {
-      "file": "german_english/3_Aktionsverben_3.1_-_Vergangenheitsphrasen.json",
-      "label": "Aktionsverben 3.1   Vergangenheitsphrasen (3)",
+      "file": "german_english/3_aktionsverben_3.1_-_vergangenheitsphrasen.json",
+      "label": "Aktionsverben 3.1   vergangenheitsphrasen (3)",
       "level": 3,
       "cards": 412,
       "sizeBytes": 268627,
       "updatedUtc": "2026-04-13T01:01:50.073081Z"
     },
     {
-      "file": "german_english/3_Aktionsverben_4.1_-_Zukunftsphrasen.json",
-      "label": "Aktionsverben 4.1   Zukunftsphrasen (3)",
+      "file": "german_english/3_aktionsverben_4.1_-_zukunftsphrasen.json",
+      "label": "Aktionsverben 4.1   zukunftsphrasen (3)",
       "level": 3,
       "cards": 90,
       "sizeBytes": 60386,
       "updatedUtc": "2026-10-04T01:29:02.773559Z"
     },
     {
-      "file": "german_english/3_Anleitung_Fischen.json",
-      "label": "Anleitung Fischen (3)",
+      "file": "german_english/3_anleitung_fischen.json",
+      "label": "Anleitung fischen (3)",
       "level": 3,
       "cards": 71,
       "sizeBytes": 49645,
       "updatedUtc": "2026-04-13T01:01:50.999887Z"
     },
     {
-      "file": "german_english/3_Anleitung_Garten.json",
-      "label": "Anleitung Garten (3)",
+      "file": "german_english/3_anleitung_garten.json",
+      "label": "Anleitung garten (3)",
       "level": 3,
       "cards": 74,
       "sizeBytes": 51895,
       "updatedUtc": "2026-04-13T01:01:51.039008Z"
     },
     {
-      "file": "german_english/3_Anleitung_Reiten.json",
-      "label": "Anleitung Reiten (3)",
+      "file": "german_english/3_anleitung_reiten.json",
+      "label": "Anleitung reiten (3)",
       "level": 3,
       "cards": 76,
       "sizeBytes": 54333,
       "updatedUtc": "2026-04-13T01:01:51.155140Z"
     },
     {
-      "file": "german_english/3_Anzeige_UNRWA.json",
-      "label": "Anzeige UNRWA (3)",
+      "file": "german_english/3_anzeige_unrwa.json",
+      "label": "Anzeige unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7503,
       "updatedUtc": "2026-10-04T01:29:02.591274Z"
     },
     {
-      "file": "german_english/3_Fragewrter.json",
+      "file": "german_english/3_fragewrter.json",
       "label": "Fragewrter (3)",
       "level": 3,
       "cards": 84,
@@ -8733,7 +7749,7 @@
       "updatedUtc": "2026-10-04T01:29:03.570075Z"
     },
     {
-      "file": "german_english/3_Gegenstze.json",
+      "file": "german_english/3_gegenstze.json",
       "label": "Gegenstze (3)",
       "level": 3,
       "cards": 66,
@@ -8749,7 +7765,7 @@
       "updatedUtc": "2026-04-13T01:01:51.382809Z"
     },
     {
-      "file": "german_english/3_Pronomenflle.json",
+      "file": "german_english/3_pronomenflle.json",
       "label": "Pronomenflle (3)",
       "level": 3,
       "cards": 91,
@@ -8757,7 +7773,7 @@
       "updatedUtc": "2026-10-04T01:29:03.522304Z"
     },
     {
-      "file": "german_english/3_Prposition.json",
+      "file": "german_english/3_prposition.json",
       "label": "Prposition (3)",
       "level": 3,
       "cards": 34,
@@ -8765,7 +7781,7 @@
       "updatedUtc": "2026-10-04T01:29:03.411380Z"
     },
     {
-      "file": "german_english/3_Reisefragen.json",
+      "file": "german_english/3_reisefragen.json",
       "label": "Reisefragen (3)",
       "level": 3,
       "cards": 37,
@@ -8773,7 +7789,7 @@
       "updatedUtc": "2026-04-13T01:01:53.789667Z"
     },
     {
-      "file": "german_english/3_Reiseorte.json",
+      "file": "german_english/3_reiseorte.json",
       "label": "Reiseorte (3)",
       "level": 3,
       "cards": 67,
@@ -8781,7 +7797,7 @@
       "updatedUtc": "2026-04-13T01:01:51.672975Z"
     },
     {
-      "file": "german_english/3_Reisevokabeln.json",
+      "file": "german_english/3_reisevokabeln.json",
       "label": "Reisevokabeln (3)",
       "level": 3,
       "cards": 189,
@@ -8789,15 +7805,15 @@
       "updatedUtc": "2026-10-04T01:29:03.925464Z"
     },
     {
-      "file": "german_english/3_So_gehts_Jagen.json",
-      "label": "So gehts Jagen (3)",
+      "file": "german_english/3_so_gehts_jagen.json",
+      "label": "So gehts jagen (3)",
       "level": 3,
       "cards": 86,
       "sizeBytes": 65304,
       "updatedUtc": "2026-04-13T01:01:51.106352Z"
     },
     {
-      "file": "german_english/3_Touristendialog_1.json",
+      "file": "german_english/3_touristendialog_1.json",
       "label": "Touristendialog 1 (3)",
       "level": 3,
       "cards": 20,
@@ -8805,7 +7821,7 @@
       "updatedUtc": "2026-10-04T01:29:03.602051Z"
     },
     {
-      "file": "german_english/3_Touristendialog_2.json",
+      "file": "german_english/3_touristendialog_2.json",
       "label": "Touristendialog 2 (3)",
       "level": 3,
       "cards": 21,
@@ -8813,7 +7829,7 @@
       "updatedUtc": "2026-10-04T01:29:03.633549Z"
     },
     {
-      "file": "german_english/3_Touristendialog_3.json",
+      "file": "german_english/3_touristendialog_3.json",
       "label": "Touristendialog 3 (3)",
       "level": 3,
       "cards": 21,
@@ -8821,112 +7837,112 @@
       "updatedUtc": "2026-10-04T01:29:03.649439Z"
     },
     {
-      "file": "german_english/3_touristischer_Dialog_10.json",
-      "label": "Touristischer Dialog 10 (3)",
+      "file": "german_english/3_touristischer_dialog_10.json",
+      "label": "Touristischer dialog 10 (3)",
       "level": 3,
       "cards": 17,
       "sizeBytes": 10141,
       "updatedUtc": "2026-10-04T01:29:03.617831Z"
     },
     {
-      "file": "german_english/3_touristischer_Dialog_4.json",
-      "label": "Touristischer Dialog 4 (3)",
+      "file": "german_english/3_touristischer_dialog_4.json",
+      "label": "Touristischer dialog 4 (3)",
       "level": 3,
       "cards": 15,
       "sizeBytes": 8853,
       "updatedUtc": "2026-10-04T01:29:03.665513Z"
     },
     {
-      "file": "german_english/3_touristischer_Dialog_5.json",
-      "label": "Touristischer Dialog 5 (3)",
+      "file": "german_english/3_touristischer_dialog_5.json",
+      "label": "Touristischer dialog 5 (3)",
       "level": 3,
       "cards": 17,
       "sizeBytes": 9945,
       "updatedUtc": "2026-10-04T01:29:03.681245Z"
     },
     {
-      "file": "german_english/3_touristischer_Dialog_6.json",
-      "label": "Touristischer Dialog 6 (3)",
+      "file": "german_english/3_touristischer_dialog_6.json",
+      "label": "Touristischer dialog 6 (3)",
       "level": 3,
       "cards": 7,
       "sizeBytes": 4323,
       "updatedUtc": "2026-10-04T01:29:03.699643Z"
     },
     {
-      "file": "german_english/3_touristischer_Dialog_7.json",
-      "label": "Touristischer Dialog 7 (3)",
+      "file": "german_english/3_touristischer_dialog_7.json",
+      "label": "Touristischer dialog 7 (3)",
       "level": 3,
       "cards": 8,
       "sizeBytes": 4898,
       "updatedUtc": "2026-10-04T01:29:03.712848Z"
     },
     {
-      "file": "german_english/3_touristischer_Dialog_8.json",
-      "label": "Touristischer Dialog 8 (3)",
+      "file": "german_english/3_touristischer_dialog_8.json",
+      "label": "Touristischer dialog 8 (3)",
       "level": 3,
       "cards": 17,
       "sizeBytes": 9998,
       "updatedUtc": "2026-10-04T01:29:03.736566Z"
     },
     {
-      "file": "german_english/3_touristischer_Dialog_9.json",
-      "label": "Touristischer Dialog 9 (3)",
+      "file": "german_english/3_touristischer_dialog_9.json",
+      "label": "Touristischer dialog 9 (3)",
       "level": 3,
       "cards": 20,
       "sizeBytes": 12551,
       "updatedUtc": "2026-10-04T01:29:03.754376Z"
     },
     {
-      "file": "german_english/3_Verben_-_Befehle.json",
-      "label": "Verben   Befehle (3)",
+      "file": "german_english/3_verben_-_befehle.json",
+      "label": "Verben   befehle (3)",
       "level": 3,
       "cards": 62,
       "sizeBytes": 36370,
       "updatedUtc": "2026-10-04T01:29:02.585250Z"
     },
     {
-      "file": "german_english/3_Vergangenheitsform_1_-_einfache_Stze.json",
-      "label": "Vergangenheitsform 1   einfache Stze (3)",
+      "file": "german_english/3_vergangenheitsform_1_-_einfache_stze.json",
+      "label": "Vergangenheitsform 1   einfache stze (3)",
       "level": 3,
       "cards": 26,
       "sizeBytes": 17615,
       "updatedUtc": "2026-10-04T01:29:03.210635Z"
     },
     {
-      "file": "german_english/3_Vergangenheitsform_2_-_andere_Formen.json",
-      "label": "Vergangenheitsform 2   andere Formen (3)",
+      "file": "german_english/3_vergangenheitsform_2_-_andere_formen.json",
+      "label": "Vergangenheitsform 2   andere formen (3)",
       "level": 3,
       "cards": 20,
       "sizeBytes": 14353,
       "updatedUtc": "2026-10-04T01:29:03.210635Z"
     },
     {
-      "file": "german_english/3_Vergangenheitsform_2_-_weitere_Formen.json",
-      "label": "Vergangenheitsform 2   weitere Formen (3)",
+      "file": "german_english/3_vergangenheitsform_2_-_weitere_formen.json",
+      "label": "Vergangenheitsform 2   weitere formen (3)",
       "level": 3,
       "cards": 25,
       "sizeBytes": 16168,
       "updatedUtc": "2026-10-04T01:29:03.376725Z"
     },
     {
-      "file": "german_english/3_Vergangenheitsform_3_-_wichtige_und_unregelmige_Verben.json",
-      "label": "Vergangenheitsform 3   wichtige und unregelmige Verben (3)",
+      "file": "german_english/3_vergangenheitsform_3_-_wichtige_und_unregelmige_verben.json",
+      "label": "Vergangenheitsform 3   wichtige und unregelmige verben (3)",
       "level": 3,
       "cards": 37,
       "sizeBytes": 27062,
       "updatedUtc": "2026-10-04T01:29:03.396189Z"
     },
     {
-      "file": "german_english/3_Vergangenheitsformen_1_-_einfache_Stze.json",
-      "label": "Vergangenheitsformen 1   einfache Stze (3)",
+      "file": "german_english/3_vergangenheitsformen_1_-_einfache_stze.json",
+      "label": "Vergangenheitsformen 1   einfache stze (3)",
       "level": 3,
       "cards": 22,
       "sizeBytes": 15110,
       "updatedUtc": "2026-10-04T01:29:03.354404Z"
     },
     {
-      "file": "german_english/3_wichtigste_Verben_-_Vergangenheit.json",
-      "label": "Wichtigste Verben   Vergangenheit (3)",
+      "file": "german_english/3_wichtigste_verben_-_vergangenheit.json",
+      "label": "Wichtigste verben   vergangenheit (3)",
       "level": 3,
       "cards": 98,
       "sizeBytes": 63103,
@@ -8949,7 +7965,7 @@
       "updatedUtc": "2026-04-13T01:01:51.271945Z"
     },
     {
-      "file": "german_english/3_Zeit.json",
+      "file": "german_english/3_zeit.json",
       "label": "Zeit (3)",
       "level": 3,
       "cards": 42,
@@ -8957,7 +7973,7 @@
       "updatedUtc": "2026-10-04T01:29:03.602051Z"
     },
     {
-      "file": "german_english/3_Zukunftsformen_2.json",
+      "file": "german_english/3_zukunftsformen_2.json",
       "label": "Zukunftsformen 2 (3)",
       "level": 3,
       "cards": 56,
@@ -8965,7 +7981,7 @@
       "updatedUtc": "2026-10-04T01:29:02.805659Z"
     },
     {
-      "file": "german_english/4_Alltagsfragen.json",
+      "file": "german_english/4_alltagsfragen.json",
       "label": "Alltagsfragen (4)",
       "level": 4,
       "cards": 162,
@@ -8973,15 +7989,15 @@
       "updatedUtc": "2026-10-04T01:29:04.393812Z"
     },
     {
-      "file": "german_english/4_Anzeige_GiveWell.json",
-      "label": "Anzeige GiveWell (4)",
+      "file": "german_english/4_anzeige_givewell.json",
+      "label": "Anzeige givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 13006,
       "updatedUtc": "2026-10-04T01:29:03.939236Z"
     },
     {
-      "file": "german_english/4_Berufe.json",
+      "file": "german_english/4_berufe.json",
       "label": "Berufe (4)",
       "level": 4,
       "cards": 40,
@@ -8989,15 +8005,15 @@
       "updatedUtc": "2026-10-04T01:29:04.505527Z"
     },
     {
-      "file": "german_english/4_bung_mit_Bewegungsverben__kommen_gehen_bleiben_usw.json",
-      "label": "Bung mit Bewegungsverben  kommen gehen bleiben usw (4)",
+      "file": "german_english/4_bung_mit_bewegungsverben__kommen_gehen_bleiben_usw.json",
+      "label": "Bung mit bewegungsverben  kommen gehen bleiben usw (4)",
       "level": 4,
       "cards": 250,
       "sizeBytes": 178823,
       "updatedUtc": "2026-04-13T01:01:52.354635Z"
     },
     {
-      "file": "german_english/4_Demonstrativa_-_dies_das_usw..json",
+      "file": "german_english/4_demonstrativa_-_dies_das_usw..json",
       "label": "Demonstrativa   dies das usw. (4)",
       "level": 4,
       "cards": 44,
@@ -9005,55 +8021,55 @@
       "updatedUtc": "2026-10-04T01:29:04.117686Z"
     },
     {
-      "file": "german_english/4_Dialog_-_erstes_Date.json",
-      "label": "Dialog   erstes Date (4)",
+      "file": "german_english/4_dialog_-_erstes_date.json",
+      "label": "Dialog   erstes date (4)",
       "level": 4,
       "cards": 34,
       "sizeBytes": 21444,
       "updatedUtc": "2026-10-04T01:29:04.212877Z"
     },
     {
-      "file": "german_english/4_Dialog_-_Konzertplne.json",
-      "label": "Dialog   Konzertplne (4)",
+      "file": "german_english/4_dialog_-_konzertplne.json",
+      "label": "Dialog   konzertplne (4)",
       "level": 4,
       "cards": 25,
       "sizeBytes": 15209,
       "updatedUtc": "2026-10-04T01:29:04.181403Z"
     },
     {
-      "file": "german_english/4_Dialog_-_Ratschlag_an_einen_Jungen.json",
-      "label": "Dialog   Ratschlag an einen Jungen (4)",
+      "file": "german_english/4_dialog_-_ratschlag_an_einen_jungen.json",
+      "label": "Dialog   ratschlag an einen jungen (4)",
       "level": 4,
       "cards": 15,
       "sizeBytes": 9847,
       "updatedUtc": "2026-10-04T01:29:04.133802Z"
     },
     {
-      "file": "german_english/4_Dialog_-_Ratschlge_an_ein_Mdchen.json",
-      "label": "Dialog   Ratschlge an ein Mdchen (4)",
+      "file": "german_english/4_dialog_-_ratschlge_an_ein_mdchen.json",
+      "label": "Dialog   ratschlge an ein mdchen (4)",
       "level": 4,
       "cards": 28,
       "sizeBytes": 19439,
       "updatedUtc": "2026-10-04T01:29:04.168607Z"
     },
     {
-      "file": "german_english/4_Dialog_-_typisches_Arbeitstreffen.json",
-      "label": "Dialog   typisches Arbeitstreffen (4)",
+      "file": "german_english/4_dialog_-_typisches_arbeitstreffen.json",
+      "label": "Dialog   typisches arbeitstreffen (4)",
       "level": 4,
       "cards": 37,
       "sizeBytes": 24818,
       "updatedUtc": "2026-10-04T01:29:04.228798Z"
     },
     {
-      "file": "german_english/4_direkte_Objekte.json",
-      "label": "Direkte Objekte (4)",
+      "file": "german_english/4_direkte_objekte.json",
+      "label": "Direkte objekte (4)",
       "level": 4,
       "cards": 97,
       "sizeBytes": 64102,
       "updatedUtc": "2026-04-13T01:01:52.082191Z"
     },
     {
-      "file": "german_english/4_Gerundium_(-end).json",
+      "file": "german_english/4_gerundium_(-end).json",
       "label": "Gerundium ( end) (4)",
       "level": 4,
       "cards": 39,
@@ -9061,23 +8077,23 @@
       "updatedUtc": "2026-04-13T01:01:50.865170Z"
     },
     {
-      "file": "german_english/4_hufige_berwiegend_unregelmige_Verben_-_bung.json",
-      "label": "Hufige berwiegend unregelmige Verben   bung (4)",
+      "file": "german_english/4_hufige_berwiegend_unregelmige_verben_-_bung.json",
+      "label": "Hufige berwiegend unregelmige verben   bung (4)",
       "level": 4,
       "cards": 96,
       "sizeBytes": 72227,
       "updatedUtc": "2026-10-04T01:29:03.991588Z"
     },
     {
-      "file": "german_english/4_indirekte_Objekte.json",
-      "label": "Indirekte Objekte (4)",
+      "file": "german_english/4_indirekte_objekte.json",
+      "label": "Indirekte objekte (4)",
       "level": 4,
       "cards": 53,
       "sizeBytes": 35738,
       "updatedUtc": "2026-04-13T01:01:52.139734Z"
     },
     {
-      "file": "german_english/4_Konjunktionen.json",
+      "file": "german_english/4_konjunktionen.json",
       "label": "Konjunktionen (4)",
       "level": 4,
       "cards": 44,
@@ -9085,7 +8101,7 @@
       "updatedUtc": "2026-10-04T01:29:04.023050Z"
     },
     {
-      "file": "german_english/4_Kontraktionen.json",
+      "file": "german_english/4_kontraktionen.json",
       "label": "Kontraktionen (4)",
       "level": 4,
       "cards": 73,
@@ -9093,55 +8109,55 @@
       "updatedUtc": "2026-10-04T01:29:04.101917Z"
     },
     {
-      "file": "german_english/4_Kurzgeschichte_-_Prsens_-_Ein_Tag_in_der_Schule.json",
-      "label": "Kurzgeschichte   Prsens   Ein Tag in der Schule (4)",
+      "file": "german_english/4_kurzgeschichte_-_prsens_-_ein_tag_in_der_schule.json",
+      "label": "Kurzgeschichte   prsens   ein tag in der schule (4)",
       "level": 4,
       "cards": 46,
       "sizeBytes": 29575,
       "updatedUtc": "2026-10-04T01:29:04.669051Z"
     },
     {
-      "file": "german_english/4_Kurzgeschichte_-_Vergangenheit_-_alte_Erinnerung.json",
-      "label": "Kurzgeschichte   Vergangenheit   alte Erinnerung (4)",
+      "file": "german_english/4_kurzgeschichte_-_vergangenheit_-_alte_erinnerung.json",
+      "label": "Kurzgeschichte   vergangenheit   alte erinnerung (4)",
       "level": 4,
       "cards": 50,
       "sizeBytes": 33001,
       "updatedUtc": "2026-10-04T01:29:04.636932Z"
     },
     {
-      "file": "german_english/4_Kurzgeschichte_-_Vergangenheit_-_das_Abenteuer_einer_Krabbe.json",
-      "label": "Kurzgeschichte   Vergangenheit   das Abenteuer einer Krabbe (4)",
+      "file": "german_english/4_kurzgeschichte_-_vergangenheit_-_das_abenteuer_einer_krabbe.json",
+      "label": "Kurzgeschichte   vergangenheit   das abenteuer einer krabbe (4)",
       "level": 4,
       "cards": 39,
       "sizeBytes": 27423,
       "updatedUtc": "2026-10-04T01:29:04.589211Z"
     },
     {
-      "file": "german_english/4_Kurzgeschichte_-_Zukunft_-_Mondreise.json",
-      "label": "Kurzgeschichte   Zukunft   Mondreise (4)",
+      "file": "german_english/4_kurzgeschichte_-_zukunft_-_mondreise.json",
+      "label": "Kurzgeschichte   zukunft   mondreise (4)",
       "level": 4,
       "cards": 20,
       "sizeBytes": 13880,
       "updatedUtc": "2026-10-04T01:29:04.557204Z"
     },
     {
-      "file": "german_english/4_medizinische_Beschwerden.json",
-      "label": "Medizinische Beschwerden (4)",
+      "file": "german_english/4_medizinische_beschwerden.json",
+      "label": "Medizinische beschwerden (4)",
       "level": 4,
       "cards": 2,
       "sizeBytes": 1145,
       "updatedUtc": "2026-10-04T01:29:04.828087Z"
     },
     {
-      "file": "german_english/4_mehr_Tiere.json",
-      "label": "Mehr Tiere (4)",
+      "file": "german_english/4_mehr_tiere.json",
+      "label": "Mehr tiere (4)",
       "level": 4,
       "cards": 99,
       "sizeBytes": 57789,
       "updatedUtc": "2026-10-04T01:29:04.460957Z"
     },
     {
-      "file": "german_english/4_Quantoren.json",
+      "file": "german_english/4_quantoren.json",
       "label": "Quantoren (4)",
       "level": 4,
       "cards": 80,
@@ -9149,23 +8165,23 @@
       "updatedUtc": "2026-10-04T01:29:04.541330Z"
     },
     {
-      "file": "german_english/4_unregelmige_Pluralformen.json",
-      "label": "Unregelmige Pluralformen (4)",
+      "file": "german_english/4_unregelmige_pluralformen.json",
+      "label": "Unregelmige pluralformen (4)",
       "level": 4,
       "cards": 18,
       "sizeBytes": 10786,
       "updatedUtc": "2026-10-04T01:29:05.639562Z"
     },
     {
-      "file": "german_english/4_Verb_-_Prposition_Paare.json",
-      "label": "Verb   Prposition Paare (4)",
+      "file": "german_english/4_verb_-_prposition_paare.json",
+      "label": "Verb   prposition paare (4)",
       "level": 4,
       "cards": 50,
       "sizeBytes": 37035,
       "updatedUtc": "2026-10-04T01:29:04.999165Z"
     },
     {
-      "file": "german_english/4_Werkzeuge.json",
+      "file": "german_english/4_werkzeuge.json",
       "label": "Werkzeuge (4)",
       "level": 4,
       "cards": 48,
@@ -9173,15 +8189,15 @@
       "updatedUtc": "2026-10-04T01:29:04.922829Z"
     },
     {
-      "file": "german_english/4_Zoo_(FA).json",
-      "label": "Zoo (FA) (4)",
+      "file": "german_english/4_zoo_(fa).json",
+      "label": "Zoo (fa) (4)",
       "level": 4,
       "cards": 40,
       "sizeBytes": 24910,
       "updatedUtc": "2026-10-04T01:29:05.012131Z"
     },
     {
-      "file": "german_english/5_Adverbialphrasen.json",
+      "file": "german_english/5_adverbialphrasen.json",
       "label": "Adverbialphrasen (5)",
       "level": 5,
       "cards": 32,
@@ -9189,63 +8205,63 @@
       "updatedUtc": "2026-10-04T01:29:05.027965Z"
     },
     {
-      "file": "german_english/5_Anleitung_Fischen.json",
-      "label": "Anleitung Fischen (5)",
+      "file": "german_english/5_anleitung_fischen.json",
+      "label": "Anleitung fischen (5)",
       "level": 5,
       "cards": 56,
       "sizeBytes": 45111,
       "updatedUtc": "2026-10-04T01:29:05.170547Z"
     },
     {
-      "file": "german_english/5_Anleitung_Garten.json",
-      "label": "Anleitung Garten (5)",
+      "file": "german_english/5_anleitung_garten.json",
+      "label": "Anleitung garten (5)",
       "level": 5,
       "cards": 67,
       "sizeBytes": 52282,
       "updatedUtc": "2026-10-04T01:29:05.202503Z"
     },
     {
-      "file": "german_english/5_Anleitung_Reiten.json",
-      "label": "Anleitung Reiten (5)",
+      "file": "german_english/5_anleitung_reiten.json",
+      "label": "Anleitung reiten (5)",
       "level": 5,
       "cards": 75,
       "sizeBytes": 58105,
       "updatedUtc": "2026-10-04T01:29:05.313238Z"
     },
     {
-      "file": "german_english/5_Ausdruck_von_Glauben_oder_Gewissheit.json",
-      "label": "Ausdruck von Glauben oder Gewissheit (5)",
+      "file": "german_english/5_ausdruck_von_glauben_oder_gewissheit.json",
+      "label": "Ausdruck von glauben oder gewissheit (5)",
       "level": 5,
       "cards": 17,
       "sizeBytes": 12531,
       "updatedUtc": "2026-10-04T01:29:05.122853Z"
     },
     {
-      "file": "german_english/5_Bedingte_Grammatikerklre_die_bedingte_Grammatik_auf_Englisch.json",
-      "label": "Bedingte Grammatikerklre die bedingte Grammatik auf Englisch (5)",
+      "file": "german_english/5_bedingte_grammatikerklre_die_bedingte_grammatik_auf_englisch.json",
+      "label": "Bedingte grammatikerklre die bedingte grammatik auf englisch (5)",
       "level": 5,
       "cards": 50,
       "sizeBytes": 41488,
       "updatedUtc": "2026-10-04T01:29:05.093113Z"
     },
     {
-      "file": "german_english/5_beleidigende_Schimpfwrter.json",
-      "label": "Beleidigende Schimpfwrter (5)",
+      "file": "german_english/5_beleidigende_schimpfwrter.json",
+      "label": "Beleidigende schimpfwrter (5)",
       "level": 5,
       "cards": 16,
       "sizeBytes": 14257,
       "updatedUtc": "2026-04-13T01:01:53.045904Z"
     },
     {
-      "file": "german_english/5_Beschreibe_das_Bild..json",
-      "label": "Beschreibe das Bild. (5)",
+      "file": "german_english/5_beschreibe_das_bild..json",
+      "label": "Beschreibe das bild. (5)",
       "level": 5,
       "cards": 11,
       "sizeBytes": 7910,
       "updatedUtc": "2026-10-04T01:29:05.099134Z"
     },
     {
-      "file": "german_english/5_Gerundium_(-end)_2.json",
+      "file": "german_english/5_gerundium_(-end)_2.json",
       "label": "Gerundium ( end) 2 (5)",
       "level": 5,
       "cards": 22,
@@ -9253,15 +8269,15 @@
       "updatedUtc": "2026-04-13T01:01:50.881341Z"
     },
     {
-      "file": "german_english/5_hnliche_Wortverwendungen.json",
-      "label": "Hnliche Wortverwendungen (5)",
+      "file": "german_english/5_hnliche_wortverwendungen.json",
+      "label": "Hnliche wortverwendungen (5)",
       "level": 5,
       "cards": 60,
       "sizeBytes": 38367,
       "updatedUtc": "2026-10-04T01:29:04.812080Z"
     },
     {
-      "file": "german_english/5_Konjunktiv.json",
+      "file": "german_english/5_konjunktiv.json",
       "label": "Konjunktiv (5)",
       "level": 5,
       "cards": 30,
@@ -9269,80 +8285,80 @@
       "updatedUtc": "2026-10-04T01:29:05.725909Z"
     },
     {
-      "file": "german_english/5_Preisrede__bedingte_Sprache.json",
-      "label": "Preisrede  bedingte Sprache (5)",
+      "file": "german_english/5_preisrede__bedingte_sprache.json",
+      "label": "Preisrede  bedingte sprache (5)",
       "level": 5,
       "cards": 32,
       "sizeBytes": 21755,
       "updatedUtc": "2026-04-13T01:01:52.739026Z"
     },
     {
-      "file": "german_english/5_Preisverleihungsrede_-_Konditionalsatz.json",
-      "label": "Preisverleihungsrede   Konditionalsatz (5)",
+      "file": "german_english/5_preisverleihungsrede_-_konditionalsatz.json",
+      "label": "Preisverleihungsrede   konditionalsatz (5)",
       "level": 5,
       "cards": 32,
       "sizeBytes": 21750,
       "updatedUtc": "2026-10-04T01:29:05.059443Z"
     },
     {
-      "file": "german_english/5_Slang_-_Adjektive.json",
-      "label": "Slang   Adjektive (5)",
+      "file": "german_english/5_slang_-_adjektive.json",
+      "label": "Slang   adjektive (5)",
       "level": 5,
       "cards": 40,
       "sizeBytes": 29424,
       "updatedUtc": "2026-10-04T01:29:05.702802Z"
     },
     {
-      "file": "german_english/5_So_gehts_Jagen.json",
-      "label": "So gehts Jagen (5)",
+      "file": "german_english/5_so_gehts_jagen.json",
+      "label": "So gehts jagen (5)",
       "level": 5,
       "cards": 84,
       "sizeBytes": 67907,
       "updatedUtc": "2026-10-04T01:29:05.265707Z"
     },
     {
-      "file": "german_english/5_Synonyme_-_Substantive.json",
-      "label": "Synonyme   Substantive (5)",
+      "file": "german_english/5_synonyme_-_substantive.json",
+      "label": "Synonyme   substantive (5)",
       "level": 5,
       "cards": 193,
       "sizeBytes": 148122,
       "updatedUtc": "2026-10-04T01:29:05.798122Z"
     },
     {
-      "file": "german_english/5_Synonyme_-_Verben.json",
-      "label": "Synonyme   Verben (5)",
+      "file": "german_english/5_synonyme_-_verben.json",
+      "label": "Synonyme   verben (5)",
       "level": 5,
       "cards": 358,
       "sizeBytes": 235699,
       "updatedUtc": "2026-10-04T01:29:05.956240Z"
     },
     {
-      "file": "german_english/5_Synonyme_Adjektiv.json",
-      "label": "Synonyme Adjektiv (5)",
+      "file": "german_english/5_synonyme_adjektiv.json",
+      "label": "Synonyme adjektiv (5)",
       "level": 5,
       "cards": 200,
       "sizeBytes": 136159,
       "updatedUtc": "2026-10-04T01:29:06.299686Z"
     },
     {
-      "file": "german_english/5_unregelmige_Pluralformen.json",
-      "label": "Unregelmige Pluralformen (5)",
+      "file": "german_english/5_unregelmige_pluralformen.json",
+      "label": "Unregelmige pluralformen (5)",
       "level": 5,
       "cards": 18,
       "sizeBytes": 10734,
       "updatedUtc": "2026-04-13T01:01:52.998138Z"
     },
     {
-      "file": "german_english/5_Verb_-_Futur_II.json",
-      "label": "Verb   Futur II (5)",
+      "file": "german_english/5_verb_-_futur_ii.json",
+      "label": "Verb   futur ii (5)",
       "level": 5,
       "cards": 29,
       "sizeBytes": 22976,
       "updatedUtc": "2026-10-04T01:29:06.315353Z"
     },
     {
-      "file": "german_english/5_Verb_-_Plusquamperfekt.json",
-      "label": "Verb   Plusquamperfekt (5)",
+      "file": "german_english/5_verb_-_plusquamperfekt.json",
+      "label": "Verb   plusquamperfekt (5)",
       "level": 5,
       "cards": 28,
       "sizeBytes": 22518,
@@ -9365,23 +8381,23 @@
       "updatedUtc": "2026-04-13T01:01:46.615591Z"
     },
     {
-      "file": "german_english/4._Stil_und_Mode.json",
-      "label": "4. Stil und Mode",
+      "file": "german_english/4._stil_und_mode.json",
+      "label": "4. stil und mode",
       "level": 9,
       "cards": 103,
       "sizeBytes": 59369,
       "updatedUtc": "2026-10-04T01:29:04.891447Z"
     },
     {
-      "file": "german_english/4._Vergangenheitsform_sein__bung.json",
-      "label": "4. Vergangenheitsform sein  bung",
+      "file": "german_english/4._vergangenheitsform_sein__bung.json",
+      "label": "4. vergangenheitsform sein  bung",
       "level": 9,
       "cards": 45,
       "sizeBytes": 32290,
       "updatedUtc": "2026-10-04T01:29:04.477434Z"
     },
     {
-      "file": "german_english/Adjektive.json",
+      "file": "german_english/adjektive.json",
       "label": "Adjektive",
       "level": 9,
       "cards": 1,
@@ -9389,7 +8405,7 @@
       "updatedUtc": "2026-04-13T01:01:47.743191Z"
     },
     {
-      "file": "german_english/_Tutorial.json",
+      "file": "german_english/_tutorial.json",
       "label": "Tutorial",
       "level": 9,
       "cards": 2,
@@ -9397,7 +8413,7 @@
       "updatedUtc": "2026-10-04T01:28:58.995227Z"
     },
     {
-      "file": "german_english/10_Berufe.json",
+      "file": "german_english/10_berufe.json",
       "label": "Berufe (10)",
       "level": 10,
       "cards": 39,
@@ -9405,8 +8421,8 @@
       "updatedUtc": "2026-10-04T01:29:06.593797Z"
     },
     {
-      "file": "german_english/10_Substantiv_-_in_einem_Haus.json",
-      "label": "Substantiv   in einem Haus (10)",
+      "file": "german_english/10_substantiv_-_in_einem_haus.json",
+      "label": "Substantiv   in einem haus (10)",
       "level": 10,
       "cards": 47,
       "sizeBytes": 30246,
@@ -9431,7 +8447,7 @@
       "updatedUtc": "2026-10-18T02:22:49.280704Z"
     },
     {
-      "file": "italian_english/1_Gramtica_bsica.json",
+      "file": "italian_english/1_gramtica_bsica.json",
       "label": "Gramtica bsica (1)",
       "level": 1,
       "cards": 16,
@@ -9495,7 +8511,7 @@
       "updatedUtc": "2026-10-18T02:22:53.712974Z"
     },
     {
-      "file": "italian_english/2_Animali_comuni.json",
+      "file": "italian_english/2_animali_comuni.json",
       "label": "Animali comuni (2)",
       "level": 2,
       "cards": 16,
@@ -9623,8 +8639,8 @@
       "updatedUtc": "2026-10-18T02:22:54.067181Z"
     },
     {
-      "file": "italian_english/3_Anncio_UNRWA.json",
-      "label": "Anncio UNRWA (3)",
+      "file": "italian_english/3_anncio_unrwa.json",
+      "label": "Anncio unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7508,
@@ -9791,7 +8807,7 @@
       "updatedUtc": "2026-10-18T02:22:55.332573Z"
     },
     {
-      "file": "italian_english/3_Verbi_-_comandi.json",
+      "file": "italian_english/3_verbi_-_comandi.json",
       "label": "Verbi   comandi (3)",
       "level": 3,
       "cards": 62,
@@ -9799,8 +8815,8 @@
       "updatedUtc": "2026-10-18T02:22:54.118082Z"
     },
     {
-      "file": "italian_english/3_Verbi_dazione_4.1_-_Frasi_al_futuro.json",
-      "label": "Verbi dazione 4.1   Frasi al futuro (3)",
+      "file": "italian_english/3_verbi_dazione_4.1_-_frasi_al_futuro.json",
+      "label": "Verbi dazione 4.1   frasi al futuro (3)",
       "level": 3,
       "cards": 90,
       "sizeBytes": 60274,
@@ -9815,8 +8831,8 @@
       "updatedUtc": "2026-10-18T02:22:55.652493Z"
     },
     {
-      "file": "italian_english/4_Anncio_GiveWell.json",
-      "label": "Anncio GiveWell (4)",
+      "file": "italian_english/4_anncio_givewell.json",
+      "label": "Anncio givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 13045,
@@ -9855,7 +8871,7 @@
       "updatedUtc": "2026-10-18T02:22:56.055037Z"
     },
     {
-      "file": "italian_english/4_Dialogo_-_primo_appuntamento.json",
+      "file": "italian_english/4_dialogo_-_primo_appuntamento.json",
       "label": "Dialogo   primo appuntamento (4)",
       "level": 4,
       "cards": 34,
@@ -9863,7 +8879,7 @@
       "updatedUtc": "2026-10-18T02:22:56.089260Z"
     },
     {
-      "file": "italian_english/4_Dialogo_-_tipica_riunione_di_lavoro.json",
+      "file": "italian_english/4_dialogo_-_tipica_riunione_di_lavoro.json",
       "label": "Dialogo   tipica riunione di lavoro (4)",
       "level": 4,
       "cards": 37,
@@ -9879,8 +8895,8 @@
       "updatedUtc": "2026-10-18T02:22:55.980510Z"
     },
     {
-      "file": "italian_english/4_go_(Present).json",
-      "label": "Go (Present) (4)",
+      "file": "italian_english/4_go_(present).json",
+      "label": "Go (present) (4)",
       "level": 4,
       "cards": 96,
       "sizeBytes": 67085,
@@ -9911,7 +8927,7 @@
       "updatedUtc": "2026-10-18T02:22:58.550979Z"
     },
     {
-      "file": "italian_english/4_Professioni.json",
+      "file": "italian_english/4_professioni.json",
       "label": "Professioni (4)",
       "level": 4,
       "cards": 40,
@@ -9951,8 +8967,8 @@
       "updatedUtc": "2026-10-18T02:22:56.609252Z"
     },
     {
-      "file": "italian_english/4_Racconto_breve_-_tempo_presente_-_Un_giorno_a_scuola.json",
-      "label": "Racconto breve   tempo presente   Un giorno a scuola (4)",
+      "file": "italian_english/4_racconto_breve_-_tempo_presente_-_un_giorno_a_scuola.json",
+      "label": "Racconto breve   tempo presente   un giorno a scuola (4)",
       "level": 4,
       "cards": 46,
       "sizeBytes": 29738,
@@ -9967,7 +8983,7 @@
       "updatedUtc": "2026-10-18T02:22:57.097016Z"
     },
     {
-      "file": "italian_english/4_Storia_breve_-_passato_-_vecchio_ricordo.json",
+      "file": "italian_english/4_storia_breve_-_passato_-_vecchio_ricordo.json",
       "label": "Storia breve   passato   vecchio ricordo (4)",
       "level": 4,
       "cards": 50,
@@ -10063,7 +9079,7 @@
       "updatedUtc": "2026-10-18T02:22:58.725179Z"
     },
     {
-      "file": "italian_english/5_Descrivi.json",
+      "file": "italian_english/5_descrivi.json",
       "label": "Descrivi (5)",
       "level": 5,
       "cards": 11,
@@ -10071,7 +9087,7 @@
       "updatedUtc": "2026-10-18T02:22:57.372664Z"
     },
     {
-      "file": "italian_english/5_Discorso_di_premiazione_-_linguaggio_condizionale.json",
+      "file": "italian_english/5_discorso_di_premiazione_-_linguaggio_condizionale.json",
       "label": "Discorso di premiazione   linguaggio condizionale (5)",
       "level": 5,
       "cards": 32,
@@ -10151,7 +9167,7 @@
       "updatedUtc": "2026-10-18T02:22:59.722768Z"
     },
     {
-      "file": "italian_english/5_Verbo_-_passato_prossimo.json",
+      "file": "italian_english/5_verbo_-_passato_prossimo.json",
       "label": "Verbo   passato prossimo (5)",
       "level": 5,
       "cards": 26,
@@ -10225,7 +9241,7 @@
       "updatedUtc": "2026-10-04T01:28:32.638916Z"
     },
     {
-      "file": "spanish_english/2_Adjetivos.json",
+      "file": "spanish_english/2_adjetivos.json",
       "label": "Adjetivos (2)",
       "level": 2,
       "cards": 5,
@@ -10281,7 +9297,7 @@
       "updatedUtc": "2026-10-04T01:28:33.501362Z"
     },
     {
-      "file": "spanish_english/2_Animales_comunes.json",
+      "file": "spanish_english/2_animales_comunes.json",
       "label": "Animales comunes (2)",
       "level": 2,
       "cards": 16,
@@ -10329,7 +9345,7 @@
       "updatedUtc": "2026-08-07T21:06:51.206134Z"
     },
     {
-      "file": "spanish_english/2_Frases_verbales_abstractas_1..json",
+      "file": "spanish_english/2_frases_verbales_abstractas_1..json",
       "label": "Frases verbales abstractas 1. (2)",
       "level": 2,
       "cards": 36,
@@ -10441,8 +9457,8 @@
       "updatedUtc": "2026-08-07T21:06:51.235340Z"
     },
     {
-      "file": "spanish_english/2_Verbos_de_accin_2.1_-_Frases_en_presente.json",
-      "label": "Verbos de accin 2.1   Frases en presente (2)",
+      "file": "spanish_english/2_verbos_de_accin_2.1_-_frases_en_presente.json",
+      "label": "Verbos de accin 2.1   frases en presente (2)",
       "level": 2,
       "cards": 18,
       "sizeBytes": 11877,
@@ -10457,8 +9473,8 @@
       "updatedUtc": "2026-08-07T21:06:53.043217Z"
     },
     {
-      "file": "spanish_english/3_Anuncio_UNRWA.json",
-      "label": "Anuncio UNRWA (3)",
+      "file": "spanish_english/3_anuncio_unrwa.json",
+      "label": "Anuncio unrwa (3)",
       "level": 3,
       "cards": 12,
       "sizeBytes": 7489,
@@ -10641,7 +9657,7 @@
       "updatedUtc": "2026-10-04T01:28:35.316848Z"
     },
     {
-      "file": "spanish_english/3_Pasado_simple_1_-_frases_sencillas.json",
+      "file": "spanish_english/3_pasado_simple_1_-_frases_sencillas.json",
       "label": "Pasado simple 1   frases sencillas (3)",
       "level": 3,
       "cards": 26,
@@ -10649,7 +9665,7 @@
       "updatedUtc": "2026-10-04T01:28:34.927268Z"
     },
     {
-      "file": "spanish_english/3_Pasado_simple_2_-_otras_formas.json",
+      "file": "spanish_english/3_pasado_simple_2_-_otras_formas.json",
       "label": "Pasado simple 2   otras formas (3)",
       "level": 3,
       "cards": 68,
@@ -10657,7 +9673,7 @@
       "updatedUtc": "2026-10-04T01:28:35.086240Z"
     },
     {
-      "file": "spanish_english/3_Pasado_simple_3_-_verbos_importantes_e_irregulares.json",
+      "file": "spanish_english/3_pasado_simple_3_-_verbos_importantes_e_irregulares.json",
       "label": "Pasado simple 3   verbos importantes e irregulares (3)",
       "level": 3,
       "cards": 37,
@@ -10705,16 +9721,16 @@
       "updatedUtc": "2026-10-04T01:28:34.323174Z"
     },
     {
-      "file": "spanish_english/3_Verbos_de_accin_3.1_-_Frases_en_pasado.json",
-      "label": "Verbos de accin 3.1   Frases en pasado (3)",
+      "file": "spanish_english/3_verbos_de_accin_3.1_-_frases_en_pasado.json",
+      "label": "Verbos de accin 3.1   frases en pasado (3)",
       "level": 3,
       "cards": 412,
       "sizeBytes": 265795,
       "updatedUtc": "2026-04-13T01:01:17.866849Z"
     },
     {
-      "file": "spanish_english/3_Verbos_de_accin_4.1_-_Frases_en_futuro.json",
-      "label": "Verbos de accin 4.1   Frases en futuro (3)",
+      "file": "spanish_english/3_verbos_de_accin_4.1_-_frases_en_futuro.json",
+      "label": "Verbos de accin 4.1   frases en futuro (3)",
       "level": 3,
       "cards": 90,
       "sizeBytes": 60765,
@@ -10729,8 +9745,8 @@
       "updatedUtc": "2026-04-13T01:01:19.136703Z"
     },
     {
-      "file": "spanish_english/4_Anuncio_GiveWell.json",
-      "label": "Anuncio GiveWell (4)",
+      "file": "spanish_english/4_anuncio_givewell.json",
+      "label": "Anuncio givewell (4)",
       "level": 4,
       "cards": 21,
       "sizeBytes": 13029,
@@ -10785,16 +9801,16 @@
       "updatedUtc": "2026-10-04T01:28:36.276364Z"
     },
     {
-      "file": "spanish_english/4_cuento_-_tiempo_presente_-_Un_da_en_la_escuela.json",
-      "label": "Cuento   tiempo presente   Un da en la escuela (4)",
+      "file": "spanish_english/4_cuento_-_tiempo_presente_-_un_da_en_la_escuela.json",
+      "label": "Cuento   tiempo presente   un da en la escuela (4)",
       "level": 4,
       "cards": 2,
       "sizeBytes": 1390,
       "updatedUtc": "2026-10-04T01:28:36.311708Z"
     },
     {
-      "file": "spanish_english/4_Cuento_corto_-_presente_-_Un_da_en_la_escuela.json",
-      "label": "Cuento corto   presente   Un da en la escuela (4)",
+      "file": "spanish_english/4_cuento_corto_-_presente_-_un_da_en_la_escuela.json",
+      "label": "Cuento corto   presente   un da en la escuela (4)",
       "level": 4,
       "cards": 41,
       "sizeBytes": 27106,
@@ -10849,7 +9865,7 @@
       "updatedUtc": "2026-10-04T01:28:35.851183Z"
     },
     {
-      "file": "spanish_english/4_Dilogo_-_primera_cita.json",
+      "file": "spanish_english/4_dilogo_-_primera_cita.json",
       "label": "Dilogo   primera cita (4)",
       "level": 4,
       "cards": 34,
@@ -10857,7 +9873,7 @@
       "updatedUtc": "2026-10-04T01:28:35.888733Z"
     },
     {
-      "file": "spanish_english/4_Dilogo_-_reunin_de_trabajo_tpica.json",
+      "file": "spanish_english/4_dilogo_-_reunin_de_trabajo_tpica.json",
       "label": "Dilogo   reunin de trabajo tpica (4)",
       "level": 4,
       "cards": 37,
@@ -10889,7 +9905,7 @@
       "updatedUtc": "2026-10-04T01:28:36.232512Z"
     },
     {
-      "file": "spanish_english/4_Historia_corta_-_pasado_-_vieja_reminiscencia.json",
+      "file": "spanish_english/4_historia_corta_-_pasado_-_vieja_reminiscencia.json",
       "label": "Historia corta   pasado   vieja reminiscencia (4)",
       "level": 4,
       "cards": 39,
@@ -10937,7 +9953,7 @@
       "updatedUtc": "2026-10-04T01:28:37.330963Z"
     },
     {
-      "file": "spanish_english/4_Prctica_de_verbos_de_movimiento_venir_ir_quedarse_etc..json",
+      "file": "spanish_english/4_prctica_de_verbos_de_movimiento_venir_ir_quedarse_etc..json",
       "label": "Prctica de verbos de movimiento venir ir quedarse etc. (4)",
       "level": 4,
       "cards": 250,
@@ -10953,7 +9969,7 @@
       "updatedUtc": "2026-10-04T01:28:36.064980Z"
     },
     {
-      "file": "spanish_english/4_Profesiones.json",
+      "file": "spanish_english/4_profesiones.json",
       "label": "Profesiones (4)",
       "level": 4,
       "cards": 40,
@@ -10985,7 +10001,7 @@
       "updatedUtc": "2026-10-04T01:28:36.700050Z"
     },
     {
-      "file": "spanish_english/5_Cmo_jardn.json",
+      "file": "spanish_english/5_cmo_jardn.json",
       "label": "Cmo jardn (5)",
       "level": 5,
       "cards": 151,
@@ -11009,7 +10025,7 @@
       "updatedUtc": "2026-10-04T01:28:37.304155Z"
     },
     {
-      "file": "spanish_english/5_Cmo_pescar.json",
+      "file": "spanish_english/5_cmo_pescar.json",
       "label": "Cmo pescar (5)",
       "level": 5,
       "cards": 56,
@@ -11017,7 +10033,7 @@
       "updatedUtc": "2026-10-04T01:28:36.859104Z"
     },
     {
-      "file": "spanish_english/5_Describe_la_imagen..json",
+      "file": "spanish_english/5_describe_la_imagen..json",
       "label": "Describe la imagen. (5)",
       "level": 5,
       "cards": 11,
@@ -11025,7 +10041,7 @@
       "updatedUtc": "2026-10-04T01:28:36.783746Z"
     },
     {
-      "file": "spanish_english/5_Discurso_de_entrega_de_premios_-_lenguaje_condicional.json",
+      "file": "spanish_english/5_discurso_de_entrega_de_premios_-_lenguaje_condicional.json",
       "label": "Discurso de entrega de premios   lenguaje condicional (5)",
       "level": 5,
       "cards": 32,
@@ -11153,7 +10169,7 @@
       "updatedUtc": "2026-10-04T01:28:38.017365Z"
     },
     {
-      "file": "spanish_english/5_Verbo_-_presente_perfecto.json",
+      "file": "spanish_english/5_verbo_-_presente_perfecto.json",
       "label": "Verbo   presente perfecto (5)",
       "level": 5,
       "cards": 26,
@@ -11161,24 +10177,24 @@
       "updatedUtc": "2026-10-04T01:28:38.033175Z"
     },
     {
-      "file": "spanish_english/1._Gramtica_bsica.json",
-      "label": "1. Gramtica bsica",
+      "file": "spanish_english/1._gramtica_bsica.json",
+      "label": "1. gramtica bsica",
       "level": 9,
       "cards": 16,
       "sizeBytes": 10500,
       "updatedUtc": "2026-10-04T01:28:31.244772Z"
     },
     {
-      "file": "spanish_english/4._Estilo_y_moda.json",
-      "label": "4. Estilo y moda",
+      "file": "spanish_english/4._estilo_y_moda.json",
+      "label": "4. estilo y moda",
       "level": 9,
       "cards": 103,
       "sizeBytes": 59476,
       "updatedUtc": "2026-10-04T01:28:36.572965Z"
     },
     {
-      "file": "spanish_english/4._Pasado_simple_del_verbo_to_be_-_prctica.json",
-      "label": "4. Pasado simple del verbo to be   prctica",
+      "file": "spanish_english/4._pasado_simple_del_verbo_to_be_-_prctica.json",
+      "label": "4. pasado simple del verbo to be   prctica",
       "level": 9,
       "cards": 45,
       "sizeBytes": 32356,
